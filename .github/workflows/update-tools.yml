@@ -19,7 +19,7 @@ jobs:
       - run: pip install feedparser requests
       - name: Ejecutar script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.ITACA }}
         run: python3 update_tools.py
       - name: Guardar cambios
         run: |
