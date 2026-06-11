@@ -1,0 +1,58 @@
+name: "Actualizar herramientas IA"
+
+on:
+  schedule:
+    - cron: "0 9 * * 0"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_tools.py'
+      - '.github/workflows/update-tools.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 📥 Clonar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 📦 Instalar dependencias
+        run: pip install feedparser requests
+
+      - name: 🔍 Buscar nuevas herramientas
+        run: python scripts/update_tools.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📊 Verificar cambios
+        id: check
+        run: |
+          if git diff --quiet herramientas.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "Sin cambios. No hay herramientas nuevas esta semana."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "¡Cambios detectados! Nuevas herramientas encontradas."
+          fi
+
+      - name: 💾 Commit y push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "Viaje a Ítaca (bot)"
+          git config user.email "bot@viajeaitaca.es"
+          git add herramientas.json
+          git commit -m "🤖 Auto-actualización: $(date +%Y-%m-%d)"
+          git push
