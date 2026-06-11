@@ -28,7 +28,7 @@ from pathlib import Path
 JSON_PATH = Path(__file__).parent.parent / "herramientas.json"
 MIN_FUNCIONES = 3  # Mínimo de funciones para considerar una herramienta válida
 DRY_RUN = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
-JSON_PATH = Path(__file__).parent.parent / "herramientas.json"
+JSON_PATH = Path(__file__).parent / "herramientas.json"
 # RSS feeds gratuitos (sin API key)
 RSS_FEEDS = [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
