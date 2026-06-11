@@ -3,8 +3,11 @@ on:
   schedule:
     - cron: "0 9 * * 0"
   workflow_dispatch:
+  issues:
+    types: [opened, labeled]
 permissions:
   contents: write
+  issues: write
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,8 +17,102 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install feedparser requests
-      - run: python update_tools.py
-      - run: |
+      - name: Buscar y actualizar
+        run: |
+          python3 << 'PYEOF'
+          import json, re, sys, hashlib, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          JSON_PATH = Path("herramientas.json")
+          if not JSON_PATH.exists():
+              print("ERROR: no se encontro herramientas.json")
+              sys.exit(1)
+
+          with open(JSON_PATH) as f:
+              herramientas = json.load(f)
+          print(f"Actuales: {len(herramientas)}")
+          ids = {h["id"] for h in herramientas}
+          nombres = [h["nombre"] for h in herramientas]
+
+          # RSS
+          try:
+              import feedparser
+              noticias = []
+              for url in [
+                  "https://techcrunch.com/category/artificial-intelligence/feed/",
+                  "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+                  "https://venturebeat.com/category/ai/feed/",
+                  "https://feeds.arstechnica.com/arstechnica/ai",
+              ]:
+                  try:
+                      feed = feedparser.parse(url)
+                      for e in feed.entries[:20]:
+                          noticias.append({"titulo":e.get("title",""),"resumen":re.sub(r'<[^>]+>','',e.get("summary",e.get("description",""))),"link":e.get("link","")})
+                  except: pass
+              print(f"Noticias RSS: {len(noticias)}")
+          except:
+              noticias = []
+              print("Sin RSS disponible")
+
+          # Detectar
+          patrones = [
+              r'(?:launches?|launched|releases?|released|introduces?|unveils?|unveiled|debuts?|announces?)\s+(?:the\s+)?(?:new\s+)?(?:AI\s+)?(?:tool|platform|assistant|model|app|startup|generator|chatbot)\s+(?:called|named|dubbed)?\s+["\u201c]?([A-Z][A-Za-z0-9\s\-\.]{3,40})["\u201d]?',
+              r'["\u201c]([A-Z][A-Za-z0-9\s\-\.]{3,40})["\u201d]\s*(?:,?\s*(?:a|the)\s+)?(?:new\s+)?(?:AI\s+)?(?:tool|platform|assistant|model|app|startup)',
+          ]
+          candidatos = []
+          for n in noticias:
+              texto = f"{n['titulo']} {n['resumen']}"
+              for p in patrones:
+                  for m in re.findall(p, texto, re.IGNORECASE):
+                      nombre = m.strip().strip('"').strip('\u201c').strip('\u201d')
+                      if 3 < len(nombre) < 50 and nombre.lower() not in ('the new','a new','this','that','with','from'):
+                          candidatos.append({"nombre":nombre,"titulo":n["titulo"],"resumen":n["resumen"][:300],"link":n.get("link","")})
+
+          vistos = set()
+          unicos = []
+          for c in candidatos:
+              k = c["nombre"].lower()
+              if k not in vistos and k not in [n.lower() for n in nombres]:
+                  vistos.add(k); unicos.append(c)
+          print(f"Candidatos: {len(unicos)}")
+
+          # Crear herramientas
+          nuevas = []
+          for c in unicos:
+              ctx = (c.get("titulo","") + " " + c.get("resumen","")).lower()
+              gratis = any(w in ctx for w in ["free","gratis","gratuito","open source"])
+              pago = any(w in ctx for w in ["paid","pago","subscription","premium","plan","$"])
+              precio = "Gratuito" if (gratis and not pago) else ("Pago" if (pago and not gratis) else "Freemium")
+              h = {
+                  "id":re.sub(r'[^a-z0-9]','-',c["nombre"].lower().strip())+"-"+hashlib.md5(c["nombre"].encode()).hexdigest()[:6],
+                  "nombre":c["nombre"],"compania":"Desconocida","tipo":"Otros",
+                  "precio":precio,"gratis":gratis or precio=="Freemium",
+                  "pago":pago or precio=="Freemium","web":c.get("link",""),
+                  "descripcion":f"Nueva herramienta detectada. {c.get('resumen','')[:180]}",
+                  "funciones":["Pendiente de revision"],
+                  "caracteristicas":["Deteccion automatica"],
+                  "etica":"Informacion pendiente.",
+                  "fecha_agregado":datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                  "auto_detectado":True
+              }
+              if h["id"] not in ids:
+                  nuevas.append(h); ids.add(h["id"])
+
+          print(f"Nuevas: {len(nuevas)}")
+          if nuevas:
+              for h in nuevas:
+                  print(f"  + {h['nombre']} [{h['precio']}]")
+              herramientas.extend(nuevas)
+              with open(JSON_PATH,"w",encoding="utf-8") as f:
+                  json.dump(herramientas,f,ensure_ascii=False,indent=2)
+              print(f"JSON actualizado: {len(herramientas)} herramientas")
+          else:
+              print("Sin herramientas nuevas esta semana")
+          print(f"Total: {len(herramientas)}")
+          PYEOF
+      - name: Guardar cambios
+        run: |
           git config user.name "Viaje a Itaca"
           git config user.email "bot@viajeaitaca.es"
           git add herramientas.json
