@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install feedparser requests
-      - run: python scripts/update_tools.py
+      - run: python update_tools.py
       - run: |
           git config user.name "Viaje a Itaca"
           git config user.email "bot@viajeaitaca.es"
