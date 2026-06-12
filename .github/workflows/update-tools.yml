@@ -47,9 +47,10 @@ jobs:
           ftp.login(os.environ['FTP_USER'], os.environ['FTP_PASS'])
           ftp.prot_p()
           ftp.cwd('htdocs/data')
-          for f in ['herramientas.js', 'herramientas.json']:
+          for f in ['data/herramientas.js', 'data/herramientas.json']:
               with open(f, 'rb') as fh:
-                  ftp.storbinary(f'STOR {f}', fh)
+                  nombre = f.split('/')[-1]
+                  ftp.storbinary(f'STOR {nombre}', fh)
               print(f'  Subido: {f}')
           ftp.quit()
           print('FTP completado')
