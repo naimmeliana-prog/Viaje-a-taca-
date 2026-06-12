@@ -4,12 +4,39 @@ from pathlib import Path
 
 J=Path(__file__).parent/"herramientas.json"
 G=os.environ.get("GEMINI_API_KEY","")
+MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
 
 if not J.exists():print("ERROR: no json");sys.exit(1)
 with open(J) as f:t=json.load(f)
 print(f"Actuales: {len(t)}")
 ids={h["id"] for h in t}
 nombres=[h["nombre"] for h in t]
+
+# MODO PRUEBA
+if MODO_PRUEBA:
+    fake={
+        "id":"test-herramienta-"+datetime.now(timezone.utc).strftime("%Y%m%d%H%M"),
+        "nombre":"Herramienta de Prueba "+datetime.now(timezone.utc).strftime("%d/%m %H:%M"),
+        "compania":"Viaje a Itaca (prueba)",
+        "tipo":"Chatbot / Asistente",
+        "precio":"Gratuito",
+        "gratis":True,
+        "pago":False,
+        "web":"https://viajeaitaca.great-site.net",
+        "descripcion":"Herramienta de prueba. Confirma que el sistema funciona.",
+        "funciones":["Verificar funcionamiento","Modo prueba"],
+        "caracteristicas":["Generada por el sistema","Se elimina al siguiente ciclo sin prueba"],
+        "etica":"Herramienta de prueba. Sin implicaciones eticas.",
+        "fecha_agregado":datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "auto_detectado":True,
+        "es_prueba":True
+    }
+    t=[h for h in t if not h.get("es_prueba")]
+    t.append(fake)
+    with open(J,"w",encoding="utf-8") as f:json.dump(t,f,ensure_ascii=False,indent=2)
+    print(f"MODO PRUEBA: anadida herramienta falsa. Total: {len(t)}")
+    print(f"   Nombre: {fake['nombre']}")
+    sys.exit(0)
 
 try:
  import feedparser
@@ -55,7 +82,7 @@ if G and n:
   print(f"Error Gemini: {ex}")
 
 if not c:
- print("🔍 Heuristicas...")
+ print("Heuristicas...")
  ps=[
   r'(?:launches?|launched|releases?|released|introduces?|unveils?)\s+(?:the\s+)?(?:new\s+)?(?:AI\s+)?(?:tool|platform|assistant|model|app)\s+(?:called|named)?\s+\u201c?([A-Z][A-Za-z0-9\s\-\.]{3,40})\u201d?',
   r'\u201c([A-Z][A-Za-z0-9\s\-\.]{3,40})\u201d\s*(?:,?\s*(?:a|the)\s+)?(?:new\s+)?(?:AI\s+)?(?:tool|platform)',
@@ -103,5 +130,5 @@ if new:
  with open(J,"w",encoding="utf-8") as f:json.dump(t,f,ensure_ascii=False,indent=2)
  print(f"JSON: {len(t)} herramientas")
 else:
- print("Sin novedades esta semana")
+ print("Sin novedades")
 print(f"Total: {len(t)}")
