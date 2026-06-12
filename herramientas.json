@@ -960,5 +960,28 @@
       "Hub central de IA open-source"
     ],
     "etica": "Pilar fundamental de la democratización de la IA. Promueve la transparencia y la ciencia abierta. Sostenibilidad económica en debate."
+  },
+  {
+    "id": "test-herramienta-202606120411",
+    "nombre": "Herramienta de Prueba 12/06 04:11",
+    "compania": "Viaje a Itaca (prueba)",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Gratuito",
+    "gratis": true,
+    "pago": false,
+    "web": "https://viajeaitaca.great-site.net",
+    "descripcion": "Herramienta de prueba. Confirma que el sistema funciona.",
+    "funciones": [
+      "Verificar funcionamiento",
+      "Modo prueba"
+    ],
+    "caracteristicas": [
+      "Generada por el sistema",
+      "Se elimina al siguiente ciclo sin prueba"
+    ],
+    "etica": "Herramienta de prueba. Sin implicaciones eticas.",
+    "fecha_agregado": "2026-06-12",
+    "auto_detectado": true,
+    "es_prueba": true
   }
 ]
