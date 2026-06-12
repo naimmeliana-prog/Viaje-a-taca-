@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       modo_prueba:
-        description: "Activar modo prueba (añade herramienta falsa)"
+        description: "Activar modo prueba"
         required: false
         default: "0"
         type: choice
@@ -23,14 +23,34 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install feedparser requests
-      - name: Ejecutar script
+      - name: Buscar herramientas
         env:
           GEMINI_API_KEY: ${{ secrets.ITACA }}
           MODO_PRUEBA: ${{ inputs.modo_prueba || '0' }}
         run: python3 update_tools.py
-      - name: Guardar cambios
+      - name: Guardar en GitHub
         run: |
           git config user.name "Viaje a Itaca"
           git config user.email "bot@viajeaitaca.es"
           git add herramientas.json
           git diff --cached --quiet || git commit -m "Actualizacion" && git push
+      - name: Subir a InfinityFree
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+        run: |
+          python3 -c "
+          import ftplib, os
+          ftp = ftplib.FTP_TLS()
+          ftp.connect(os.environ['FTP_HOST'], 21, timeout=20)
+          ftp.login(os.environ['FTP_USER'], os.environ['FTP_PASS'])
+          ftp.prot_p()
+          ftp.cwd('htdocs/data')
+          for f in ['herramientas.js', 'herramientas.json']:
+              with open(f, 'rb') as fh:
+                  ftp.storbinary(f'STOR {f}', fh)
+              print(f'  Subido: {f}')
+          ftp.quit()
+          print('FTP completado')
+          "
