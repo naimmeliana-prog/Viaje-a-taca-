@@ -43,9 +43,9 @@ try:
  n=[]
  for u in [
   "https://techcrunch.com/category/artificial-intelligence/feed/",
-  "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
   "https://venturebeat.com/category/ai/feed/",
-  "https://feeds.arstechnica.com/arstechnica/ai"
+  "https://www.artificialintelligence-news.com/feed/",
+  "https://www.theregister.com/software/ai_ml/headlines.atom"
  ]:
   try:
    f=feedparser.parse(u)
