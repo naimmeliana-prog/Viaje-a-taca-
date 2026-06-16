@@ -8,6 +8,7 @@ MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
 
 if not J.exists():print("ERROR: no json");sys.exit(1)
 with open(J) as f:t=json.load(f)
+t=[h for h in t if not h.get("es_prueba")]
 print(f"Actuales: {len(t)}")
 ids={h["id"] for h in t}
 nombres=[h["nombre"] for h in t]
