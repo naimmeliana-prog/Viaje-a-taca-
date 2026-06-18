@@ -1216,5 +1216,74 @@
       "Integración Git nativa"
     ],
     "etica": "Producto de Anthropic (B-Corp). Mismo enfoque ético que Claude. Al ser de pago por API, puede resultar costoso en uso intensivo."
+  },
+  {
+    "nombre": "Site",
+    "ti": "Encontrado en https://www.futuretools.io/",
+    "re": "",
+    "li": "https://www.futuretools.io/",
+    "precio": "Freemium",
+    "descripcion": "Nueva herramienta. ",
+    "funciones": [
+      "Pendiente"
+    ],
+    "caracteristicas": [
+      "Automatico"
+    ],
+    "etica": "Info pendiente.",
+    "web": "https://www.futuretools.io/",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "site-a7d647",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-18",
+    "auto_detectado": true
+  },
+  {
+    "nombre": "Social",
+    "ti": "Encontrado en https://www.futuretools.io/",
+    "re": "",
+    "li": "https://www.futuretools.io/",
+    "precio": "Freemium",
+    "descripcion": "Nueva herramienta. ",
+    "funciones": [
+      "Pendiente"
+    ],
+    "caracteristicas": [
+      "Automatico"
+    ],
+    "etica": "Info pendiente.",
+    "web": "https://www.futuretools.io/",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "social-f431e1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-18",
+    "auto_detectado": true
+  },
+  {
+    "nombre": "Legal",
+    "ti": "Encontrado en https://www.futuretools.io/",
+    "re": "",
+    "li": "https://www.futuretools.io/",
+    "precio": "Freemium",
+    "descripcion": "Nueva herramienta. ",
+    "funciones": [
+      "Pendiente"
+    ],
+    "caracteristicas": [
+      "Automatico"
+    ],
+    "etica": "Info pendiente.",
+    "web": "https://www.futuretools.io/",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "legal-a10a9b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-18",
+    "auto_detectado": true
   }
 ]
