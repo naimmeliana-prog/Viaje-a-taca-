@@ -1,0 +1,357 @@
+{
+  "actualizado": "2026-06-20T15:01:23Z",
+  "novedades": [
+    {
+      "titulo": "OpenAI's Codex can now watch you work once and repeat the task forever",
+      "resumen": "OpenAI has released the \"Record &#038; Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available",
+      "enlace": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-20T13:15:08Z"
+    },
+    {
+      "titulo": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+      "resumen": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure",
+      "enlace": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-20T12:26:57Z"
+    },
+    {
+      "titulo": "4 easy tweaks you can make to your TV soundbar for more immersive audio",
+      "resumen": "Some of your favorite soundbar settings for music and movies aren't compatible with live sports broadcasts. Here's my fix.",
+      "enlace": "https://www.zdnet.com/article/soundbar-settings-sports-tips/",
+      "medio": "Latest news",
+      "fecha": "2026-06-20T12:00:41Z"
+    },
+    {
+      "titulo": "I made 7 changes to my Android Auto setup for better functionality when I'm driving",
+      "resumen": "You can customize Android Auto to make it more tailored to your ideal driving experience - all in just minutes.",
+      "enlace": "https://www.zdnet.com/article/android-auto-6-ways-to-customize/",
+      "medio": "Latest news",
+      "fecha": "2026-06-20T11:00:51Z"
+    },
+    {
+      "titulo": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "resumen": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "enlace": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "medio": "Feed: Artificial Intelligence Latest",
+      "fecha": "2026-06-20T10:00:00Z"
+    },
+    {
+      "titulo": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
+      "resumen": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 per",
+      "enlace": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-20T09:51:55Z"
+    },
+    {
+      "titulo": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
+      "resumen": "In this article we look at YaFF, Yandex's open-source zero-copy wire format for the Protobuf ecosystem. We keep the .proto file as the single source of truth, changing only how data sits in memory. We walk through its fo",
+      "enlace": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+      "medio": "MarkTechPost",
+      "fecha": "2026-06-20T09:23:59Z"
+    },
+    {
+      "titulo": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+      "resumen": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based ",
+      "enlace": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+      "medio": "MarkTechPost",
+      "fecha": "2026-06-20T09:05:23Z"
+    },
+    {
+      "titulo": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
+      "resumen": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected app",
+      "enlace": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-20T08:44:19Z"
+    },
+    {
+      "titulo": "OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there",
+      "resumen": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billion. With $73 billion",
+      "enlace": "https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-20T08:02:07Z"
+    },
+    {
+      "titulo": "Are you in the Weights?",
+      "resumen": "Find out if you live forever in the brain of the LLMs Discussion | Link",
+      "enlace": "https://www.producthunt.com/products/are-you-in-the-weights",
+      "medio": "Product Hunt — The best new products, ev",
+      "fecha": "2026-06-20T00:56:01Z"
+    },
+    {
+      "titulo": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
+      "resumen": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning The post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the ",
+      "enlace": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
+      "medio": "MarkTechPost",
+      "fecha": "2026-06-19T22:51:59Z"
+    },
+    {
+      "titulo": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+      "resumen": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "enlace": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T22:40:14Z"
+    },
+    {
+      "titulo": "This HP Omen gaming laptop is $700 off on Amazon - and it's a serious powerhouse",
+      "resumen": "HP's Omen gaming laptop has dropped to $1,599, making it a great early deal for gamers on a budget.",
+      "enlace": "https://www.zdnet.com/article/hp-omen-gaming-laptop-amazon-prime-day-deal-2026/",
+      "medio": "Latest news",
+      "fecha": "2026-06-19T22:39:00Z"
+    },
+    {
+      "titulo": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
+      "resumen": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks. The post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal P",
+      "enlace": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/",
+      "medio": "MarkTechPost",
+      "fecha": "2026-06-19T22:06:31Z"
+    },
+    {
+      "titulo": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
+      "resumen": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision. Prime Minist",
+      "enlace": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-19T18:45:10Z"
+    },
+    {
+      "titulo": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
+      "resumen": "Nobel Prize winner John Jumper is leaving Google Deepmind for Anthropic after nearly nine years. Days earlier, Gemini co-lead Noam Shazeer left for OpenAI. Weeks before that, AlphaGo researcher David Silver started his o",
+      "enlace": "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-19T17:54:14Z"
+    },
+    {
+      "titulo": "Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company",
+      "resumen": "Amazon MGM Studios has dropped \"Artificial,\" the nearly finished OpenAI film directed by Luca Guadagnino with Andrew Garfield as Sam Altman. Amazon struck a $50 billion partnership with OpenAI in February. According to a",
+      "enlace": "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-19T17:14:33Z"
+    },
+    {
+      "titulo": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
+      "enlace": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T16:08:17Z"
+    },
+    {
+      "titulo": "Basedash Access Controls",
+      "resumen": "Control exactly who can access your company data Discussion | Link",
+      "enlace": "https://www.producthunt.com/products/basedash",
+      "medio": "Product Hunt — The best new products, ev",
+      "fecha": "2026-06-19T16:05:30Z"
+    },
+    {
+      "titulo": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
+      "enlace": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T16:01:03Z"
+    },
+    {
+      "titulo": "Billionaire Ambani wants AI in every call, app, and home",
+      "resumen": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "enlace": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T15:23:28Z"
+    },
+    {
+      "titulo": "The Ninja Creami just dropped to an all time low price for Prime Day - and I recommend one",
+      "resumen": "Make your own ice cream, gelato, sorbet, and smoothie bowls with the Ninja Creami, now 22% off for Amazon Prime Day.",
+      "enlace": "https://www.zdnet.com/article/ninja-creami-amazon-prime-day-2026-deal/",
+      "medio": "Latest news",
+      "fecha": "2026-06-19T15:21:00Z"
+    },
+    {
+      "titulo": "More people get news from AI chatbots, but trust remains low",
+      "resumen": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original ",
+      "enlace": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-19T14:42:25Z"
+    },
+    {
+      "titulo": "The film about Sam Altman has been dropped by Amazon MGM",
+      "resumen": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's terminatio",
+      "enlace": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "medio": "AI | The Verge",
+      "fecha": "2026-06-19T14:15:29Z"
+    },
+    {
+      "titulo": "SAP and Google Cloud deploy agentic commerce architecture",
+      "resumen": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for reta",
+      "enlace": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "medio": "AI News",
+      "fecha": "2026-06-19T14:02:20Z"
+    },
+    {
+      "titulo": "New benchmark exposes how badly AI struggles with real knowledge work",
+      "resumen": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
+      "enlace": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-19T13:50:55Z"
+    },
+    {
+      "titulo": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "resumen": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "enlace": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T13:00:00Z"
+    },
+    {
+      "titulo": "The Download: AI bottleneck debates, and BCI trials take off",
+      "resumen": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLM",
+      "enlace": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "medio": "MIT Technology Review",
+      "fecha": "2026-06-19T12:10:00Z"
+    },
+    {
+      "titulo": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio",
+      "resumen": "Air travel is the true test for ANC headphones and earbuds. My multiple journeys revealed key strengths and weaknesses of the latest models.",
+      "enlace": "https://www.zdnet.com/article/i-traveled-with-4-headphones-this-pair-was-the-best/",
+      "medio": "Latest news",
+      "fecha": "2026-06-19T12:00:54Z"
+    }
+  ],
+  "etica": [
+    {
+      "titulo": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+      "resumen": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure",
+      "enlace": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-20T12:26:57Z"
+    },
+    {
+      "titulo": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
+      "resumen": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision. Prime Minist",
+      "enlace": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
+      "medio": "The Decoder",
+      "fecha": "2026-06-19T18:45:10Z"
+    },
+    {
+      "titulo": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
+      "enlace": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T16:08:17Z"
+    },
+    {
+      "titulo": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
+      "enlace": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T16:01:03Z"
+    },
+    {
+      "titulo": "Billionaire Ambani wants AI in every call, app, and home",
+      "resumen": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "enlace": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-19T15:23:28Z"
+    },
+    {
+      "titulo": "SpaceX wants to build AI data centers in space. Will it work?",
+      "resumen": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges fa",
+      "enlace": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "medio": "Artificial Intelligence News -- ScienceD",
+      "fecha": "2026-06-19T03:43:09Z"
+    },
+    {
+      "titulo": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+      "resumen": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+      "enlace": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+      "medio": "Feed: Artificial Intelligence Latest",
+      "fecha": "2026-06-18T19:29:51Z"
+    },
+    {
+      "titulo": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "resumen": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+      "enlace": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-18T18:22:13Z"
+    },
+    {
+      "titulo": "AI data centers just got a government-mandated fast lane to the grid",
+      "resumen": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "enlace": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "medio": "AI News & Artificial Intelligence | Tech",
+      "fecha": "2026-06-18T17:49:23Z"
+    },
+    {
+      "titulo": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+      "resumen": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+      "enlace": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+      "medio": "Feed: Artificial Intelligence Latest",
+      "fecha": "2026-06-18T16:03:27Z"
+    },
+    {
+      "titulo": "Amazon employees say they’re facing termination for backing data center limits",
+      "resumen": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political sp",
+      "enlace": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "medio": "AI | The Verge",
+      "fecha": "2026-06-18T16:00:00Z"
+    },
+    {
+      "titulo": "HSBC expands AI banking partnership with Google Cloud",
+      "resumen": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wea",
+      "enlace": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "medio": "AI News",
+      "fecha": "2026-06-18T10:00:00Z"
+    },
+    {
+      "titulo": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+      "resumen": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+      "enlace": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+      "medio": "Feed: Artificial Intelligence Latest",
+      "fecha": "2026-06-17T18:25:35Z"
+    },
+    {
+      "titulo": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "resumen": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty",
+      "enlace": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "medio": "AI | The Verge",
+      "fecha": "2026-06-17T16:27:00Z"
+    },
+    {
+      "titulo": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "resumen": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+      "enlace": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "medio": "AI - Ars Technica",
+      "fecha": "2026-06-16T22:22:44Z"
+    },
+    {
+      "titulo": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+      "resumen": "The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European",
+      "enlace": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "medio": "AI News",
+      "fecha": "2026-06-16T10:00:00Z"
+    },
+    {
+      "titulo": "Killer robots are here – we must finally decide whether to accept them",
+      "resumen": "We can no longer ignore the growing threat of fully autonomous weapons. The world must either act to ban them or accept that they are the future of war",
+      "enlace": "https://www.newscientist.com/article/2530304-killer-robots-are-here-we-must-finally-decide-whether-to-accept-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=artificial-intelligence",
+      "medio": "New Scientist - Artificial intelligence",
+      "fecha": "2026-06-12T16:55:05Z"
+    },
+    {
+      "titulo": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
+      "resumen": "Article URL: https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/ Comments URL: https://news.ycombinator.com/item?id=48459561 Points: 1 # Comments: 0",
+      "enlace": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "medio": "Hacker News - Newest: \"AI tool\"",
+      "fecha": "2026-06-09T11:17:57Z"
+    },
+    {
+      "titulo": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "resumen": "",
+      "enlace": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "medio": "Hugging Face - Blog",
+      "fecha": "2026-06-09T00:00:00Z"
+    },
+    {
+      "titulo": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+      "resumen": "Article URL: https://www.bbc.com/news/articles/cm2p3j6lvn7o Comments URL: https://news.ycombinator.com/item?id=48423114 Points: 3 # Comments: 0",
+      "enlace": "https://www.bbc.com/news/articles/cm2p3j6lvn7o",
+      "medio": "Hacker News - Newest: \"AI tool\"",
+      "fecha": "2026-06-06T09:35:04Z"
+    }
+  ]
+}
