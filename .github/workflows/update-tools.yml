@@ -1,0 +1,73 @@
+name: Actualizar herramientas IA
+on:
+  schedule:
+    # Cada 2 días a las 09:00 UTC. Nota: GitHub usa días del mes con */2,
+    # así que en el cambio de mes el hueco puede ser de 1 día. Es aceptable.
+    - cron: "0 9 */2 * *"
+  workflow_dispatch:
+    inputs:
+      modo_prueba:
+        description: "Activar modo prueba"
+        required: false
+        default: "0"
+        type: choice
+        options:
+          - "0"
+          - "1"
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      FTP_HOST: ${{ secrets.FTP_HOST }}
+      FTP_USER: ${{ secrets.FTP_USER }}
+      FTP_PASS: ${{ secrets.FTP_PASS }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser requests
+
+      - name: Buscar herramientas
+        env:
+          GEMINI_API_KEY: ${{ secrets.ITACA }}
+          MODO_PRUEBA: ${{ inputs.modo_prueba || '0' }}
+        run: python3 update_tools.py
+
+      # Regenera data/herramientas.js a partir del JSON, sin tocar el
+      # cargador (mantiene URLs, intervalo y toda la lógica de actualización).
+      - name: Regenerar data/herramientas.js
+        run: python3 build_js.py
+
+      - name: Guardar en GitHub
+        run: |
+          git config user.name "Viaje a Itaca"
+          git config user.email "bot@viajeaitaca.es"
+          git add herramientas.json data/herramientas.js
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "Actualizacion automatica del catalogo"
+            git push
+          fi
+
+      - name: Subir a InfinityFree (JSON + JS)
+        if: ${{ env.FTP_HOST != '' }}
+        run: |
+          python3 -c "
+          import ftplib, os
+          ftp = ftplib.FTP_TLS()
+          ftp.connect(os.environ['FTP_HOST'], 21, timeout=30)
+          ftp.login(os.environ['FTP_USER'], os.environ['FTP_PASS'])
+          ftp.prot_p()
+          ftp.cwd('htdocs/data')
+          for nombre in ('herramientas.json', 'data/herramientas.js'):
+              local = nombre
+              remoto = os.path.basename(nombre)
+              with open(local, 'rb') as f:
+                  ftp.storbinary('STOR ' + remoto, f)
+              print('Subido a InfinityFree:', remoto)
+          ftp.quit()
+          "
