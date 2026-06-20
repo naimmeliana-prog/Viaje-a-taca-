@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-20T15:01:23Z",
+  "actualizado": "2026-06-20T15:08:53Z",
   "novedades": [
     {
       "titulo": "OpenAI's Codex can now watch you work once and repeat the task forever",
@@ -44,20 +44,6 @@
       "fecha": "2026-06-20T09:51:55Z"
     },
     {
-      "titulo": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
-      "resumen": "In this article we look at YaFF, Yandex's open-source zero-copy wire format for the Protobuf ecosystem. We keep the .proto file as the single source of truth, changing only how data sits in memory. We walk through its fo",
-      "enlace": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
-      "medio": "MarkTechPost",
-      "fecha": "2026-06-20T09:23:59Z"
-    },
-    {
-      "titulo": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
-      "resumen": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based ",
-      "enlace": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-      "medio": "MarkTechPost",
-      "fecha": "2026-06-20T09:05:23Z"
-    },
-    {
       "titulo": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
       "resumen": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected app",
       "enlace": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
@@ -79,13 +65,6 @@
       "fecha": "2026-06-20T00:56:01Z"
     },
     {
-      "titulo": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
-      "resumen": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning The post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the ",
-      "enlace": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
-      "medio": "MarkTechPost",
-      "fecha": "2026-06-19T22:51:59Z"
-    },
-    {
       "titulo": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
       "resumen": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
       "enlace": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
@@ -98,13 +77,6 @@
       "enlace": "https://www.zdnet.com/article/hp-omen-gaming-laptop-amazon-prime-day-deal-2026/",
       "medio": "Latest news",
       "fecha": "2026-06-19T22:39:00Z"
-    },
-    {
-      "titulo": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
-      "resumen": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks. The post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal P",
-      "enlace": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/",
-      "medio": "MarkTechPost",
-      "fecha": "2026-06-19T22:06:31Z"
     },
     {
       "titulo": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
@@ -177,13 +149,6 @@
       "fecha": "2026-06-19T14:15:29Z"
     },
     {
-      "titulo": "SAP and Google Cloud deploy agentic commerce architecture",
-      "resumen": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for reta",
-      "enlace": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-      "medio": "AI News",
-      "fecha": "2026-06-19T14:02:20Z"
-    },
-    {
       "titulo": "New benchmark exposes how badly AI struggles with real knowledge work",
       "resumen": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
       "enlace": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
@@ -210,6 +175,41 @@
       "enlace": "https://www.zdnet.com/article/i-traveled-with-4-headphones-this-pair-was-the-best/",
       "medio": "Latest news",
       "fecha": "2026-06-19T12:00:54Z"
+    },
+    {
+      "titulo": "Pixlie",
+      "resumen": "AI video studio: text & image to video, with real control Discussion | Link",
+      "enlace": "https://www.producthunt.com/products/pixlie",
+      "medio": "Product Hunt — The best new products, ev",
+      "fecha": "2026-06-19T11:37:24Z"
+    },
+    {
+      "titulo": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
+      "resumen": "Article URL: https://ideavault-alpha.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48597336 Points: 3 # Comments: 0",
+      "enlace": "https://ideavault-alpha.vercel.app/",
+      "medio": "Hacker News - Newest: \"AI tool\"",
+      "fecha": "2026-06-19T11:21:58Z"
+    },
+    {
+      "titulo": "The weirdest Bluetooth tracker I've tested also has one big advantage over the AirTag",
+      "resumen": "The Ugreen FineTrack 2 has several unique features that set it apart from competing trackers. Just look at it!",
+      "enlace": "https://www.zdnet.com/article/ugreen-finetrack-2-tracker-tag-review/",
+      "medio": "Latest news",
+      "fecha": "2026-06-19T11:01:10Z"
+    },
+    {
+      "titulo": "5 reasons I'm using Android Auto instead of my car's own infotainment system - and can't go back",
+      "resumen": "Your car's built-in screen may look modern, but Android Auto is still the easier, smarter way to drive. Here's why.",
+      "enlace": "https://www.zdnet.com/article/reasons-to-use-android-auto-over-your-car-infotainment-system/",
+      "medio": "Latest news",
+      "fecha": "2026-06-19T11:00:47Z"
+    },
+    {
+      "titulo": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "resumen": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. T",
+      "enlace": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "medio": "MIT Technology Review",
+      "fecha": "2026-06-19T10:40:24Z"
     }
   ],
   "etica": [
@@ -291,13 +291,6 @@
       "fecha": "2026-06-18T16:00:00Z"
     },
     {
-      "titulo": "HSBC expands AI banking partnership with Google Cloud",
-      "resumen": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wea",
-      "enlace": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
-      "medio": "AI News",
-      "fecha": "2026-06-18T10:00:00Z"
-    },
-    {
       "titulo": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
       "resumen": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
       "enlace": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
@@ -317,13 +310,6 @@
       "enlace": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
       "medio": "AI - Ars Technica",
       "fecha": "2026-06-16T22:22:44Z"
-    },
-    {
-      "titulo": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
-      "resumen": "The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European",
-      "enlace": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
-      "medio": "AI News",
-      "fecha": "2026-06-16T10:00:00Z"
     },
     {
       "titulo": "Killer robots are here – we must finally decide whether to accept them",
@@ -352,6 +338,20 @@
       "enlace": "https://www.bbc.com/news/articles/cm2p3j6lvn7o",
       "medio": "Hacker News - Newest: \"AI tool\"",
       "fecha": "2026-06-06T09:35:04Z"
+    },
+    {
+      "titulo": "WorkClaw",
+      "resumen": "Collaborative, proactive AI coworkers who work in Slack Discussion | Link",
+      "enlace": "https://www.producthunt.com/products/workclaw",
+      "medio": "Product Hunt — The best new products, ev",
+      "fecha": "2026-05-28T14:08:40Z"
+    },
+    {
+      "titulo": "New rules confirm public has a right to see how UK government uses AI",
+      "resumen": "Government departments and other public bodies in the UK must consider requests to release information about AI-produced content, regulators have confirmed. The move follows a successful request by New Scientist for the ",
+      "enlace": "https://www.newscientist.com/article/2526397-new-rules-confirm-public-has-a-right-to-see-how-uk-government-uses-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=artificial-intelligence",
+      "medio": "New Scientist - Artificial intelligence",
+      "fecha": "2026-05-13T12:00:25Z"
     }
   ]
 }
