@@ -52,7 +52,7 @@ jobs:
         run: |
           git config user.name "Viaje a Itaca"
           git config user.email "bot@viajeaitaca.es"
-          git add herramientas.json data/herramientas.js
+          git add herramientas.json data/herramientas.js noticias.json
           if git diff --cached --quiet; then
             echo "Sin cambios que commitear."
           else
@@ -70,7 +70,7 @@ jobs:
           ftp.login(os.environ['FTP_USER'], os.environ['FTP_PASS'])
           ftp.prot_p()
           ftp.cwd('htdocs/data')
-          for nombre in ('herramientas.json', 'data/herramientas.js'):
+          for nombre in ('herramientas.json', 'data/herramientas.js', 'noticias.json'):
               local = nombre
               remoto = os.path.basename(nombre)
               with open(local, 'rb') as f:
