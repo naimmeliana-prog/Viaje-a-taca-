@@ -56,7 +56,7 @@ jobs:
       - name: Subir a InfinityFree (JSON + JS)
         if: ${{ env.FTP_HOST != '' }}
         run: |
-          python3 -c " 
+          python3 -c "
           import ftplib, os
           ftp = ftplib.FTP_TLS()
           ftp.connect(os.environ['FTP_HOST'], 21, timeout=30)
