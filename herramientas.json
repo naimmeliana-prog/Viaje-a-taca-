@@ -256,6 +256,37 @@
     "etica": "Modelos parcialmente abiertos. Preocupaciones sobre procedencia de datos de entrenamiento y posible censura alineada con regulación china. Cuestiones geopolíticas."
   },
   {
+    "id": "glm",
+    "nombre": "GLM (Z.ai)",
+    "compania": "Zhipu AI (Z.ai, China)",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "gratis": true,
+    "pago": true,
+    "web": "https://chat.z.ai",
+    "descripcion": "Familia de modelos de la china Zhipu AI (marca internacional Z.ai). Su buque insignia GLM-5.2 destaca en razonamiento y programación agéntica a un coste muy inferior al de sus rivales occidentales. Varios modelos son open-source y hay versiones Flash gratuitas.",
+    "funciones": [
+      "Chat conversacional",
+      "Razonamiento profundo ('Deep Thinking')",
+      "Programación agéntica",
+      "Generación de presentaciones",
+      "Visión (modelos GLM-V)",
+      "Uso de herramientas (tool calling)",
+      "API compatible con Claude Code"
+    ],
+    "caracteristicas": [
+      "Modelos GLM-5.2 / GLM-5 / GLM-4.7",
+      "Hasta 200K tokens de contexto",
+      "Modelos Flash gratuitos (GLM-4.7-Flash)",
+      "Varios modelos open-source",
+      "Coding Plan desde ~10 $/mes",
+      "App y web (chat.z.ai)",
+      "API económica"
+    ],
+    "etica": "Empresa china; sus modelos pueden incluir censura alineada con la regulación local y plantean dudas sobre la procedencia de los datos de entrenamiento y cuestiones geopolíticas. Como contrapartida, la apertura de varios modelos permite auditoría y ejecución local, y democratiza el acceso por su bajo coste.",
+    "fecha_agregado": "2026-06-20"
+  },
+  {
     "id": "poe",
     "nombre": "Poe",
     "compania": "Quora",
@@ -1216,229 +1247,5 @@
       "Integración Git nativa"
     ],
     "etica": "Producto de Anthropic (B-Corp). Mismo enfoque ético que Claude. Al ser de pago por API, puede resultar costoso en uso intensivo."
-  },
-  {
-    "nombre": "WorkClaw",
-    "descripcion": "Ofrece compañeros de trabajo IA proactivos y colaborativos que se integran directamente en Slack para automatizar tareas y mejorar la productividad del equipo.",
-    "_ph": true,
-    "compania": "WorkClaw Inc.",
-    "tipo": "Agentes IA / Productividad / Colaboración",
-    "precio": "Freemium",
-    "funciones": [
-      "Automatización de tareas repetitivas en Slack",
-      "Asistencia proactiva en proyectos",
-      "Colaboración inteligente entre equipos",
-      "Gestión de flujos de trabajo"
-    ],
-    "caracteristicas": [
-      "Integración nativa con Slack",
-      "Capacidades de IA proactivas",
-      "Diseñado para la colaboración en equipo",
-      "Interfaz conversacional"
-    ],
-    "etica": "Se enfoca en la privacidad de los datos del equipo y la transparencia en las acciones de la IA, asegurando que los usuarios mantengan el control y comprendan cómo se utiliza la información.",
-    "web": "https://www.producthunt.com/products/workclaw",
-    "id": "workclaw-b305d9",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Pixlie",
-    "descripcion": "Un estudio de vídeo con IA que permite transformar texto e imágenes en vídeos de alta calidad, ofreciendo un control detallado sobre el proceso creativo.",
-    "_ph": true,
-    "compania": "Pixlie Studio",
-    "tipo": "Generación de vídeo / Edición de vídeo",
-    "precio": "Pago",
-    "funciones": [
-      "Generación de vídeo a partir de texto",
-      "Creación de vídeo a partir de imágenes",
-      "Edición avanzada de elementos de vídeo",
-      "Personalización de estilos visuales"
-    ],
-    "caracteristicas": [
-      "Tecnología de IA para síntesis de vídeo",
-      "Interfaz de usuario intuitiva",
-      "Opciones de control granular",
-      "Salida de vídeo de alta resolución"
-    ],
-    "etica": "Prioriza la creación de contenido original y ético, evitando la generación de deepfakes maliciosos y protegiendo la propiedad intelectual de los usuarios en sus creaciones.",
-    "web": "https://www.producthunt.com/products/pixlie",
-    "id": "pixlie-028f3c",
-    "gratis": false,
-    "pago": true,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "pumaDB",
-    "descripcion": "Una capa de memoria alojada y ligera diseñada específicamente para proporcionar persistencia y recuperación de información a agentes de IA.",
-    "_ph": true,
-    "compania": "pumaDB Technologies",
-    "tipo": "Infraestructura IA / Bases de datos / Agentes IA",
-    "precio": "Freemium",
-    "funciones": [
-      "Almacenamiento de memoria para agentes IA",
-      "Recuperación rápida de datos",
-      "Gestión de estados de agentes",
-      "Persistencia de conversaciones y contextos"
-    ],
-    "caracteristicas": [
-      "Optimizado para agentes de IA",
-      "Servicio alojado (hosted)",
-      "Baja latencia",
-      "Escalable para diferentes necesidades"
-    ],
-    "etica": "Se compromete con la seguridad y privacidad de los datos almacenados, implementando medidas robustas para proteger la información sensible gestionada por los agentes de IA.",
-    "web": "https://www.producthunt.com/products/pumadb",
-    "id": "pumadb-b44093",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Are you in the Weights?",
-    "descripcion": "Una herramienta que permite a los usuarios investigar si su información personal o contenido ha sido incorporado en los conjuntos de datos de entrenamiento de grandes modelos de lenguaje (LLMs).",
-    "_ph": true,
-    "compania": "Weights Labs",
-    "tipo": "Ética IA / Auditoría IA / Privacidad",
-    "precio": "Gratuito",
-    "funciones": [
-      "Búsqueda de datos personales en LLMs",
-      "Análisis de la presencia de contenido",
-      "Evaluación de la privacidad en modelos de IA",
-      "Generación de informes de exposición"
-    ],
-    "caracteristicas": [
-      "Herramienta de auditoría de datos",
-      "Enfoque en la privacidad del usuario",
-      "Interfaz de consulta sencilla",
-      "Resultados informativos"
-    ],
-    "etica": "Su propósito principal es la concienciación sobre la privacidad y el uso de datos en los LLMs, empoderando a los usuarios para entender y gestionar su huella digital en la IA.",
-    "web": "https://www.producthunt.com/products/are-you-in-the-weights",
-    "id": "are-you-in-the-weights--a81b0b",
-    "gratis": true,
-    "pago": false,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Mellum by JetBrains",
-    "descripcion": "Ofrece modelos de lenguaje grandes (LLMs) optimizados por JetBrains para flujos de trabajo que requieren baja latencia y alto rendimiento, ideal para desarrolladores.",
-    "_ph": true,
-    "compania": "JetBrains",
-    "tipo": "Modelos de Lenguaje (LLMs) / Desarrollo de software / Productividad",
-    "precio": "Pago",
-    "funciones": [
-      "Procesamiento de lenguaje natural de alta velocidad",
-      "Integración en entornos de desarrollo",
-      "Asistencia en codificación y refactorización",
-      "Generación de texto y código"
-    ],
-    "caracteristicas": [
-      "LLMs optimizados para rendimiento",
-      "Desarrollado por JetBrains",
-      "Baja latencia",
-      "Diseñado para desarrolladores y equipos"
-    ],
-    "etica": "JetBrains se compromete con la seguridad de los datos de los desarrolladores y la transparencia en el uso de los modelos, asegurando que la IA complemente el trabajo humano sin comprometer la privacidad del código.",
-    "web": "https://www.producthunt.com/products/jetbrains",
-    "id": "mellum-by-jetbrains-70a13f",
-    "gratis": false,
-    "pago": true,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "MeshPilot",
-    "descripcion": "Un espacio de trabajo impulsado por IA que integra terminales, gestión de tareas y agentes inteligentes para optimizar la productividad de desarrolladores y equipos.",
-    "_ph": true,
-    "compania": "MeshPilot Inc.",
-    "tipo": "Productividad / Agentes IA / Desarrollo de software",
-    "precio": "Freemium",
-    "funciones": [
-      "Gestión de terminales asistida por IA",
-      "Automatización de tareas de desarrollo",
-      "Coordinación de agentes de IA",
-      "Organización de proyectos"
-    ],
-    "caracteristicas": [
-      "Espacio de trabajo unificado",
-      "Integración de IA en herramientas de desarrollo",
-      "Soporte para agentes inteligentes",
-      "Mejora de la eficiencia del flujo de trabajo"
-    ],
-    "etica": "Prioriza la seguridad de los datos del usuario y la transparencia en las operaciones de los agentes de IA, garantizando que las automatizaciones sean claras y controlables por el usuario.",
-    "web": "https://www.producthunt.com/products/meshpilot",
-    "id": "meshpilot-204bdf",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Narration Room",
-    "descripcion": "Convierte texto fuente en guiones editables con múltiples voces, ideal para la creación de narraciones, audiolibros o contenido multimedia.",
-    "_ph": true,
-    "compania": "Narration Room Studio",
-    "tipo": "Generación de voz / Edición de audio / Contenido",
-    "precio": "Freemium",
-    "funciones": [
-      "Generación de voz a partir de texto",
-      "Asignación de múltiples voces a un guion",
-      "Edición de guiones y voces",
-      "Personalización de estilos de narración"
-    ],
-    "caracteristicas": [
-      "Tecnología de síntesis de voz avanzada",
-      "Soporte para múltiples voces",
-      "Interfaz de edición intuitiva",
-      "Exportación de audio de alta calidad"
-    ],
-    "etica": "Se compromete a prevenir el uso indebido de la generación de voz para la suplantación de identidad o la difusión de desinformación, promoviendo un uso ético y responsable de la tecnología.",
-    "web": "https://www.producthunt.com/products/narration-room",
-    "id": "narration-room-23a58e",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Ask Ad Manager by Google Ads",
-    "descripcion": "Un agente de IA impulsado por Gemini de Google Ads que proporciona información valiosa y acelera la toma de decisiones para la gestión de campañas publicitarias.",
-    "_ph": true,
-    "compania": "Google Ads",
-    "tipo": "Marketing / Publicidad / Agentes IA / Análisis de datos",
-    "precio": "Pago",
-    "funciones": [
-      "Análisis de rendimiento de anuncios",
-      "Generación de insights para campañas",
-      "Optimización de estrategias publicitarias",
-      "Asistencia en la toma de decisiones"
-    ],
-    "caracteristicas": [
-      "Impulsado por Gemini (IA de Google)",
-      "Integrado con Google Ads",
-      "Análisis de datos en tiempo real",
-      "Recomendaciones inteligentes"
-    ],
-    "etica": "Google Ads se adhiere a estrictas políticas de privacidad y uso de datos, asegurando que la información de las campañas se utilice de forma segura y transparente para mejorar el rendimiento publicitario sin comprometer la privacidad del usuario final.",
-    "web": "https://www.producthunt.com/products/ask-ad-manager",
-    "id": "ask-ad-manager-by-google-ads-db42e9",
-    "gratis": false,
-    "pago": true,
-    "fecha_agregado": "2026-06-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
   }
 ]
