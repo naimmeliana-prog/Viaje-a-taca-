@@ -113,14 +113,62 @@ if not n:
 # ─────────────────────────────────────────────────────────────
 def _guardar_noticias(items):
  N=Path(__file__).parent/"noticias.json"
- KW_ETICA=["ethic","ética","etica","bias","sesgo","privacy","privacid",
-  "regulat","regulación","regulacion","copyright","derechos de autor","deepfake",
-  "surveillance","vigilancia","ai safety","ai risk","misinformation","desinformación",
-  "desinformacion","responsible ai","ia responsable","transparen","governance","gobernanza",
-  "moratorium","moratoria","discriminat","discriminación",
-  "discriminacion","consent","consentimiento","accountab","ley de ia","ai act","eu ai",
-  "data center","centro de datos","job","empleo","layoff","despido","worker","trabajador",
-  "lawsuit","demanda","ban","prohib","fraud","fraude","scam","estafa"]
+ # Feeds en ESPAÑOL dedicados a la barra de noticias (verificados).
+ # Feeds en español para NOVEDADES de IA (verificados).
+ FEEDS_NOV=[
+  ("https://www.xataka.com/tag/inteligencia-artificial/rss2.xml","Xataka"),
+  ("https://www.genbeta.com/tag/inteligencia-artificial/rss2.xml","Genbeta"),
+  ("https://wwwhatsnew.com/tag/inteligencia-artificial/feed/","WWWhat's new"),
+  ("https://planetachatbot.com/feed/","Planeta Chatbot"),
+  ("https://blogthinkbig.com/feed","Think Big"),
+ ]
+ # Feeds en español dedicados a ÉTICA / regulación / privacidad (verificados).
+ FEEDS_ETI=[
+  ("https://www.xataka.com/tag/etica/rss2.xml","Xataka"),
+  ("https://www.xataka.com/tag/regulacion/rss2.xml","Xataka"),
+  ("https://wwwhatsnew.com/tag/etica/feed/","WWWhat's new"),
+  ("https://blogthinkbig.com/tag/etica/feed","Think Big"),
+  ("https://www.genbeta.com/tag/privacidad/rss2.xml","Genbeta"),
+ ]
+ def _bajar(feeds):
+  out=[]
+  try:
+   import feedparser as _fp
+   from time import strftime
+   for u,medio in feeds:
+    try:
+     f=_fp.parse(u)
+     for e in f.entries[:12]:
+      fp=e.get("published_parsed") or e.get("updated_parsed")
+      iso=""
+      if fp:
+       try:iso=strftime("%Y-%m-%dT%H:%M:%SZ",fp)
+       except:pass
+      out.append({"ti":e.get("title",""),"re":re.sub(r"<[^>]+>","",e.get("summary",e.get("description",""))),"li":e.get("link",""),"medio":medio,"fecha":iso})
+    except:pass
+  except:pass
+  return out
+ nov=_bajar(FEEDS_NOV)
+ eti=_bajar(FEEDS_ETI)
+ # Filtrar que las de ética sean realmente de IA (no tecnología genérica).
+ def es_ia(it):
+  tx=((it.get("ti") or "")+" "+(it.get("re") or "")).lower()
+  return any(k in tx for k in [" ia ","inteligencia artificial","chatgpt","gemini",
+   "claude","algoritmo","chatbot","openai"," llm","machine learning","deep learning",
+   "modelo de ia","modelos de ia","modelo de lenguaje","generativa","deepfake",
+   "anthropic","copilot","redes neuronales","aprendizaje automático"])
+ eti=[x for x in eti if es_ia(x)]
+ # Añadir también ética RECIENTE detectada en los feeds de novedades
+ # (los feeds de etiqueta ética se actualizan despacio).
+ KW_ETI_TIT=["ética","etica","ético","etico","sesgo","privacid","regulac","regula",
+  "prohib","deepfake","vigilancia","desinformación","desinformacion","derechos de autor",
+  "copyright","demanda","gobernanza","ley de ia","ai act","censura","datos personales",
+  "propiedad intelectual","manipula","fraude","estafa","dilema"]
+ for x in nov:
+  t=(x.get("ti") or "").lower()
+  if any(k in t for k in KW_ETI_TIT):
+   eti.append(x)
+ print(f"Noticias ES: {len(nov)} novedades, {len(eti)} de ética")
  def limpio(it):
   return {
    "titulo":(it.get("ti") or "").strip()[:160],
@@ -129,9 +177,6 @@ def _guardar_noticias(items):
    "medio":it.get("medio","") or "",
    "fecha":it.get("fecha","") or ""
   }
- def es_etica(it):
-  tx=((it.get("ti") or "")+" "+(it.get("re") or "")).lower()
-  return any(k in tx for k in KW_ETICA)
  def dedup(lst):
   vis=set();out=[]
   for x in lst:
@@ -139,10 +184,11 @@ def _guardar_noticias(items):
    if t and t not in vis:
     vis.add(t);out.append(x)
   return out
- # ordenar por fecha descendente cuando haya fecha
- ordenadas=sorted(items,key=lambda it:it.get("fecha",""),reverse=True)
- novedades=dedup([limpio(x) for x in ordenadas if (x.get("ti") or "").strip()])[:30]
- etica=dedup([limpio(x) for x in ordenadas if es_etica(x) and (x.get("ti") or "").strip()])[:20]
+ # Si no hubo feeds en español (red caída), caer a lo recogido antes.
+ if not nov and not eti:
+  nov=items; eti=items
+ novedades=dedup([limpio(x) for x in sorted(nov,key=lambda it:it.get("fecha",""),reverse=True) if (x.get("ti") or "").strip()])[:30]
+ etica=dedup([limpio(x) for x in sorted(eti,key=lambda it:it.get("fecha",""),reverse=True) if (x.get("ti") or "").strip()])[:20]
  data={
   "actualizado":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
   "novedades":novedades,
