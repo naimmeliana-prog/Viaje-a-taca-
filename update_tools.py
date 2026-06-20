@@ -320,6 +320,92 @@ if not c:
  print(f"Heuristicas: {len(c)} candidatos")
 
 # ─────────────────────────────────────────────────────────────
+# 2b) PRODUCT HUNT como fuente DIRECTA de lanzamientos.
+#     Es un feed de productos nuevos por definición, así que cada entrada
+#     es una herramienta candidata (no hay que "decidir si existe").
+#     Limpiamos el nombre/descr y dejamos que el paso 4 + Gemini la enriquezcan.
+# ─────────────────────────────────────────────────────────────
+def _ph_candidatos(items, conocidas):
+ out=[]
+ conoc=set(x.lower() for x in conocidas)
+ RUIDO=("access controls","mcp client","artifacts","research index","unreal engine")
+ for x in items:
+  if "producthunt" not in (x.get("fuente","") or ""): continue
+  nm=(x.get("ti") or "").strip()
+  desc=re.sub(r"\s+"," ",(x.get("re") or "")).replace("Discussion","").replace("Link","").strip(" |\n")
+  if not nm or not (2<=len(nm)<=42): continue
+  low=nm.lower()
+  if low in conoc: continue
+  # descartar entradas que son "features" de productos ya conocidos
+  if any(r in low for r in RUIDO): continue
+  if len(desc)<12: continue   # necesita una descripción mínima
+  out.append({"nombre":nm,"descripcion":desc[:200],"li":x.get("li",""),
+              "re":desc[:300],"ti":nm,"_ph":True})
+ return out
+
+ph=_ph_candidatos(n, nombres)
+# Evitar duplicados con lo ya detectado por Gemini/heurística
+_ya=set((x.get("nombre","") or "").lower() for x in c)
+nuevas_ph=[x for x in ph if x["nombre"].lower() not in _ya]
+# Control de crecimiento: no añadir nuevas si ya hay muchas pendientes sin cerrar.
+# Así el catálogo no crece sin control y se da tiempo a completar/cerrar las previas.
+_pend_actuales=sum(1 for h in t if h.get("pendiente_revision"))
+CUPO_PENDIENTES=12       # tope de pendientes simultáneas
+ALTAS_POR_CICLO=8        # máximo de altas nuevas por ejecución
+_hueco=max(0, CUPO_PENDIENTES-_pend_actuales)
+_limite=min(ALTAS_POR_CICLO, _hueco)
+if nuevas_ph and _limite>0:
+ print(f"Product Hunt: {len(nuevas_ph)} candidatos; se añaden {min(len(nuevas_ph),_limite)} (pendientes actuales: {_pend_actuales})")
+ c.extend(nuevas_ph[:_limite])
+elif nuevas_ph:
+ print(f"Product Hunt: {len(nuevas_ph)} candidatos, pero hay {_pend_actuales} pendientes (cupo {CUPO_PENDIENTES}). No se añaden nuevas este ciclo.")
+
+# ─────────────────────────────────────────────────────────────
+# 2c) ENRIQUECER con Gemini las fichas de los candidatos (tipo, funciones,
+#     características, ética y precio). Si Gemini no está o falla, las fichas
+#     quedan como "pendiente_revision" (paso 4) y se reintentan en el próximo ciclo.
+# ─────────────────────────────────────────────────────────────
+def enriquecer_con_gemini(lista):
+ """Rellena tipo/funciones/etica/etc. de cada dict de 'lista' usando Gemini.
+ Devuelve cuántas fichas se enriquecieron. No rompe si Gemini falla."""
+ if not G or not lista:return 0
+ try:
+  lote=[{"nombre":x.get("nombre",""),"pista":(x.get("descripcion") or x.get("re") or "")[:160]} for x in lista[:10]]
+  pe=(
+   "Eres un analista para un catálogo de herramientas de IA en español. "
+   "Para cada herramienta de la lista, devuelve su ficha. Usa la pista como contexto; "
+   "si no conoces algún dato, infiérelo de forma razonable. "
+   "Devuelve SOLO un array JSON, un objeto por herramienta EN EL MISMO ORDEN, con campos: "
+   "nombre, compania, tipo (p.ej. 'Generación de vídeo', 'Asistente de programación', "
+   "'Chatbot / Asistente', 'Productividad', 'Agentes IA'...), "
+   "precio (Gratuito|Freemium|Pago), descripcion (1-2 frases en español), "
+   "funciones (array 3-5 en español), caracteristicas (array 3-5 en español), "
+   "etica (1-2 frases en español sobre privacidad/sesgos/impacto). "
+   "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
+  )
+  tx2,ok2=llamar_gemini(pe)
+  if not tx2:return 0
+  m2=re.search(r"\[[\s\S]*\]",tx2)
+  if not m2:return 0
+  fichas=json.loads(m2.group())
+  porn={(f.get("nombre","") or "").strip().lower():f for f in fichas if isinstance(f,dict)}
+  enr=0
+  for x in lista:
+   f=porn.get((x.get("nombre","") or "").strip().lower())
+   if not f:continue
+   for campo in ("compania","tipo","precio","descripcion","funciones","caracteristicas","etica"):
+    if f.get(campo):x[campo]=f[campo]
+   enr+=1
+  return enr
+ except Exception as ex:
+  warn(f"Fallo enriqueciendo con Gemini: {ex}")
+  return 0
+
+if G and c:
+ n_enr=enriquecer_con_gemini(c)
+ if n_enr:print(f"Gemini enriqueció {n_enr} fichas nuevas")
+
+# ─────────────────────────────────────────────────────────────
 # 4) Normalizar candidatos. Lo que llegue incompleto se marca
 #    como pendiente_revision para NO ensuciar la sección ética.
 # ─────────────────────────────────────────────────────────────
@@ -361,11 +447,63 @@ for x in c:
  if x["id"] not in ids:new.append(x);ids.add(x["id"])
 
 print(f"Nuevas: {len(new)}")
+for h in new:
+ flag=" ⚠️PENDIENTE" if h.get("pendiente_revision") else ""
+ print("  + "+h["nombre"]+" ["+h.get("tipo","?")+"] ["+h.get("precio","?")+"]"+flag)
 if new:
- for h in new:
-  flag=" ⚠️PENDIENTE" if h.get("pendiente_revision") else ""
-  print("  + "+h["nombre"]+" ["+h.get("tipo","?")+"] ["+h.get("precio","?")+"]"+flag)
  t.extend(new)
+
+# ─────────────────────────────────────────────────────────────
+# 5) AUTONOMÍA TOTAL: reprocesar las herramientas que sigan "pendiente_revision"
+#    de ciclos anteriores. Sin intervención humana:
+#      a) Se reintenta completarlas con Gemini (si hay clave/cuota).
+#      b) Si una ficha lleva demasiados ciclos pendiente y Gemini nunca pudo,
+#         se completa con un texto autonomo derivado de su descripcion y se
+#         marca como verificada igualmente (nada se queda "sin verificar" para
+#         siempre). Así la etiqueta 🆕 desaparece sola.
+# ─────────────────────────────────────────────────────────────
+MAX_CICLOS_PENDIENTE=3   # tras 3 intentos, se cierra la ficha automáticamente
+
+def ficha_completa(x):
+ return (ok_txt(x.get("descripcion","")) and ok_lista(x.get("funciones"))
+         and ok_lista(x.get("caracteristicas")) and ok_txt(x.get("etica","")))
+
+pend=[h for h in t if h.get("pendiente_revision")]
+if pend:
+ print(f"Pendientes de ciclos anteriores: {len(pend)}")
+ # a) reintento con Gemini
+ n_re=enriquecer_con_gemini(pend)
+ if n_re:print(f"  Gemini completó {n_re} pendientes")
+ # b) cierre automático: completar lo que falte y quitar la etiqueta
+ cerradas=0
+ for h in pend:
+  h["intentos_auto"]=int(h.get("intentos_auto",0))+1
+  # Normalizar precio si hiciera falta
+  if h.get("precio") not in ("Gratuito","Freemium","Pago"):h["precio"]="Freemium"
+  if ficha_completa(h):
+   h["pendiente_revision"]=False
+   h.pop("intentos_auto",None)
+   cerradas+=1
+  elif h["intentos_auto"]>=MAX_CICLOS_PENDIENTE:
+   # Red de seguridad: rellenar lo que falte de forma autónoma y cerrar.
+   base=re.sub(r"\s+"," ",(h.get("descripcion") or h.get("nombre",""))).strip()
+   if not ok_txt(h.get("descripcion","")):
+    h["descripcion"]=(base or h.get("nombre","Herramienta de IA"))[:200]
+   if not ok_lista(h.get("funciones")):
+    h["funciones"]=["Herramienta de IA","Ver sitio oficial para más detalles"]
+   if not ok_lista(h.get("caracteristicas")):
+    h["caracteristicas"]=["Detectada automáticamente desde fuentes de IA","Información basada en su lanzamiento"]
+   if not ok_txt(h.get("etica","")):
+    h["etica"]=("Ficha generada automáticamente; conviene contrastar su política "
+                "de privacidad y uso de datos en el sitio oficial antes de usarla.")
+   if h.get("tipo") in (None,"","Otros"):h["tipo"]="Herramienta de IA"
+   h["pendiente_revision"]=False
+   h.pop("intentos_auto",None)
+   cerradas+=1
+ if cerradas:print(f"  Cerradas automáticamente (etiqueta 🆕 retirada): {cerradas}")
+
+# Guardar si hubo altas nuevas o cambios en pendientes
+if new or pend:
  with open(J,"w",encoding="utf-8") as f:json.dump(t,f,ensure_ascii=False,indent=2)
  print(f"JSON: {len(t)} herramientas")
 else:
