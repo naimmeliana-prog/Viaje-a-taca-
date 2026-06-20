@@ -1,357 +1,357 @@
 {
-  "actualizado": "2026-06-20T15:08:53Z",
+  "actualizado": "2026-06-20T17:02:36Z",
   "novedades": [
     {
-      "titulo": "OpenAI's Codex can now watch you work once and repeat the task forever",
-      "resumen": "OpenAI has released the \"Record &#038; Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available",
-      "enlace": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-20T13:15:08Z"
+      "titulo": "Una quesería artesanal de California estuvo a punto de quebrar. Hoy es un negocio boyante gracias a algo: agentes de IA",
+      "resumen": "Al norte de San Francisco hay una ciudad llamada Petaluma donde se encuentra una fábrica de queso con el mismo nombre. Petaluma Creamery tiene más de un siglo de historia y llegó a generar 50 millones de dólares en su ép",
+      "enlace": "https://www.xataka.com/robotica-e-ia/queseria-artesanal-california-estuvo-a-punto-quebrar-hoy-negocio-boyante-gracias-a-algo-agentes-ia",
+      "medio": "Xataka",
+      "fecha": "2026-06-20T12:00:17Z"
     },
     {
-      "titulo": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
-      "resumen": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure",
-      "enlace": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-20T12:26:57Z"
+      "titulo": "Antes en las reuniones del G7 los focos eran para los líderes mundiales. Ahora los protagonistas son Amodei, Altman y Hassabis",
+      "resumen": "Esta semana se ha celebrado la edición número 52 de la cumbre del G7. Los representantes de las siete mayores potencias mundiales debatieron sobre Ucrania, Oriente Medio, o tierras raras, como se esperaba. Lo que no se e",
+      "enlace": "https://www.xataka.com/robotica-e-ia/antes-reuniones-g7-focos-eran-para-lideres-mundiales-ahora-protagonistas-amodei-altman-hassabis",
+      "medio": "Xataka",
+      "fecha": "2026-06-19T16:30:17Z"
     },
     {
-      "titulo": "4 easy tweaks you can make to your TV soundbar for more immersive audio",
-      "resumen": "Some of your favorite soundbar settings for music and movies aren't compatible with live sports broadcasts. Here's my fix.",
-      "enlace": "https://www.zdnet.com/article/soundbar-settings-sports-tips/",
-      "medio": "Latest news",
-      "fecha": "2026-06-20T12:00:41Z"
+      "titulo": "Golpe a ChatGPT: con los nuevos precios de Gemini Pro, no vas a querer usar otra IA",
+      "resumen": "Gemini se ha convertido en el centro del ecosistema de productos y servicios de Google. La inteligencia artificial es el producto estrella y Google la ha integrado en sus teléfonos Pixel, en su proveedor de [&#8230;] Gol",
+      "enlace": "https://blogthinkbig.com/precios-planes-tarifas-gemini-pro-google-ai",
+      "medio": "Think Big",
+      "fecha": "2026-06-19T16:01:00Z"
     },
     {
-      "titulo": "I made 7 changes to my Android Auto setup for better functionality when I'm driving",
-      "resumen": "You can customize Android Auto to make it more tailored to your ideal driving experience - all in just minutes.",
-      "enlace": "https://www.zdnet.com/article/android-auto-6-ways-to-customize/",
-      "medio": "Latest news",
-      "fecha": "2026-06-20T11:00:51Z"
+      "titulo": "EEUU no apagó Claude Mythos por miedo a un jailbreak, lo hizo porque sospechaba que alguien estaba mirando. Ese alguien es China",
+      "resumen": "El sábado pasado, la Casa Blanca ordenó a Anthropic que retirara el acceso a Fable 5 y Mythos a cualquier persona extranjera, sin importar si estaban dentro o fuera de EEUU. Supuestamente esta orden vino tras un aviso de",
+      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-no-apago-claude-mythos-jailbreak-hizo-porque-sospechaba-que-alguien-estaba-mirando-ese-alguien-china",
+      "medio": "Xataka",
+      "fecha": "2026-06-19T15:30:17Z"
     },
     {
-      "titulo": "Siri AI Hands On: A Smart, Helpful Assistant",
-      "resumen": "The new Siri AI is conversational, omnipresent, and actually helpful.",
-      "enlace": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-      "medio": "Feed: Artificial Intelligence Latest",
-      "fecha": "2026-06-20T10:00:00Z"
+      "titulo": "Creíamos que ningún modelo chino de IA se acercaría pronto a Fable 5 o GPT-5.5. Entonces llegó GLM-5.2",
+      "resumen": "Hace unos días la startup china Zhipu AI (Z.ai) anunció el lanzamiento de su nuevo modelo abierto de IA, GLM-5.2. Lo hizo presumiendo de unas prestaciones asombrosas que lo acercaban mucho a los mejores modelos cerrados ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/creiamos-que-ningun-modelo-chino-ia-se-acercaria-pronto-a-fable-5-gpt-5-5-entonces-llego-glm-5-2",
+      "medio": "Xataka",
+      "fecha": "2026-06-19T10:16:16Z"
     },
     {
-      "titulo": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
-      "resumen": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 per",
-      "enlace": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-20T09:51:55Z"
+      "titulo": "La iniciativa «Stop Killing Games»: el David contra Goliat que está sucediendo en los videojuegos",
+      "resumen": "Imagina que compras un coche nuevo, lo aparcas en tu garaje y, cinco años después, el fabricante entra en tu casa y se lo lleva directamente a la chatarra alegando que «mantener el modelo ya [&#8230;] La iniciativa «Stop",
+      "enlace": "https://blogthinkbig.com/stop-killing-games-propiedad-digital",
+      "medio": "Think Big",
+      "fecha": "2026-06-19T10:00:00Z"
     },
     {
-      "titulo": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
-      "resumen": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected app",
-      "enlace": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-20T08:44:19Z"
+      "titulo": "Cómo instalar iOS 27 sin esperas antes de su lanzamiento oficial",
+      "resumen": "Junio es un mes importante para los seguidores de Apple. Si te gustan las presentaciones o keynotes, en junio se celebra la WWDC, es decir, la conferencia mundial de desarrolladores de Apple. Un evento que [&#8230;] Cómo",
+      "enlace": "https://blogthinkbig.com/instalar-ios-27-beta-iphone",
+      "medio": "Think Big",
+      "fecha": "2026-06-19T09:17:23Z"
     },
     {
-      "titulo": "OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there",
-      "resumen": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billion. With $73 billion",
-      "enlace": "https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-20T08:02:07Z"
+      "titulo": "LG gram Pro (2026): potencia para IA en local y una obsesión cada vez más clara por pesar menos",
+      "resumen": "Hay muchos portátiles buenos en el mercado, quizá demasiados como para que una marca pueda diferenciarse solo con una lista de especificaciones. Por eso cada fabricante acaba defendiendo una personalidad: algunos se apoy",
+      "enlace": "https://www.xataka.com/ordenadores/lg-gram-pro-2026-caracteristicas-precio-ficha-tecnica",
+      "medio": "Xataka",
+      "fecha": "2026-06-18T19:30:17Z"
     },
     {
-      "titulo": "Are you in the Weights?",
-      "resumen": "Find out if you live forever in the brain of the LLMs Discussion | Link",
-      "enlace": "https://www.producthunt.com/products/are-you-in-the-weights",
-      "medio": "Product Hunt — The best new products, ev",
-      "fecha": "2026-06-20T00:56:01Z"
+      "titulo": "La IA va a generar una riqueza sin precedentes. La pregunta que empieza a hacerse todo el mundo es quién va a quedarse con ella",
+      "resumen": "Hay un debate candente en torno a la rentabilidad de la IA. De momento, la salvaje inversión en centros de datos no está contribuyendo en absoluto al crecimiento de la economía de EEUU, pero hay quienes creen que la IA y",
+      "enlace": "https://www.xataka.com/empresas-y-economia/ia-va-a-generar-riqueza-precedentes-pregunta-que-empieza-a-hacerse-todo-mundo-quien-va-a-quedarse-ella",
+      "medio": "Xataka",
+      "fecha": "2026-06-18T16:00:17Z"
     },
     {
-      "titulo": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "resumen": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "enlace": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T22:40:14Z"
+      "titulo": "La nueva joya china de los semiconductores se llama Enflame. Así es la nueva integrante de “los cuatro dragones de los chips” de China",
+      "resumen": "Puede que el nombre Enflame no te suene todavía. Pero es muy probable que en los próximos meses acabe dando bastante de qué hablar. Y es que esta empresa china de chips para IA acaba de recibir el visto bueno para salir ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/nueva-joya-china-semiconductores-se-llama-enflame-asi-nueva-integrante-cuatro-dragones-chips-china",
+      "medio": "Xataka",
+      "fecha": "2026-06-18T15:30:17Z"
     },
     {
-      "titulo": "This HP Omen gaming laptop is $700 off on Amazon - and it's a serious powerhouse",
-      "resumen": "HP's Omen gaming laptop has dropped to $1,599, making it a great early deal for gamers on a budget.",
-      "enlace": "https://www.zdnet.com/article/hp-omen-gaming-laptop-amazon-prime-day-deal-2026/",
-      "medio": "Latest news",
-      "fecha": "2026-06-19T22:39:00Z"
+      "titulo": "DOOM y hasta dónde puede llegar el ingenio para estirar una broma",
+      "resumen": "El videojuego DOOM nació en 1993 gracias a id Software, y mas allá de haber revolucionado los shooters, la extrema flexibilidad de su código fuente es su caracteristica mas recordada. Lo que empezó como una [&#8230;] DOO",
+      "enlace": "https://blogthinkbig.com/doom-y-hasta-donde-puede-llegar-el-ingenio-para-estirar-una-broma",
+      "medio": "Think Big",
+      "fecha": "2026-06-18T09:32:49Z"
     },
     {
-      "titulo": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
-      "resumen": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision. Prime Minist",
-      "enlace": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-19T18:45:10Z"
+      "titulo": "El Informe ODA mide la diversidad en el cine y las series españolas: ¿qué dice la séptima edición?",
+      "resumen": "Este martes, el Espacio Fundación Telefónica de Madrid ha acogido la presentación de la séptima edición del Informe ODA, el estudio anual que mide cómo se representa a los colectivos LGBTIQA+, racializados y con discapac",
+      "enlace": "https://blogthinkbig.com/el-informe-oda-mide-la-diversidad-en-el-cine-y-las-series-espanolas-que-dice-la-septima-edicion",
+      "medio": "Think Big",
+      "fecha": "2026-06-18T09:32:28Z"
     },
     {
-      "titulo": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
-      "resumen": "Nobel Prize winner John Jumper is leaving Google Deepmind for Anthropic after nearly nine years. Days earlier, Gemini co-lead Noam Shazeer left for OpenAI. Weeks before that, AlphaGo researcher David Silver started his o",
-      "enlace": "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-19T17:54:14Z"
+      "titulo": "Jeff Bezos asegura que hay un tipo de empleado que nunca podrá ser reemplazado por una IA: los inventores",
+      "resumen": "Con unos procesos de selección saturados (o rotos directamente) y la IA condicionando las habilidades que demandan las empresas, hay una habilidad que Jeff Bezos considera insustituible: la capacidad de inventar. El mill",
+      "enlace": "https://www.xataka.com/robotica-e-ia/jeff-bezos-asegura-que-hay-tipo-empleado-que-nunca-podra-ser-reemplazado-ia-inventores-1",
+      "medio": "Xataka",
+      "fecha": "2026-06-18T07:30:17Z"
     },
     {
-      "titulo": "Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company",
-      "resumen": "Amazon MGM Studios has dropped \"Artificial,\" the nearly finished OpenAI film directed by Luca Guadagnino with Andrew Garfield as Sam Altman. Amazon struck a $50 billion partnership with OpenAI in February. According to a",
-      "enlace": "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-19T17:14:33Z"
+      "titulo": "Freepik se convirtió en Magnific para abrazar la IA. Ahora plantea un ERE para casi un tercio de sus empleados en España",
+      "resumen": "La inteligencia artificial generativa no solo está cambiando las herramientas que usamos para crear imágenes, vídeos o diseños. También está obligando a muchas compañías a preguntarse qué quieren ser dentro de un mercado",
+      "enlace": "https://www.xataka.com/empresas-y-economia/freepik-se-convirtio-magnific-para-abrazar-ia-ahora-plantea-ere-para-casi-tercio-sus-empleados-espana",
+      "medio": "Xataka",
+      "fecha": "2026-06-17T17:35:00Z"
     },
     {
-      "titulo": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
-      "enlace": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T16:08:17Z"
+      "titulo": "Jeff Bezos, sobre Prometheus: \"La IA creará trabajo porque la gente se centrará en crear y en poner soluciones a nuevos problemas\"",
+      "resumen": "Jeff Bezos se ha propuesto estar en todas partes tanto física como metafóricamente. Aparte de estar detrás de Amazon (dejándola de lado&nbsp;para centrarse en otros proyectos) o Blue Origin, tiene una \"nueva\" empresa lla",
+      "enlace": "https://www.xataka.com/empresas-y-economia/jeff-bezos-prometheus-solucionar-problemas-no-estara-limitado-nuestra-capacidad-sino-imaginacion",
+      "medio": "Xataka",
+      "fecha": "2026-06-17T16:30:00Z"
     },
     {
-      "titulo": "Basedash Access Controls",
-      "resumen": "Control exactly who can access your company data Discussion | Link",
-      "enlace": "https://www.producthunt.com/products/basedash",
-      "medio": "Product Hunt — The best new products, ev",
-      "fecha": "2026-06-19T16:05:30Z"
+      "titulo": "Reino Unido prohíbe las redes sociales a menores de 16 años, y detrás hay una conversación pendiente",
+      "resumen": "El primer ministro británico Keir Starmer anunció recientemente una propuesta para prohibir el acceso a redes sociales como TikTok, Instagram, YouTube, Snapchat o X a todos los menores de 16 años. Si el Parlamento la [&#",
+      "enlace": "https://blogthinkbig.com/reino-unido-prohibe-las-redes-sociales-a-menores-de-16-anos-y-detras-hay-una-conversacion-pendiente",
+      "medio": "Think Big",
+      "fecha": "2026-06-17T10:06:12Z"
     },
     {
-      "titulo": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
-      "enlace": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T16:01:03Z"
+      "titulo": "Cómo ver si la Policía o Hacienda ha investigado tus datos usando Mi Carpeta Ciudadana",
+      "resumen": "Uno de los beneficios de la digitalización, ese concepto tan amplio que afecta a particulares, empresas y administraciones públicas, es que los datos son más fáciles de consultar, procesar y utilizar para el bien de [&#8",
+      "enlace": "https://blogthinkbig.com/consultar-datos-investigados-administraciones-mi-carpeta-ciudadana",
+      "medio": "Think Big",
+      "fecha": "2026-06-17T07:01:00Z"
     },
     {
-      "titulo": "Billionaire Ambani wants AI in every call, app, and home",
-      "resumen": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "enlace": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T15:23:28Z"
+      "titulo": "Europa lanza su propio Word, Excel y PowerPoint gratis: así es Office EU",
+      "resumen": "Las relaciones entre Europa y Estados Unidos no pasan por su mejor momento. Y aunque hacía tiempo que desde las instituciones y empresas europeas se hablaba del tema, estas malas relaciones han acelerado y avivado [&#823",
+      "enlace": "https://blogthinkbig.com/office-eu-alternativa-europea-microsoft-365-google-workspace",
+      "medio": "Think Big",
+      "fecha": "2026-06-17T05:29:22Z"
     },
     {
-      "titulo": "The Ninja Creami just dropped to an all time low price for Prime Day - and I recommend one",
-      "resumen": "Make your own ice cream, gelato, sorbet, and smoothie bowls with the Ninja Creami, now 22% off for Amazon Prime Day.",
-      "enlace": "https://www.zdnet.com/article/ninja-creami-amazon-prime-day-2026-deal/",
-      "medio": "Latest news",
-      "fecha": "2026-06-19T15:21:00Z"
+      "titulo": "Claude Fable 5: el modelo de IA más potente disponible al público y el primero que admite ser demasiado peligroso para usarlo sin restricciones",
+      "resumen": "El 9 de junio de 2026, Anthropic publicó Claude Fable 5. Es el modelo de IA más potente que la empresa ha puesto a disposición del público. Supera las marcas de prácticamente todo lo que [&#8230;] Claude Fable 5: el mode",
+      "enlace": "https://blogthinkbig.com/claude-fable-5-anthropic",
+      "medio": "Think Big",
+      "fecha": "2026-06-16T11:38:39Z"
     },
     {
-      "titulo": "More people get news from AI chatbots, but trust remains low",
-      "resumen": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original ",
-      "enlace": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-19T14:42:25Z"
+      "titulo": "Estados Unidos apaga Fable 5 y Mythos 5: el golpe que deja a Europa fuera del mapa de la IA",
+      "resumen": "El acceso a la inteligencia artificial más avanzada del mundo se ha convertido, en cuestión de días, en un asunto de política exterior. Lo que hasta hace poco era una negociación discreta entre gobiernos y [&#8230;] Esta",
+      "enlace": "https://blogthinkbig.com/estados-unidos-apaga-fable-5-y-mythos-5-el-golpe-que-deja-a-europa-fuera-del-mapa-de-la-ia",
+      "medio": "Think Big",
+      "fecha": "2026-06-16T10:00:00Z"
     },
     {
-      "titulo": "The film about Sam Altman has been dropped by Amazon MGM",
-      "resumen": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's terminatio",
-      "enlace": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "medio": "AI | The Verge",
-      "fecha": "2026-06-19T14:15:29Z"
+      "titulo": "Acompañar en el final de la vida: la mirada del Dr. Enric Benito sobre los cuidados paliativos",
+      "resumen": "Hablar de la muerte incomoda. La evitamos, la silenciamos, la tratamos como un enemigo al que vencer. Y sin embargo es la única certeza que compartimos todos. El Dr. Enric Benito, referente internacional en cuidados [&#8",
+      "enlace": "https://blogthinkbig.com/acompanar-en-el-final-de-la-vida-la-mirada-del-dr-enric-benito-sobre-los-cuidados-paliativos",
+      "medio": "Think Big",
+      "fecha": "2026-06-16T08:16:00Z"
     },
     {
-      "titulo": "New benchmark exposes how badly AI struggles with real knowledge work",
-      "resumen": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
-      "enlace": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-19T13:50:55Z"
+      "titulo": "El Mundial más vigilado de la historia: así es la tecnología del 2026",
+      "resumen": "El Mundial 2026 ya es el más grande de la historia: 48 selecciones, 104 partidos, 16 sedes repartidas entre Estados Unidos, México y Canadá, y una audiencia potencial de 6.000 millones de personas. Pero más [&#8230;] El ",
+      "enlace": "https://blogthinkbig.com/el-mundial-mas-vigilado-de-la-historia-asi-es-la-tecnologia-del-2026",
+      "medio": "Think Big",
+      "fecha": "2026-06-15T08:19:31Z"
     },
     {
-      "titulo": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "resumen": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "enlace": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T13:00:00Z"
+      "titulo": "Google extiende a todos los Android la IA contextual del Pixel 10: ahora tu teléfono aprende tus hábitos sin enviar datos a nadie",
+      "resumen": "Si tienes un Pixel 10, llevas meses con una función que el resto de usuarios de Android acaba de empezar a recibir. Lo detalla The Verge el 13 de mayo de 2026: Google está desplegando Contextual Suggestions para todos lo",
+      "enlace": "https://wwwhatsnew.com/2026/05/15/android-contextual-suggestions-habitos-privacidad-on-device-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-15T08:00:14Z"
     },
     {
-      "titulo": "The Download: AI bottleneck debates, and BCI trials take off",
-      "resumen": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLM",
-      "enlace": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "medio": "MIT Technology Review",
-      "fecha": "2026-06-19T12:10:00Z"
+      "titulo": "Agricultura de precisión: sensores, drones e IA que están transformando el campo",
+      "resumen": "Sensores IoT, drones y modelos de IA ya reducen un 30 por ciento el uso de agua en el campo. Asi funciona la agricultura de precisión.La noticia Agricultura de precisión: sensores, drones e IA que están transformando el ",
+      "enlace": "https://wwwhatsnew.com/2026/05/05/agricultura-precision-sensores-drones-ia/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-05T17:00:00Z"
     },
     {
-      "titulo": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio",
-      "resumen": "Air travel is the true test for ANC headphones and earbuds. My multiple journeys revealed key strengths and weaknesses of the latest models.",
-      "enlace": "https://www.zdnet.com/article/i-traveled-with-4-headphones-this-pair-was-the-best/",
-      "medio": "Latest news",
-      "fecha": "2026-06-19T12:00:54Z"
+      "titulo": "IA ética: los dilemas que la inteligencia artificial plantea y por qué deberían importarte",
+      "resumen": "Sesgo algoritmico, caja negra y concentración de poder: los dilemas éticos de la IA en 2026 y que puedes hacer como ciudadano. AI Act explicado.La noticia IA ética: los dilemas que la inteligencia artificial plantea y po",
+      "enlace": "https://wwwhatsnew.com/2026/05/04/ia-etica-dilemas-inteligencia-artificial-sesgo-regulacion-guia/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-04T01:00:00Z"
     },
     {
-      "titulo": "Pixlie",
-      "resumen": "AI video studio: text & image to video, with real control Discussion | Link",
-      "enlace": "https://www.producthunt.com/products/pixlie",
-      "medio": "Product Hunt — The best new products, ev",
-      "fecha": "2026-06-19T11:37:24Z"
+      "titulo": "Gemini ya genera Excel, PDF y PowerPoint desde la conversación: cinco prompts concretos para sacarle partido (y cómo se compara con ChatGPT y Claude)",
+      "resumen": "Gemini genera Excel, PDF y PowerPoint dentro del chat: cinco prompts probados y comparativa con ChatGPT y Claude.La noticia Gemini ya genera Excel, PDF y PowerPoint desde la conversación: cinco prompts concretos para sac",
+      "enlace": "https://wwwhatsnew.com/2026/05/03/tutorial-gemini-genera-archivos-cinco-prompts-comparativa-chatgpt-claude-mayo-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-03T18:00:31Z"
     },
     {
-      "titulo": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
-      "resumen": "Article URL: https://ideavault-alpha.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48597336 Points: 3 # Comments: 0",
-      "enlace": "https://ideavault-alpha.vercel.app/",
-      "medio": "Hacker News - Newest: \"AI tool\"",
-      "fecha": "2026-06-19T11:21:58Z"
+      "titulo": "Reddit gana 30 por ciento más usuarios en búsqueda año tras año: Steve Huffman demuestra que apostar por la búsqueda con IA está pagando",
+      "resumen": "Reddit gana 30% más usuarios en su buscador con IA: Steve Huffman muestra que Reddit Answers le come terreno a Google y a ChatGPT.La noticia Reddit gana 30 por ciento más usuarios en búsqueda año tras año: Steve Huffman ",
+      "enlace": "https://wwwhatsnew.com/2026/05/03/reddit-busqueda-30-crecimiento-q1-2026-steve-huffman-mayo-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-03T06:00:26Z"
     },
     {
-      "titulo": "The weirdest Bluetooth tracker I've tested also has one big advantage over the AirTag",
-      "resumen": "The Ugreen FineTrack 2 has several unique features that set it apart from competing trackers. Just look at it!",
-      "enlace": "https://www.zdnet.com/article/ugreen-finetrack-2-tracker-tag-review/",
-      "medio": "Latest news",
-      "fecha": "2026-06-19T11:01:10Z"
+      "titulo": "Anthropic lanza Claude Security en beta pública con Opus 4.7: la respuesta defensiva al modelo Mythos que mantiene en secreto",
+      "resumen": "Anthropic lanza Claude Security en beta pública con Opus 4.7: la respuesta defensiva al modelo Mythos que mantiene en secreto.La noticia Anthropic lanza Claude Security en beta pública con Opus 4.7: la respuesta defensiv",
+      "enlace": "https://wwwhatsnew.com/2026/05/03/anthropic-claude-security-beta-publica-opus-4-7-mayo-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-02T22:00:36Z"
     },
     {
-      "titulo": "5 reasons I'm using Android Auto instead of my car's own infotainment system - and can't go back",
-      "resumen": "Your car's built-in screen may look modern, but Android Auto is still the easier, smarter way to drive. Here's why.",
-      "enlace": "https://www.zdnet.com/article/reasons-to-use-android-auto-over-your-car-infotainment-system/",
-      "medio": "Latest news",
-      "fecha": "2026-06-19T11:00:47Z"
+      "titulo": "IA en medicina: cómo la inteligencia artificial está transformando el diagnóstico y tratamiento en 2026",
+      "resumen": "La IA destaca en imagen médica (radiología, dermatología), predicción cardiovascular y descubrimiento de fármacos. No reemplaza al médico: lo potencia.La noticia IA en medicina: cómo la inteligencia artificial está trans",
+      "enlace": "https://wwwhatsnew.com/2026/05/02/ia-medicina-inteligencia-artificial-diagnostico-tratamiento-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-02T11:00:00Z"
     },
     {
-      "titulo": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "resumen": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. T",
-      "enlace": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "medio": "MIT Technology Review",
-      "fecha": "2026-06-19T10:40:24Z"
+      "titulo": "Los discos duros mecánicos no están muertos: por qué en 2026 siguen siendo imprescindibles (y por qué van a subir de precio)",
+      "resumen": "Los HDD siguen vivos en 2026 y subirán de precio: Seagate y WD ya han vendido toda su producción a hyperscalers de IA hasta 2028.La noticia Los discos duros mecánicos no están muertos: por qué en 2026 siguen siendo impre",
+      "enlace": "https://wwwhatsnew.com/2026/04/13/los-discos-duros-mecanicos-no-estan-muertos-por-que-en-2026-siguen-siendo-imprescindibles-y-por-que-van-a-subir-de-precio/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-04-13T04:00:40Z"
     }
   ],
   "etica": [
     {
-      "titulo": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
-      "resumen": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure",
-      "enlace": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-20T12:26:57Z"
+      "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
+      "resumen": "La Agencia Española de Supervisión de Inteligencia Artificial (AESIA) está cerca de cumplir su primer año de vida operativa. Este organismo ha activado varias inciativas con resultados aún difíciles de concretar, pero un",
+      "enlace": "https://www.xataka.com/robotica-e-ia/que-sepamos-agencia-que-supervisa-ia-espana-no-esta-supervisando-nada-que-tiene-laboratorio-ideas",
+      "medio": "Xataka",
+      "fecha": "2026-05-07T11:46:26Z"
     },
     {
-      "titulo": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
-      "resumen": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision. Prime Minist",
-      "enlace": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
-      "medio": "The Decoder",
-      "fecha": "2026-06-19T18:45:10Z"
+      "titulo": "IA ética: los dilemas que la inteligencia artificial plantea y por qué deberían importarte",
+      "resumen": "Sesgo algoritmico, caja negra y concentración de poder: los dilemas éticos de la IA en 2026 y que puedes hacer como ciudadano. AI Act explicado.La noticia IA ética: los dilemas que la inteligencia artificial plantea y po",
+      "enlace": "https://wwwhatsnew.com/2026/05/04/ia-etica-dilemas-inteligencia-artificial-sesgo-regulacion-guia/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-05-04T01:00:00Z"
     },
     {
-      "titulo": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
-      "enlace": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T16:08:17Z"
+      "titulo": "Imanes para coches eléctricos sin tierras raras: la IA acelera la caza de nuevos materiales magnéticos",
+      "resumen": "Gran parte de la electrónica que usamos a diario funciona como una puerta que se abre y se cierra gracias a un “tirón” invisible. Ese tirón lo aportan los materiales magnéticos: están en altavoces, sensores, equipos médi",
+      "enlace": "https://wwwhatsnew.com/2026/03/18/el-cuello-de-botella-de-los-imanes-actuales/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-03-18T21:00:10Z"
     },
     {
-      "titulo": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to byp",
-      "enlace": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T16:01:03Z"
+      "titulo": "Apple lleva años montando un sistema de salud paralelo a la sanidad pública. La pregunta es si la sanidad pública hará algo con ello",
+      "resumen": "Llevo años sin llevar reloj de ningún tipo en la muñeca. En parte por comodidad, en parte por no tener un dispositivo más con el que distraerme. Lo paradójico es que cada vez me parece más recomendable llevar o regalar u",
+      "enlace": "https://www.xataka.com/empresas-y-economia/apple-lleva-anos-montando-sistema-salud-paralelo-a-sanidad-publica-pregunta-sanidad-publica-hara-algo-ello",
+      "medio": "Xataka",
+      "fecha": "2026-03-01T10:30:56Z"
     },
     {
-      "titulo": "Billionaire Ambani wants AI in every call, app, and home",
-      "resumen": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "enlace": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-19T15:23:28Z"
+      "titulo": "Un hacker encontró riesgos en una baliza V16 muy vendida, la Help Flash IoT. Vodafone y la empresa fabricante han aclarado qué pasa",
+      "resumen": "Con el propósito de \"lograr una mejor en cuanto la seguridad vial y la reducción de accidentes\", ha nacido el dispositivo V16 que a partir del 1 de enero va a reemplazar a los tradicionales triángulos de preseñalización ",
+      "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
+      "medio": "Genbeta",
+      "fecha": "2025-12-11T12:32:00Z"
     },
     {
-      "titulo": "SpaceX wants to build AI data centers in space. Will it work?",
-      "resumen": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges fa",
-      "enlace": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
-      "medio": "Artificial Intelligence News -- ScienceD",
-      "fecha": "2026-06-19T03:43:09Z"
+      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
+      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
+      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
+      "medio": "Genbeta",
+      "fecha": "2025-12-03T07:41:00Z"
     },
     {
-      "titulo": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
-      "resumen": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
-      "enlace": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
-      "medio": "Feed: Artificial Intelligence Latest",
-      "fecha": "2026-06-18T19:29:51Z"
+      "titulo": "Un adolescente creó una imagen de su compañera desnuda usando IA. A sus padres les ha caído una multa de 2.000 euros",
+      "resumen": "En España se ha impuesto por primera vez una sanción administrativa relacionada con la creación y difusión de imágenes falsas generadas con inteligencia artificial. Los padres de un menor deberán pagar a la AEPD una mult",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/adolescente-creo-imagen-su-companera-desnuda-usando-ia-a-sus-padres-les-ha-caido-multa-2-000-euros",
+      "medio": "Genbeta",
+      "fecha": "2025-11-06T16:59:14Z"
     },
     {
-      "titulo": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "resumen": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "enlace": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-18T18:22:13Z"
+      "titulo": "Empiezan a salir a la luz las vulnerabilidades del navegador de ChatGPT en materia de seguridad y privacidad",
+      "resumen": "La llegada del navegador ChatGPT Atlas, lanzado recientemente por OpenAI para macOS (está previsto su lanzamiento también en otros SO), ha marcado un nuevo hito en la integración entre inteligencia artificial y navegació",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/empiezan-a-salir-a-luz-vulnerabilidades-navegador-chatgpt-materia-seguridad-privacidad",
+      "medio": "Genbeta",
+      "fecha": "2025-10-28T14:45:00Z"
     },
     {
-      "titulo": "AI data centers just got a government-mandated fast lane to the grid",
-      "resumen": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-      "enlace": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "medio": "AI News & Artificial Intelligence | Tech",
-      "fecha": "2026-06-18T17:49:23Z"
+      "titulo": "\"Ética de trabajo increíble\": El ex CEO de Google alaba el modelo 996 de 72 horas chino y critica el equilibrio entre vida y trabajo",
+      "resumen": "El antiguo CEO de Google, Eric Schmidt, ha hablado en un podcast sobre cómo a los trabajadores de Estados Unidos les toca sacrificarse por sacar adelante a sus empresas tecnológicas en un ambiente de rivalidad internacio",
+      "enlace": "https://www.genbeta.com/laboral/trabajas-tech-tendras-que-hacer-sacrificios-ex-ceo-google-habla-trabajar-72-semanales-para-competir-china",
+      "medio": "Genbeta",
+      "fecha": "2025-10-02T11:19:00Z"
     },
     {
-      "titulo": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
-      "resumen": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
-      "enlace": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-      "medio": "Feed: Artificial Intelligence Latest",
-      "fecha": "2026-06-18T16:03:27Z"
+      "titulo": "La IA se nos está escapando de las manos. 200 expertos tienen una solución muy simple: establecer \"líneas rojas\"",
+      "resumen": "El lunes más de 200 personalidades y más de 70 organizaciones se unieron en una nueva iniciativa llamada Global Call for AI Red Lines (Llamamiento Mundial para establecer Líneas Rojas en la IA). El objetivo: tratar de es",
+      "enlace": "https://www.xataka.com/robotica-e-ia/200-expertos-tienen-claro-hay-que-establacer-lineas-rojas-ia-no-se-nos-vaya-manos",
+      "medio": "Xataka",
+      "fecha": "2025-09-23T13:00:00Z"
     },
     {
-      "titulo": "Amazon employees say they’re facing termination for backing data center limits",
-      "resumen": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political sp",
-      "enlace": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "medio": "AI | The Verge",
-      "fecha": "2026-06-18T16:00:00Z"
+      "titulo": "Microsoft 365 tendrá versiones más baratas en todo el mundo. Es fruto de la presión antimonopolio de la Comisión Europea",
+      "resumen": "Pronto, muchos clientes de Microsoft Office en todo el mundo podrán acceder a suscripciones más baratas. No es una promoción ni un gesto comercial aislado, sino el resultado de años de presión de Bruselas. Microsoft ha a",
+      "enlace": "https://www.xataka.com/servicios/microsoft-365-tendra-versiones-baratas-todo-mundo-fruto-presion-antimonopolio-comision-europea",
+      "medio": "Xataka",
+      "fecha": "2025-09-12T19:30:45Z"
     },
     {
-      "titulo": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-      "resumen": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
-      "enlace": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-      "medio": "Feed: Artificial Intelligence Latest",
-      "fecha": "2026-06-17T18:25:35Z"
+      "titulo": "El presidente de EEUU ha elevado el pulso tras la millonaria multa de la UE a Google: amenaza con activar la Sección 301",
+      "resumen": "Bruselas volvió a apuntar alto: una multa de 2.950 millones de euros a Google por su negocio publicitario. La Comisión Europea no hizo más que reforzar su perfil de regulador firme en un sector que lleva años bajo su lup",
+      "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
+      "medio": "Xataka",
+      "fecha": "2025-09-08T16:30:00Z"
     },
     {
-      "titulo": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "resumen": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty",
-      "enlace": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "medio": "AI | The Verge",
-      "fecha": "2026-06-17T16:27:00Z"
+      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
+      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
+      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
+      "medio": "Xataka",
+      "fecha": "2025-09-05T17:44:00Z"
     },
     {
-      "titulo": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-      "resumen": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-      "enlace": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-      "medio": "AI - Ars Technica",
-      "fecha": "2026-06-16T22:22:44Z"
+      "titulo": "Mientras Europa lucha con sus normas sobre IA, EEUU está apostando por lo contrario: una relajación normativa sin precedentes",
+      "resumen": "La IA ya está redefiniendo nuestra relación con la tecnología, pero también está redibujando las esferas de poder en el mundo. Estados Unidos y Europa dicen estar comprometidos con su desarrollo, pero lo están haciendo d",
+      "enlace": "https://www.xataka.com/robotica-e-ia/europa-lucha-sus-normas-ia-eeuu-esta-apostando-contrario-relajacion-normativa-precedentes",
+      "medio": "Xataka",
+      "fecha": "2025-07-24T20:31:57Z"
     },
     {
-      "titulo": "Killer robots are here – we must finally decide whether to accept them",
-      "resumen": "We can no longer ignore the growing threat of fully autonomous weapons. The world must either act to ban them or accept that they are the future of war",
-      "enlace": "https://www.newscientist.com/article/2530304-killer-robots-are-here-we-must-finally-decide-whether-to-accept-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=artificial-intelligence",
-      "medio": "New Scientist - Artificial intelligence",
-      "fecha": "2026-06-12T16:55:05Z"
+      "titulo": "ASML, Airbus y Mistral se plantan ante Bruselas. Piden que retrase la aplicación de la Ley de IA y avisan de los riesgos",
+      "resumen": "Europa ya tiene su gran ley de inteligencia artificial. Lo que falta, según varias empresas, son las reglas concretas para aplicarla. A solo un mes de que entren en vigor las primeras normas para los modelos más avanzado",
+      "enlace": "https://www.xataka.com/robotica-e-ia/asml-airbus-mistral-se-plantan-bruselas-piden-que-retrase-aplicacion-ley-ia-avisan-riesgos",
+      "medio": "Xataka",
+      "fecha": "2025-07-04T06:00:25Z"
     },
     {
-      "titulo": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
-      "resumen": "Article URL: https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/ Comments URL: https://news.ycombinator.com/item?id=48459561 Points: 1 # Comments: 0",
-      "enlace": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
-      "medio": "Hacker News - Newest: \"AI tool\"",
-      "fecha": "2026-06-09T11:17:57Z"
+      "titulo": "Cómo Stanford y Google están creando clones de personalidad con IA tras entrevistas de dos horas",
+      "resumen": "La inteligencia artificial sigue rompiendo barreras, y la última colaboración entre Stanford y Google lleva la tecnología a un terreno fascinante y también preocupante. En un estudio reciente titulado «Simulaciones de ag",
+      "enlace": "https://wwwhatsnew.com/2025/01/11/como-stanford-y-google-estan-creando-clones-de-personalidad-con-ia-tras-entrevistas-de-dos-horas/",
+      "medio": "WWWhat's new",
+      "fecha": "2025-01-10T23:00:43Z"
     },
     {
-      "titulo": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "resumen": "",
-      "enlace": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "medio": "Hugging Face - Blog",
-      "fecha": "2026-06-09T00:00:00Z"
+      "titulo": "Recolección de datos sin permiso: El caso de Anthropic y las preocupaciones éticas",
+      "resumen": "Recientemente, varios actores importantes en el campo de la inteligencia artificial han sido acusados de recopilar datos sin la debida autorización para entrenar sus modelos de lenguaje. El último caso involucra a Anthro",
+      "enlace": "https://wwwhatsnew.com/2024/08/01/recoleccion-de-datos-sin-permiso-el-caso-de-anthropic-y-las-preocupaciones-eticas/",
+      "medio": "WWWhat's new",
+      "fecha": "2024-07-31T22:00:14Z"
     },
     {
-      "titulo": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-      "resumen": "Article URL: https://www.bbc.com/news/articles/cm2p3j6lvn7o Comments URL: https://news.ycombinator.com/item?id=48423114 Points: 3 # Comments: 0",
-      "enlace": "https://www.bbc.com/news/articles/cm2p3j6lvn7o",
-      "medio": "Hacker News - Newest: \"AI tool\"",
-      "fecha": "2026-06-06T09:35:04Z"
+      "titulo": "OpenAI retrasa lanzamiento de funciones de voz y emociones en ChatGPT",
+      "resumen": "OpenAI ha decidido retrasar el lanzamiento de las esperadas funciones de voz y lectura de emociones para su chatbot ChatGPT. Aunque estas características estaban programadas para debutar este mes, la empresa ha indicado ",
+      "enlace": "https://wwwhatsnew.com/2024/06/27/openai-retrasa-lanzamiento-de-funciones-de-voz-y-emociones-en-chatgpt/",
+      "medio": "WWWhat's new",
+      "fecha": "2024-06-27T06:00:42Z"
     },
     {
-      "titulo": "WorkClaw",
-      "resumen": "Collaborative, proactive AI coworkers who work in Slack Discussion | Link",
-      "enlace": "https://www.producthunt.com/products/workclaw",
-      "medio": "Product Hunt — The best new products, ev",
-      "fecha": "2026-05-28T14:08:40Z"
+      "titulo": "Nuevas polémicas sobre el uso de Inteligencia artificial en el periodismo",
+      "resumen": "Al adentrarnos en la evolución constante del periodismo, nos encontramos en un punto de inflexión donde la inteligencia artificial (IA) se ha convertido en una herramienta tan omnipresente como controvertida. La noticia ",
+      "enlace": "https://wwwhatsnew.com/2023/11/08/nuevas-polemicas-sobre-el-uso-de-inteligencia-artificial-en-el-periodismo/",
+      "medio": "WWWhat's new",
+      "fecha": "2023-11-08T12:00:08Z"
     },
     {
-      "titulo": "New rules confirm public has a right to see how UK government uses AI",
-      "resumen": "Government departments and other public bodies in the UK must consider requests to release information about AI-produced content, regulators have confirmed. The move follows a successful request by New Scientist for the ",
-      "enlace": "https://www.newscientist.com/article/2526397-new-rules-confirm-public-has-a-right-to-see-how-uk-government-uses-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=artificial-intelligence",
-      "medio": "New Scientist - Artificial intelligence",
-      "fecha": "2026-05-13T12:00:25Z"
+      "titulo": "Google y Amazon apuestan fuerte en la carrera de la inteligencia artificial con inversiones multimillonarias en Anthropic",
+      "resumen": "Google y Amazon han decidido realizar inversiones multimillonarias en Anthropic, una startup que se centra en la seguridad de la IA. Este movimiento estratégico llega justo cuando la administración Biden anuncia cambios ",
+      "enlace": "https://wwwhatsnew.com/2023/11/01/google-y-amazon-apuestan-fuerte-en-la-carrera-de-la-inteligencia-artificial-con-inversiones-multimillonarias-en-anthropic/",
+      "medio": "WWWhat's new",
+      "fecha": "2023-11-01T17:00:23Z"
     }
   ]
 }
