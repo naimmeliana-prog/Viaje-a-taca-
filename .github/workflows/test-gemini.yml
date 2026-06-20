@@ -1,0 +1,30 @@
+name: Probar clave Gemini (ITACA)
+# Diagnóstico manual de la clave. No toca el catálogo ni hace commits.
+on:
+  workflow_dispatch:
+    inputs:
+      generar:
+        description: "Hacer también 1 micro-llamada de generación (gasta cuota mínima)"
+        required: false
+        default: "no"
+        type: choice
+        options:
+          - "no"
+          - "si"
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Diagnóstico de la clave
+        env:
+          GEMINI_API_KEY: ${{ secrets.ITACA }}
+        run: |
+          if [ "${{ inputs.generar }}" = "si" ]; then
+            python3 test_gemini.py --generar
+          else
+            python3 test_gemini.py
+          fi
