@@ -6,6 +6,17 @@ J=Path(__file__).parent/"herramientas.json"
 G=os.environ.get("GEMINI_API_KEY","")
 MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
 
+# Modelos a probar en orden. Se puede forzar uno con la variable GEMINI_MODEL.
+# Los *-lite suelen tener cuota gratuita más generosa (menos errores 429).
+_modelo_env=os.environ.get("GEMINI_MODEL","").strip()
+MODELOS=[_modelo_env] if _modelo_env else [
+ "gemini-2.0-flash-lite",
+ "gemini-2.5-flash",
+ "gemini-2.0-flash",
+]
+REINTENTOS=3          # intentos por modelo ante un 429
+ESPERA_BASE=20        # segundos; se multiplica en cada reintento (20, 40, 60)
+
 # Anotaciones visibles en GitHub Actions (salen resaltadas en rojo/amarillo)
 def err(m):print("::error::"+m)
 def warn(m):print("::warning::"+m)
@@ -52,6 +63,7 @@ try:
  import feedparser
  n=[]
  for u in [
+  # --- Medios IA generalistas (verificados, funcionan) ---
   "https://techcrunch.com/category/artificial-intelligence/feed/",
   "https://venturebeat.com/category/ai/feed/",
   "https://www.artificialintelligence-news.com/feed/",
@@ -63,11 +75,30 @@ try:
   "https://www.technologyreview.com/feed/",
   "https://www.newscientist.com/subject/artificial-intelligence/feed/",
   "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+  # --- Lanzamientos de productos/herramientas (añadidos y verificados 2026-06-20) ---
+  "https://www.producthunt.com/feed?category=artificial-intelligence",  # productos nuevos a diario
+  "https://www.marktechpost.com/feed/",                                  # lanzamientos y releases
+  "https://the-decoder.com/feed/",                                       # productos y modelos nuevos
+  "https://dailyai.com/feed/",                                           # herramientas y noticias IA
+  "https://syncedreview.com/feed/",                                      # nuevos modelos/sistemas
+  "https://huggingface.co/blog/feed.xml",                                # modelos y librerías open-source
+  "https://hnrss.org/newest?q=AI+tool",                                  # "AI tool" en Hacker News
+  "https://hnrss.org/newest?q=launch+AI",                                # lanzamientos en Hacker News
  ]:
   try:
    f=feedparser.parse(u)
-   for e in f.entries[:20]:
-    n.append({"ti":e.get("title",""),"re":re.sub(r"<[^>]+>","",e.get("summary",e.get("description",""))),"li":e.get("link","")})
+   # Product Hunt = lanzamientos de productos: cogemos más entradas de ahí.
+   tope=25 if "producthunt" in u else 15
+   medio=(f.feed.get("title","") or "")[:40]
+   for e in f.entries[:tope]:
+    fp=e.get("published_parsed") or e.get("updated_parsed")
+    iso=""
+    if fp:
+     try:
+      from time import strftime
+      iso=strftime("%Y-%m-%dT%H:%M:%SZ",fp)
+     except:pass
+    n.append({"ti":e.get("title",""),"re":re.sub(r"<[^>]+>","",e.get("summary",e.get("description",""))),"li":e.get("link",""),"fuente":u,"medio":medio,"fecha":iso})
   except:pass
  print(f"Noticias: {len(n)}")
 except:
@@ -76,49 +107,150 @@ except:
 if not n:
  warn("0 noticias recogidas de los feeds RSS (¿feeds caídos o red bloqueada?)")
 
+# ─────────────────────────────────────────────────────────────
+# 1b) Generar noticias.json para la barra lateral de la web.
+#     Clasifica en "novedades" (todas) y "etica" (filtradas por palabras clave).
+# ─────────────────────────────────────────────────────────────
+def _guardar_noticias(items):
+ N=Path(__file__).parent/"noticias.json"
+ KW_ETICA=["ethic","ética","etica","bias","sesgo","privacy","privacid",
+  "regulat","regulación","regulacion","copyright","derechos de autor","deepfake",
+  "surveillance","vigilancia","ai safety","ai risk","misinformation","desinformación",
+  "desinformacion","responsible ai","ia responsable","transparen","governance","gobernanza",
+  "moratorium","moratoria","discriminat","discriminación",
+  "discriminacion","consent","consentimiento","accountab","ley de ia","ai act","eu ai",
+  "data center","centro de datos","job","empleo","layoff","despido","worker","trabajador",
+  "lawsuit","demanda","ban","prohib","fraud","fraude","scam","estafa"]
+ def limpio(it):
+  return {
+   "titulo":(it.get("ti") or "").strip()[:160],
+   "resumen":re.sub(r"\s+"," ",(it.get("re") or "")).strip()[:220],
+   "enlace":it.get("li",""),
+   "medio":it.get("medio","") or "",
+   "fecha":it.get("fecha","") or ""
+  }
+ def es_etica(it):
+  tx=((it.get("ti") or "")+" "+(it.get("re") or "")).lower()
+  return any(k in tx for k in KW_ETICA)
+ def dedup(lst):
+  vis=set();out=[]
+  for x in lst:
+   t=x["titulo"].lower()
+   if t and t not in vis:
+    vis.add(t);out.append(x)
+  return out
+ # ordenar por fecha descendente cuando haya fecha
+ ordenadas=sorted(items,key=lambda it:it.get("fecha",""),reverse=True)
+ novedades=dedup([limpio(x) for x in ordenadas if (x.get("ti") or "").strip()])[:30]
+ etica=dedup([limpio(x) for x in ordenadas if es_etica(x) and (x.get("ti") or "").strip()])[:20]
+ data={
+  "actualizado":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+  "novedades":novedades,
+  "etica":etica
+ }
+ with open(N,"w",encoding="utf-8") as f:json.dump(data,f,ensure_ascii=False,indent=2)
+ print(f"noticias.json: {len(novedades)} novedades, {len(etica)} de ética")
+
+if n:
+ _guardar_noticias(n)
+
 c=[]
 gemini_ok=False
 
 # ─────────────────────────────────────────────────────────────
 # 2) Análisis con Gemini (fuente principal de detección)
 # ─────────────────────────────────────────────────────────────
+def llamar_gemini(prompt):
+ """Devuelve (texto, True) si responde 200. Recorre MODELOS y reintenta
+ ante un 429 (cuota) con espera creciente. Si todos fallan, (None, False)."""
+ import time
+ import requests as rq
+ cuota=False
+ for modelo in MODELOS:
+  url="https://generativelanguage.googleapis.com/v1beta/models/"+modelo+":generateContent?key="+G
+  for intento in range(1,REINTENTOS+1):
+   try:
+    rp=rq.post(url,
+     json={"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"temperature":0.1}},
+     timeout=40)
+   except Exception as ex:
+    warn(f"[{modelo}] error de red (intento {intento}): {ex}")
+    time.sleep(ESPERA_BASE)
+    continue
+   if rp.status_code==200:
+    print(f"✓ Gemini OK con modelo {modelo}")
+    try:
+     return rp.json()["candidates"][0]["content"]["parts"][0]["text"],True
+    except Exception as ex:
+     warn(f"[{modelo}] respuesta 200 pero ilegible: {ex}")
+     return None,True
+   if rp.status_code==429:
+    cuota=True
+    if intento<REINTENTOS:
+     espera=ESPERA_BASE*intento
+     warn(f"[{modelo}] cuota agotada (429). Reintento {intento}/{REINTENTOS-1} en {espera}s...")
+     time.sleep(espera)
+     continue
+    else:
+     warn(f"[{modelo}] 429 tras {REINTENTOS} intentos. Probando siguiente modelo...")
+     break
+   if rp.status_code in (400,403,404):
+    warn(f"[{modelo}] HTTP {rp.status_code} ({rp.text[:120]}). Probando siguiente modelo...")
+    break
+   warn(f"[{modelo}] HTTP {rp.status_code}: {rp.text[:120]}")
+   break
+ if cuota:
+  err("Todos los modelos de Gemini devolvieron 429 (cuota agotada). "
+      "Espera al reinicio diario del cupo o revisa tu plan: https://ai.google.dev/gemini-api/docs/rate-limits")
+ else:
+  err("No se pudo obtener respuesta de Gemini con ningún modelo. Se usará la heurística.")
+ return None,False
+
 if not G:
  warn("Falta el secret GEMINI_API_KEY (ITACA). Se usará solo la heurística, mucho menos fiable.")
 elif n:
- print("🤖 Gemini analizando...")
- try:
-  import requests as rq
-  hdr="\n".join([x["ti"]+" — "+x["re"][:160] for x in n[:30]])
-  known=", ".join(nombres[:50])
-  p=(
-   "Eres un analista de herramientas de IA para un catálogo en español. "
-   "A partir de estos titulares, identifica SOLO herramientas/productos de IA NUEVOS y reales "
-   "(no funciones de productos ya conocidos). YA CONOCIDAS (ignóralas): "+known+"\n\n"
-   "TITULARES:\n"+hdr+"\n\n"
-   "Devuelve SOLO un array JSON. Cada objeto con estos campos en español: "
-   "nombre, compania, tipo, precio (uno de: Gratuito, Freemium, Pago), descripcion (1-2 frases), "
-   "web, funciones (array de 3-6), caracteristicas (array de 3-6), "
-   "etica (1-2 frases sobre privacidad/sesgos/impacto). "
-   "Si no hay ninguna herramienta nueva clara, devuelve []."
-  )
-  rp=rq.post(
-   "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key="+G,
-   json={"contents":[{"parts":[{"text":p}]}],"generationConfig":{"temperature":0.1}},
-   timeout=40
-  )
-  if rp.status_code==200:
-   gemini_ok=True
-   tx=rp.json()["candidates"][0]["content"]["parts"][0]["text"]
-   m=re.search(r"\[[\s\S]*\]",tx)
-   if m:
+ print("🤖 Gemini analizando (modelos: "+", ".join(MODELOS)+")...")
+ # Muestra repartida entre fuentes (round-robin) para que Gemini no vea
+ # solo los primeros feeds. Product Hunt primero (es donde hay herramientas).
+ def _muestra(items, limite=60):
+  porfuente={}
+  for it in items:
+   porfuente.setdefault(it.get("fuente",""),[]).append(it)
+  fuentes=sorted(porfuente, key=lambda u: 0 if "producthunt" in u else 1)
+  out=[]; i=0
+  while len(out)<limite and any(porfuente.values()):
+   for u in fuentes:
+    if porfuente[u]:
+     out.append(porfuente[u].pop(0))
+     if len(out)>=limite: break
+   i+=1
+   if i>200: break
+  return out
+ muestra=_muestra(n,60)
+ hdr="\n".join([x["ti"]+" — "+x["re"][:160] for x in muestra])
+ known=", ".join(nombres[:50])
+ p=(
+  "Eres un analista de herramientas de IA para un catálogo en español. "
+  "A partir de estos titulares, identifica SOLO herramientas/productos de IA NUEVOS y reales "
+  "(no funciones de productos ya conocidos). YA CONOCIDAS (ignóralas): "+known+"\n\n"
+  "TITULARES:\n"+hdr+"\n\n"
+  "Devuelve SOLO un array JSON. Cada objeto con estos campos en español: "
+  "nombre, compania, tipo, precio (uno de: Gratuito, Freemium, Pago), descripcion (1-2 frases), "
+  "web, funciones (array de 3-6), caracteristicas (array de 3-6), "
+  "etica (1-2 frases sobre privacidad/sesgos/impacto). "
+  "Si no hay ninguna herramienta nueva clara, devuelve []."
+ )
+ tx,gemini_ok=llamar_gemini(p)
+ if tx:
+  m=re.search(r"\[[\s\S]*\]",tx)
+  if m:
+   try:
     for h in json.loads(m.group()):
      if h.get("nombre","").lower() not in [x.lower() for x in nombres]:
       c.append(h)
-   print(f"Gemini: {len(c)} detectadas")
-  else:
-   err(f"Gemini respondió HTTP {rp.status_code}: {rp.text[:200]}")
- except Exception as ex:
-  err(f"Fallo llamando a Gemini: {ex}")
+   except Exception as ex:
+    warn(f"No se pudo parsear el JSON de Gemini: {ex}")
+  print(f"Gemini: {len(c)} detectadas")
 
 # ─────────────────────────────────────────────────────────────
 # 3) Heurística (respaldo si Gemini no detectó nada)
