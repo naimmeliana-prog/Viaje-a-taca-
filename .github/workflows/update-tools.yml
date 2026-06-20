@@ -1,9 +1,13 @@
 name: Actualizar herramientas IA
 on:
   schedule:
-    # Cada 2 días a las 09:00 UTC. Nota: GitHub usa días del mes con */2,
-    # así que en el cambio de mes el hueco puede ser de 1 día. Es aceptable.
-    - cron: "0 9 */2 * *"
+    # Cada 2 días a las 08:00 UTC (~10:00 España).
+    # La cuota gratuita de Gemini se reinicia a medianoche del Pacífico
+    # (07:00 UTC en verano PDT / 08:00 UTC en invierno PST), así que esta
+    # hora deja correr el bot justo DESPUÉS del reinicio, con cupo fresco.
+    # Nota: GitHub usa días del mes con */2, así que en el cambio de mes
+    # el hueco puede ser de 1 día. Es aceptable.
+    - cron: "0 8 */2 * *"
   workflow_dispatch:
     inputs:
       modo_prueba:
@@ -34,6 +38,9 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.ITACA }}
           MODO_PRUEBA: ${{ inputs.modo_prueba || '0' }}
+          # Opcional: fija un modelo concreto. Si se deja vacío, el script
+          # prueba en orden: gemini-2.0-flash-lite, gemini-2.5-flash, gemini-2.0-flash.
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: python3 update_tools.py
 
       # Regenera data/herramientas.js a partir del JSON, sin tocar el
