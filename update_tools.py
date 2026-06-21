@@ -380,7 +380,9 @@ def enriquecer_con_gemini(lista):
    "'Chatbot / Asistente', 'Productividad', 'Agentes IA'...), "
    "precio (Gratuito|Freemium|Pago), descripcion (1-2 frases en español), "
    "funciones (array 3-5 en español), caracteristicas (array 3-5 en español), "
-   "etica (1-2 frases en español sobre privacidad/sesgos/impacto). "
+   "etica (1-2 frases en español sobre privacidad/sesgos/impacto), "
+   "limite_gratis (1 frase en español: qué ofrece o qué limita el plan GRATUITO; "
+   "si la herramienta es de pago sin plan gratis, pon 'Sin plan gratuito'). "
    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
   )
   tx2,ok2=llamar_gemini(pe)
@@ -393,7 +395,7 @@ def enriquecer_con_gemini(lista):
   for x in lista:
    f=porn.get((x.get("nombre","") or "").strip().lower())
    if not f:continue
-   for campo in ("compania","tipo","precio","descripcion","funciones","caracteristicas","etica"):
+   for campo in ("compania","tipo","precio","descripcion","funciones","caracteristicas","etica","limite_gratis"):
     if f.get(campo):x[campo]=f[campo]
    enr+=1
   return enr
@@ -502,8 +504,35 @@ if pend:
    cerradas+=1
  if cerradas:print(f"  Cerradas automáticamente (etiqueta 🆕 retirada): {cerradas}")
 
-# Guardar si hubo altas nuevas o cambios en pendientes
-if new or pend:
+# ─────────────────────────────────────────────────────────────
+# 6) BACKFILL del límite del plan gratuito (limite_gratis).
+#    Rellena cada ciclo, poco a poco, las herramientas que aún no lo tengan,
+#    priorizando las Freemium. Con Gemini; sin él, no hace nada (no rompe).
+#    Lote pequeño para no agotar la cuota: el catálogo se completa en varios ciclos.
+# ─────────────────────────────────────────────────────────────
+def _falta_lg(h):
+ v=h.get("limite_gratis","")
+ return not (isinstance(v,str) and len(v.strip())>3)
+
+sin_lg=[h for h in t if _falta_lg(h)]
+# Las Freemium/Gratuito primero (son las que más interesan a los usuarios)
+sin_lg.sort(key=lambda h: 0 if str(h.get("precio","")).lower().startswith(("freemium","gratuito")) else 1)
+backfill=sin_lg[:8]
+backfill_cambios=0
+if G and backfill:
+ print(f"Backfill 'plan gratuito': {len(sin_lg)} sin dato; procesando {len(backfill)} este ciclo...")
+ antes={id(h):h.get("limite_gratis","") for h in backfill}
+ enriquecer_con_gemini(backfill)   # rellena limite_gratis (y completa huecos)
+ for h in backfill:
+  v=h.get("limite_gratis","")
+  if isinstance(v,str) and len(v.strip())>3 and v!=antes[id(h)]:
+   backfill_cambios+=1
+ print(f"  Completadas con límite gratis: {backfill_cambios}")
+elif backfill:
+ print(f"Backfill 'plan gratuito' pendiente ({len(sin_lg)} sin dato), pero no hay clave Gemini.")
+
+# Guardar si hubo altas nuevas, cambios en pendientes o backfill
+if new or pend or backfill_cambios:
  with open(J,"w",encoding="utf-8") as f:json.dump(t,f,ensure_ascii=False,indent=2)
  print(f"JSON: {len(t)} herramientas")
 else:
