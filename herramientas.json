@@ -218,117 +218,111 @@
   {
     "id": "deepseek",
     "nombre": "DeepSeek",
-    "compania": "DeepSeek (High-Flyer, China)",
-    "tipo": "Chatbot / Asistente",
-    "precio": "Gratuito",
+    "compania": "DeepSeek",
+    "tipo": "Chatbot / Asistente, Modelos de Lenguaje (LLM)",
+    "precio": "Freemium",
     "gratis": true,
     "pago": false,
     "web": "https://chat.deepseek.com",
-    "descripcion": "Chatbot chino que irrumpió con modelos open-source altamente competitivos. Razonamiento avanzado gratuito con R1. Sacudió los mercados por su eficiencia.",
+    "descripcion": "Un chatbot chino conocido por sus modelos open-source altamente competitivos y su eficiencia, ofreciendo razonamiento avanzado.",
     "funciones": [
-      "Chat conversacional",
-      "Razonamiento profundo (R1)",
+      "Conversación y diálogo",
+      "Razonamiento lógico avanzado",
+      "Generación de texto",
       "Programación",
-      "Matemáticas avanzadas",
-      "Análisis de documentos",
-      "Búsqueda web (manual)"
+      "Análisis de información"
     ],
     "caracteristicas": [
-      "Modelo DeepSeek-V3 / R1",
-      "1M tokens contexto",
       "Modelos open-source",
-      "App móvil",
-      "Búsqueda web",
-      "API muy económica"
+      "Alta eficiencia",
+      "Rendimiento competitivo",
+      "Desarrollado en China",
+      "Acceso a modelos R1"
     ],
-    "etica": "Modelos parcialmente abiertos. Preocupaciones sobre procedencia de datos de entrenamiento y posible censura alineada con regulación china. Cuestiones geopolíticas."
+    "etica": "Como modelo de IA, DeepSeek debe abordar la privacidad de los datos del usuario y esforzarse por minimizar sesgos en sus respuestas, aunque su naturaleza open-source permite la auditoría comunitaria.",
+    "limite_gratis": "Ofrece razonamiento avanzado gratuito con su modelo R1, permitiendo a los usuarios experimentar sus capacidades sin coste inicial."
   },
   {
     "id": "glm",
     "nombre": "GLM (Z.ai)",
-    "compania": "Zhipu AI (Z.ai, China)",
-    "tipo": "Chatbot / Asistente",
-    "precio": "Freemium",
+    "compania": "Zhipu AI",
+    "tipo": "Modelos de Lenguaje (LLM), Agentes IA, Asistente de programación",
+    "precio": "Pago",
     "gratis": true,
     "pago": true,
     "web": "https://chat.z.ai",
-    "descripcion": "Familia de modelos de la china Zhipu AI (marca internacional Z.ai). Su buque insignia GLM-5.2 destaca en razonamiento y programación agéntica a un coste muy inferior al de sus rivales occidentales. Varios modelos son open-source y hay versiones Flash gratuitas.",
+    "descripcion": "Una familia de modelos de lenguaje de Zhipu AI, con GLM-5.2 como buque insignia, destacando en razonamiento y programación agéntica.",
     "funciones": [
-      "Chat conversacional",
-      "Razonamiento profundo ('Deep Thinking')",
+      "Razonamiento complejo",
       "Programación agéntica",
-      "Generación de presentaciones",
-      "Visión (modelos GLM-V)",
-      "Uso de herramientas (tool calling)",
-      "API compatible con Claude Code"
+      "Generación de código",
+      "Conversación avanzada",
+      "Análisis de datos"
     ],
     "caracteristicas": [
-      "Modelos GLM-5.2 / GLM-5 / GLM-4.7",
-      "Hasta 200K tokens de contexto",
-      "Modelos Flash gratuitos (GLM-4.7-Flash)",
-      "Varios modelos open-source",
-      "Coding Plan desde ~10 $/mes",
-      "App y web (chat.z.ai)",
-      "API económica"
+      "Modelos de alto rendimiento",
+      "Especialización en programación agéntica",
+      "Desarrollado por Zhipu AI (China)",
+      "Costo competitivo",
+      "Buque insignia GLM-5.2"
     ],
-    "etica": "Empresa china; sus modelos pueden incluir censura alineada con la regulación local y plantean dudas sobre la procedencia de los datos de entrenamiento y cuestiones geopolíticas. Como contrapartida, la apertura de varios modelos permite auditoría y ejecución local, y democratiza el acceso por su bajo coste.",
-    "fecha_agregado": "2026-06-20"
+    "etica": "Zhipu AI, como desarrollador, es responsable de la seguridad y privacidad de los datos procesados por sus modelos, así como de mitigar sesgos y asegurar un uso ético de la IA.",
+    "fecha_agregado": "2026-06-20",
+    "limite_gratis": "Sin plan gratuito."
   },
   {
     "id": "poe",
     "nombre": "Poe",
     "compania": "Quora",
-    "tipo": "Chatbot / Agregador",
+    "tipo": "Chatbot / Asistente, Agregador de IA, Productividad",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://poe.com",
-    "descripcion": "Agregador que da acceso a múltiples modelos de IA en un solo sitio: ChatGPT, Claude, Gemini, Llama, Mistral y más. Permite comparar y crear bots personalizados.",
+    "descripcion": "Una plataforma agregadora que proporciona acceso a una amplia gama de modelos de IA populares como ChatGPT, Claude y Gemini, permitiendo comparar y crear bots personalizados.",
     "funciones": [
-      "Acceso a múltiples modelos",
-      "Comparación de respuestas",
-      "Creación de bots",
-      "Chats con distintos modelos",
-      "Comunidad de bots",
-      "Subida de archivos"
+      "Acceso unificado a múltiples LLMs",
+      "Comparación de modelos de IA",
+      "Creación de bots personalizados",
+      "Conversación con diferentes IAs",
+      "Exploración de capacidades de IA"
     ],
     "caracteristicas": [
-      "+20 modelos disponibles",
-      "Plan gratuito generoso",
-      "Bots personalizables",
-      "App móvil",
-      "Interfaz unificada",
-      "API para creadores"
+      "Interfaz centralizada",
+      "Amplia selección de modelos (ChatGPT, Claude, Gemini, Llama, Mistral)",
+      "Personalización de bots",
+      "Comunidad de usuarios",
+      "Desarrollado por Quora"
     ],
-    "etica": "Centraliza el acceso a múltiples IAs. Útil para comparar, pero añade otra capa de intermediación y recolección de datos."
+    "etica": "Poe actúa como intermediario, por lo que la ética de cada modelo subyacente recae en sus respectivos desarrolladores. Poe debe asegurar la privacidad de las interacciones del usuario y la transparencia sobre el uso de datos.",
+    "limite_gratis": "Ofrece acceso gratuito a una selección de modelos de IA y permite la creación de bots personalizados, con posibles limitaciones en el uso o acceso a modelos premium."
   },
   {
     "id": "pi",
     "nombre": "Pi AI",
     "compania": "Inflection AI",
-    "tipo": "Chatbot / Asistente",
+    "tipo": "Chatbot / Asistente, Bienestar digital",
     "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://pi.ai",
-    "descripcion": "Asistente conversacional enfocado en empatía y apoyo emocional. Diseñado para ser un compañero de conversación amable y reflexivo. Ideal para dialogar, no tanto para tareas técnicas.",
+    "descripcion": "Un asistente conversacional diseñado para ofrecer empatía y apoyo emocional, actuando como un compañero de conversación amable y reflexivo.",
     "funciones": [
       "Conversación empática",
       "Apoyo emocional",
-      "Reflexión personal",
-      "Brainstorming",
+      "Diálogo reflexivo",
       "Escucha activa",
-      "Conversaciones profundas"
+      "Generación de respuestas personalizadas"
     ],
     "caracteristicas": [
-      "Modelo Inflection-3",
-      "Enfoque en empatía",
-      "App móvil",
-      "Voces naturales",
-      "Totalmente gratuito",
-      "Interfaz cálida y sencilla"
+      "Enfoque en bienestar emocional",
+      "Tono amable y reflexivo",
+      "Diseñado para conversaciones prolongadas",
+      "Accesible como chatbot",
+      "Desarrollado por Inflection AI"
     ],
-    "etica": "Diseñado con foco en bienestar. Plantea el debate sobre dependencia emocional de IAs. Inflection fue adquirida parcialmente por Microsoft."
+    "etica": "Pi AI debe priorizar la privacidad del usuario y la confidencialidad de las conversaciones sensibles. Es crucial que no reemplace la ayuda profesional y que sus respuestas sean siempre constructivas y seguras.",
+    "limite_gratis": "Es un servicio completamente gratuito, ofreciendo conversaciones ilimitadas y apoyo emocional sin coste."
   },
   {
     "id": "midjourney",
@@ -390,113 +384,109 @@
     "id": "adobe-firefly",
     "nombre": "Adobe Firefly",
     "compania": "Adobe",
-    "tipo": "Generación de imágenes",
+    "tipo": "Generación de imágenes, Diseño gráfico",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://firefly.adobe.com",
-    "descripcion": "Generador de imágenes de Adobe, integrado en Photoshop, Illustrator y Express. Entrenado con imágenes con licencia de Adobe Stock. Comercialmente seguro: Adobe indemniza a usuarios.",
+    "descripcion": "Un generador de imágenes de Adobe, integrado en sus principales herramientas de diseño, entrenado con contenido de Adobe Stock para garantizar la seguridad comercial.",
     "funciones": [
-      "Generación de imágenes",
-      "Relleno generativo",
-      "Efectos de texto",
-      "Edición en Photoshop",
-      "Colores y vectores",
-      "Ampliación generativa"
+      "Generación de imágenes a partir de texto",
+      "Edición generativa (relleno, expansión)",
+      "Creación de efectos de texto",
+      "Generación de vectores",
+      "Integración con Creative Cloud"
     ],
     "caracteristicas": [
-      "Modelo Firefly Image 4",
-      "Entrenado con contenido licenciado",
-      "Integración Adobe Creative Cloud",
-      "Comercialmente seguro",
-      "Indemnización legal",
-      "Créditos gratuitos mensuales"
+      "Entrenado con Adobe Stock (comercialmente seguro)",
+      "Integración nativa en Photoshop, Illustrator, Express",
+      "Interfaz intuitiva",
+      "Resultados de alta calidad",
+      "Enfoque en uso profesional"
     ],
-    "etica": "Modelo ejemplar de entrenamiento ético (solo con contenido licenciado). Adobe ofrece indemnización por copyright. Estándar para uso comercial."
+    "etica": "Adobe se compromete con la transparencia y la compensación a los artistas que contribuyen a Adobe Stock. Firefly está diseñado para ser comercialmente seguro, evitando problemas de derechos de autor y sesgos dañinos.",
+    "limite_gratis": "Ofrece un plan gratuito con un número limitado de créditos generativos mensuales para probar sus capacidades en la web o en las aplicaciones de Adobe."
   },
   {
     "id": "stable-diffusion",
     "nombre": "Stable Diffusion",
     "compania": "Stability AI",
-    "tipo": "Generación de imágenes",
-    "precio": "Gratuito (open-source)",
+    "tipo": "Generación de imágenes, Modelos de IA (open-source)",
+    "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://stability.ai",
-    "descripcion": "Modelo open-source líder. Se ejecuta localmente sin límites ni censura. Comunidad masiva con miles de modelos fine-tuned y LoRAs en CivitAI y HuggingFace.",
+    "descripcion": "Un modelo de generación de imágenes open-source líder que permite a los usuarios ejecutarlo localmente sin límites ni censura, con una vasta comunidad de desarrollo.",
     "funciones": [
-      "Generación local ilimitada",
-      "Fine-tuning",
-      "Inpainting",
-      "ControlNet",
-      "Modelos personalizados (LoRA)",
-      "Plugins para Photoshop/Krita"
+      "Generación de imágenes a partir de texto",
+      "Inpainting y outpainting",
+      "Image-to-image (transformación de imágenes)",
+      "Control de estilo y composición",
+      "Creación de arte digital"
     ],
     "caracteristicas": [
-      "Modelo SDXL / SD 3.5",
-      "Open-source",
-      "Ejecutable en PC con GPU",
-      "Comunidad (CivitAI, HuggingFace)",
-      "ControlNet y IP-Adapter",
-      "Sin censura"
+      "Open-source y de código abierto",
+      "Ejecución local (privacidad y control)",
+      "Sin censura inherente",
+      "Gran comunidad de usuarios y desarrolladores",
+      "Soporte para modelos fine-tuned y LoRAs"
     ],
-    "etica": "Transparencia total al ser open-source. Riesgo de deepfakes. La comunidad ha creado herramientas de moderación. Stability AI tuvo problemas financieros."
+    "etica": "Al ser open-source y ejecutable localmente, la responsabilidad ética recae en el usuario final. Stability AI promueve un uso responsable, pero la naturaleza abierta del modelo permite usos que pueden ser problemáticos si no se aplican filtros o consideraciones éticas.",
+    "limite_gratis": "El modelo base es completamente gratuito y de código abierto, permitiendo su uso ilimitado y sin restricciones en hardware propio."
   },
   {
     "id": "leonardo",
     "nombre": "Leonardo.ai",
-    "compania": "Leonardo AI (Canva)",
-    "tipo": "Generación de imágenes",
+    "compania": "Leonardo.ai (parte de Canva)",
+    "tipo": "Generación de imágenes, Diseño gráfico, Arte conceptual",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://leonardo.ai",
-    "descripcion": "Plataforma de generación de imágenes con enfoque en juegos, arte conceptual y diseño. Interfaz web intuitiva. 150 créditos diarios gratuitos. Adquirido por Canva.",
+    "descripcion": "Una plataforma de generación de imágenes con una interfaz web intuitiva, especializada en la creación de contenido para juegos, arte conceptual y diseño.",
     "funciones": [
-      "Generación de imágenes",
-      "Edición con IA",
-      "Canvas interactivo",
-      "Modelos especializados",
-      "Generación por lotes",
-      "Entrenamiento de modelos"
+      "Generación de imágenes de alta calidad",
+      "Creación de arte conceptual",
+      "Diseño de personajes y entornos",
+      "Edición de imágenes con IA",
+      "Upscaling y mejora de imágenes"
     ],
     "caracteristicas": [
-      "150 créditos/día gratis",
-      "Modelos propios y comunidad",
-      "Editor canvas",
-      "API disponible",
-      "Flux y SDXL",
-      "Comunidad activa"
+      "Interfaz web amigable",
+      "Modelos especializados para arte y juegos",
+      "Herramientas de edición integradas",
+      "Comunidad y recursos",
+      "Adquirido por Canva"
     ],
-    "etica": "Adquirido por Canva. Políticas de contenido en evolución. Buena opción para creadores visuales con plan gratuito generoso."
+    "etica": "Leonardo.ai debe asegurar la privacidad de los datos del usuario y la originalidad de las creaciones. Como parte de Canva, se espera un compromiso con la creación de contenido ético y la mitigación de sesgos.",
+    "limite_gratis": "Ofrece 150 créditos diarios gratuitos, permitiendo a los usuarios generar un número considerable de imágenes cada día sin coste."
   },
   {
     "id": "ideogram",
     "nombre": "Ideogram",
     "compania": "Ideogram AI",
-    "tipo": "Generación de imágenes",
+    "tipo": "Generación de imágenes, Diseño gráfico, Marketing",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://ideogram.ai",
-    "descripcion": "Especialista en generar texto dentro de imágenes. Si necesitas carteles, logos, memes o cualquier imagen con palabras precisas, Ideogram es el mejor. Plan gratuito con créditos diarios.",
+    "descripcion": "Una herramienta de generación de imágenes especializada en la creación precisa de texto dentro de las imágenes, ideal para carteles, logos y memes.",
     "funciones": [
-      "Texto en imágenes",
-      "Generación de imágenes",
-      "Diseño de logos",
-      "Carteles y pósters",
-      "Tipografía precisa",
-      "Estilos variados"
+      "Generación de imágenes con texto preciso",
+      "Creación de logos y carteles",
+      "Diseño de memes",
+      "Estilización de texto en imágenes",
+      "Generación de arte tipográfico"
     ],
     "caracteristicas": [
-      "Especialista en texto preciso",
-      "Créditos diarios gratuitos",
-      "Interfaz web simple",
-      "Estilos predefinidos",
-      "Alta legibilidad",
-      "Descarga en buena resolución"
+      "Excelente manejo de texto en imágenes",
+      "Resultados de alta calidad",
+      "Interfaz intuitiva",
+      "Enfoque en diseño gráfico y marketing",
+      "Capacidad para generar estilos variados"
     ],
-    "etica": "Startup independiente. Destaca en una función (texto) donde otros generadores fallan. Pocas polémicas hasta ahora."
+    "etica": "Ideogram debe garantizar la privacidad de los diseños de los usuarios y evitar la generación de contenido ofensivo o que infrinja derechos de autor. La precisión del texto también implica una responsabilidad en la información que se genera.",
+    "limite_gratis": "Ofrece un plan gratuito que permite a los usuarios generar imágenes con texto, con un límite diario de creaciones o acceso a ciertas funciones."
   },
   {
     "id": "sora",
