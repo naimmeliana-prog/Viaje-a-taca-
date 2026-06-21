@@ -8,26 +8,23 @@
     "gratis": true,
     "pago": true,
     "web": "https://chat.openai.com",
-    "descripcion": "Asistente conversacional líder mundial. GPT-4o mini gratuito es muy capaz; ChatGPT Plus ofrece GPT-4o completo, mayor contexto, DALL·E, navegación web, Code Interpreter y GPTs personalizados.",
+    "descripcion": "Asistente conversacional líder mundial desarrollado por OpenAI, conocido por su capacidad para entender y generar texto coherente y relevante. Ofrece modelos avanzados para diversas tareas, desde la redacción hasta la programación.",
     "funciones": [
-      "Chat conversacional",
-      "Redacción y edición",
-      "Programación",
-      "Análisis de datos",
-      "Traducción",
-      "Generación de imágenes (Plus)",
-      "Navegación web (Plus)",
-      "GPTs personalizados"
+      "Conversación y generación de texto",
+      "Resumen y traducción de documentos",
+      "Programación y depuración de código (Code Interpreter)",
+      "Generación de imágenes (DALL·E)",
+      "Navegación web para información actualizada"
     ],
     "caracteristicas": [
-      "Modelo GPT-4o / GPT-4o mini",
-      "128K tokens contexto (Plus)",
-      "App móvil iOS/Android",
-      "Modo voz avanzado",
-      "Subida de archivos",
-      "Code Interpreter"
+      "Modelos GPT-4o y GPT-4o mini",
+      "Interfaz de chat intuitiva",
+      "Amplia base de conocimientos",
+      "Integración con herramientas de desarrollo",
+      "Capacidades multimodales (texto, imagen, voz)"
     ],
-    "etica": "OpenAI tiene políticas de uso y moderación. Ofrecen transparencia parcial. Entrenamiento con datos públicos ha generado controversia."
+    "etica": "OpenAI se esfuerza por la seguridad y la alineación de la IA, aunque los modelos pueden exhibir sesgos inherentes a los datos de entrenamiento. La privacidad de los datos de usuario es una preocupación constante, con opciones para controlar el uso de datos.",
+    "limite_gratis": "El plan gratuito ofrece acceso al modelo GPT-4o mini, que es muy capaz para la mayoría de las tareas conversacionales y de generación de texto."
   },
   {
     "id": "claude",
@@ -38,194 +35,185 @@
     "gratis": true,
     "pago": true,
     "web": "https://claude.ai",
-    "descripcion": "Asistente con enfoque en seguridad y ética. Destaca por su ventana de contexto masiva (200K tokens), razonamiento profundo y análisis de documentos extensos. Ideal para textos largos.",
+    "descripcion": "Asistente de IA desarrollado por Anthropic, conocido por su fuerte enfoque en la seguridad, la ética y la capacidad de manejar ventanas de contexto extremadamente grandes. Es ideal para el análisis profundo de documentos extensos.",
     "funciones": [
-      "Chat conversacional",
-      "Análisis de documentos largos",
-      "Programación",
-      "Redacción",
-      "Razonamiento complejo",
-      "Investigación",
-      "Artefactos interactivos"
+      "Conversación y generación de texto",
+      "Análisis y resumen de documentos extensos",
+      "Razonamiento complejo y resolución de problemas",
+      "Generación de código y contenido creativo",
+      "Procesamiento de grandes volúmenes de información"
     ],
     "caracteristicas": [
-      "Modelo Claude 4 Sonnet / Opus",
-      "200K tokens de contexto",
-      "App móvil iOS/Android",
-      "Procesamiento de PDFs y hojas de cálculo",
-      "Artefactos interactivos",
-      "Projects (organización)"
+      "Ventana de contexto masiva (hasta 200K tokens)",
+      "Modelos Claude 3 (Opus, Sonnet, Haiku)",
+      "Principios de IA constitucional para seguridad",
+      "Capacidades multimodales (texto, imagen)",
+      "Enfoque en la reducción de sesgos y daños"
     ],
-    "etica": "Anthropic es una B-Corp. Pioneros en 'Constitutional AI'. Máximo enfoque en seguridad y alineación. Altos estándares éticos."
+    "etica": "Anthropic prioriza la seguridad y la ética a través de la 'IA Constitucional', buscando minimizar sesgos y resultados dañinos. La privacidad de los datos es un pilar fundamental en su desarrollo y uso.",
+    "limite_gratis": "El plan gratuito ofrece acceso al modelo Claude 3 Sonnet, permitiendo conversaciones y análisis de documentos con una ventana de contexto generosa, aunque con límites de uso."
   },
   {
     "id": "gemini",
     "nombre": "Gemini",
-    "compania": "Google DeepMind",
+    "compania": "Google",
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://gemini.google.com",
-    "descripcion": "Asistente de Google integrado con el ecosistema Google. Acceso a búsqueda en tiempo real, YouTube, Maps, Gmail y más. Modelo multimodal nativo.",
+    "descripcion": "El asistente de IA de Google, diseñado para integrarse profundamente con el ecosistema de servicios de Google, ofreciendo acceso en tiempo real a información y herramientas. Destaca por su naturaleza multimodal nativa.",
     "funciones": [
-      "Chat conversacional",
-      "Búsqueda web integrada",
-      "Integración Google Workspace",
-      "Análisis de imágenes",
-      "Generación de contenido",
-      "Programación",
-      "Conexión con Gmail/Drive"
+      "Conversación y generación de texto",
+      "Acceso a información en tiempo real (búsqueda de Google)",
+      "Integración con YouTube, Maps, Gmail y otros servicios de Google",
+      "Análisis y generación de contenido multimodal (texto, imágenes, vídeo)",
+      "Planificación y organización de tareas"
     ],
     "caracteristicas": [
-      "Modelo Gemini 2.5 Pro / Flash",
-      "1M tokens contexto",
-      "Integración nativa Google",
-      "Multimodal (imagen, audio, vídeo)",
-      "App móvil Android/iOS",
-      "Gemini Live (voz)"
+      "Modelos Gemini (Ultra, Pro, Nano)",
+      "Integración nativa con Google Workspace",
+      "Capacidades multimodales avanzadas",
+      "Acceso a información actualizada de la web",
+      "Interfaz de usuario intuitiva"
     ],
-    "etica": "Google tiene principios públicos de IA. La integración con el ecosistema Google plantea importantes cuestiones de privacidad de datos."
+    "etica": "Google implementa principios de IA responsable, buscando mitigar sesgos y garantizar la equidad en sus modelos. La privacidad de los datos se gestiona según las políticas de Google, con controles para el usuario.",
+    "limite_gratis": "El plan gratuito ofrece acceso al modelo Gemini Pro, permitiendo conversaciones, acceso a la búsqueda en tiempo real y algunas integraciones con servicios de Google."
   },
   {
     "id": "google-ai-studio",
     "nombre": "Google AI Studio",
     "compania": "Google",
-    "tipo": "Chatbot / Asistente",
+    "tipo": "Plataforma de desarrollo de IA / Herramienta para desarrolladores",
     "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://aistudio.google.com",
-    "descripcion": "Plataforma gratuita de Google para desarrolladores. Acceso directo a los modelos Gemini con controles avanzados: temperatura, system prompts, tokens. Sin límites prácticos para uso razonable. Ideal para prototipado.",
+    "descripcion": "Plataforma gratuita de Google diseñada para desarrolladores, que proporciona acceso directo a los modelos Gemini con controles avanzados para la experimentación y creación de prototipos. Permite ajustar parámetros clave para optimizar el rendimiento del modelo.",
     "funciones": [
-      "Chat con Gemini Pro",
-      "Ajuste de parámetros",
-      "System prompts",
-      "Comparación de modelos",
-      "API key gratuita",
-      "Subida de archivos"
+      "Acceso directo a los modelos Gemini",
+      "Experimentación con diferentes parámetros (temperatura, system prompts)",
+      "Creación y prueba de prototipos de IA",
+      "Generación de texto y contenido multimodal",
+      "Gestión de tokens y longitud de respuesta"
     ],
     "caracteristicas": [
-      "Gemini 2.5 Pro gratuito (límites generosos)",
-      "1M tokens contexto",
-      "Control total de parámetros",
-      "Exportación a código",
-      "Sin necesidad de tarjeta",
-      "Interfaz de desarrollador"
+      "Interfaz de usuario para desarrolladores",
+      "Controles avanzados de modelo",
+      "Acceso a la API de Gemini",
+      "Entorno de desarrollo colaborativo",
+      "Recursos y documentación de Google AI"
     ],
-    "etica": "Acceso gratuito y abierto a modelos avanzados. Democratiza el acceso. Google puede usar datos para mejorar el servicio."
+    "etica": "Google promueve el desarrollo responsable de IA, proporcionando herramientas para que los desarrolladores puedan configurar y probar sus modelos de manera ética. La privacidad de los datos en el entorno de desarrollo es gestionada por Google.",
+    "limite_gratis": "Ofrece acceso ilimitado y gratuito a los modelos Gemini para desarrolladores, permitiendo una experimentación extensa sin costes."
   },
   {
     "id": "meta-ai",
     "nombre": "Meta AI",
-    "compania": "Meta (Facebook)",
+    "compania": "Meta",
     "tipo": "Chatbot / Asistente",
     "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://www.meta.ai",
-    "descripcion": "Asistente gratuito de Meta construido sobre Llama 4. Integrado en WhatsApp, Instagram, Facebook y Messenger. También disponible vía web. Generación de imágenes gratuita con Imagine.",
+    "descripcion": "Asistente de IA de Meta, construido sobre el modelo Llama 4, que se integra directamente en las principales plataformas de la compañía como WhatsApp, Instagram y Facebook. Ofrece capacidades conversacionales y de generación de imágenes.",
     "funciones": [
-      "Chat conversacional",
-      "Generación de imágenes (Imagine)",
-      "Integración en redes sociales",
-      "Búsqueda web",
-      "Recomendaciones",
-      "Asistente en WhatsApp"
+      "Conversación y generación de texto",
+      "Generación de imágenes a partir de texto",
+      "Integración en WhatsApp, Instagram, Facebook y Messenger",
+      "Acceso a información en tiempo real (vía búsqueda)",
+      "Asistencia en diversas tareas dentro de las apps de Meta"
     ],
     "caracteristicas": [
       "Modelo Llama 4",
-      "Gratuito sin límites",
-      "Integrado en apps Meta",
-      "Generación de imágenes gratis",
-      "App independiente",
-      "Disponible en web"
+      "Integración profunda en el ecosistema Meta",
+      "Generación de imágenes 'Imagine'",
+      "Disponible en web y móvil",
+      "Respuestas rápidas y contextuales"
     ],
-    "etica": "Meta entrena con datos públicos de sus plataformas. Preocupaciones sobre privacidad y uso de datos de usuarios de Instagram/Facebook para entrenamiento."
+    "etica": "Meta se compromete con el desarrollo de IA responsable, aunque la integración en redes sociales plantea desafíos en cuanto a la privacidad de los datos y la moderación de contenido. Se esfuerzan por mitigar sesgos y desinformación.",
+    "limite_gratis": "Es un asistente completamente gratuito, ofreciendo todas sus funciones de conversación y generación de imágenes sin coste."
   },
   {
     "id": "mistral",
     "nombre": "Le Chat (Mistral)",
-    "compania": "Mistral AI (Francia)",
+    "compania": "Mistral AI",
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://chat.mistral.ai",
-    "descripcion": "Asistente europeo de la startup francesa Mistral AI. Modelos soberanos y open-source. Respuesta rápida, búsqueda web y subida de documentos. Alternativa europea a OpenAI y Google.",
+    "descripcion": "Asistente de IA desarrollado por la startup francesa Mistral AI, que se posiciona como una alternativa europea con modelos soberanos y de código abierto. Destaca por su rapidez, capacidad de búsqueda web y análisis de documentos.",
     "funciones": [
-      "Chat conversacional",
-      "Búsqueda web",
-      "Subida de documentos",
-      "Programación",
-      "Redacción",
-      "Modelos open-weight"
+      "Conversación y generación de texto",
+      "Búsqueda de información en la web",
+      "Subida y análisis de documentos",
+      "Generación de código y contenido creativo",
+      "Resumen y traducción de textos"
     ],
     "caracteristicas": [
-      "Modelo Mistral Large / Small",
-      "Empresa europea (soberanía digital)",
-      "Modelos open-weight disponibles",
-      "App móvil",
-      "Canvas para edición",
-      "Agente Le Chat"
+      "Modelos Mistral (Mistral Large, Mixtral, etc.)",
+      "Enfoque en la soberanía de datos europea",
+      "Modelos open-source (algunos)",
+      "Respuesta rápida y eficiente",
+      "Interfaz de chat limpia"
     ],
-    "etica": "Alternativa europea con valores de soberanía digital. Modelos abiertos que permiten auditoría. Menos dependencia de Big Tech estadounidense."
+    "etica": "Mistral AI enfatiza la soberanía de datos y la transparencia a través de sus modelos open-source, lo que permite una mayor auditoría y control. Buscan desarrollar IA de manera responsable y alineada con los valores europeos.",
+    "limite_gratis": "Ofrece acceso gratuito a modelos como Mistral Small y Mixtral, permitiendo conversaciones, búsqueda web y subida de documentos con ciertas limitaciones de uso."
   },
   {
     "id": "copilot",
     "nombre": "Microsoft Copilot",
     "compania": "Microsoft",
-    "tipo": "Chatbot / Asistente",
+    "tipo": "Asistente de productividad / Chatbot / Asistente",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://copilot.microsoft.com",
-    "descripcion": "Asistente integrado con Microsoft 365, Windows, Edge y Bing. Búsqueda web gratuita con GPT-4. La versión de pago se integra en Word, Excel, PowerPoint y Teams.",
+    "descripcion": "Asistente de IA de Microsoft profundamente integrado en el ecosistema de la compañía, incluyendo Windows, Edge y Microsoft 365. Ofrece capacidades de búsqueda web avanzadas y asistencia en aplicaciones de productividad.",
     "funciones": [
-      "Chat conversacional",
-      "Búsqueda web gratuita",
-      "Integración Office 365 (pago)",
-      "Programación",
-      "Redacción",
-      "Análisis de datos en Excel"
+      "Conversación y generación de texto",
+      "Búsqueda web con GPT-4 y Bing",
+      "Asistencia en aplicaciones de Microsoft 365 (Word, Excel, PowerPoint, Teams)",
+      "Resumen de documentos y correos electrónicos",
+      "Generación de ideas y borradores"
     ],
     "caracteristicas": [
-      "Modelo GPT-4 Turbo (gratis)",
-      "Integración Microsoft 365",
-      "App móvil",
-      "Modo voz",
-      "Generación de imágenes con Designer",
-      "Windows integrado"
+      "Integración nativa con Windows y Microsoft 365",
+      "Alimentado por GPT-4",
+      "Capacidades de búsqueda web en tiempo real",
+      "Interfaz de usuario contextual",
+      "Seguridad y cumplimiento empresarial"
     ],
-    "etica": "Microsoft tiene políticas de IA responsable. La integración profunda en el ecosistema corporativo plantea cuestiones de privacidad y monopolio."
+    "etica": "Microsoft se compromete con la IA responsable, implementando principios éticos y de seguridad en Copilot. La privacidad de los datos empresariales es una prioridad, con controles y cumplimiento normativo.",
+    "limite_gratis": "El plan gratuito ofrece búsqueda web con GPT-4, generación de texto y acceso a través de Edge y Bing, pero sin la integración profunda en las aplicaciones de Microsoft 365."
   },
   {
     "id": "grok",
     "nombre": "Grok",
-    "compania": "xAI (Elon Musk)",
+    "compania": "xAI",
     "tipo": "Chatbot / Asistente",
-    "precio": "Freemium",
+    "precio": "Pago",
     "gratis": true,
     "pago": true,
     "web": "https://grok.com",
-    "descripcion": "Asistente con acceso a X/Twitter en tiempo real. Enfoque en respuestas directas y 'sin filtros'. Integración con la red social X. Generación de imágenes con Aurora.",
+    "descripcion": "Asistente de IA desarrollado por xAI, la compañía de Elon Musk, que se distingue por su acceso en tiempo real a la información de X/Twitter y un enfoque en respuestas directas y 'sin filtros'. También incluye generación de imágenes.",
     "funciones": [
-      "Chat conversacional",
-      "Acceso a X/Twitter en tiempo real",
-      "Búsqueda web",
-      "Análisis de tendencias",
-      "Generación de imágenes (Aurora)",
-      "Modo 'divertido'"
+      "Conversación y generación de texto",
+      "Acceso a información en tiempo real de X/Twitter",
+      "Generación de imágenes (con Aurora)",
+      "Respuestas directas y con humor",
+      "Resumen de tendencias y noticias de X"
     ],
     "caracteristicas": [
-      "Modelo Grok-3",
-      "Acceso nativo a X",
-      "App móvil",
-      "Generación de imágenes",
-      "Modos de personalidad",
-      "API disponible"
+      "Integración exclusiva con la red social X",
+      "Acceso a datos en tiempo real de X",
+      "Personalidad 'rebelde' y 'sin filtros'",
+      "Modelo de lenguaje grande (LLM) de xAI",
+      "Generación de imágenes Aurora"
     ],
-    "etica": "Enfoque de 'menos censura'. Críticas por menor moderación de contenido. Vinculado a X (Twitter), con sus propias controversias."
+    "etica": "Grok se presenta con un enfoque 'sin filtros', lo que puede generar preocupaciones sobre la moderación de contenido, sesgos y la difusión de información. La privacidad de los datos de X es un factor clave en su funcionamiento.",
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "id": "deepseek",
@@ -1992,5 +1980,35 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "Agent 37 Cloud",
+    "descripcion": "Ofrece una plataforma para crear y gestionar agentes de IA personalizados, diseñados para interactuar individualmente con cada cliente y optimizar la experiencia.",
+    "_ph": true,
+    "precio": "Pago",
+    "funciones": [
+      "Creación y personalización de agentes de IA",
+      "Despliegue masivo y escalable de agentes",
+      "Interacción proactiva y personalizada con clientes",
+      "Gestión centralizada de todos los agentes"
+    ],
+    "caracteristicas": [
+      "Arquitectura de agentes avanzada (ej. Hermes, OpenClaw)",
+      "Escalabilidad y alta disponibilidad en la nube",
+      "Personalización profunda para cada cliente",
+      "Integración con CRM y sistemas empresariales",
+      "Análisis de rendimiento de agentes"
+    ],
+    "etica": "Prioriza la privacidad y seguridad de los datos del cliente, implementando medidas para garantizar interacciones éticas y transparentes, y mitigar posibles sesgos.",
+    "web": "https://www.producthunt.com/products/agent-37-38",
+    "tipo": "Agentes IA",
+    "compania": "Agent 37",
+    "id": "agent-37-cloud-448fab",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito."
   }
 ]
