@@ -1727,5 +1727,125 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "Darkmoon",
+    "descripcion": "Plataforma de IA que automatiza las pruebas de penetración para identificar vulnerabilidades en sistemas y redes. Permite a las organizaciones mejorar proactivamente su postura de seguridad.",
+    "_ph": true,
+    "compania": "Darkmoon AI",
+    "tipo": "Ciberseguridad / Pruebas de penetración IA",
+    "precio": "Pago",
+    "funciones": [
+      "Escaneo automatizado de vulnerabilidades",
+      "Simulación de ataques cibernéticos",
+      "Generación de informes de seguridad detallados",
+      "Priorización de riesgos de seguridad",
+      "Integración con herramientas de desarrollo y operaciones"
+    ],
+    "caracteristicas": [
+      "Motor de IA para detección de exploits",
+      "Interfaz de usuario intuitiva",
+      "Capacidad de adaptación a nuevos vectores de ataque",
+      "Escalabilidad para entornos complejos",
+      "Cumplimiento con estándares de seguridad"
+    ],
+    "etica": "Al ser una herramienta de ciberseguridad ofensiva, su uso debe ser ético y legal, solo con autorización explícita. Es crucial asegurar que no se utilice para actividades maliciosas y que los datos sensibles manejados durante las pruebas estén protegidos.",
+    "web": "https://www.producthunt.com/products/darkmoon",
+    "id": "darkmoon-44a7c3",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Mutter AI Dictation",
+    "descripcion": "Herramienta de dictado por IA que permite transcribir voz a texto de forma privada y sin conexión a internet. Ideal para usuarios que requieren máxima confidencialidad y disponibilidad.",
+    "_ph": true,
+    "compania": "Mutter AI",
+    "tipo": "Transcripción de voz / Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Dictado de voz a texto en tiempo real",
+      "Funcionamiento completamente offline",
+      "Soporte para múltiples idiomas",
+      "Edición y formato de texto",
+      "Exportación a diversos formatos"
+    ],
+    "caracteristicas": [
+      "Procesamiento de IA local en el dispositivo",
+      "Alta precisión en el reconocimiento de voz",
+      "Interfaz de usuario sencilla",
+      "Garantía de privacidad de datos",
+      "No requiere conexión a la nube"
+    ],
+    "etica": "Su principal ventaja es la privacidad, ya que procesa los datos localmente sin enviarlos a la nube. Esto minimiza los riesgos de fuga de información y asegura la confidencialidad de las transcripciones.",
+    "web": "https://www.producthunt.com/products/mutter-ai-dictation",
+    "id": "mutter-ai-dictation-4c6992",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Prism",
+    "descripcion": "Un compañero de IA diseñado específicamente para usuarios de macOS, que mejora la productividad y la interacción con el sistema operativo. Ofrece asistencia inteligente para diversas tareas diarias.",
+    "_ph": true,
+    "compania": "Prism AI",
+    "tipo": "Asistente personal / Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de texto y resúmenes",
+      "Automatización de tareas en macOS",
+      "Respuestas a preguntas y búsqueda de información",
+      "Gestión de recordatorios y calendario",
+      "Integración con aplicaciones nativas de macOS"
+    ],
+    "caracteristicas": [
+      "Optimizado para el ecosistema macOS",
+      "Interfaz de usuario nativa y fluida",
+      "Aprendizaje adaptativo de las preferencias del usuario",
+      "Acceso rápido desde la barra de menú",
+      "Personalización de comandos y atajos"
+    ],
+    "etica": "Como asistente personal, maneja datos del usuario y sus interacciones. Es fundamental que la política de privacidad sea transparente, explicando cómo se utilizan y protegen los datos, y si se comparten con terceros.",
+    "web": "https://www.producthunt.com/products/prism-28",
+    "id": "prism-6e0d8d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "VELA",
+    "descripcion": "Plataforma diseñada para ejecutar de forma segura código generado por IA o de fuentes no confiables en un entorno aislado. Previene riesgos de seguridad y vulnerabilidades en el desarrollo de software.",
+    "_ph": true,
+    "compania": "VELA Security",
+    "tipo": "Seguridad de código / Desarrollo IA",
+    "precio": "Pago",
+    "funciones": [
+      "Ejecución aislada de código",
+      "Análisis de seguridad en tiempo real",
+      "Detección de patrones maliciosos",
+      "Control de acceso y permisos",
+      "Integración con flujos de trabajo de desarrollo"
+    ],
+    "caracteristicas": [
+      "Entorno de sandbox seguro",
+      "Motor de análisis de comportamiento de código",
+      "Alertas de seguridad personalizables",
+      "Bajo impacto en el rendimiento",
+      "Soporte para múltiples lenguajes de programación"
+    ],
+    "etica": "Su propósito es la seguridad, pero debe garantizar que el análisis de código no comprometa la propiedad intelectual ni la privacidad del desarrollador. Es crucial que la plataforma sea transparente sobre cómo maneja y almacena el código analizado.",
+    "web": "https://www.producthunt.com/products/vela-7",
+    "id": "vela-3c3d35",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]
