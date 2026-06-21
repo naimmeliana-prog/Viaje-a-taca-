@@ -1104,7 +1104,7 @@
     "precio": "Gratuito",
     "gratis": true,
     "pago": false,
-    "web": "https://chat.lmsys.org",
+    "web": "https://lmarena.ai",
     "descripcion": "Plataforma de investigación que permite comparar IAs de forma ciega. Haces una pregunta, dos modelos anónimos responden y tú votas cuál lo hizo mejor. Con +200 modelos en la arena. Uso gratuito y científico.",
     "funciones": [
       "Comparación ciega entre modelos",
@@ -1900,7 +1900,7 @@
     "tipo": "Seguridad de código IA / DevSecOps",
     "precio": "Pago",
     "descripcion": "Un servicio de AWS que emplea inteligencia artificial para identificar, priorizar y corregir automáticamente vulnerabilidades en el código. Está optimizado para asegurar la integridad y robustez de los agentes de IA.",
-    "web": "https://aws.amazon.com/security/continuum/",
+    "web": "https://aws.amazon.com/continuum/",
     "funciones": [
       "Detección automática de vulnerabilidades",
       "Priorización de riesgos de seguridad",

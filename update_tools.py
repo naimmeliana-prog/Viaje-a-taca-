@@ -461,6 +461,31 @@ def limpiar_web(x):
  for cand in (x.get("web"),x.get("li"),x.get("enlace")):
   if url_valida(cand):return cand.strip()
  return ""
+def enlace_vivo(url):
+ """True si la URL responde (DNS resuelve y HTTP no es 404/410/DNS_FAIL).
+ Conservador: ante cualquier duda (timeout, bloqueo anti-bot) devuelve True
+ para NO borrar webs buenas por un fallo temporal de red."""
+ import socket as _sock, ssl as _ssl
+ import urllib.request as _u, urllib.error as _ue
+ from urllib.parse import urlparse as _up
+ if not url_valida(url):return False
+ host=_up(url).hostname or ""
+ try:
+  _sock.gethostbyname(host)        # DNS: si no existe el dominio -> caída real
+ except Exception:
+  return False
+ _ctx=_ssl.create_default_context();_ctx.check_hostname=False;_ctx.verify_mode=_ssl.CERT_NONE
+ for metodo in ("HEAD","GET"):
+  try:
+   req=_u.Request(url,method=metodo,headers={"User-Agent":"Mozilla/5.0 (compatible; ItacaLinkCheck/1.0)"})
+   _u.urlopen(req,timeout=15,context=_ctx)
+   return True
+  except _ue.HTTPError as e:
+   if e.code in (404,410):return False      # no existe / eliminado -> caída real
+   return True                               # 403/405/429/503... = vivo pero protegido
+  except Exception:
+   continue
+ return True   # timeouts/errores de red: no penalizar (conservador)
 
 new=[]
 for x in c:
@@ -565,6 +590,29 @@ for h in t:
 if webs_limpiadas:print(f"Webs inválidas saneadas: {webs_limpiadas}")
 
 # ─────────────────────────────────────────────────────────────
+# 5b-bis) VERIFICADOR de enlaces vivos. Cada ciclo comprueba unas pocas webs
+#     (rotando para cubrir todo el catálogo poco a poco). Si una está CAÍDA
+#     (dominio inexistente o 404/410), vacía su web para que el backfill (5c)
+#     le busque una URL nueva con Gemini. Conservador: no borra por timeouts.
+# ─────────────────────────────────────────────────────────────
+COMPROBAR_POR_CICLO=12
+con_web=[h for h in t if url_valida(h.get("web",""))]
+caidas=0
+if con_web:
+ # Punto de inicio rotatorio derivado del día del año: cada ejecución empieza
+ # en un tramo distinto, así con los ciclos se cubre todo el catálogo sin
+ # necesidad de guardar estado entre ejecuciones (el runner es efímero).
+ dia=int(datetime.now(timezone.utc).strftime("%j"))   # 1..366
+ pos=(dia*COMPROBAR_POR_CICLO)%len(con_web)
+ lote=[con_web[(pos+i)%len(con_web)] for i in range(min(COMPROBAR_POR_CICLO,len(con_web)))]
+ for h in lote:
+  if not enlace_vivo(h.get("web","")):
+   print(f"  Enlace caído: {h.get('nombre','')} -> {h.get('web','')}")
+   h["web"]=""          # se vaciará y el backfill 5c buscará una nueva
+   caidas+=1
+ print(f"Verificador de enlaces: {len(lote)} comprobados, {caidas} caídos.")
+
+# ─────────────────────────────────────────────────────────────
 # 5c) BACKFILL de webs faltantes. Cada ciclo, Gemini intenta encontrar la URL
 #     oficial de unas pocas herramientas sin web válida. Si no la sabe con
 #     seguridad, la deja vacía (la web mostrará "no disponible"). Sin clave, nada.
@@ -606,7 +654,7 @@ elif backfill:
  print(f"Backfill 'plan gratuito' pendiente ({len(sin_lg)} sin dato), pero no hay clave Gemini.")
 
 # Guardar si hubo altas nuevas, cambios en pendientes o backfill
-if new or pend or backfill_cambios or webs_limpiadas or webs_rellenadas:
+if new or pend or backfill_cambios or webs_limpiadas or webs_rellenadas or caidas:
  with open(J,"w",encoding="utf-8") as f:json.dump(t,f,ensure_ascii=False,indent=2)
  print(f"JSON: {len(t)} herramientas")
 else:
