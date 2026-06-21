@@ -415,6 +415,15 @@ def ok_lista(v):
  return isinstance(v,list) and len(v)>0 and not (len(v)==1 and str(v[0]).strip().lower() in ("pendiente","automatico","automático",""))
 def ok_txt(v):
  return isinstance(v,str) and len(v.strip())>15 and "pendiente" not in v.lower()
+# Frases "vacías" que algunos modelos devuelven en vez de un dato real.
+_NO_DATO={"no especificado","no especificada","desconocido","desconocida","n/a","na","none","null","sin especificar","-",""}
+def url_valida(v):
+ return isinstance(v,str) and v.strip().lower().startswith(("http://","https://")) and v.strip().lower() not in _NO_DATO
+def limpiar_web(x):
+ """Devuelve una URL válida para 'web' o cadena vacía. Prefiere web, luego el enlace del feed."""
+ for cand in (x.get("web"),x.get("li"),x.get("enlace")):
+  if url_valida(cand):return cand.strip()
+ return ""
 
 new=[]
 for x in c:
@@ -435,7 +444,7 @@ for x in c:
  if not ok_lista(x.get("funciones")):x["funciones"]=["Pendiente de revisión"]
  if not ok_lista(x.get("caracteristicas")):x["caracteristicas"]=["Detectada automáticamente"]
  if not ok_txt(x.get("etica","")):x["etica"]="Ficha pendiente de revisión ética. Aún no verificada."
- x.setdefault("web",x.get("li",""))
+ x["web"]=limpiar_web(x)
  x.setdefault("tipo","Otros")
  x.setdefault("compania","Desconocida")
  x["id"]=re.sub(r"[^a-z0-9]","-",nm.lower().strip())+"-"+hashlib.md5(nm.encode()).hexdigest()[:6]
@@ -505,6 +514,20 @@ if pend:
  if cerradas:print(f"  Cerradas automáticamente (etiqueta 🆕 retirada): {cerradas}")
 
 # ─────────────────────────────────────────────────────────────
+# 5b) SANEADO de webs inválidas. Convierte valores como "No especificado"
+#     en cadena vacía para que la web no muestre enlaces rotos.
+# ─────────────────────────────────────────────────────────────
+webs_limpiadas=0
+for h in t:
+ w=h.get("web","")
+ if w and not url_valida(w):
+  nuevo=limpiar_web(h)   # intenta recuperar de 'li'/'enlace' si existieran
+  if nuevo!=w:
+   h["web"]=nuevo
+   webs_limpiadas+=1
+if webs_limpiadas:print(f"Webs inválidas saneadas: {webs_limpiadas}")
+
+# ─────────────────────────────────────────────────────────────
 # 6) BACKFILL del límite del plan gratuito (limite_gratis).
 #    Rellena cada ciclo, poco a poco, las herramientas que aún no lo tengan,
 #    priorizando las Freemium. Con Gemini; sin él, no hace nada (no rompe).
@@ -532,7 +555,7 @@ elif backfill:
  print(f"Backfill 'plan gratuito' pendiente ({len(sin_lg)} sin dato), pero no hay clave Gemini.")
 
 # Guardar si hubo altas nuevas, cambios en pendientes o backfill
-if new or pend or backfill_cambios:
+if new or pend or backfill_cambios or webs_limpiadas:
  with open(J,"w",encoding="utf-8") as f:json.dump(t,f,ensure_ascii=False,indent=2)
  print(f"JSON: {len(t)} herramientas")
 else:
