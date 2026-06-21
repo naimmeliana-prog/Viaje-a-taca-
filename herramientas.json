@@ -2000,5 +2000,36 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito."
+  },
+  {
+    "nombre": "CADAM",
+    "descripcion": "CADAM es una plataforma de diseño 3D asistido por inteligencia artificial que democratiza la creación de modelos complejos. Permite a usuarios de todos los niveles transformar ideas en diseños tangibles con la ayuda de algoritmos inteligentes.",
+    "_ph": true,
+    "compania": "CADAM Labs",
+    "tipo": "Diseño 3D Generativo / Asistido por IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de modelos 3D a partir de descripciones textuales o bocetos",
+      "Optimización automática de diseños para eficiencia o resistencia",
+      "Simulación de comportamiento y rendimiento de prototipos virtuales",
+      "Asistencia inteligente en la selección de materiales y componentes",
+      "Herramientas de colaboración para equipos de diseño"
+    ],
+    "caracteristicas": [
+      "Interfaz de usuario intuitiva, ideal para principiantes y expertos",
+      "Motor de IA avanzado para diseño generativo y paramétrico",
+      "Compatibilidad con formatos de archivo CAD/CAM estándar (STL, OBJ, STEP)",
+      "Biblioteca integrada de componentes, texturas y plantillas",
+      "Integración directa con servicios de fabricación aditiva (impresión 3D)"
+    ],
+    "etica": "CADAM prioriza la privacidad de los datos del usuario, implementando cifrado y políticas claras de uso. Se esfuerza por mitigar sesgos en los algoritmos de diseño, promoviendo la diversidad y la inclusión en las soluciones generadas.",
+    "limite_gratis": "El plan gratuito permite crear y guardar un número limitado de proyectos, con acceso a las funciones básicas de diseño asistido por IA y exportaciones en formatos estándar.",
+    "web": "https://www.producthunt.com/products/cadam",
+    "id": "cadam-985a9b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]
