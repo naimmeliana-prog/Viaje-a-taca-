@@ -403,6 +403,43 @@ def enriquecer_con_gemini(lista):
   warn(f"Fallo enriqueciendo con Gemini: {ex}")
   return 0
 
+def completar_webs_con_gemini(lista):
+ """Pide a Gemini la URL OFICIAL de cada herramienta sin web válida.
+ Solo acepta URLs reales (http/https); si Gemini no la sabe, deja la web vacía.
+ Devuelve cuántas webs se rellenaron. No rompe si Gemini falla."""
+ if not G or not lista:return 0
+ try:
+  lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120]} for x in lista[:10]]
+  pw=(
+   "Eres un asistente que SOLO devuelve URLs oficiales de herramientas de IA. "
+   "Para cada elemento de la lista, indica la URL oficial del producto (su web o "
+   "su página de GitHub si es open-source). "
+   "Devuelve SOLO un array JSON, un objeto por elemento EN EL MISMO ORDEN, con los "
+   "campos: nombre, web. "
+   "REGLAS IMPORTANTES: la 'web' debe empezar por https:// y ser una URL real que "
+   "conozcas con seguridad. Si NO estás seguro de la URL oficial, devuelve web como "
+   "cadena vacía \"\". Nunca inventes dominios ni pongas texto como 'No especificado'.\n"
+   "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
+  )
+  txw,okw=llamar_gemini(pw)
+  if not txw:return 0
+  mw=re.search(r"\[[\s\S]*\]",txw)
+  if not mw:return 0
+  fichas=json.loads(mw.group())
+  porn={(f.get("nombre","") or "").strip().lower():f for f in fichas if isinstance(f,dict)}
+  hechas=0
+  for x in lista:
+   f=porn.get((x.get("nombre","") or "").strip().lower())
+   if not f:continue
+   w=(f.get("web","") or "").strip()
+   if url_valida(w):
+    x["web"]=w
+    hechas+=1
+  return hechas
+ except Exception as ex:
+  warn(f"Fallo completando webs con Gemini: {ex}")
+  return 0
+
 if G and c:
  n_enr=enriquecer_con_gemini(c)
  if n_enr:print(f"Gemini enriqueció {n_enr} fichas nuevas")
@@ -528,6 +565,20 @@ for h in t:
 if webs_limpiadas:print(f"Webs inválidas saneadas: {webs_limpiadas}")
 
 # ─────────────────────────────────────────────────────────────
+# 5c) BACKFILL de webs faltantes. Cada ciclo, Gemini intenta encontrar la URL
+#     oficial de unas pocas herramientas sin web válida. Si no la sabe con
+#     seguridad, la deja vacía (la web mostrará "no disponible"). Sin clave, nada.
+# ─────────────────────────────────────────────────────────────
+sin_web=[h for h in t if not url_valida(h.get("web",""))]
+webs_rellenadas=0
+if G and sin_web:
+ print(f"Backfill 'web': {len(sin_web)} sin URL; intentando {min(len(sin_web),8)} este ciclo...")
+ webs_rellenadas=completar_webs_con_gemini(sin_web[:8])
+ print(f"  Webs encontradas automáticamente: {webs_rellenadas}")
+elif sin_web:
+ print(f"Backfill 'web' pendiente ({len(sin_web)} sin URL), pero no hay clave Gemini.")
+
+# ─────────────────────────────────────────────────────────────
 # 6) BACKFILL del límite del plan gratuito (limite_gratis).
 #    Rellena cada ciclo, poco a poco, las herramientas que aún no lo tengan,
 #    priorizando las Freemium. Con Gemini; sin él, no hace nada (no rompe).
@@ -555,7 +606,7 @@ elif backfill:
  print(f"Backfill 'plan gratuito' pendiente ({len(sin_lg)} sin dato), pero no hay clave Gemini.")
 
 # Guardar si hubo altas nuevas, cambios en pendientes o backfill
-if new or pend or backfill_cambios or webs_limpiadas:
+if new or pend or backfill_cambios or webs_limpiadas or webs_rellenadas:
  with open(J,"w",encoding="utf-8") as f:json.dump(t,f,ensure_ascii=False,indent=2)
  print(f"JSON: {len(t)} herramientas")
 else:
