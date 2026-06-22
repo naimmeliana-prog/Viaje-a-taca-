@@ -519,30 +519,29 @@
   {
     "id": "runway",
     "nombre": "Runway Gen-4",
-    "compania": "Runway",
-    "tipo": "Generación de vídeo",
+    "compania": "Runway ML",
+    "tipo": "Generación de vídeo / Edición de vídeo",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://runwayml.com",
-    "descripcion": "Suite profesional de generación y edición de vídeo con IA. Herramientas para cineastas: generación, rotoscopia, motion tracking, subtítulos. 125 créditos gratis/mes.",
+    "descripcion": "Suite profesional de IA para generación y edición de vídeo, diseñada para cineastas y creadores que buscan herramientas avanzadas.",
     "funciones": [
-      "Generación de vídeo",
-      "Edición de vídeo",
-      "Efectos visuales",
-      "Rotoscopia automática",
-      "Motion tracking",
-      "Subtitulado automático"
+      "Generación de vídeo a partir de texto/imagen",
+      "Rotoscopia y eliminación de fondo",
+      "Motion tracking avanzado",
+      "Subtitulado automático",
+      "Edición de vídeo asistida por IA"
     ],
     "caracteristicas": [
-      "Modelo Gen-4",
-      "125 créditos gratis/mes",
-      "Interfaz profesional",
-      "Herramientas de postproducción",
-      "Colaboración en equipo",
-      "API"
+      "Interfaz intuitiva y potente",
+      "Herramientas de nivel profesional para cine",
+      "Integración de IA en todo el flujo de trabajo",
+      "Alta calidad de salida de vídeo",
+      "Amplia gama de efectos visuales"
     ],
-    "etica": "Políticas de uso responsable. Participa en investigación de detección de deepfakes. Herramienta profesional con capa gratuita."
+    "etica": "Se enfoca en la creación responsable, con políticas de uso que prohíben contenido dañino o sesgado. La privacidad de los proyectos y datos del usuario es una prioridad.",
+    "limite_gratis": "Ofrece 125 créditos gratis para probar sus funciones de generación y edición de vídeo."
   },
   {
     "id": "pika",
@@ -553,195 +552,185 @@
     "gratis": true,
     "pago": true,
     "web": "https://pika.art",
-    "descripcion": "Generador de vídeo divertido y accesible. Destaca por sus efectos creativos: aplastar, derretir, inflar, explotar objetos y personas en vídeo. Ideal para redes sociales y contenido viral.",
+    "descripcion": "Un generador de vídeo con IA que se especializa en efectos visuales creativos y divertidos, ideal para contenido de redes sociales y experimentación.",
     "funciones": [
-      "Texto a vídeo",
-      "Imagen a vídeo",
-      "Efectos creativos",
-      "Transiciones",
-      "Animaciones",
-      "Vídeos para redes sociales"
+      "Generación de vídeo a partir de texto e imagen",
+      "Aplicación de efectos visuales creativos (aplastar, derretir)",
+      "Animación de objetos y personas en vídeo",
+      "Estilización de vídeos existentes",
+      "Control de cámara y movimiento"
     ],
     "caracteristicas": [
-      "Efectos virales únicos",
-      "Plan gratuito",
-      "Interfaz web",
-      "App móvil",
-      "Rápido",
-      "Enfoque en creatividad"
+      "Interfaz sencilla y accesible",
+      "Efectos visuales únicos y lúdicos",
+      "Orientado a la creatividad rápida y viral",
+      "Optimizado para la creación de contenido para redes sociales",
+      "Resultados sorprendentes y originales"
     ],
-    "etica": "Startup pequeña. Menos controvertida que otros generadores por su enfoque lúdico. Los efectos sobre personas reales plantean cuestiones de consentimiento."
+    "etica": "Promueve el uso creativo y responsable, con directrices para evitar la generación de contenido inapropiado o dañino. La privacidad del usuario y sus creaciones es un estándar.",
+    "limite_gratis": "Permite generar un número limitado de vídeos o usar ciertas funciones de forma gratuita para experimentar con sus efectos."
   },
   {
     "id": "kling",
     "nombre": "Kling",
-    "compania": "Kuaishou (China)",
+    "compania": "Kuaishou",
     "tipo": "Generación de vídeo",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://klingai.com",
-    "descripcion": "Generador de vídeo chino que compite en calidad con Sora. Destaca por su realismo y fluidez de movimiento. Accesible globalmente con plan gratuito. Muy popular en 2025-2026.",
+    "descripcion": "Un avanzado generador de vídeo con IA de origen chino, conocido por su realismo y fluidez de movimiento, compitiendo con los líderes del mercado global.",
     "funciones": [
-      "Texto a vídeo",
-      "Imagen a vídeo",
-      "Extensión de vídeo",
-      "Movimientos realistas",
-      "Efectos visuales",
-      "Alta calidad"
+      "Generación de vídeo de alta calidad a partir de texto",
+      "Animación realista de personajes y escenas",
+      "Control preciso de movimiento y cámara",
+      "Creación de vídeos con gran fidelidad de detalles",
+      "Transformación de imágenes estáticas en vídeos dinámicos"
     ],
     "caracteristicas": [
-      "Modelo Kling 2",
-      "Realismo sobresaliente",
-      "Créditos gratuitos diarios",
-      "App móvil",
-      "Web global",
-      "API"
+      "Realismo visual excepcional",
+      "Movimiento fluido y natural en las animaciones",
+      "Alta fidelidad en la representación de detalles",
+      "Accesibilidad global con plan gratuito",
+      "Capacidad para generar vídeos complejos"
     ],
-    "etica": "Compañía china (Kuaishou). Preocupaciones sobre privacidad de datos y posible censura de contenido alineada con el gobierno chino."
+    "etica": "Como herramienta global, se adhiere a estándares de uso responsable, aunque su origen chino podría implicar consideraciones sobre la censura y el uso de datos. Se espera que tenga políticas de privacidad estándar.",
+    "limite_gratis": "Ofrece un plan gratuito que permite generar un número limitado de vídeos o con ciertas restricciones de duración y calidad."
   },
   {
     "id": "suno",
     "nombre": "Suno",
-    "compania": "Suno Inc.",
+    "compania": "Suno AI",
     "tipo": "Generación de música",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://suno.ai",
-    "descripcion": "Líder en generación de canciones completas con letra, voz y acompañamiento instrumental. 50 créditos diarios gratis. Cualquier género, cualquier estilo.",
+    "descripcion": "Plataforma líder en la generación de canciones completas con IA, incluyendo letra, voz y acompañamiento instrumental en cualquier género y estilo.",
     "funciones": [
-      "Generación de canciones",
-      "Letras personalizadas",
-      "Múltiples géneros",
-      "Voz cantada sintética",
-      "Extensión de canciones",
-      "Descarga de audio"
+      "Generación de canciones completas con IA",
+      "Creación de letras automáticas o personalizadas",
+      "Síntesis de voz cantada realista",
+      "Producción de acompañamiento instrumental variado",
+      "Selección de géneros y estilos musicales"
     ],
     "caracteristicas": [
-      "Modelo V5",
-      "50 créditos/día gratis",
-      "Géneros ilimitados",
-      "Voces masculinas/femeninas",
-      "Descarga MP4/audio",
-      "Modo instrumental"
+      "Versatilidad para generar cualquier género musical",
+      "Alta calidad de producción musical",
+      "Interfaz intuitiva y fácil de usar",
+      "Generación rápida de canciones",
+      "Capacidad para crear canciones con estructura completa"
     ],
-    "etica": "Debate abierto sobre derechos de autor de la música generada. Suno defiende 'fair use'. Los usuarios (plan pago) son dueños de sus canciones generadas."
+    "etica": "Aborda la autoría y derechos de autor de la música generada, y tiene políticas para prevenir el uso indebido o la creación de contenido ofensivo. La privacidad del usuario es estándar.",
+    "limite_gratis": "Ofrece 50 créditos diarios gratis, permitiendo generar varias canciones al día con acceso a las funciones principales."
   },
   {
     "id": "udio",
     "nombre": "Udio",
-    "compania": "Udio Inc.",
+    "compania": "Udio AI",
     "tipo": "Generación de música",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://www.udio.com",
-    "descripcion": "Competidor de Suno con calidad de audio excepcional. Destaca en géneros como jazz, clásica y música ambiental. Voces más naturales y producción más pulida.",
+    "descripcion": "Un generador de música con IA que compite con Suno, destacando por su excepcional calidad de audio, voces naturales y producción pulida, especialmente en géneros específicos.",
     "funciones": [
-      "Generación de canciones",
-      "Letras personalizadas",
-      "Remixes y extensiones",
-      "Múltiples géneros",
-      "Calidad de estudio",
-      "Descarga de audio"
+      "Generación de canciones con IA de alta fidelidad",
+      "Creación de voces cantadas excepcionalmente naturales",
+      "Producción de instrumentales de alta calidad",
+      "Especialización en géneros como jazz, clásica y ambiental",
+      "Personalización de la estructura y el estilo musical"
     ],
     "caracteristicas": [
-      "Calidad de audio superior",
-      "Créditos gratuitos",
-      "Voces muy realistas",
-      "Estilos sofisticados",
-      "Interfaz elegante",
-      "Extensión de pistas"
+      "Calidad de audio superior y producción pulida",
+      "Voces cantadas muy naturales y expresivas",
+      "Amplia gama de géneros musicales con enfoque en la calidad",
+      "Interfaz de usuario refinada",
+      "Resultados musicales con un toque profesional"
     ],
-    "etica": "Mismas cuestiones que Suno sobre derechos de autor. Financiado por a16z. Calidad de audio excepcional para estándares de IA."
+    "etica": "Se compromete con la creación musical ética, respetando los derechos de autor y evitando la generación de contenido inapropiado. La privacidad de los datos del usuario es fundamental.",
+    "limite_gratis": "Ofrece un plan gratuito con un número limitado de generaciones de canciones o acceso a funciones básicas para probar su calidad de audio."
   },
   {
     "id": "elevenlabs",
     "nombre": "ElevenLabs",
     "compania": "ElevenLabs",
-    "tipo": "Síntesis de voz",
+    "tipo": "Síntesis de voz / Clonación de voz / Doblaje IA",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://elevenlabs.io",
-    "descripcion": "Síntesis de voz líder. Voces ultrarrealistas en +30 idiomas, clonación de voz, doblaje automático, voice design y narración de texto. 10.000 caracteres gratis/mes.",
+    "descripcion": "Plataforma líder en síntesis de voz con IA, ofreciendo voces ultrarrealistas en múltiples idiomas, clonación de voz y doblaje automático de alta calidad.",
     "funciones": [
-      "Texto a voz",
-      "Clonación de voz",
-      "Doblaje automático",
-      "Voice Design",
-      "Librería de voces",
-      "API",
-      "App Reader"
+      "Síntesis de voz en más de 30 idiomas",
+      "Clonación de voz personalizada a partir de muestras",
+      "Doblaje automático de audio y vídeo",
+      "Diseño de voces (Voice Design) con parámetros ajustables",
+      "Narración de texto con entonación natural"
     ],
     "caracteristicas": [
-      "Voces ultrarrealistas multilingües",
-      "10.000 caracteres gratis/mes",
-      "Clonación instantánea",
-      "Doblaje AI",
-      "App móvil Reader",
-      "+30 idiomas"
+      "Voces ultrarrealistas y expresivas",
+      "Soporte multilingüe avanzado",
+      "Alta personalización de la voz generada",
+      "Integración API para desarrolladores",
+      "Calidad de estudio para producciones profesionales"
     ],
-    "etica": "La clonación de voz plantea graves riesgos de suplantación. ElevenLabs implementa verificación de identidad para clonación y marca de audio sintético."
+    "etica": "Tiene políticas estrictas contra el uso indebido de la clonación de voz (deepfakes) y la generación de contenido dañino. La privacidad y seguridad de los datos de voz son prioritarias.",
+    "limite_gratis": "Ofrece 10.000 caracteres gratis al mes para la síntesis de voz, permitiendo probar la calidad y las funciones básicas."
   },
   {
     "id": "github-copilot",
     "nombre": "GitHub Copilot",
-    "compania": "GitHub / Microsoft",
-    "tipo": "Asistente de programación",
+    "compania": "GitHub (Microsoft)",
+    "tipo": "Asistente de programación / Generación de código",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://github.com/features/copilot",
-    "descripcion": "Asistente de código integrado en VS Code, JetBrains y Neovim. Autocompletado contextual, chat, revisión de PR, agentes. 2.000 completados gratis/mes.",
+    "descripcion": "Un asistente de programación con IA que se integra en los IDEs más populares, ofreciendo autocompletado de código contextual, chat y herramientas de revisión.",
     "funciones": [
-      "Autocompletado de código",
-      "Chat de programación",
-      "Revisión de Pull Requests",
-      "Agentes (Cody)",
-      "Creación de tests",
-      "Explicación de código",
-      "CLI"
+      "Autocompletado de código contextual inteligente",
+      "Generación de código a partir de comentarios en lenguaje natural",
+      "Chat conversacional para dudas y explicaciones de código",
+      "Revisión de Pull Requests asistida por IA",
+      "Agentes de desarrollo para tareas complejas"
     ],
     "caracteristicas": [
-      "Integración IDE",
-      "2.000 completados/mes gratis",
-      "GPT-4o optimizado",
-      "Multi-lenguaje",
-      "GitHub Codespaces",
-      "Agentes autónomos"
+      "Integración profunda en IDEs (VS Code, JetBrains, Neovim)",
+      "Soporte para múltiples lenguajes de programación",
+      "Mejora significativa de la productividad del desarrollador",
+      "Aprendizaje continuo para adaptarse al estilo del usuario",
+      "Asistencia en tiempo real durante la codificación"
     ],
-    "etica": "Entrenado con código público de GitHub. Controversia sobre licencias. Microsoft ofrece indemnización por copyright a suscriptores de pago."
+    "etica": "Genera código basándose en un vasto corpus, lo que puede plantear cuestiones de derechos de autor y licencias. GitHub se esfuerza por mitigar sesgos y garantizar la seguridad del código, pero el usuario debe revisar el código generado.",
+    "limite_gratis": "Ofrece 2.000 completados de código gratis al mes, permitiendo a los desarrolladores probar sus capacidades de asistencia."
   },
   {
     "id": "cursor",
     "nombre": "Cursor",
-    "compania": "Anysphere",
-    "tipo": "IDE con IA",
+    "compania": "Cursor",
+    "tipo": "Asistente de programación / Editor de código IA",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://cursor.com",
-    "descripcion": "Editor basado en VS Code con IA profundamente integrada. Modo agente que edita archivos autónomamente, chat contextual, Composer. El favorito de muchos desarrolladores.",
+    "descripcion": "Un editor de código basado en VS Code que integra profundamente la IA para potenciar la productividad del desarrollador, incluyendo un modo agente autónomo.",
     "funciones": [
-      "Autocompletado inteligente",
-      "Chat contextual",
-      "Modo agente (edita archivos)",
-      "Depuración con IA",
-      "Generación de proyectos",
-      "Composer",
-      ".cursorrules"
+      "Edición autónoma de archivos y proyectos (Modo Agente)",
+      "Chat contextual para asistencia y explicación de código",
+      "Generación y refactorización de código (Composer)",
+      "Búsqueda inteligente y navegación por el código",
+      "Depuración asistida por IA"
     ],
     "caracteristicas": [
-      "Basado en VS Code",
-      "GPT-4o y Claude integrados",
-      "Plan gratuito generoso",
-      "Modo agente autónomo",
-      "Reglas personalizables",
-      "Multi-modelo"
+      "Basado en VS Code, familiar para muchos desarrolladores",
+      "Integración de IA de vanguardia en el flujo de trabajo",
+      "Automatización de tareas de codificación repetitivas",
+      "Mejora la eficiencia y velocidad del desarrollo",
+      "Altamente personalizable y extensible"
     ],
-    "etica": "Startup independiente. Transparencia limitada sobre uso de datos. Rápido crecimiento y adopción en la comunidad dev."
+    "etica": "Al igual que otros asistentes de código, el usuario es responsable de verificar el código generado. Se enfoca en la privacidad del código del usuario y en la seguridad de las interacciones con la IA.",
+    "limite_gratis": "Ofrece un plan gratuito que permite usar las funciones básicas de IA y el editor con ciertas limitaciones en el uso del modo agente o el número de consultas."
   },
   {
     "id": "windsurf",
