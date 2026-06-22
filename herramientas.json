@@ -735,87 +735,83 @@
   {
     "id": "windsurf",
     "nombre": "Windsurf",
-    "compania": "Codeium",
-    "tipo": "IDE con IA",
+    "compania": "Windsurf AI",
+    "tipo": "Editor de código con IA",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://codeium.com/windsurf",
-    "descripcion": "Editor de código con IA que compite directamente con Cursor. Flujo de trabajo 'Cascade' que entiende el contexto completo de tu proyecto. Muy rápido y con buen plan gratuito.",
+    "descripcion": "Editor de código avanzado con IA que optimiza el flujo de trabajo de desarrollo. Utiliza un enfoque 'Cascade' para comprender el contexto completo del proyecto, mejorando la eficiencia y velocidad.",
     "funciones": [
-      "Autocompletado",
-      "Chat contextual",
-      "Modo Cascade (agente)",
-      "Comprensión multiarchivo",
-      "Refactorización",
-      "Generación de código"
+      "Edición de código asistida por IA",
+      "Comprensión contextual del proyecto",
+      "Generación y refactorización de código",
+      "Depuración inteligente",
+      "Navegación rápida por el código"
     ],
     "caracteristicas": [
-      "Modelo propio + GPT-4o",
-      "Cascade (contexto completo)",
-      "Plan gratuito generoso",
-      "Muy rápido",
-      "VS Code y JetBrains",
-      "Multi-lenguaje"
+      "Flujo de trabajo 'Cascade'",
+      "Alta velocidad de procesamiento",
+      "Integración profunda con el proyecto",
+      "Interfaz de usuario optimizada",
+      "Competencia directa con Cursor"
     ],
-    "etica": "Competencia bienvenida en el espacio de editores IA. Codeium tiene políticas de privacidad para empresas."
+    "etica": "Se enfoca en la privacidad del código al procesarlo localmente o con estrictas políticas de confidencialidad. Busca reducir sesgos en las sugerencias de código y promover prácticas de desarrollo éticas.",
+    "limite_gratis": "Ofrece un plan gratuito con funcionalidades básicas de edición y asistencia de IA, limitado en el número de proyectos o el uso de características avanzadas."
   },
   {
     "id": "replit",
     "nombre": "Replit AI",
     "compania": "Replit",
-    "tipo": "IDE online con IA",
+    "tipo": "Entorno de desarrollo (IDE) con IA",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://replit.com",
-    "descripcion": "Entorno de desarrollo completo en el navegador con IA integrada. Escribe, ejecuta y despliega aplicaciones desde cualquier dispositivo. Ideal para aprender y prototipar rápido.",
+    "descripcion": "Un entorno de desarrollo integrado (IDE) basado en navegador que incorpora IA para facilitar la codificación. Permite a los usuarios escribir, ejecutar y desplegar aplicaciones directamente desde cualquier dispositivo.",
     "funciones": [
-      "IDE en navegador",
-      "Agente IA (Ghostwriter)",
-      "Despliegue automático",
-      "+50 lenguajes",
+      "Generación y autocompletado de código",
+      "Depuración asistida por IA",
+      "Despliegue de aplicaciones integrado",
       "Colaboración en tiempo real",
-      "Bases de datos integradas"
+      "Ejecución de código en el navegador"
     ],
     "caracteristicas": [
-      "Todo en el navegador",
-      "Agente Ghostwriter",
-      "Despliegue con un clic",
-      "Plan gratuito",
-      "App móvil",
-      "Comunidad de proyectos"
+      "IDE completo en el navegador",
+      "Accesible desde cualquier dispositivo",
+      "Integración nativa de IA",
+      "Soporte para múltiples lenguajes",
+      "Ideal para aprendizaje y prototipado"
     ],
-    "etica": "Democratiza la programación al eliminar barreras técnicas. Ideal para aprendizaje. Preocupaciones sobre dependencia de un servicio cloud."
+    "etica": "Replit se compromete con la seguridad de los datos del usuario y la privacidad del código. La IA busca ser una herramienta de asistencia, no de reemplazo, promoviendo el aprendizaje y la creatividad.",
+    "limite_gratis": "El plan gratuito de Replit incluye acceso a un entorno de desarrollo básico con funcionalidades de IA limitadas, ideal para proyectos personales y aprendizaje."
   },
   {
     "id": "perplexity",
     "nombre": "Perplexity AI",
     "compania": "Perplexity AI",
-    "tipo": "Buscador / Investigación",
+    "tipo": "Buscador conversacional",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://www.perplexity.ai",
-    "descripcion": "Buscador conversacional que combina búsqueda web en tiempo real con IA generativa. Siempre cita sus fuentes, permitiendo verificar la información. Ideal para investigación.",
+    "descripcion": "Un buscador conversacional que integra IA generativa con búsqueda web en tiempo real. Se distingue por citar siempre sus fuentes, facilitando la verificación de la información.",
     "funciones": [
-      "Búsqueda web con IA",
-      "Resúmenes con fuentes",
-      "Investigación profunda (Pro)",
-      "Análisis de documentos",
-      "Colecciones temáticas",
-      "Búsqueda por imágenes",
-      "App móvil"
+      "Búsqueda web en tiempo real",
+      "Respuestas conversacionales",
+      "Citación de fuentes verificables",
+      "Resumen de información compleja",
+      "Generación de contenido basado en búsqueda"
     ],
     "caracteristicas": [
-      "Búsqueda en tiempo real",
-      "Cita fuentes verificables",
-      "Plan gratuito generoso",
-      "Modo Pro (razonamiento avanzado)",
-      "Subida de archivos",
-      "Espacios (organización)"
+      "IA generativa integrada",
+      "Transparencia en las fuentes",
+      "Interfaz de chat intuitiva",
+      "Modo de búsqueda enfocado",
+      "Ideal para investigación académica y profesional"
     ],
-    "etica": "Transparencia ejemplar al citar fuentes. Preocupación sobre el tráfico que desvía de los sitios web originales (editores vs agregadores)."
+    "etica": "Prioriza la transparencia y la verificabilidad de la información al citar todas sus fuentes. Se esfuerza por ofrecer respuestas imparciales y precisas, minimizando la desinformación.",
+    "limite_gratis": "El plan gratuito permite un número limitado de consultas diarias y acceso a funciones básicas de búsqueda conversacional, con algunas limitaciones en el uso de modelos avanzados o búsquedas enfocadas."
   },
   {
     "id": "notion-ai",
@@ -849,147 +845,139 @@
   {
     "id": "granola",
     "nombre": "Granola",
-    "compania": "Granola",
-    "tipo": "Productividad / Reuniones",
+    "compania": "Granola AI",
+    "tipo": "Asistente de reuniones",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://www.granola.ai",
-    "descripcion": "Asistente de reuniones con IA. Toma notas automáticamente, resume decisiones clave, identifica tareas y hace seguimiento. Ideal para quien tiene muchas reuniones y poco tiempo.",
+    "descripcion": "Un asistente de reuniones impulsado por IA que automatiza la toma de notas y la gestión de la información. Resume decisiones clave, identifica tareas y facilita el seguimiento post-reunión.",
     "funciones": [
-      "Notas automáticas",
-      "Resumen de reuniones",
-      "Identificación de tareas",
-      "Seguimiento de decisiones",
-      "Integración con calendario",
-      "Compartir notas"
+      "Transcripción automática de reuniones",
+      "Resumen inteligente de decisiones",
+      "Identificación y asignación de tareas",
+      "Seguimiento de acciones pendientes",
+      "Integración con calendarios y herramientas de gestión"
     ],
     "caracteristicas": [
-      "IA para transcripción",
-      "Resúmenes inteligentes",
-      "Integración Google/Outlook",
-      "Plan gratuito",
-      "App escritorio",
-      "Privacidad configurable"
+      "Automatización completa de notas",
+      "Detección de puntos clave",
+      "Interfaz intuitiva",
+      "Ahorro de tiempo en la gestión de reuniones",
+      "Ideal para profesionales con agendas ocupadas"
     ],
-    "etica": "Graba y transcribe conversaciones, lo que requiere consentimiento de participantes. Útil pero plantea cuestiones de privacidad en reuniones sensibles."
+    "etica": "Se compromete con la privacidad de las conversaciones y datos de las reuniones, aplicando cifrado y políticas de no uso para entrenamiento. Busca mejorar la eficiencia sin reemplazar la interacción humana.",
+    "limite_gratis": "Ofrece un plan gratuito que permite transcribir y resumir un número limitado de reuniones al mes, con acceso a funciones básicas de identificación de tareas."
   },
   {
     "id": "ollama",
     "nombre": "Ollama",
-    "compania": "Ollama (comunidad)",
-    "tipo": "Ejecución local de LLMs",
-    "precio": "Gratuito (open-source)",
+    "compania": "Ollama",
+    "tipo": "Plataforma de modelos de lenguaje local",
+    "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://ollama.com",
-    "descripcion": "Plataforma para ejecutar modelos de lenguaje localmente. Tus datos nunca salen de tu ordenador. Cientos de modelos disponibles: Llama 4, Mistral, Gemma, Phi, DeepSeek... Privacidad total.",
+    "descripcion": "Una plataforma que permite ejecutar modelos de lenguaje grandes (LLMs) directamente en tu ordenador. Garantiza que tus datos permanezcan privados al no salir nunca de tu dispositivo.",
     "funciones": [
       "Ejecución local de LLMs",
-      "Chat privado",
-      "API local",
-      "Personalización (Modelfiles)",
-      "Integración con apps",
-      "Modelos multimodales"
+      "Descarga y gestión de modelos",
+      "Interfaz de línea de comandos (CLI)",
+      "Creación de modelos personalizados",
+      "Integración con aplicaciones"
     ],
     "caracteristicas": [
-      "Cientos de modelos (Llama, Mistral, Gemma...)",
-      "Privacidad total",
-      "Multi-plataforma",
-      "API REST local",
-      "Open-source",
-      "Comunidad activa"
+      "Privacidad de datos garantizada",
+      "Amplia biblioteca de modelos (Llama, Mistral, Gemma, etc.)",
+      "Control total sobre la inferencia",
+      "Fácil instalación y uso",
+      "Ideal para desarrolladores y usuarios preocupados por la privacidad"
     ],
-    "etica": "Máxima privacidad. Ideal para datos sensibles, empresas e instituciones. Democratiza el acceso sin depender de grandes corporaciones. Eficiencia energética."
+    "etica": "Su principal pilar ético es la privacidad y la soberanía de los datos, asegurando que la información del usuario nunca abandone su dispositivo. Promueve el uso responsable de la IA al dar control total al usuario.",
+    "limite_gratis": "Es una herramienta completamente gratuita y de código abierto, sin limitaciones de uso en su funcionalidad principal de ejecución de modelos locales."
   },
   {
     "id": "llama",
     "nombre": "Llama 4 (Meta)",
     "compania": "Meta",
-    "tipo": "Modelo open-source",
-    "precio": "Gratuito (open-weight)",
+    "tipo": "Modelo de lenguaje grande (LLM)",
+    "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://llama.meta.com",
-    "descripcion": "Familia de modelos open-weight de Meta. La base sobre la que se construyen muchas herramientas. Disponible para descarga, fine-tuning y uso comercial. Ejecutable con Ollama.",
+    "descripcion": "Una familia de modelos de lenguaje de código abierto (open-weight) desarrollada por Meta. Sirve como base fundamental para la creación de numerosas herramientas y aplicaciones de IA.",
     "funciones": [
-      "Modelo base para fine-tuning",
-      "Ejecución local",
-      "Uso comercial permitido",
-      "Chat y razonamiento",
-      "Multimodal (visión)",
-      "Multilingüe"
+      "Generación de texto",
+      "Resumen de información",
+      "Traducción de idiomas",
+      "Razonamiento y comprensión",
+      "Fine-tuning para tareas específicas"
     ],
     "caracteristicas": [
-      "Llama 4 Scout / Maverick",
-      "Open-weight (no del todo open-source)",
-      "Descargable",
-      "Ejecutable con Ollama",
-      "Licencia comercial (límites)",
-      "Comunidad masiva"
+      "Modelos open-weight",
+      "Uso comercial permitido",
+      "Alta capacidad de personalización",
+      "Ejecutable localmente",
+      "Amplia comunidad de desarrolladores"
     ],
-    "etica": "Modelo 'abierto' de Meta. Críticas por no ser totalmente open-source. Permite innovación global pero también usos no éticos. Meta controla la licencia."
+    "etica": "Meta promueve el uso responsable de Llama 4, proporcionando directrices y herramientas para mitigar sesgos y usos indebidos. Al ser open-weight, la comunidad contribuye a su auditoría y mejora ética.",
+    "limite_gratis": "Al ser un modelo open-weight, Llama 4 es completamente gratuito para descargar, usar, modificar y distribuir, sin limitaciones de uso."
   },
   {
     "id": "huggingface",
     "nombre": "HuggingFace",
-    "compania": "Hugging Face Inc.",
-    "tipo": "Plataforma de modelos",
+    "compania": "Hugging Face, Inc.",
+    "tipo": "Plataforma de IA open-source",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://huggingface.co",
-    "descripcion": "El 'GitHub de la IA'. Repositorio de +500.000 modelos, datasets y demos. Centro neurálgico de la IA open-source. Espacios para probar modelos sin instalar nada.",
+    "descripcion": "Conocido como el 'GitHub de la IA', es un vasto repositorio que alberga más de 500.000 modelos, datasets y demos de IA. Es un centro neurálgico para la comunidad de IA open-source.",
     "funciones": [
-      "Repositorio de modelos",
-      "Datasets",
-      "Spaces (demos)",
-      "APIs gratuitas",
-      "Fine-tuning",
-      "Comunidad",
-      "Cursos"
+      "Descarga y compartición de modelos",
+      "Acceso a datasets públicos",
+      "Pruebas de modelos en 'Spaces'",
+      "Colaboración en proyectos de IA",
+      "Herramientas para fine-tuning y despliegue"
     ],
     "caracteristicas": [
-      "+500K modelos",
-      "+100K datasets",
-      "Spaces interactivos",
-      "APIs serverless gratis",
-      "Cursos de NLP/CV",
-      "Hub central de IA open-source"
+      "Mayor repositorio de IA open-source",
+      "Entornos de prueba interactivos (Spaces)",
+      "Amplia comunidad de desarrolladores",
+      "Herramientas para el ciclo de vida de ML",
+      "Soporte para múltiples frameworks"
     ],
-    "etica": "Pilar fundamental de la democratización de la IA. Promueve la transparencia y la ciencia abierta. Sostenibilidad económica en debate."
+    "etica": "Fomenta la transparencia y la reproducibilidad en la IA a través de su naturaleza open-source. Proporciona herramientas y directrices para evaluar y mitigar sesgos en modelos y datasets, promoviendo un desarrollo ético.",
+    "limite_gratis": "Ofrece acceso gratuito a la mayoría de sus modelos, datasets y 'Spaces' públicos, permitiendo a los usuarios explorar y probar una vasta cantidad de recursos sin coste."
   },
   {
     "id": "arena-ai",
     "nombre": "Arena.ai (Agent Mode)",
-    "compania": "Arena AI",
-    "tipo": "Chatbot / Asistente",
+    "compania": "Arena.ai",
+    "tipo": "Plataforma de chat multi-modelo",
     "precio": "Freemium",
     "gratis": true,
     "pago": true,
     "web": "https://arena.ai",
-    "descripcion": "Plataforma de chat con IA que permite comparar y usar múltiples modelos simultáneamente (Claude, ChatGPT, Gemini, Grok, Kimi, Qwen...). Incluye acceso a herramientas, generación de imágenes, workspace con archivos y modo agente autónomo. Ideal para comparar respuestas entre modelos y tareas complejas.",
+    "descripcion": "Una plataforma de chat con IA que permite a los usuarios interactuar y comparar múltiples modelos de lenguaje avanzados simultáneamente. Ofrece acceso a una amplia gama de LLMs líderes y herramientas adicionales.",
     "funciones": [
-      "Chat multi-modelo simultáneo",
-      "Comparación de respuestas entre IAs",
-      "Modo agente autónomo",
-      "Workspace con archivos",
-      "Generación de imágenes",
-      "Búsqueda web",
-      "Subida de archivos",
-      "Ejecución de código"
+      "Interacción con múltiples LLMs (Claude, ChatGPT, Gemini, etc.)",
+      "Comparación de respuestas entre modelos",
+      "Acceso a herramientas y plugins de IA",
+      "Gestión de conversaciones",
+      "Personalización de agentes"
     ],
     "caracteristicas": [
-      "Múltiples modelos (Claude, GPT, Gemini, Grok, Qwen, Kimi...)",
-      "Modo agente con herramientas",
-      "Workspace persistente",
-      "Plan gratuito con límites generosos",
-      "Interfaz web",
-      "Comparación lado a lado"
+      "Soporte para diversos modelos de IA",
+      "Modo de agente para tareas complejas",
+      "Interfaz unificada para LLMs",
+      "Facilita la elección del mejor modelo",
+      "Ideal para experimentación y uso avanzado"
     ],
-    "etica": "Plataforma independiente que no entrena con datos de usuario. Agrega múltiples modelos, facilitando la comparación y reduciendo la dependencia de un solo proveedor.",
+    "etica": "Se compromete con la privacidad de las conversaciones y la seguridad de los datos del usuario. Busca ofrecer una plataforma imparcial para la comparación de modelos, destacando sus fortalezas y limitaciones éticas.",
     "fecha_agregado": "2026-06-15",
-    "auto_detectado": false
+    "auto_detectado": false,
+    "limite_gratis": "Ofrece un plan gratuito que permite un número limitado de interacciones con algunos modelos de IA básicos, con restricciones en el acceso a modelos premium o funciones avanzadas de agente."
   },
   {
     "id": "openrouter",
@@ -2018,6 +2006,240 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Clawd",
+    "descripcion": "Un asistente de navegador con IA 100% local y offline que proporciona ayuda contextual directamente en tu dispositivo.",
+    "_ph": true,
+    "compania": "Clawd AI",
+    "tipo": "Asistente de navegador / Productividad",
+    "precio": "Gratuito",
+    "funciones": [
+      "Asistencia contextual en tiempo real",
+      "Procesamiento de IA sin conexión a internet",
+      "Interacción como mascota virtual",
+      "Soporte para diversas tareas de navegación"
+    ],
+    "caracteristicas": [
+      "Privacidad de datos garantizada (local)",
+      "Bajo consumo de recursos del sistema",
+      "Integración directa con el navegador",
+      "Disponibilidad constante (offline)"
+    ],
+    "etica": "Al operar 100% localmente, Clawd ofrece una privacidad de datos superior, ya que la información del usuario nunca sale del dispositivo. Esto minimiza los riesgos de sesgos por datos externos y garantiza la confidencialidad.",
+    "limite_gratis": "Acceso completo a todas las funciones de IA local y asistencia contextual sin coste alguno.",
+    "web": "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet",
+    "id": "clawd-0820b5",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AirJelly",
+    "descripcion": "Una herramienta de IA proactiva que funciona como un segundo cerebro, organizando y gestionando tu información de forma autónoma para mejorar la productividad.",
+    "_ph": true,
+    "compania": "AirJelly AI",
+    "tipo": "Productividad / Gestión del conocimiento",
+    "precio": "Freemium",
+    "funciones": [
+      "Organización automática de notas e ideas",
+      "Sugerencias y recordatorios proactivos",
+      "Conexión inteligente de conceptos",
+      "Gestión de tareas y proyectos"
+    ],
+    "caracteristicas": [
+      "Aprendizaje continuo del comportamiento del usuario",
+      "Interfaz intuitiva y personalizable",
+      "Sincronización multiplataforma",
+      "Capacidad de auto-organización avanzada"
+    ],
+    "etica": "AirJelly procesa información personal para ser proactivo, por lo que la privacidad de los datos es crucial; se espera un cifrado robusto y políticas claras de uso de datos. Los sesgos podrían surgir de la forma en que prioriza o conecta la información, requiriendo supervisión.",
+    "limite_gratis": "Ofrece un plan gratuito con funcionalidades básicas de organización y un límite en la cantidad de información o proyectos gestionados.",
+    "web": "https://www.producthunt.com/products/airjelly",
+    "id": "airjelly-f71d32",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "HAQQ Legal AI on Mobile",
+    "descripcion": "Una aplicación móvil que utiliza IA para democratizar el acceso a la comprensión legal, ofreciendo información y asistencia jurídica a cualquier persona con un teléfono.",
+    "_ph": true,
+    "compania": "HAQQ Legal Tech",
+    "tipo": "Asistente legal / Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Explicación de términos y conceptos legales",
+      "Resumen de documentos jurídicos complejos",
+      "Orientación sobre procedimientos legales básicos",
+      "Acceso a información legal relevante y actualizada"
+    ],
+    "caracteristicas": [
+      "Interfaz móvil optimizada y fácil de usar",
+      "Base de conocimientos legales actualizada",
+      "Procesamiento de lenguaje natural para consultas",
+      "Disponibilidad 24/7 desde cualquier lugar"
+    ],
+    "etica": "Dada la sensibilidad de la información legal, la privacidad y la seguridad de los datos son primordiales. Es crucial que la IA no ofrezca asesoramiento legal directo, sino información, y que sus fuentes sean fiables para evitar sesgos o desinformación.",
+    "limite_gratis": "Permite consultas básicas y acceso limitado a la base de conocimientos legales sin coste, con opciones de pago para funciones avanzadas o consultas ilimitadas.",
+    "web": "https://www.producthunt.com/products/haqq-mobile-app",
+    "id": "haqq-legal-ai-on-mobile-9c3b59",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "uwait",
+    "descripcion": "Una plataforma innovadora que permite a los usuarios monetizar su tiempo de espera o inactividad mientras una IA realiza tareas o procesa información en segundo plano.",
+    "_ph": true,
+    "compania": "uwait AI",
+    "tipo": "Productividad / Monetización",
+    "precio": "Gratuito",
+    "funciones": [
+      "Monetización del tiempo de inactividad del usuario",
+      "Ejecución de tareas de IA en segundo plano",
+      "Generación de ingresos pasivos",
+      "Optimización del uso del tiempo personal"
+    ],
+    "caracteristicas": [
+      "Integración discreta y no intrusiva",
+      "Modelos de pago flexibles y transparentes",
+      "Bajo impacto en el rendimiento del dispositivo",
+      "Panel de control para seguimiento de ganancias"
+    ],
+    "etica": "La privacidad de los datos es una preocupación clave, ya que la IA podría estar procesando información en el dispositivo del usuario. La transparencia sobre qué tareas realiza la IA y cómo se utilizan los datos es fundamental para mantener la confianza del usuario.",
+    "limite_gratis": "La herramienta es gratuita para los usuarios, ya que su modelo de negocio se basa en la monetización del tiempo de inactividad del usuario a través de tareas de IA.",
+    "web": "https://www.producthunt.com/products/uwait",
+    "id": "uwait-30c856",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Skybridge",
+    "descripcion": "Un framework React de código abierto y full-stack diseñado para el desarrollo de aplicaciones MCP, facilitando la creación de soluciones complejas y escalables.",
+    "_ph": true,
+    "compania": "Skybridge Labs",
+    "tipo": "Herramientas para desarrolladores",
+    "precio": "Gratuito",
+    "funciones": [
+      "Desarrollo rápido de aplicaciones web",
+      "Integración de componentes React",
+      "Soporte full-stack para frontend y backend",
+      "Comunidad activa de código abierto"
+    ],
+    "caracteristicas": [
+      "Arquitectura modular y extensible",
+      "Documentación completa y ejemplos",
+      "Licencia de código abierto (Open Source)",
+      "Optimizado para rendimiento y escalabilidad"
+    ],
+    "etica": "Al ser de código abierto, Skybridge promueve la transparencia y la colaboración en el desarrollo de software. La ética dependerá en gran medida de cómo los desarrolladores utilicen el framework para construir sus propias aplicaciones, especialmente en lo que respecta a la privacidad y el uso responsable de la IA.",
+    "limite_gratis": "Al ser un framework de código abierto, es completamente gratuito y accesible para cualquier desarrollador sin limitaciones de uso.",
+    "web": "https://www.producthunt.com/products/skybridge",
+    "id": "skybridge-bdaea1",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "OnBrand by SlideSpeak",
+    "descripcion": "Una herramienta de SlideSpeak que permite definir y gestionar el contexto de diseño para agentes de IA, asegurando que operen dentro de las directrices de marca y estilo.",
+    "_ph": true,
+    "compania": "SlideSpeak",
+    "tipo": "Herramientas para agentes IA / Diseño",
+    "precio": "Freemium",
+    "funciones": [
+      "Definición de directrices de marca para IA",
+      "Creación de contextos de diseño para agentes",
+      "Asegurar la coherencia de la marca en interacciones de IA",
+      "Gestión centralizada de la identidad de la IA"
+    ],
+    "caracteristicas": [
+      "Integración con diversas plataformas de agentes de IA",
+      "Interfaz de usuario intuitiva para diseñadores",
+      "Control de versiones de directrices de marca",
+      "Personalización de la personalidad y tono de la IA"
+    ],
+    "etica": "OnBrand ayuda a controlar la 'personalidad' y el tono de la IA, lo que puede mitigar sesgos no intencionados en la comunicación y asegurar un mensaje coherente. La privacidad de los datos dependerá de cómo SlideSpeak maneje la información de diseño y las interacciones de los agentes.",
+    "limite_gratis": "Ofrece un plan gratuito para la creación de un número limitado de contextos de diseño o para un solo agente de IA, con funciones avanzadas disponibles en planes de pago.",
+    "web": "https://www.producthunt.com/products/onbrand-2",
+    "id": "onbrand-by-slidespeak-f2da3e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Cloudflare Temporary Accounts",
+    "descripcion": "Un servicio de Cloudflare que permite a los agentes de IA desplegarse y operar temporalmente sin necesidad de un registro completo, facilitando pruebas y despliegues rápidos.",
+    "_ph": true,
+    "compania": "Cloudflare",
+    "tipo": "Infraestructura IA / Despliegue de agentes",
+    "precio": "Freemium",
+    "funciones": [
+      "Despliegue rápido y ágil de agentes",
+      "Creación de cuentas temporales para pruebas",
+      "Acceso simplificado a recursos de Cloudflare",
+      "Automatización del proceso de despliegue"
+    ],
+    "caracteristicas": [
+      "Seguridad y rendimiento de Cloudflare",
+      "Escalabilidad bajo demanda",
+      "Integración con la plataforma Cloudflare",
+      "Facilidad de uso para desarrolladores"
+    ],
+    "etica": "Este servicio facilita el despliegue de agentes, lo que implica una responsabilidad en el uso ético de dichos agentes. Cloudflare, como proveedor de infraestructura, debe asegurar la seguridad y la privacidad de los datos manejados por estas cuentas temporales, así como la transparencia en su uso.",
+    "limite_gratis": "Permite la creación de un número limitado de cuentas temporales o un volumen específico de despliegues para agentes de IA sin coste.",
+    "web": "https://www.producthunt.com/products/cloudflare",
+    "id": "cloudflare-temporary-accounts-0322f1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AgentX",
+    "descripcion": "Una herramienta diseñada para evaluar el rendimiento de agentes de IA, identificar problemas específicos y aplicar soluciones con un solo clic, optimizando su funcionamiento.",
+    "_ph": true,
+    "compania": "AgentX AI",
+    "tipo": "Herramientas para agentes IA / Testing",
+    "precio": "Freemium",
+    "funciones": [
+      "Evaluación de rendimiento de agentes IA",
+      "Identificación de errores y sesgos",
+      "Aplicación de correcciones automáticas",
+      "Optimización del comportamiento del agente",
+      "Análisis de interacciones del agente"
+    ],
+    "caracteristicas": [
+      "Diagnóstico automatizado de problemas",
+      "Interfaz de usuario intuitiva",
+      "Informes detallados de evaluación",
+      "Integración con plataformas de agentes existentes",
+      "Funcionalidad de 'un clic' para soluciones"
+    ],
+    "etica": "AgentX es fundamental para la ética de la IA, ya que ayuda a identificar y corregir sesgos o comportamientos no deseados en los agentes, promoviendo un desarrollo responsable. La privacidad de los datos dependerá de cómo AgentX procese la información de los agentes y sus interacciones durante la evaluación.",
+    "limite_gratis": "Ofrece un plan gratuito para la evaluación de un número limitado de agentes o un volumen específico de pruebas, con funciones avanzadas y análisis ilimitados en planes de pago.",
+    "web": "https://www.producthunt.com/products/agentx",
+    "id": "agentx-4a5ff4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false
   }

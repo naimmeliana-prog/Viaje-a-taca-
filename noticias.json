@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-06-22T03:44:46Z",
+  "actualizado": "2026-06-22T10:43:41Z",
   "novedades": [
+    {
+      "titulo": "Mientras medio mundo se pregunta cómo integrar la IA en las escuelas, Noruega ha encontrado la respuesta: no haciéndolo",
+      "resumen": "La inteligencia artificial ha llegado como un meteorito, impactando en prácticamente todos los sensores y no sólo destruyendo el segmento de tecnología de consumo, sino provocando que los gobiernos trabajen a contrarrelo",
+      "enlace": "https://www.xataka.com/robotica-e-ia/medio-mundo-se-pregunta-como-integrar-ia-escuelas-noruega-ha-encontrado-respuesta-no-haciendolo",
+      "medio": "Xataka",
+      "fecha": "2026-06-22T09:01:01Z"
+    },
+    {
+      "titulo": "Europa pone límites a la IA: lo que ya está prohibido y lo que llega en 2026",
+      "resumen": "La Unión Europea lleva años trabajando en una ley para regular la inteligencia artificial. Se llama el AI Act, y entró en vigor en agosto de 2024 con una fecha clave grabada en el calendario [&#8230;] Europa pone límites",
+      "enlace": "https://blogthinkbig.com/europa-pone-limites-a-la-ia-lo-que-ya-esta-prohibido-y-lo-que-llega-en-2026",
+      "medio": "Think Big",
+      "fecha": "2026-06-22T08:49:51Z"
+    },
+    {
+      "titulo": "Midjourney da el salto a la medicina con un escáner de cuerpo completo",
+      "resumen": "Hace tres años, Midjourney era la empresa que te permitía generar imágenes surrealistas escribiendo cuatro palabras en un cuadro de texto. Esta semana, esa misma empresa ha presentado un escáner médico de cuerpo completo",
+      "enlace": "https://blogthinkbig.com/midjourney-da-el-salto-a-la-medicina-con-un-escaner-de-cuerpo-completo",
+      "medio": "Think Big",
+      "fecha": "2026-06-22T07:33:11Z"
+    },
     {
       "titulo": "La IA está generando un mercado laboral a dos velocidades: los que ganan y los que se quedan atrás",
       "resumen": "Llevamos años escuchando eso de que la IA va a reconfigurar el mercado laboral y cada vez tenemos más datos de cómo está siendo ese cambio. PwC acaba de hacer público su nuevo barómetro global de la IA en el mercado labo",
@@ -20,7 +41,7 @@
       "resumen": "A comienzos de mayo, Trump fue a China de viaje oficial y se llevó un séquito de CEOs en el Air Force One. Estaban todos de las tecnológicas (Cristiano Amon, Tim Cook, Elon Musk o Jensen Huang, por ejemplo), pero también",
       "enlace": "https://www.xataka.com/materiales/china-esta-estrangulando-materiales-criticos-que-eeuu-necesita-para-su-industria-tecnologica-guerra-a-dos-velocidades",
       "medio": "Xataka",
-      "fecha": "2026-06-21T10:01:08Z"
+      "fecha": "2026-06-21T10:00:00Z"
     },
     {
       "titulo": "\"La IA está matando mis libros\": Tim Ferriss lleva años vendiendo consejos de productividad que ChatGPT ahora da gratis",
@@ -86,13 +107,6 @@
       "fecha": "2026-06-18T19:30:17Z"
     },
     {
-      "titulo": "La IA va a generar una riqueza sin precedentes. La pregunta que empieza a hacerse todo el mundo es quién va a quedarse con ella",
-      "resumen": "Hay un debate candente en torno a la rentabilidad de la IA. De momento, la salvaje inversión en centros de datos no está contribuyendo en absoluto al crecimiento de la economía de EEUU, pero hay quienes creen que la IA y",
-      "enlace": "https://www.xataka.com/empresas-y-economia/ia-va-a-generar-riqueza-precedentes-pregunta-que-empieza-a-hacerse-todo-mundo-quien-va-a-quedarse-ella",
-      "medio": "Xataka",
-      "fecha": "2026-06-18T16:00:17Z"
-    },
-    {
       "titulo": "DOOM y hasta dónde puede llegar el ingenio para estirar una broma",
       "resumen": "El videojuego DOOM nació en 1993 gracias a id Software, y mas allá de haber revolucionado los shooters, la extrema flexibilidad de su código fuente es su caracteristica mas recordada. Lo que empezó como una [&#8230;] DOO",
       "enlace": "https://blogthinkbig.com/doom-y-hasta-donde-puede-llegar-el-ingenio-para-estirar-una-broma",
@@ -140,20 +154,6 @@
       "enlace": "https://blogthinkbig.com/estados-unidos-apaga-fable-5-y-mythos-5-el-golpe-que-deja-a-europa-fuera-del-mapa-de-la-ia",
       "medio": "Think Big",
       "fecha": "2026-06-16T10:00:00Z"
-    },
-    {
-      "titulo": "Acompañar en el final de la vida: la mirada del Dr. Enric Benito sobre los cuidados paliativos",
-      "resumen": "Hablar de la muerte incomoda. La evitamos, la silenciamos, la tratamos como un enemigo al que vencer. Y sin embargo es la única certeza que compartimos todos. El Dr. Enric Benito, referente internacional en cuidados [&#8",
-      "enlace": "https://blogthinkbig.com/acompanar-en-el-final-de-la-vida-la-mirada-del-dr-enric-benito-sobre-los-cuidados-paliativos",
-      "medio": "Think Big",
-      "fecha": "2026-06-16T08:16:00Z"
-    },
-    {
-      "titulo": "El Mundial más vigilado de la historia: así es la tecnología del 2026",
-      "resumen": "El Mundial 2026 ya es el más grande de la historia: 48 selecciones, 104 partidos, 16 sedes repartidas entre Estados Unidos, México y Canadá, y una audiencia potencial de 6.000 millones de personas. Pero más [&#8230;] El ",
-      "enlace": "https://blogthinkbig.com/el-mundial-mas-vigilado-de-la-historia-asi-es-la-tecnologia-del-2026",
-      "medio": "Think Big",
-      "fecha": "2026-06-15T08:19:31Z"
     },
     {
       "titulo": "Google extiende a todos los Android la IA contextual del Pixel 10: ahora tu teléfono aprende tus hábitos sin enviar datos a nadie",
@@ -213,6 +213,13 @@
     }
   ],
   "etica": [
+    {
+      "titulo": "Europa pone límites a la IA: lo que ya está prohibido y lo que llega en 2026",
+      "resumen": "La Unión Europea lleva años trabajando en una ley para regular la inteligencia artificial. Se llama el AI Act, y entró en vigor en agosto de 2024 con una fecha clave grabada en el calendario [&#8230;] Europa pone límites",
+      "enlace": "https://blogthinkbig.com/europa-pone-limites-a-la-ia-lo-que-ya-esta-prohibido-y-lo-que-llega-en-2026",
+      "medio": "Think Big",
+      "fecha": "2026-06-22T08:49:51Z"
+    },
     {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
       "resumen": "La Agencia Española de Supervisión de Inteligencia Artificial (AESIA) está cerca de cumplir su primer año de vida operativa. Este organismo ha activado varias inciativas con resultados aún difíciles de concretar, pero un",
@@ -345,13 +352,6 @@
       "enlace": "https://wwwhatsnew.com/2023/11/08/nuevas-polemicas-sobre-el-uso-de-inteligencia-artificial-en-el-periodismo/",
       "medio": "WWWhat's new",
       "fecha": "2023-11-08T12:00:08Z"
-    },
-    {
-      "titulo": "Google y Amazon apuestan fuerte en la carrera de la inteligencia artificial con inversiones multimillonarias en Anthropic",
-      "resumen": "Google y Amazon han decidido realizar inversiones multimillonarias en Anthropic, una startup que se centra en la seguridad de la IA. Este movimiento estratégico llega justo cuando la administración Biden anuncia cambios ",
-      "enlace": "https://wwwhatsnew.com/2023/11/01/google-y-amazon-apuestan-fuerte-en-la-carrera-de-la-inteligencia-artificial-con-inversiones-multimillonarias-en-anthropic/",
-      "medio": "WWWhat's new",
-      "fecha": "2023-11-01T17:00:23Z"
     }
   ]
 }
