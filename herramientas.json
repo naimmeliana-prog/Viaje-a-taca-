@@ -1206,7 +1206,6 @@
   {
     "nombre": "WorkClaw",
     "descripcion": "Ofrece compañeros de trabajo IA proactivos y colaborativos que se integran directamente en Slack para mejorar la productividad del equipo. Automatiza tareas y asiste en la gestión de proyectos.",
-    "_ph": true,
     "compania": "WorkClaw AI",
     "tipo": "Agentes IA / Productividad / Colaboración",
     "precio": "Freemium",
@@ -1236,7 +1235,6 @@
   {
     "nombre": "Mellum by JetBrains",
     "descripcion": "Proporciona LLMs optimizados para flujos de trabajo de baja latencia y alto rendimiento, ideal para desarrolladores que necesitan respuestas rápidas. Mejora la eficiencia en la codificación y el análisis.",
-    "_ph": true,
     "compania": "JetBrains",
     "tipo": "Modelos de Lenguaje Grandes (LLMs) / Desarrollo de Software",
     "precio": "Pago",
@@ -1266,7 +1264,6 @@
   {
     "nombre": "pumaDB",
     "descripcion": "Ofrece una capa de memoria alojada y optimizada para agentes de IA, permitiéndoles almacenar y recuperar información de forma eficiente. Esencial para la persistencia de contexto y estados.",
-    "_ph": true,
     "compania": "pumaDB Inc.",
     "tipo": "Base de Datos / Infraestructura IA / Memoria para Agentes IA",
     "precio": "Freemium",
@@ -1296,7 +1293,6 @@
   {
     "nombre": "Are you in the Weights?",
     "descripcion": "Permite a los usuarios investigar si su información personal ha sido utilizada para entrenar Modelos de Lenguaje Grandes (LLMs), abordando preocupaciones sobre la privacidad de datos. Ofrece transparencia sobre la huella digital en la IA.",
-    "_ph": true,
     "compania": "AI Data Privacy Labs",
     "tipo": "Privacidad de Datos / Ética IA / Herramienta de Auditoría",
     "precio": "Gratuito",
@@ -1326,7 +1322,6 @@
   {
     "nombre": "Pixlie",
     "descripcion": "Un estudio de vídeo con IA que transforma texto e imágenes en vídeos, ofreciendo un control creativo significativo sobre el resultado final. Facilita la creación de contenido visual dinámico.",
-    "_ph": true,
     "compania": "Pixlie AI",
     "tipo": "Generación de Vídeo / Edición de Vídeo / Diseño Gráfico",
     "precio": "Freemium",
@@ -1356,7 +1351,6 @@
   {
     "nombre": "MeshPilot",
     "descripcion": "Un espacio de trabajo inteligente impulsado por IA que integra terminales, gestión de tareas y agentes de IA para optimizar flujos de trabajo. Mejora la eficiencia en entornos de desarrollo y operaciones.",
-    "_ph": true,
     "compania": "MeshPilot Labs",
     "tipo": "Productividad / Agentes IA / Gestión de Tareas / Desarrollo de Software",
     "precio": "Freemium",
@@ -1386,7 +1380,6 @@
   {
     "nombre": "Narration Room",
     "descripcion": "Convierte texto fuente en guiones editables con múltiples voces, ideal para la creación de audiolibros, podcasts o vídeos narrados. Ofrece control detallado sobre la producción de audio.",
-    "_ph": true,
     "compania": "Narration Room Inc.",
     "tipo": "Generación de Voz / Edición de Audio / Creación de Contenido",
     "precio": "Freemium",
@@ -1416,7 +1409,6 @@
   {
     "nombre": "Ask Ad Manager by Google Ads",
     "descripcion": "Un agente de IA impulsado por Gemini que proporciona insights y acelera la toma de decisiones para la gestión de campañas publicitarias en Google Ads. Ofrece análisis inteligente para optimizar el rendimiento de los anuncios.",
-    "_ph": true,
     "compania": "Google Ads (Google)",
     "tipo": "Marketing Digital / Publicidad / Agentes IA / Análisis de Datos",
     "precio": "Gratuito",
@@ -1446,7 +1438,6 @@
   {
     "nombre": "Laguna by Poolside",
     "descripcion": "Un conjunto de modelos fundacionales diseñados para la codificación autónoma y la gestión de proyectos complejos a largo plazo. Permite a los desarrolladores automatizar tareas de programación y abordar desafíos de ingeniería con mayor eficiencia.",
-    "_ph": true,
     "compania": "Poolside",
     "tipo": "Agentes IA, Asistente de programación, Modelos de lenguaje",
     "precio": "Freemium",
@@ -1476,7 +1467,6 @@
   {
     "nombre": "Cloudback MCP Server",
     "descripcion": "Un servidor de gestión centralizada para copias de seguridad, diseñado para integrar y administrar datos de herramientas de IA como Claude, Cursor y entornos de desarrollo como VS Code. Facilita la protección y recuperación de información crítica.",
-    "_ph": true,
     "compania": "Cloudback",
     "tipo": "Productividad, Gestión de datos, Integración de IA",
     "precio": "Pago",
@@ -1506,7 +1496,6 @@
   {
     "nombre": "Backgrind",
     "descripcion": "Permite ejecutar agentes de IA sobre cualquier aplicación o juego, extendiendo sus capacidades y automatizando tareas complejas. Ofrece una capa de inteligencia artificial para interactuar con software existente.",
-    "_ph": true,
     "compania": "Backgrind Inc.",
     "tipo": "Agentes IA, Automatización, Productividad, Gaming",
     "precio": "Freemium",
@@ -1536,7 +1525,6 @@
   {
     "nombre": "Plansera AI",
     "descripcion": "Una herramienta de IA especializada en la redacción de planes de negocio detallados y conformes para solicitudes de visa E-2. Agiliza el proceso de creación de documentos complejos y críticos para inmigración.",
-    "_ph": true,
     "compania": "Plansera",
     "tipo": "Productividad, Asistente de escritura, LegalTech, Finanzas",
     "precio": "Pago",
@@ -1566,7 +1554,6 @@
   {
     "nombre": "Grok by SpaceXAI for Word",
     "descripcion": "Un complemento de IA para Microsoft Word que ayuda a redactar, reestructurar y mejorar la claridad y concisión del texto directamente desde un panel lateral. Optimiza el proceso de escritura y edición de documentos.",
-    "_ph": true,
     "compania": "SpaceXAI",
     "tipo": "Asistente de escritura, Productividad, Edición de texto",
     "precio": "Freemium",
@@ -1596,7 +1583,6 @@
   {
     "nombre": "Agent 37",
     "descripcion": "Una plataforma que permite asignar un agente de IA personalizado, como Hermes o OpenClaw, a cada cliente para ofrecer una experiencia de servicio altamente individualizada y eficiente. Mejora la interacción y el soporte al cliente.",
-    "_ph": true,
     "compania": "Agent 37 Solutions",
     "tipo": "Agentes IA, Servicio al cliente, Automatización, Chatbot / Asistente",
     "precio": "Pago",
@@ -1626,7 +1612,6 @@
   {
     "nombre": "frontpage.sh",
     "descripcion": "Una plataforma de subasta perpetua para ocho espacios publicitarios, donde las empresas pueden pujar por visibilidad. Utiliza IA para optimizar la colocación y el rendimiento de los anuncios.",
-    "_ph": true,
     "compania": "Frontpage Labs",
     "tipo": "Publicidad, Marketing, Optimización de anuncios IA",
     "precio": "Pago",
@@ -1656,7 +1641,6 @@
   {
     "nombre": "Foglamp",
     "descripcion": "Una herramienta que permite a los desarrolladores implementar y visualizar el comportamiento de sus agentes de IA de manera clara y comprensible. Facilita la depuración y el entendimiento de sistemas complejos de IA.",
-    "_ph": true,
     "compania": "Foglamp AI",
     "tipo": "Agentes IA, Desarrollo de IA, Visualización de IA",
     "precio": "Freemium",
@@ -1686,7 +1670,6 @@
   {
     "nombre": "Darkmoon",
     "descripcion": "Plataforma de IA que automatiza las pruebas de penetración para identificar vulnerabilidades en sistemas y redes. Permite a las organizaciones mejorar proactivamente su postura de seguridad.",
-    "_ph": true,
     "compania": "Darkmoon AI",
     "tipo": "Ciberseguridad / Pruebas de penetración IA",
     "precio": "Pago",
@@ -1716,7 +1699,6 @@
   {
     "nombre": "Mutter AI Dictation",
     "descripcion": "Herramienta de dictado por IA que permite transcribir voz a texto de forma privada y sin conexión a internet. Ideal para usuarios que requieren máxima confidencialidad y disponibilidad.",
-    "_ph": true,
     "compania": "Mutter AI",
     "tipo": "Transcripción de voz / Productividad",
     "precio": "Freemium",
@@ -1746,7 +1728,6 @@
   {
     "nombre": "Prism",
     "descripcion": "Un compañero de IA diseñado específicamente para usuarios de macOS, que mejora la productividad y la interacción con el sistema operativo. Ofrece asistencia inteligente para diversas tareas diarias.",
-    "_ph": true,
     "compania": "Prism AI",
     "tipo": "Asistente personal / Productividad",
     "precio": "Freemium",
@@ -1776,7 +1757,6 @@
   {
     "nombre": "VELA",
     "descripcion": "Plataforma diseñada para ejecutar de forma segura código generado por IA o de fuentes no confiables en un entorno aislado. Previene riesgos de seguridad y vulnerabilidades en el desarrollo de software.",
-    "_ph": true,
     "compania": "VELA Security",
     "tipo": "Seguridad de código / Desarrollo IA",
     "precio": "Pago",
@@ -1951,7 +1931,6 @@
   {
     "nombre": "Agent 37 Cloud",
     "descripcion": "Ofrece una plataforma para crear y gestionar agentes de IA personalizados, diseñados para interactuar individualmente con cada cliente y optimizar la experiencia.",
-    "_ph": true,
     "precio": "Pago",
     "funciones": [
       "Creación y personalización de agentes de IA",
@@ -1981,7 +1960,6 @@
   {
     "nombre": "CADAM",
     "descripcion": "CADAM es una plataforma de diseño 3D asistido por inteligencia artificial que democratiza la creación de modelos complejos. Permite a usuarios de todos los niveles transformar ideas en diseños tangibles con la ayuda de algoritmos inteligentes.",
-    "_ph": true,
     "compania": "CADAM Labs",
     "tipo": "Diseño 3D Generativo / Asistido por IA",
     "precio": "Freemium",
@@ -2012,7 +1990,6 @@
   {
     "nombre": "Clawd",
     "descripcion": "Un asistente de navegador con IA 100% local y offline que proporciona ayuda contextual directamente en tu dispositivo.",
-    "_ph": true,
     "compania": "Clawd AI",
     "tipo": "Asistente de navegador / Productividad",
     "precio": "Gratuito",
@@ -2041,7 +2018,6 @@
   {
     "nombre": "AirJelly",
     "descripcion": "Una herramienta de IA proactiva que funciona como un segundo cerebro, organizando y gestionando tu información de forma autónoma para mejorar la productividad.",
-    "_ph": true,
     "compania": "AirJelly AI",
     "tipo": "Productividad / Gestión del conocimiento",
     "precio": "Freemium",
@@ -2070,7 +2046,6 @@
   {
     "nombre": "HAQQ Legal AI on Mobile",
     "descripcion": "Una aplicación móvil que utiliza IA para democratizar el acceso a la comprensión legal, ofreciendo información y asistencia jurídica a cualquier persona con un teléfono.",
-    "_ph": true,
     "compania": "HAQQ Legal Tech",
     "tipo": "Asistente legal / Productividad",
     "precio": "Freemium",
@@ -2099,7 +2074,6 @@
   {
     "nombre": "uwait",
     "descripcion": "Una plataforma innovadora que permite a los usuarios monetizar su tiempo de espera o inactividad mientras una IA realiza tareas o procesa información en segundo plano.",
-    "_ph": true,
     "compania": "uwait AI",
     "tipo": "Productividad / Monetización",
     "precio": "Gratuito",
@@ -2128,7 +2102,6 @@
   {
     "nombre": "Skybridge",
     "descripcion": "Un framework React de código abierto y full-stack diseñado para el desarrollo de aplicaciones MCP, facilitando la creación de soluciones complejas y escalables.",
-    "_ph": true,
     "compania": "Skybridge Labs",
     "tipo": "Herramientas para desarrolladores",
     "precio": "Gratuito",
@@ -2157,7 +2130,6 @@
   {
     "nombre": "OnBrand by SlideSpeak",
     "descripcion": "Una herramienta de SlideSpeak que permite definir y gestionar el contexto de diseño para agentes de IA, asegurando que operen dentro de las directrices de marca y estilo.",
-    "_ph": true,
     "compania": "SlideSpeak",
     "tipo": "Herramientas para agentes IA / Diseño",
     "precio": "Freemium",
@@ -2186,7 +2158,6 @@
   {
     "nombre": "Cloudflare Temporary Accounts",
     "descripcion": "Un servicio de Cloudflare que permite a los agentes de IA desplegarse y operar temporalmente sin necesidad de un registro completo, facilitando pruebas y despliegues rápidos.",
-    "_ph": true,
     "compania": "Cloudflare",
     "tipo": "Infraestructura IA / Despliegue de agentes",
     "precio": "Freemium",
@@ -2215,7 +2186,6 @@
   {
     "nombre": "AgentX",
     "descripcion": "Una herramienta diseñada para evaluar el rendimiento de agentes de IA, identificar problemas específicos y aplicar soluciones con un solo clic, optimizando su funcionamiento.",
-    "_ph": true,
     "compania": "AgentX AI",
     "tipo": "Herramientas para agentes IA / Testing",
     "precio": "Freemium",
@@ -2246,7 +2216,6 @@
   {
     "nombre": "jebi",
     "descripcion": "A supercharged terminal for Mac with built-in local AI",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"
@@ -2269,7 +2238,6 @@
   {
     "nombre": "Bluerails Discovery",
     "descripcion": "The rails AI agents use to find and pay you",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"
@@ -2292,7 +2260,6 @@
   {
     "nombre": "Rosply",
     "descripcion": "AI agent that controls your computer autonomously",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"
@@ -2315,7 +2282,6 @@
   {
     "nombre": "Conduit",
     "descripcion": "The local MCP gateway that cuts tokens ~90%",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"
@@ -2338,7 +2304,6 @@
   {
     "nombre": "Cotypist",
     "descripcion": "Local AI Autocomplete in your voice, anywhere on your Mac",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"
@@ -2361,7 +2326,6 @@
   {
     "nombre": "NeuralAgent 3.0",
     "descripcion": "AI that executes UI actions on your computer in ~285ms",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"
@@ -2384,7 +2348,6 @@
   {
     "nombre": "BestDefense.io",
     "descripcion": "Pentest and patch every deploy with AI",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"
@@ -2407,7 +2370,6 @@
   {
     "nombre": "Deckwise",
     "descripcion": "AI presentation agent for editable decks",
-    "_ph": true,
     "precio": "Freemium",
     "funciones": [
       "Pendiente de revisión"

@@ -350,8 +350,8 @@ nuevas_ph=[x for x in ph if x["nombre"].lower() not in _ya]
 # Control de crecimiento: no añadir nuevas si ya hay muchas pendientes sin cerrar.
 # Así el catálogo no crece sin control y se da tiempo a completar/cerrar las previas.
 _pend_actuales=sum(1 for h in t if h.get("pendiente_revision"))
-CUPO_PENDIENTES=12       # tope de pendientes simultáneas
-ALTAS_POR_CICLO=8        # máximo de altas nuevas por ejecución
+CUPO_PENDIENTES=6        # tope de pendientes simultáneas (menos = se enriquecen mejor)
+ALTAS_POR_CICLO=4        # máximo de altas nuevas por ejecución (deja cuota para enriquecer)
 _hueco=max(0, CUPO_PENDIENTES-_pend_actuales)
 _limite=min(ALTAS_POR_CICLO, _hueco)
 if nuevas_ph and _limite>0:
@@ -432,7 +432,8 @@ def completar_webs_con_gemini(lista):
    f=porn.get((x.get("nombre","") or "").strip().lower())
    if not f:continue
    w=(f.get("web","") or "").strip()
-   if url_valida(w):
+   # Solo sustituir si Gemini da una web OFICIAL (no otro agregador) y distinta.
+   if es_web_oficial(w) and w!=x.get("web",""):
     x["web"]=w
     hechas+=1
   return hechas
@@ -448,6 +449,24 @@ if G and c:
 # 4) Normalizar candidatos. Lo que llegue incompleto se marca
 #    como pendiente_revision para NO ensuciar la sección ética.
 # ─────────────────────────────────────────────────────────────
+def deducir_tipo(texto):
+ """Deduce una categoría razonable a partir de palabras clave de la descripción."""
+ t=(texto or "").lower()
+ reglas=[
+  ("Generación de vídeo",["video","vídeo","film","movie"]),
+  ("Generación de imágenes",["image","imagen","photo","foto","picture","art ","diffusion"]),
+  ("Generación de audio/voz",["voice","voz","audio","speech","music","música","sound","podcast"]),
+  ("Asistente de programación",["code","código","coding","developer","program","ide","debug","terminal","devtool"]),
+  ("Agentes IA",["agent","agente","autonomous","autónomo","workflow"]),
+  ("Productividad",["note","nota","meeting","reunión","document","slide","presentation","email","calendar","task","writing","escribir","resume"]),
+  ("Búsqueda / Investigación",["search","búsqueda","research","investigación","scrape","index"]),
+  ("Chatbot / Asistente",["chat","assistant","asistente","conversational","companion"]),
+  ("Seguridad",["security","seguridad","vulnerab","pentest","threat","defense"]),
+  ("Datos / Análisis",["data","datos","analytics","análisis","database","sql","memory"]),
+ ]
+ for tipo,kws in reglas:
+  if any(k in t for k in kws):return tipo
+ return "Herramienta de IA"
 def ok_lista(v):
  return isinstance(v,list) and len(v)>0 and not (len(v)==1 and str(v[0]).strip().lower() in ("pendiente","automatico","automático",""))
 def ok_txt(v):
@@ -456,10 +475,21 @@ def ok_txt(v):
 _NO_DATO={"no especificado","no especificada","desconocido","desconocida","n/a","na","none","null","sin especificar","-",""}
 def url_valida(v):
  return isinstance(v,str) and v.strip().lower().startswith(("http://","https://")) and v.strip().lower() not in _NO_DATO
+# Dominios de agregadores/noticias: NO son la web oficial de la herramienta.
+_DOMINIOS_AGREGADORES=("producthunt.com","news.ycombinator.com","ycombinator.com",
+ "techcrunch.com","theverge.com","venturebeat.com","arstechnica.com","wired.com",
+ "zdnet.com","technologyreview.com","reddit.com","huggingface.co/papers",
+ "marktechpost.com","the-decoder.com","dailyai.com","syncedreview.com")
+def es_web_oficial(v):
+ """URL válida que además NO sea de un agregador/medio de noticias."""
+ if not url_valida(v):return False
+ low=v.lower()
+ return not any(dom in low for dom in _DOMINIOS_AGREGADORES)
 def limpiar_web(x):
- """Devuelve una URL válida para 'web' o cadena vacía. Prefiere web, luego el enlace del feed."""
+ """Devuelve la web OFICIAL si la hay, o cadena vacía. Descarta enlaces a
+ agregadores como Product Hunt (que no son la web real de la herramienta)."""
  for cand in (x.get("web"),x.get("li"),x.get("enlace")):
-  if url_valida(cand):return cand.strip()
+  if es_web_oficial(cand):return cand.strip()
  return ""
 def enlace_vivo(url):
  """True si la URL responde (DNS resuelve y HTTP no es 404/410/DNS_FAIL).
@@ -516,7 +546,7 @@ for x in c:
  x["auto_detectado"]=True
  x["pendiente_revision"]=incompleta
  # limpiar campos temporales del feed
- for k in ("ti","re","li"):x.pop(k,None)
+ for k in ("ti","re","li","_ph","enlace","medio","fuente"):x.pop(k,None)
  if x["id"] not in ids:new.append(x);ids.add(x["id"])
 
 print(f"Nuevas: {len(new)}")
@@ -569,7 +599,8 @@ if pend:
    if not ok_txt(h.get("etica","")):
     h["etica"]=("Ficha generada automáticamente; conviene contrastar su política "
                 "de privacidad y uso de datos en el sitio oficial antes de usarla.")
-   if h.get("tipo") in (None,"","Otros"):h["tipo"]="Herramienta de IA"
+   # Deducir un tipo razonable de la descripción (mejor que "Otros").
+   if h.get("tipo") in (None,"","Otros"):h["tipo"]=deducir_tipo(base)
    h["pendiente_revision"]=False
    h.pop("intentos_auto",None)
    cerradas+=1
@@ -582,11 +613,11 @@ if pend:
 webs_limpiadas=0
 for h in t:
  w=h.get("web","")
+ # Solo vaciar webs realmente INVÁLIDAS (no las de agregadores: esas se
+ # mantienen como provisional y el backfill intentará sustituirlas).
  if w and not url_valida(w):
-  nuevo=limpiar_web(h)   # intenta recuperar de 'li'/'enlace' si existieran
-  if nuevo!=w:
-   h["web"]=nuevo
-   webs_limpiadas+=1
+  h["web"]=""
+  webs_limpiadas+=1
 if webs_limpiadas:print(f"Webs inválidas saneadas: {webs_limpiadas}")
 
 # ─────────────────────────────────────────────────────────────
@@ -617,10 +648,11 @@ if con_web:
 #     oficial de unas pocas herramientas sin web válida. Si no la sabe con
 #     seguridad, la deja vacía (la web mostrará "no disponible"). Sin clave, nada.
 # ─────────────────────────────────────────────────────────────
-sin_web=[h for h in t if not url_valida(h.get("web",""))]
+# Incluye las que no tienen web Y las que apuntan a un agregador (Product Hunt, etc.)
+sin_web=[h for h in t if not es_web_oficial(h.get("web",""))]
 webs_rellenadas=0
 if G and sin_web:
- print(f"Backfill 'web': {len(sin_web)} sin URL; intentando {min(len(sin_web),8)} este ciclo...")
+ print(f"Backfill 'web': {len(sin_web)} sin web oficial; intentando {min(len(sin_web),8)} este ciclo...")
  webs_rellenadas=completar_webs_con_gemini(sin_web[:8])
  print(f"  Webs encontradas automáticamente: {webs_rellenadas}")
 elif sin_web:
