@@ -1224,7 +1224,7 @@
       "Interfaz de usuario intuitiva"
     ],
     "etica": "Se enfoca en la privacidad de los datos del equipo, asegurando que la información sensible no se comparta externamente y que los sesgos en la automatización sean minimizados mediante monitoreo constante.",
-    "web": "https://www.producthunt.com/products/workclaw",
+    "web": "https://workclaw.ai/",
     "id": "workclaw-b305d9",
     "gratis": true,
     "pago": true,
@@ -1253,7 +1253,7 @@
       "Soporte para múltiples lenguajes de programación"
     ],
     "etica": "JetBrains se compromete con la seguridad de los datos de los usuarios y la transparencia en el uso de sus modelos, buscando reducir sesgos y garantizar un uso responsable de la IA en el desarrollo de software.",
-    "web": "https://www.producthunt.com/products/jetbrains",
+    "web": "https://www.jetbrains.com/mellum/",
     "id": "mellum-by-jetbrains-70a13f",
     "gratis": false,
     "pago": true,
@@ -1282,7 +1282,7 @@
       "Seguridad de datos"
     ],
     "etica": "Prioriza la seguridad y privacidad de los datos almacenados, implementando cifrado y controles de acceso estrictos para proteger la información sensible de los agentes y sus interacciones.",
-    "web": "https://www.producthunt.com/products/pumadb",
+    "web": "https://www.pumadb.com/",
     "id": "pumadb-b44093",
     "gratis": true,
     "pago": true,
@@ -1311,7 +1311,7 @@
       "Enfoque en la ética de la IA"
     ],
     "etica": "Su misión principal es la ética y la privacidad de los datos, empoderando a los usuarios para entender y controlar su presencia en los datasets de entrenamiento de IA, y promoviendo la transparencia de los LLMs.",
-    "web": "https://www.producthunt.com/products/are-you-in-the-weights",
+    "web": "https://www.areyouintheweights.com/",
     "id": "are-you-in-the-weights--a81b0b",
     "gratis": true,
     "pago": false,
@@ -1340,7 +1340,7 @@
       "Colaboración en proyectos"
     ],
     "etica": "Se compromete a evitar la generación de contenido dañino o engañoso, y a respetar los derechos de autor de las imágenes y textos utilizados, promoviendo un uso creativo y responsable de la IA.",
-    "web": "https://www.producthunt.com/products/pixlie",
+    "web": "https://pixlie.ai/",
     "id": "pixlie-028f3c",
     "gratis": true,
     "pago": true,
@@ -1369,7 +1369,7 @@
       "Soporte para múltiples entornos"
     ],
     "etica": "Asegura la privacidad de los datos de los proyectos y comandos ejecutados, implementando medidas de seguridad robustas y promoviendo un uso ético de la automatización para evitar sesgos en la toma de decisiones.",
-    "web": "https://www.producthunt.com/products/meshpilot",
+    "web": "https://meshpilot.ai/",
     "id": "meshpilot-204bdf",
     "gratis": true,
     "pago": true,
@@ -1398,7 +1398,7 @@
       "Control de pronunciación"
     ],
     "etica": "Se compromete a evitar el uso indebido de las voces generadas, como la suplantación de identidad, y a garantizar que los datos de texto de entrada se traten con privacidad y seguridad.",
-    "web": "https://www.producthunt.com/products/narration-room",
+    "web": "https://narrationroom.com/",
     "id": "narration-room-23a58e",
     "gratis": true,
     "pago": true,
@@ -2233,7 +2233,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Bluerails Discovery",
@@ -2255,7 +2255,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Rosply",
@@ -2277,7 +2277,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Conduit",
@@ -2299,7 +2299,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Cotypist",
@@ -2321,7 +2321,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "NeuralAgent 3.0",
@@ -2343,7 +2343,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "BestDefense.io",
@@ -2365,7 +2365,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Deckwise",
@@ -2387,6 +2387,240 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
+  },
+  {
+    "nombre": "prime-rl 0.6.0",
+    "compania": "Comunidad Open Source",
+    "tipo": "Framework IA / Aprendizaje por Refuerzo",
+    "precio": "Gratuito",
+    "descripcion": "Un framework de código abierto para el aprendizaje por refuerzo asíncrono, optimizado para entrenar modelos Mixture-of-Experts (MoE) de billones de parámetros.",
+    "web": "",
+    "funciones": [
+      "Entrenamiento de modelos de aprendizaje por refuerzo",
+      "Soporte para arquitecturas Mixture-of-Experts (MoE)",
+      "Gestión de cargas de trabajo de billones de parámetros",
+      "Facilitar el desarrollo de algoritmos RL asíncronos"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Diseñado para aprendizaje por refuerzo asíncrono",
+      "Escalable a modelos de billones de parámetros",
+      "Optimizado para MoE",
+      "Versión 0.6.0"
+    ],
+    "etica": "Al ser un framework, la ética recae en el uso responsable por parte de los desarrolladores, asegurando la equidad en los datos de entrenamiento y evitando usos maliciosos.",
+    "limite_gratis": "Acceso completo a todas las funcionalidades del framework.",
+    "id": "prime-rl-0-6-0-b759ad",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Seedance 2.5",
+    "compania": "ByteDance",
+    "tipo": "Generación de vídeo",
+    "precio": "Pago",
+    "descripcion": "Un modelo de IA de ByteDance que establece un nuevo estándar en la generación de vídeo, superando la limitación de los 30 segundos de duración.",
+    "web": "",
+    "funciones": [
+      "Generación de vídeos a partir de texto o imágenes",
+      "Creación de contenido de vídeo de larga duración (más de 30 segundos)",
+      "Producción de vídeos de alta calidad"
+    ],
+    "caracteristicas": [
+      "Desarrollado por ByteDance",
+      "Versión 2.5",
+      "Capacidad de generar vídeos de más de 30 segundos",
+      "Presentado en la conferencia FORCE de Volcano Engine",
+      "Modelo de IA avanzado para vídeo"
+    ],
+    "etica": "La generación de vídeo puede plantear desafíos éticos relacionados con la creación de deepfakes o contenido engañoso; ByteDance debe implementar salvaguardias para prevenir el uso indebido.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "seedance-2-5-80facd",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "CUGA",
+    "compania": "Comunidad de Desarrolladores",
+    "tipo": "Agentes IA / Framework de Desarrollo",
+    "precio": "Gratuito",
+    "descripcion": "Un harness ligero diseñado para facilitar la construcción de aplicaciones basadas en agentes de IA, proporcionando ejemplos prácticos para acelerar el desarrollo.",
+    "web": "",
+    "funciones": [
+      "Construcción de aplicaciones agentic",
+      "Desarrollo rápido de agentes de IA",
+      "Provisión de ejemplos funcionales",
+      "Integración de componentes de IA"
+    ],
+    "caracteristicas": [
+      "Harness ligero",
+      "Enfocado en aplicaciones agentic",
+      "Incluye una colección de ejemplos",
+      "Facilita el desarrollo",
+      "Diseño modular"
+    ],
+    "etica": "La creación de agentes de IA requiere considerar la autonomía, la seguridad y la responsabilidad de las acciones del agente, asegurando que sean transparentes y controlables.",
+    "limite_gratis": "Acceso completo a todas las funcionalidades del harness.",
+    "id": "cuga-3ff59b",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Latitude",
+    "compania": "Independiente",
+    "tipo": "Diagnóstico de IA / Herramientas para Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Una herramienta especializada en el diagnóstico y la resolución de problemas que afectan el rendimiento y la operación de los agentes de inteligencia artificial.",
+    "web": "",
+    "funciones": [
+      "Identificación de fallos en agentes IA",
+      "Diagnóstico de problemas de rendimiento",
+      "Sugerencia de soluciones para agentes",
+      "Monitoreo del comportamiento de agentes"
+    ],
+    "caracteristicas": [
+      "Enfocada en agentes de IA",
+      "Capacidades de diagnóstico",
+      "Funcionalidades de resolución de problemas",
+      "Interfaz intuitiva",
+      "Análisis en tiempo real"
+    ],
+    "etica": "La herramienta debe garantizar la privacidad de los datos de los agentes y sus interacciones, y es crucial que no introduzca sesgos adicionales en el diagnóstico o las soluciones propuestas.",
+    "limite_gratis": "Plan gratuito con funcionalidades básicas de diagnóstico y un número limitado de agentes monitoreados.",
+    "id": "latitude-3b0eb7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Fika Jobs",
+    "compania": "Fika Jobs Inc.",
+    "tipo": "Recursos Humanos IA / Contratación IA",
+    "precio": "Pago",
+    "descripcion": "Una innovadora plataforma de contratación que optimiza el proceso de selección mediante agentes de IA para entrevistas en vídeo y perfiles de vídeo cortos de los candidatos.",
+    "web": "",
+    "funciones": [
+      "Realización de entrevistas en vídeo por agentes de IA",
+      "Creación y gestión de perfiles de vídeo de candidatos",
+      "Preselección automatizada de candidatos",
+      "Evaluación de habilidades blandas y duras"
+    ],
+    "caracteristicas": [
+      "Uso de agentes de IA para entrevistas",
+      "Integración de perfiles de vídeo",
+      "Automatización del proceso de contratación",
+      "Plataforma basada en la nube",
+      "Enfoque en la experiencia del candidato"
+    ],
+    "etica": "Es fundamental abordar los sesgos algorítmicos en la IA de contratación para asegurar la equidad y evitar la discriminación, garantizando la privacidad de los datos de los candidatos y la transparencia.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "fika-jobs-e499ed",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "IdeaVault Alpha",
+    "compania": "Startup",
+    "tipo": "Análisis de Mercado IA / Generación de Ideas",
+    "precio": "Freemium",
+    "descripcion": "Una herramienta de IA que explora Reddit para identificar problemas y quejas de usuarios, transformándolos en ideas de micro-SaaS y revelando nichos de mercado.",
+    "web": "https://ideavault-alpha.vercel.app/",
+    "funciones": [
+      "Análisis de contenido de Reddit",
+      "Identificación de problemas y necesidades de usuarios",
+      "Generación de ideas de micro-SaaS",
+      "Detección de nichos de mercado",
+      "Análisis de tendencias"
+    ],
+    "caracteristicas": [
+      "Enfocada en Reddit como fuente de datos",
+      "Utiliza IA para análisis de texto",
+      "Generación de ideas de negocio",
+      "Identificación de nichos",
+      "Versión Alpha"
+    ],
+    "etica": "La herramienta debe respetar la privacidad de los usuarios de Reddit al analizar sus publicaciones, anonimizando los datos y evitando la explotación de vulnerabilidades o la manipulación de información.",
+    "limite_gratis": "Plan gratuito con un número limitado de análisis de Reddit o sugerencias de ideas por mes.",
+    "id": "ideavault-alpha-98f0fa",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Jotform AI App Builder",
+    "compania": "Jotform",
+    "tipo": "Desarrollo de Aplicaciones IA / No-code/Low-code",
+    "precio": "Freemium",
+    "descripcion": "Una extensión de Jotform que permite a los usuarios crear aplicaciones funcionales a partir de sus ideas de forma rápida y sencilla, aprovechando la inteligencia artificial.",
+    "web": "",
+    "funciones": [
+      "Transformación de ideas en aplicaciones",
+      "Generación de interfaces de usuario",
+      "Automatización de flujos de trabajo",
+      "Creación de aplicaciones sin código",
+      "Integración con el ecosistema Jotform"
+    ],
+    "caracteristicas": [
+      "Desarrollado por Jotform",
+      "Utiliza IA para la construcción de apps",
+      "Enfoque 'no-code'",
+      "Creación rápida de prototipos",
+      "Aplicaciones funcionales"
+    ],
+    "etica": "La herramienta debe garantizar la seguridad y privacidad de los datos de las aplicaciones creadas, y es importante que la IA no introduzca vulnerabilidades o sesgos en la lógica de las aplicaciones generadas.",
+    "limite_gratis": "El plan gratuito permite crear un número limitado de aplicaciones con funcionalidades básicas y almacenamiento restringido.",
+    "id": "jotform-ai-app-builder-ba0b91",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "OpenArt Director",
+    "compania": "OpenArt Inc.",
+    "tipo": "Generación de vídeo / Edición de vídeo IA",
+    "precio": "Freemium",
+    "descripcion": "Una herramienta innovadora que permite a los usuarios dirigir y producir vídeos cinemáticos de alta calidad utilizando comandos de chat, simplificando la creación de contenido visual.",
+    "web": "",
+    "funciones": [
+      "Generación de vídeos cinemáticos",
+      "Control de la producción de vídeo mediante chat",
+      "Edición de escenas y efectos",
+      "Creación de contenido visual",
+      "Personalización de estilos"
+    ],
+    "caracteristicas": [
+      "Control por comandos de chat",
+      "Enfoque en vídeo cinemático",
+      "Facilita la producción de contenido",
+      "Interfaz conversacional",
+      "Generación de vídeo asistida por IA"
+    ],
+    "etica": "La generación de vídeo plantea preocupaciones sobre deepfakes y contenido engañoso; la herramienta debe incluir mecanismos para identificar contenido generado por IA y promover un uso responsable.",
+    "limite_gratis": "Plan gratuito con un número limitado de minutos de vídeo generados o acceso a funciones básicas de edición.",
+    "id": "openart-director-d4b49b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]

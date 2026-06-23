@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-06-23T10:56:10Z",
+  "actualizado": "2026-06-23T16:27:01Z",
   "novedades": [
+    {
+      "titulo": "Nos hemos empeñado en que los robots humanoides parezcan personas: esta startup acaba de demostrar que hay otro camino",
+      "resumen": "Aún no está claro si los robots humanoides serán la próxima gran revolución&nbsp;de la tecnología de consumo, pero desde luego cada vez hay más empresas compitiendo para colar uno de estos robots en nuestras casas. Todos",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nos-hemos-empenado-que-robots-humanoides-parezcan-personas-esta-startup-acaba-demostrar-que-hay-otro-camino",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T16:01:01Z"
+    },
+    {
+      "titulo": "Las nuevas Meta Glasses son 0% Ray-Ban. Esa es una gran noticia para nuestro bolsillo",
+      "resumen": "Meta acaba de anunciar el lanzamiento de varios nuevos pares de gafas inteligentes a las que llama sencillamente Meta Glasses (\"Gafas Meta\"), pero lo realmente llamativo del lanzamiento no son las especificaciones de las",
+      "enlace": "https://www.xataka.com/wearables/meta-glasses-2026-caracteristicas-precio-ficha-tecnica",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T14:47:01Z"
+    },
+    {
+      "titulo": "Un ingeniero de Microsoft tuvo una idea genial para demostrar que la IA no es consciente de sí misma: usar cabras en Age of Empires II",
+      "resumen": "¿Puede un modelo de inteligencia artificial \"sentir\" y ser \"consciente de sí mismo\"? Parece una pregunta absurda, pero hay gente que está comenzando a pensar que así es. La tecnología es cada vez más convincente y precis",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ingeniero-microsoft-tuvo-idea-genial-para-demostrar-que-ia-no-consciente-usar-cabras-age-of-empires-ii",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T12:31:00Z"
+    },
+    {
+      "titulo": "\"Los repartidores ya no serán necesarios\": Richard Liu, CEO del \"Amazon chino\", señala el destino de 700.000 empleados",
+      "resumen": "Uno de los debates internos que están teniendo que asumir algunas de las mayores empresas tecnológicas y de logística gira en torno a la automatización de sus plantillas: sustituir a trabajadores humanos por robots que n",
+      "enlace": "https://www.xataka.com/robotica-e-ia/repartidores-no-seran-necesarios-richard-liu-ceo-amazon-chino-senala-destino-700-000-empleados",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T12:17:00Z"
+    },
+    {
+      "titulo": "\"El uso de tokens se está poniendo bastante, bastante loco\": la fiebre de la IA empieza a pasar factura a las empresas",
+      "resumen": "Ah, los tokens, esas pequeñas unidades de texto que se han convertido en la moneda de cambio en el boom de la IA. Hace unos meses, las empresas de Silicon Valley se lanzaron a los brazos del tokenmaxxing: gastar tokens c",
+      "enlace": "https://www.xataka.com/robotica-e-ia/uso-tokens-se-esta-poniendo-bastante-bastante-loco-fiebre-ia-empieza-a-pasar-factura-a-empresas",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T12:01:01Z"
+    },
     {
       "titulo": "Corea del Sur tenía un rey tecnológico desde 2000. La fiebre por la IA acaba de coronar a otro",
       "resumen": "Cuando uno hablaba de tecnología surcoreana, la empresa que le venía a la cabeza siempre era Samsung. El gigante de los semiconductores y la industria móvil parecía ser líder indiscutible de su país, pero eso está a punt",
@@ -70,41 +105,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/ia-esta-generando-mercado-laboral-a-dos-velocidades-que-ganan-que-se-quedan-atras",
       "medio": "Xataka",
       "fecha": "2026-06-21T17:00:00Z"
-    },
-    {
-      "titulo": "Las viviendas de lujo en EEUU se están vendiendo como churros y los expertos creen saber por qué: la IA",
-      "resumen": "Si has intentado comprar una vivienda en los últimos meses, seguro que ya te habrás percatado de algo: los precios están por las nubes.&nbsp;Aunque la alegría va por barrios porque el mercado inmobiliario está viviendo u",
-      "enlace": "https://www.xataka.com/empresas-y-economia/viviendas-lujo-eeuu-se-estan-vendiendo-como-churros-expertos-creen-saber-que-ia",
-      "medio": "Xataka",
-      "fecha": "2026-06-21T10:15:08Z"
-    },
-    {
-      "titulo": "China está estrangulando los materiales críticos que EEUU necesita para su industria tecnológica. Es una guerra a dos velocidades",
-      "resumen": "A comienzos de mayo, Trump fue a China de viaje oficial y se llevó un séquito de CEOs en el Air Force One. Estaban todos de las tecnológicas (Cristiano Amon, Tim Cook, Elon Musk o Jensen Huang, por ejemplo), pero también",
-      "enlace": "https://www.xataka.com/materiales/china-esta-estrangulando-materiales-criticos-que-eeuu-necesita-para-su-industria-tecnologica-guerra-a-dos-velocidades",
-      "medio": "Xataka",
-      "fecha": "2026-06-21T10:00:00Z"
-    },
-    {
-      "titulo": "\"La IA está matando mis libros\": Tim Ferriss lleva años vendiendo consejos de productividad que ChatGPT ahora da gratis",
-      "resumen": "Vender libros ya era difícil antes de la IA. Ahora se está comenzando a poner casi imposible.&nbsp;Es justo lo que está confesando Tim Ferriss, gurú de la productividad y autor de superventas históricos como 'La semana l",
-      "enlace": "https://www.xataka.com/literatura-comics-y-juegos/ia-esta-matando-mis-libros-tim-ferriss-lleva-anos-vendiendo-consejos-productividad-que-chatgpt-ahora-da-gratis",
-      "medio": "Xataka",
-      "fecha": "2026-06-21T09:01:07Z"
-    },
-    {
-      "titulo": "Una quesería artesanal de California estuvo a punto de quebrar. Hoy es un negocio boyante gracias a algo: agentes de IA",
-      "resumen": "Al norte de San Francisco hay una ciudad llamada Petaluma donde se encuentra una fábrica de queso con el mismo nombre. Petaluma Creamery tiene más de un siglo de historia y llegó a generar 50 millones de dólares en su ép",
-      "enlace": "https://www.xataka.com/robotica-e-ia/queseria-artesanal-california-estuvo-a-punto-quebrar-hoy-negocio-boyante-gracias-a-algo-agentes-ia",
-      "medio": "Xataka",
-      "fecha": "2026-06-20T12:00:17Z"
-    },
-    {
-      "titulo": "Antes en las reuniones del G7 los focos eran para los líderes mundiales. Ahora los protagonistas son Amodei, Altman y Hassabis",
-      "resumen": "Esta semana se ha celebrado la edición número 52 de la cumbre del G7. Los representantes de las siete mayores potencias mundiales debatieron sobre Ucrania, Oriente Medio, o tierras raras, como se esperaba. Lo que no se e",
-      "enlace": "https://www.xataka.com/robotica-e-ia/antes-reuniones-g7-focos-eran-para-lideres-mundiales-ahora-protagonistas-amodei-altman-hassabis",
-      "medio": "Xataka",
-      "fecha": "2026-06-19T16:30:17Z"
     },
     {
       "titulo": "Golpe a ChatGPT: con los nuevos precios de Gemini Pro, no vas a querer usar otra IA",
