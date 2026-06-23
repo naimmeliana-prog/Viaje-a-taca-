@@ -2242,5 +2242,189 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "jebi",
+    "descripcion": "A supercharged terminal for Mac with built-in local AI",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "jebi-cb5f09",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Bluerails Discovery",
+    "descripcion": "The rails AI agents use to find and pay you",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/bluerails-discovery",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "bluerails-discovery-65006d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Rosply",
+    "descripcion": "AI agent that controls your computer autonomously",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/rosply",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "rosply-167ee9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Conduit",
+    "descripcion": "The local MCP gateway that cuts tokens ~90%",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/conduit-12",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "conduit-2b527a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Cotypist",
+    "descripcion": "Local AI Autocomplete in your voice, anywhere on your Mac",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/cotypist",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "cotypist-6e3221",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "NeuralAgent 3.0",
+    "descripcion": "AI that executes UI actions on your computer in ~285ms",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/neuralagent",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "neuralagent-3-0-a46da7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "BestDefense.io",
+    "descripcion": "Pentest and patch every deploy with AI",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/bestdefense-io",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "bestdefense-io-83fa0d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Deckwise",
+    "descripcion": "AI presentation agent for editable decks",
+    "_ph": true,
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/deckwise",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "deckwise-aef3d7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-23",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
   }
 ]

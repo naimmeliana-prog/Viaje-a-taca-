@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-06-22T10:43:41Z",
+  "actualizado": "2026-06-23T10:56:10Z",
   "novedades": [
+    {
+      "titulo": "Corea del Sur tenía un rey tecnológico desde 2000. La fiebre por la IA acaba de coronar a otro",
+      "resumen": "Cuando uno hablaba de tecnología surcoreana, la empresa que le venía a la cabeza siempre era Samsung. El gigante de los semiconductores y la industria móvil parecía ser líder indiscutible de su país, pero eso está a punt",
+      "enlace": "https://www.xataka.com/componentes/corea-sur-tenia-rey-tecnologico-2000-fiebre-ia-acaba-coronar-a-otro",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T09:31:01Z"
+    },
+    {
+      "titulo": "Los algoritmos que deciden tu vida: qué hay detrás de las decisiones que no ves",
+      "resumen": "Hoy, sin saberlo, un algoritmo puede haber decidido si te llaman para una entrevista de trabajo, si tu banco te concede un crédito o qué noticias aparecen primeras en tu pantalla. Esto ya está pasando, [&#8230;] Los algo",
+      "enlace": "https://blogthinkbig.com/los-algoritmos-que-deciden-tu-vida-que-hay-detras-de-las-decisiones-que-no-ves",
+      "medio": "Think Big",
+      "fecha": "2026-06-23T09:14:40Z"
+    },
+    {
+      "titulo": "China ha encontrado un atajo inesperado para llevar la IA a millones de hogares: el robot aspirador",
+      "resumen": "Puede que ya estés usando inteligencia artificial china en casa sin haberlo pensado demasiado. No necesariamente en forma de chatbot, ni como una función escondida en el móvil, ni como una promesa más dentro del televiso",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-ha-encontrado-atajo-inesperado-para-llevar-ia-a-millones-hogares-robot-aspirador",
+      "medio": "Xataka",
+      "fecha": "2026-06-22T19:01:01Z"
+    },
+    {
+      "titulo": "Por qué las cámaras retro están de vuelta y qué refleja eso sobre hacia dónde va la sociedad",
+      "resumen": "Casi todos los comportamientos fundamentales de una sociedad son cíclicos. Algunos, como los pantalones de campana, tardaron 40 años en volver a estar de moda, y otros, como las cámaras retro, dejan claro que vivimos [&#",
+      "enlace": "https://blogthinkbig.com/por-que-las-camaras-retro-estan-de-vuelta-y-que-refleja-eso-sobre-hacia-donde-va-la-sociedad",
+      "medio": "Think Big",
+      "fecha": "2026-06-22T16:01:00Z"
+    },
+    {
+      "titulo": "El problema no es que haya IA en TikTok. Es que ya es más de la mitad de lo que ves nada más entrar",
+      "resumen": "Desde que tenemos modelos de generación de imágenes y vídeos con IA tan punteros, nos hemos empezado a acostumbrar a ver todo tipo de contenido generado por inteligencia artificial en redes sociales. Ya no es solo que no",
+      "enlace": "https://www.xataka.com/aplicaciones/problema-no-que-haya-ia-tiktok-que-mitad-que-ves-nada-entrar",
+      "medio": "Xataka",
+      "fecha": "2026-06-22T15:47:01Z"
+    },
+    {
+      "titulo": "Siri AI cambia tu iPhone para siempre: todo lo que puedes hacer (y antes no) con la nueva IA de Apple",
+      "resumen": "Las primeras incursiones de Apple en el campo de la inteligencia artificial con su asistente inteligente no salieron del todo bien. En 2024, Apple anunciaba Apple Intelligence, su asistente de IA para competir cara a [&#",
+      "enlace": "https://blogthinkbig.com/novedades-siri-ai-apple-intelligence",
+      "medio": "Think Big",
+      "fecha": "2026-06-22T15:13:54Z"
+    },
     {
       "titulo": "Mientras medio mundo se pregunta cómo integrar la IA en las escuelas, Noruega ha encontrado la respuesta: no haciéndolo",
       "resumen": "La inteligencia artificial ha llegado como un meteorito, impactando en prácticamente todos los sensores y no sólo destruyendo el segmento de tecnología de consumo, sino provocando que los gobiernos trabajen a contrarrelo",
@@ -23,11 +65,11 @@
       "fecha": "2026-06-22T07:33:11Z"
     },
     {
-      "titulo": "La IA está generando un mercado laboral a dos velocidades: los que ganan y los que se quedan atrás",
+      "titulo": "Saber usar la IA no es simple ventaja: es la diferencia entre estar en el mercado laboral que crece o en el que se estanca",
       "resumen": "Llevamos años escuchando eso de que la IA va a reconfigurar el mercado laboral y cada vez tenemos más datos de cómo está siendo ese cambio. PwC acaba de hacer público su nuevo barómetro global de la IA en el mercado labo",
       "enlace": "https://www.xataka.com/robotica-e-ia/ia-esta-generando-mercado-laboral-a-dos-velocidades-que-ganan-que-se-quedan-atras",
       "medio": "Xataka",
-      "fecha": "2026-06-21T17:01:08Z"
+      "fecha": "2026-06-21T17:00:00Z"
     },
     {
       "titulo": "Las viviendas de lujo en EEUU se están vendiendo como churros y los expertos creen saber por qué: la IA",
@@ -72,20 +114,6 @@
       "fecha": "2026-06-19T16:01:00Z"
     },
     {
-      "titulo": "EEUU no apagó Claude Mythos por miedo a un jailbreak, lo hizo porque sospechaba que alguien estaba mirando. Ese alguien es China",
-      "resumen": "El sábado pasado, la Casa Blanca ordenó a Anthropic que retirara el acceso a Fable 5 y Mythos a cualquier persona extranjera, sin importar si estaban dentro o fuera de EEUU. Supuestamente esta orden vino tras un aviso de",
-      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-no-apago-claude-mythos-jailbreak-hizo-porque-sospechaba-que-alguien-estaba-mirando-ese-alguien-china",
-      "medio": "Xataka",
-      "fecha": "2026-06-19T15:30:17Z"
-    },
-    {
-      "titulo": "Creíamos que ningún modelo chino de IA se acercaría pronto a Fable 5 o GPT-5.5. Entonces llegó GLM-5.2",
-      "resumen": "Hace unos días la startup china Zhipu AI (Z.ai) anunció el lanzamiento de su nuevo modelo abierto de IA, GLM-5.2. Lo hizo presumiendo de unas prestaciones asombrosas que lo acercaban mucho a los mejores modelos cerrados ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/creiamos-que-ningun-modelo-chino-ia-se-acercaria-pronto-a-fable-5-gpt-5-5-entonces-llego-glm-5-2",
-      "medio": "Xataka",
-      "fecha": "2026-06-19T10:16:16Z"
-    },
-    {
       "titulo": "La iniciativa «Stop Killing Games»: el David contra Goliat que está sucediendo en los videojuegos",
       "resumen": "Imagina que compras un coche nuevo, lo aparcas en tu garaje y, cinco años después, el fabricante entra en tu casa y se lo lleva directamente a la chatarra alegando que «mantener el modelo ya [&#8230;] La iniciativa «Stop",
       "enlace": "https://blogthinkbig.com/stop-killing-games-propiedad-digital",
@@ -98,13 +126,6 @@
       "enlace": "https://blogthinkbig.com/instalar-ios-27-beta-iphone",
       "medio": "Think Big",
       "fecha": "2026-06-19T09:17:23Z"
-    },
-    {
-      "titulo": "LG gram Pro (2026): potencia para IA en local y una obsesión cada vez más clara por pesar menos",
-      "resumen": "Hay muchos portátiles buenos en el mercado, quizá demasiados como para que una marca pueda diferenciarse solo con una lista de especificaciones. Por eso cada fabricante acaba defendiendo una personalidad: algunos se apoy",
-      "enlace": "https://www.xataka.com/ordenadores/lg-gram-pro-2026-caracteristicas-precio-ficha-tecnica",
-      "medio": "Xataka",
-      "fecha": "2026-06-18T19:30:17Z"
     },
     {
       "titulo": "DOOM y hasta dónde puede llegar el ingenio para estirar una broma",
@@ -133,27 +154,6 @@
       "enlace": "https://blogthinkbig.com/consultar-datos-investigados-administraciones-mi-carpeta-ciudadana",
       "medio": "Think Big",
       "fecha": "2026-06-17T07:01:00Z"
-    },
-    {
-      "titulo": "Europa lanza su propio Word, Excel y PowerPoint gratis: así es Office EU",
-      "resumen": "Las relaciones entre Europa y Estados Unidos no pasan por su mejor momento. Y aunque hacía tiempo que desde las instituciones y empresas europeas se hablaba del tema, estas malas relaciones han acelerado y avivado [&#823",
-      "enlace": "https://blogthinkbig.com/office-eu-alternativa-europea-microsoft-365-google-workspace",
-      "medio": "Think Big",
-      "fecha": "2026-06-17T05:29:22Z"
-    },
-    {
-      "titulo": "Claude Fable 5: el modelo de IA más potente disponible al público y el primero que admite ser demasiado peligroso para usarlo sin restricciones",
-      "resumen": "El 9 de junio de 2026, Anthropic publicó Claude Fable 5. Es el modelo de IA más potente que la empresa ha puesto a disposición del público. Supera las marcas de prácticamente todo lo que [&#8230;] Claude Fable 5: el mode",
-      "enlace": "https://blogthinkbig.com/claude-fable-5-anthropic",
-      "medio": "Think Big",
-      "fecha": "2026-06-16T11:38:39Z"
-    },
-    {
-      "titulo": "Estados Unidos apaga Fable 5 y Mythos 5: el golpe que deja a Europa fuera del mapa de la IA",
-      "resumen": "El acceso a la inteligencia artificial más avanzada del mundo se ha convertido, en cuestión de días, en un asunto de política exterior. Lo que hasta hace poco era una negociación discreta entre gobiernos y [&#8230;] Esta",
-      "enlace": "https://blogthinkbig.com/estados-unidos-apaga-fable-5-y-mythos-5-el-golpe-que-deja-a-europa-fuera-del-mapa-de-la-ia",
-      "medio": "Think Big",
-      "fecha": "2026-06-16T10:00:00Z"
     },
     {
       "titulo": "Google extiende a todos los Android la IA contextual del Pixel 10: ahora tu teléfono aprende tus hábitos sin enviar datos a nadie",
