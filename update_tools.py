@@ -369,39 +369,50 @@ def enriquecer_con_gemini(lista):
  """Rellena tipo/funciones/etica/etc. de cada dict de 'lista' usando Gemini.
  Devuelve cuántas fichas se enriquecieron. No rompe si Gemini falla."""
  if not G or not lista:return 0
- try:
-  lote=[{"nombre":x.get("nombre",""),"pista":(x.get("descripcion") or x.get("re") or "")[:160]} for x in lista[:10]]
-  pe=(
-   "Eres un analista para un catálogo de herramientas de IA en español. "
-   "Para cada herramienta de la lista, devuelve su ficha. Usa la pista como contexto; "
-   "si no conoces algún dato, infiérelo de forma razonable. "
-   "Devuelve SOLO un array JSON, un objeto por herramienta EN EL MISMO ORDEN, con campos: "
-   "nombre, compania, tipo (p.ej. 'Generación de vídeo', 'Asistente de programación', "
-   "'Chatbot / Asistente', 'Productividad', 'Agentes IA'...), "
-   "precio (Gratuito|Freemium|Pago), descripcion (1-2 frases en español), "
-   "funciones (array 3-5 en español), caracteristicas (array 3-5 en español), "
-   "etica (1-2 frases en español sobre privacidad/sesgos/impacto), "
-   "limite_gratis (1 frase en español: qué ofrece o qué limita el plan GRATUITO; "
-   "si la herramienta es de pago sin plan gratis, pon 'Sin plan gratuito'). "
-   "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
-  )
-  tx2,ok2=llamar_gemini(pe)
-  if not tx2:return 0
-  m2=re.search(r"\[[\s\S]*\]",tx2)
-  if not m2:return 0
-  fichas=json.loads(m2.group())
-  porn={(f.get("nombre","") or "").strip().lower():f for f in fichas if isinstance(f,dict)}
-  enr=0
-  for x in lista:
-   f=porn.get((x.get("nombre","") or "").strip().lower())
-   if not f:continue
-   for campo in ("compania","tipo","precio","descripcion","funciones","caracteristicas","etica","limite_gratis"):
-    if f.get(campo):x[campo]=f[campo]
-   enr+=1
-  return enr
- except Exception as ex:
-  warn(f"Fallo enriqueciendo con Gemini: {ex}")
-  return 0
+ enr_total=0
+ # Procesar en bloques de 10 para no saltarse ninguna
+ for i in range(0, len(lista), 10):
+  chunk = lista[i:i+10]
+  try:
+   lote=[{"nombre":x.get("nombre",""),"pista":(x.get("re") or x.get("descripcion") or "")[:160].replace("Nueva herramienta detectada automáticamente.", "").strip()} for x in chunk]
+   pe=(
+    "Eres un analista para un catálogo de herramientas de IA en español. "
+    "Para cada herramienta de la lista, devuelve su ficha. Usa la pista como contexto; "
+    "si no conoces algún dato, infiérelo de forma razonable. "
+    "Devuelve SOLO un array JSON, un objeto por herramienta EN EL MISMO ORDEN, con campos: "
+    "nombre (MANTÉN el nombre exacto que te doy), compania, tipo (p.ej. 'Generación de vídeo', 'Asistente de programación', "
+    "'Chatbot / Asistente', 'Productividad', 'Agentes IA'...), "
+    "precio (Gratuito|Freemium|Pago), descripcion (1-2 frases en español), "
+    "funciones (array 3-5 en español), caracteristicas (array 3-5 en español), "
+    "etica (1-2 frases en español sobre privacidad/sesgos/impacto), "
+    "limite_gratis (1 frase en español: qué ofrece o qué limita el plan GRATUITO; "
+    "si la herramienta es de pago sin plan gratis, pon 'Sin plan gratuito'). "
+    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
+   )
+   tx2,ok2=llamar_gemini(pe)
+   if not tx2: continue
+   m2=re.search(r"\[[\s\S]*\]",tx2)
+   if not m2: continue
+   fichas=json.loads(m2.group())
+   # Búsqueda más flexible (contiene)
+   for x in chunk:
+    nombre_x = (x.get("nombre","") or "").strip().lower()
+    f_encontrada = None
+    for f in fichas:
+     if not isinstance(f, dict): continue
+     nombre_f = (f.get("nombre","") or "").strip().lower()
+     # Permitir match si empieza igual o es muy parecido
+     if nombre_x == nombre_f or (nombre_f and nombre_x.startswith(nombre_f)) or (nombre_x and nombre_f.startswith(nombre_x)):
+      f_encontrada = f
+      break
+    
+    if not f_encontrada: continue
+    for campo in ("compania","tipo","precio","descripcion","funciones","caracteristicas","etica","limite_gratis"):
+     if f_encontrada.get(campo): x[campo]=f_encontrada[campo]
+    enr_total+=1
+  except Exception as ex:
+   warn(f"Fallo enriqueciendo con Gemini: {ex}")
+ return enr_total
 
 def completar_webs_con_gemini(lista):
  """Pide a Gemini la URL OFICIAL de cada herramienta sin web válida.
