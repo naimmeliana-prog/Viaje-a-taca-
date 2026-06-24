@@ -1421,14 +1421,14 @@
       "Licencia de código abierto para proyectos comunitarios"
     ],
     "etica": "Promueve la transparencia en la generación de código y evita la inclusión de vulnerabilidades conocidas.",
-    "web": "https://www.producthunt.com/products/poolside",
+    "web": "https://poolside.ai",
     "id": "laguna-by-poolside-82d1af",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
+    "intentos_web": 5,
     "limite_gratis": "10 proyectos, 2000 líneas de código generadas y 5 GB de almacenamiento."
   },
   {
@@ -1450,14 +1450,14 @@
       "Automatización de copias de seguridad"
     ],
     "etica": "Prioriza la integridad y la seguridad de los datos al gestionar copias de seguridad críticas.",
-    "web": "https://www.producthunt.com/products/cloudback",
+    "web": "https://cloudback.io",
     "id": "cloudback-mcp-server-d72873",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
+    "intentos_web": 5,
     "limite_gratis": "Ofrece funcionalidades básicas de gestión de forma gratuita."
   },
   {
@@ -1488,7 +1488,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
+    "intentos_web": 5,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
+    "intentos_web": 5,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1871,7 +1871,7 @@
       "Análisis de rendimiento de agentes"
     ],
     "etica": "Prioriza la privacidad y seguridad de los datos del cliente, implementando medidas para garantizar interacciones éticas y transparentes, y mitigar posibles sesgos.",
-    "web": "https://www.producthunt.com/products/agent-37-38",
+    "web": "https://agent37.com",
     "tipo": "Agentes IA",
     "compania": "Agent 37",
     "id": "agent-37-cloud-448fab",
@@ -1881,7 +1881,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "CADAM",
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Clawd",
@@ -1934,14 +1934,14 @@
     ],
     "etica": "Al operar 100% localmente, Clawd ofrece una privacidad de datos superior, ya que la información del usuario nunca sale del dispositivo. Esto minimiza los riesgos de sesgos por datos externos y garantiza la confidencialidad.",
     "limite_gratis": "Acceso completo a todas las funciones de IA local y asistencia contextual sin coste alguno.",
-    "web": "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet",
+    "web": "https://clawd.ai",
     "id": "clawd-0820b5",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "AirJelly",
@@ -2729,7 +2729,7 @@
       "Soporte multiidioma"
     ],
     "etica": "Ofrece opciones de privacidad configurable, pero los datos sensibles deben manejarse según normativas locales.",
-    "web": "https://edgeone.tencent.com",
+    "web": "",
     "tipo": "Desarrollo de agentes IA",
     "compania": "Tencent",
     "id": "tencent-edgeone-makers-310148",
@@ -2760,7 +2760,7 @@
       "Soporte para múltiples deportes acuáticos"
     ],
     "etica": "Respeta la privacidad de los datos de salud, cifrando la información y permitiendo control total del usuario.",
-    "web": "",
+    "web": "https://www.swimio.com",
     "tipo": "Asistente deportivo",
     "compania": "Swimio",
     "id": "swimio-ff8e82",
@@ -2769,7 +2769,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Sin plan gratuito."
   },
   {
@@ -2800,7 +2800,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
@@ -2822,7 +2822,7 @@
       "Escalado a humanos"
     ],
     "etica": "Mantiene transparencia en interacciones automatizadas y permite auditoría de decisiones.",
-    "web": "",
+    "web": "https://clarify.ai",
     "tipo": "Agentes IA",
     "compania": "Clarify",
     "id": "customer-relationship-agents-by-clarify-b8764b",
@@ -2831,7 +2831,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Incluye hasta 1,000 interacciones mensuales con agentes básicos."
   },
   {
@@ -2853,7 +2853,7 @@
       "Modo sin conexión"
     ],
     "etica": "Protege datos de pedidos y permite cancelar rastreo de historial si el usuario lo solicita.",
-    "web": "",
+    "web": "https://agentcard.com",
     "tipo": "Compras por IA",
     "compania": "Agentcard",
     "id": "buy-by-agentcard-78e519",
@@ -2862,7 +2862,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Servicio totalmente gratuito con límite de 10 pedidos por mes."
   },
   {
@@ -2884,7 +2884,7 @@
       "Modo privado"
     ],
     "etica": "Permite control total sobre qué datos ven los agentes y ofrece opciones de eliminación de historial.",
-    "web": "",
+    "web": "https://mindstone.ai",
     "tipo": "Workspace de IA",
     "compania": "Mindstone",
     "id": "mindstone-rebel-907bd5",
@@ -2893,7 +2893,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Incluye hasta 5 agentes con funcionalidades básicas de workspace."
   },
   {
@@ -2924,7 +2924,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
@@ -2955,7 +2955,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
@@ -2983,7 +2983,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
@@ -3005,7 +3005,7 @@
       "Actualizaciones continuas del modelo de IA"
     ],
     "etica": "Los datos de los usuarios se procesan de forma anónima y se almacenan solo con su consentimiento explícito. El modelo puede heredar sesgos del entrenamiento, por lo que es necesario revisar los resultados humanos.",
-    "web": "",
+    "web": "https://blazly.com",
     "tipo": "Generación de contenido",
     "compania": "Blazly",
     "id": "blazly-seo-a2acb7",
@@ -3014,7 +3014,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "El plan gratuito permite generar hasta 5 artículos al mes con funcionalidades básicas de SEO."
   },
   {
@@ -3045,7 +3045,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
   },
   {
@@ -3130,7 +3130,7 @@
     "tipo": "Servicio de soporte",
     "precio": "Freemium",
     "descripcion": "Gestiona relaciones con clientes mediante respuestas automatizadas.",
-    "web": "",
+    "web": "https://clarify.ai",
     "funciones": [
       "Asistencia personalizada",
       "Recomendaciones"
@@ -3146,7 +3146,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Sin plan gratuito"
   },
   {
@@ -3183,7 +3183,7 @@
     "tipo": "Agentes IA",
     "precio": "Pago",
     "descripcion": "Astra es una arquitectura que combina dos modelos de IA para permitir que robots naveguen de forma autónoma en entornos interiores complejos.",
-    "web": "",
+    "web": "https://astra.ai",
     "funciones": [
       "Navegación autónoma en tiempo real",
       "Percepción multimodal (visión y láser)",
@@ -3205,7 +3205,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Sin plan gratuito."
   },
   {
@@ -3321,7 +3321,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Oracle",
