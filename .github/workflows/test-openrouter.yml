@@ -1,4 +1,4 @@
-name: Probar clave Gemini (ITACA)
+name: Probar clave Openrouter (ITACA)
 # Diagnóstico manual de la clave. No toca el catálogo ni hace commits.
 on:
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.ITACA }}
         run: |
           if [ "${{ inputs.generar }}" = "si" ]; then
-            python3 test_gemini.py --generar
+            python3 test_openrouter.py --generar
           else
-            python3 test_gemini.py
+            python3 test_openrouter.py
           fi
