@@ -1554,7 +1554,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Grok by SpaceXAI for Word",
@@ -1584,7 +1584,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Agent 37",
@@ -1614,7 +1614,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "frontpage.sh",
@@ -1644,7 +1644,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Foglamp",
@@ -1674,7 +1674,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Darkmoon",
@@ -1704,7 +1704,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Mutter AI Dictation",
@@ -1734,7 +1734,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Prism",
@@ -1764,7 +1764,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "VELA",
@@ -2993,7 +2993,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1,
+    "intentos_auto": 2,
     "intentos_web": 1
   },
   {
@@ -3016,7 +3016,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1,
+    "intentos_auto": 2,
     "intentos_web": 1
   }
 ]
