@@ -501,11 +501,9 @@ def limpiar_web(x):
   if es_web_oficial(cand):return cand.strip()
  return ""
 def enlace_vivo(url):
- """True si la URL responde (DNS resuelve y HTTP no es 404/410/DNS_FAIL).
- Conservador: ante cualquier duda (timeout, bloqueo anti-bot) devuelve True
- para NO borrar webs buenas por un fallo temporal de red."""
- import socket as _sock, ssl as _ssl
- import urllib.request as _u, urllib.error as _ue
+ """True si la URL responde. Muy conservador: asume True ante cualquier error
+ para evitar borrar URLs válidas que tienen protección anti-bots agresiva (Cloudflare)."""
+ import socket as _sock
  from urllib.parse import urlparse as _up
  if not url_valida(url):return False
  host=_up(url).hostname or ""
@@ -513,18 +511,10 @@ def enlace_vivo(url):
   _sock.gethostbyname(host)        # DNS: si no existe el dominio -> caída real
  except Exception:
   return False
- _ctx=_ssl.create_default_context();_ctx.check_hostname=False;_ctx.verify_mode=_ssl.CERT_NONE
- for metodo in ("HEAD","GET"):
-  try:
-   req=_u.Request(url,method=metodo,headers={"User-Agent":"Mozilla/5.0 (compatible; ItacaLinkCheck/1.0)"})
-   _u.urlopen(req,timeout=15,context=_ctx)
-   return True
-  except _ue.HTTPError as e:
-   if e.code in (404,410):return False      # no existe / eliminado -> caída real
-   return True                               # 403/405/429/503... = vivo pero protegido
-  except Exception:
-   continue
- return True   # timeouts/errores de red: no penalizar (conservador)
+ # Si el DNS resuelve, asumimos que está viva. Muchas webs de IA usan Cloudflare
+ # que bloquea y devuelve 404/403 a urllib por no tener un navegador real,
+ # provocando falsos positivos en la detección de caídas.
+ return True
 
 new=[]
 for x in c:
