@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-06-24T10:35:54Z",
+  "actualizado": "2026-06-24T13:39:49Z",
   "novedades": [
+    {
+      "titulo": "Creíamos que Adobe estaba amenazada de muerte por la IA. Resulta que es una de las pocas empresas que está ganando dinero con ella",
+      "resumen": "En el último año Adobe ha perdido casi la mitad de su valor. Hace doce meses cotizaba a 382 dólares. Hoy sus acciones cotizan a 197 dólares. Wall Street ha castigado claramente a una empresa que parecía desde luego estar",
+      "enlace": "https://www.xataka.com/robotica-e-ia/creiamos-que-adobe-estaba-amenazada-muerte-ia-resulta-que-pocas-empresas-que-esta-ganando-dinero-ella",
+      "medio": "Xataka",
+      "fecha": "2026-06-24T13:31:01Z"
+    },
+    {
+      "titulo": "Las grandes fortunas de la inteligencia artificial: quién es quién en los nuevos millonarios de la IA",
+      "resumen": "La lista Forbes de Millonarios de 2026 sumó 45 nuevos nombres de millonarios. Lo relevante de estas nuevas incorporaciones es el origen de su fortuna: proviene de empresas relacionadas, de forma directa o indirecta, con ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/grandes-fortunas-inteligencia-artificial-quien-quien-nuevos-millonarios-ia",
+      "medio": "Xataka",
+      "fecha": "2026-06-24T12:01:01Z"
+    },
     {
       "titulo": "El supercomputador más potente del mundo está en China. La otra parte de la historia es aún más interesante",
       "resumen": "La lista TOP500 bianual con los supercomputadores más potentes del planeta ha dado una sorpresa llamativa en su edición de junio de 2026. El sistema chino LineShine, instalado en el Centro Nacional de Supercomputación de",
@@ -65,25 +79,11 @@
       "fecha": "2026-06-23T12:01:01Z"
     },
     {
-      "titulo": "Corea del Sur tenía un rey tecnológico desde 2000. La fiebre por la IA acaba de coronar a otro",
-      "resumen": "Cuando uno hablaba de tecnología surcoreana, la empresa que le venía a la cabeza siempre era Samsung. El gigante de los semiconductores y la industria móvil parecía ser líder indiscutible de su país, pero eso está a punt",
-      "enlace": "https://www.xataka.com/componentes/corea-sur-tenia-rey-tecnologico-2000-fiebre-ia-acaba-coronar-a-otro",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T09:31:01Z"
-    },
-    {
       "titulo": "Los algoritmos que deciden tu vida: qué hay detrás de las decisiones que no ves",
       "resumen": "Hoy, sin saberlo, un algoritmo puede haber decidido si te llaman para una entrevista de trabajo, si tu banco te concede un crédito o qué noticias aparecen primeras en tu pantalla. Esto ya está pasando, [&#8230;] Los algo",
       "enlace": "https://blogthinkbig.com/los-algoritmos-que-deciden-tu-vida-que-hay-detras-de-las-decisiones-que-no-ves",
       "medio": "Think Big",
       "fecha": "2026-06-23T09:14:40Z"
-    },
-    {
-      "titulo": "China ha encontrado un atajo inesperado para llevar la IA a millones de hogares: el robot aspirador",
-      "resumen": "Puede que ya estés usando inteligencia artificial china en casa sin haberlo pensado demasiado. No necesariamente en forma de chatbot, ni como una función escondida en el móvil, ni como una promesa más dentro del televiso",
-      "enlace": "https://www.xataka.com/robotica-e-ia/china-ha-encontrado-atajo-inesperado-para-llevar-ia-a-millones-hogares-robot-aspirador",
-      "medio": "Xataka",
-      "fecha": "2026-06-22T19:01:01Z"
     },
     {
       "titulo": "Por qué las cámaras retro están de vuelta y qué refleja eso sobre hacia dónde va la sociedad",

@@ -1433,7 +1433,8 @@
     "pago": false,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Laguna by Poolside",
@@ -1462,7 +1463,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Cloudback MCP Server",
@@ -1491,7 +1493,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Backgrind",
@@ -1520,7 +1523,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Plansera AI",
@@ -1549,7 +1553,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Grok by SpaceXAI for Word",
@@ -1578,7 +1583,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Agent 37",
@@ -1607,7 +1613,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "frontpage.sh",
@@ -1636,7 +1643,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Foglamp",
@@ -2670,5 +2678,93 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "Crewdle AI",
+    "descripcion": "Use every business AI tool without every subscription",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "crewdle-ai-22e491",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Stripe.Directory",
+    "descripcion": "New way for you & agents to search for businesses on Stripe",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "stripe-directory-506115",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Propane",
+    "descripcion": "Automatic customer context for product teams and agents",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "propane-fbbad0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Tencent EdgeOne Makers",
+    "descripcion": "Ship AI agents like web apps, in minutes.",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "tencent-edgeone-makers-310148",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
   }
 ]
