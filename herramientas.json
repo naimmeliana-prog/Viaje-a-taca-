@@ -2524,7 +2524,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "CUGA",
@@ -2553,7 +2554,8 @@
     "pago": false,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Latitude",
@@ -2582,7 +2584,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Fika Jobs",
@@ -2611,7 +2614,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2671,7 +2675,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "OpenArt Director",
@@ -2701,7 +2706,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Crewdle AI",
@@ -2722,7 +2728,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Stripe.Directory",
@@ -2743,7 +2750,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Propane",
@@ -2849,7 +2857,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Buy by Agentcard",
@@ -2871,7 +2879,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Mindstone Rebel",
@@ -2893,7 +2901,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "NanoCorp",
@@ -2910,6 +2918,50 @@
     "tipo": "Otros",
     "compania": "Desconocida",
     "id": "nanocorp-f9571a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 2
+  },
+  {
+    "nombre": "Buddy AI Note",
+    "descripcion": "Your daily memo that turns notes into a plan",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "buddy-ai-note-024a56",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Sipcode",
+    "descripcion": "Keep Claude Code's context clean for sharper answers",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "sipcode-0fa3d4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
