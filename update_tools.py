@@ -199,12 +199,12 @@ if n:
  _guardar_noticias(n)
 
 c=[]
-gemini_ok=False
+ia_ok=False
 
 # ─────────────────────────────────────────────────────────────
 # 2) Análisis con IA OpenRouter (fuente principal de detección)
 # ─────────────────────────────────────────────────────────────
-def llamar_gemini(prompt):
+def llamar_ia(prompt):
  """(Adaptado a OpenRouter) Devuelve (texto, True) si responde 200. Recorre MODELOS y reintenta."""
  import time
  import requests as rq
@@ -283,7 +283,7 @@ elif n:
   "etica (1-2 frases sobre privacidad/sesgos/impacto). "
   "Si no hay ninguna herramienta nueva clara, devuelve []."
  )
- tx,gemini_ok=llamar_gemini(p)
+ tx,ia_ok=llamar_ia(p)
  if tx:
   m=re.search(r"\[[\s\S]*\]",tx)
   if m:
@@ -292,14 +292,14 @@ elif n:
      if h.get("nombre","").lower() not in [x.lower() for x in nombres]:
       c.append(h)
    except Exception as ex:
-    warn(f"No se pudo parsear el JSON de Gemini: {ex}")
-  print(f"Gemini: {len(c)} detectadas")
+    warn(f"No se pudo parsear el JSON de IA: {ex}")
+  print(f"OpenRouter: {len(c)} detectadas")
 
 # ─────────────────────────────────────────────────────────────
-# 3) Heurística (respaldo si Gemini no detectó nada)
+# 3) Heurística (respaldo si OpenRouter no detectó nada)
 # ─────────────────────────────────────────────────────────────
 if not c:
- if G and not gemini_ok:
+ if G and not ia_ok:
   warn("IA OpenRouter no funcionó este ciclo; usando heurística de respaldo.")
  print("Heuristicas...")
  ps=[
@@ -320,7 +320,7 @@ if not c:
 # 2b) PRODUCT HUNT como fuente DIRECTA de lanzamientos.
 #     Es un feed de productos nuevos por definición, así que cada entrada
 #     es una herramienta candidata (no hay que "decidir si existe").
-#     Limpiamos el nombre/descr y dejamos que el paso 4 + Gemini la enriquezcan.
+#     Limpiamos el nombre/descr y dejamos que el paso 4 + IA la enriquezcan.
 # ─────────────────────────────────────────────────────────────
 def _ph_candidatos(items, conocidas):
  out=[]
@@ -359,12 +359,12 @@ elif nuevas_ph:
 
 # ─────────────────────────────────────────────────────────────
 # 2c) ENRIQUECER con IA OpenRouter las fichas de los candidatos (tipo, funciones,
-#     características, ética y precio). Si Gemini no está o falla, las fichas
+#     características, ética y precio). Si OpenRouter no está o falla, las fichas
 #     quedan como "pendiente_revision" (paso 4) y se reintentan en el próximo ciclo.
 # ─────────────────────────────────────────────────────────────
-def enriquecer_con_gemini(lista):
+def enriquecer_con_ia(lista):
  """Rellena tipo/funciones/etica/etc. de cada dict de 'lista' usando Gemini.
- Devuelve cuántas fichas se enriquecieron. No rompe si Gemini falla."""
+ Devuelve cuántas fichas se enriquecieron. No rompe si IA falla."""
  if not G or not lista:return 0
  enr_total=0
  # Procesar en bloques de 10 para no saltarse ninguna
@@ -386,7 +386,7 @@ def enriquecer_con_gemini(lista):
     "si la herramienta es de pago sin plan gratis, pon 'Sin plan gratuito'). "
     "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
    )
-   tx2,ok2=llamar_gemini(pe)
+   tx2,ok2=llamar_ia(pe)
    if not tx2: continue
    m2=re.search(r"\[[\s\S]*\]",tx2)
    if not m2: continue
@@ -411,10 +411,10 @@ def enriquecer_con_gemini(lista):
    warn(f"Fallo enriqueciendo con IA OpenRouter: {ex}")
  return enr_total
 
-def completar_webs_con_gemini(lista):
- """Pide a Gemini la URL OFICIAL de cada herramienta sin web válida.
- Solo acepta URLs reales (http/https); si Gemini no la sabe, deja la web vacía.
- Devuelve cuántas webs se rellenaron. No rompe si Gemini falla."""
+def completar_webs_con_ia(lista):
+ """Pide a IA la URL OFICIAL de cada herramienta sin web válida.
+ Solo acepta URLs reales (http/https); si IA no la sabe, deja la web vacía.
+ Devuelve cuántas webs se rellenaron. No rompe si IA falla."""
  if not G or not lista:return 0
  try:
   lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120]} for x in lista[:10]]
@@ -429,7 +429,7 @@ def completar_webs_con_gemini(lista):
    "cadena vacía \"\". Nunca inventes dominios ni pongas texto como 'No especificado'.\n"
    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
   )
-  txw,okw=llamar_gemini(pw)
+  txw,okw=llamar_ia(pw)
   if not txw:return 0
   mw=re.search(r"\[[\s\S]*\]",txw)
   if not mw:return 0
@@ -450,7 +450,7 @@ def completar_webs_con_gemini(lista):
   return 0
 
 if G and c:
- n_enr=enriquecer_con_gemini(c)
+ n_enr=enriquecer_con_ia(c)
  if n_enr:print(f"IA OpenRouter enriqueció {n_enr} fichas nuevas")
 
 # ─────────────────────────────────────────────────────────────
@@ -568,7 +568,7 @@ if new:
 # 5) AUTONOMÍA TOTAL: reprocesar las herramientas que sigan "pendiente_revision"
 #    de ciclos anteriores. Sin intervención humana:
 #      a) Se reintenta completarlas con IA OpenRouter (si hay clave/cuota).
-#      b) Si una ficha lleva demasiados ciclos pendiente y Gemini nunca pudo,
+#      b) Si una ficha lleva demasiados ciclos pendiente y IA nunca pudo,
 #         se completa con un texto autonomo derivado de su descripcion y se
 #         marca como verificada igualmente (nada se queda "sin verificar" para
 #         siempre). Así la etiqueta 🆕 desaparece sola.
@@ -583,7 +583,7 @@ pend=[h for h in t if h.get("pendiente_revision")]
 if pend:
  print(f"Pendientes de ciclos anteriores: {len(pend)}")
  # a) reintento con IA OpenRouter
- n_re=enriquecer_con_gemini(pend)
+ n_re=enriquecer_con_ia(pend)
  if n_re:print(f"  IA OpenRouter completó {n_re} pendientes")
  # b) cierre automático: completar lo que falte y quitar la etiqueta
  cerradas=0
@@ -652,7 +652,7 @@ if con_web:
  print(f"Verificador de enlaces: {len(lote)} comprobados, {caidas} caídos.")
 
 # ─────────────────────────────────────────────────────────────
-# 5c) BACKFILL de webs faltantes. Cada ciclo, Gemini intenta encontrar la URL
+# 5c) BACKFILL de webs faltantes. Cada ciclo, IA intenta encontrar la URL
 #     oficial de unas pocas herramientas sin web válida. Si no la sabe con
 #     seguridad, la deja vacía (la web mostrará "no disponible"). Sin clave, nada.
 # ─────────────────────────────────────────────────────────────
@@ -667,7 +667,7 @@ if G and sin_web:
  print(f"Backfill 'web': {len(sin_web)} sin web oficial; intentando {len(batch_web)} este ciclo...")
  for h in batch_web:
   h["intentos_web"] = h.get("intentos_web", 0) + 1
- webs_rellenadas=completar_webs_con_gemini(batch_web)
+ webs_rellenadas=completar_webs_con_ia(batch_web)
  print(f"  Webs encontradas automáticamente: {webs_rellenadas}")
 elif sin_web:
  print(f"Backfill 'web' pendiente ({len(sin_web)} sin URL), pero no hay clave OpenRouter.")
@@ -675,7 +675,7 @@ elif sin_web:
 # ─────────────────────────────────────────────────────────────
 # 6) BACKFILL del límite del plan gratuito (limite_gratis).
 #    Rellena cada ciclo, poco a poco, las herramientas que aún no lo tengan,
-#    priorizando las Freemium. Con Gemini; sin él, no hace nada (no rompe).
+#    priorizando las Freemium. Con IA; sin él, no hace nada (no rompe).
 #    Lote pequeño para no agotar la cuota: el catálogo se completa en varios ciclos.
 # ─────────────────────────────────────────────────────────────
 def _falta_lg(h):
@@ -690,7 +690,7 @@ backfill_cambios=0
 if G and backfill:
  print(f"Backfill 'plan gratuito': {len(sin_lg)} sin dato; procesando {len(backfill)} este ciclo...")
  antes={id(h):h.get("limite_gratis","") for h in backfill}
- enriquecer_con_gemini(backfill)   # rellena limite_gratis (y completa huecos)
+ enriquecer_con_ia(backfill)   # rellena limite_gratis (y completa huecos)
  for h in backfill:
   v=h.get("limite_gratis","")
   if isinstance(v,str) and len(v.strip())>3 and v!=antes[id(h)]:
