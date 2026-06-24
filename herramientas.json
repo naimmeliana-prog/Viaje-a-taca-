@@ -1488,7 +1488,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Clawd",
@@ -1970,7 +1970,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "HAQQ Legal AI on Mobile",
@@ -1999,7 +1999,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "uwait",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Fika Jobs",
@@ -2527,7 +2527,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2667,7 +2667,7 @@
       "Acceso público"
     ],
     "etica": "Stripe es conocida por su enfoque en privacidad y seguridad, pero los datos de negocios pueden tener limitaciones de actualización.",
-    "web": "",
+    "web": "https://stripe.com/directory",
     "tipo": "Directorio comercial",
     "compania": "Stripe",
     "id": "stripe-directory-506115",
@@ -2676,7 +2676,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Ofrece acceso básico a directorio de negocios sin costo, con funcionalidad limitada para integraciones avanzadas."
   },
   {
@@ -2707,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
@@ -2729,7 +2729,7 @@
       "Soporte multiidioma"
     ],
     "etica": "Ofrece opciones de privacidad configurable, pero los datos sensibles deben manejarse según normativas locales.",
-    "web": "",
+    "web": "https://edgeone.tencent.com",
     "tipo": "Desarrollo de agentes IA",
     "compania": "Tencent",
     "id": "tencent-edgeone-makers-310148",
@@ -2738,7 +2738,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Incluye hasta 10 despliegues de agentes con recursos limitados y funcionalidades básicas."
   },
   {
@@ -2800,7 +2800,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
@@ -2924,7 +2924,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
@@ -2955,7 +2955,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
@@ -2983,7 +2983,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
@@ -3045,7 +3045,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
   },
   {
@@ -3321,7 +3321,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Oracle",
@@ -3498,7 +3498,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Launch‑AI Directory",
