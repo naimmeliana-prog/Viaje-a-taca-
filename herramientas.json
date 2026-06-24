@@ -1488,7 +1488,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8
+    "intentos_web": 9
   },
   {
     "nombre": "Clawd",
@@ -1970,7 +1970,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "HAQQ Legal AI on Mobile",
@@ -1999,7 +1999,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "uwait",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "Fika Jobs",
@@ -2527,7 +2527,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2707,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
@@ -2800,7 +2800,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
@@ -2924,7 +2924,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
@@ -2955,7 +2955,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
@@ -2983,7 +2983,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
@@ -3045,7 +3045,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
   },
   {
@@ -3321,7 +3321,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Oracle",
@@ -3498,7 +3498,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Launch‑AI Directory",
@@ -3701,5 +3701,95 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Plan gratuito incluye 5 plantillas, 2 entornos de prueba simultáneos y 1000 llamadas a API al mes."
+  },
+  {
+    "nombre": "stt‑translate",
+    "compania": "OpenVoice AI",
+    "tipo": "Reconocimiento de voz + Traducción simultánea",
+    "precio": "Freemium",
+    "descripcion": "Modelo de reconocimiento de voz y traducción en tiempo real que supera a gpt‑realtime‑translate en precisión y latencia para 5 idiomas.",
+    "web": "https://gradium.com/stt-translate",
+    "funciones": [
+      "Transcripción de audio en tiempo real",
+      "Traducción simultánea a 5 idiomas (inglés, español, francés, alemán, chino)",
+      "Detección automática de idioma de origen",
+      "Sincronización de subtítulos con audio",
+      "API REST para integración en aplicaciones de chat y videoconferencias"
+    ],
+    "caracteristicas": [
+      "Latencia inferior a 200 ms",
+      "Precisión de transcripción > 95 % en entornos con ruido moderado",
+      "Modelo de aprendizaje continuo con feedback de usuarios",
+      "Soporte para formatos de audio comunes (MP3, WAV, FLAC)",
+      "Escalabilidad automática en la nube"
+    ],
+    "etica": "El modelo procesa datos de audio de forma local cuando es posible y en la nube solo con cifrado TLS; no almacena historiales de conversación sin consentimiento explícito.",
+    "limite_gratis": "Plan gratuito permite 500 minutos mensuales de transcripción y 3 idiomas simultáneos.",
+    "id": "stt-translate-4f3ee2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "s2s‑translate",
+    "compania": "LinguaLive",
+    "tipo": "Motor de traducción directa entre pares de idiomas",
+    "precio": "Freemium",
+    "descripcion": "Motor de traducción directa entre pares de idiomas con latencia mínima, optimizado para conversaciones en vivo.",
+    "web": "https://gradium.com/s2s-translate",
+    "funciones": [
+      "Traducción bidireccional en tiempo real entre 20 pares de idiomas",
+      "Modo de conversación con reconocimiento de contexto",
+      "API WebSocket para baja latencia",
+      "Modo offline con modelos descargables",
+      "Control de calidad con puntuación de confianza"
+    ],
+    "caracteristicas": [
+      "Latencia < 150 ms en conexiones de 1 Gbps",
+      "Modelo de 1.2 B parámetros entrenado en corpus multilingüe",
+      "Soporte para dialectos regionales",
+      "Interfaz de usuario web con chat en tiempo real",
+      "Registro de sesiones para análisis posterior"
+    ],
+    "etica": "Los datos de conversación se anonimizan antes de ser enviados a la nube y se eliminan automáticamente después de 24 h; el servicio cumple con GDPR y CCPA.",
+    "limite_gratis": "Plan gratuito permite 200 mensajes por día y 5 pares de idiomas.",
+    "id": "s2s-translate-bf515e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "IdeaVault AI",
+    "compania": "IdeaForge Labs",
+    "tipo": "Generador de ideas de micro‑SaaS",
+    "precio": "Freemium",
+    "descripcion": "Herramienta que analiza hilos de Reddit, extrae problemas recurrentes y sugiere micro‑SaaS viables con modelo de negocio preliminar.",
+    "web": "https://ideavault-alpha.vercel.app",
+    "funciones": [
+      "Extracción automática de temas y problemas de hilos de Reddit",
+      "Análisis de demanda y competencia en el mercado",
+      "Generación de propuestas de negocio con modelo de ingresos",
+      "Evaluación de viabilidad técnica y de mercado",
+      "Exportación de planes de negocio en PDF y Markdown"
+    ],
+    "caracteristicas": [
+      "Uso de embeddings de 768 dimensiones para comprensión semántica",
+      "Base de datos de 10 millones de hilos históricos",
+      "Interfaz de usuario basada en web con filtros por subreddits y categorías",
+      "API para integración con herramientas de gestión de proyectos",
+      "Actualizaciones automáticas de datos cada 24 h"
+    ],
+    "etica": "La herramienta no almacena datos personales de usuarios; los hilos se procesan de forma anónima y se respetan las políticas de Reddit. Se evita la generación de ideas que infrinjan derechos de autor o que promuevan contenido dañino.",
+    "limite_gratis": "Plan gratuito permite 5 análisis por mes y acceso a 3 categorías de subreddits.",
+    "id": "ideavault-ai-e93602",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]
