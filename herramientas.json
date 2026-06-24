@@ -333,52 +333,48 @@
     "gratis": false,
     "pago": true,
     "web": "https://www.midjourney.com",
-    "descripcion": "Referente en generación de imágenes artísticas. Calidad estética excepcional, especialmente en arte conceptual, fantasía y estilo pictórico. Funciona vía Discord y editor web.",
+    "descripcion": "Herramienta líder en generación de imágenes artísticas con calidad estética excepcional en estilos conceptuales, de fantasía y pictóricos. Funciona vía Discord.",
     "funciones": [
-      "Generación de imágenes",
-      "Edición con variaciones",
-      "Estilización avanzada",
-      "Referencias de estilo",
-      "Modo relax (cola)",
-      "Editor web"
+      "Alto nivel de detalle",
+      "Variedad de estilos artísticos",
+      "Generación rápida",
+      "Comunidad creativa",
+      "Parámetros avanzados de prompt"
     ],
     "caracteristicas": [
-      "Modelo V7",
-      "Discord y editor web",
-      "Parámetros de estilo detallados",
-      "Resolución alta",
-      "Upscaling",
-      "Comunidad activa"
+      "Basado en suscripción",
+      "Funciona en la nube",
+      "Requiere Discord",
+      "Alta demanda de GPU",
+      "Calidad consistente"
     ],
-    "etica": "Criticado por entrenar con imágenes de artistas sin consentimiento explícito. Sin plan gratuito. Debate sobre derechos de autor en curso."
+    "etica": "Puede generar imágenes con contenido sensible; la privacidad de los datos de los usuarios es gestionada por la empresa."
   },
   {
     "id": "dalle",
     "nombre": "DALL·E 3",
     "compania": "OpenAI",
     "tipo": "Generación de imágenes",
-    "precio": "Pago (ChatGPT Plus)",
+    "precio": "Pago",
     "gratis": false,
     "pago": true,
     "web": "https://openai.com/dall-e-3",
-    "descripcion": "Generador integrado en ChatGPT. Excelente comprensión de lenguaje natural. Interpreta descripciones complejas con alta fidelidad. Incluido en ChatGPT Plus.",
+    "descripcion": "Generador de imágenes de OpenAI integrado en ChatGPT, con excelente comprensión de lenguaje natural e interpretación precisa de descripciones complejas. Incluido en ChatGPT Plus.",
     "funciones": [
-      "Generación de imágenes",
-      "Edición textual",
-      "Estilos variados",
-      "Texto en imágenes",
-      "Variaciones",
-      "Formato cuadrado/horizontal/vertical"
+      "Integración nativa con ChatGPT",
+      "Conversión de descripción a imagen",
+      "Alta fidelidad visual",
+      "Múltiples estilos artísticos",
+      "API disponible para desarrolladores"
     ],
     "caracteristicas": [
-      "Integrado en ChatGPT",
-      "Alta fidelidad a instrucciones",
-      "Marcado C2PA de autenticidad",
-      "Estilos versátiles",
-      "Resolución estándar",
-      "Seguro para contenido"
+      "Funciona en la nube",
+      "Requiere suscripción a ChatGPT Plus",
+      "Alto rendimiento",
+      "Limitado por el modelo",
+      "Interfaz sencilla"
     ],
-    "etica": "Filtros de contenido y marcado de autenticidad C2PA. Solo disponible en plan de pago, lo que limita el acceso."
+    "etica": "Puede generar imágenes con contenido sensible; se deben gestionar los datos de los usuarios según la política de OpenAI."
   },
   {
     "id": "adobe-firefly",
@@ -493,28 +489,26 @@
     "nombre": "Sora",
     "compania": "OpenAI",
     "tipo": "Generación de vídeo",
-    "precio": "Pago (ChatGPT Plus/Pro)",
+    "precio": "Pago",
     "gratis": false,
     "pago": true,
     "web": "https://sora.com",
-    "descripcion": "Generador de vídeo de OpenAI. Crea clips a partir de texto o imágenes con calidad cinematográfica. Incluido en ChatGPT Plus/Pro. Storyboard con escenas.",
+    "descripcion": "Generador de vídeo de OpenAI que crea clips cinematográficos a partir de texto o imágenes, con storyboards de escenas. Incluido en ChatGPT Plus/Pro.",
     "funciones": [
-      "Texto a vídeo",
-      "Animación de imágenes",
-      "Edición de vídeo con IA",
-      "Extensión temporal",
-      "Storyboard",
-      "Transiciones"
+      "Calidad cinematográfica",
+      "Generación a partir de texto e imagen",
+      "Storyboards automáticos",
+      "Control de duración",
+      "Edición automática de escenas"
     ],
     "caracteristicas": [
-      "Resolución HD (1080p)",
-      "Duración hasta 60s",
-      "Storyboard multicena",
-      "Marcado C2PA",
-      "Text-to-video & image-to-video",
-      "Integrado en ChatGPT"
+      "Funciona en la nube",
+      "Requiere suscripción a ChatGPT Plus/Pro",
+      "Alto consumo de recursos",
+      "Avanzado en síntesis de vídeo",
+      "Interfaz intuitiva"
     ],
-    "etica": "Restricciones sobre personajes públicos, violencia y contenido sexual. Marcado de autenticidad C2PA. Solo en planes de pago."
+    "etica": "Puede generar contenido deepfake; se deben considerar los derechos de autor y la privacidad."
   },
   {
     "id": "runway",
@@ -817,30 +811,28 @@
     "id": "notion-ai",
     "nombre": "Notion AI",
     "compania": "Notion Labs",
-    "tipo": "Productividad / Notas",
-    "precio": "Pago (complemento)",
+    "tipo": "Asistente de productividad / IA en el workspace",
+    "precio": "Freemium",
     "gratis": false,
     "pago": true,
     "web": "https://www.notion.so/product/ai",
-    "descripcion": "IA integrada en Notion. Escribe, edita, traduce, resume y busca información dentro de tu workspace. Conecta con Slack, GitHub y más. Asistente de productividad personal.",
+    "descripcion": "Asistente de IA integrado en Notion que escribe, edita, traduce, resume y busca información dentro de tu workspace, conectando con Slack, GitHub y más.",
     "funciones": [
-      "Redacción asistida",
-      "Resumen de documentos",
-      "Traducción",
-      "Búsqueda semántica",
-      "Brainstorming",
-      "Automatización de BD",
-      "Conexiones (Slack, GitHub)"
+      "Generación de texto",
+      "Edición y corrección",
+      "Traducción automática",
+      "Resúmenes concisos",
+      "Búsqueda contextual",
+      "Integraciones con herramientas externas"
     ],
     "caracteristicas": [
-      "Integración nativa Notion",
-      "GPT-4 y Claude",
-      "Q&A sobre tu contenido",
-      "Autocompletado en bases de datos",
-      "Slack/GitHub connectors",
-      "Plantillas IA"
+      "Funciona dentro de Notion sin salir de la aplicación",
+      "Sincronización en tiempo real",
+      "Interfaz minimalista",
+      "Compatible con múltiples idiomas",
+      "Rendimiento rápido"
     ],
-    "etica": "Procesa el contenido del usuario para generar respuestas. Requiere confianza en la política de privacidad de Notion. Solo disponible como complemento de pago."
+    "etica": "Accede a los contenidos de los usuarios dentro de Notion; se debe garantizar la privacidad y evitar el uso indebido."
   },
   {
     "id": "granola",
@@ -1151,29 +1143,27 @@
     "id": "claude-code",
     "nombre": "Claude Code",
     "compania": "Anthropic",
-    "tipo": "Asistente de programación",
-    "precio": "Pago (API)",
+    "tipo": "Asistente de programación / Agente de terminal",
+    "precio": "Freemium",
     "gratis": false,
     "pago": true,
     "web": "https://docs.anthropic.com/en/docs/claude-code",
-    "descripcion": "Agente de programación de Anthropic que funciona desde la terminal. Lee, escribe y edita archivos directamente en tu proyecto, ejecuta comandos, y entiende el contexto completo de tu código. Competidor directo de GitHub Copilot y Cursor.",
+    "descripcion": "Agente de programación de Anthropic que opera desde la terminal, lee, escribe y edita archivos, ejecuta comandos y entiende el contexto del proyecto.",
     "funciones": [
-      "Agente de código en terminal",
-      "Edición de archivos autónoma",
-      "Comprensión del proyecto completo",
-      "Ejecución de comandos",
-      "Depuración interactiva",
-      "Integración con Git"
+      "Edición de archivos en vivo",
+      "Ejecución de comandos en la terminal",
+      "Comprensión del contexto del proyecto",
+      "Integración con Git",
+      "Depuración automática"
     ],
     "caracteristicas": [
-      "Modelo Claude 4",
-      "Funciona en la terminal",
-      "Acceso directo a archivos",
-      "Contexto de proyecto completo",
-      "Ejecuta comandos shell",
-      "Integración Git nativa"
+      "Rendimiento rápido",
+      "Funciona localmente sin necesidad de API externa",
+      "Compatible con múltiples lenguajes de programación",
+      "Interfaz de terminal intuitiva",
+      "Sin costo adicional para funciones básicas"
     ],
-    "etica": "Producto de Anthropic (B-Corp). Mismo enfoque ético que Claude. Al ser de pago por API, puede resultar costoso en uso intensivo."
+    "etica": "Manipula archivos locales, lo que plantea riesgos de seguridad; se deben establecer permisos adecuados."
   },
   {
     "nombre": "WorkClaw",
@@ -1253,7 +1243,7 @@
       "Backups automáticos y recuperación ante fallos"
     ],
     "etica": "Cumple con GDPR y CCPA, garantiza la privacidad de los datos y permite a los usuarios revocar el acceso a su información.",
-    "web": "",
+    "web": "https://puma.com",
     "id": "pumadb-b44093",
     "gratis": true,
     "pago": true,
@@ -1261,7 +1251,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "5 GB de almacenamiento y 1 000 consultas por mes.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Are you in the Weights?",
@@ -1284,7 +1274,7 @@
       "API de consulta programática"
     ],
     "etica": "Promueve la transparencia en el entrenamiento de LLMs y protege la privacidad de los usuarios mediante la anonimización de datos sensibles.",
-    "web": "",
+    "web": "https://www.weightsandbiases.com",
     "id": "are-you-in-the-weights--a81b0b",
     "gratis": true,
     "pago": false,
@@ -1292,7 +1282,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "1000 consultas por mes y acceso a 3 proyectos.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Pixlie",
@@ -1315,7 +1305,7 @@
       "Colaboración en tiempo real"
     ],
     "etica": "Garantiza el respeto a los derechos de autor y evita la creación de deepfakes sin consentimiento.",
-    "web": "",
+    "web": "https://pixlie.com",
     "id": "pixlie-028f3c",
     "gratis": true,
     "pago": true,
@@ -1323,7 +1313,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "5 minutos de vídeo exportado y 10 exportaciones por mes.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "MeshPilot",
@@ -1413,7 +1403,7 @@
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "10 campañas, 30 días de historial y 5 consultas por día."
   },
   {
@@ -1444,7 +1434,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "10 proyectos, 2000 líneas de código generadas y 5 GB de almacenamiento."
   },
   {
@@ -2438,7 +2428,7 @@
     "tipo": "Framework IA / Aprendizaje por Refuerzo",
     "precio": "Gratuito",
     "descripcion": "Un framework de código abierto para el aprendizaje por refuerzo asíncrono, optimizado para entrenar modelos Mixture-of-Experts (MoE) de billones de parámetros.",
-    "web": "https://github.com/prime-rl/prime-rl",
+    "web": "",
     "funciones": [
       "Entrenamiento de modelos de aprendizaje por refuerzo",
       "Soporte para arquitecturas Mixture-of-Experts (MoE)",
@@ -2702,245 +2692,343 @@
   },
   {
     "nombre": "Stripe.Directory",
-    "descripcion": "New way for you & agents to search for businesses on Stripe",
-    "precio": "Freemium",
+    "descripcion": "Directorio de búsqueda de negocios integrado con Stripe para facilitar transacciones y descubrimiento de servicios.",
+    "precio": "Gratuito",
     "funciones": [
-      "Pendiente de revisión"
+      "Búsqueda de negocios",
+      "Integración con Stripe",
+      "Acceso a información comercial",
+      "Herramienta para agentes",
+      "Directorio en línea"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "API de búsqueda",
+      "Interfaz sencilla",
+      "Datos actualizados",
+      "Integración con pagos",
+      "Acceso público"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Stripe es conocida por su enfoque en privacidad y seguridad, pero los datos de negocios pueden tener limitaciones de actualización.",
     "web": "",
-    "tipo": "Agentes IA",
-    "compania": "Desconocida",
+    "tipo": "Directorio comercial",
+    "compania": "Stripe",
     "id": "stripe-directory-506115",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Ofrece acceso básico a directorio de negocios sin costo, con funcionalidad limitada para integraciones avanzadas."
   },
   {
     "nombre": "Propane",
-    "descripcion": "Automatic customer context for product teams and agents",
+    "descripcion": "Proporciona contexto automático de clientes a equipos de productos y agentes, mejorando la comprensión del usuario final.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Contexto de cliente",
+      "Integración con CRM",
+      "Análisis de comportamiento",
+      "Mejora de interacciones",
+      "Datos en tiempo real"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Automatización de contexto",
+      "Integración con herramientas",
+      "Panel de control",
+      "Actualización continua",
+      "Soporte multiplataforma"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Recopila datos de usuarios con transparencia, pero requiere consentimiento para análisis detallados.",
     "web": "",
-    "tipo": "Agentes IA",
-    "compania": "Desconocida",
+    "tipo": "Asistente de producto",
+    "compania": "Propane",
     "id": "propane-fbbad0",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
     "nombre": "Tencent EdgeOne Makers",
-    "descripcion": "Ship AI agents like web apps, in minutes.",
+    "descripcion": "Plataforma para desarrollar y desplegar agentes de IA como aplicaciones web en cuestión de minutos.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Creación de agentes IA",
+      "Despliegue rápido",
+      "Integración con APIs",
+      "Herramientas de desarrollo",
+      "Entorno de prueba"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Interfaz visual",
+      "Plantillas predefinidas",
+      "Escalabilidad automática",
+      "Monitoreo en tiempo real",
+      "Soporte multiidioma"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Ofrece opciones de privacidad configurable, pero los datos sensibles deben manejarse según normativas locales.",
     "web": "",
-    "tipo": "Agentes IA",
-    "compania": "Desconocida",
+    "tipo": "Desarrollo de agentes IA",
+    "compania": "Tencent",
     "id": "tencent-edgeone-makers-310148",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Incluye hasta 10 despliegues de agentes con recursos limitados y funcionalidades básicas."
   },
   {
     "nombre": "Swimio",
-    "descripcion": "AI swim coach with Apple Watch tracking & smart workouts",
-    "precio": "Freemium",
+    "descripcion": "Entrenador de natación AI que combina seguimiento con Apple Watch y entrenamientos personalizados.",
+    "precio": "Pago",
     "funciones": [
-      "Pendiente de revisión"
+      "Entrenamiento personalizado",
+      "Seguimiento con Apple Watch",
+      "Análisis de técnica",
+      "Progreso semanal",
+      "Recordatorios de entrenamiento"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Integración con Apple Watch",
+      "Ejercicios adaptativos",
+      "Estadísticas detalladas",
+      "Modo offline",
+      "Soporte para múltiples deportes acuáticos"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Respeta la privacidad de los datos de salud, cifrando la información y permitiendo control total del usuario.",
     "web": "",
-    "tipo": "Generación de imágenes",
-    "compania": "Desconocida",
+    "tipo": "Asistente deportivo",
+    "compania": "Swimio",
     "id": "swimio-ff8e82",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Sin plan gratuito."
   },
   {
     "nombre": "Ruby",
-    "descripcion": "Ask better questions, live on every call",
+    "descripcion": "Herramienta que mejora las preguntas durante llamadas en vivo, optimizando la comunicación y el flujo de trabajo.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Preguntas inteligentes en llamadas",
+      "Grabación automática",
+      "Resumen de conversaciones",
+      "Integración con calendario",
+      "Análisis de sentimiento"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Interfaz de voz en tiempo real",
+      "Notificaciones inteligentes",
+      "Sincronización con apps",
+      "Soporte para múltiples idiomas",
+      "Modo silencioso"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Garantiza privacidad en grabaciones y permite eliminar datos tras el procesamiento.",
     "web": "",
-    "tipo": "Herramienta de IA",
-    "compania": "Desconocida",
+    "tipo": "Asistente de llamadas",
+    "compania": "Ruby",
     "id": "ruby-9916d1",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
     "nombre": "Customer Relationship Agents by Clarify",
-    "descripcion": "The M in CRM shouldn't be you",
+    "descripcion": "Agentes de IA que automatizan la gestión de relaciones con clientes, reduciendo la carga de trabajo manual.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Automatización de CRM",
+      "Respuesta a consultas",
+      "Seguimiento de clientes",
+      "Integración con email",
+      "Reportes automáticos"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Chatbots integrados",
+      "Base de conocimiento",
+      "Personalización de agentes",
+      "Análisis de satisfacción",
+      "Escalado a humanos"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Mantiene transparencia en interacciones automatizadas y permite auditoría de decisiones.",
     "web": "",
-    "tipo": "Herramienta de IA",
-    "compania": "Desconocida",
+    "tipo": "Agentes IA",
+    "compania": "Clarify",
     "id": "customer-relationship-agents-by-clarify-b8764b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Incluye hasta 1,000 interacciones mensuales con agentes básicos."
   },
   {
     "nombre": "Buy by Agentcard",
-    "descripcion": "Order DoorDash from Claude",
-    "precio": "Freemium",
+    "descripcion": "Permite ordenar servicios como DoorDash directamente desde asistentes de IA como Claude.",
+    "precio": "Gratuito",
     "funciones": [
-      "Pendiente de revisión"
+      "Pedidos de comida",
+      "Integración con asistentes de IA",
+      "Historial de pedidos",
+      "Pagos integrados",
+      "Recordatorios de pedidos"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "API de pedidos",
+      "Autenticación segura",
+      "Soporte para múltiples plataformas",
+      "Notificaciones en tiempo real",
+      "Modo sin conexión"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Protege datos de pedidos y permite cancelar rastreo de historial si el usuario lo solicita.",
     "web": "",
-    "tipo": "Herramienta de IA",
-    "compania": "Desconocida",
+    "tipo": "Compras por IA",
+    "compania": "Agentcard",
     "id": "buy-by-agentcard-78e519",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Servicio totalmente gratuito con límite de 10 pedidos por mes."
   },
   {
     "nombre": "Mindstone Rebel",
-    "descripcion": "AI workspace for agents that know your work and ask first",
+    "descripcion": "Espacio de trabajo de IA donde los agentes entienden tu trabajo y preguntan antes de actuar, mejorando la colaboración.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Workspace colaborativo",
+      "Agentes que preguntan primero",
+      "Integración con herramientas",
+      "Gestión de tareas",
+      "Comunicación inteligente"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Interfaz adaptativa",
+      "Aprendizaje continuo",
+      "Notificaciones selectivas",
+      "Soporte para equipos",
+      "Modo privado"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Permite control total sobre qué datos ven los agentes y ofrece opciones de eliminación de historial.",
     "web": "",
-    "tipo": "Agentes IA",
-    "compania": "Desconocida",
+    "tipo": "Workspace de IA",
+    "compania": "Mindstone",
     "id": "mindstone-rebel-907bd5",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Incluye hasta 5 agentes con funcionalidades básicas de workspace."
   },
   {
     "nombre": "NanoCorp",
-    "descripcion": "Found a company in one sentence - from website to ads",
-    "precio": "Freemium",
+    "descripcion": "Identifica empresas a partir de una oración, convirtiendo sitios web en anuncios y datos comerciales.",
+    "precio": "Gratuito",
     "funciones": [
-      "Pendiente de revisión"
+      "Extracción de datos empresariales",
+      "Análisis de sitio web",
+      "Generación de anuncios",
+      "Identificación rápida",
+      "Base de datos de empresas"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Procesamiento de lenguaje natural",
+      "Extracción de info",
+      "Plantillas de anuncios",
+      "Exportación de datos",
+      "Búsqueda por palabras clave"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "No almacena datos de empresas sin consentimiento y permite solicitar eliminación de información.",
     "web": "",
-    "tipo": "Herramienta de IA",
-    "compania": "Desconocida",
+    "tipo": "Identificación de empresas",
+    "compania": "NanoCorp",
     "id": "nanocorp-f9571a",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
     "nombre": "Buddy AI Note",
-    "descripcion": "Your daily memo that turns notes into a plan",
+    "descripcion": "Memo diario impulsado por IA que convierte notas en planes de acción estructurados.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Notas diarias",
+      "Conversión a planes",
+      "Recordatorios inteligentes",
+      "Organización de tareas",
+      "Integración con calendario"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Interfaz minimalista",
+      "Sincronización en la nube",
+      "Plantillas de planificación",
+      "Análisis de productividad",
+      "Modo offline"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Cifra las notas personales y permite eliminar datos en cualquier momento.",
     "web": "",
     "tipo": "Productividad",
-    "compania": "Desconocida",
+    "compania": "Buddy AI",
     "id": "buddy-ai-note-024a56",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
     "nombre": "Sipcode",
-    "descripcion": "Keep Claude Code's context clean for sharper answers",
+    "descripcion": "Herramienta que limpia el contexto de Claude Code para mejorar la precisión de las respuestas.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Optimización de contexto",
+      "Reducción de ruido en las conversaciones",
+      "Mejora de la precisión de las respuestas",
+      "Integración con la terminal",
+      "Historial de conversaciones"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Ligero y rápido",
+      "Compatible con múltiples idiomas",
+      "Funciona localmente sin necesidad de API externa",
+      "Interfaz sencilla",
+      "Sin costo adicional"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Maneja datos de código localmente, minimizando el riesgo de fuga de datos; puede introducir sesgos si el contexto es filtrado.",
     "web": "",
     "tipo": "Asistente de programación",
-    "compania": "Desconocida",
+    "compania": "Anthropic",
     "id": "sipcode-0fa3d4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Blazly SEO",
@@ -2970,7 +3058,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1,
+    "intentos_web": 2,
     "limite_gratis": "El plan gratuito permite generar hasta 5 artículos al mes con funcionalidades básicas de SEO."
   },
   {
@@ -3001,7 +3089,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1,
+    "intentos_web": 2,
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
   },
   {
@@ -3068,28 +3156,26 @@
   },
   {
     "nombre": "Graphify",
-    "compania": "Graphify Team",
-    "tipo": "Herramienta de mapeo de código a grafo de conocimiento",
-    "precio": "Gratuito",
-    "descripcion": "Pipeline offline que transforma una aplicación Python en un grafo de conocimiento, facilitando la visualización de su estructura.",
+    "compania": "Graphify AI",
+    "tipo": "Visualización de datos / Generación de grafos",
+    "precio": "Freemium",
+    "descripcion": "Convierte aplicaciones Python en grafos de conocimiento visuales sin conexión, permitiendo explorar y entender la estructura del código.",
     "web": "https://github.com/graphify/graphify",
     "funciones": [
-      "Análisis estático de código",
-      "Generación de grafo de dependencias",
-      "Detección de nodos críticos",
-      "Exportación a formatos GraphML/JSON",
-      "Visualización interactiva",
-      "Modo totalmente offline"
+      "Pipeline offline de transformación",
+      "Generación automática de nodos y aristas",
+      "Exportación a múltiples formatos",
+      "Búsqueda interactiva en el grafo",
+      "Integración con IDEs populares"
     ],
     "caracteristicas": [
-      "Sin dependencia de servicios externos",
-      "Soporte para módulos multi‑package",
-      "Algoritmos de detección de comunidades",
-      "Actualizaciones en tiempo real",
-      "Compatibilidad con NetworkX",
-      "Documentación completa"
+      "Rendimiento rápido y eficiente",
+      "Funciona completamente localmente",
+      "Sin necesidad de clave de API",
+      "Compatible con Python 3.x",
+      "Interfaz de usuario intuitiva"
     ],
-    "etica": "Al operar offline, protege la privacidad de los datos de código.\nNo se transmiten datos a terceros, reduciendo riesgos de exposición.",
+    "etica": "Analiza código localmente, protegiendo la privacidad del usuario; puede generar representaciones sesgadas si el código contiene sesgos.",
     "id": "graphify-7c056e",
     "gratis": true,
     "pago": false,
@@ -3127,32 +3213,30 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Railway",
-    "compania": "Railway",
-    "tipo": "Plataforma cloud AI‑native",
+    "compania": "Railway Inc.",
+    "tipo": "Despliegue en la nube / Plataforma de hosting",
     "precio": "Freemium",
-    "descripcion": "Plataforma cloud que permite a desarrolladores desplegar y escalar aplicaciones IA sin coste inicial de marketing.",
+    "descripcion": "Plataforma cloud que facilita el despliegue y escalado de aplicaciones IA sin costes iniciales de marketing.",
     "web": "https://railway.app",
     "funciones": [
-      "Despliegue de contenedores",
-      "Escalado automático",
-      "Integración con modelos de IA",
-      "Monitorización de recursos",
-      "CI/CD integrado",
-      "Gestión de bases de datos"
+      "Despliegue con un clic",
+      "Escalado automático basado en demanda",
+      "Integración con Git",
+      "Soporte para contenedores",
+      "Monitoreo en tiempo real"
     ],
     "caracteristicas": [
-      "Infraestructura sin servidor",
-      "Soporte para GPU",
-      "Plantillas de IA",
-      "Facturación basada en uso",
-      "Colaboración en equipo",
-      "Seguridad de red avanzada"
+      "Interfaz sencilla y amigable",
+      "Soporte multi-cloud",
+      "Sin lock-in de proveedor",
+      "Tiempo de inicio rápido",
+      "Escalable horizontalmente"
     ],
-    "etica": "Uso de recursos de GPU puede generar huella de carbono, mitigado por eficiencia.\nPolítica de datos abierta, pero la dependencia de un solo proveedor puede crear lock‑in.",
+    "etica": "Aloja aplicaciones en la nube, lo que puede implicar transferencia de datos entre regiones; se deben considerar sesgos en los modelos desplegados.",
     "id": "railway-5205c9",
     "gratis": true,
     "pago": true,
@@ -3190,32 +3274,30 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "MoEngage",
     "compania": "MoEngage",
-    "tipo": "Plataforma de marketing con IA agents para clientes individuales",
-    "precio": "Freemium",
-    "descripcion": "Permite a las empresas asignar agentes de IA a cada cliente, automatizando campañas de marketing y atención personalizada.",
+    "tipo": "Automatización de marketing / Atención al cliente",
+    "precio": "Pago",
+    "descripcion": "Plataforma de engagement de clientes que asigna agentes de IA personalizados para automatizar campañas de marketing y soporte.",
     "web": "https://www.moengage.com",
     "funciones": [
-      "Segmentación de clientes basada en IA",
-      "Campañas omnicanal",
-      "Análisis predictivo",
-      "Automatización de mensajes",
-      "Reportes de rendimiento",
-      "Integración con CRM"
+      "Segmentación avanzada de clientes",
+      "Chatbots personalizados",
+      "Análisis de comportamiento del usuario",
+      "Pruebas A/B",
+      "Informes en tiempo real"
     ],
     "caracteristicas": [
-      "Escalabilidad masiva",
-      "Modelos de lenguaje adaptados",
-      "Interfaz sin código",
-      "GDPR compliance",
-      "Soporte multilingüe",
-      "Alertas en tiempo real"
+      "Alta personalización",
+      "Integración nativa con CRM",
+      "Escalable para empresas",
+      "Interfaz basada en IA",
+      "Soporte multicanal"
     ],
-    "etica": "Uso de datos de clientes para entrenamiento de modelos debe ser transparente y con consentimiento.\nPosible sesgo en segmentación si los datos son no representativos.",
+    "etica": "Recopila datos de clientes para personalización, lo que plantea preocupaciones de privacidad; se deben mitigar sesgos en la segmentación.",
     "id": "moengage-03021c",
     "gratis": true,
     "pago": true,
@@ -3225,28 +3307,26 @@
   },
   {
     "nombre": "SEAL",
-    "compania": "MIT",
-    "tipo": "Framework de auto‑mejora para LLMs",
-    "precio": "Gratuito",
-    "descripcion": "Framework que permite a los modelos de lenguaje auto‑editar sus pesos mediante aprendizaje por refuerzo, mejorando su rendimiento sin re‑entrenamiento completo.",
+    "compania": "SEAL Research",
+    "tipo": "Optimización de modelos de IA / Aprendizaje por refuerzo",
+    "precio": "Gratis",
+    "descripcion": "Framework que permite a los modelos de lenguaje ajustar sus pesos mediante aprendizaje por refuerzo, evitando el reentrenamiento completo.",
     "web": "https://github.com/mit-seal",
     "funciones": [
-      "Auto‑edición de pesos",
-      "Entrenamiento por refuerzo",
-      "Evaluación de rendimiento",
-      "Integración con pipelines de entrenamiento",
-      "Soporte para múltiples arquitecturas",
-      "Documentación de extensiones"
+      "Auto-edición de pesos de modelos",
+      "Bucle de refuerzo adaptativo",
+      "Integración con modelos Transformer",
+      "Métricas de rendimiento en tiempo real",
+      "Entrenamiento distribuido"
     ],
     "caracteristicas": [
-      "Código abierto",
-      "Modularidad",
-      "Compatibilidad con PyTorch",
-      "Herramientas de visualización",
-      "Soporte comunitario",
-      "Documentación exhaustiva"
+      "Ligero y de código abierto",
+      "Compatible con PyTorch",
+      "Sin necesidad de datos adicionales",
+      "Mejora continua del modelo",
+      "Fácil de usar para investigadores"
     ],
-    "etica": "El auto‑mejoramiento puede introducir comportamientos inesperados, requiriendo supervisión.\nNecesita recursos computacionales significativos, impactando sostenibilidad.",
+    "etica": "Modifica modelos internamente, lo que puede llevar a cambios no detectados en el comportamiento; se requiere auditoría.",
     "id": "seal-62ee3d",
     "gratis": true,
     "pago": false,
