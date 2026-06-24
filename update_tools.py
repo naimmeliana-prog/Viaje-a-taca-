@@ -12,8 +12,8 @@ _modelo_env=os.environ.get("OPENROUTER_MODEL","").strip()
 MODELOS=[_modelo_env] if _modelo_env else [
  "openrouter/free"
 ]
-REINTENTOS=3          # intentos por modelo ante un 429
-ESPERA_BASE=20        # segundos; se multiplica en cada reintento (20, 40, 60)
+REINTENTOS=5          # intentos por modelo ante un 429
+ESPERA_BASE=5         # segundos; con openrouter/free mejor esperar un poco más y reintentar más veces
 
 # Anotaciones visibles en GitHub Actions (salen resaltadas en rojo/amarillo)
 def err(m):print("::error::"+m)
@@ -495,10 +495,14 @@ def es_web_oficial(v):
  low=v.lower()
  return not any(dom in low for dom in _DOMINIOS_AGREGADORES)
 def limpiar_web(x):
- """Devuelve la web OFICIAL si la hay, o cadena vacía. Descarta enlaces a
- agregadores como Product Hunt (que no son la web real de la herramienta)."""
+ """Devuelve la web oficial si la hay. Si solo hay enlace a agregador (ej. ProductHunt),
+ DEVUELVE ESE ENLACE provisionalmente para que la web no se quede en blanco desde el día 1.
+ La función de Backfill intentará sustituirlo por el oficial en el futuro."""
  for cand in (x.get("web"),x.get("li"),x.get("enlace")):
-  if es_web_oficial(cand):return cand.strip()
+  if es_web_oficial(cand): return cand.strip()
+ # Si no hay oficial, devolvemos el provisional (ProductHunt) en vez de vacío
+ for cand in (x.get("web"),x.get("li"),x.get("enlace")):
+  if url_valida(cand): return cand.strip()
  return ""
 def enlace_vivo(url):
  """True si la URL responde. Muy conservador: asume True ante cualquier error
@@ -612,8 +616,8 @@ if pend:
 webs_limpiadas=0
 for h in t:
  w=h.get("web","")
- # Solo vaciar webs realmente INVÁLIDAS (no las de agregadores: esas se
- # mantienen como provisional y el backfill intentará sustituirlas).
+ # Solo vaciar webs realmente INVÁLIDAS. Las de agregadores (producthunt) se vacían SOLO cuando entran 
+ # en la función de backfill, para no dejarlas en blanco hasta que la IA encuentre su reemplazo.
  if w and not url_valida(w):
   h["web"]=""
   webs_limpiadas+=1
@@ -648,6 +652,7 @@ if con_web:
 #     seguridad, la deja vacía (la web mostrará "no disponible"). Sin clave, nada.
 # ─────────────────────────────────────────────────────────────
 # Incluye las que no tienen web Y las que apuntan a un agregador (Product Hunt, etc.)
+# Intentar mejorar las que no tienen web o usan un agregador
 sin_web=[h for h in t if not es_web_oficial(h.get("web",""))]
 # Ordenar por intentos_web para no quedarnos atascados en las que Gemini no sabe
 sin_web.sort(key=lambda h: h.get("intentos_web", 0))
