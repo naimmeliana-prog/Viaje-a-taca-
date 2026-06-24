@@ -663,7 +663,7 @@ sin_web.sort(key=lambda h: h.get("intentos_web", 0))
 
 webs_rellenadas=0
 if G and sin_web:
- batch_web = sin_web[:8]
+ batch_web = sin_web[:20]
  print(f"Backfill 'web': {len(sin_web)} sin web oficial; intentando {len(batch_web)} este ciclo...")
  for h in batch_web:
   h["intentos_web"] = h.get("intentos_web", 0) + 1
@@ -685,7 +685,7 @@ def _falta_lg(h):
 sin_lg=[h for h in t if _falta_lg(h)]
 # Las Freemium/Gratuito primero (son las que más interesan a los usuarios)
 sin_lg.sort(key=lambda h: 0 if str(h.get("precio","")).lower().startswith(("freemium","gratuito")) else 1)
-backfill=sin_lg[:8]
+backfill=sin_lg[:20]
 backfill_cambios=0
 if G and backfill:
  print(f"Backfill 'plan gratuito': {len(sin_lg)} sin dato; procesando {len(backfill)} este ciclo...")
