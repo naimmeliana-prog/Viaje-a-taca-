@@ -1488,7 +1488,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 9,
+    "intentos_web": 10,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 9,
+    "intentos_web": 10,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 9
+    "intentos_web": 10
   },
   {
     "nombre": "Clawd",
@@ -1963,14 +1963,14 @@
     ],
     "etica": "AirJelly procesa información personal para ser proactivo, por lo que la privacidad de los datos es crucial; se espera un cifrado robusto y políticas claras de uso de datos. Los sesgos podrían surgir de la forma en que prioriza o conecta la información, requiriendo supervisión.",
     "limite_gratis": "Ofrece un plan gratuito con funcionalidades básicas de organización y un límite en la cantidad de información o proyectos gestionados.",
-    "web": "https://www.producthunt.com/products/airjelly",
+    "web": "https://airjelly.ai",
     "id": "airjelly-f71d32",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8
+    "intentos_web": 9
   },
   {
     "nombre": "HAQQ Legal AI on Mobile",
@@ -1999,7 +1999,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8
+    "intentos_web": 9
   },
   {
     "nombre": "uwait",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8
+    "intentos_web": 9
   },
   {
     "nombre": "Fika Jobs",
@@ -2505,7 +2505,7 @@
     "tipo": "Recursos Humanos IA / Contratación IA",
     "precio": "Pago",
     "descripcion": "Una innovadora plataforma de contratación que optimiza el proceso de selección mediante agentes de IA para entrevistas en vídeo y perfiles de vídeo cortos de los candidatos.",
-    "web": "",
+    "web": "https://fika.jobs",
     "funciones": [
       "Realización de entrevistas en vídeo por agentes de IA",
       "Creación y gestión de perfiles de vídeo de candidatos",
@@ -2527,7 +2527,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8
+    "intentos_web": 9
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2707,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
@@ -2800,7 +2800,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
@@ -2924,7 +2924,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
@@ -2955,7 +2955,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
@@ -2983,7 +2983,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
@@ -3036,7 +3036,7 @@
       "Actualizaciones frecuentes impulsadas por la comunidad"
     ],
     "etica": "Al ser open source, los usuarios pueden revisar el código y asegurarse de que no haya recolección de datos no autorizada. El uso responsable protege la privacidad de las conversaciones registradas.",
-    "web": "",
+    "web": "https://github.com/hush-io/hush",
     "tipo": "Agentes IA",
     "compania": "Hush",
     "id": "hush-93e127",
@@ -3045,7 +3045,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8,
+    "intentos_web": 9,
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
   },
   {
@@ -3321,7 +3321,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Oracle",
@@ -3475,7 +3475,7 @@
     "tipo": "Comparación de modelos ASR",
     "precio": "Gratuito",
     "descripcion": "Plataforma pública que compara modelos de reconocimiento automático de voz (ASR) usando métricas de precisión, latencia y consumo energético con datos del mundo real.",
-    "web": "",
+    "web": "https://ffasr.org/leaderboard",
     "funciones": [
       "Publica resultados de benchmark de modelos ASR.",
       "Permite comparar precisión, latencia y consumo energético.",
@@ -3498,7 +3498,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Launch‑AI Directory",
