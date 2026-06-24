@@ -2772,7 +2772,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Tencent EdgeOne Makers",
@@ -2793,7 +2794,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Swimio",
@@ -2814,7 +2816,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Ruby",
@@ -2835,7 +2838,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Customer Relationship Agents by Clarify",
@@ -2847,17 +2851,17 @@
     "caracteristicas": [
       "Detectada automáticamente"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
     "web": "",
-    "tipo": "Otros",
+    "tipo": "Herramienta de IA",
     "compania": "Desconocida",
     "id": "customer-relationship-agents-by-clarify-b8764b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Buy by Agentcard",
@@ -2869,17 +2873,17 @@
     "caracteristicas": [
       "Detectada automáticamente"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
     "web": "",
-    "tipo": "Otros",
+    "tipo": "Herramienta de IA",
     "compania": "Desconocida",
     "id": "buy-by-agentcard-78e519",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Mindstone Rebel",
@@ -2891,17 +2895,17 @@
     "caracteristicas": [
       "Detectada automáticamente"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
     "web": "",
-    "tipo": "Otros",
+    "tipo": "Agentes IA",
     "compania": "Desconocida",
     "id": "mindstone-rebel-907bd5",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "NanoCorp",
@@ -2913,17 +2917,17 @@
     "caracteristicas": [
       "Detectada automáticamente"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
     "web": "",
-    "tipo": "Otros",
+    "tipo": "Herramienta de IA",
     "compania": "Desconocida",
     "id": "nanocorp-f9571a",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Buddy AI Note",
@@ -2945,7 +2949,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Sipcode",
@@ -2967,6 +2971,6 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   }
 ]
