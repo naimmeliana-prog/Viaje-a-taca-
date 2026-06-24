@@ -17,12 +17,10 @@ propósito y humanidad.
 Es un sitio **que se mantiene y se actualiza solo**, sin intervención humana.
 Cada dos días:
 
-1. Busca herramientas de IA **nuevas** en fuentes de lanzamientos (Product Hunt
-   y medios de IA) y las **añade al catálogo automáticamente**.
-2. **Completa la ficha** de cada herramienta nueva (descripción, tipo, funciones,
-   características y nota ética) usando IA (modelos Open Source vía OpenRouter).
-3. Refresca una **barra lateral de noticias** de IA en español (novedades y ética).
-4. Publica todo en la web automáticamente.
+1. **Catálogo:** Busca herramientas de IA nuevas en fuentes de lanzamientos (Product Hunt y repositorios) y las añade automáticamente.
+2. **Enriquecimiento IA:** Completa la ficha de cada herramienta nueva o pendiente (descripción, funciones, nota ética) buscando la URL oficial usando la IA de OpenRouter con modelos 100% gratuitos (`google/gemini-2.0-flash-lite`, `deepseek/deepseek-r1`, etc.).
+3. **Noticias:** Refresca una barra lateral de noticias de IA en español extraída de feeds RSS contrastados (Hipertextual, Derecho de la Red, Xataka, etc.), con sección de novedades y ética.
+4. **Despliegue:** Publica todo en la web automáticamente.
 
 No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
 
@@ -102,9 +100,8 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
   hasta resolverlas (el catálogo no crece sin control).
 
 ### 3. Robustez ante errores
-- Si IA (OpenRouter) devuelve **error 429** (cuota), reintenta 3 veces con espera creciente
-  y prueba varios modelos (`meta-llama/llama-3.3-70b-instruct:free` → `google/qwen/qwen-2.5-coder-32b-instruct:free-lite-preview-02-05:free` →
-  `qwen/qwen-2.5-coder-32b-instruct:free`).
+- Si la IA (OpenRouter) devuelve **error 429** (saturación del servidor gratuito), reintenta hasta 5 veces con pausas largas para no perder información.
+- Enruta la petición a través del endpoint dinámico `openrouter/free` para que el sistema use siempre el mejor modelo que esté operativo en ese instante (sea Llama 3, Gemini Flash, DeepSeek o Mistral).
 - Si todo falla, el sistema **no se rompe**: las fichas quedan pendientes y se
   reintentan en el siguiente ciclo.
 - Los problemas se muestran como avisos visibles (⚠️/🔴) en el log de Actions.
