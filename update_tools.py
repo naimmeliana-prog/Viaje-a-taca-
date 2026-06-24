@@ -10,7 +10,10 @@ MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
 # Los *-lite suelen tener cuota gratuita más generosa (menos errores 429).
 _modelo_env=os.environ.get("OPENROUTER_MODEL","").strip()
 MODELOS=[_modelo_env] if _modelo_env else [
- "openrouter/free"
+ "meta-llama/llama-3.3-70b-instruct:free",
+ "google/gemini-2.0-flash-lite-preview-02-05:free",
+ "qwen/qwen-2.5-coder-32b-instruct:free",
+ "mistralai/mistral-7b-instruct:free"
 ]
 REINTENTOS=3          # intentos por modelo ante un 429
 ESPERA_BASE=20        # segundos; se multiplica en cada reintento (20, 40, 60)
