@@ -118,7 +118,7 @@ def _guardar_noticias(items):
   ("https://www.genbeta.com/tag/inteligencia-artificial/rss2.xml","Genbeta"),
   ("https://wwwhatsnew.com/tag/inteligencia-artificial/feed/","WWWhat's new"),
   ("https://planetachatbot.com/feed/","Planeta Chatbot"),
-  ("https://blogthinkbig.com/feed","Think Big"),
+  ("https://blogthinkbig.com/feed","Think Big")
  ]
  # Feeds en español dedicados a ÉTICA / regulación / privacidad (verificados).
  FEEDS_ETI=[
@@ -127,6 +127,7 @@ def _guardar_noticias(items):
   ("https://wwwhatsnew.com/tag/etica/feed/","WWWhat's new"),
   ("https://blogthinkbig.com/tag/etica/feed","Think Big"),
   ("https://www.genbeta.com/tag/privacidad/rss2.xml","Genbeta"),
+  ("https://derechodelared.com/feed/","Derecho de la Red")
  ]
  def _bajar(feeds):
   out=[]
@@ -417,7 +418,7 @@ def completar_webs_con_ia(lista):
  Devuelve cuántas webs se rellenaron. No rompe si IA falla."""
  if not G or not lista:return 0
  try:
-  lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120]} for x in lista[:10]]
+  lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120]} for x in lista]
   pw=(
    "Eres un asistente que SOLO devuelve URLs oficiales de herramientas de IA. "
    "Para cada elemento de la lista, indica la URL oficial del producto (su web o "
