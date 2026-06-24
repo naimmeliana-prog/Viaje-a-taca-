@@ -2291,7 +2291,8 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Permite el registro de agentes y un número limitado de transacciones o descubrimientos de forma gratuita, con planes de pago para mayor volumen y funcionalidades avanzadas."
+    "limite_gratis": "Permite el registro de agentes y un número limitado de transacciones o descubrimientos de forma gratuita, con planes de pago para mayor volumen y funcionalidades avanzadas.",
+    "intentos_web": 1
   },
   {
     "nombre": "Rosply",
@@ -2319,7 +2320,8 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Ofrece un número limitado de automatizaciones o un tiempo de uso diario restringido en su plan gratuito, con la versión completa disponible mediante suscripción."
+    "limite_gratis": "Ofrece un número limitado de automatizaciones o un tiempo de uso diario restringido en su plan gratuito, con la versión completa disponible mediante suscripción.",
+    "intentos_web": 1
   },
   {
     "nombre": "Conduit",
@@ -2347,7 +2349,8 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Permite la optimización de tokens para un volumen limitado de solicitudes o un tamaño de modelo específico de forma gratuita, con planes de pago para uso a gran escala y funciones avanzadas."
+    "limite_gratis": "Permite la optimización de tokens para un volumen limitado de solicitudes o un tamaño de modelo específico de forma gratuita, con planes de pago para uso a gran escala y funciones avanzadas.",
+    "intentos_web": 1
   },
   {
     "nombre": "Cotypist",
@@ -2375,7 +2378,8 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Ofrece autocompletado básico y aprendizaje de estilo limitado de forma gratuita, con una suscripción para funciones avanzadas, mayor capacidad de aprendizaje y soporte completo."
+    "limite_gratis": "Ofrece autocompletado básico y aprendizaje de estilo limitado de forma gratuita, con una suscripción para funciones avanzadas, mayor capacidad de aprendizaje y soporte completo.",
+    "intentos_web": 1
   },
   {
     "nombre": "NeuralAgent 3.0",
@@ -2403,7 +2407,8 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Sin plan gratuito."
+    "limite_gratis": "Sin plan gratuito.",
+    "intentos_web": 1
   },
   {
     "nombre": "BestDefense.io",
@@ -2431,7 +2436,8 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Sin plan gratuito."
+    "limite_gratis": "Sin plan gratuito.",
+    "intentos_web": 1
   },
   {
     "nombre": "Deckwise",
@@ -2459,7 +2465,8 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Permite la creación de un número limitado de presentaciones básicas o el acceso a plantillas restringidas de forma gratuita, con funciones premium y exportación avanzada bajo suscripción."
+    "limite_gratis": "Permite la creación de un número limitado de presentaciones básicas o el acceso a plantillas restringidas de forma gratuita, con funciones premium y exportación avanzada bajo suscripción.",
+    "intentos_web": 1
   },
   {
     "nombre": "prime-rl 0.6.0",
@@ -2488,7 +2495,8 @@
     "pago": false,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Seedance 2.5",
@@ -2789,17 +2797,16 @@
     "caracteristicas": [
       "Detectada automáticamente"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
     "web": "",
-    "tipo": "Otros",
+    "tipo": "Generación de imágenes",
     "compania": "Desconocida",
     "id": "swimio-ff8e82",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false
   },
   {
     "nombre": "Ruby",
@@ -2811,16 +2818,103 @@
     "caracteristicas": [
       "Detectada automáticamente"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
     "web": "",
-    "tipo": "Otros",
+    "tipo": "Herramienta de IA",
     "compania": "Desconocida",
     "id": "ruby-9916d1",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Customer Relationship Agents by Clarify",
+    "descripcion": "The M in CRM shouldn't be you",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "customer-relationship-agents-by-clarify-b8764b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 2
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Buy by Agentcard",
+    "descripcion": "Order DoorDash from Claude",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "buy-by-agentcard-78e519",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Mindstone Rebel",
+    "descripcion": "AI workspace for agents that know your work and ask first",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "mindstone-rebel-907bd5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "NanoCorp",
+    "descripcion": "Found a company in one sentence - from website to ads",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "nanocorp-f9571a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
   }
 ]
