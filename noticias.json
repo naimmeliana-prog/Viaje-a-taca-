@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-24T17:10:33Z",
+  "actualizado": "2026-06-24T17:25:05Z",
   "novedades": [
     {
       "titulo": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
@@ -214,11 +214,46 @@
   ],
   "etica": [
     {
+      "titulo": "OWASP lanza un asistente de IA para hacer análisis de amenazas en sistemas de IA gratis",
+      "resumen": "OWASP AI Exchange acaba de publicar Threat Advisor, un asistente basado en NotebookLM que guía a cualquier equipo en el análisis de amenazas de seguridad de su sistema de IA. The post OWASP lanza un asistente de IA para ",
+      "enlace": "https://derechodelared.com/2026/06/22/owasp-asistente-de-ia-analisis-amenazas/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-22T16:46:28Z"
+    },
+    {
       "titulo": "Europa pone límites a la IA: lo que ya está prohibido y lo que llega en 2026",
       "resumen": "La Unión Europea lleva años trabajando en una ley para regular la inteligencia artificial. Se llama el AI Act, y entró en vigor en agosto de 2024 con una fecha clave grabada en el calendario [&#8230;] Europa pone límites",
       "enlace": "https://blogthinkbig.com/europa-pone-limites-a-la-ia-lo-que-ya-esta-prohibido-y-lo-que-llega-en-2026",
       "medio": "Think Big",
       "fecha": "2026-06-22T08:49:51Z"
+    },
+    {
+      "titulo": "NVIDIA publica un escáner para saber si la skill que vas a instalar en tu agente de IA es segura",
+      "resumen": "NVIDIA ha publicado SkillSpector, un escáner open source que analiza skills de agentes de IA antes de instalarlas. Las skills no son solo prompts, pueden incluir código ejecutable con tus mismos permisos. The post NVIDIA",
+      "enlace": "https://derechodelared.com/2026/06/18/nvidia-publica-un-escaner-para-saber-si-la-skill-que-vas-a-instalar-en-tu-agente-de-ia-es-segura/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-18T18:50:36Z"
+    },
+    {
+      "titulo": "EE.UU. obliga a Anthropic a desactivar sus modelos Fable 5 y Mythos por seguridad nacional",
+      "resumen": "El gobierno estadounidense ha emitido una directiva de control de exportaciones que obliga a Anthropic a desactivar el acceso a Fable 5 y Mythos 5 para todos los usuarios. The post EE.UU. obliga a Anthropic a desactivar ",
+      "enlace": "https://derechodelared.com/2026/06/13/anthropic-mythos-fable-gobierno-estados-unidos/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-13T16:18:47Z"
+    },
+    {
+      "titulo": "Un tribunal alemán declara a Google responsable de las respuestas falsas de su IA",
+      "resumen": "Las respuestas de la IA son \"palabras propias\" de Google, no contenido de terceros, por lo que este no puede acogerse a la protección de responsabilidad limitada de los buscadores convencionales. The post Un tribunal ale",
+      "enlace": "https://derechodelared.com/2026/06/11/tribunal-aleman-google-responsable-respuestas-ia/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-11T18:45:52Z"
+    },
+    {
+      "titulo": "‘Magnifica Humanitas’: la encíclica del Papa sobre IA, datos y poder digital",
+      "resumen": "Magnifica Humanitas, la primera encíclica de León XIV, habla de poder privado, algoritmos que discriminan, datos como bien común y armas autónomas. The post ‘Magnifica Humanitas’: la encíclica del Papa sobre IA, datos y ",
+      "enlace": "https://derechodelared.com/2026/06/08/magnifica-humanitas-la-enciclica-del-papa-sobre-ia-datos-y-poder-digital/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-08T17:33:11Z"
     },
     {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
@@ -317,41 +352,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/europa-lucha-sus-normas-ia-eeuu-esta-apostando-contrario-relajacion-normativa-precedentes",
       "medio": "Xataka",
       "fecha": "2025-07-24T20:31:57Z"
-    },
-    {
-      "titulo": "ASML, Airbus y Mistral se plantan ante Bruselas. Piden que retrase la aplicación de la Ley de IA y avisan de los riesgos",
-      "resumen": "Europa ya tiene su gran ley de inteligencia artificial. Lo que falta, según varias empresas, son las reglas concretas para aplicarla. A solo un mes de que entren en vigor las primeras normas para los modelos más avanzado",
-      "enlace": "https://www.xataka.com/robotica-e-ia/asml-airbus-mistral-se-plantan-bruselas-piden-que-retrase-aplicacion-ley-ia-avisan-riesgos",
-      "medio": "Xataka",
-      "fecha": "2025-07-04T06:00:25Z"
-    },
-    {
-      "titulo": "Cómo Stanford y Google están creando clones de personalidad con IA tras entrevistas de dos horas",
-      "resumen": "La inteligencia artificial sigue rompiendo barreras, y la última colaboración entre Stanford y Google lleva la tecnología a un terreno fascinante y también preocupante. En un estudio reciente titulado «Simulaciones de ag",
-      "enlace": "https://wwwhatsnew.com/2025/01/11/como-stanford-y-google-estan-creando-clones-de-personalidad-con-ia-tras-entrevistas-de-dos-horas/",
-      "medio": "WWWhat's new",
-      "fecha": "2025-01-10T23:00:43Z"
-    },
-    {
-      "titulo": "Recolección de datos sin permiso: El caso de Anthropic y las preocupaciones éticas",
-      "resumen": "Recientemente, varios actores importantes en el campo de la inteligencia artificial han sido acusados de recopilar datos sin la debida autorización para entrenar sus modelos de lenguaje. El último caso involucra a Anthro",
-      "enlace": "https://wwwhatsnew.com/2024/08/01/recoleccion-de-datos-sin-permiso-el-caso-de-anthropic-y-las-preocupaciones-eticas/",
-      "medio": "WWWhat's new",
-      "fecha": "2024-07-31T22:00:14Z"
-    },
-    {
-      "titulo": "OpenAI retrasa lanzamiento de funciones de voz y emociones en ChatGPT",
-      "resumen": "OpenAI ha decidido retrasar el lanzamiento de las esperadas funciones de voz y lectura de emociones para su chatbot ChatGPT. Aunque estas características estaban programadas para debutar este mes, la empresa ha indicado ",
-      "enlace": "https://wwwhatsnew.com/2024/06/27/openai-retrasa-lanzamiento-de-funciones-de-voz-y-emociones-en-chatgpt/",
-      "medio": "WWWhat's new",
-      "fecha": "2024-06-27T06:00:42Z"
-    },
-    {
-      "titulo": "Nuevas polémicas sobre el uso de Inteligencia artificial en el periodismo",
-      "resumen": "Al adentrarnos en la evolución constante del periodismo, nos encontramos en un punto de inflexión donde la inteligencia artificial (IA) se ha convertido en una herramienta tan omnipresente como controvertida. La noticia ",
-      "enlace": "https://wwwhatsnew.com/2023/11/08/nuevas-polemicas-sobre-el-uso-de-inteligencia-artificial-en-el-periodismo/",
-      "medio": "WWWhat's new",
-      "fecha": "2023-11-08T12:00:08Z"
     }
   ]
 }
