@@ -6,13 +6,14 @@ J=Path(__file__).parent/"herramientas.json"
 G=os.environ.get("OPENROUTER_API_KEY","")
 MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
 
-# Modelos a probar en orden. Se puede forzar uno con la variable GEMINI_MODEL.
+# Modelos a probar en orden. Se puede forzar uno con la variable OPENROUTER_MODEL.
 # Los *-lite suelen tener cuota gratuita más generosa (menos errores 429).
-_modelo_env=os.environ.get("GEMINI_MODEL","").strip()
+_modelo_env=os.environ.get("OPENROUTER_MODEL","").strip()
 MODELOS=[_modelo_env] if _modelo_env else [
- "gemini-2.0-flash-lite",
- "gemini-2.5-flash",
- "gemini-2.0-flash",
+ "meta-llama/llama-3.3-70b-instruct:free",
+ "google/gemini-2.0-flash-lite-preview-02-05:free",
+ "qwen/qwen-2.5-coder-32b-instruct:free",
+ "mistralai/mistral-7b-instruct:free"
 ]
 REINTENTOS=3          # intentos por modelo ante un 429
 ESPERA_BASE=20        # segundos; se multiplica en cada reintento (20, 40, 60)
@@ -255,7 +256,7 @@ if not G:
  warn("Falta el secret OPENROUTER_API_KEY (ITACA). Se usará solo la heurística, mucho menos fiable.")
 elif n:
  print("🤖 IA OpenRouter analizando (modelos: "+", ".join(MODELOS)+")...")
- # Muestra repartida entre fuentes (round-robin) para que Gemini no vea
+ # Muestra repartida entre fuentes (round-robin) para que IA no vea
  # solo los primeros feeds. Product Hunt primero (es donde hay herramientas).
  def _muestra(items, limite=60):
   porfuente={}
