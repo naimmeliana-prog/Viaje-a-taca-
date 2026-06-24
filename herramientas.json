@@ -2080,14 +2080,14 @@
     ],
     "etica": "La privacidad de los datos es una preocupación clave, ya que la IA podría estar procesando información en el dispositivo del usuario. La transparencia sobre qué tareas realiza la IA y cómo se utilizan los datos es fundamental para mantener la confianza del usuario.",
     "limite_gratis": "La herramienta es gratuita para los usuarios, ya que su modelo de negocio se basa en la monetización del tiempo de inactividad del usuario a través de tareas de IA.",
-    "web": "https://www.producthunt.com/products/uwait",
+    "web": "https://www.uwait.ai/",
     "id": "uwait-30c856",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Skybridge",
@@ -2109,14 +2109,14 @@
     ],
     "etica": "Al ser de código abierto, Skybridge promueve la transparencia y la colaboración en el desarrollo de software. La ética dependerá en gran medida de cómo los desarrolladores utilicen el framework para construir sus propias aplicaciones, especialmente en lo que respecta a la privacidad y el uso responsable de la IA.",
     "limite_gratis": "Al ser un framework de código abierto, es completamente gratuito y accesible para cualquier desarrollador sin limitaciones de uso.",
-    "web": "https://www.producthunt.com/products/skybridge",
+    "web": "https://github.com/skybridgelabs/skybridge",
     "id": "skybridge-bdaea1",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OnBrand by SlideSpeak",
@@ -2138,14 +2138,14 @@
     ],
     "etica": "OnBrand ayuda a controlar la 'personalidad' y el tono de la IA, lo que puede mitigar sesgos no intencionados en la comunicación y asegurar un mensaje coherente. La privacidad de los datos dependerá de cómo SlideSpeak maneje la información de diseño y las interacciones de los agentes.",
     "limite_gratis": "Ofrece un plan gratuito para la creación de un número limitado de contextos de diseño o para un solo agente de IA, con funciones avanzadas disponibles en planes de pago.",
-    "web": "https://www.producthunt.com/products/onbrand-2",
+    "web": "https://www.slidespeak.com/onbrand",
     "id": "onbrand-by-slidespeak-f2da3e",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Cloudflare Temporary Accounts",
@@ -2167,14 +2167,14 @@
     ],
     "etica": "Este servicio facilita el despliegue de agentes, lo que implica una responsabilidad en el uso ético de dichos agentes. Cloudflare, como proveedor de infraestructura, debe asegurar la seguridad y la privacidad de los datos manejados por estas cuentas temporales, así como la transparencia en su uso.",
     "limite_gratis": "Permite la creación de un número limitado de cuentas temporales o un volumen específico de despliegues para agentes de IA sin coste.",
-    "web": "https://www.producthunt.com/products/cloudflare",
+    "web": "https://www.cloudflare.com/temporary-accounts/",
     "id": "cloudflare-temporary-accounts-0322f1",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AgentX",
@@ -2198,14 +2198,14 @@
     ],
     "etica": "AgentX es fundamental para la ética de la IA, ya que ayuda a identificar y corregir sesgos o comportamientos no deseados en los agentes, promoviendo un desarrollo responsable. La privacidad de los datos dependerá de cómo AgentX procese la información de los agentes y sus interacciones durante la evaluación.",
     "limite_gratis": "Ofrece un plan gratuito para la evaluación de un número limitado de agentes o un volumen específico de pruebas, con funciones avanzadas y análisis ilimitados en planes de pago.",
-    "web": "https://www.producthunt.com/products/agentx",
+    "web": "https://www.agentx.ai/",
     "id": "agentx-4a5ff4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "jebi",
@@ -2224,7 +2224,7 @@
       "Rendimiento mejorado para flujos de trabajo de desarrollo"
     ],
     "etica": "Al procesar la IA localmente, jebi prioriza la privacidad del usuario, manteniendo los datos y comandos dentro del dispositivo sin enviarlos a la nube.",
-    "web": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+    "web": "https://www.jebi.ai/",
     "tipo": "Herramienta de desarrollo / Terminal IA",
     "compania": "Jebi Labs",
     "id": "jebi-cb5f09",
@@ -2234,7 +2234,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece funcionalidades básicas de terminal con IA local limitada; las características avanzadas y el soporte para modelos más grandes pueden requerir una suscripción.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Bluerails Discovery",
@@ -2253,7 +2253,7 @@
       "Seguridad en transacciones y gestión de fondos"
     ],
     "etica": "Bluerails Discovery se enfoca en la transparencia de las transacciones y la equidad en la distribución de ingresos para los agentes de IA, con políticas claras sobre el uso de datos financieros.",
-    "web": "https://www.producthunt.com/products/bluerails-discovery",
+    "web": "https://www.bluerails.ai/discovery",
     "tipo": "Plataforma de agentes IA / Monetización de IA",
     "compania": "Bluerails AI",
     "id": "bluerails-discovery-65006d",
@@ -2263,7 +2263,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Permite el registro de agentes y un número limitado de transacciones o descubrimientos de forma gratuita, con planes de pago para mayor volumen y funcionalidades avanzadas.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Rosply",
@@ -2282,7 +2282,7 @@
       "Interfaz de usuario para configuración y supervisión"
     ],
     "etica": "Rosply enfatiza la seguridad y el control del usuario sobre las acciones del agente, con mecanismos para supervisar y revocar permisos, y políticas de privacidad para los datos procesados localmente.",
-    "web": "https://www.producthunt.com/products/rosply",
+    "web": "https://www.rosply.ai/",
     "tipo": "Agente IA autónomo / Automatización de escritorio",
     "compania": "Rosply AI",
     "id": "rosply-167ee9",
@@ -2292,7 +2292,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece un número limitado de automatizaciones o un tiempo de uso diario restringido en su plan gratuito, con la versión completa disponible mediante suscripción.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Conduit",
