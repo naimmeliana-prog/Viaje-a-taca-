@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-24T18:29:05Z",
+  "actualizado": "2026-06-24T19:40:38Z",
   "novedades": [
     {
       "titulo": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
@@ -249,13 +249,6 @@
       "fecha": "2026-06-11T18:45:52Z"
     },
     {
-      "titulo": "‘Magnifica Humanitas’: la encíclica del Papa sobre IA, datos y poder digital",
-      "resumen": "Magnifica Humanitas, la primera encíclica de León XIV, habla de poder privado, algoritmos que discriminan, datos como bien común y armas autónomas. The post ‘Magnifica Humanitas’: la encíclica del Papa sobre IA, datos y ",
-      "enlace": "https://derechodelared.com/2026/06/08/magnifica-humanitas-la-enciclica-del-papa-sobre-ia-datos-y-poder-digital/",
-      "medio": "Derecho de la Red",
-      "fecha": "2026-06-08T17:33:11Z"
-    },
-    {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
       "resumen": "La Agencia Española de Supervisión de Inteligencia Artificial (AESIA) está cerca de cumplir su primer año de vida operativa. Este organismo ha activado varias inciativas con resultados aún difíciles de concretar, pero un",
       "enlace": "https://www.xataka.com/robotica-e-ia/que-sepamos-agencia-que-supervisa-ia-espana-no-esta-supervisando-nada-que-tiene-laboratorio-ideas",
@@ -352,6 +345,13 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/europa-lucha-sus-normas-ia-eeuu-esta-apostando-contrario-relajacion-normativa-precedentes",
       "medio": "Xataka",
       "fecha": "2025-07-24T20:31:57Z"
+    },
+    {
+      "titulo": "ASML, Airbus y Mistral se plantan ante Bruselas. Piden que retrase la aplicación de la Ley de IA y avisan de los riesgos",
+      "resumen": "Europa ya tiene su gran ley de inteligencia artificial. Lo que falta, según varias empresas, son las reglas concretas para aplicarla. A solo un mes de que entren en vigor las primeras normas para los modelos más avanzado",
+      "enlace": "https://www.xataka.com/robotica-e-ia/asml-airbus-mistral-se-plantan-bruselas-piden-que-retrase-aplicacion-ley-ia-avisan-riesgos",
+      "medio": "Xataka",
+      "fecha": "2025-07-04T06:00:25Z"
     }
   ]
 }
