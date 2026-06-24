@@ -1488,7 +1488,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7,
+    "intentos_web": 8,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "Clawd",
@@ -1970,7 +1970,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "HAQQ Legal AI on Mobile",
@@ -1999,7 +1999,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "uwait",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Fika Jobs",
@@ -2527,7 +2527,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2707,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
@@ -2800,7 +2800,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
@@ -2924,7 +2924,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
@@ -2955,7 +2955,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
@@ -2983,7 +2983,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
@@ -3045,7 +3045,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
   },
   {
@@ -3321,7 +3321,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Oracle",
@@ -3498,7 +3498,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Launch‑AI Directory",
@@ -3589,5 +3589,117 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "EdgeOne",
+    "compania": "EdgeTech Labs",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que permite crear y desplegar agentes de IA como aplicaciones web en cuestión de minutos, sin necesidad de infraestructura propia.",
+    "web": "https://edgeone.tencent.com",
+    "funciones": [
+      "Diseñador visual de flujos conversacionales",
+      "Despliegue automático en hosting propio o en la nube de EdgeOne",
+      "Integración con APIs externas y bases de datos",
+      "Plantillas predefinidas para casos de uso comunes"
+    ],
+    "caracteristicas": [
+      "Escalado automático bajo demanda",
+      "Editor de código integrado con soporte para Python y JavaScript",
+      "Panel de métricas y analítica en tiempo real",
+      "Control de versiones y pruebas A/B"
+    ],
+    "etica": "EdgeOne almacena los datos de interacción bajo cifrado AES‑256 y permite la exportación completa para cumplir con normativas de privacidad; se revisan los prompts para mitigar sesgos y contenido dañino.",
+    "id": "edgeone-f04494",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito incluye 3 agentes activos, 500 interacciones mensuales y acceso a plantillas básicas."
+  },
+  {
+    "nombre": "Clarify CRM Agents",
+    "compania": "Clarify Solutions",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "descripcion": "Agentes conversacionales especializados en la gestión de relaciones con clientes, automatizando seguimiento, soporte y actualización de datos en CRM.",
+    "web": "https://clarify.ai/crm",
+    "funciones": [
+      "Respuesta automática a consultas frecuentes",
+      "Programación de recordatorios y seguimientos",
+      "Actualización de contactos y oportunidades en el CRM",
+      "Generación de informes de interacción"
+    ],
+    "caracteristicas": [
+      "Integración nativa con Salesforce, HubSpot y Zoho",
+      "Entrenamiento con datos propios del cliente",
+      "Análisis de sentimiento en tiempo real",
+      "Cumplimiento GDPR y CCPA"
+    ],
+    "etica": "Los datos de clientes se procesan bajo estrictas políticas de confidencialidad y nunca se comparten con terceros; se aplican filtros para evitar respuestas sesgadas o discriminatorias.",
+    "id": "clarify-crm-agents-8d4d3c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito permite 2 agentes, 1 000 mensajes al mes y conexión a un único CRM."
+  },
+  {
+    "nombre": "MicroSaaS Idea Generator",
+    "compania": "InsightForge AI",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "Herramienta que analiza quejas y tendencias en Reddit para identificar oportunidades de micro‑SaaS basadas en necesidades reales del mercado.",
+    "web": "https://ideavault-alpha.vercel.app",
+    "funciones": [
+      "Extracción automática de temas recurrentes en subreddits",
+      "Evaluación de viabilidad basada en volumen de quejas y competencia",
+      "Generación de propuestas de producto con modelo de negocio sugerido",
+      "Exportación de resultados a PDF o CSV"
+    ],
+    "caracteristicas": [
+      "Actualizaciones diarias de datos de Reddit",
+      "Análisis de sentimiento y detección de nichos emergentes",
+      "Interfaz drag‑and‑drop para priorizar ideas",
+      "API pública para integración con otras herramientas"
+    ],
+    "etica": "Los datos se usan únicamente de forma agregada y anónima, respetando los términos de uso de Reddit; se avisa al usuario sobre posibles sesgos de comunidad.",
+    "id": "microsaas-idea-generator-8595c2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Acceso ilimitado a generación de ideas, pero limitado a 10 consultas diarias."
+  },
+  {
+    "nombre": "CUGA Harness",
+    "compania": "CUGA Labs",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Kit ligero que facilita la construcción, prueba y despliegue de aplicaciones basadas en agentes IA, con ejemplos prácticos y documentación completa.",
+    "web": "https://cuga.io",
+    "funciones": [
+      "Plantillas de agentes para atención al cliente, análisis de datos y automatización",
+      "Entorno de pruebas local con simulador de conversaciones",
+      "Generador de código para integración rápida en proyectos existentes",
+      "Documentación paso a paso y tutoriales interactivos"
+    ],
+    "caracteristicas": [
+      "Compatibilidad con OpenAI, Anthropic y modelos locales",
+      "Soporte para Docker y despliegue en Kubernetes",
+      "Herramientas de depuración y registro de conversaciones",
+      "Licencia MIT para uso comercial"
+    ],
+    "etica": "CUGA Harness promueve la transparencia al incluir logs de decisiones del agente y permite al desarrollador auditar los datos de entrenamiento para reducir sesgos.",
+    "id": "cuga-harness-f6d551",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito incluye 5 plantillas, 2 entornos de prueba simultáneos y 1000 llamadas a API al mes."
   }
 ]
