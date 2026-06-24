@@ -12,8 +12,8 @@ _modelo_env=os.environ.get("OPENROUTER_MODEL","").strip()
 MODELOS=[_modelo_env] if _modelo_env else [
  "openrouter/free"
 ]
-REINTENTOS=5          # intentos por modelo ante un 429
-ESPERA_BASE=5         # segundos; con openrouter/free mejor esperar un poco más y reintentar más veces
+REINTENTOS=8          # intentos por modelo ante un 429
+ESPERA_BASE=8         # segundos; los modelos gratuitos de openrouter se colapsan a ratos
 
 # Anotaciones visibles en GitHub Actions (salen resaltadas en rojo/amarillo)
 def err(m):print("::error::"+m)
