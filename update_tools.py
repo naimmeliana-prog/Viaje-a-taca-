@@ -3,7 +3,7 @@ from datetime import datetime,timezone
 from pathlib import Path
 
 J=Path(__file__).parent/"herramientas.json"
-G=os.environ.get("GEMINI_API_KEY","")
+G=os.environ.get("OPENROUTER_API_KEY","")
 MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
 
 # Modelos a probar en orden. Se puede forzar uno con la variable GEMINI_MODEL.
@@ -207,26 +207,34 @@ gemini_ok=False
 # 2) Análisis con Gemini (fuente principal de detección)
 # ─────────────────────────────────────────────────────────────
 def llamar_gemini(prompt):
- """Devuelve (texto, True) si responde 200. Recorre MODELOS y reintenta
- ante un 429 (cuota) con espera creciente. Si todos fallan, (None, False)."""
+ """(Adaptado a OpenRouter) Devuelve (texto, True) si responde 200. Recorre MODELOS y reintenta."""
  import time
  import requests as rq
  cuota=False
  for modelo in MODELOS:
-  url="https://generativelanguage.googleapis.com/v1beta/models/"+modelo+":generateContent?key="+G
+  url="https://openrouter.ai/api/v1/chat/completions"
+  headers = {
+      "Authorization": f"Bearer {G}",
+      "Content-Type": "application/json",
+      "HTTP-Referer": "https://viajeaitaca.es",
+      "X-Title": "Viaje a Itaca"
+  }
+  payload = {
+      "model": modelo,
+      "messages": [{"role": "user", "content": prompt}],
+      "temperature": 0.1
+  }
   for intento in range(1,REINTENTOS+1):
    try:
-    rp=rq.post(url,
-     json={"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"temperature":0.1}},
-     timeout=40)
+    rp=rq.post(url, headers=headers, json=payload, timeout=40)
    except Exception as ex:
     warn(f"[{modelo}] error de red (intento {intento}): {ex}")
     time.sleep(ESPERA_BASE)
     continue
    if rp.status_code==200:
-    print(f"✓ Gemini OK con modelo {modelo}")
+    print(f"✓ IA OK con modelo {modelo}")
     try:
-     return rp.json()["candidates"][0]["content"]["parts"][0]["text"],True
+     return rp.json()["choices"][0]["message"]["content"],True
     except Exception as ex:
      warn(f"[{modelo}] respuesta 200 pero ilegible: {ex}")
      return None,True
@@ -237,19 +245,10 @@ def llamar_gemini(prompt):
      warn(f"[{modelo}] cuota agotada (429). Reintento {intento}/{REINTENTOS-1} en {espera}s...")
      time.sleep(espera)
      continue
-    else:
-     warn(f"[{modelo}] 429 tras {REINTENTOS} intentos. Probando siguiente modelo...")
-     break
-   if rp.status_code in (400,403,404):
-    warn(f"[{modelo}] HTTP {rp.status_code} ({rp.text[:120]}). Probando siguiente modelo...")
+   else:
+    warn(f"[{modelo}] HTTP {rp.status_code}: {rp.text[:100]}")
     break
-   warn(f"[{modelo}] HTTP {rp.status_code}: {rp.text[:120]}")
-   break
- if cuota:
-  err("Todos los modelos de Gemini devolvieron 429 (cuota agotada). "
-      "Espera al reinicio diario del cupo o revisa tu plan: https://ai.google.dev/gemini-api/docs/rate-limits")
- else:
-  err("No se pudo obtener respuesta de Gemini con ningún modelo. Se usará la heurística.")
+ if cuota:warn("Cuota de IA agotada (HTTP 429) en todos los reintentos.")
  return None,False
 
 if not G:
