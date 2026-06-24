@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1717,14 +1717,14 @@
       "Agilidad"
     ],
     "etica": "Ética en seguridad y cumplimiento normativo.",
-    "web": "https://www.producthunt.com/products/vela-7",
+    "web": "https://velasecurity.com",
     "id": "vela-3c3d35",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Sin plan gratuito"
   },
   {
@@ -1881,7 +1881,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "CADAM",
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Clawd",
@@ -1941,7 +1941,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "AirJelly",
@@ -1970,7 +1970,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "HAQQ Legal AI on Mobile",
@@ -1999,7 +1999,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "uwait",
@@ -2386,7 +2386,7 @@
     "tipo": "Framework IA / Aprendizaje por Refuerzo",
     "precio": "Gratuito",
     "descripcion": "Un framework de código abierto para el aprendizaje por refuerzo asíncrono, optimizado para entrenar modelos Mixture-of-Experts (MoE) de billones de parámetros.",
-    "web": "",
+    "web": "https://github.com/prime-research/prime-rl",
     "funciones": [
       "Entrenamiento de modelos de aprendizaje por refuerzo",
       "Soporte para arquitecturas Mixture-of-Experts (MoE)",
@@ -2408,7 +2408,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Seedance 2.5",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Fika Jobs",
@@ -2527,7 +2527,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2596,7 +2596,7 @@
     "tipo": "Generación de vídeo / Edición de vídeo IA",
     "precio": "Freemium",
     "descripcion": "Una herramienta innovadora que permite a los usuarios dirigir y producir vídeos cinemáticos de alta calidad utilizando comandos de chat, simplificando la creación de contenido visual.",
-    "web": "",
+    "web": "https://openart.ai",
     "funciones": [
       "Generación de vídeos cinemáticos",
       "Control de la producción de vídeo mediante chat",
@@ -2619,7 +2619,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Crewdle AI",
@@ -2636,7 +2636,7 @@
       "Soporte técnico disponible"
     ],
     "etica": "Promueve la inclusión y el acceso equitativo a herramientas de IA.",
-    "web": "",
+    "web": "https://crewdle.ai",
     "tipo": "Herramienta de uso sin suscripción",
     "compania": "Crewdle AI",
     "id": "crewdle-ai-22e491",
@@ -2645,7 +2645,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funcionalidades limitadas."
   },
   {
@@ -2676,7 +2676,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Ofrece acceso básico a directorio de negocios sin costo, con funcionalidad limitada para integraciones avanzadas."
   },
   {
@@ -2707,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
@@ -2729,7 +2729,7 @@
       "Soporte multiidioma"
     ],
     "etica": "Ofrece opciones de privacidad configurable, pero los datos sensibles deben manejarse según normativas locales.",
-    "web": "",
+    "web": "https://edgeone.tencent.com",
     "tipo": "Desarrollo de agentes IA",
     "compania": "Tencent",
     "id": "tencent-edgeone-makers-310148",
@@ -2738,7 +2738,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Incluye hasta 10 despliegues de agentes con recursos limitados y funcionalidades básicas."
   },
   {
@@ -3293,5 +3293,150 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "Samsung ChatGPT Enterprise",
+    "compania": "Samsung",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "descripcion": "Versión empresarial de ChatGPT integrada en el ecosistema de Samsung para uso interno de empleados.",
+    "funciones": [
+      "Respuestas contextuales basadas en datos corporativos",
+      "Integración con herramientas de productividad de Samsung",
+      "Soporte multilingüe y reconocimiento de voz",
+      "Control de acceso y auditoría de conversaciones"
+    ],
+    "caracteristicas": [
+      "Modelo GPT‑4 optimizado para entornos empresariales",
+      "Cumplimiento con normas de seguridad ISO 27001",
+      "Panel de administración para gestión de usuarios",
+      "Capacidad de entrenamiento con datos internos"
+    ],
+    "etica": "Garantiza la privacidad de la información corporativa mediante encriptación de extremo a extremo y filtros contra sesgos en respuestas.",
+    "limite_gratis": "Plan gratuito limitado a 5 usuarios y 1 000 consultas mensuales.",
+    "web": "",
+    "id": "samsung-chatgpt-enterprise-1ebe8c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Oracle",
+    "compania": "Oracle Corporation",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Conjunto de modelos de IA generativa de Oracle diseñados para automatizar procesos financieros y reducir deudas.",
+    "funciones": [
+      "Análisis predictivo de morosidad",
+      "Recomendaciones de reestructuración de deuda",
+      "Generación automática de reportes financieros",
+      "Integración con Oracle Cloud ERP"
+    ],
+    "caracteristicas": [
+      "Modelos entrenados con datos de clientes empresariales",
+      "Cumplimiento con regulaciones financieras (GDPR, PCI DSS)",
+      "API REST para integración sencilla",
+      "Escalado automático en la nube de Oracle"
+    ],
+    "etica": "Incluye mecanismos de anonimización de datos y auditorías de sesgo para evitar decisiones discriminatorias en la gestión de deudas.",
+    "limite_gratis": "Acceso gratuito a un entorno de prueba con 10 000 registros y 500 consultas mensuales.",
+    "web": "https://www.oracle.com/artificial-intelligence/",
+    "id": "oracle-30162e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Anthropic",
+    "compania": "Anthropic",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Claude reimaginado como agente colaborativo dentro de Slack, capaz de ejecutar tareas y responder consultas en tiempo real.",
+    "funciones": [
+      "Asistente de redacción y resumen de mensajes",
+      "Ejecución de flujos de trabajo automatizados",
+      "Búsqueda contextual en canales y archivos",
+      "Generación de ideas y brainstorming"
+    ],
+    "caracteristicas": [
+      "Modelo Claude 3 con enfoque en seguridad y alineación",
+      "Integración nativa con Slack API",
+      "Control de permisos por canal y usuario",
+      "Historial de conversaciones con opción de exportar"
+    ],
+    "etica": "Prioriza la seguridad del usuario mediante filtros de contenido y evita la generación de información confidencial sin autorización.",
+    "limite_gratis": "Plan gratuito con 2 000 mensajes procesados al mes y acceso a un único workspace.",
+    "web": "https://www.anthropic.com",
+    "id": "anthropic-f431db",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Cloudflare",
+    "compania": "Cloudflare, Inc.",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "descripcion": "Infraestructura de centros de datos en órbita terrestre para ofrecer baja latencia en aplicaciones de IA, incluido el procesamiento de vídeo.",
+    "funciones": [
+      "Aceleración de inferencias de IA en tiempo real",
+      "Transcodificación de vídeo con IA en el borde",
+      "Distribución de contenido generativo a escala global",
+      "Seguridad DDoS para flujos de IA"
+    ],
+    "caracteristicas": [
+      "Nodos satelitales con conectividad láser",
+      "API de inferencia de modelo en el edge",
+      "Escalado automático según demanda",
+      "Cumplimiento con normas de privacidad internacionales"
+    ],
+    "etica": "Compromiso con la soberanía de datos, manteniendo la información del usuario dentro de la región de origen y minimizando el sesgo mediante modelos abiertos.",
+    "limite_gratis": "Plan gratuito con 10 GB de transferencia de datos de IA al mes y 100 000 inferencias mensuales.",
+    "web": "https://www.cloudflare.com",
+    "id": "cloudflare-3f0717",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Figma",
+    "compania": "Figma Inc.",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Actualizaciones de la suite de diseño que incorporan IA para generación automática de componentes y asistencia creativa.",
+    "funciones": [
+      "Generación de UI a partir de descripciones de texto",
+      "Sugerencias de colores y tipografías basadas en tendencias",
+      "Auto‑layout inteligente con detección de patrones",
+      "Revisión de accesibilidad con IA"
+    ],
+    "caracteristicas": [
+      "Modelo de IA entrenado con millones de diseños públicos",
+      "Integración directa en el editor de Figma",
+      "Control de versiones y historial de cambios asistido por IA",
+      "Compatibilidad con plugins de terceros"
+    ],
+    "etica": "Respeta la propiedad intelectual al entrenar con datos con licencia abierta y ofrece opciones para desactivar el uso de datos del usuario en el entrenamiento.",
+    "limite_gratis": "Plan gratuito con 30 minutos de generación de IA por proyecto y 3 archivos activos simultáneos.",
+    "web": "https://www.figma.com",
+    "id": "figma-a86fc3",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]
