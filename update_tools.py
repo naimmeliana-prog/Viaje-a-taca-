@@ -661,10 +661,16 @@ if con_web:
 # ─────────────────────────────────────────────────────────────
 # Incluye las que no tienen web Y las que apuntan a un agregador (Product Hunt, etc.)
 sin_web=[h for h in t if not es_web_oficial(h.get("web",""))]
+# Ordenar por intentos_web para no quedarnos atascados en las que Gemini no sabe
+sin_web.sort(key=lambda h: h.get("intentos_web", 0))
+
 webs_rellenadas=0
 if G and sin_web:
- print(f"Backfill 'web': {len(sin_web)} sin web oficial; intentando {min(len(sin_web),8)} este ciclo...")
- webs_rellenadas=completar_webs_con_gemini(sin_web[:8])
+ batch_web = sin_web[:8]
+ print(f"Backfill 'web': {len(sin_web)} sin web oficial; intentando {len(batch_web)} este ciclo...")
+ for h in batch_web:
+  h["intentos_web"] = h.get("intentos_web", 0) + 1
+ webs_rellenadas=completar_webs_con_gemini(batch_web)
  print(f"  Webs encontradas automáticamente: {webs_rellenadas}")
 elif sin_web:
  print(f"Backfill 'web' pendiente ({len(sin_web)} sin URL), pero no hay clave Gemini.")
