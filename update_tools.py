@@ -420,14 +420,12 @@ def completar_webs_con_ia(lista):
  try:
   lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120]} for x in lista]
   pw=(
-   "Eres un asistente especializado en encontrar enlaces a herramientas de IA. "
-   "Para cada elemento de la lista, indica la MEJOR URL directa disponible (idealmente su web oficial "
-   "o su repositorio de GitHub si es open-source). "
+   "Eres un investigador experto y tienes que encontrar la página web OFICIAL de estas herramientas de IA. "
+   "Para cada elemento, debes encontrar O DEDUCIR su URL oficial (suelo ser nombre-herramienta.com, .ai, o .io). "
    "Devuelve SOLO un array JSON, un objeto por elemento EN EL MISMO ORDEN, con los campos: nombre, web. "
-   "REGLAS IMPORTANTES: la 'web' debe empezar por https:// y llevar al usuario a un lugar útil. "
-   "Si no existe web oficial, puedes usar su enlace a la App Store, Google Play, página de Hugging Face, "
-   "o un directorio confiable donde esté alojada o explicada la herramienta. "
-   "Si no existe absolutamente NINGÚN enlace útil, devuelve cadena vacía \"\". No inventes URLs falsas.\n"
+   "REGLAS: la 'web' debe empezar por https://. Haz tu mejor esfuerzo por deducir la web oficial basada en el nombre. "
+   "Por ejemplo si se llama 'Super AI', su web probablemente sea https://super.ai o https://superai.com. "
+   "SOLO devuelve cadena vacía \"\" si es absolutamente imposible deducir el dominio.\n"
    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
   )
   txw,okw=llamar_ia(pw)
