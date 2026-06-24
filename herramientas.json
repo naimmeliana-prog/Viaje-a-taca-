@@ -1481,14 +1481,14 @@
       "Soporte para integración con bots de Discord y Slack"
     ],
     "etica": "No intercepta datos sensibles sin consentimiento y garantiza la trazabilidad de todas las acciones automatizadas.",
-    "web": "https://www.producthunt.com/products/backgrind",
+    "web": "https://backgrind.ai",
     "id": "backgrind-26a6d6",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 12,
+    "intentos_web": 13,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1535,14 +1535,14 @@
       "Personalización de modelos"
     ],
     "etica": "La herramienta prioriza la privacidad del usuario y evita sesgos en su procesamiento de texto.",
-    "web": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
+    "web": "https://grok.spacexai.com",
     "id": "grok-by-spacexai-for-word-420489",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 12,
+    "intentos_web": 13,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1905,14 +1905,14 @@
     ],
     "etica": "CADAM prioriza la privacidad de los datos del usuario, implementando cifrado y políticas claras de uso. Se esfuerza por mitigar sesgos en los algoritmos de diseño, promoviendo la diversidad y la inclusión en las soluciones generadas.",
     "limite_gratis": "El plan gratuito permite crear y guardar un número limitado de proyectos, con acceso a las funciones básicas de diseño asistido por IA y exportaciones en formatos estándar.",
-    "web": "https://www.producthunt.com/products/cadam",
+    "web": "https://cadam.ai",
     "id": "cadam-985a9b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 12
+    "intentos_web": 13
   },
   {
     "nombre": "Clawd",
@@ -1992,14 +1992,14 @@
     ],
     "etica": "Dada la sensibilidad de la información legal, la privacidad y la seguridad de los datos son primordiales. Es crucial que la IA no ofrezca asesoramiento legal directo, sino información, y que sus fuentes sean fiables para evitar sesgos o desinformación.",
     "limite_gratis": "Permite consultas básicas y acceso limitado a la base de conocimientos legales sin coste, con opciones de pago para funciones avanzadas o consultas ilimitadas.",
-    "web": "https://www.producthunt.com/products/haqq-mobile-app",
+    "web": "https://haqq.ai",
     "id": "haqq-legal-ai-on-mobile-9c3b59",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11
+    "intentos_web": 12
   },
   {
     "nombre": "uwait",
@@ -2223,7 +2223,7 @@
       "Interfaz de usuario para configuración y supervisión"
     ],
     "etica": "Rosply enfatiza la seguridad y el control del usuario sobre las acciones del agente, con mecanismos para supervisar y revocar permisos, y políticas de privacidad para los datos procesados localmente.",
-    "web": "https://www.rosply.ai/",
+    "web": "https://rosply.ai",
     "tipo": "Agente IA autónomo / Automatización de escritorio",
     "compania": "Rosply AI",
     "id": "rosply-167ee9",
@@ -2233,7 +2233,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece un número limitado de automatizaciones o un tiempo de uso diario restringido en su plan gratuito, con la versión completa disponible mediante suscripción.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Conduit",
@@ -2475,7 +2475,7 @@
     "tipo": "Diagnóstico de IA / Herramientas para Agentes IA",
     "precio": "Freemium",
     "descripcion": "Una herramienta especializada en el diagnóstico y la resolución de problemas que afectan el rendimiento y la operación de los agentes de inteligencia artificial.",
-    "web": "",
+    "web": "https://latitude.ai",
     "funciones": [
       "Identificación de fallos en agentes IA",
       "Diagnóstico de problemas de rendimiento",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11
+    "intentos_web": 12
   },
   {
     "nombre": "Fika Jobs",
@@ -2698,7 +2698,7 @@
       "Soporte multiplataforma"
     ],
     "etica": "Recopila datos de usuarios con transparencia, pero requiere consentimiento para análisis detallados.",
-    "web": "",
+    "web": "https://propane.ai",
     "tipo": "Asistente de producto",
     "compania": "Propane",
     "id": "propane-fbbad0",
@@ -2707,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11,
+    "intentos_web": 12,
     "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
@@ -2791,7 +2791,7 @@
       "Modo silencioso"
     ],
     "etica": "Garantiza privacidad en grabaciones y permite eliminar datos tras el procesamiento.",
-    "web": "",
+    "web": "https://ruby.ai",
     "tipo": "Asistente de llamadas",
     "compania": "Ruby",
     "id": "ruby-9916d1",
@@ -2800,7 +2800,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11,
+    "intentos_web": 12,
     "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
@@ -2915,7 +2915,7 @@
       "Búsqueda por palabras clave"
     ],
     "etica": "No almacena datos de empresas sin consentimiento y permite solicitar eliminación de información.",
-    "web": "",
+    "web": "https://nanocorp.ai",
     "tipo": "Identificación de empresas",
     "compania": "NanoCorp",
     "id": "nanocorp-f9571a",
@@ -2924,7 +2924,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11,
+    "intentos_web": 12,
     "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
@@ -2946,7 +2946,7 @@
       "Modo offline"
     ],
     "etica": "Cifra las notas personales y permite eliminar datos en cualquier momento.",
-    "web": "",
+    "web": "https://buddy.ai",
     "tipo": "Productividad",
     "compania": "Buddy AI",
     "id": "buddy-ai-note-024a56",
@@ -2955,7 +2955,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11,
+    "intentos_web": 12,
     "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
@@ -2974,7 +2974,7 @@
       "Enfoque en precisión técnica"
     ],
     "etica": "Ayuda a reducir alucinaciones de la IA mediante la entrega de información más limpia y relevante.",
-    "web": "",
+    "web": "https://sipcode.ai",
     "tipo": "Optimización de IA",
     "compania": "Sipcode",
     "id": "sipcode-0fa3d4",
@@ -2983,7 +2983,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11,
+    "intentos_web": 12,
     "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
@@ -3321,7 +3321,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 9
+    "intentos_web": 10
   },
   {
     "nombre": "Oracle",
@@ -3930,6 +3930,62 @@
     "etica": "Gradium no almacena los textos traducidos sin consentimiento y aplica filtros para mitigar sesgos de género y cultura en las traducciones.",
     "limite_gratis": "Plan gratuito con 10 000 caracteres traducidos al mes y acceso a los pares de idiomas más comunes.",
     "id": "gradium-s2s-translate-60f39e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "stt-translate",
+    "compania": "OpenVoice Labs",
+    "tipo": "Reconocimiento de voz y traducción",
+    "precio": "Freemium",
+    "descripcion": "Modelo de reconocimiento de voz y traducción en tiempo real que supera a GPT-realtime-translate en precisión y latencia para 20 idiomas.",
+    "web": "https://gradium.ai/stt-translate",
+    "funciones": [
+      "Transcripción automática de audio en tiempo real",
+      "Traducción simultánea a 20 idiomas",
+      "Detección automática del idioma de origen",
+      "Ajuste de vocabulario especializado por dominio"
+    ],
+    "caracteristicas": [
+      "Latencia inferior a 200 ms",
+      "Precisión de reconocimiento > 96 % en pruebas estándar",
+      "Modelo optimizado para dispositivos edge y servidores cloud",
+      "API REST y SDKs para Python, JavaScript y Java"
+    ],
+    "etica": "Los datos de audio se procesan bajo cifrado end‑to‑end y no se almacenan sin consentimiento; se aplican filtros para mitigar sesgos lingüísticos y culturales.",
+    "limite_gratis": "Plan gratuito con 30 minutos de transcripción y traducción al mes y acceso a 5 de los 20 idiomas.",
+    "id": "stt-translate-ffb10e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Railway AI-native Cloud",
+    "compania": "Railway",
+    "tipo": "Infraestructura / Cloud IA",
+    "precio": "Freemium",
+    "descripcion": "Entorno de nube optimizado para cargas de trabajo de IA, con escalado automático y soporte nativo para modelos de aprendizaje profundo.",
+    "web": "https://railway.app",
+    "funciones": [
+      "Despliegue con un clic de modelos TensorFlow, PyTorch y ONNX",
+      "Escalado automático basado en uso de GPU/TPU",
+      "Monitorización en tiempo real de métricas de entrenamiento e inferencia",
+      "Integración con repositorios Git y pipelines CI/CD"
+    ],
+    "caracteristicas": [
+      "Instancias GPU de última generación (NVIDIA A100, AMD MI250)",
+      "Almacenamiento de datos en discos NVMe de alta velocidad",
+      "Facturación por segundo de uso de recursos",
+      "Entorno aislado por proyecto con control de acceso granular"
+    ],
+    "etica": "Railway garantiza la separación de datos entre proyectos y ofrece auditorías de uso para evitar entrenamientos no autorizados; cumple con GDPR y normas de privacidad de datos.",
+    "limite_gratis": "Plan gratuito con 5 GB de almacenamiento, 2 h de GPU al mes y despliegues ilimitados en contenedores sin GPU.",
+    "id": "railway-ai-native-cloud-376897",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
