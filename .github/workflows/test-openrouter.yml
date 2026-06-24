@@ -1,10 +1,10 @@
-name: Probar clave Openrouter (ITACA)
+name: Probar clave OpenRouter (ITACA)
 # Diagnóstico manual de la clave. No toca el catálogo ni hace commits.
 on:
   workflow_dispatch:
     inputs:
       generar:
-        description: "Hacer también 1 micro-llamada de generación (gasta cuota mínima)"
+        description: "Hacer también 1 micro-llamada de generación"
         required: false
         default: "no"
         type: choice
@@ -21,7 +21,7 @@ jobs:
           python-version: "3.12"
       - name: Diagnóstico de la clave
         env:
-          GEMINI_API_KEY: ${{ secrets.ITACA }}
+          OPENROUTER_API_KEY: ${{ secrets.ITACA }}
         run: |
           if [ "${{ inputs.generar }}" = "si" ]; then
             python3 test_openrouter.py --generar
