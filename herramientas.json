@@ -2215,179 +2215,227 @@
   },
   {
     "nombre": "jebi",
-    "descripcion": "A supercharged terminal for Mac with built-in local AI",
+    "descripcion": "Un terminal avanzado para Mac que integra capacidades de IA local para mejorar la productividad y la experiencia del usuario en la línea de comandos.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Comandos de terminal mejorados por IA",
+      "Autocompletado inteligente de comandos",
+      "Análisis de comandos y sugerencias contextuales",
+      "Integración con modelos de lenguaje locales"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Ejecución de IA local para privacidad",
+      "Interfaz de usuario optimizada para Mac",
+      "Personalización avanzada del terminal",
+      "Rendimiento mejorado para flujos de trabajo de desarrollo"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Al procesar la IA localmente, jebi prioriza la privacidad del usuario, manteniendo los datos y comandos dentro del dispositivo sin enviarlos a la nube.",
     "web": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Herramienta de desarrollo / Terminal IA",
+    "compania": "Jebi Labs",
     "id": "jebi-cb5f09",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece funcionalidades básicas de terminal con IA local limitada; las características avanzadas y el soporte para modelos más grandes pueden requerir una suscripción."
   },
   {
     "nombre": "Bluerails Discovery",
-    "descripcion": "The rails AI agents use to find and pay you",
+    "descripcion": "Una plataforma que permite a los agentes de IA descubrir oportunidades de trabajo y facilita los pagos a sus creadores o usuarios de forma automatizada.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Descubrimiento de tareas y proyectos para agentes IA",
+      "Gestión de pagos automatizados y seguros",
+      "Conexión entre agentes y fuentes de ingresos",
+      "Monitorización del rendimiento y ganancias de los agentes"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Infraestructura robusta para agentes autónomos",
+      "Sistema de monetización integrado y transparente",
+      "Interfaz amigable para desarrolladores de agentes",
+      "Seguridad en transacciones y gestión de fondos"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Bluerails Discovery se enfoca en la transparencia de las transacciones y la equidad en la distribución de ingresos para los agentes de IA, con políticas claras sobre el uso de datos financieros.",
     "web": "https://www.producthunt.com/products/bluerails-discovery",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Plataforma de agentes IA / Monetización de IA",
+    "compania": "Bluerails AI",
     "id": "bluerails-discovery-65006d",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Permite el registro de agentes y un número limitado de transacciones o descubrimientos de forma gratuita, con planes de pago para mayor volumen y funcionalidades avanzadas."
   },
   {
     "nombre": "Rosply",
-    "descripcion": "AI agent that controls your computer autonomously",
+    "descripcion": "Un agente de IA diseñado para controlar tu ordenador de forma autónoma, ejecutando tareas y flujos de trabajo complejos sin intervención manual.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Automatización de tareas repetitivas en el escritorio",
+      "Interacción inteligente con aplicaciones de software",
+      "Ejecución de flujos de trabajo complejos y personalizados",
+      "Aprendizaje de patrones de uso del usuario para optimización"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Control autónomo del sistema operativo",
+      "Integración profunda con el entorno de escritorio",
+      "Capacidad de aprendizaje y adaptación continua",
+      "Interfaz de usuario para configuración y supervisión"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Rosply enfatiza la seguridad y el control del usuario sobre las acciones del agente, con mecanismos para supervisar y revocar permisos, y políticas de privacidad para los datos procesados localmente.",
     "web": "https://www.producthunt.com/products/rosply",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Agente IA autónomo / Automatización de escritorio",
+    "compania": "Rosply AI",
     "id": "rosply-167ee9",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece un número limitado de automatizaciones o un tiempo de uso diario restringido en su plan gratuito, con la versión completa disponible mediante suscripción."
   },
   {
     "nombre": "Conduit",
-    "descripcion": "The local MCP gateway that cuts tokens ~90%",
+    "descripcion": "Una pasarela local que optimiza el procesamiento de tokens para modelos de IA, reduciendo significativamente el consumo de tokens en aproximadamente un 90%.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Reducción drástica de tokens para modelos de lenguaje",
+      "Procesamiento local de datos para mayor privacidad",
+      "Optimización de costes de inferencia de IA",
+      "Mejora de la eficiencia de las llamadas a la API de modelos"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Ejecución local para máxima privacidad",
+      "Algoritmos avanzados de compresión de tokens",
+      "Compatibilidad con diversos modelos de IA",
+      "Fácil integración como pasarela (gateway)"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Conduit se centra en la privacidad al realizar el procesamiento localmente, asegurando que los datos sensibles no salgan del entorno del usuario, y promueve un uso más eficiente y sostenible de los recursos de IA.",
     "web": "https://www.producthunt.com/products/conduit-12",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Optimización de modelos IA / Procesamiento de lenguaje natural",
+    "compania": "Conduit AI",
     "id": "conduit-2b527a",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Permite la optimización de tokens para un volumen limitado de solicitudes o un tamaño de modelo específico de forma gratuita, con planes de pago para uso a gran escala y funciones avanzadas."
   },
   {
     "nombre": "Cotypist",
-    "descripcion": "Local AI Autocomplete in your voice, anywhere on your Mac",
+    "descripcion": "Un asistente de autocompletado de IA local para Mac que aprende tu estilo de escritura y ofrece sugerencias personalizadas en cualquier aplicación del sistema.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Autocompletado predictivo en tiempo real",
+      "Adaptación al estilo de escritura único del usuario",
+      "Funciona de forma ubicua en cualquier aplicación de Mac",
+      "Generación de texto basada en el contexto actual"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Procesamiento de IA local para privacidad",
+      "Integración profunda a nivel de sistema operativo",
+      "Aprendizaje continuo del usuario para mejorar la precisión",
+      "Soporte para múltiples idiomas y dialectos"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Cotypist prioriza la privacidad del usuario al mantener el procesamiento de la IA y los datos de escritura localmente en el Mac, asegurando que la información personal no se comparta externamente.",
     "web": "https://www.producthunt.com/products/cotypist",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Asistente de escritura IA / Productividad",
+    "compania": "Cotypist Software",
     "id": "cotypist-6e3221",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece autocompletado básico y aprendizaje de estilo limitado de forma gratuita, con una suscripción para funciones avanzadas, mayor capacidad de aprendizaje y soporte completo."
   },
   {
     "nombre": "NeuralAgent 3.0",
-    "descripcion": "AI that executes UI actions on your computer in ~285ms",
-    "precio": "Freemium",
+    "descripcion": "Un agente de IA de alto rendimiento capaz de ejecutar acciones en la interfaz de usuario de tu ordenador con una velocidad excepcional, en aproximadamente 285 milisegundos.",
+    "precio": "Pago",
     "funciones": [
-      "Pendiente de revisión"
+      "Automatización ultrarrápida de clics y entradas de teclado",
+      "Interacción precisa con elementos de la interfaz gráfica",
+      "Ejecución de tareas repetitivas con alta eficiencia",
+      "Reconocimiento de patrones visuales en la UI para navegación"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Velocidad de ejecución de acciones ultrarrápida",
+      "Precisión milimétrica en la interacción con la UI",
+      "Capacidad de aprendizaje y adaptación a cambios en la interfaz",
+      "Integración a nivel de sistema operativo para control total"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "NeuralAgent 3.0 se compromete con la seguridad del usuario, permitiendo un control granular sobre las acciones del agente y ofreciendo mecanismos de supervisión para prevenir usos no deseados, con un enfoque en la privacidad de los datos de interacción.",
     "web": "https://www.producthunt.com/products/neuralagent",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Agente IA autónomo / Automatización de interfaz de usuario",
+    "compania": "NeuralAgent Inc.",
     "id": "neuralagent-3-0-a46da7",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito."
   },
   {
     "nombre": "BestDefense.io",
-    "descripcion": "Pentest and patch every deploy with AI",
-    "precio": "Freemium",
+    "descripcion": "Una plataforma de ciberseguridad que utiliza IA para realizar pruebas de penetración y aplicar parches automáticamente en cada despliegue de software, integrándose en el ciclo de desarrollo.",
+    "precio": "Pago",
     "funciones": [
-      "Pendiente de revisión"
+      "Pruebas de penetración automatizadas con IA",
+      "Identificación proactiva de vulnerabilidades",
+      "Generación y aplicación automática de parches",
+      "Integración en pipelines de CI/CD para seguridad continua"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Análisis de seguridad continuo y en tiempo real",
+      "Detección proactiva de amenazas y exploits",
+      "Automatización completa de la remediación de vulnerabilidades",
+      "Informes de seguridad detallados y accionables"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "BestDefense.io se adhiere a estrictos estándares de seguridad y privacidad de datos, asegurando que la información de los sistemas analizados se maneje con la máxima confidencialidad y solo se utilice para mejorar la postura de seguridad.",
     "web": "https://www.producthunt.com/products/bestdefense-io",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Ciberseguridad IA / DevSecOps",
+    "compania": "BestDefense Security",
     "id": "bestdefense-io-83fa0d",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito."
   },
   {
     "nombre": "Deckwise",
-    "descripcion": "AI presentation agent for editable decks",
+    "descripcion": "Un agente de IA que genera presentaciones editables, ayudando a los usuarios a crear diapositivas profesionales de forma rápida y eficiente a partir de texto o ideas.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Generación automática de diapositivas y contenido",
+      "Creación de diseños visualmente atractivos",
+      "Edición completa de presentaciones generadas",
+      "Sugerencias inteligentes de diseño y estructura"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Salida de presentaciones en formatos editables (PPT, Google Slides)",
+      "Interfaz intuitiva y fácil de usar",
+      "Integración con herramientas de presentación populares",
+      "Personalización de plantillas y estilos visuales"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Deckwise se compromete a proteger la privacidad del contenido de las presentaciones, procesando la información de forma segura y garantizando que los datos del usuario no se utilicen para entrenar modelos sin consentimiento explícito.",
     "web": "https://www.producthunt.com/products/deckwise",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Generación de presentaciones IA / Productividad",
+    "compania": "Deckwise AI",
     "id": "deckwise-aef3d7",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2
+    "pendiente_revision": false,
+    "limite_gratis": "Permite la creación de un número limitado de presentaciones básicas o el acceso a plantillas restringidas de forma gratuita, con funciones premium y exportación avanzada bajo suscripción."
   },
   {
     "nombre": "prime-rl 0.6.0",

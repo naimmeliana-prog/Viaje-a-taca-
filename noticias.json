@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-06-23T16:27:01Z",
+  "actualizado": "2026-06-24T10:35:54Z",
   "novedades": [
+    {
+      "titulo": "El supercomputador más potente del mundo está en China. La otra parte de la historia es aún más interesante",
+      "resumen": "La lista TOP500 bianual con los supercomputadores más potentes del planeta ha dado una sorpresa llamativa en su edición de junio de 2026. El sistema chino LineShine, instalado en el Centro Nacional de Supercomputación de",
+      "enlace": "https://www.xataka.com/ordenadores/supercomputador-potente-mundo-esta-china-otra-parte-historia-interesante",
+      "medio": "Xataka",
+      "fecha": "2026-06-24T08:31:01Z"
+    },
+    {
+      "titulo": "La araña que inspiró la cámara 3D más eficiente del mundo",
+      "resumen": "La araña saltadora puede saltar distancias que multiplican por decenas su propio tamaño y tiene un cerebro del tamaño de una semilla de amapola. No parece el punto de partida más obvio para un avance [&#8230;] La araña q",
+      "enlace": "https://blogthinkbig.com/la-arana-que-inspiro-la-camara-3d-mas-eficiente-del-mundo",
+      "medio": "Think Big",
+      "fecha": "2026-06-24T08:16:13Z"
+    },
+    {
+      "titulo": "Airbus está probando IA en una de las maniobras más delicadas de un vuelo: el aterrizaje",
+      "resumen": "Aterrizar un avión comercial parece, visto desde la ventanilla, una secuencia casi rutinaria, pero en realidad, es una de las fases más exigentes del vuelo, una maniobra en la que pilotos, sistemas de navegación, condici",
+      "enlace": "https://www.xataka.com/movilidad/airbus-esta-probando-ia-maniobras-delicadas-vuelo-aterrizaje",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T19:31:01Z"
+    },
+    {
+      "titulo": "La solución de Nvidia para reducir a cero el consumo de agua en centros de datos apunta a ser una genialidad: usar agua caliente",
+      "resumen": "Nvidia ha anunciado un sistema de refrigeración líquida muy especial. Sobre todo, porque el concepto de \"refrigeración\" se confunde un poco aquí. La empresa se las ha ingeniado para reinventar este tipo de sistemas, y se",
+      "enlace": "https://www.xataka.com/robotica-e-ia/solucion-nvidia-para-reducir-a-cero-consumo-agua-centros-datos-apunta-a-ser-genialidad-usar-agua-caliente",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T17:01:01Z"
+    },
     {
       "titulo": "Nos hemos empeñado en que los robots humanoides parezcan personas: esta startup acaba de demostrar que hay otro camino",
       "resumen": "Aún no está claro si los robots humanoides serán la próxima gran revolución&nbsp;de la tecnología de consumo, pero desde luego cada vez hay más empresas compitiendo para colar uno de estos robots en nuestras casas. Todos",
@@ -65,25 +93,11 @@
       "fecha": "2026-06-22T16:01:00Z"
     },
     {
-      "titulo": "El problema no es que haya IA en TikTok. Es que ya es más de la mitad de lo que ves nada más entrar",
-      "resumen": "Desde que tenemos modelos de generación de imágenes y vídeos con IA tan punteros, nos hemos empezado a acostumbrar a ver todo tipo de contenido generado por inteligencia artificial en redes sociales. Ya no es solo que no",
-      "enlace": "https://www.xataka.com/aplicaciones/problema-no-que-haya-ia-tiktok-que-mitad-que-ves-nada-entrar",
-      "medio": "Xataka",
-      "fecha": "2026-06-22T15:47:01Z"
-    },
-    {
       "titulo": "Siri AI cambia tu iPhone para siempre: todo lo que puedes hacer (y antes no) con la nueva IA de Apple",
       "resumen": "Las primeras incursiones de Apple en el campo de la inteligencia artificial con su asistente inteligente no salieron del todo bien. En 2024, Apple anunciaba Apple Intelligence, su asistente de IA para competir cara a [&#",
       "enlace": "https://blogthinkbig.com/novedades-siri-ai-apple-intelligence",
       "medio": "Think Big",
       "fecha": "2026-06-22T15:13:54Z"
-    },
-    {
-      "titulo": "Mientras medio mundo se pregunta cómo integrar la IA en las escuelas, Noruega ha encontrado la respuesta: no haciéndolo",
-      "resumen": "La inteligencia artificial ha llegado como un meteorito, impactando en prácticamente todos los sensores y no sólo destruyendo el segmento de tecnología de consumo, sino provocando que los gobiernos trabajen a contrarrelo",
-      "enlace": "https://www.xataka.com/robotica-e-ia/medio-mundo-se-pregunta-como-integrar-ia-escuelas-noruega-ha-encontrado-respuesta-no-haciendolo",
-      "medio": "Xataka",
-      "fecha": "2026-06-22T09:01:01Z"
     },
     {
       "titulo": "Europa pone límites a la IA: lo que ya está prohibido y lo que llega en 2026",
@@ -98,13 +112,6 @@
       "enlace": "https://blogthinkbig.com/midjourney-da-el-salto-a-la-medicina-con-un-escaner-de-cuerpo-completo",
       "medio": "Think Big",
       "fecha": "2026-06-22T07:33:11Z"
-    },
-    {
-      "titulo": "Saber usar la IA no es simple ventaja: es la diferencia entre estar en el mercado laboral que crece o en el que se estanca",
-      "resumen": "Llevamos años escuchando eso de que la IA va a reconfigurar el mercado laboral y cada vez tenemos más datos de cómo está siendo ese cambio. PwC acaba de hacer público su nuevo barómetro global de la IA en el mercado labo",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-esta-generando-mercado-laboral-a-dos-velocidades-que-ganan-que-se-quedan-atras",
-      "medio": "Xataka",
-      "fecha": "2026-06-21T17:00:00Z"
     },
     {
       "titulo": "Golpe a ChatGPT: con los nuevos precios de Gemini Pro, no vas a querer usar otra IA",
@@ -147,13 +154,6 @@
       "enlace": "https://blogthinkbig.com/reino-unido-prohibe-las-redes-sociales-a-menores-de-16-anos-y-detras-hay-una-conversacion-pendiente",
       "medio": "Think Big",
       "fecha": "2026-06-17T10:06:12Z"
-    },
-    {
-      "titulo": "Cómo ver si la Policía o Hacienda ha investigado tus datos usando Mi Carpeta Ciudadana",
-      "resumen": "Uno de los beneficios de la digitalización, ese concepto tan amplio que afecta a particulares, empresas y administraciones públicas, es que los datos son más fáciles de consultar, procesar y utilizar para el bien de [&#8",
-      "enlace": "https://blogthinkbig.com/consultar-datos-investigados-administraciones-mi-carpeta-ciudadana",
-      "medio": "Think Big",
-      "fecha": "2026-06-17T07:01:00Z"
     },
     {
       "titulo": "Google extiende a todos los Android la IA contextual del Pixel 10: ahora tu teléfono aprende tus hábitos sin enviar datos a nadie",
