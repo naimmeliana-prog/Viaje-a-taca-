@@ -1488,7 +1488,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11,
+    "intentos_web": 12,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11,
+    "intentos_web": 12,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11
+    "intentos_web": 12
   },
   {
     "nombre": "Clawd",
@@ -1999,7 +1999,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10
+    "intentos_web": 11
   },
   {
     "nombre": "uwait",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10
+    "intentos_web": 11
   },
   {
     "nombre": "Fika Jobs",
@@ -2707,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10,
+    "intentos_web": 11,
     "limite_gratis": "Permite hasta 100 interacciones de contexto al mes con funcionalidades básicas."
   },
   {
@@ -2800,7 +2800,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10,
+    "intentos_web": 11,
     "limite_gratis": "Ofrece 50 minutos de llamadas mensuales con funcionalidades básicas de análisis."
   },
   {
@@ -2924,7 +2924,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10,
+    "intentos_web": 11,
     "limite_gratis": "Permite 10 búsquedas diarias con datos básicos de empresas."
   },
   {
@@ -2955,7 +2955,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10,
+    "intentos_web": 11,
     "limite_gratis": "Ofrece 5 notas diarias con planes básicos y funcionalidades limitadas."
   },
   {
@@ -2983,7 +2983,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10,
+    "intentos_web": 11,
     "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
@@ -3321,7 +3321,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 8
+    "intentos_web": 9
   },
   {
     "nombre": "Oracle",
@@ -3870,6 +3870,66 @@
     "etica": "Railway ofrece aislamiento de datos entre proyectos y cumplimiento con GDPR, evitando el uso no autorizado de datos de entrenamiento.",
     "limite_gratis": "Plan gratuito con 2 GPU‑hours al mes y 5 GB de almacenamiento de datos.",
     "id": "railway-ai-native-cloud-310b04",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Gradium stt‑translate",
+    "compania": "Gradium",
+    "tipo": "Reconocimiento de voz y traducción",
+    "precio": "Freemium",
+    "descripcion": "Modelo de reconocimiento de voz y traducción simultánea que supera a GPT‑Realtime‑Translate en precisión y latencia para los seis idiomas más usados.",
+    "web": "https://gradium.com/stt-translate",
+    "funciones": [
+      "Transcripción en tiempo real con alta exactitud",
+      "Traducción automática a varios idiomas simultáneamente",
+      "Detección automática del idioma de origen",
+      "Integración vía API para apps móviles y web",
+      "Soporte de voz continua sin interrupciones"
+    ],
+    "caracteristicas": [
+      "Latencia inferior a 200 ms",
+      "Precisión de transcripción > 96 % en pruebas internas",
+      "Optimizado para inglés, español, francés, alemán, chino y portugués",
+      "Modelo ligero que puede ejecutarse en servidores de borde",
+      "Actualizaciones mensuales con mejoras de vocabulario"
+    ],
+    "etica": "Gradium garantiza que los datos de audio se procesan encriptados y no se almacenan permanentemente, reduciendo riesgos de privacidad y sesgos lingüísticos.",
+    "limite_gratis": "Plan gratuito con 30 minutos de transcripción/traducción por mes y acceso limitado a los seis idiomas.",
+    "id": "gradium-stt-translate-bbc943",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Gradium s2s‑translate",
+    "compania": "Gradium",
+    "tipo": "Traducción de texto",
+    "precio": "Freemium",
+    "descripcion": "Modelo de traducción directa de texto a texto con latencia mínima, pensado para chats, plataformas colaborativas y herramientas de productividad.",
+    "web": "https://gradium.com/s2s-translate",
+    "funciones": [
+      "Traducción instantánea de frases y párrafos",
+      "Detección automática del idioma de origen",
+      "Soporte para más de 30 pares de idiomas",
+      "API REST y SDK para integración rápida",
+      "Modo de traducción contextual para conversaciones"
+    ],
+    "caracteristicas": [
+      "Latencia promedio < 100 ms por oración",
+      "Calidad comparable a traductores profesionales",
+      "Optimizado para textos cortos y diálogos",
+      "Capacidad de personalizar glosarios por dominio",
+      "Escalabilidad automática en la nube"
+    ],
+    "etica": "Gradium no almacena los textos traducidos sin consentimiento y aplica filtros para mitigar sesgos de género y cultura en las traducciones.",
+    "limite_gratis": "Plan gratuito con 10 000 caracteres traducidos al mes y acceso a los pares de idiomas más comunes.",
+    "id": "gradium-s2s-translate-60f39e",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
