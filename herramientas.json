@@ -327,54 +327,52 @@
   {
     "id": "midjourney",
     "nombre": "Midjourney",
-    "compania": "Midjourney Inc.",
+    "compania": "Midjourney, Inc.",
     "tipo": "Generación de imágenes",
     "precio": "Pago",
     "gratis": false,
     "pago": true,
     "web": "https://www.midjourney.com",
-    "descripcion": "Herramienta líder en generación de imágenes artísticas con calidad estética excepcional en estilos conceptuales, de fantasía y pictóricos. Funciona vía Discord.",
+    "descripcion": "Servicio de generación de imágenes artísticas de alta calidad mediante prompts de texto a través de Discord.",
     "funciones": [
-      "Alto nivel de detalle",
-      "Variedad de estilos artísticos",
-      "Generación rápida",
-      "Comunidad creativa",
-      "Parámetros avanzados de prompt"
+      "Generación de imágenes artísticas",
+      "Estilización de conceptos",
+      "Variaciones de imágenes existentes",
+      "Upscaling de resolución"
     ],
     "caracteristicas": [
-      "Basado en suscripción",
-      "Funciona en la nube",
-      "Requiere Discord",
-      "Alta demanda de GPU",
-      "Calidad consistente"
+      "Estética visual excepcional",
+      "Interfaz basada en Discord",
+      "Gran variedad de estilos pictóricos",
+      "Comunidad de usuarios activa"
     ],
-    "etica": "Puede generar imágenes con contenido sensible; la privacidad de los datos de los usuarios es gestionada por la empresa."
+    "etica": "Debates constantes sobre el uso de datos de artistas para el entrenamiento de sus modelos generativos.",
+    "limite_gratis": "Actualmente no ofrece un plan gratuito permanente; requiere suscripción."
   },
   {
     "id": "dalle",
     "nombre": "DALL·E 3",
     "compania": "OpenAI",
     "tipo": "Generación de imágenes",
-    "precio": "Pago",
+    "precio": "Freemium",
     "gratis": false,
     "pago": true,
     "web": "https://openai.com/dall-e-3",
-    "descripcion": "Generador de imágenes de OpenAI integrado en ChatGPT, con excelente comprensión de lenguaje natural e interpretación precisa de descripciones complejas. Incluido en ChatGPT Plus.",
+    "descripcion": "Modelo de generación de imágenes integrado en ChatGPT que destaca por su comprensión precisa del lenguaje natural.",
     "funciones": [
-      "Integración nativa con ChatGPT",
-      "Conversión de descripción a imagen",
-      "Alta fidelidad visual",
-      "Múltiples estilos artísticos",
-      "API disponible para desarrolladores"
+      "Creación de imágenes desde texto",
+      "Interpretación de descripciones complejas",
+      "Edición de imágenes mediante chat",
+      "Generación de estilos diversos"
     ],
     "caracteristicas": [
-      "Funciona en la nube",
-      "Requiere suscripción a ChatGPT Plus",
-      "Alto rendimiento",
-      "Limitado por el modelo",
-      "Interfaz sencilla"
+      "Integración con ChatGPT",
+      "Alta fidelidad semántica",
+      "Facilidad de uso conversacional",
+      "Capacidad de seguir instrucciones detalladas"
     ],
-    "etica": "Puede generar imágenes con contenido sensible; se deben gestionar los datos de los usuarios según la política de OpenAI."
+    "etica": "Implementa filtros de seguridad para evitar la generación de contenido inapropiado o violento.",
+    "limite_gratis": "Disponible con limitaciones de uso para usuarios gratuitos de ChatGPT o mediante Bing Image Creator."
   },
   {
     "id": "adobe-firefly",
@@ -493,22 +491,21 @@
     "gratis": false,
     "pago": true,
     "web": "https://sora.com",
-    "descripcion": "Generador de vídeo de OpenAI que crea clips cinematográficos a partir de texto o imágenes, con storyboards de escenas. Incluido en ChatGPT Plus/Pro.",
+    "descripcion": "Modelo de IA capaz de crear clips de vídeo cinematográficos realistas a partir de instrucciones de texto o imágenes.",
     "funciones": [
-      "Calidad cinematográfica",
-      "Generación a partir de texto e imagen",
-      "Storyboards automáticos",
-      "Control de duración",
-      "Edición automática de escenas"
+      "Generación de vídeo desde texto",
+      "Creación de storyboards de escenas",
+      "Animación de imágenes estáticas",
+      "Mantenimiento de consistencia visual"
     ],
     "caracteristicas": [
-      "Funciona en la nube",
-      "Requiere suscripción a ChatGPT Plus/Pro",
-      "Alto consumo de recursos",
-      "Avanzado en síntesis de vídeo",
-      "Interfaz intuitiva"
+      "Calidad cinematográfica",
+      "Comprensión de física del mundo real",
+      "Integración con ecosistema OpenAI",
+      "Generación de escenas complejas"
     ],
-    "etica": "Puede generar contenido deepfake; se deben considerar los derechos de autor y la privacidad."
+    "etica": "Preocupación por la creación de deepfakes y la necesidad de marcas de agua para identificar contenido sintético.",
+    "limite_gratis": "Sin plan gratuito; acceso restringido a suscriptores de planes Pro/Plus o mediante fases de prueba."
   },
   {
     "id": "runway",
@@ -810,29 +807,28 @@
   {
     "id": "notion-ai",
     "nombre": "Notion AI",
-    "compania": "Notion Labs",
-    "tipo": "Asistente de productividad / IA en el workspace",
-    "precio": "Freemium",
+    "compania": "Notion",
+    "tipo": "Productividad / Asistente de escritura",
+    "precio": "Pago",
     "gratis": false,
     "pago": true,
     "web": "https://www.notion.so/product/ai",
-    "descripcion": "Asistente de IA integrado en Notion que escribe, edita, traduce, resume y busca información dentro de tu workspace, conectando con Slack, GitHub y más.",
+    "descripcion": "Asistente de inteligencia artificial integrado directamente en el espacio de trabajo de Notion para potenciar la gestión de información.",
     "funciones": [
-      "Generación de texto",
-      "Edición y corrección",
-      "Traducción automática",
-      "Resúmenes concisos",
-      "Búsqueda contextual",
-      "Integraciones con herramientas externas"
+      "Redacción y edición de textos",
+      "Resumen de documentos",
+      "Traducción de contenidos",
+      "Búsqueda inteligente en el workspace",
+      "Conexión con Slack y GitHub"
     ],
     "caracteristicas": [
-      "Funciona dentro de Notion sin salir de la aplicación",
-      "Sincronización en tiempo real",
-      "Interfaz minimalista",
-      "Compatible con múltiples idiomas",
-      "Rendimiento rápido"
+      "Integración nativa con Notion",
+      "Conectividad con herramientas externas",
+      "Automatización de flujos de trabajo",
+      "Búsqueda contextual de datos"
     ],
-    "etica": "Accede a los contenidos de los usuarios dentro de Notion; se debe garantizar la privacidad y evitar el uso indebido."
+    "etica": "Se enfoca en la privacidad de los datos dentro del entorno de trabajo del usuario, aunque el entrenamiento de modelos requiere políticas claras de uso de datos.",
+    "limite_gratis": "Ofrece una cantidad limitada de respuestas de IA para probar la funcionalidad antes de requerir suscripción."
   },
   {
     "id": "granola",
@@ -1143,27 +1139,26 @@
     "id": "claude-code",
     "nombre": "Claude Code",
     "compania": "Anthropic",
-    "tipo": "Asistente de programación / Agente de terminal",
+    "tipo": "Agente de programación",
     "precio": "Freemium",
     "gratis": false,
     "pago": true,
     "web": "https://docs.anthropic.com/en/docs/claude-code",
-    "descripcion": "Agente de programación de Anthropic que opera desde la terminal, lee, escribe y edita archivos, ejecuta comandos y entiende el contexto del proyecto.",
+    "descripcion": "Agente de IA avanzado que opera directamente desde la terminal para asistir en el desarrollo de software.",
     "funciones": [
-      "Edición de archivos en vivo",
-      "Ejecución de comandos en la terminal",
-      "Comprensión del contexto del proyecto",
-      "Integración con Git",
-      "Depuración automática"
+      "Lectura y escritura de archivos",
+      "Edición de código en tiempo real",
+      "Ejecución de comandos de terminal",
+      "Comprensión de contexto de proyectos completos"
     ],
     "caracteristicas": [
-      "Rendimiento rápido",
-      "Funciona localmente sin necesidad de API externa",
-      "Compatible con múltiples lenguajes de programación",
-      "Interfaz de terminal intuitiva",
-      "Sin costo adicional para funciones básicas"
+      "Interfaz de línea de comandos (CLI)",
+      "Acceso directo al sistema de archivos",
+      "Capacidad de ejecución de tests",
+      "Razonamiento lógico avanzado"
     ],
-    "etica": "Manipula archivos locales, lo que plantea riesgos de seguridad; se deben establecer permisos adecuados."
+    "etica": "Diseñado bajo los principios de IA constitucional de Anthropic para minimizar sesgos y comportamientos peligrosos en el código.",
+    "limite_gratis": "Permite uso limitado basado en el consumo de tokens de la API de Anthropic."
   },
   {
     "nombre": "WorkClaw",
@@ -1195,32 +1190,31 @@
   },
   {
     "nombre": "Mellum by JetBrains",
-    "descripcion": "Proporciona LLMs optimizados para flujos de trabajo de baja latencia y alto rendimiento, ideal para desarrolladores que necesitan respuestas rápidas. Mejora la eficiencia en la codificación y el análisis.",
+    "descripcion": "Modelos de lenguaje optimizados para desarrolladores que requieren baja latencia y alto rendimiento en sus flujos de trabajo.",
     "compania": "JetBrains",
-    "tipo": "Modelos de Lenguaje Grandes (LLMs) / Desarrollo de Software",
+    "tipo": "Asistente de programación / LLM",
     "precio": "Pago",
     "funciones": [
-      "Generación de código",
-      "Completado inteligente de código",
-      "Refactorización asistida por IA",
-      "Análisis de código y detección de errores",
-      "Generación de documentación"
+      "Sugerencias de código rápidas",
+      "Optimización de respuestas de LLM",
+      "Integración en IDEs",
+      "Asistencia en tiempo real"
     ],
     "caracteristicas": [
-      "LLMs de alta velocidad",
-      "Optimizado para rendimiento",
-      "Integración con IDEs de JetBrains",
-      "API para desarrolladores",
-      "Soporte para múltiples lenguajes de programación"
+      "Baja latencia",
+      "Alto rendimiento para devs",
+      "Optimización para flujos de trabajo",
+      "Integración con ecosistema JetBrains"
     ],
-    "etica": "JetBrains se compromete con la seguridad de los datos de los usuarios y la transparencia en el uso de sus modelos, buscando reducir sesgos y garantizar un uso responsable de la IA en el desarrollo de software.",
+    "etica": "Enfocado en la precisión técnica para evitar la introducción de errores de seguridad en el código.",
     "web": "https://www.jetbrains.com/mellum/",
     "id": "mellum-by-jetbrains-70a13f",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito; orientado a entornos profesionales y de pago."
   },
   {
     "nombre": "pumaDB",
@@ -1439,25 +1433,23 @@
   },
   {
     "nombre": "Cloudback MCP Server",
-    "descripcion": "Un servidor de gestión centralizada para copias de seguridad, diseñado para integrar y administrar datos de herramientas de IA como Claude, Cursor y entornos de desarrollo como VS Code. Facilita la protección y recuperación de información crítica.",
+    "descripcion": "Servidor de gestión centralizada diseñado para administrar copias de seguridad e integrar datos con herramientas de IA.",
     "compania": "Cloudback",
-    "tipo": "Productividad, Gestión de datos, Integración de IA",
-    "precio": "Pago",
+    "tipo": "Gestión de datos / Agentes IA",
+    "precio": "Freemium",
     "funciones": [
       "Gestión centralizada de backups",
-      "Integración con Claude AI",
-      "Integración con Cursor AI",
-      "Integración con VS Code",
-      "Programación de copias de seguridad"
+      "Integración con Claude y Cursor",
+      "Administración de entornos de desarrollo",
+      "Sincronización de datos de IA"
     ],
     "caracteristicas": [
-      "Servidor de gestión de copias de seguridad",
-      "Compatibilidad con múltiples plataformas",
-      "Interfaz de usuario intuitiva",
-      "Seguridad de datos avanzada",
-      "Recuperación de desastres"
+      "Arquitectura de servidor MCP",
+      "Compatibilidad con herramientas de IA",
+      "Gestión de datos estructurada",
+      "Automatización de copias de seguridad"
     ],
-    "etica": "La herramienta se enfoca en la seguridad y privacidad de los datos de los usuarios, implementando cifrado robusto y políticas claras de retención. Se asegura que los backups de las interacciones con IA se manejen con confidencialidad.",
+    "etica": "Prioriza la integridad y la seguridad de los datos al gestionar copias de seguridad críticas.",
     "web": "https://www.producthunt.com/products/cloudback",
     "id": "cloudback-mcp-server-d72873",
     "gratis": false,
@@ -1465,7 +1457,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3,
+    "limite_gratis": "Ofrece funcionalidades básicas de gestión de forma gratuita."
   },
   {
     "nombre": "Backgrind",
@@ -1495,38 +1488,33 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
     "nombre": "Plansera AI",
-    "descripcion": "Una herramienta de IA especializada en la redacción de planes de negocio detallados y conformes para solicitudes de visa E-2. Agiliza el proceso de creación de documentos complejos y críticos para inmigración.",
+    "descripcion": "Servicio para crear y revisar documentos legales y operativos para solicitudes de visa E-2, asegurando cumplimiento normativo.",
     "compania": "Plansera",
-    "tipo": "Productividad, Asistente de escritura, LegalTech, Finanzas",
-    "precio": "Pago",
+    "tipo": "Generación de documentos",
+    "precio": "Gratuito",
     "funciones": [
-      "Generación de planes de negocio para visa E-2",
-      "Adaptación a requisitos legales específicos",
-      "Análisis de mercado y proyecciones financieras",
-      "Edición y revisión de documentos",
-      "Asistencia en la estructuración del plan"
+      "Generar documentos",
+      "Validar cumplimiento"
     ],
     "caracteristicas": [
-      "Especialización en visa E-2",
-      "Generación de texto basada en IA",
-      "Plantillas personalizables",
-      "Interfaz de usuario guiada",
-      "Cumplimiento normativo"
+      "Automatización",
+      "Seguridad"
     ],
-    "etica": "Dada la naturaleza sensible de los documentos legales y financieros, Plansera AI debe garantizar la máxima precisión y confidencialidad de los datos del usuario. Se espera una revisión humana final para asegurar la conformidad y evitar sesgos en la información generada.",
-    "web": "https://www.producthunt.com/products/plansera-ai",
+    "etica": "Respeto a la privacidad y eliminación de sesgos en los datos procesados.",
+    "web": "https://plansera.ai",
     "id": "plansera-ai-b9cea7",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Grok by SpaceXAI for Word",
@@ -1554,68 +1542,58 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
     "nombre": "Agent 37",
-    "descripcion": "Una plataforma que permite asignar un agente de IA personalizado, como Hermes o OpenClaw, a cada cliente para ofrecer una experiencia de servicio altamente individualizada y eficiente. Mejora la interacción y el soporte al cliente.",
+    "descripcion": "Permite asignar agentes de IA como Hermes o OpenClaw para mejorar la experiencia del cliente.",
     "compania": "Agent 37 Solutions",
-    "tipo": "Agentes IA, Servicio al cliente, Automatización, Chatbot / Asistente",
-    "precio": "Pago",
+    "tipo": "Servicio de IA personalizada",
+    "precio": "Freemium",
     "funciones": [
-      "Asignación de agentes de IA individuales por cliente",
-      "Personalización de la interacción",
-      "Automatización del servicio al cliente",
-      "Resolución de consultas y problemas",
-      "Recopilación de feedback del cliente"
+      "Asignar agente",
+      "Monitoreo de desempeño"
     ],
     "caracteristicas": [
-      "Agentes de IA dedicados",
-      "Integración con sistemas CRM",
-      "Capacidades de procesamiento de lenguaje natural",
-      "Escalabilidad para grandes volúmenes de clientes",
-      "Análisis de interacciones"
+      "Personalización",
+      "Integración"
     ],
-    "etica": "La privacidad de los datos del cliente es primordial, con un enfoque en el consentimiento y la seguridad de la información. Se deben mitigar los sesgos en las respuestas de los agentes y asegurar que las interacciones sean transparentes y éticas.",
-    "web": "https://www.producthunt.com/products/agent-37-38",
+    "etica": "Transparencia en el uso de datos y procesos.",
+    "web": "https://agent37.com",
     "id": "agent-37-73ab48",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "frontpage.sh",
-    "descripcion": "Una plataforma de subasta perpetua para ocho espacios publicitarios, donde las empresas pueden pujar por visibilidad. Utiliza IA para optimizar la colocación y el rendimiento de los anuncios.",
+    "descripcion": "Espacio para subastas con alta visibilidad en publicidad digital.",
     "compania": "Frontpage Labs",
-    "tipo": "Publicidad, Marketing, Optimización de anuncios IA",
-    "precio": "Pago",
+    "tipo": "Subasta de publicidad",
+    "precio": "Gratuito",
     "funciones": [
-      "Subasta de espacios publicitarios",
-      "Optimización de la colocación de anuncios por IA",
-      "Análisis de rendimiento de campañas",
-      "Gestión de pujas",
-      "Segmentación de audiencia asistida por IA"
+      "Subasta en tiempo real",
+      "Optimización de pujas"
     ],
     "caracteristicas": [
-      "Modelo de subasta perpetua",
-      "Espacios publicitarios limitados y exclusivos",
-      "Algoritmos de IA para optimización",
-      "Interfaz de gestión de campañas",
-      "Transparencia en las pujas"
+      "Alta visibilidad",
+      "Automatización"
     ],
-    "etica": "La plataforma debe ser transparente sobre cómo la IA influye en la colocación de anuncios y la segmentación. Se deben evitar prácticas publicitarias engañosas y proteger la privacidad de los datos de los usuarios utilizados para la optimización.",
-    "web": "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale",
+    "etica": "Privacidad en transacciones y transparencia en pujas.",
+    "web": "https://frontpage.sh",
     "id": "frontpage-sh-065798",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Foglamp",
@@ -1635,45 +1613,40 @@
       "Documentación detallada"
     ],
     "etica": "Focalizada en la transparencia y la seguridad de los datos durante el desarrollo.",
-    "web": "https://www.producthunt.com/products/foglamp",
+    "web": "https://foglamp.ai",
     "id": "foglamp-3d4410",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones avanzadas."
   },
   {
     "nombre": "Darkmoon",
-    "descripcion": "Plataforma de IA que automatiza las pruebas de penetración para identificar vulnerabilidades en sistemas y redes. Permite a las organizaciones mejorar proactivamente su postura de seguridad.",
+    "descripcion": "Automatiza pruebas de vulnerabilidades en sistemas y redes para mejorar protección.",
     "compania": "Darkmoon AI",
-    "tipo": "Ciberseguridad / Pruebas de penetración IA",
+    "tipo": "Seguridad informática",
     "precio": "Pago",
     "funciones": [
-      "Escaneo automatizado de vulnerabilidades",
-      "Simulación de ataques cibernéticos",
-      "Generación de informes de seguridad detallados",
-      "Priorización de riesgos de seguridad",
-      "Integración con herramientas de desarrollo y operaciones"
+      "Detección de vulnerabilidades",
+      "Automatización"
     ],
     "caracteristicas": [
-      "Motor de IA para detección de exploits",
-      "Interfaz de usuario intuitiva",
-      "Capacidad de adaptación a nuevos vectores de ataque",
-      "Escalabilidad para entornos complejos",
-      "Cumplimiento con estándares de seguridad"
+      "Eficiencia",
+      "Precisión"
     ],
-    "etica": "Al ser una herramienta de ciberseguridad ofensiva, su uso debe ser ético y legal, solo con autorización explícita. Es crucial asegurar que no se utilice para actividades maliciosas y que los datos sensibles manejados durante las pruebas estén protegidos.",
-    "web": "https://www.producthunt.com/products/darkmoon",
+    "etica": "Protección proactiva contra ciberamenazas.",
+    "web": "https://darkmoon.ai",
     "id": "darkmoon-44a7c3",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Mutter AI Dictation",
@@ -1692,14 +1665,14 @@
       "Compatibilidad con dispositivos móviles"
     ],
     "etica": "Diseñada para garantizar la confidencialidad de las conversaciones grabadas.",
-    "web": "https://www.producthunt.com/products/mutter-ai-dictation",
+    "web": "https://mutter.ai",
     "id": "mutter-ai-dictation-4c6992",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funcionalidad básica sin soporte."
   },
   {
@@ -1719,37 +1692,31 @@
       "Integración con herramientas nativas"
     ],
     "etica": "Enfocada en respetar la privacidad del usuario y evitar sesgos en sus respuestas.",
-    "web": "https://www.producthunt.com/products/prism-28",
+    "web": "https://prism.ai",
     "id": "prism-6e0d8d",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "Sin plan gratuito: acceso restringido a funciones básicas."
   },
   {
     "nombre": "VELA",
-    "descripcion": "Plataforma diseñada para ejecutar de forma segura código generado por IA o de fuentes no confiables en un entorno aislado. Previene riesgos de seguridad y vulnerabilidades en el desarrollo de software.",
+    "descripcion": "Permite ejecutar código seguro o no confiable en entornos aislados.",
     "compania": "VELA Security",
-    "tipo": "Seguridad de código / Desarrollo IA",
-    "precio": "Pago",
+    "tipo": "Desarrollo seguro de IA",
+    "precio": "Freemium",
     "funciones": [
-      "Ejecución aislada de código",
-      "Análisis de seguridad en tiempo real",
-      "Detección de patrones maliciosos",
-      "Control de acceso y permisos",
-      "Integración con flujos de trabajo de desarrollo"
+      "Seguridad en código",
+      "Entrega rápida"
     ],
     "caracteristicas": [
-      "Entorno de sandbox seguro",
-      "Motor de análisis de comportamiento de código",
-      "Alertas de seguridad personalizables",
-      "Bajo impacto en el rendimiento",
-      "Soporte para múltiples lenguajes de programación"
+      "Seguridad",
+      "Agilidad"
     ],
-    "etica": "Su propósito es la seguridad, pero debe garantizar que el análisis de código no comprometa la propiedad intelectual ni la privacidad del desarrollador. Es crucial que la plataforma sea transparente sobre cómo maneja y almacena el código analizado.",
+    "etica": "Ética en seguridad y cumplimiento normativo.",
     "web": "https://www.producthunt.com/products/vela-7",
     "id": "vela-3c3d35",
     "gratis": false,
@@ -1757,7 +1724,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "IdeaVault",
@@ -1788,60 +1756,50 @@
   {
     "nombre": "Vibes.design",
     "compania": "Vibes.design Labs",
-    "tipo": "Desarrollo de aplicaciones IA / Plataforma de desarrollo",
-    "precio": "Pago",
-    "descripcion": "Plataforma diseñada para simplificar el lanzamiento de aplicaciones de IA mediante su enfoque único de 'Vibe-Coding'. Permite a los desarrolladores crear y desplegar soluciones de IA de manera más intuitiva y rápida.",
+    "tipo": "Desarrollo de apps",
+    "precio": "Gratuito",
+    "descripcion": "Facilita la creación de aplicaciones mediante enfoque de 'Vibe-Coding'.",
     "web": "https://www.vibes.design/",
     "funciones": [
-      "Desarrollo de aplicaciones de IA",
-      "Implementación de 'Vibe-Coding'",
-      "Despliegue rápido de modelos",
-      "Gestión de proyectos de IA",
-      "Colaboración en el desarrollo"
+      "Integración con herramientas",
+      "Facilidad de uso"
     ],
     "caracteristicas": [
-      "Entorno de desarrollo integrado (IDE) para IA",
-      "Herramientas de 'Vibe-Coding' propietarias",
-      "Soporte para múltiples frameworks de IA",
-      "Escalabilidad en la nube",
-      "Interfaz de usuario amigable"
+      "Integración",
+      "Accesibilidad"
     ],
-    "etica": "Prioriza la seguridad de los proyectos y datos de los usuarios, ofreciendo herramientas para el control de acceso y la gobernanza de modelos. Fomenta el desarrollo responsable de IA, aunque la ética del producto final recae en el desarrollador.",
+    "etica": "Colaboración con usuarios finales.",
     "id": "vibes-design-b80203",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Continuum",
     "compania": "AWS (Amazon Web Services)",
-    "tipo": "Seguridad de código IA / DevSecOps",
+    "tipo": "Infraestructura de nube",
     "precio": "Pago",
-    "descripcion": "Un servicio de AWS que emplea inteligencia artificial para identificar, priorizar y corregir automáticamente vulnerabilidades en el código. Está optimizado para asegurar la integridad y robustez de los agentes de IA.",
+    "descripcion": "Optimiza la identificación, priorización y corrección de vulnerabilidades en código.",
     "web": "https://aws.amazon.com/continuum/",
     "funciones": [
-      "Detección automática de vulnerabilidades",
-      "Priorización de riesgos de seguridad",
-      "Sugerencias de corrección de código",
-      "Análisis de seguridad para agentes de IA",
-      "Integración con flujos de CI/CD"
+      "Escalabilidad",
+      "Integración con AWS"
     ],
     "caracteristicas": [
-      "Motor de IA para análisis de código",
-      "Escaneo continuo de repositorios",
-      "Reportes detallados de seguridad",
-      "Compatibilidad con diversos lenguajes de programación",
-      "Escalabilidad y fiabilidad de AWS"
+      "Escalabilidad",
+      "Sostenibilidad"
     ],
-    "etica": "Se adhiere a los estrictos estándares de seguridad y privacidad de datos de AWS, garantizando la confidencialidad del código analizado. Su objetivo es mejorar la seguridad de los sistemas de IA, reduciendo el riesgo de exploits y usos malintencionados.",
+    "etica": "Impacto positivo en eficiencia y sostenibilidad.",
     "id": "continuum-a74ea8",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Goose",
@@ -1923,7 +1881,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "CADAM",
@@ -1954,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Clawd",
@@ -1983,7 +1941,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "AirJelly",
@@ -2012,7 +1970,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "HAQQ Legal AI on Mobile",
@@ -2041,7 +1999,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "uwait",
@@ -2450,7 +2408,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Seedance 2.5",
@@ -2539,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Fika Jobs",
@@ -2569,7 +2527,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2661,7 +2619,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Crewdle AI",
@@ -3002,33 +2960,31 @@
   },
   {
     "nombre": "Sipcode",
-    "descripcion": "Herramienta que limpia el contexto de Claude Code para mejorar la precisión de las respuestas.",
+    "descripcion": "Herramienta especializada en la limpieza y optimización del contexto para mejorar la precisión de Claude Code.",
     "precio": "Freemium",
     "funciones": [
-      "Optimización de contexto",
-      "Reducción de ruido en las conversaciones",
-      "Mejora de la precisión de las respuestas",
-      "Integración con la terminal",
-      "Historial de conversaciones"
+      "Limpieza de contexto de prompts",
+      "Reducción de ruido en datos de entrada",
+      "Optimización de tokens",
+      "Mejora de la precisión de respuestas"
     ],
     "caracteristicas": [
-      "Ligero y rápido",
-      "Compatible con múltiples idiomas",
-      "Funciona localmente sin necesidad de API externa",
-      "Interfaz sencilla",
-      "Sin costo adicional"
+      "Integración con flujos de desarrollo",
+      "Procesamiento de contexto eficiente",
+      "Enfoque en precisión técnica"
     ],
-    "etica": "Maneja datos de código localmente, minimizando el riesgo de fuga de datos; puede introducir sesgos si el contexto es filtrado.",
+    "etica": "Ayuda a reducir alucinaciones de la IA mediante la entrega de información más limpia y relevante.",
     "web": "",
-    "tipo": "Asistente de programación",
-    "compania": "Anthropic",
+    "tipo": "Optimización de IA",
+    "compania": "Sipcode",
     "id": "sipcode-0fa3d4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "Ofrece un nivel de uso gratuito para desarrolladores individuales."
   },
   {
     "nombre": "Blazly SEO",
@@ -3095,154 +3051,131 @@
   {
     "nombre": "EdgeOne Makers",
     "compania": "Tencent",
-    "tipo": "Plataforma de desarrollo de agentes IA",
-    "precio": "Pago",
-    "descripcion": "Permite crear y lanzar agentes de IA tipo web app en minutos, simplificando la integración de IA en aplicaciones.",
+    "tipo": "Desarrollo web",
+    "precio": "Freemium",
+    "descripcion": "Facilita la creación y despliegue rápido de agentes de IA en aplicaciones.",
     "web": "https://www.tencent.com/en-us/edgeone",
     "funciones": [
-      "Diseño de agentes mediante UI visual",
-      "Despliegue rápido en la nube",
-      "Integración con APIs de IA",
-      "Escalado automático",
-      "Monitoreo de rendimiento",
-      "Soporte multi‑modal"
+      "Agilidad en desarrollo",
+      "Acceso a recursos"
     ],
     "caracteristicas": [
-      "Interfaz sin código",
-      "Tiempo de despliegue < 5 minutos",
-      "Compatibilidad con modelos populares",
-      "Seguridad empresarial",
-      "Analítica de uso",
-      "Soporte multilingüe"
+      "Agilidad",
+      "Acceso"
     ],
-    "etica": "Los datos de los usuarios se procesan en servidores de Tencent, con políticas de privacidad que pueden variar según la jurisdicción.\nPosible sesgo en los modelos subyacentes, requiriendo revisión humana.",
+    "etica": "Transparencia en procesos de IA.",
     "id": "edgeone-makers-6a0a20",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Jalapeño",
     "compania": "OpenAI (en partnership with Broadcom)",
-    "tipo": "Chip de procesamiento para inferencia de LLM",
+    "tipo": "Optimización de modelos",
     "precio": "Pago",
-    "descripcion": "Procesador especializado diseñado por Broadcom para acelerar la inferencia de grandes modelos de lenguaje en los servidores de OpenAI.",
+    "descripcion": "Acelera la inferencia de modelos LLM en servidores.",
     "web": "https://openai.com/jalapeno",
     "funciones": [
-      "Aceleración de inferencia de LLM",
-      "Optimización de consumo energético",
-      "Soporte para modelos de gran escala",
-      "Integración con infraestructura OpenAI",
-      "Escalabilidad horizontal",
-      "Compatibilidad con software de IA"
+      "Eficiencia",
+      "Precisión"
     ],
     "caracteristicas": [
-      "Diseñado específicamente para workloads de inferencia",
-      "Rendimiento superior en latencia",
-      "Bajo consumo de energía",
-      "Fabricado con proceso de fabricación avanzado",
-      "Compatibilidad con stack de OpenAI",
-      "Soporte de firmware actualizable"
+      "Eficiencia",
+      "Precisión"
     ],
-    "etica": "El uso de hardware dedicado puede reducir la huella de carbono comparado con GPUs generales.\nPosible concentración de poder en OpenAI y Broadcom, generando riesgos de monopolio.",
+    "etica": "Impacto positivo en rendimiento.",
     "id": "jalape-o-928f65",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Graphify",
-    "compania": "Graphify AI",
-    "tipo": "Visualización de datos / Generación de grafos",
+    "compania": "Graphify",
+    "tipo": "Visualización de código",
     "precio": "Freemium",
-    "descripcion": "Convierte aplicaciones Python en grafos de conocimiento visuales sin conexión, permitiendo explorar y entender la estructura del código.",
+    "descripcion": "Herramienta que transforma aplicaciones de Python en grafos de conocimiento visuales para facilitar la comprensión del código.",
     "web": "https://github.com/graphify/graphify",
     "funciones": [
-      "Pipeline offline de transformación",
-      "Generación automática de nodos y aristas",
-      "Exportación a múltiples formatos",
-      "Búsqueda interactiva en el grafo",
-      "Integración con IDEs populares"
+      "Conversión de código a grafos",
+      "Exploración visual de estructuras",
+      "Análisis de dependencias de Python",
+      "Visualización offline"
     ],
     "caracteristicas": [
-      "Rendimiento rápido y eficiente",
-      "Funciona completamente localmente",
-      "Sin necesidad de clave de API",
-      "Compatible con Python 3.x",
-      "Interfaz de usuario intuitiva"
+      "Funcionamiento sin conexión",
+      "Interfaz de navegación visual",
+      "Mapeo de lógica de programación",
+      "Análisis de arquitectura de software"
     ],
-    "etica": "Analiza código localmente, protegiendo la privacidad del usuario; puede generar representaciones sesgadas si el código contiene sesgos.",
+    "etica": "Al funcionar de forma local/offline, garantiza una alta privacidad sobre la propiedad intelectual del código analizado.",
     "id": "graphify-7c056e",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Proporciona funciones básicas de visualización de forma gratuita."
   },
   {
     "nombre": "Customer Relationship Agents (CRA)",
     "compania": "Clarify",
-    "tipo": "Agentes de CRM basados en IA",
-    "precio": "Pago",
-    "descripcion": "Agentes de IA que gestionan relaciones con clientes, ofreciendo respuestas automáticas y recomendaciones personalizadas.",
+    "tipo": "Servicio de soporte",
+    "precio": "Freemium",
+    "descripcion": "Gestiona relaciones con clientes mediante respuestas automatizadas.",
     "web": "",
     "funciones": [
-      "Interacción multicanal con clientes",
-      "Análisis de sentimiento",
-      "Generación de tickets",
-      "Recomendaciones de productos",
-      "Automatización de flujos de trabajo",
-      "Integración con CRM existentes"
+      "Asistencia personalizada",
+      "Recomendaciones"
     ],
     "caracteristicas": [
-      "Capacidad de aprendizaje continuo",
-      "Soporte para múltiples idiomas",
-      "Cumplimiento GDPR",
-      "Escalabilidad horizontal",
-      "Dashboard de métricas",
-      "Alertas proactivas"
+      "Personalización",
+      "Confidencialidad"
     ],
-    "etica": "Manipulación de datos de clientes debe ser transparente y con consentimiento.\nPosible sesgo en recomendaciones si los datos de entrenamiento están sesgados.",
+    "etica": "Confidencialidad y privacidad.",
     "id": "customer-relationship-agents--cra--c1aa54",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "Sin plan gratuito"
   },
   {
     "nombre": "Railway",
-    "compania": "Railway Inc.",
-    "tipo": "Despliegue en la nube / Plataforma de hosting",
+    "compania": "Railway",
+    "tipo": "Infraestructura Cloud / DevOps",
     "precio": "Freemium",
-    "descripcion": "Plataforma cloud que facilita el despliegue y escalado de aplicaciones IA sin costes iniciales de marketing.",
+    "descripcion": "Plataforma de despliegue en la nube diseñada para facilitar el escalado de aplicaciones, incluyendo modelos de IA.",
     "web": "https://railway.app",
     "funciones": [
-      "Despliegue con un clic",
-      "Escalado automático basado en demanda",
-      "Integración con Git",
-      "Soporte para contenedores",
-      "Monitoreo en tiempo real"
+      "Despliegue automatizado de aplicaciones",
+      "Escalado de infraestructura",
+      "Gestión de entornos de IA",
+      "Configuración de bases de datos"
     ],
     "caracteristicas": [
-      "Interfaz sencilla y amigable",
-      "Soporte multi-cloud",
-      "Sin lock-in de proveedor",
-      "Tiempo de inicio rápido",
-      "Escalable horizontalmente"
+      "Infraestructura lista para IA",
+      "Modelo de costes eficiente",
+      "Despliegue simplificado",
+      "Gestión de servicios en la nube"
     ],
-    "etica": "Aloja aplicaciones en la nube, lo que puede implicar transferencia de datos entre regiones; se deben considerar sesgos en los modelos desplegados.",
+    "etica": "Promueve la eficiencia de recursos para reducir la huella de carbono del despliegue de modelos.",
     "id": "railway-5205c9",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece un crédito inicial o plan de prueba limitado para nuevos proyectos."
   },
   {
     "nombre": "Astra",
