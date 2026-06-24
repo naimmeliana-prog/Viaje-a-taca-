@@ -1253,14 +1253,15 @@
       "Backups automáticos y recuperación ante fallos"
     ],
     "etica": "Cumple con GDPR y CCPA, garantiza la privacidad de los datos y permite a los usuarios revocar el acceso a su información.",
-    "web": "https://www.pumadb.com/",
+    "web": "",
     "id": "pumadb-b44093",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "5 GB de almacenamiento y 1 000 consultas por mes."
+    "limite_gratis": "5 GB de almacenamiento y 1 000 consultas por mes.",
+    "intentos_web": 1
   },
   {
     "nombre": "Are you in the Weights?",
@@ -1283,14 +1284,15 @@
       "API de consulta programática"
     ],
     "etica": "Promueve la transparencia en el entrenamiento de LLMs y protege la privacidad de los usuarios mediante la anonimización de datos sensibles.",
-    "web": "https://www.areyouintheweights.com/",
+    "web": "",
     "id": "are-you-in-the-weights--a81b0b",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "1000 consultas por mes y acceso a 3 proyectos."
+    "limite_gratis": "1000 consultas por mes y acceso a 3 proyectos.",
+    "intentos_web": 1
   },
   {
     "nombre": "Pixlie",
@@ -1313,14 +1315,15 @@
       "Colaboración en tiempo real"
     ],
     "etica": "Garantiza el respeto a los derechos de autor y evita la creación de deepfakes sin consentimiento.",
-    "web": "https://pixlie.ai/",
+    "web": "",
     "id": "pixlie-028f3c",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "5 minutos de vídeo exportado y 10 exportaciones por mes."
+    "limite_gratis": "5 minutos de vídeo exportado y 10 exportaciones por mes.",
+    "intentos_web": 1
   },
   {
     "nombre": "MeshPilot",
@@ -1537,25 +1540,23 @@
   },
   {
     "nombre": "Grok by SpaceXAI for Word",
-    "descripcion": "Un complemento de IA para Microsoft Word que ayuda a redactar, reestructurar y mejorar la claridad y concisión del texto directamente desde un panel lateral. Optimiza el proceso de escritura y edición de documentos.",
+    "descripcion": "Un complemento de IA para Microsoft Word que ayuda a redactar, reestructurar y mejorar la claridad y concisión del texto directamente desde un panel lateral.",
     "compania": "SpaceXAI",
-    "tipo": "Asistente de escritura, Productividad, Edición de texto",
-    "precio": "Freemium",
+    "tipo": "Generación de vídeo / Asistente de programación",
+    "precio": "Gratuito",
     "funciones": [
-      "Redacción asistida por IA",
-      "Reestructuración de párrafos y secciones",
-      "Mejora de la concisión y claridad",
-      "Corrección gramatical y estilística",
-      "Generación de ideas para contenido"
+      "Sugerencias de palabras",
+      "Reescritura de textos",
+      "Mejora de estilo",
+      "Corrección gramatical",
+      "Resumen automático"
     ],
     "caracteristicas": [
-      "Integración directa con Microsoft Word",
-      "Panel lateral interactivo",
-      "Procesamiento de lenguaje natural avanzado",
-      "Sugerencias en tiempo real",
-      "Personalización de estilo de escritura"
+      "Interfaz intuitiva",
+      "Integración directa con Word",
+      "Personalización de modelos"
     ],
-    "etica": "SpaceXAI debe asegurar la privacidad de los documentos procesados, evitando el almacenamiento innecesario de contenido sensible. Se espera que la IA sea transparente sobre sus sugerencias y que no introduzca sesgos en el lenguaje o la información.",
+    "etica": "La herramienta prioriza la privacidad del usuario y evita sesgos en su procesamiento de texto.",
     "web": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
     "id": "grok-by-spacexai-for-word-420489",
     "gratis": true,
@@ -1563,7 +1564,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
     "nombre": "Agent 37",
@@ -1627,25 +1629,22 @@
   },
   {
     "nombre": "Foglamp",
-    "descripcion": "Una herramienta que permite a los desarrolladores implementar y visualizar el comportamiento de sus agentes de IA de manera clara y comprensible. Facilita la depuración y el entendimiento de sistemas complejos de IA.",
-    "compania": "Foglamp AI",
-    "tipo": "Agentes IA, Desarrollo de IA, Visualización de IA",
+    "descripcion": "Una herramienta que permite a los desarrolladores implementar y visualizar el comportamiento de sus agentes de IA de manera clara y comprensible.",
+    "compania": "Foglamp",
+    "tipo": "Desarrollo de agentes de IA",
     "precio": "Freemium",
     "funciones": [
-      "Despliegue de agentes de IA",
-      "Visualización del comportamiento del agente",
-      "Depuración de agentes en tiempo real",
-      "Monitoreo de interacciones del agente",
-      "Análisis de decisiones del agente"
+      "Visualización de agentes",
+      "Simulación de interacciones",
+      "Depuración de código",
+      "Generación de respuestas"
     ],
     "caracteristicas": [
-      "Interfaz gráfica para agentes de IA",
-      "Herramientas de depuración visual",
-      "Simulación de entornos",
-      "Integración con frameworks de IA",
-      "Análisis de trazabilidad de agentes"
+      "Interfaz gráfica",
+      "Soporte para múltiples lenguajes",
+      "Documentación detallada"
     ],
-    "etica": "Foglamp promueve la interpretabilidad y la transparencia de los agentes de IA, lo cual es crucial para la ética. Al hacer visibles las acciones de los agentes, ayuda a identificar y mitigar sesgos, y a asegurar que los sistemas de IA actúen de manera predecible y responsable.",
+    "etica": "Focalizada en la transparencia y la seguridad de los datos durante el desarrollo.",
     "web": "https://www.producthunt.com/products/foglamp",
     "id": "foglamp-3d4410",
     "gratis": true,
@@ -1653,7 +1652,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones avanzadas."
   },
   {
     "nombre": "Darkmoon",
@@ -1687,25 +1687,21 @@
   },
   {
     "nombre": "Mutter AI Dictation",
-    "descripcion": "Herramienta de dictado por IA que permite transcribir voz a texto de forma privada y sin conexión a internet. Ideal para usuarios que requieren máxima confidencialidad y disponibilidad.",
+    "descripcion": "Herramienta de dictado por IA que permite transcribir voz a texto de forma privada y sin conexión a internet.",
     "compania": "Mutter AI",
-    "tipo": "Transcripción de voz / Productividad",
-    "precio": "Freemium",
+    "tipo": "Dictado por IA",
+    "precio": "Sin plan gratuito",
     "funciones": [
-      "Dictado de voz a texto en tiempo real",
-      "Funcionamiento completamente offline",
-      "Soporte para múltiples idiomas",
-      "Edición y formato de texto",
-      "Exportación a diversos formatos"
+      "Transcripción en tiempo real",
+      "Reconocimiento de voz",
+      "Exportación de archivos"
     ],
     "caracteristicas": [
-      "Procesamiento de IA local en el dispositivo",
-      "Alta precisión en el reconocimiento de voz",
-      "Interfaz de usuario sencilla",
-      "Garantía de privacidad de datos",
-      "No requiere conexión a la nube"
+      "Privacidad de datos",
+      "Funcionamiento sin internet",
+      "Compatibilidad con dispositivos móviles"
     ],
-    "etica": "Su principal ventaja es la privacidad, ya que procesa los datos localmente sin enviarlos a la nube. Esto minimiza los riesgos de fuga de información y asegura la confidencialidad de las transcripciones.",
+    "etica": "Diseñada para garantizar la confidencialidad de las conversaciones grabadas.",
     "web": "https://www.producthunt.com/products/mutter-ai-dictation",
     "id": "mutter-ai-dictation-4c6992",
     "gratis": true,
@@ -1713,29 +1709,26 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funcionalidad básica sin soporte."
   },
   {
     "nombre": "Prism",
-    "descripcion": "Un compañero de IA diseñado específicamente para usuarios de macOS, que mejora la productividad y la interacción con el sistema operativo. Ofrece asistencia inteligente para diversas tareas diarias.",
-    "compania": "Prism AI",
-    "tipo": "Asistente personal / Productividad",
-    "precio": "Freemium",
+    "descripcion": "Un compañero de IA diseñado específicamente para usuarios de macOS, que mejora la productividad y la interacción con el sistema operativo.",
+    "compania": "Prism",
+    "tipo": "Compañero de IA para macOS",
+    "precio": "Pago",
     "funciones": [
-      "Generación de texto y resúmenes",
-      "Automatización de tareas en macOS",
-      "Respuestas a preguntas y búsqueda de información",
-      "Gestión de recordatorios y calendario",
-      "Integración con aplicaciones nativas de macOS"
+      "Asistencia en tareas",
+      "Integración con aplicaciones",
+      "Análisis de datos"
     ],
     "caracteristicas": [
-      "Optimizado para el ecosistema macOS",
-      "Interfaz de usuario nativa y fluida",
-      "Aprendizaje adaptativo de las preferencias del usuario",
-      "Acceso rápido desde la barra de menú",
-      "Personalización de comandos y atajos"
+      "Optimizado para macOS",
+      "Interfaz personalizable",
+      "Integración con herramientas nativas"
     ],
-    "etica": "Como asistente personal, maneja datos del usuario y sus interacciones. Es fundamental que la política de privacidad sea transparente, explicando cómo se utilizan y protegen los datos, y si se comparten con terceros.",
+    "etica": "Enfocada en respetar la privacidad del usuario y evitar sesgos en sus respuestas.",
     "web": "https://www.producthunt.com/products/prism-28",
     "id": "prism-6e0d8d",
     "gratis": true,
@@ -1743,7 +1736,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "Sin plan gratuito: acceso restringido a funciones básicas."
   },
   {
     "nombre": "VELA",
@@ -1777,32 +1771,29 @@
   },
   {
     "nombre": "IdeaVault",
-    "compania": "IdeaVault Solutions",
-    "tipo": "Análisis de mercado / Generación de ideas",
+    "compania": "IdeaVault",
+    "tipo": "Análisis de quejas de Reddit",
     "precio": "Freemium",
-    "descripcion": "Analiza quejas de Reddit para identificar problemas de usuario y generar ideas innovadoras de Micro-SaaS. Ayuda a emprendedores a descubrir nichos de mercado y soluciones potenciales.",
+    "descripcion": "Analiza quejas de Reddit para identificar problemas de usuario y generar ideas innovadoras de Micro-SaaS.",
     "web": "https://ideavault-alpha.vercel.app/",
     "funciones": [
-      "Análisis de sentimientos en Reddit",
-      "Identificación de puntos de dolor de usuarios",
-      "Generación de ideas de Micro-SaaS",
-      "Detección de tendencias de mercado",
-      "Sugerencia de soluciones innovadoras"
+      "Análisis de sentimientos",
+      "Generación de ideas",
+      "Identificación de tendencias"
     ],
     "caracteristicas": [
-      "Integración con Reddit",
-      "Motor de IA para análisis de texto",
-      "Interfaz intuitiva para la exploración de ideas",
-      "Reportes de tendencias y oportunidades",
-      "Algoritmos de procesamiento de lenguaje natural (NLP)"
+      "Base en datos abiertos",
+      "Interfaz amigable",
+      "Herramientas de visualización"
     ],
-    "etica": "Se compromete a proteger la privacidad de los datos de usuario, anonimizando la información de Reddit. Busca evitar sesgos en la identificación de problemas, aunque la calidad de las sugerencias depende de la diversidad de los datos analizados.",
+    "etica": "Promueve soluciones que respetan la diversidad de opiniones y evitan sesgos.",
     "id": "ideavault-61975a",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: análisis básico y limitado."
   },
   {
     "nombre": "Vibes.design",
@@ -1864,61 +1855,55 @@
   },
   {
     "nombre": "Goose",
-    "compania": "Goose AI",
-    "tipo": "Asistente de programación / Generación de código",
+    "compania": "Goose",
+    "tipo": "Agente de IA para codificación",
     "precio": "Gratuito",
-    "descripcion": "Un agente de IA gratuito diseñado para asistir en la codificación, ofreciendo capacidades de escritura y depuración de código. Proporciona una experiencia similar a la de herramientas avanzadas como Claude Code para desarrolladores.",
+    "descripcion": "Un agente de IA gratuito diseñado para asistir en la codificación, ofreciendo capacidades de escritura y depuración de código.",
     "web": "https://block.github.io/goose/",
     "funciones": [
-      "Generación de código",
+      "Escritura de código",
       "Depuración de errores",
-      "Refactorización de código",
-      "Explicación de fragmentos de código",
-      "Completado automático inteligente"
+      "Generación de documentación"
     ],
     "caracteristicas": [
-      "Modelo de lenguaje grande (LLM) optimizado para código",
-      "Integración con entornos de desarrollo (IDE)",
-      "Soporte para múltiples lenguajes de programación",
-      "Interfaz de línea de comandos o plugin",
-      "Actualizaciones frecuentes de su base de conocimientos"
+      "Interfaz sencilla",
+      "Soporte para múltiples lenguajes",
+      "Integración con IDEs"
     ],
-    "etica": "Al ser una herramienta gratuita, se enfoca en la accesibilidad y el apoyo a la comunidad de desarrolladores. Se recomienda precaución con la privacidad de código sensible, y se advierte que el código generado debe ser revisado por humanos para evitar errores o sesgos.",
+    "etica": "Enfocado en la transparencia y la seguridad en el manejo de código fuente.",
     "id": "goose-6f001f",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funcionalidades básicas."
   },
   {
     "nombre": "Listen Labs",
-    "compania": "Listen Labs Inc.",
-    "tipo": "Investigación de mercado / Análisis de clientes",
-    "precio": "Freemium",
-    "descripcion": "Plataforma impulsada por IA que automatiza y escala el proceso de realización de entrevistas con clientes. Permite a las empresas obtener insights valiosos de manera eficiente y a gran escala.",
+    "compania": "Listen Labs",
+    "tipo": "Plataforma de entrevistas automatizadas",
+    "precio": "Pago",
+    "descripcion": "Plataforma impulsada por IA que automatiza y escala el proceso de realización de entrevistas con clientes.",
     "web": "https://listenlabs.ai/",
     "funciones": [
       "Automatización de entrevistas",
-      "Análisis de transcripciones de entrevistas",
-      "Identificación de patrones y tendencias",
-      "Generación de informes de insights",
-      "Segmentación de clientes basada en respuestas"
+      "Análisis de respuestas",
+      "Generación de informes"
     ],
     "caracteristicas": [
-      "Motor de IA para procesamiento de lenguaje natural (NLP)",
-      "Grabación y transcripción automática",
-      "Herramientas de análisis de sentimientos",
-      "Panel de control para gestión de entrevistas",
-      "Integración con CRM (Customer Relationship Management)"
+      "Escalabilidad",
+      "Integración con CRM",
+      "Análisis de datos en tiempo real"
     ],
-    "etica": "Prioriza la privacidad y el consentimiento de los participantes en las entrevistas, asegurando la anonimización de datos cuando sea necesario. Se esfuerza por minimizar sesgos en el análisis, aunque la interpretación final de los insights debe ser realizada por humanos.",
+    "etica": "Prioriza la privacidad de los datos de los entrevistados y la precisión en los resultados.",
     "id": "listen-labs-0c133e",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones."
   },
   {
     "nombre": "Agent 37 Cloud",
@@ -2564,7 +2549,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Fika Jobs",
@@ -2594,7 +2579,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "IdeaVault Alpha",
@@ -2632,7 +2617,7 @@
     "tipo": "Desarrollo de Aplicaciones IA / No-code/Low-code",
     "precio": "Freemium",
     "descripcion": "Una extensión de Jotform que permite a los usuarios crear aplicaciones funcionales a partir de sus ideas de forma rápida y sencilla, aprovechando la inteligencia artificial.",
-    "web": "",
+    "web": "https://www.jotform.com/ai-app-builder/",
     "funciones": [
       "Transformación de ideas en aplicaciones",
       "Generación de interfaces de usuario",
@@ -2655,7 +2640,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OpenArt Director",
@@ -2686,29 +2671,34 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Crewdle AI",
-    "descripcion": "Use every business AI tool without every subscription",
-    "precio": "Freemium",
+    "descripcion": "Use every business AI tool without every subscription.",
+    "precio": "Sin plan gratuito",
     "funciones": [
-      "Pendiente de revisión"
+      "Automatización de tareas",
+      "Análisis de datos",
+      "Generación de informes"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Acceso sin costos iniciales",
+      "Interfaz intuitiva",
+      "Soporte técnico disponible"
     ],
-    "etica": "Ficha generada automáticamente; conviene contrastar su política de privacidad y uso de datos en el sitio oficial antes de usarla.",
+    "etica": "Promueve la inclusión y el acceso equitativo a herramientas de IA.",
     "web": "",
-    "tipo": "Herramienta de IA",
-    "compania": "Desconocida",
+    "tipo": "Herramienta de uso sin suscripción",
+    "compania": "Crewdle AI",
     "id": "crewdle-ai-22e491",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funcionalidades limitadas."
   },
   {
     "nombre": "Stripe.Directory",
