@@ -36,7 +36,7 @@ jobs:
 
       - name: Buscar herramientas
         env:
-          GEMINI_API_KEY: ${{ secrets.ITACA }}
+          OPENROUTER_API_KEY: ${{ secrets.ITACA }}
           MODO_PRUEBA: ${{ inputs.modo_prueba || '0' }}
           # Opcional: fija un modelo concreto. Si se deja vacío, el script
           # prueba en orden: gemini-2.0-flash-lite, gemini-2.5-flash, gemini-2.0-flash.
