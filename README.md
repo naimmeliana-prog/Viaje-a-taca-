@@ -20,7 +20,7 @@ Cada dos días:
 1. Busca herramientas de IA **nuevas** en fuentes de lanzamientos (Product Hunt
    y medios de IA) y las **añade al catálogo automáticamente**.
 2. **Completa la ficha** de cada herramienta nueva (descripción, tipo, funciones,
-   características y nota ética) usando IA (Google Gemini).
+   características y nota ética) usando IA (modelos Open Source vía OpenRouter).
 3. Refresca una **barra lateral de noticias** de IA en español (novedades y ética).
 4. Publica todo en la web automáticamente.
 
@@ -42,7 +42,7 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
                  │     update_tools.py      │  ← el cerebro
                  │  · lee feeds RSS         │
                  │  · detecta herramientas  │
-                 │  · enriquece con Gemini  │
+                 │  · enriquece con IA (OpenRouter)  │
                  │  · genera noticias.json  │
                  └────────────┬─────────────┘
                               │ escribe
@@ -69,16 +69,16 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
 
 | Archivo | Qué es |
 |---|---|
-| `update_tools.py` | **El cerebro.** Detecta herramientas, las enriquece con Gemini, genera las noticias y mantiene el catálogo. |
+| `update_tools.py` | **El cerebro.** Detecta herramientas, las enriquece con IA (OpenRouter), genera las noticias y mantiene el catálogo. |
 | `build_js.py` | Regenera `data/herramientas.js` a partir de `herramientas.json` (lo que consume la web). |
-| `test_gemini.py` | Diagnóstico de la clave Gemini sin gastar cuota. |
+| `test_openrouter.py` | Diagnóstico de la clave IA (OpenRouter) sin gastar cuota. |
 | `herramientas.json` | El catálogo (fuente de datos principal). |
 | `noticias.json` | Titulares de IA en español para la barra lateral. |
 | `data/herramientas.js` | Catálogo embebido + cargador que lee el JSON en vivo. |
 | `barra-noticias.js` | Widget de la barra lateral de noticias. |
 | `*.html` | Las páginas del sitio (index, herramientas, comparador, etica, aprender). |
 | `.github/workflows/update-tools.yml` | Automatización principal (cron cada 2 días). |
-| `.github/workflows/test-gemini.yml` | Workflow manual para comprobar la clave Gemini. |
+| `.github/workflows/test-openrouter.yml` | Workflow manual para comprobar la clave IA (OpenRouter). |
 | `INSTRUCCIONES.md` | Guía detallada de despliegue y mantenimiento. |
 
 ---
@@ -94,15 +94,15 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
 ### 2. Fichas que se completan solas
 - Las recién añadidas se marcan `"pendiente_revision": true` y aparecen en la web
   con la etiqueta **"🆕 reciente"**.
-- Cada ciclo, **Gemini completa** las fichas pendientes (tipo, funciones, ética…).
+- Cada ciclo, **IA (OpenRouter) completa** las fichas pendientes (tipo, funciones, ética…).
   Cuando una ficha queda completa, la etiqueta **desaparece automáticamente**.
-- **Garantía de cierre:** si Gemini no pudiera, tras **3 ciclos** la ficha se cierra
+- **Garantía de cierre:** si IA (OpenRouter) no pudiera, tras **3 ciclos** la ficha se cierra
   igualmente con un texto autónomo. Nada se queda "reciente" para siempre.
 - **Autorregulación:** si hay **12 pendientes** sin cerrar, no se añaden nuevas
   hasta resolverlas (el catálogo no crece sin control).
 
 ### 3. Robustez ante errores
-- Si Gemini devuelve **error 429** (cuota), reintenta 3 veces con espera creciente
+- Si IA (OpenRouter) devuelve **error 429** (cuota), reintenta 3 veces con espera creciente
   y prueba varios modelos (`gemini-2.0-flash-lite` → `gemini-2.5-flash` →
   `gemini-2.0-flash`).
 - Si todo falla, el sistema **no se rompe**: las fichas quedan pendientes y se
@@ -122,13 +122,13 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
 ### Secrets en GitHub (`Settings → Secrets and variables → Actions`)
 | Secret | Para qué | ¿Obligatorio? |
 |---|---|---|
-| `ITACA` | Clave de la API de Google Gemini (completa las fichas). | Recomendado |
+| `ITACA` | Clave de la API de modelos Open Source vía OpenRouter (completa las fichas). | Recomendado |
 | `FTP_HOST`, `FTP_USER`, `FTP_PASS` | Subir los datos a InfinityFree por FTP. | Opcional |
 
 ### Variable opcional
 | Variable | Para qué |
 |---|---|
-| `GEMINI_MODEL` | Forzar un modelo concreto de Gemini. Si se deja vacío, se prueban varios en orden. |
+
 
 > El sitio está alojado en **InfinityFree**. El workflow sube `herramientas.json`,
 > `data/herramientas.js` y `noticias.json` a `htdocs/data/` por FTP.
@@ -141,13 +141,13 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
 
 - **Lanzar una actualización manual:** Actions → *Actualizar herramientas IA* →
   *Run workflow*.
-- **Probar la clave Gemini:** Actions → *Probar clave Gemini (ITACA)* →
+- **Probar la clave OpenRouter:** Actions → *Probar clave OpenRouter (ITACA)* →
   *Run workflow*.
 - **Editar/borrar una herramienta a mano:** edita o elimina su bloque en
   `herramientas.json`.
 - **Comprobar que la clave funciona en local:**
   ```bash
-  GEMINI_API_KEY="tu_clave" python3 test_gemini.py
+  GEMINI_API_KEY="tu_clave" python3 test_openrouter.py
   ```
 
 Para los detalles de despliegue paso a paso, ver **`INSTRUCCIONES.md`**.
