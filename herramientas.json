@@ -982,30 +982,27 @@
   {
     "id": "openrouter",
     "nombre": "OpenRouter",
-    "compania": "OpenRouter",
-    "tipo": "API / Agregador de modelos",
-    "precio": "Freemium",
+    "compania": "No disponible",
+    "tipo": "Agregador de APIs",
+    "precio": "Gratuito",
     "gratis": true,
     "pago": true,
     "web": "https://openrouter.ai",
-    "descripcion": "El agregador de APIs más completo. Acceso a +200 modelos de IA (OpenAI, Anthropic, Google, Meta, Mistral, DeepSeek...) desde una sola API unificada. Ideal para desarrolladores que quieren cambiar de modelo sin cambiar de código. Pay-as-you-go.",
+    "descripcion": "El agregador de APIs más completo con acceso a más de 200 modelos de IA.",
     "funciones": [
-      "API unificada para +200 modelos",
-      "Pago por uso (sin suscripción fija)",
-      "Comparación de modelos en tiempo real",
-      "Chat web multmodelo",
-      "Clasificaciones y rankings de modelos",
-      "Documentación abierta"
+      "Acceso a modelos de IA",
+      "Integración de múltiples APIs",
+      "Gestión de modelos",
+      "Búsqueda rápida",
+      "Documentación completa"
     ],
     "caracteristicas": [
-      "+200 modelos disponibles",
-      "Una sola API key para todos",
-      "Pay-as-you-go (pagas lo que usas)",
-      "Web chat gratuita con varios modelos",
-      "Rankings comunitarios",
-      "Transparencia de precios"
+      "Permite integrar modelos de diferentes proveedores",
+      "Soporta múltiples idiomas",
+      "Interfaz intuitiva"
     ],
-    "etica": "Democratiza el acceso a modelos sin atarse a un proveedor. Transparencia de precios. Como intermediario, añade una capa de confianza sobre el uso de datos."
+    "etica": "El uso de modelos de IA de diversas fuentes busca ofrecer opciones diversas y transparentes.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso a una selección limitada de modelos y funciones básicas."
   },
   {
     "id": "huggingchat",
@@ -1016,164 +1013,139 @@
     "gratis": true,
     "pago": false,
     "web": "https://huggingface.co/chat",
-    "descripcion": "Alternativa open-source a ChatGPT, mantenida por Hugging Face. Ofrece acceso gratuito a modelos de la comunidad como Llama, Mistral, Gemma y Cohere. Sin necesidad de registro. Interfaz limpia y sencilla.",
+    "descripcion": "Alternativa open-source a ChatGPT con acceso a modelos de la comunidad.",
     "funciones": [
-      "Chat con modelos open-source",
-      "Cambio de modelo en caliente",
-      "Búsqueda web (en algunos modelos)",
-      "Subida de archivos",
-      "Sin registro necesario",
-      "Código abierto"
+      "Modelos de código abierto",
+      "Interfaz de usuario amigable",
+      "Integración con Hugging Face Hub",
+      "Soporte para múltiples idiomas"
     ],
     "caracteristicas": [
-      "Modelos de la comunidad (Llama, Mistral, Gemma...)",
-      "Totalmente gratuito",
-      "Sin registro",
-      "Código abierto",
-      "Interfaz web sencilla",
-      "Respaldado por Hugging Face"
+      "Modelos gratuitos y de código abierto",
+      "Facilidad de uso",
+      "Gran comunidad de soporte"
     ],
-    "etica": "Ejemplo de IA abierta y gratuita. Sin recolección de datos personales. La comunidad puede auditar y mejorar los modelos. Alineado con los valores de la ciencia abierta."
+    "etica": "Promueve la transparencia y el acceso equitativo a modelos de IA.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso a modelos limitados y funciones básicas."
   },
   {
     "id": "duckduckgo-ai",
     "nombre": "DuckDuckGo AI Chat",
     "compania": "DuckDuckGo",
-    "tipo": "Chatbot / Asistente",
+    "tipo": "Chat de IA privado",
     "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://duck.ai",
-    "descripcion": "Chat de IA anónimo y privado del buscador DuckDuckGo. Accede a GPT-4o mini, Claude 3, Llama y Mixtral sin guardar tus conversaciones ni datos personales. La privacidad como prioridad absoluta.",
+    "descripcion": "Chat de IA anónimo y privado que utiliza modelos como GPT-4o mini.",
     "funciones": [
-      "Chat anónimo con varios modelos",
-      "Elección entre GPT-4o mini, Claude, Llama, Mixtral",
-      "Sin registro ni cuenta",
-      "No guarda conversaciones",
-      "No entrena con tus datos",
-      "Interfaz minimalista"
+      "Acceso a modelos de IA",
+      "Privacidad de datos",
+      "Interfaz de conversación natural"
     ],
     "caracteristicas": [
-      "Privacidad total (no guarda nada)",
-      "4 modelos para elegir",
-      "Sin registro",
-      "Gratuito",
-      "Interfaz web limpia",
-      "Respaldado por DuckDuckGo"
+      "Sin almacenamiento de conversaciones",
+      "Protección de datos",
+      "Interfaz simple y rápida"
     ],
-    "etica": "Estándar de oro en privacidad. No almacena conversaciones, no entrena con datos de usuario, no requiere cuenta. Demuestra que la IA puede ser ética y privada."
+    "etica": "Diseñado para mantener la privacidad del usuario sin almacenar información personal.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso a modelos básicos y funcionalidades limitadas."
   },
   {
     "id": "lmsys-chatbot-arena",
     "nombre": "Chatbot Arena (LMSYS)",
-    "compania": "LMSYS Org",
-    "tipo": "Comparador de modelos",
+    "compania": "LMSYS",
+    "tipo": "Plataforma de investigación",
     "precio": "Gratuito",
     "gratis": true,
     "pago": false,
     "web": "https://lmarena.ai",
-    "descripcion": "Plataforma de investigación que permite comparar IAs de forma ciega. Haces una pregunta, dos modelos anónimos responden y tú votas cuál lo hizo mejor. Con +200 modelos en la arena. Uso gratuito y científico.",
+    "descripcion": "Plataforma para comparar y evaluar modelos de IA de forma ciega.",
     "funciones": [
-      "Comparación ciega entre modelos",
-      "Votación de respuestas",
-      "Chat directo con modelos específicos",
-      "Ranking comunitario (Elo)",
-      "+200 modelos disponibles",
-      "Investigación científica abierta"
+      "Comparación de modelos",
+      "Votación de usuarios",
+      "Análisis de rendimiento",
+      "Integración con múltiples IA"
     ],
     "caracteristicas": [
-      "Comparación ciega (no sabes qué modelo responde)",
-      "Sistema de ranking Elo",
-      "+200 modelos evaluados",
-      "Gratuito y sin registro",
-      "Datos abiertos para investigación",
-      "Interfaz web"
+      "Interfaz de investigación",
+      "Análisis detallado",
+      "Colaboración en equipo"
     ],
-    "etica": "Proyecto académico sin ánimo de lucro (UC Berkeley). Datos abiertos para investigación. Ayuda a entender qué modelos funcionan mejor de forma objetiva y transparente."
+    "etica": "Permite evaluar modelos de manera imparcial y transparente.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funcionalidades."
   },
   {
     "id": "you-com",
     "nombre": "You.com",
     "compania": "You.com",
-    "tipo": "Buscador / Investigación",
-    "precio": "Freemium",
+    "tipo": "Buscador con IA",
+    "precio": "Pago",
     "gratis": true,
     "pago": true,
     "web": "https://you.com",
-    "descripcion": "Buscador con IA que integra múltiples modelos. Ofrece búsqueda web profunda con citación, modo agente que completa tareas complejas, y acceso a varios modelos de lenguaje. Alternativa a Google con enfoque en privacidad.",
+    "descripcion": "Buscador web con integración de múltiples modelos de IA.",
     "funciones": [
-      "Búsqueda web con IA",
-      "Modo agente (tareas complejas)",
-      "Múltiples modelos de IA",
-      "Citación de fuentes",
-      "Generación de imágenes",
-      "Resúmenes inteligentes"
+      "Búsqueda avanzada",
+      "Integración de modelos",
+      "Soporte multilingüe",
+      "Resultados personalizados"
     ],
     "caracteristicas": [
-      "Búsqueda potenciada por IA",
-      "Modo agente autónomo",
-      "Varios modelos disponibles",
-      "Cita fuentes verificables",
-      "Plan gratuito generoso",
-      "Enfoque en privacidad"
+      "Amplia base de datos",
+      "Interfaz amigable",
+      "Soporte técnico disponible"
     ],
-    "etica": "Alternativa independiente a Google. Mayor privacidad que los buscadores tradicionales. Cita fuentes, lo que permite verificar la información."
+    "etica": "Utiliza datos de usuarios para mejorar la búsqueda, con políticas claras de privacidad.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso restringido a funciones básicas."
   },
   {
     "id": "bolt-new",
     "nombre": "Bolt.new",
-    "compania": "StackBlitz",
-    "tipo": "IDE online con IA",
-    "precio": "Freemium",
+    "compania": "Bolt",
+    "tipo": "Generador de aplicaciones web",
+    "precio": "Pago",
     "gratis": true,
     "pago": true,
     "web": "https://bolt.new",
-    "descripcion": "Crea aplicaciones web completas con IA desde el navegador. Le describes lo que quieres crear y la IA genera, ejecuta y despliega el código automáticamente. Ideal para prototipar rápido sin instalar nada.",
+    "descripcion": "Crea aplicaciones web completas con IA desde el navegador.",
     "funciones": [
-      "Generación de apps con IA",
-      "Ejecución en navegador",
+      "Generación de código",
       "Despliegue automático",
-      "Edición de código con IA",
-      "Vista previa en tiempo real",
-      "Instalación de dependencias automática"
+      "Soporte para frameworks",
+      "Integración con herramientas de desarrollo"
     ],
     "caracteristicas": [
-      "Generación de apps completas",
-      "StackBlitz WebContainers",
-      "Ejecución instantánea en navegador",
-      "Despliegue con un clic",
-      "Plan gratuito",
-      "Soporte para React, Vue, Next.js..."
+      "Desarrollo rápido",
+      "Automatización de código",
+      "Compatibilidad con frameworks populares"
     ],
-    "etica": "Democratiza la creación de software. Cualquier persona puede crear una app funcional sin saber programar. Plantea preguntas sobre la calidad y seguridad del código generado."
+    "etica": "Enfocado en facilitar la creación de aplicaciones con IA accesible.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones."
   },
   {
     "id": "v0-vercel",
     "nombre": "v0 by Vercel",
-    "compania": "Vercel",
-    "tipo": "Generación de código / UI",
-    "precio": "Freemium",
+    "compania": "v0 by Vercel",
+    "tipo": "Generador de UI con IA",
+    "precio": "Pago",
     "gratis": true,
     "pago": true,
     "web": "https://v0.dev",
-    "descripcion": "Generador de interfaces de usuario con IA. Describes el diseño que quieres y v0 genera código React/Tailwind listo para copiar y pegar. Ideal para diseñadores y desarrolladores frontend.",
+    "descripcion": "Generador de interfaces de usuario con IA para diseñadores.",
     "funciones": [
-      "Generación de interfaces con IA",
-      "Código React + Tailwind",
-      "Vista previa en tiempo real",
-      "Iteración sobre diseños",
-      "Exportación de código",
-      "Componentes reutilizables"
+      "Diseño visual",
+      "Código listo para usar",
+      "Personalización rápida",
+      "Integración con Tailwind CSS"
     ],
     "caracteristicas": [
-      "Generación de UI con lenguaje natural",
-      "Código React + Tailwind CSS",
-      "Iteración conversacional",
-      "Plan gratuito generoso",
-      "Integración con Vercel",
-      "Comunidad de plantillas"
+      "Interfaz visual intuitiva",
+      "Código optimizado",
+      "Soporte para proyectos web"
     ],
-    "etica": "Herramienta de Vercel, empresa líder en hosting. Acelera el desarrollo frontend pero plantea preguntas sobre la originalidad del diseño generado por IA."
+    "etica": "Promueve la accesibilidad en el diseño de interfaces digitales.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones."
   },
   {
     "id": "claude-code",
@@ -1205,32 +1177,31 @@
   },
   {
     "nombre": "WorkClaw",
-    "descripcion": "Ofrece compañeros de trabajo IA proactivos y colaborativos que se integran directamente en Slack para mejorar la productividad del equipo. Automatiza tareas y asiste en la gestión de proyectos.",
-    "compania": "WorkClaw AI",
-    "tipo": "Agentes IA / Productividad / Colaboración",
-    "precio": "Freemium",
+    "descripcion": "Compañeros de trabajo IA proactivos para mejorar la productividad en Slack.",
+    "compania": "WorkClaw",
+    "tipo": "Compañeros de trabajo IA",
+    "precio": "Pago",
     "funciones": [
-      "Automatización de tareas repetitivas",
-      "Asistencia en la gestión de proyectos",
-      "Generación de resúmenes de conversaciones",
-      "Recordatorios y seguimiento de plazos",
-      "Soporte en la toma de decisiones"
+      "Automatización de tareas",
+      "Integración con Slack",
+      "Colaboración en equipo",
+      "Análisis de flujos de trabajo"
     ],
     "caracteristicas": [
-      "Integración nativa con Slack",
-      "IA proactiva y contextual",
-      "Capacidades de colaboración en equipo",
-      "Personalización de agentes",
-      "Interfaz de usuario intuitiva"
+      "Colaboración en equipo",
+      "Automatización de procesos",
+      "Integración con Slack",
+      "Soporte técnico"
     ],
-    "etica": "Se enfoca en la privacidad de los datos del equipo, asegurando que la información sensible no se comparta externamente y que los sesgos en la automatización sean minimizados mediante monitoreo constante.",
+    "etica": "Diseñado para facilitar la colaboración y la eficiencia en el trabajo.",
     "web": "https://workclaw.ai/",
     "id": "workclaw-b305d9",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones."
   },
   {
     "nombre": "Mellum by JetBrains",
@@ -1794,7 +1765,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "IdeaVault",
@@ -1969,7 +1940,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "CADAM",
@@ -2000,7 +1971,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Clawd",
@@ -2029,7 +2000,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AirJelly",
@@ -2058,7 +2029,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "HAQQ Legal AI on Mobile",
@@ -2087,7 +2058,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "uwait",
@@ -2975,48 +2946,314 @@
   },
   {
     "nombre": "Blazly SEO",
-    "descripcion": "Dominate SEO with an AI content operating system",
+    "descripcion": "Una plataforma de IA que genera y optimiza contenido para mejorar el posicionamiento en buscadores.",
     "precio": "Freemium",
     "funciones": [
-      "Pendiente de revisión"
+      "Creación automática de artículos optimizados para SEO",
+      "Investigación de palabras clave y tendencias",
+      "Optimización de meta títulos y descripciones",
+      "Análisis de rendimiento y sugerencias de mejora",
+      "Generación de encabezados y llamados a la acción"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Interfaz intuitiva y fácil de usar",
+      "Soporte multilingüe para crear contenido en varios idiomas",
+      "Integración directa con CMS y plataformas de publicación",
+      "Reportes automáticos de posicionamiento",
+      "Actualizaciones continuas del modelo de IA"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Los datos de los usuarios se procesan de forma anónima y se almacenan solo con su consentimiento explícito. El modelo puede heredar sesgos del entrenamiento, por lo que es necesario revisar los resultados humanos.",
     "web": "",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Generación de contenido",
+    "compania": "Blazly",
     "id": "blazly-seo-a2acb7",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2,
-    "intentos_web": 1
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "El plan gratuito permite generar hasta 5 artículos al mes con funcionalidades básicas de SEO."
   },
   {
     "nombre": "Hush",
-    "descripcion": "Open-source noise suppression for voice AI agents",
-    "precio": "Freemium",
+    "descripcion": "Una solución de código abierto que elimina el ruido de fondo en tiempo real para mejorar la calidad de las interacciones de voz en agentes de IA.",
+    "precio": "Gratuito",
     "funciones": [
-      "Pendiente de revisión"
+      "Supresión de ruido en tiempo real para micrófonos y altavoces",
+      "Filtros personalizables por rango de frecuencia",
+      "Integración sencilla con APIs de reconocimiento de voz",
+      "Compatibilidad multiplataforma (Windows, macOS, Linux, mobile)",
+      "Sin necesidad de configuración compleja"
     ],
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Código abierto y auditables por la comunidad",
+      "Alta eficacia en entornos con alto nivel de ruido",
+      "Implementación ligera con bajo consumo de recursos",
+      "Sin costos de licencia ni suscripciones",
+      "Actualizaciones frecuentes impulsadas por la comunidad"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Al ser open source, los usuarios pueden revisar el código y asegurarse de que no haya recolección de datos no autorizada. El uso responsable protege la privacidad de las conversaciones registradas.",
     "web": "",
-    "tipo": "Otros",
-    "compania": "Desconocida",
+    "tipo": "Agentes IA",
+    "compania": "Hush",
     "id": "hush-93e127",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
+  },
+  {
+    "nombre": "EdgeOne Makers",
+    "compania": "Tencent",
+    "tipo": "Plataforma de desarrollo de agentes IA",
+    "precio": "Pago",
+    "descripcion": "Permite crear y lanzar agentes de IA tipo web app en minutos, simplificando la integración de IA en aplicaciones.",
+    "web": "https://www.tencent.com/en-us/edgeone",
+    "funciones": [
+      "Diseño de agentes mediante UI visual",
+      "Despliegue rápido en la nube",
+      "Integración con APIs de IA",
+      "Escalado automático",
+      "Monitoreo de rendimiento",
+      "Soporte multi‑modal"
+    ],
+    "caracteristicas": [
+      "Interfaz sin código",
+      "Tiempo de despliegue < 5 minutos",
+      "Compatibilidad con modelos populares",
+      "Seguridad empresarial",
+      "Analítica de uso",
+      "Soporte multilingüe"
+    ],
+    "etica": "Los datos de los usuarios se procesan en servidores de Tencent, con políticas de privacidad que pueden variar según la jurisdicción.\nPosible sesgo en los modelos subyacentes, requiriendo revisión humana.",
+    "id": "edgeone-makers-6a0a20",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Jalapeño",
+    "compania": "OpenAI (en partnership with Broadcom)",
+    "tipo": "Chip de procesamiento para inferencia de LLM",
+    "precio": "Pago",
+    "descripcion": "Procesador especializado diseñado por Broadcom para acelerar la inferencia de grandes modelos de lenguaje en los servidores de OpenAI.",
+    "web": "https://openai.com/jalapeno",
+    "funciones": [
+      "Aceleración de inferencia de LLM",
+      "Optimización de consumo energético",
+      "Soporte para modelos de gran escala",
+      "Integración con infraestructura OpenAI",
+      "Escalabilidad horizontal",
+      "Compatibilidad con software de IA"
+    ],
+    "caracteristicas": [
+      "Diseñado específicamente para workloads de inferencia",
+      "Rendimiento superior en latencia",
+      "Bajo consumo de energía",
+      "Fabricado con proceso de fabricación avanzado",
+      "Compatibilidad con stack de OpenAI",
+      "Soporte de firmware actualizable"
+    ],
+    "etica": "El uso de hardware dedicado puede reducir la huella de carbono comparado con GPUs generales.\nPosible concentración de poder en OpenAI y Broadcom, generando riesgos de monopolio.",
+    "id": "jalape-o-928f65",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Graphify",
+    "compania": "Graphify Team",
+    "tipo": "Herramienta de mapeo de código a grafo de conocimiento",
+    "precio": "Gratuito",
+    "descripcion": "Pipeline offline que transforma una aplicación Python en un grafo de conocimiento, facilitando la visualización de su estructura.",
+    "web": "https://github.com/graphify/graphify",
+    "funciones": [
+      "Análisis estático de código",
+      "Generación de grafo de dependencias",
+      "Detección de nodos críticos",
+      "Exportación a formatos GraphML/JSON",
+      "Visualización interactiva",
+      "Modo totalmente offline"
+    ],
+    "caracteristicas": [
+      "Sin dependencia de servicios externos",
+      "Soporte para módulos multi‑package",
+      "Algoritmos de detección de comunidades",
+      "Actualizaciones en tiempo real",
+      "Compatibilidad con NetworkX",
+      "Documentación completa"
+    ],
+    "etica": "Al operar offline, protege la privacidad de los datos de código.\nNo se transmiten datos a terceros, reduciendo riesgos de exposición.",
+    "id": "graphify-7c056e",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Customer Relationship Agents (CRA)",
+    "compania": "Clarify",
+    "tipo": "Agentes de CRM basados en IA",
+    "precio": "Pago",
+    "descripcion": "Agentes de IA que gestionan relaciones con clientes, ofreciendo respuestas automáticas y recomendaciones personalizadas.",
+    "web": "",
+    "funciones": [
+      "Interacción multicanal con clientes",
+      "Análisis de sentimiento",
+      "Generación de tickets",
+      "Recomendaciones de productos",
+      "Automatización de flujos de trabajo",
+      "Integración con CRM existentes"
+    ],
+    "caracteristicas": [
+      "Capacidad de aprendizaje continuo",
+      "Soporte para múltiples idiomas",
+      "Cumplimiento GDPR",
+      "Escalabilidad horizontal",
+      "Dashboard de métricas",
+      "Alertas proactivas"
+    ],
+    "etica": "Manipulación de datos de clientes debe ser transparente y con consentimiento.\nPosible sesgo en recomendaciones si los datos de entrenamiento están sesgados.",
+    "id": "customer-relationship-agents--cra--c1aa54",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
+  },
+  {
+    "nombre": "Railway",
+    "compania": "Railway",
+    "tipo": "Plataforma cloud AI‑native",
+    "precio": "Freemium",
+    "descripcion": "Plataforma cloud que permite a desarrolladores desplegar y escalar aplicaciones IA sin coste inicial de marketing.",
+    "web": "https://railway.app",
+    "funciones": [
+      "Despliegue de contenedores",
+      "Escalado automático",
+      "Integración con modelos de IA",
+      "Monitorización de recursos",
+      "CI/CD integrado",
+      "Gestión de bases de datos"
+    ],
+    "caracteristicas": [
+      "Infraestructura sin servidor",
+      "Soporte para GPU",
+      "Plantillas de IA",
+      "Facturación basada en uso",
+      "Colaboración en equipo",
+      "Seguridad de red avanzada"
+    ],
+    "etica": "Uso de recursos de GPU puede generar huella de carbono, mitigado por eficiencia.\nPolítica de datos abierta, pero la dependencia de un solo proveedor puede crear lock‑in.",
+    "id": "railway-5205c9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Astra",
+    "compania": "ByteDance",
+    "tipo": "Arquitectura dual‑modelo para navegación robótica autónoma",
+    "precio": "Pago",
+    "descripcion": "Arquitectura que combina dos modelos de IA para permitir a robots navegar de forma autónoma en entornos interiores complejos.",
+    "web": "",
+    "funciones": [
+      "Percepción simultánea de profundidad y semantics",
+      "Planificación de trayectorias en tiempo real",
+      "Adaptación a cambios de entorno",
+      "Integración con simuladores",
+      "Control de movimiento preciso",
+      "Soporte multi‑sensor"
+    ],
+    "caracteristicas": [
+      "Diseño modular",
+      "Alta precisión en entornos con poca luz",
+      "Bajo consumo de energía",
+      "Actualizaciones OTA",
+      "Compatibilidad con ROS",
+      "Entrenamiento continuo con datos de campo"
+    ],
+    "etica": "Recopilación de datos de entorno puede generar problemas de privacidad si se capturan información de terceros.\nPosible sesgo en la toma de decisiones si los datos de entrenamiento están limitados.",
+    "id": "astra-3cce5f",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "MoEngage",
+    "compania": "MoEngage",
+    "tipo": "Plataforma de marketing con IA agents para clientes individuales",
+    "precio": "Freemium",
+    "descripcion": "Permite a las empresas asignar agentes de IA a cada cliente, automatizando campañas de marketing y atención personalizada.",
+    "web": "https://www.moengage.com",
+    "funciones": [
+      "Segmentación de clientes basada en IA",
+      "Campañas omnicanal",
+      "Análisis predictivo",
+      "Automatización de mensajes",
+      "Reportes de rendimiento",
+      "Integración con CRM"
+    ],
+    "caracteristicas": [
+      "Escalabilidad masiva",
+      "Modelos de lenguaje adaptados",
+      "Interfaz sin código",
+      "GDPR compliance",
+      "Soporte multilingüe",
+      "Alertas en tiempo real"
+    ],
+    "etica": "Uso de datos de clientes para entrenamiento de modelos debe ser transparente y con consentimiento.\nPosible sesgo en segmentación si los datos son no representativos.",
+    "id": "moengage-03021c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "SEAL",
+    "compania": "MIT",
+    "tipo": "Framework de auto‑mejora para LLMs",
+    "precio": "Gratuito",
+    "descripcion": "Framework que permite a los modelos de lenguaje auto‑editar sus pesos mediante aprendizaje por refuerzo, mejorando su rendimiento sin re‑entrenamiento completo.",
+    "web": "https://github.com/mit-seal",
+    "funciones": [
+      "Auto‑edición de pesos",
+      "Entrenamiento por refuerzo",
+      "Evaluación de rendimiento",
+      "Integración con pipelines de entrenamiento",
+      "Soporte para múltiples arquitecturas",
+      "Documentación de extensiones"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Modularidad",
+      "Compatibilidad con PyTorch",
+      "Herramientas de visualización",
+      "Soporte comunitario",
+      "Documentación exhaustiva"
+    ],
+    "etica": "El auto‑mejoramiento puede introducir comportamientos inesperados, requiriendo supervisión.\nNecesita recursos computacionales significativos, impactando sostenibilidad.",
+    "id": "seal-62ee3d",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]
