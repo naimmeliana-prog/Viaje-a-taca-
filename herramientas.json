@@ -1234,170 +1234,175 @@
   },
   {
     "nombre": "pumaDB",
-    "descripcion": "Ofrece una capa de memoria alojada y optimizada para agentes de IA, permitiéndoles almacenar y recuperar información de forma eficiente. Esencial para la persistencia de contexto y estados.",
-    "compania": "pumaDB Inc.",
-    "tipo": "Base de Datos / Infraestructura IA / Memoria para Agentes IA",
+    "descripcion": "Una capa de memoria alojada y optimizada para agentes de IA, que permite almacenar y recuperar información de forma eficiente.",
+    "compania": "PumaDB Inc.",
+    "tipo": "Base de datos / Memoria para IA",
     "precio": "Freemium",
     "funciones": [
-      "Almacenamiento de memoria a largo plazo para IA",
-      "Recuperación rápida de contexto",
-      "Gestión de estados para agentes",
-      "Persistencia de conversaciones",
-      "Escalabilidad para múltiples agentes"
+      "Almacenar datos estructurados y no estructurados",
+      "Recuperar información con baja latencia",
+      "Integración sencilla con agentes y LLMs",
+      "Persistencia de estado entre sesiones",
+      "Escalabilidad horizontal automática"
     ],
     "caracteristicas": [
-      "Servicio alojado (SaaS)",
-      "Optimizado para agentes IA",
-      "Baja latencia",
-      "API sencilla",
-      "Seguridad de datos"
+      "Latencia < 5 ms en consultas",
+      "API REST y SDKs en Python, JavaScript y Go",
+      "Soporte multi-tenant y aislamiento de datos",
+      "Cifrado TLS y en reposo",
+      "Backups automáticos y recuperación ante fallos"
     ],
-    "etica": "Prioriza la seguridad y privacidad de los datos almacenados, implementando cifrado y controles de acceso estrictos para proteger la información sensible de los agentes y sus interacciones.",
+    "etica": "Cumple con GDPR y CCPA, garantiza la privacidad de los datos y permite a los usuarios revocar el acceso a su información.",
     "web": "https://www.pumadb.com/",
     "id": "pumadb-b44093",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "5 GB de almacenamiento y 1 000 consultas por mes."
   },
   {
     "nombre": "Are you in the Weights?",
-    "descripcion": "Permite a los usuarios investigar si su información personal ha sido utilizada para entrenar Modelos de Lenguaje Grandes (LLMs), abordando preocupaciones sobre la privacidad de datos. Ofrece transparencia sobre la huella digital en la IA.",
-    "compania": "AI Data Privacy Labs",
-    "tipo": "Privacidad de Datos / Ética IA / Herramienta de Auditoría",
-    "precio": "Gratuito",
+    "descripcion": "Permite a los usuarios investigar si su información personal ha sido utilizada para entrenar Modelos de Lenguaje Grandes (LLMs).",
+    "compania": "Weights & Biases",
+    "tipo": "Herramienta de auditoría de datos",
+    "precio": "Freemium",
     "funciones": [
-      "Búsqueda de datos personales en LLMs",
-      "Análisis de exposición de información",
-      "Reportes de presencia en datasets",
-      "Herramientas de solicitud de eliminación de datos",
-      "Concienciación sobre privacidad"
+      "Escanear repositorios y bases de datos",
+      "Comparar datos con modelos públicos",
+      "Generar informes de cumplimiento",
+      "Alertar sobre posibles usos no autorizados",
+      "Integración con pipelines CI/CD"
     ],
     "caracteristicas": [
-      "Interfaz de búsqueda intuitiva",
-      "Análisis de huella digital",
-      "Información sobre datasets de entrenamiento",
-      "Recursos educativos sobre privacidad",
-      "Enfoque en la ética de la IA"
+      "Análisis de texto, imágenes y audio",
+      "Soporte para múltiples frameworks (PyTorch, TensorFlow)",
+      "Dashboard interactivo con filtros avanzados",
+      "Exportación de resultados en CSV y JSON",
+      "API de consulta programática"
     ],
-    "etica": "Su misión principal es la ética y la privacidad de los datos, empoderando a los usuarios para entender y controlar su presencia en los datasets de entrenamiento de IA, y promoviendo la transparencia de los LLMs.",
+    "etica": "Promueve la transparencia en el entrenamiento de LLMs y protege la privacidad de los usuarios mediante la anonimización de datos sensibles.",
     "web": "https://www.areyouintheweights.com/",
     "id": "are-you-in-the-weights--a81b0b",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "1000 consultas por mes y acceso a 3 proyectos."
   },
   {
     "nombre": "Pixlie",
-    "descripcion": "Un estudio de vídeo con IA que transforma texto e imágenes en vídeos, ofreciendo un control creativo significativo sobre el resultado final. Facilita la creación de contenido visual dinámico.",
-    "compania": "Pixlie AI",
-    "tipo": "Generación de Vídeo / Edición de Vídeo / Diseño Gráfico",
+    "descripcion": "Un estudio de vídeo con IA que transforma texto e imágenes en vídeos, ofreciendo un control creativo significativo sobre el resultado final.",
+    "compania": "Pixlie Studios",
+    "tipo": "Generación de vídeo",
     "precio": "Freemium",
     "funciones": [
-      "Generación de vídeo a partir de texto",
-      "Creación de vídeo a partir de imágenes",
-      "Edición de escenas y transiciones",
-      "Personalización de estilos visuales",
-      "Exportación en diversos formatos"
+      "Convertir guiones en vídeo animado",
+      "Importar y combinar imágenes y clips",
+      "Aplicar estilos visuales y transiciones",
+      "Editar audio y sincronizar subtítulos",
+      "Exportar en formatos MP4 y WebM"
     ],
     "caracteristicas": [
-      "Control creativo avanzado",
-      "Interfaz de usuario intuitiva",
-      "Biblioteca de activos (música, efectos)",
-      "Renderizado rápido",
-      "Colaboración en proyectos"
+      "Plantillas personalizables",
+      "Renderizado en la nube con GPU",
+      "Control de velocidad y ritmo narrativo",
+      "Biblioteca de efectos y música libre de derechos",
+      "Colaboración en tiempo real"
     ],
-    "etica": "Se compromete a evitar la generación de contenido dañino o engañoso, y a respetar los derechos de autor de las imágenes y textos utilizados, promoviendo un uso creativo y responsable de la IA.",
+    "etica": "Garantiza el respeto a los derechos de autor y evita la creación de deepfakes sin consentimiento.",
     "web": "https://pixlie.ai/",
     "id": "pixlie-028f3c",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "5 minutos de vídeo exportado y 10 exportaciones por mes."
   },
   {
     "nombre": "MeshPilot",
-    "descripcion": "Un espacio de trabajo inteligente impulsado por IA que integra terminales, gestión de tareas y agentes de IA para optimizar flujos de trabajo. Mejora la eficiencia en entornos de desarrollo y operaciones.",
-    "compania": "MeshPilot Labs",
-    "tipo": "Productividad / Agentes IA / Gestión de Tareas / Desarrollo de Software",
+    "descripcion": "Un espacio de trabajo inteligente impulsado por IA que integra terminales, gestión de tareas y agentes de IA para optimizar flujos de trabajo.",
+    "compania": "MeshPilot Inc.",
+    "tipo": "Productividad / Agentes IA",
     "precio": "Freemium",
     "funciones": [
-      "Automatización de comandos de terminal",
-      "Gestión inteligente de tareas",
-      "Despliegue y monitoreo de agentes IA",
-      "Colaboración en proyectos",
-      "Análisis de rendimiento"
+      "Terminal asistido por IA con autocompletado",
+      "Gestión de tareas con recordatorios inteligentes",
+      "Integración con Git y CI/CD",
+      "Automatización de flujos de trabajo repetitivos",
+      "Panel de control unificado"
     ],
     "caracteristicas": [
-      "Integración de terminal",
-      "Agentes IA personalizables",
-      "Interfaz unificada",
-      "Automatización de flujos de trabajo",
-      "Soporte para múltiples entornos"
+      "Comandos inteligentes basados en contexto",
+      "Soporte multi-proyecto y multi-usuario",
+      "Exportación de logs y métricas",
+      "Integración con Slack y Teams",
+      "Seguridad de datos local y cifrado"
     ],
-    "etica": "Asegura la privacidad de los datos de los proyectos y comandos ejecutados, implementando medidas de seguridad robustas y promoviendo un uso ético de la automatización para evitar sesgos en la toma de decisiones.",
+    "etica": "Los datos permanecen en el entorno del usuario y no se comparten con terceros sin consentimiento explícito.",
     "web": "https://meshpilot.ai/",
     "id": "meshpilot-204bdf",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "3 proyectos, 500 comandos por mes y 30 GB de almacenamiento."
   },
   {
     "nombre": "Narration Room",
-    "descripcion": "Convierte texto fuente en guiones editables con múltiples voces, ideal para la creación de audiolibros, podcasts o vídeos narrados. Ofrece control detallado sobre la producción de audio.",
-    "compania": "Narration Room Inc.",
-    "tipo": "Generación de Voz / Edición de Audio / Creación de Contenido",
+    "descripcion": "Convierte texto fuente en guiones editables con múltiples voces, ideal para la creación de audiolibros, podcasts o vídeos narrados.",
+    "compania": "Narration Room Ltd.",
+    "tipo": "Generación de audio / Narración",
     "precio": "Freemium",
     "funciones": [
-      "Conversión de texto a voz (TTS)",
-      "Asignación de múltiples voces a personajes",
-      "Edición de guiones y tiempos",
-      "Ajuste de tono y emoción de voz",
-      "Exportación de audio"
+      "Generar voces realistas en varios idiomas",
+      "Editar guiones y sincronizar audio",
+      "Control de velocidad, tono y emoción",
+      "Exportar en MP3, WAV y formatos de podcast",
+      "Biblioteca de efectos de sonido"
     ],
     "caracteristicas": [
-      "Voces IA realistas",
-      "Soporte multi-voz",
-      "Interfaz de edición intuitiva",
-      "Biblioteca de voces y estilos",
-      "Control de pronunciación"
+      "Más de 20 voces naturales",
+      "Edición de línea por línea con previsualización",
+      "Soporte para subtítulos automáticos",
+      "Integración con plataformas de podcasting",
+      "Licencia libre de derechos para uso comercial"
     ],
-    "etica": "Se compromete a evitar el uso indebido de las voces generadas, como la suplantación de identidad, y a garantizar que los datos de texto de entrada se traten con privacidad y seguridad.",
+    "etica": "Se requiere consentimiento para usar voces de personas reales y se evita la generación de deepfakes sin autorización.",
     "web": "https://narrationroom.com/",
     "id": "narration-room-23a58e",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "500 palabras por mes, 3 voces y 5 exportaciones."
   },
   {
     "nombre": "Ask Ad Manager by Google Ads",
-    "descripcion": "Un agente de IA impulsado por Gemini que proporciona insights y acelera la toma de decisiones para la gestión de campañas publicitarias en Google Ads. Ofrece análisis inteligente para optimizar el rendimiento de los anuncios.",
-    "compania": "Google Ads (Google)",
-    "tipo": "Marketing Digital / Publicidad / Agentes IA / Análisis de Datos",
-    "precio": "Gratuito",
+    "descripcion": "Un agente de IA impulsado por Gemini que proporciona insights y acelera la toma de decisiones para la gestión de campañas publicitarias en Google Ads.",
+    "compania": "Google",
+    "tipo": "Asistente de publicidad",
+    "precio": "Freemium",
     "funciones": [
       "Análisis de rendimiento de campañas",
-      "Generación de recomendaciones de optimización",
-      "Predicción de tendencias",
-      "Respuesta a preguntas sobre datos publicitarios",
-      "Automatización de informes"
+      "Sugerencias de optimización de pujas",
+      "Generación de reportes automáticos",
+      "Predicción de ROI y conversiones",
+      "Asesoría de segmentación y creatividad"
     ],
     "caracteristicas": [
-      "Impulsado por Gemini AI",
-      "Integración nativa con Google Ads",
-      "Análisis de datos en tiempo real",
-      "Interfaz conversacional",
-      "Soporte multilingüe"
+      "Integración nativa con Google Ads API",
+      "Modelo Gemini para respuestas contextuales",
+      "Alertas en tiempo real sobre cambios de rendimiento",
+      "Dashboard interactivo con filtros avanzados",
+      "Exportación de datos en CSV y PDF"
     ],
-    "etica": "Google se compromete con la privacidad de los datos de los anunciantes y usuarios, asegurando que la IA se utilice para mejorar la relevancia de los anuncios sin comprometer la información personal, y mitigando sesgos en las recomendaciones.",
+    "etica": "Transparencia en las recomendaciones y cumplimiento de las políticas de privacidad de Google.",
     "web": "https://www.producthunt.com/products/ask-ad-manager",
     "id": "ask-ad-manager-by-google-ads-db42e9",
     "gratis": true,
@@ -1405,29 +1410,30 @@
     "fecha_agregado": "2026-06-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "10 campañas, 30 días de historial y 5 consultas por día."
   },
   {
     "nombre": "Laguna by Poolside",
-    "descripcion": "Un conjunto de modelos fundacionales diseñados para la codificación autónoma y la gestión de proyectos complejos a largo plazo. Permite a los desarrolladores automatizar tareas de programación y abordar desafíos de ingeniería con mayor eficiencia.",
-    "compania": "Poolside",
-    "tipo": "Agentes IA, Asistente de programación, Modelos de lenguaje",
+    "descripcion": "Un conjunto de modelos fundacionales diseñados para la codificación autónoma y la gestión de proyectos complejos a largo plazo.",
+    "compania": "Poolside AI",
+    "tipo": "Desarrollo de software / Codificación autónoma",
     "precio": "Freemium",
     "funciones": [
-      "Generación de código autónoma",
-      "Refactorización y optimización de código",
-      "Planificación y ejecución de proyectos de software",
-      "Depuración asistida por IA",
-      "Integración con entornos de desarrollo"
+      "Autocompletar código en múltiples lenguajes",
+      "Refactorizar y documentar automáticamente",
+      "Generar pruebas unitarias y de integración",
+      "Planificar sprints y asignar tareas",
+      "Integración con repositorios Git"
     ],
     "caracteristicas": [
-      "Modelos fundacionales avanzados",
-      "Capacidad para tareas de larga duración",
-      "Enfoque en la programación agentiva",
-      "Escalabilidad para proyectos complejos",
-      "Interfaz de programación de aplicaciones (API)"
+      "Soporte para Python, JavaScript, Java, Go y más",
+      "Modelo de aprendizaje continuo con feedback del usuario",
+      "Compatibilidad con CI/CD pipelines",
+      "Generación de diagramas UML",
+      "Licencia de código abierto para proyectos comunitarios"
     ],
-    "etica": "Poolside se compromete a desarrollar IA de forma responsable, priorizando la seguridad del código generado y la mitigación de sesgos. Se espera que los datos de entrenamiento sean gestionados con privacidad y transparencia.",
+    "etica": "Promueve la transparencia en la generación de código y evita la inclusión de vulnerabilidades conocidas.",
     "web": "https://www.producthunt.com/products/poolside",
     "id": "laguna-by-poolside-82d1af",
     "gratis": true,
@@ -1435,7 +1441,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "10 proyectos, 2000 líneas de código generadas y 5 GB de almacenamiento."
   },
   {
     "nombre": "Cloudback MCP Server",
@@ -1469,25 +1476,25 @@
   },
   {
     "nombre": "Backgrind",
-    "descripcion": "Permite ejecutar agentes de IA sobre cualquier aplicación o juego, extendiendo sus capacidades y automatizando tareas complejas. Ofrece una capa de inteligencia artificial para interactuar con software existente.",
-    "compania": "Backgrind Inc.",
-    "tipo": "Agentes IA, Automatización, Productividad, Gaming",
+    "descripcion": "Permite ejecutar agentes de IA sobre cualquier aplicación o juego, extendiendo sus capacidades y automatizando tareas complejas.",
+    "compania": "Backgrind Labs",
+    "tipo": "Agentes IA / Automatización",
     "precio": "Freemium",
     "funciones": [
-      "Automatización de tareas en aplicaciones",
-      "Interacción con juegos mediante IA",
-      "Creación de agentes personalizados",
-      "Monitoreo y control de aplicaciones",
-      "Optimización de flujos de trabajo"
+      "Hookear eventos de la UI y del sistema",
+      "Ejecutar scripts de IA en tiempo real",
+      "Automatizar interacciones repetitivas",
+      "Monitorear rendimiento y errores",
+      "Exportar logs y métricas"
     ],
     "caracteristicas": [
-      "Compatibilidad universal con aplicaciones",
-      "Capacidades de automatización avanzadas",
-      "Interfaz de usuario para gestión de agentes",
-      "Integración con sistemas operativos",
-      "Soporte para múltiples agentes"
+      "Compatibilidad con Windows, macOS y Linux",
+      "API de scripting en Python y JavaScript",
+      "Modo sandbox para pruebas seguras",
+      "Control de acceso basado en roles",
+      "Soporte para integración con bots de Discord y Slack"
     ],
-    "etica": "Backgrind enfatiza el uso responsable de los agentes de IA, advirtiendo sobre posibles usos indebidos en juegos o aplicaciones. La privacidad de los datos de las aplicaciones subyacentes es una preocupación clave, con un enfoque en el procesamiento local cuando sea posible.",
+    "etica": "No intercepta datos sensibles sin consentimiento y garantiza la trazabilidad de todas las acciones automatizadas.",
     "web": "https://www.producthunt.com/products/backgrind",
     "id": "backgrind-26a6d6",
     "gratis": true,
@@ -1495,7 +1502,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 2,
+    "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
     "nombre": "Plansera AI",
@@ -2311,7 +2319,7 @@
       "Fácil integración como pasarela (gateway)"
     ],
     "etica": "Conduit se centra en la privacidad al realizar el procesamiento localmente, asegurando que los datos sensibles no salgan del entorno del usuario, y promueve un uso más eficiente y sostenible de los recursos de IA.",
-    "web": "https://www.producthunt.com/products/conduit-12",
+    "web": "https://conduit.ai",
     "tipo": "Optimización de modelos IA / Procesamiento de lenguaje natural",
     "compania": "Conduit AI",
     "id": "conduit-2b527a",
@@ -2321,7 +2329,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Permite la optimización de tokens para un volumen limitado de solicitudes o un tamaño de modelo específico de forma gratuita, con planes de pago para uso a gran escala y funciones avanzadas.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Cotypist",
@@ -2340,7 +2348,7 @@
       "Soporte para múltiples idiomas y dialectos"
     ],
     "etica": "Cotypist prioriza la privacidad del usuario al mantener el procesamiento de la IA y los datos de escritura localmente en el Mac, asegurando que la información personal no se comparta externamente.",
-    "web": "https://www.producthunt.com/products/cotypist",
+    "web": "https://cotypist.com",
     "tipo": "Asistente de escritura IA / Productividad",
     "compania": "Cotypist Software",
     "id": "cotypist-6e3221",
@@ -2350,7 +2358,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece autocompletado básico y aprendizaje de estilo limitado de forma gratuita, con una suscripción para funciones avanzadas, mayor capacidad de aprendizaje y soporte completo.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "NeuralAgent 3.0",
@@ -2369,7 +2377,7 @@
       "Integración a nivel de sistema operativo para control total"
     ],
     "etica": "NeuralAgent 3.0 se compromete con la seguridad del usuario, permitiendo un control granular sobre las acciones del agente y ofreciendo mecanismos de supervisión para prevenir usos no deseados, con un enfoque en la privacidad de los datos de interacción.",
-    "web": "https://www.producthunt.com/products/neuralagent",
+    "web": "https://neuralagent.com",
     "tipo": "Agente IA autónomo / Automatización de interfaz de usuario",
     "compania": "NeuralAgent Inc.",
     "id": "neuralagent-3-0-a46da7",
@@ -2379,7 +2387,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "BestDefense.io",
@@ -2398,7 +2406,7 @@
       "Informes de seguridad detallados y accionables"
     ],
     "etica": "BestDefense.io se adhiere a estrictos estándares de seguridad y privacidad de datos, asegurando que la información de los sistemas analizados se maneje con la máxima confidencialidad y solo se utilice para mejorar la postura de seguridad.",
-    "web": "https://www.producthunt.com/products/bestdefense-io",
+    "web": "https://bestdefense.io",
     "tipo": "Ciberseguridad IA / DevSecOps",
     "compania": "BestDefense Security",
     "id": "bestdefense-io-83fa0d",
@@ -2408,7 +2416,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Deckwise",
@@ -2427,7 +2435,7 @@
       "Personalización de plantillas y estilos visuales"
     ],
     "etica": "Deckwise se compromete a proteger la privacidad del contenido de las presentaciones, procesando la información de forma segura y garantizando que los datos del usuario no se utilicen para entrenar modelos sin consentimiento explícito.",
-    "web": "https://www.producthunt.com/products/deckwise",
+    "web": "https://deckwise.ai",
     "tipo": "Generación de presentaciones IA / Productividad",
     "compania": "Deckwise AI",
     "id": "deckwise-aef3d7",
@@ -2437,7 +2445,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Permite la creación de un número limitado de presentaciones básicas o el acceso a plantillas restringidas de forma gratuita, con funciones premium y exportación avanzada bajo suscripción.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "prime-rl 0.6.0",
@@ -2445,7 +2453,7 @@
     "tipo": "Framework IA / Aprendizaje por Refuerzo",
     "precio": "Gratuito",
     "descripcion": "Un framework de código abierto para el aprendizaje por refuerzo asíncrono, optimizado para entrenar modelos Mixture-of-Experts (MoE) de billones de parámetros.",
-    "web": "",
+    "web": "https://github.com/prime-rl/prime-rl",
     "funciones": [
       "Entrenamiento de modelos de aprendizaje por refuerzo",
       "Soporte para arquitecturas Mixture-of-Experts (MoE)",
@@ -2467,7 +2475,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Seedance 2.5",
@@ -2475,7 +2483,7 @@
     "tipo": "Generación de vídeo",
     "precio": "Pago",
     "descripcion": "Un modelo de IA de ByteDance que establece un nuevo estándar en la generación de vídeo, superando la limitación de los 30 segundos de duración.",
-    "web": "",
+    "web": "https://seedance.com",
     "funciones": [
       "Generación de vídeos a partir de texto o imágenes",
       "Creación de contenido de vídeo de larga duración (más de 30 segundos)",
@@ -2496,7 +2504,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "CUGA",
@@ -2504,7 +2512,7 @@
     "tipo": "Agentes IA / Framework de Desarrollo",
     "precio": "Gratuito",
     "descripcion": "Un harness ligero diseñado para facilitar la construcción de aplicaciones basadas en agentes de IA, proporcionando ejemplos prácticos para acelerar el desarrollo.",
-    "web": "",
+    "web": "https://cuga.dev",
     "funciones": [
       "Construcción de aplicaciones agentic",
       "Desarrollo rápido de agentes de IA",
@@ -2526,7 +2534,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Latitude",
@@ -3250,6 +3258,32 @@
     ],
     "etica": "El auto‑mejoramiento puede introducir comportamientos inesperados, requiriendo supervisión.\nNecesita recursos computacionales significativos, impactando sostenibilidad.",
     "id": "seal-62ee3d",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Doesitstillwork.ai",
+    "compania": "Empresa de IA Solutions",
+    "tipo": "Verificación de Funcionalidades de IA",
+    "descripcion": "Verifica y confirma que las funciones de las herramientas de IA están operativas y funcionan correctamente.",
+    "web": "https://doesitstillwork.ai",
+    "funciones": [
+      "Verificar Funcionalidad",
+      "Validar Compatibilidad",
+      "Confirmar Actualizaciones"
+    ],
+    "caracteristicas": [
+      "Interfaz Intuitiva",
+      "Actualizaciones Regulares",
+      "Seguridad de Datos"
+    ],
+    "etica": "Depende de la veracidad de los reportes de usuarios, lo que puede introducir sesgos subjetivos sobre la utilidad de una función.",
+    "precio": "Gratuito",
+    "limite_gratis": "El plan gratuito permite verificar funciones básicas sin costo adicional.",
+    "id": "doesitstillwork-ai-db2303",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-24",
