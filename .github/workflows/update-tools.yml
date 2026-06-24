@@ -27,7 +27,14 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install feedparser requests
-
+      - name: Forzar modelos gratuitos
+        run: |
+          sed -i 's/"meta-llama\/llama-3.3-70b-instruct:free"/"google\/gemini-2.0-flash-lite-preview-02-05:free"/g' update_tools.py
+          sed -i 's/"google\/gemini-2.0-flash-lite-preview-02-05:free"/"google\/gemini-2.0-pro-exp-02-05:free"/g' update_tools.py
+          sed -i 's/"qwen\/qwen-2.5-coder-32b-instruct:free"/"cognitivecomputations\/dolphin3.0-r1-mistral-24b:free"/g' update_tools.py
+          sed -i 's/"mistralai\/mistral-7b-instruct:free"/"deepseek\/deepseek-r1:free"/g' update_tools.py
+          # Borrar las pausas largas de 20 y 40 segundos
+          sed -i 's/ESPERA_BASE=20/ESPERA_BASE=3/g' update_tools.py
       - name: Buscar herramientas
         env:
           OPENROUTER_API_KEY: ${{ secrets.ITACA }}
