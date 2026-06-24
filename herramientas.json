@@ -1673,7 +1673,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Darkmoon",
@@ -1702,7 +1703,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Mutter AI Dictation",
@@ -1731,7 +1733,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Prism",
@@ -1760,7 +1763,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "VELA",
@@ -1789,7 +1793,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "IdeaVault",
@@ -1963,7 +1968,8 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Sin plan gratuito."
+    "limite_gratis": "Sin plan gratuito.",
+    "intentos_web": 1
   },
   {
     "nombre": "CADAM",
@@ -1993,7 +1999,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Clawd",
@@ -2021,7 +2028,8 @@
     "pago": false,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "AirJelly",
@@ -2699,7 +2707,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Stripe.Directory",
@@ -2721,7 +2729,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Propane",
@@ -2743,7 +2751,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "intentos_auto": 1
+    "intentos_auto": 2
   },
   {
     "nombre": "Tencent EdgeOne Makers",
@@ -2760,6 +2768,50 @@
     "tipo": "Otros",
     "compania": "Desconocida",
     "id": "tencent-edgeone-makers-310148",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 2
+  },
+  {
+    "nombre": "Swimio",
+    "descripcion": "AI swim coach with Apple Watch tracking & smart workouts",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "swimio-ff8e82",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-24",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1
+  },
+  {
+    "nombre": "Ruby",
+    "descripcion": "Ask better questions, live on every call",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "ruby-9916d1",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
