@@ -103,8 +103,8 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
 
 ### 3. Robustez ante errores
 - Si IA (OpenRouter) devuelve **error 429** (cuota), reintenta 3 veces con espera creciente
-  y prueba varios modelos (`gemini-2.0-flash-lite` → `gemini-2.5-flash` →
-  `gemini-2.0-flash`).
+  y prueba varios modelos (`meta-llama/llama-3.3-70b-instruct:free` → `google/qwen/qwen-2.5-coder-32b-instruct:free-lite-preview-02-05:free` →
+  `qwen/qwen-2.5-coder-32b-instruct:free`).
 - Si todo falla, el sistema **no se rompe**: las fichas quedan pendientes y se
   reintentan en el siguiente ciclo.
 - Los problemas se muestran como avisos visibles (⚠️/🔴) en el log de Actions.
@@ -147,7 +147,7 @@ No hay que aprobar, revisar ni tocar nada. El proyecto sigue su rumbo solo. 🌅
   `herramientas.json`.
 - **Comprobar que la clave funciona en local:**
   ```bash
-  GEMINI_API_KEY="tu_clave" python3 test_openrouter.py
+  OPENROUTER_API_KEY="tu_clave" python3 test_openrouter.py
   ```
 
 Para los detalles de despliegue paso a paso, ver **`INSTRUCCIONES.md`**.
