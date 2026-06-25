@@ -59,11 +59,12 @@ for h in t:
     _nombres_vistos.add(nm)
     
     # b) Auditor de URLs tóxicas / alucinadas
-    web_actual = h.get("web", "").lower()
-    if any(toxico in web_actual for toxico in DOMINIOS_TOXICOS):
-        h["web"] = "" # La vacía para que el módulo de Backfill (paso 5c) le busque una nueva hoy mismo
-        h.pop("intentos_web", None) # Resetea la cola
-        _webs_toxicas += 1
+    web_actual = h.get("web", "")
+    if web_actual:
+        if any(toxico in web_actual.lower() for toxico in DOMINIOS_TOXICOS) or not enlace_vivo(web_actual):
+            h["web"] = "" # La vacía para que el módulo de Backfill le busque una nueva
+            h.pop("intentos_web", None) # Resetea la cola
+            _webs_toxicas += 1
         
     _t_limpio.append(h)
 
@@ -590,19 +591,31 @@ def limpiar_web(x):
   if url_valida(cand): return cand.strip()
  return ""
 def enlace_vivo(url):
- """True si la URL responde. Muy conservador: asume True ante cualquier error
- para evitar borrar URLs válidas que tienen protección anti-bots agresiva (Cloudflare)."""
- import socket as _sock
+ """Comprueba si una web existe y NO es un dominio en venta/aparcado.
+ Mantiene la tolerancia a Cloudflare (si da error HTTP asume que está viva)."""
+ import socket as _sock, ssl as _ssl
+ import urllib.request as _u
  from urllib.parse import urlparse as _up
  if not url_valida(url):return False
  host=_up(url).hostname or ""
  try:
-  _sock.gethostbyname(host)        # DNS: si no existe el dominio -> caída real
+  _sock.gethostbyname(host)
  except Exception:
-  return False
- # Si el DNS resuelve, asumimos que está viva. Muchas webs de IA usan Cloudflare
- # que bloquea y devuelve 404/403 a urllib por no tener un navegador real,
- # provocando falsos positivos en la detección de caídas.
+  return False # No hay DNS, web muerta
+  
+ _ctx=_ssl.create_default_context()
+ _ctx.check_hostname=False
+ _ctx.verify_mode=_ssl.CERT_NONE
+ try:
+  req=_u.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+  with _u.urlopen(req, timeout=8, context=_ctx) as r:
+   # Si responde bien, leemos el contenido para cazar cybersquatters
+   html = r.read(8192).decode("utf-8", errors="ignore").lower()
+   toxicos = ["domain is for sale", "buy this domain", "godaddy", "hugedomains", "sedo.com", "domain has expired", "this page is parked", "inquire about this domain", "afternic"]
+   if any(t in html for t in toxicos):
+    return False # Es una web de venta de dominios
+ except Exception:
+  pass # 403, 429, timeouts... lo perdonamos por culpa de los anti-bots
  return True
 
 new=[]
