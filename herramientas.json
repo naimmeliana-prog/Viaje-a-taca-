@@ -3928,5 +3928,33 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
+  },
+  {
+    "nombre": "OpenHarness",
+    "compania": "OpenAI Community",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Framework ligero para crear, orquestar y ejecutar agentes de IA con herramientas, memoria y permisos personalizados.",
+    "web": "https://openharness.dev",
+    "funciones": [
+      "Definición de agentes con memoria a corto y largo plazo",
+      "Integración de herramientas externas (APIs, bases de datos, etc.)",
+      "Gestión de permisos y políticas de acceso por agente",
+      "Orquestación de flujos de trabajo multi‑agente"
+    ],
+    "caracteristicas": [
+      "Código abierto y extensible",
+      "Arquitectura basada en plugins",
+      "Soporte para despliegues en nube y local",
+      "Documentación y ejemplos listos para usar"
+    ],
+    "etica": "OpenHarness permite definir políticas de privacidad y control de datos por agente, reduciendo riesgos de sesgos y filtrado no autorizado.",
+    "limite_gratis": "Plan gratuito con hasta 3 agentes simultáneos y 10 000 llamadas a herramientas por mes.",
+    "id": "openharness-1282c7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]
