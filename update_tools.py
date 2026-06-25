@@ -5,7 +5,11 @@ from pathlib import Path
 # Frases "vacías" que algunos modelos devuelven en vez de un dato real.
 _NO_DATO={"no especificado","no especificada","desconocido","desconocida","n/a","na","none","null","sin especificar","-",""}
 def url_valida(v):
- return isinstance(v,str) and v.strip().lower().startswith(("http://","https://")) and v.strip().lower() not in _NO_DATO
+ if not isinstance(v,str) or not v.strip().lower().startswith(("http://","https://")) or v.strip().lower() in _NO_DATO:
+  return False
+ # Blacklist de dominios marcados recurrentemente por phising o dominios genéricos peligrosos
+ blacklist = [".zip", "onbrand.slidespeak.co"]
+ return not any(b in v.lower() for b in blacklist)
 
 def enlace_vivo(url):
  """Comprueba si una web existe y NO es un dominio en venta/aparcado.
@@ -35,8 +39,11 @@ def enlace_vivo(url):
    # Comprobar redirecciones meta y javascript de aparcamiento
    if "/lander" in html or "parking-page" in html:
     return False
+ except _u.HTTPError as e:
+  if e.code in (404, 410):
+    return False # Si es un 404 real (como un repo de Github borrado), la damos por muerta
  except Exception:
-  pass # 403, 429, timeouts... lo perdonamos por culpa de los anti-bots
+  pass # 403, 429, timeouts... lo perdonamos por culpa de los anti-bots (Cloudflare)
  return True
 
 
@@ -383,11 +390,15 @@ elif n:
  )
  tx,ia_ok=llamar_ia(p)
  if tx:
-  m=re.search(r"\[[\s\S]*\]",tx)
+  # Limpiar bloques markdown si la IA los devuelve
+  tx_clean = tx.replace("```json", "").replace("```", "").strip()
+  m=re.search(r"\[[\s\S]*\]",tx_clean)
   if m:
    try:
+    # A veces devuelven comas finales inválidas, las intentamos limpiar
+    json_str = re.sub(r',(\s*[\]}])', r'', m.group())
     _nombres_bajos = [x.lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in nombres]
-    for h in json.loads(m.group()):
+    for h in json.loads(json_str):
      nm_limpio = h.get("nombre","").lower().replace("-", " ").replace("‑", " ").replace("—", " ")
      
      # Check if a very similar name already exists (fuzzy matching)
