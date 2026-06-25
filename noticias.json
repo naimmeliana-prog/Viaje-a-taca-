@@ -1,19 +1,26 @@
 {
-  "actualizado": "2026-06-25T05:15:19Z",
+  "actualizado": "2026-06-25T09:07:44Z",
   "novedades": [
+    {
+      "titulo": "Infobip celebra sus 10 años en España hablando del salto de la IA agéntica de los casos piloto a la operativa real en la comunicación conversacional",
+      "resumen": "Infobip ha reunido en Madrid a expertos de Google, Microsoft, Telefónica, Adobe y Meta para analizar el futuro de la comunicación empresarial L'articolo Infobip celebra sus 10 años en España hablando del salto de la IA a",
+      "enlace": "https://www.computing.es/inteligencia-artificial/infobip-celebra-sus-10-anos-en-espana-hablando-del-salto-de-la-ia-agentica-de-los-casos-piloto-a-la-operativa-real-en-la-comunicacion-conversacional/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-25T08:00:00Z"
+    },
+    {
+      "titulo": "Dos de cada tres CEO temen no invertir en IA lo suficientemente rápido",
+      "resumen": "La modernización de la infraestructura constituye la principal prioridad de los CEO para 2026, siendo la fragmentación de datos, la seguridad y el control sus mayores preocupaciones L'articolo Dos de cada tres CEO temen ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/dos-de-cada-tres-ceo-temen-no-invertir-en-ia-lo-suficientemente-rapido/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-25T07:31:00Z"
+    },
     {
       "titulo": "EE.UU. tiene la llave de la IA",
       "resumen": "Washington se ha convertido en el guardián de los modelos más avanzados y de la mayor parte de la capacidad de cálculo",
       "enlace": "https://www.lavanguardia.com/tecnologia/20260625/11568665/ia-inteligencia-artificial-estados-unidos.html",
-      "medio": "La Vanguardia Tecno",
+      "medio": "La Vanguardia",
       "fecha": "2026-06-25T04:00:00Z"
-    },
-    {
-      "titulo": "Análisis de 'Star Fox', el regreso de la aventura espacial de Nintendo",
-      "resumen": "Casi tres décadas después de su lanzamiento original, Switch 2 recibe una espectacular puesta al día del clásico de Nintendo 64",
-      "enlace": "https://www.lavanguardia.com/neo/20260624/11574365/videojuegos-star-fox-remake-nintendo-switch-2-analisis.html",
-      "medio": "La Vanguardia Tecno",
-      "fecha": "2026-06-24T17:40:06Z"
     },
     {
       "titulo": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
@@ -44,18 +51,11 @@
       "fecha": "2026-06-24T08:31:01Z"
     },
     {
-      "titulo": "La araña que inspiró la cámara 3D más eficiente del mundo",
-      "resumen": "La araña saltadora puede saltar distancias que multiplican por decenas su propio tamaño y tiene un cerebro del tamaño de una semilla de amapola. No parece el punto de partida más obvio para un avance [&#8230;] La araña q",
-      "enlace": "https://blogthinkbig.com/la-arana-que-inspiro-la-camara-3d-mas-eficiente-del-mundo",
-      "medio": "Think Big",
-      "fecha": "2026-06-24T08:16:13Z"
-    },
-    {
-      "titulo": "De nada sirve tener un Apple Watch compatible con la nueva Siri AI si no tienes uno de estos iPhone",
+      "titulo": "La nueva Siri AI llegará al Apple Watch... pero seguirá dependiendo del iPhone y no sirve cualquier modelo",
       "resumen": "Si tienes un Apple Watch más moderno que el iPhone, quizás te lleves una decepción cuando llegue watchOS 27 en septiembre y veas que no hay compatibilidad con la nueva IA que traerá Siri AI. Y dará igual también si el iP",
       "enlace": "https://www.applesfera.com/juegos-para-ios/nada-sirve-tener-apple-watch-compatible-nueva-siri-ai-no-tienes-uno-estos-iphone",
       "medio": "Applesfera",
-      "fecha": "2026-06-24T08:01:01Z"
+      "fecha": "2026-06-24T08:00:00Z"
     },
     {
       "titulo": "Airbus está probando IA en una de las maniobras más delicadas de un vuelo: el aterrizaje",
@@ -79,11 +79,11 @@
       "fecha": "2026-06-23T17:01:01Z"
     },
     {
-      "titulo": "Nos hemos empeñado en que los robots humanoides parezcan personas: esta startup acaba de demostrar que hay otro camino",
+      "titulo": "Todos los robots compiten por parecer personas: esta startup acaba de apostar exactamente por lo contrario",
       "resumen": "Aún no está claro si los robots humanoides serán la próxima gran revolución&nbsp;de la tecnología de consumo, pero desde luego cada vez hay más empresas compitiendo para colar uno de estos robots en nuestras casas. Todos",
       "enlace": "https://www.xataka.com/robotica-e-ia/nos-hemos-empenado-que-robots-humanoides-parezcan-personas-esta-startup-acaba-demostrar-que-hay-otro-camino",
       "medio": "Xataka",
-      "fecha": "2026-06-23T16:01:01Z"
+      "fecha": "2026-06-23T16:00:00Z"
     },
     {
       "titulo": "Las nuevas Meta Glasses son 0% Ray-Ban. Esa es una gran noticia para nuestro bolsillo",
@@ -107,6 +107,13 @@
       "fecha": "2026-06-23T12:17:00Z"
     },
     {
+      "titulo": "Solo el 37% de las empresas tiene control total sobre las herramientas de IA que utiliza",
+      "resumen": "Los expertos alertan de que la adopción de IA supera la capacidad de las organizaciones L'articolo Solo el 37% de las empresas tiene control total sobre las herramientas de IA que utiliza proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/el-85-de-los-cio-asegura-estar-invirtiendo-en-tecnologias-de-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-23T09:42:09Z"
+    },
+    {
       "titulo": "Los algoritmos que deciden tu vida: qué hay detrás de las decisiones que no ves",
       "resumen": "Hoy, sin saberlo, un algoritmo puede haber decidido si te llaman para una entrevista de trabajo, si tu banco te concede un crédito o qué noticias aparecen primeras en tu pantalla. Esto ya está pasando, [&#8230;] Los algo",
       "enlace": "https://blogthinkbig.com/los-algoritmos-que-deciden-tu-vida-que-hay-detras-de-las-decisiones-que-no-ves",
@@ -114,11 +121,11 @@
       "fecha": "2026-06-23T09:14:40Z"
     },
     {
-      "titulo": "Por qué las cámaras retro están de vuelta y qué refleja eso sobre hacia dónde va la sociedad",
-      "resumen": "Casi todos los comportamientos fundamentales de una sociedad son cíclicos. Algunos, como los pantalones de campana, tardaron 40 años en volver a estar de moda, y otros, como las cámaras retro, dejan claro que vivimos [&#",
-      "enlace": "https://blogthinkbig.com/por-que-las-camaras-retro-estan-de-vuelta-y-que-refleja-eso-sobre-hacia-donde-va-la-sociedad",
-      "medio": "Think Big",
-      "fecha": "2026-06-22T16:01:00Z"
+      "titulo": "HBX Group aplica IA agéntica a su servicio de atención al cliente de la mano de Ayesa Digital",
+      "resumen": "El canal inteligente de voz implantado por HBX gestiona el 18% de las llamadas recibidas y las solicitudes se clasifican automáticamente por categoría y sentimiento L'articolo HBX Group aplica IA agéntica a su servicio d",
+      "enlace": "https://www.computing.es/inteligencia-artificial/hbx-group-aplica-ia-agentica-a-su-servicio-de-atencion-al-cliente-de-la-mano-de-ayesa-digital/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-23T08:35:32Z"
     },
     {
       "titulo": "Siri AI cambia tu iPhone para siempre: todo lo que puedes hacer (y antes no) con la nueva IA de Apple",
@@ -135,18 +142,18 @@
       "fecha": "2026-06-22T13:50:37Z"
     },
     {
+      "titulo": "HPE lleva la IA agéntica a producción junto con NVIDIA",
+      "resumen": "En el marco del HPE Discover 2026, celebrado en Las Vegas, Hewlett Packard Enterprise ha anunciado una nueva generación de soluciones diseñadas para llevar la IA agéntica del laboratorio a la producción real L'articolo H",
+      "enlace": "https://www.computing.es/inteligencia-artificial/hpe-lleva-la-ia-agentica-a-produccion-junto-con-nvidia/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-22T11:02:16Z"
+    },
+    {
       "titulo": "Europa pone límites a la IA: lo que ya está prohibido y lo que llega en 2026",
       "resumen": "La Unión Europea lleva años trabajando en una ley para regular la inteligencia artificial. Se llama el AI Act, y entró en vigor en agosto de 2024 con una fecha clave grabada en el calendario [&#8230;] Europa pone límites",
       "enlace": "https://blogthinkbig.com/europa-pone-limites-a-la-ia-lo-que-ya-esta-prohibido-y-lo-que-llega-en-2026",
       "medio": "Think Big",
       "fecha": "2026-06-22T08:49:51Z"
-    },
-    {
-      "titulo": "Midjourney da el salto a la medicina con un escáner de cuerpo completo",
-      "resumen": "Hace tres años, Midjourney era la empresa que te permitía generar imágenes surrealistas escribiendo cuatro palabras en un cuadro de texto. Esta semana, esa misma empresa ha presentado un escáner médico de cuerpo completo",
-      "enlace": "https://blogthinkbig.com/midjourney-da-el-salto-a-la-medicina-con-un-escaner-de-cuerpo-completo",
-      "medio": "Think Big",
-      "fecha": "2026-06-22T07:33:11Z"
     },
     {
       "titulo": "Acabo de encontrar la solución definitiva a mi torpeza. Es de Gemini y lo quiero ya nativo en mi iPhone",
@@ -170,46 +177,39 @@
       "fecha": "2026-06-19T16:01:00Z"
     },
     {
-      "titulo": "La iniciativa «Stop Killing Games»: el David contra Goliat que está sucediendo en los videojuegos",
-      "resumen": "Imagina que compras un coche nuevo, lo aparcas en tu garaje y, cinco años después, el fabricante entra en tu casa y se lo lleva directamente a la chatarra alegando que «mantener el modelo ya [&#8230;] La iniciativa «Stop",
-      "enlace": "https://blogthinkbig.com/stop-killing-games-propiedad-digital",
-      "medio": "Think Big",
-      "fecha": "2026-06-19T10:00:00Z"
+      "titulo": "La IA geoespacial aplicada en más de 14.000 satélites permite anticipar riesgos en el planeta",
+      "resumen": "Gracias a la inteligencia artificial geoespacial, las imágenes captadas desde el espacio ya no solo muestran lo que ocurre en el planeta: también permiten detectar cambios, anticipar riesgos y acelerar la toma de decisio",
+      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-geoespacial-aplicada-en-mas-de-14-000-satelites-permite-anticipar-riesgos-en-el-planeta/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-18T09:00:00Z"
     },
     {
-      "titulo": "Cómo instalar iOS 27 sin esperas antes de su lanzamiento oficial",
-      "resumen": "Junio es un mes importante para los seguidores de Apple. Si te gustan las presentaciones o keynotes, en junio se celebra la WWDC, es decir, la conferencia mundial de desarrolladores de Apple. Un evento que [&#8230;] Cómo",
-      "enlace": "https://blogthinkbig.com/instalar-ios-27-beta-iphone",
-      "medio": "Think Big",
-      "fecha": "2026-06-19T09:17:23Z"
+      "titulo": "Dell Technologies impulsa la “industrialización” de la IA en España mientras crece la presión por la soberanía del dato",
+      "resumen": "La tecnológica asegura que la inteligencia artificial ha pasado de fase piloto a ejecución real en las empresas, aunque la adopción sigue rezagada en pymes L'articolo Dell Technologies impulsa la “industrialización” de l",
+      "enlace": "https://www.computing.es/inteligencia-artificial/dell-technologies-impulsa-la-industrializacion-de-la-ia-en-espana-mientras-crece-la-presion-por-la-soberania-del-dato/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-18T06:00:00Z"
     },
     {
-      "titulo": "Rockstar presenta la portada de ‘Grand Theft Auto VI’ y anuncia la apertura de reservas",
-      "resumen": "El esperado videojuego mantiene su fecha de lanzamiento para el próximo 19 de noviembre en PlayStation 5 y Xbox Series",
-      "enlace": "https://www.lavanguardia.com/neo/20260618/11568391/videojuegos-grand-theft-auto-vi-gta-6-portada-reservas-fecha.html",
-      "medio": "La Vanguardia Tecno",
-      "fecha": "2026-06-18T13:56:30Z"
+      "titulo": "El iOS 27 más troceado de la historia: tu iPhone puede actualizarse, pero no a la misma versión que el de tu vecino",
+      "resumen": "Pocas actualizaciones de software han sido tan particulares como lo será iOS 27 en septiembre. Cuando se lance ese mes en su versión final, veremos que no todos recibirán el mismo número de funciones. Tendrán elementos c",
+      "enlace": "https://www.applesfera.com/ios/que-novedades-ios-27-llegaran-a-tu-iphone-dependiendo-modelo-vives-no-europa",
+      "medio": "Applesfera",
+      "fecha": "2026-06-17T09:00:00Z"
     },
     {
-      "titulo": "DOOM y hasta dónde puede llegar el ingenio para estirar una broma",
-      "resumen": "El videojuego DOOM nació en 1993 gracias a id Software, y mas allá de haber revolucionado los shooters, la extrema flexibilidad de su código fuente es su caracteristica mas recordada. Lo que empezó como una [&#8230;] DOO",
-      "enlace": "https://blogthinkbig.com/doom-y-hasta-donde-puede-llegar-el-ingenio-para-estirar-una-broma",
-      "medio": "Think Big",
-      "fecha": "2026-06-18T09:32:49Z"
+      "titulo": "España optará al desarrollo de una Gigafactoría de Inteligencia Artificial",
+      "resumen": "El Consejo de Ministros ha autorizado hoy una inversión de 719 millones de euros del Ministerio para la Transformación Digital y de la Función Pública L'articolo España optará al desarrollo de una Gigafactoría de Intelig",
+      "enlace": "https://www.computing.es/administracion/espana-optara-al-desarrollo-de-una-gigafactoria-de-inteligencia-artificial/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-17T07:00:00Z"
     },
     {
-      "titulo": "El Informe ODA mide la diversidad en el cine y las series españolas: ¿qué dice la séptima edición?",
-      "resumen": "Este martes, el Espacio Fundación Telefónica de Madrid ha acogido la presentación de la séptima edición del Informe ODA, el estudio anual que mide cómo se representa a los colectivos LGBTIQA+, racializados y con discapac",
-      "enlace": "https://blogthinkbig.com/el-informe-oda-mide-la-diversidad-en-el-cine-y-las-series-espanolas-que-dice-la-septima-edicion",
-      "medio": "Think Big",
-      "fecha": "2026-06-18T09:32:28Z"
-    },
-    {
-      "titulo": "¿Un robot en el Everest? Nepal se plantea una prueba histórica en el techo del mundo",
-      "resumen": "Una misión de investigación destinada a comprobar cómo se comportan las máquinas avanzadas en uno de los entornos más hostiles de la Tierra",
-      "enlace": "https://www.lavanguardia.com/tecnologia/20260618/11567607/robot-everest-nepal-plantea-prueba-historica-techo-mundo.html",
-      "medio": "La Vanguardia Tecno",
-      "fecha": "2026-06-18T04:00:00Z"
+      "titulo": "Apple prepara los \"AirPods de la IA\" y llevarán cámaras. El problema es que los veremos más tarde de lo previsto",
+      "resumen": "Apple parecía estar lista para lanzar este año sus primeros AirPods con cámaras. Y no para hacer fotos, sino como uno de los primeros productos de IA de Apple. El problema es que esa misma IA es ahora la causante de que ",
+      "enlace": "https://www.applesfera.com/rumores/apple-tenia-ambicioso-plan-airpods-camaras-uno-que-acaba-cambiar-golpe-gurman",
+      "medio": "Applesfera",
+      "fecha": "2026-06-17T06:30:00Z"
     }
   ],
   "etica": [

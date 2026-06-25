@@ -3709,5 +3709,129 @@
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "Samepage Signals",
+    "descripcion": "Samepage Signals utiliza IA para actuar como un segundo cerebro de los product managers, ofreciendo insights y recomendaciones basadas en datos de usuarios y métricas de producto.",
+    "compania": "Samepage",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis de feedback de usuarios",
+      "Priorización automática de características",
+      "Generación de roadmaps dinámicos",
+      "Integración con herramientas como Jira y Trello",
+      "Alertas de tendencias y anomalías"
+    ],
+    "caracteristicas": [
+      "Procesamiento de lenguaje natural avanzado",
+      "Dashboard personalizable en tiempo real",
+      "Colaboración multiusuario con comentarios",
+      "Exportación de reportes en PDF y CSV",
+      "Actualizaciones automáticas de modelos"
+    ],
+    "etica": "La herramienta procesa solo datos proporcionados por el usuario y no almacena información personal sin consentimiento; se realizan auditorías periódicas para minimizar sesgos en los análisis de feedback.",
+    "limite_gratis": "El plan gratuito permite analizar hasta 1000 comentarios mensuales y ofrece acceso limitado a integraciones básicas.",
+    "web": "https://www.producthunt.com/products/samepage-signals",
+    "id": "samepage-signals-be2f29",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Oxlo.ai",
+    "descripcion": "Oxlo.ai es una plataforma de orquestación que permite escalar el uso de múltiples modelos de IA sin aumentar significativamente los costos.",
+    "compania": "Oxlo.ai",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Enrutamiento dinámico de modelos según costo y latencia",
+      "Optimización de gasto por token",
+      "Monitoreo en tiempo real de uso y rendimiento",
+      "Pruebas A/B entre modelos",
+      "Integración sencilla mediante API REST"
+    ],
+    "caracteristicas": [
+      "Soporte para modelos open-source y propietarios",
+      "Escalado automático en la nube",
+      "Dashboard de métricas y alertas personalizables",
+      "Políticas de gasto y cuotas configurables",
+      "Cifrado de datos en tránsito y en reposo"
+    ],
+    "etica": "Oxlo.ai garantiza que los datos de los usuarios no se utilicen para reentrenar modelos sin permiso explícito y aplica revisiones para detectar y mitigar sesgos en las salidas de los modelos.",
+    "limite_gratis": "El plan gratuito incluye hasta 100,000 tokens mensuales y acceso a dos modelos básicos para pruebas.",
+    "web": "https://www.producthunt.com/products/oxlo-ai",
+    "id": "oxlo-ai-be1dee",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "BrowserAct",
+    "descripcion": "BrowserAct permite a los agentes de IA automatizar tareas en navegadores web, facilitando la extracción de datos y la interacción con interfaces mediante scripts.",
+    "compania": "BrowserAct Inc.",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Navegación automática de páginas",
+      "Extracción de datos estructurados",
+      "Interacción con formularios y botones",
+      "Captura de pantallas y videos",
+      "Manejo de sesiones y cookies"
+    ],
+    "caracteristicas": [
+      "Compatible con Chrome y Firefox (headless y con UI)",
+      "Integración con frameworks de IA como LangChain y LlamaIndex",
+      "Ejecutabilidad en la nube con escalado automático",
+      "Registro detallado de acciones para auditoría",
+      "Soporte para proxies y rotación de IPs"
+    ],
+    "etica": "BrowserAct respeta los términos de servicio de los sitios web, evitando scraping no autorizado, e incluye mecanismos para identificar y mitigar sesgos en la interacción con contenido.",
+    "limite_gratis": "El plan gratuito brinda hasta 10 horas de ejecución mensual y un número limitado de sesiones concurrentes.",
+    "web": "https://www.producthunt.com/products/browseract",
+    "id": "browseract-79f851",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Grass 2.0",
+    "descripcion": "Grass 2.0 ofrece un entorno de cómputo siempre activo y escalable diseñado específicamente para agentes de IA dedicados al desarrollo de software.",
+    "compania": "Grass.io",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Entorno de desarrollo persistente 24/7",
+      "Escalado automático de CPU y memoria según carga",
+      "Integración directa con repositorios Git (GitHub, GitLab)",
+      "Terminal y IDE en la nube con soporte de múltiples lenguajes",
+      "Ejecutar pruebas y despliegues automatizados"
+    ],
+    "caracteristicas": [
+      "Disponibilidad continua con reinicios automáticos ante fallos",
+      "Soporte para Python, JavaScript, Rust, Go y más",
+      "Almacenamiento persistente de proyectos y dependencias",
+      "Políticas de seguridad de nivel empresarial (IAM, encriptación)",
+      "Facturación basada en uso real de recursos"
+    ],
+    "etica": "Grass 2.0 no almacena ni reutiliza código propietario sin el consentimiento explícito del usuario y mantiene entornos aislados para evitar uso malicioso o sesgos inducidos.",
+    "limite_gratis": "El plan gratuito brinda 2 horas de tiempo de cómputo mensual y acceso a un entorno básico con almacenamiento limitado.",
+    "web": "https://www.producthunt.com/products/grass-claude-code-from-your-phone",
+    "id": "grass-2-0-3224ff",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]
