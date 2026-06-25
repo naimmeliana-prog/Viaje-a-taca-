@@ -3957,5 +3957,169 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
+  },
+  {
+    "nombre": "GLM-5.2",
+    "compania": "Meta AI",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "descripcion": "Modelo de procesamiento de lenguaje natural de última generación, optimizado para síntesis y generación de texto avanzado.",
+    "web": "https://example.com",
+    "funciones": [
+      "Redacción automática de artículos y reportes",
+      "Resumen y extracción de información clave",
+      "Traducción contextual entre varios idiomas",
+      "Asistencia en redacción creativa y técnica"
+    ],
+    "caracteristicas": [
+      "Arquitectura de 5.2 billones de parámetros",
+      "Entrenado con datos multilingües y de dominio amplio",
+      "Inferencia en tiempo real con latencia baja",
+      "Soporte para fine‑tuning por el usuario"
+    ],
+    "etica": "Incluye filtros de contenido y mecanismos de mitigación de sesgos, pero depende de la calidad de los datos de entrenamiento.",
+    "id": "glm-5-2-1e623b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Acceso gratuito con 50 000 tokens mensuales; límite de velocidad de 10 req/s."
+  },
+  {
+    "nombre": "Paybond CLI",
+    "compania": "Paybond Technologies",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Interfaz de línea de comandos que permite gestionar datos financieros y automatizar procesos mediante IA.",
+    "web": "https://paybond.cli",
+    "funciones": [
+      "Importación y exportación de datos bancarios",
+      "Generación automática de reportes financieros",
+      "Automatización de flujos de trabajo con scripts IA",
+      "Validación y detección de anomalías en transacciones"
+    ],
+    "caracteristicas": [
+      "Integración con APIs de bancos y plataformas de pago",
+      "Soporte para plugins de IA personalizados",
+      "Modo interactivo con sugerencias basadas en IA",
+      "Cifrado de extremo a extremo de los datos"
+    ],
+    "etica": "Los datos se procesan localmente siempre que sea posible; la versión en la nube emplea cifrado y políticas de retención mínima.",
+    "id": "paybond-cli-6c973b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito con 1 000 transacciones procesadas al mes y acceso a 5 scripts de automatización."
+  },
+  {
+    "nombre": "Brain² by ClickUp",
+    "descripcion": "Una IA que entiende la estructura y los procesos de tu empresa para automatizar tareas y mejorar la colaboración.",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis de documentos internos y bases de datos",
+      "Generación de resúmenes y reportes automáticos",
+      "Sugerencias de mejoras en flujos de trabajo",
+      "Integración con tareas y proyectos de ClickUp",
+      "Asistencia en la toma de decisiones basada en datos"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Los datos corporativos se procesan bajo estrictas políticas de privacidad y se garantiza que la IA no comparta información sensible con terceros.",
+    "web": "",
+    "tipo": "Productividad / Asistente de IA",
+    "compania": "Desconocida",
+    "id": "brain--by-clickup-6ff70a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite acceso a 5 proyectos y 10 tareas automatizadas por mes.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Heron",
+    "descripcion": "Herramienta de observabilidad que captura eventos de eBPF para que los agentes de IA comprendan el comportamiento de la red y la infraestructura.",
+    "precio": "Freemium",
+    "funciones": [
+      "Captura de trazas de eBPF en tiempo real",
+      "Análisis de tráfico de red y rendimiento de aplicaciones",
+      "Generación de alertas basadas en anomalías detectadas por IA",
+      "Exportación de datos a dashboards y sistemas SIEM",
+      "Integración con agentes de IA para respuestas automáticas"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Los datos recopilados se mantienen dentro del entorno del cliente y no se comparten con terceros, garantizando la confidencialidad de la infraestructura.",
+    "web": "",
+    "tipo": "Observabilidad / Agentes IA",
+    "compania": "Desconocida",
+    "id": "heron-2dde8f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite 1 GB de trazas por día y 3 dashboards personalizados.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "BrowserBash",
+    "descripcion": "CLI que convierte instrucciones en inglés natural en pruebas de navegador reales, facilitando la automatización sin escribir código.",
+    "precio": "Freemium",
+    "funciones": [
+      "Interpretación de comandos en lenguaje natural",
+      "Generación de scripts de prueba en Selenium o Playwright",
+      "Ejecución de pruebas en navegadores locales o remotos",
+      "Generación de informes de resultados y capturas de pantalla",
+      "Integración con CI/CD pipelines"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "El procesamiento de los comandos se realiza localmente siempre que sea posible, y los datos de prueba no se comparten sin consentimiento explícito.",
+    "web": "",
+    "tipo": "Asistente de programación / Automatización de pruebas",
+    "compania": "Desconocida",
+    "id": "browserbash-d45d59",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite 50 pruebas por mes y acceso a la documentación básica.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Tough Tongue AI for Sales",
+    "descripcion": "Un compañero de IA en tiempo real que ayuda a los vendedores a manejar conversaciones difíciles y cerrar tratos con mayor eficacia.",
+    "precio": "Pago",
+    "funciones": [
+      "Análisis de tono y contenido de correos y chats",
+      "Sugerencias de respuestas persuasivas",
+      "Simulación de escenarios de negociación",
+      "Seguimiento de métricas de rendimiento de ventas",
+      "Integración con CRM y plataformas de correo"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "La IA procesa únicamente la información necesaria para la conversación y no almacena datos sensibles fuera del entorno seguro del cliente.",
+    "web": "",
+    "tipo": "Asistente de ventas / Chatbot",
+    "compania": "Desconocida",
+    "id": "tough-tongue-ai-for-sales-1135b4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito; la suscripción mínima comienza en $49/mes por usuario.",
+    "intentos_web": 1
   }
 ]
