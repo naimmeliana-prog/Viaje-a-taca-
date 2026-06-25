@@ -219,8 +219,9 @@ def _guardar_noticias(items):
   ("https://www.xatakandroid.com/tag/inteligencia-artificial/rss2.xml","Xataka Android"),
   ("https://wwwhatsnew.com/tag/inteligencia-artificial/feed/","WWWhat's new"),
   ("https://planetachatbot.com/feed/","Planeta Chatbot"),
+  ("https://www.computing.es/inteligencia-artificial/feed/","Computing.es"),
   ("https://blogthinkbig.com/feed","Think Big"),
-  ("https://www.lavanguardia.com/rss/tecnologia","La Vanguardia Tecno")
+  ("https://www.lavanguardia.com/rss/tecnologia","La Vanguardia")
  ]
  # Feeds en español dedicados a ÉTICA / regulación / privacidad (verificados).
  FEEDS_ETI=[
@@ -259,6 +260,7 @@ def _guardar_noticias(items):
    "modelo de ia","modelos de ia","modelo de lenguaje","generativa","deepfake",
    "anthropic","copilot","redes neuronales","aprendizaje automático"])
  eti=[x for x in eti if es_ia(x)]
+ nov=[x for x in nov if es_ia(x)] # ¡Aseguramos que La Vanguardia y otros no cuelen cosas de Nintendo!
  # Añadir también ética RECIENTE detectada en los feeds de novedades
  # (los feeds de etiqueta ética se actualizan despacio).
  KW_ETI_TIT=["ética","etica","ético","etico","sesgo","privacid","regulac","regula",
