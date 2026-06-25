@@ -23,6 +23,54 @@ if not J.exists():err("no existe herramientas.json");sys.exit(1)
 with open(J) as f:t=json.load(f)
 t=[h for h in t if not h.get("es_prueba")]
 print(f"Actuales: {len(t)}")
+
+# ─────────────────────────────────────────────────────────────
+# 0) AUDITORÍA AUTÓNOMA: Limpieza de duplicados y URLs tóxicas
+# ─────────────────────────────────────────────────────────────
+_nombres_vistos = set()
+_t_limpio = []
+_duplicados = 0
+_webs_toxicas = 0
+
+# Señales de que una URL es un aparcamiento de dominios o un placeholder genérico
+DOMINIOS_TOXICOS = ["godaddy.com", "domainname.com", "hugingface.co", "github.com/None", "example.com", "tbd.com", "comingsoon.com"]
+
+for h in t:
+    # a) Purgador de duplicados por similitud (fuzzy match)
+    nm = h.get("nombre", "").lower().replace(" ", "").replace("-", "").replace("‑", "").replace("—", "")
+    
+    if nm in _nombres_vistos:
+        _duplicados += 1
+        continue
+        
+    encontrado = False
+    for visto in _nombres_vistos:
+        # Excepciones lógicas de la misma suite (ej. stt vs s2s)
+        if "stt" in nm and "s2s" in visto: continue
+        if "s2s" in nm and "stt" in visto: continue
+        
+        if len(nm) > 8 and len(visto) > 8 and (nm in visto or visto in nm):
+            _duplicados += 1
+            encontrado = True
+            break
+            
+    if encontrado: continue
+    
+    _nombres_vistos.add(nm)
+    
+    # b) Auditor de URLs tóxicas / alucinadas
+    web_actual = h.get("web", "").lower()
+    if any(toxico in web_actual for toxico in DOMINIOS_TOXICOS):
+        h["web"] = "" # La vacía para que el módulo de Backfill (paso 5c) le busque una nueva hoy mismo
+        h.pop("intentos_web", None) # Resetea la cola
+        _webs_toxicas += 1
+        
+    _t_limpio.append(h)
+
+if _duplicados or _webs_toxicas:
+    t = _t_limpio
+    print(f"Auditoría automática: {_duplicados} duplicados purgados, {_webs_toxicas} URLs tóxicas reseteadas.")
+
 ids={h["id"] for h in t}
 nombres=[h["nombre"] for h in t]
 
@@ -461,9 +509,9 @@ def completar_webs_con_ia(lista):
    "Eres un asistente web experto. Tu tarea es proporcionar la URL oficial EXACTA de estas herramientas de IA. "
    "Devuelve SOLO un array JSON, un objeto por elemento EN EL MISMO ORDEN, con los campos: nombre, web. "
    "REGLAS CRÍTICAS: "
-   "1. NO INVENTES dominios .com que puedan estar a la venta o aparcados. Usa el dominio real (muchas usan .ai, .io, o subdominios de la empresa matriz). "
-   "2. Por ejemplo, para herramientas de ByteDance como Seedance, su web real suele ser seedance2.ai u otros dominios .ai. "
-   "3. Si es un proyecto de GitHub, devuelve la URL de GitHub (ej: https://github.com/empresa/proyecto). "
+   "1. NO INVENTES dominios .com que puedan estar a la venta o aparcados. Usa el dominio real (muchas startups modernas usan .ai, .io, .so o subdominios). "
+   "2. Analiza el nombre de la empresa y la herramienta; a veces la URL correcta es un subdominio de la compañía matriz. "
+   "3. Si es un proyecto open-source, devuelve la URL de GitHub (ej: https://github.com/usuario/proyecto). "
    "4. Si no existe web oficial clara, devuelve el enlace provisional que viene en 'web_actual' o déjalo vacío \"\".\n"
    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
   )

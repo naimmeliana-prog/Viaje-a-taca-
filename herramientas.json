@@ -2530,36 +2530,6 @@
     "intentos_web": 9
   },
   {
-    "nombre": "IdeaVault Alpha",
-    "compania": "Startup",
-    "tipo": "Análisis de Mercado IA / Generación de Ideas",
-    "precio": "Freemium",
-    "descripcion": "Una herramienta de IA que explora Reddit para identificar problemas y quejas de usuarios, transformándolos en ideas de micro-SaaS y revelando nichos de mercado.",
-    "web": "https://ideavault-alpha.vercel.app/",
-    "funciones": [
-      "Análisis de contenido de Reddit",
-      "Identificación de problemas y necesidades de usuarios",
-      "Generación de ideas de micro-SaaS",
-      "Detección de nichos de mercado",
-      "Análisis de tendencias"
-    ],
-    "caracteristicas": [
-      "Enfocada en Reddit como fuente de datos",
-      "Utiliza IA para análisis de texto",
-      "Generación de ideas de negocio",
-      "Identificación de nichos",
-      "Versión Alpha"
-    ],
-    "etica": "La herramienta debe respetar la privacidad de los usuarios de Reddit al analizar sus publicaciones, anonimizando los datos y evitando la explotación de vulnerabilidades o la manipulación de información.",
-    "limite_gratis": "Plan gratuito con un número limitado de análisis de Reddit o sugerencias de ideas por mes.",
-    "id": "ideavault-alpha-98f0fa",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-23",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
     "nombre": "Jotform AI App Builder",
     "compania": "Jotform",
     "tipo": "Desarrollo de Aplicaciones IA / No-code/Low-code",
@@ -3049,30 +3019,6 @@
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
   },
   {
-    "nombre": "EdgeOne Makers",
-    "compania": "Tencent",
-    "tipo": "Desarrollo web",
-    "precio": "Freemium",
-    "descripcion": "Facilita la creación y despliegue rápido de agentes de IA en aplicaciones.",
-    "web": "https://www.tencent.com/en-us/edgeone",
-    "funciones": [
-      "Agilidad en desarrollo",
-      "Acceso a recursos"
-    ],
-    "caracteristicas": [
-      "Agilidad",
-      "Acceso"
-    ],
-    "etica": "Transparencia en procesos de IA.",
-    "id": "edgeone-makers-6a0a20",
-    "gratis": false,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false,
-    "limite_gratis": "Sin plan gratuito"
-  },
-  {
     "nombre": "Jalapeño",
     "compania": "OpenAI (en partnership with Broadcom)",
     "tipo": "Optimización de modelos",
@@ -3382,35 +3328,6 @@
     "intentos_web": 1
   },
   {
-    "nombre": "Cloudflare",
-    "compania": "Cloudflare, Inc.",
-    "tipo": "Generación de vídeo",
-    "precio": "Freemium",
-    "descripcion": "Infraestructura de centros de datos en órbita terrestre para ofrecer baja latencia en aplicaciones de IA, incluido el procesamiento de vídeo.",
-    "funciones": [
-      "Aceleración de inferencias de IA en tiempo real",
-      "Transcodificación de vídeo con IA en el borde",
-      "Distribución de contenido generativo a escala global",
-      "Seguridad DDoS para flujos de IA"
-    ],
-    "caracteristicas": [
-      "Nodos satelitales con conectividad láser",
-      "API de inferencia de modelo en el edge",
-      "Escalado automático según demanda",
-      "Cumplimiento con normas de privacidad internacionales"
-    ],
-    "etica": "Compromiso con la soberanía de datos, manteniendo la información del usuario dentro de la región de origen y minimizando el sesgo mediante modelos abiertos.",
-    "limite_gratis": "Plan gratuito con 10 GB de transferencia de datos de IA al mes y 100 000 inferencias mensuales.",
-    "web": "https://www.cloudflare.com",
-    "id": "cloudflare-3f0717",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false,
-    "intentos_web": 1
-  },
-  {
     "nombre": "Figma",
     "compania": "Figma Inc.",
     "tipo": "Productividad",
@@ -3524,66 +3441,6 @@
     "etica": "La plataforma promueve la transparencia al incluir información sobre licencias y políticas de privacidad de cada herramienta. Se evita la promoción de herramientas con sesgos conocidos.",
     "limite_gratis": "El plan gratuito permite búsquedas ilimitadas y acceso a la información básica; las funciones de exportación y alertas requieren suscripción.",
     "id": "launch-ai-directory-4281e5",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Customer Relationship Agents",
-    "compania": "CRM AI Solutions",
-    "tipo": "Agentes IA / CRM",
-    "precio": "Pago",
-    "descripcion": "Agentes conversacionales que actúan como “M” en CRM, automatizando seguimiento, segmentación y recomendaciones personalizadas.",
-    "web": "https://clarify.ai/crm-agents",
-    "funciones": [
-      "Automatiza el seguimiento de clientes y oportunidades de venta.",
-      "Segmenta clientes en tiempo real según comportamiento y datos históricos.",
-      "Genera recomendaciones de productos y acciones de marketing.",
-      "Integra con plataformas CRM como Salesforce, HubSpot y Zoho.",
-      "Proporciona análisis de sentimiento y métricas de interacción."
-    ],
-    "caracteristicas": [
-      "Conexión nativa con los principales CRM.",
-      "Modelo de lenguaje entrenado en datos de ventas y marketing.",
-      "Alertas y recordatorios automáticos.",
-      "Panel de control analítico con KPIs.",
-      "Cumplimiento con GDPR y normativas de privacidad."
-    ],
-    "etica": "Los datos de clientes se procesan bajo estrictas políticas de privacidad y se anonimiza la información sensible. Se implementan controles de sesgo en las recomendaciones.",
-    "limite_gratis": "Sin plan gratuito; la herramienta requiere suscripción anual con soporte dedicado.",
-    "id": "customer-relationship-agents-d1bcfa",
-    "gratis": false,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Listen Labs AI Interviewer",
-    "compania": "Listen Labs",
-    "tipo": "Entrevistas IA / Investigación de usuarios",
-    "precio": "Freemium",
-    "descripcion": "Utiliza IA para conducir entrevistas estructuradas con usuarios, transcribir, analizar sentimientos y extraer insights accionables para equipos de producto.",
-    "web": "https://listenlabs.com/interviewer",
-    "funciones": [
-      "Conduce entrevistas de audio y video con guiones predefinidos.",
-      "Transcribe automáticamente las respuestas en tiempo real.",
-      "Analiza sentimientos y detecta temas recurrentes.",
-      "Genera resúmenes y insights accionables.",
-      "Exporta resultados en formatos compatibles con herramientas de análisis."
-    ],
-    "caracteristicas": [
-      "Reconocimiento de voz multilingüe.",
-      "Análisis de tono y emoción.",
-      "Integración con herramientas de gestión de proyectos.",
-      "Almacenamiento seguro en la nube con cifrado.",
-      "API para automatizar flujos de trabajo."
-    ],
-    "etica": "La grabación y transcripción se realizan con consentimiento explícito del participante. Los datos se almacenan de forma segura y se eliminan tras el período de retención acordado.",
-    "limite_gratis": "El plan gratuito permite 5 entrevistas por mes y acceso a transcripciones básicas; las funciones avanzadas de análisis y exportación requieren suscripción.",
-    "id": "listen-labs-ai-interviewer-f4e0e2",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
@@ -3763,92 +3620,6 @@
     "pendiente_revision": false
   },
   {
-    "nombre": "IdeaVault AI",
-    "compania": "IdeaForge Labs",
-    "tipo": "Generador de ideas de micro‑SaaS",
-    "precio": "Freemium",
-    "descripcion": "Herramienta que analiza hilos de Reddit, extrae problemas recurrentes y sugiere micro‑SaaS viables con modelo de negocio preliminar.",
-    "web": "https://ideavault-alpha.vercel.app",
-    "funciones": [
-      "Extracción automática de temas y problemas de hilos de Reddit",
-      "Análisis de demanda y competencia en el mercado",
-      "Generación de propuestas de negocio con modelo de ingresos",
-      "Evaluación de viabilidad técnica y de mercado",
-      "Exportación de planes de negocio en PDF y Markdown"
-    ],
-    "caracteristicas": [
-      "Uso de embeddings de 768 dimensiones para comprensión semántica",
-      "Base de datos de 10 millones de hilos históricos",
-      "Interfaz de usuario basada en web con filtros por subreddits y categorías",
-      "API para integración con herramientas de gestión de proyectos",
-      "Actualizaciones automáticas de datos cada 24 h"
-    ],
-    "etica": "La herramienta no almacena datos personales de usuarios; los hilos se procesan de forma anónima y se respetan las políticas de Reddit. Se evita la generación de ideas que infrinjan derechos de autor o que promuevan contenido dañino.",
-    "limite_gratis": "Plan gratuito permite 5 análisis por mes y acceso a 3 categorías de subreddits.",
-    "id": "ideavault-ai-e93602",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Gradium stt-translate",
-    "compania": "Gradium AI",
-    "tipo": "Reconocimiento de voz / Transcripción",
-    "precio": "Freemium",
-    "descripcion": "Modelo multilingüe de reconocimiento de voz que convierte audio en texto con baja latencia y alta precisión.",
-    "web": "https://gradium.ai/stt-translate",
-    "funciones": [
-      "Transcripción en tiempo real de audio en más de 30 idiomas",
-      "Detección automática del idioma de origen",
-      "Soporte de streaming con latencia inferior a 200 ms",
-      "Exportación de transcripciones en formatos .txt, .srt y .json"
-    ],
-    "caracteristicas": [
-      "Arquitectura basada en transformers optimizados para GPU",
-      "Modelo de tamaño reducido para ejecución en edge devices",
-      "Corrección automática de errores ortográficos y puntuación",
-      "API REST y SDKs para Python, JavaScript y Java"
-    ],
-    "etica": "Gradium garantiza que los datos de audio se procesan encriptados y no se almacenan permanentemente, reduciendo riesgos de privacidad y sesgos lingüísticos.",
-    "limite_gratis": "Plan gratuito con 30 minutos de transcripción al mes y acceso a los 3 idiomas más populares.",
-    "id": "gradium-stt-translate-d57a44",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Gradium s2s-translate",
-    "compania": "Gradium AI",
-    "tipo": "Traducción automática",
-    "precio": "Freemium",
-    "descripcion": "Modelo de traducción automática que convierte texto de un idioma a otro con latencia mínima y alta calidad.",
-    "web": "https://gradium.ai/s2s-translate",
-    "funciones": [
-      "Traducción de texto en tiempo real entre 50+ pares de idiomas",
-      "Detección automática del idioma de origen",
-      "Modo batch para traducción de documentos completos",
-      "Integración vía API y plugins para plataformas CMS"
-    ],
-    "caracteristicas": [
-      "Red neuronal de última generación con atención dual",
-      "Optimización para inferencia en GPU y CPU",
-      "Mantenimiento de formato y estilo del texto original",
-      "Soporte de glosarios personalizados para dominios específicos"
-    ],
-    "etica": "Los datos de entrada se anonimizan y no se utilizan para entrenar modelos sin consentimiento, minimizando riesgos de sesgo y filtración de información confidencial.",
-    "limite_gratis": "Hasta 10 000 caracteres traducidos al mes en el plan gratuito.",
-    "id": "gradium-s2s-translate-003ec7",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
     "nombre": "Railway AI‑Native Cloud",
     "compania": "Railway",
     "tipo": "Infraestructura IA / Cloud",
@@ -3870,122 +3641,6 @@
     "etica": "Railway ofrece aislamiento de datos entre proyectos y cumplimiento con GDPR, evitando el uso no autorizado de datos de entrenamiento.",
     "limite_gratis": "Plan gratuito con 2 GPU‑hours al mes y 5 GB de almacenamiento de datos.",
     "id": "railway-ai-native-cloud-310b04",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Gradium stt‑translate",
-    "compania": "Gradium",
-    "tipo": "Reconocimiento de voz y traducción",
-    "precio": "Freemium",
-    "descripcion": "Modelo de reconocimiento de voz y traducción simultánea que supera a GPT‑Realtime‑Translate en precisión y latencia para los seis idiomas más usados.",
-    "web": "https://gradium.com/stt-translate",
-    "funciones": [
-      "Transcripción en tiempo real con alta exactitud",
-      "Traducción automática a varios idiomas simultáneamente",
-      "Detección automática del idioma de origen",
-      "Integración vía API para apps móviles y web",
-      "Soporte de voz continua sin interrupciones"
-    ],
-    "caracteristicas": [
-      "Latencia inferior a 200 ms",
-      "Precisión de transcripción > 96 % en pruebas internas",
-      "Optimizado para inglés, español, francés, alemán, chino y portugués",
-      "Modelo ligero que puede ejecutarse en servidores de borde",
-      "Actualizaciones mensuales con mejoras de vocabulario"
-    ],
-    "etica": "Gradium garantiza que los datos de audio se procesan encriptados y no se almacenan permanentemente, reduciendo riesgos de privacidad y sesgos lingüísticos.",
-    "limite_gratis": "Plan gratuito con 30 minutos de transcripción/traducción por mes y acceso limitado a los seis idiomas.",
-    "id": "gradium-stt-translate-bbc943",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Gradium s2s‑translate",
-    "compania": "Gradium",
-    "tipo": "Traducción de texto",
-    "precio": "Freemium",
-    "descripcion": "Modelo de traducción directa de texto a texto con latencia mínima, pensado para chats, plataformas colaborativas y herramientas de productividad.",
-    "web": "https://gradium.com/s2s-translate",
-    "funciones": [
-      "Traducción instantánea de frases y párrafos",
-      "Detección automática del idioma de origen",
-      "Soporte para más de 30 pares de idiomas",
-      "API REST y SDK para integración rápida",
-      "Modo de traducción contextual para conversaciones"
-    ],
-    "caracteristicas": [
-      "Latencia promedio < 100 ms por oración",
-      "Calidad comparable a traductores profesionales",
-      "Optimizado para textos cortos y diálogos",
-      "Capacidad de personalizar glosarios por dominio",
-      "Escalabilidad automática en la nube"
-    ],
-    "etica": "Gradium no almacena los textos traducidos sin consentimiento y aplica filtros para mitigar sesgos de género y cultura en las traducciones.",
-    "limite_gratis": "Plan gratuito con 10 000 caracteres traducidos al mes y acceso a los pares de idiomas más comunes.",
-    "id": "gradium-s2s-translate-60f39e",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "stt-translate",
-    "compania": "OpenVoice Labs",
-    "tipo": "Reconocimiento de voz y traducción",
-    "precio": "Freemium",
-    "descripcion": "Modelo de reconocimiento de voz y traducción en tiempo real que supera a GPT-realtime-translate en precisión y latencia para 20 idiomas.",
-    "web": "https://gradium.ai/stt-translate",
-    "funciones": [
-      "Transcripción automática de audio en tiempo real",
-      "Traducción simultánea a 20 idiomas",
-      "Detección automática del idioma de origen",
-      "Ajuste de vocabulario especializado por dominio"
-    ],
-    "caracteristicas": [
-      "Latencia inferior a 200 ms",
-      "Precisión de reconocimiento > 96 % en pruebas estándar",
-      "Modelo optimizado para dispositivos edge y servidores cloud",
-      "API REST y SDKs para Python, JavaScript y Java"
-    ],
-    "etica": "Los datos de audio se procesan bajo cifrado end‑to‑end y no se almacenan sin consentimiento; se aplican filtros para mitigar sesgos lingüísticos y culturales.",
-    "limite_gratis": "Plan gratuito con 30 minutos de transcripción y traducción al mes y acceso a 5 de los 20 idiomas.",
-    "id": "stt-translate-ffb10e",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Railway AI-native Cloud",
-    "compania": "Railway",
-    "tipo": "Infraestructura / Cloud IA",
-    "precio": "Freemium",
-    "descripcion": "Entorno de nube optimizado para cargas de trabajo de IA, con escalado automático y soporte nativo para modelos de aprendizaje profundo.",
-    "web": "https://railway.app",
-    "funciones": [
-      "Despliegue con un clic de modelos TensorFlow, PyTorch y ONNX",
-      "Escalado automático basado en uso de GPU/TPU",
-      "Monitorización en tiempo real de métricas de entrenamiento e inferencia",
-      "Integración con repositorios Git y pipelines CI/CD"
-    ],
-    "caracteristicas": [
-      "Instancias GPU de última generación (NVIDIA A100, AMD MI250)",
-      "Almacenamiento de datos en discos NVMe de alta velocidad",
-      "Facturación por segundo de uso de recursos",
-      "Entorno aislado por proyecto con control de acceso granular"
-    ],
-    "etica": "Railway garantiza la separación de datos entre proyectos y ofrece auditorías de uso para evitar entrenamientos no autorizados; cumple con GDPR y normas de privacidad de datos.",
-    "limite_gratis": "Plan gratuito con 5 GB de almacenamiento, 2 h de GPU al mes y despliegues ilimitados en contenedores sin GPU.",
-    "id": "railway-ai-native-cloud-376897",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-24",
