@@ -2,6 +2,54 @@ import json,re,sys,hashlib,os
 from datetime import datetime,timezone
 from pathlib import Path
 
+# Frases "vacías" que algunos modelos devuelven en vez de un dato real.
+_NO_DATO={"no especificado","no especificada","desconocido","desconocida","n/a","na","none","null","sin especificar","-",""}
+def url_valida(v):
+ if not isinstance(v,str) or not v.strip().lower().startswith(("http://","https://")) or v.strip().lower() in _NO_DATO:
+  return False
+ # Blacklist de dominios marcados recurrentemente por phising o dominios genéricos peligrosos
+ blacklist = [".zip", "onbrand.slidespeak.co"]
+ return not any(b in v.lower() for b in blacklist)
+
+def enlace_vivo(url):
+ """Comprueba si una web existe y NO es un dominio en venta/aparcado.
+ Mantiene la tolerancia a Cloudflare (si da error HTTP asume que está viva)."""
+ import socket as _sock, ssl as _ssl
+ import urllib.request as _u
+ from urllib.parse import urlparse as _up
+ if not url_valida(url):return False
+ host=_up(url).hostname or ""
+ try:
+  _sock.gethostbyname(host)
+ except Exception:
+  return False # No hay DNS, web muerta
+  
+ _ctx=_ssl.create_default_context()
+ _ctx.check_hostname=False
+ _ctx.verify_mode=_ssl.CERT_NONE
+ try:
+  req=_u.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+  with _u.urlopen(req, timeout=8, context=_ctx) as r:
+   # Si responde bien, leemos el contenido para cazar cybersquatters
+   html = r.read(8192).decode("utf-8", errors="ignore").lower()
+   toxicos = ["domain is for sale", "buy this domain", "godaddy", "hugedomains", "sedo.com", "domain has expired", "this page is parked", "inquire about this domain", "afternic", "window.location.href=\"/lander\""]
+   if any(t in html for t in toxicos):
+    return False # Es una web de venta de dominios
+   
+   # Comprobar redirecciones meta y javascript de aparcamiento
+   if "/lander" in html or "parking-page" in html:
+    return False
+ except _u.HTTPError as e:
+  if e.code in (404, 410):
+   return False # Si es un 404 real (como un repo de Github borrado), la damos por muerta
+  return True # Resto de HTTP Errors (403, 503) los damos por vivos para no asustarnos con Cloudflare
+ except Exception:
+  pass # Timeouts... lo perdonamos
+ return True
+
+
+
+
 J=Path(__file__).parent/"herramientas.json"
 G=os.environ.get("OPENROUTER_API_KEY","")
 MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
@@ -12,8 +60,8 @@ _modelo_env=os.environ.get("OPENROUTER_MODEL","").strip()
 MODELOS=[_modelo_env] if _modelo_env else [
  "openrouter/free"
 ]
-REINTENTOS=3          # intentos por modelo ante un 429
-ESPERA_BASE=20        # segundos; se multiplica en cada reintento (20, 40, 60)
+REINTENTOS=8          # intentos por modelo ante un 429
+ESPERA_BASE=8         # segundos; los modelos gratuitos de openrouter se colapsan a ratos
 
 # Anotaciones visibles en GitHub Actions (salen resaltadas en rojo/amarillo)
 def err(m):print("::error::"+m)
@@ -23,6 +71,60 @@ if not J.exists():err("no existe herramientas.json");sys.exit(1)
 with open(J) as f:t=json.load(f)
 t=[h for h in t if not h.get("es_prueba")]
 print(f"Actuales: {len(t)}")
+
+# ─────────────────────────────────────────────────────────────
+# 0) AUDITORÍA AUTÓNOMA: Limpieza de duplicados y URLs tóxicas
+# ─────────────────────────────────────────────────────────────
+_nombres_vistos = set()
+_t_limpio = []
+_duplicados = 0
+_webs_toxicas = 0
+
+# Señales de que una URL es un aparcamiento de dominios o un placeholder genérico
+DOMINIOS_TOXICOS = ["godaddy.com", "domainname.com", "hugingface.co", "github.com/None", "example.com", "tbd.com", "comingsoon.com", "example.org", "test.com"]
+
+for h in t:
+    # a) Purgador de duplicados por similitud (fuzzy match)
+    nm = h.get("nombre", "").lower().replace(" ", "").replace("-", "").replace("‑", "").replace("—", "")
+    
+    if nm in _nombres_vistos:
+        _duplicados += 1
+        continue
+        
+    encontrado = False
+    for visto in _nombres_vistos:
+        # Excepciones lógicas de la misma suite (ej. stt vs s2s)
+        if "stt" in nm and "s2s" in visto: continue
+        if "s2s" in nm and "stt" in visto: continue
+        
+        # Purgado difuso de versiones (ej: glm vs glm5.2)
+        # Si comparten los primeros 4 caracteres y la diferencia son números, lo consideramos el mismo producto
+        # o si uno está contenido en el otro (con límite menor para nombres cortos)
+        if (len(nm) > 3 and len(visto) > 3) and (nm in visto or visto in nm):
+            _duplicados += 1
+            encontrado = True
+            break
+            
+    if encontrado: continue
+    
+    _nombres_vistos.add(nm)
+    
+    # b) Auditor de URLs tóxicas / alucinadas
+    web_actual = h.get("web", "")
+    if web_actual:
+        if any(toxico in web_actual.lower() for toxico in DOMINIOS_TOXICOS) or not enlace_vivo(web_actual):
+            # Si era la única que teníamos y es tóxica, probamos a volver al provisional o la dejamos vacía
+            prov = h.get("li") or h.get("enlace")
+            h["web"] = prov if prov else ""
+            h.pop("intentos_web", None) # Resetea la cola
+            _webs_toxicas += 1
+        
+    _t_limpio.append(h)
+
+if _duplicados or _webs_toxicas:
+    t = _t_limpio
+    print(f"Auditoría automática: {_duplicados} duplicados purgados, {_webs_toxicas} URLs tóxicas reseteadas.")
+
 ids={h["id"] for h in t}
 nombres=[h["nombre"] for h in t]
 
@@ -116,14 +218,12 @@ def _guardar_noticias(items):
  FEEDS_NOV=[
   ("https://www.xataka.com/tag/inteligencia-artificial/rss2.xml","Xataka"),
   ("https://www.genbeta.com/tag/inteligencia-artificial/rss2.xml","Genbeta"),
+  ("https://www.applesfera.com/tag/inteligencia-artificial/rss2.xml","Applesfera"),
+  ("https://www.xatakandroid.com/tag/inteligencia-artificial/rss2.xml","Xataka Android"),
   ("https://wwwhatsnew.com/tag/inteligencia-artificial/feed/","WWWhat's new"),
   ("https://planetachatbot.com/feed/","Planeta Chatbot"),
-  ("https://blogthinkbig.com/feed","Think Big"),
-  ("https://eliascasto.com/feed/","Elias Casto IA"),
-  ("https://hipertextual.com/tag/inteligencia-artificial/feed","Hipertextual"),
-  ("https://www.muycomputer.com/es/feed/","MuyComputer"),
-  ("https://computerhoy.com/etiquetas/inteligencia-artificial/feed","Computer Hoy"),
-  ("https://es.wired.com/tag/inteligencia-artificial/feed/","Wired en Español")
+  ("https://www.computing.es/inteligencia-artificial/feed/","Computing.es"),
+  ("https://blogthinkbig.com/feed","Think Big")
  ]
  # Feeds en español dedicados a ÉTICA / regulación / privacidad (verificados).
  FEEDS_ETI=[
@@ -132,8 +232,6 @@ def _guardar_noticias(items):
   ("https://wwwhatsnew.com/tag/etica/feed/","WWWhat's new"),
   ("https://blogthinkbig.com/tag/etica/feed","Think Big"),
   ("https://www.genbeta.com/tag/privacidad/rss2.xml","Genbeta"),
-  ("https://hipertextual.com/tag/privacidad/feed","Hipertextual"),
-  ("https://es.wired.com/tag/privacidad/feed/","Wired Privacidad"),
   ("https://derechodelared.com/feed/","Derecho de la Red")
  ]
  def _bajar(feeds):
@@ -164,6 +262,7 @@ def _guardar_noticias(items):
    "modelo de ia","modelos de ia","modelo de lenguaje","generativa","deepfake",
    "anthropic","copilot","redes neuronales","aprendizaje automático"])
  eti=[x for x in eti if es_ia(x)]
+ nov=[x for x in nov if es_ia(x)] # ¡Aseguramos que La Vanguardia y otros no cuelen cosas de Nintendo!
  # Añadir también ética RECIENTE detectada en los feeds de novedades
  # (los feeds de etiqueta ética se actualizan despacio).
  KW_ETI_TIT=["ética","etica","ético","etico","sesgo","privacid","regulac","regula",
@@ -240,9 +339,12 @@ def llamar_ia(prompt):
    if rp.status_code==200:
     print(f"✓ IA OK con modelo {modelo}")
     try:
-     return rp.json()["choices"][0]["message"]["content"],True
+     js = rp.json()
+     if "choices" in js: return js["choices"][0]["message"]["content"],True
+     elif "candidates" in js: return js["candidates"][0]["content"]["parts"][0]["text"],True # Fallback just in case openrouter passes native gemini format
+     else: raise Exception("No choices or candidates found in response")
     except Exception as ex:
-     warn(f"[{modelo}] respuesta 200 pero ilegible: {ex}")
+     warn(f"[{modelo}] respuesta 200 pero ilegible: {ex} - {rp.text[:150]}")
      return None,True
    if rp.status_code==429:
     cuota=True
@@ -293,11 +395,55 @@ elif n:
  )
  tx,ia_ok=llamar_ia(p)
  if tx:
-  m=re.search(r"\[[\s\S]*\]",tx)
+  # Limpiar bloques markdown si la IA los devuelve
+  tx_clean = tx.replace("```json", "").replace("```", "").strip()
+  m=re.search(r"\[[\s\S]*\]",tx_clean)
   if m:
    try:
-    for h in json.loads(m.group()):
-     if h.get("nombre","").lower() not in [x.lower() for x in nombres]:
+    json_str = m.group()
+    # 1. Quita comas huérfanas al final de listas o diccionarios
+    json_str = re.sub(r',(\s*[\]}])', r'', json_str)
+    # 2. Quita saltos de línea y tabulaciones raras
+    json_str = json_str.replace('\n', ' ').replace('\r', '').replace('\t', ' ')
+    _nombres_bajos = [x.lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in nombres]
+    
+    data_parsed = []
+    # Intento 1: Parseo nativo
+    import json, ast
+    try:
+        data_parsed = json.loads(json_str)
+    except Exception:
+        # Intento 2: Reparación manual muy agresiva
+        # Reemplazar valores falsamente booleanos
+        json_str_py = json_str.replace("true", "True").replace("false", "False").replace("null", "None")
+        try:
+            data_parsed = ast.literal_eval(json_str_py)
+        except Exception:
+            # Intento 3: Extracción regex de diccionarios (cuando hay texto pegado fuera o un error irrecuperable en un elemento)
+            # Buscamos bloques que empiecen con {"nombre" y acaben con } 
+            # Es un parche final, pero a veces salva la mitad de las herramientas.
+            objetos = re.findall(r'\{[^{}]*"nombre"[^{}]*\}', json_str_py)
+            if not objetos:
+                raise Exception("El JSON estaba completamente roto y no tenía estructura.")
+            for obj_str in objetos:
+                try:
+                    data_parsed.append(ast.literal_eval(obj_str))
+                except:
+                    pass
+            if not data_parsed:
+                raise Exception("No se pudo rescatar ningún objeto.")
+                
+    for h in data_parsed:
+     nm_limpio = h.get("nombre","").lower().replace("-", " ").replace("‑", " ").replace("—", " ")
+     
+     # Check if a very similar name already exists (fuzzy matching)
+     existe = False
+     for existente in _nombres_bajos:
+         if nm_limpio == existente or (len(nm_limpio) > 5 and (nm_limpio in existente or existente in nm_limpio)):
+             existe = True
+             break
+     
+     if not existe:
       c.append(h)
    except Exception as ex:
     warn(f"No se pudo parsear el JSON de IA: {ex}")
@@ -350,8 +496,30 @@ def _ph_candidatos(items, conocidas):
 
 ph=_ph_candidatos(n, nombres)
 # Evitar duplicados con lo ya detectado por Gemini/heurística
-_ya=set((x.get("nombre","") or "").lower() for x in c)
-nuevas_ph=[x for x in ph if x["nombre"].lower() not in _ya]
+_ya=set((x.get("nombre","") or "").lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in c)
+_nombres_conocidos_bajos = [x.lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in nombres]
+
+nuevas_ph = []
+for x in ph:
+    nm_ph = x["nombre"].lower().replace("-", " ").replace("‑", " ").replace("—", " ")
+    
+    # Skip if it's already in the AI candidate list 'c'
+    existe_en_c = False
+    for ya in _ya:
+        if nm_ph == ya or (len(nm_ph) > 5 and (nm_ph in ya or ya in nm_ph)):
+            existe_en_c = True
+            break
+            
+    # Skip if it's already in the database
+    existe_en_db = False
+    if not existe_en_c:
+        for existente in _nombres_conocidos_bajos:
+            if nm_ph == existente or (len(nm_ph) > 5 and (nm_ph in existente or existente in nm_ph)):
+                existe_en_db = True
+                break
+                
+    if not existe_en_c and not existe_en_db:
+        nuevas_ph.append(x)
 # Control de crecimiento: no añadir nuevas si ya hay muchas pendientes sin cerrar.
 # Así el catálogo no crece sin control y se da tiempo a completar/cerrar las previas.
 _pend_actuales=sum(1 for h in t if h.get("pendiente_revision"))
@@ -419,22 +587,38 @@ def enriquecer_con_ia(lista):
    warn(f"Fallo enriqueciendo con IA OpenRouter: {ex}")
  return enr_total
 
+def buscar_en_internet(query):
+ try:
+  from ddgs import DDGS
+  resultados = DDGS().text(query, max_results=3)
+  return "\n".join([f"[{r.get('href')}] {r.get('body')}" for r in resultados])
+ except Exception:
+  return ""
+
 def completar_webs_con_ia(lista):
- """Pide a IA la URL OFICIAL de cada herramienta sin web válida.
- Solo acepta URLs reales (http/https); si IA no la sabe, deja la web vacía.
- Devuelve cuántas webs se rellenaron. No rompe si IA falla."""
+ """Pide a IA la URL OFICIAL de cada herramienta buscando en Internet de verdad (vía DuckDuckGo)."""
  if not G or not lista:return 0
  try:
-  lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120]} for x in lista[:10]]
+  lote=[]
+  print(f"  Buscando en internet {len(lista)} herramientas...")
+  for x in lista:
+   import time
+   time.sleep(1) # Pequeña pausa para no saturar DuckDuckGo
+   contexto_web = buscar_en_internet(x.get("nombre","") + " AI tool official website")
+   lote.append({
+       "nombre": x.get("nombre",""),
+       "resultados_de_google": contexto_web,
+       "web_provisional": x.get("web","")
+   })
+   
   pw=(
-   "Eres un asistente que SOLO devuelve URLs oficiales de herramientas de IA. "
-   "Para cada elemento de la lista, indica la URL oficial del producto (su web o "
-   "su página de GitHub si es open-source). "
-   "Devuelve SOLO un array JSON, un objeto por elemento EN EL MISMO ORDEN, con los "
-   "campos: nombre, web. "
-   "REGLAS IMPORTANTES: la 'web' debe empezar por https:// y ser una URL real que "
-   "conozcas con seguridad. Si NO estás seguro de la URL oficial, devuelve web como "
-   "cadena vacía \"\". Nunca inventes dominios ni pongas texto como 'No especificado'.\n"
+   "Eres un investigador web. Te doy una lista de herramientas de IA junto con los primeros resultados de búsqueda de Google (DuckDuckGo) para cada una. "
+   "Tu tarea es leer esos resultados reales de internet y extraer la URL OFICIAL de la herramienta. "
+   "Devuelve SOLO un array JSON, un objeto por elemento EN EL MISMO ORDEN, con los campos: nombre, web. "
+   "REGLAS CRÍTICAS: "
+   "1. Usa SÓLO las URLs que veas en los 'resultados_de_google'. No inventes dominios. "
+   "2. Descarta agregadores como producthunt.com, saashub.com, linkedin.com o noticias. Queremos la web de la startup o su GitHub. "
+   "3. Si los resultados de Google no muestran la web oficial clara, devuelve la 'web_provisional' que te doy o déjalo vacío \"\".\n"
    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
   )
   txw,okw=llamar_ia(pw)
@@ -487,10 +671,6 @@ def ok_lista(v):
  return isinstance(v,list) and len(v)>0 and not (len(v)==1 and str(v[0]).strip().lower() in ("pendiente","automatico","automático",""))
 def ok_txt(v):
  return isinstance(v,str) and len(v.strip())>15 and "pendiente" not in v.lower()
-# Frases "vacías" que algunos modelos devuelven en vez de un dato real.
-_NO_DATO={"no especificado","no especificada","desconocido","desconocida","n/a","na","none","null","sin especificar","-",""}
-def url_valida(v):
- return isinstance(v,str) and v.strip().lower().startswith(("http://","https://")) and v.strip().lower() not in _NO_DATO
 # Dominios de agregadores/noticias: NO son la web oficial de la herramienta.
 _DOMINIOS_AGREGADORES=("producthunt.com","news.ycombinator.com","ycombinator.com",
  "techcrunch.com","theverge.com","venturebeat.com","arstechnica.com","wired.com",
@@ -502,36 +682,15 @@ def es_web_oficial(v):
  low=v.lower()
  return not any(dom in low for dom in _DOMINIOS_AGREGADORES)
 def limpiar_web(x):
- """Devuelve la web OFICIAL si la hay, o cadena vacía. Descarta enlaces a
- agregadores como Product Hunt (que no son la web real de la herramienta)."""
+ """Devuelve la web oficial si la hay. Si solo hay enlace a agregador (ej. ProductHunt),
+ DEVUELVE ESE ENLACE provisionalmente para que la web no se quede en blanco desde el día 1.
+ La función de Backfill intentará sustituirlo por el oficial en el futuro."""
  for cand in (x.get("web"),x.get("li"),x.get("enlace")):
-  if es_web_oficial(cand):return cand.strip()
+  if es_web_oficial(cand): return cand.strip()
+ # Si no hay oficial, devolvemos el provisional (ProductHunt) en vez de vacío
+ for cand in (x.get("web"),x.get("li"),x.get("enlace")):
+  if url_valida(cand): return cand.strip()
  return ""
-def enlace_vivo(url):
- """True si la URL responde (DNS resuelve y HTTP no es 404/410/DNS_FAIL).
- Conservador: ante cualquier duda (timeout, bloqueo anti-bot) devuelve True
- para NO borrar webs buenas por un fallo temporal de red."""
- import socket as _sock, ssl as _ssl
- import urllib.request as _u, urllib.error as _ue
- from urllib.parse import urlparse as _up
- if not url_valida(url):return False
- host=_up(url).hostname or ""
- try:
-  _sock.gethostbyname(host)        # DNS: si no existe el dominio -> caída real
- except Exception:
-  return False
- _ctx=_ssl.create_default_context();_ctx.check_hostname=False;_ctx.verify_mode=_ssl.CERT_NONE
- for metodo in ("HEAD","GET"):
-  try:
-   req=_u.Request(url,method=metodo,headers={"User-Agent":"Mozilla/5.0 (compatible; ItacaLinkCheck/1.0)"})
-   _u.urlopen(req,timeout=15,context=_ctx)
-   return True
-  except _ue.HTTPError as e:
-   if e.code in (404,410):return False      # no existe / eliminado -> caída real
-   return True                               # 403/405/429/503... = vivo pero protegido
-  except Exception:
-   continue
- return True   # timeouts/errores de red: no penalizar (conservador)
 
 new=[]
 for x in c:
@@ -629,8 +788,8 @@ if pend:
 webs_limpiadas=0
 for h in t:
  w=h.get("web","")
- # Solo vaciar webs realmente INVÁLIDAS (no las de agregadores: esas se
- # mantienen como provisional y el backfill intentará sustituirlas).
+ # Solo vaciar webs realmente INVÁLIDAS. Las de agregadores (producthunt) se vacían SOLO cuando entran 
+ # en la función de backfill, para no dejarlas en blanco hasta que la IA encuentre su reemplazo.
  if w and not url_valida(w):
   h["web"]=""
   webs_limpiadas+=1
@@ -665,6 +824,7 @@ if con_web:
 #     seguridad, la deja vacía (la web mostrará "no disponible"). Sin clave, nada.
 # ─────────────────────────────────────────────────────────────
 # Incluye las que no tienen web Y las que apuntan a un agregador (Product Hunt, etc.)
+# Intentar mejorar las que no tienen web o usan un agregador
 sin_web=[h for h in t if not es_web_oficial(h.get("web",""))]
 # Ordenar por intentos_web para no quedarnos atascados en las que Gemini no sabe
 sin_web.sort(key=lambda h: h.get("intentos_web", 0))
