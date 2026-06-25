@@ -2,6 +2,42 @@ import json,re,sys,hashlib,os
 from datetime import datetime,timezone
 from pathlib import Path
 
+# Frases "vacías" que algunos modelos devuelven en vez de un dato real.
+_NO_DATO={"no especificado","no especificada","desconocido","desconocida","n/a","na","none","null","sin especificar","-",""}
+def url_valida(v):
+ return isinstance(v,str) and v.strip().lower().startswith(("http://","https://")) and v.strip().lower() not in _NO_DATO
+
+def enlace_vivo(url):
+ """Comprueba si una web existe y NO es un dominio en venta/aparcado.
+ Mantiene la tolerancia a Cloudflare (si da error HTTP asume que está viva)."""
+ import socket as _sock, ssl as _ssl
+ import urllib.request as _u
+ from urllib.parse import urlparse as _up
+ if not url_valida(url):return False
+ host=_up(url).hostname or ""
+ try:
+  _sock.gethostbyname(host)
+ except Exception:
+  return False # No hay DNS, web muerta
+  
+ _ctx=_ssl.create_default_context()
+ _ctx.check_hostname=False
+ _ctx.verify_mode=_ssl.CERT_NONE
+ try:
+  req=_u.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+  with _u.urlopen(req, timeout=8, context=_ctx) as r:
+   # Si responde bien, leemos el contenido para cazar cybersquatters
+   html = r.read(8192).decode("utf-8", errors="ignore").lower()
+   toxicos = ["domain is for sale", "buy this domain", "godaddy", "hugedomains", "sedo.com", "domain has expired", "this page is parked", "inquire about this domain", "afternic"]
+   if any(t in html for t in toxicos):
+    return False # Es una web de venta de dominios
+ except Exception:
+  pass # 403, 429, timeouts... lo perdonamos por culpa de los anti-bots
+ return True
+
+
+
+
 J=Path(__file__).parent/"herramientas.json"
 G=os.environ.get("OPENROUTER_API_KEY","")
 MODO_PRUEBA=os.environ.get("MODO_PRUEBA","")=="1"
@@ -566,10 +602,6 @@ def ok_lista(v):
  return isinstance(v,list) and len(v)>0 and not (len(v)==1 and str(v[0]).strip().lower() in ("pendiente","automatico","automático",""))
 def ok_txt(v):
  return isinstance(v,str) and len(v.strip())>15 and "pendiente" not in v.lower()
-# Frases "vacías" que algunos modelos devuelven en vez de un dato real.
-_NO_DATO={"no especificado","no especificada","desconocido","desconocida","n/a","na","none","null","sin especificar","-",""}
-def url_valida(v):
- return isinstance(v,str) and v.strip().lower().startswith(("http://","https://")) and v.strip().lower() not in _NO_DATO
 # Dominios de agregadores/noticias: NO son la web oficial de la herramienta.
 _DOMINIOS_AGREGADORES=("producthunt.com","news.ycombinator.com","ycombinator.com",
  "techcrunch.com","theverge.com","venturebeat.com","arstechnica.com","wired.com",
@@ -590,33 +622,6 @@ def limpiar_web(x):
  for cand in (x.get("web"),x.get("li"),x.get("enlace")):
   if url_valida(cand): return cand.strip()
  return ""
-def enlace_vivo(url):
- """Comprueba si una web existe y NO es un dominio en venta/aparcado.
- Mantiene la tolerancia a Cloudflare (si da error HTTP asume que está viva)."""
- import socket as _sock, ssl as _ssl
- import urllib.request as _u
- from urllib.parse import urlparse as _up
- if not url_valida(url):return False
- host=_up(url).hostname or ""
- try:
-  _sock.gethostbyname(host)
- except Exception:
-  return False # No hay DNS, web muerta
-  
- _ctx=_ssl.create_default_context()
- _ctx.check_hostname=False
- _ctx.verify_mode=_ssl.CERT_NONE
- try:
-  req=_u.Request(url, headers={"User-Agent":"Mozilla/5.0"})
-  with _u.urlopen(req, timeout=8, context=_ctx) as r:
-   # Si responde bien, leemos el contenido para cazar cybersquatters
-   html = r.read(8192).decode("utf-8", errors="ignore").lower()
-   toxicos = ["domain is for sale", "buy this domain", "godaddy", "hugedomains", "sedo.com", "domain has expired", "this page is parked", "inquire about this domain", "afternic"]
-   if any(t in html for t in toxicos):
-    return False # Es una web de venta de dominios
- except Exception:
-  pass # 403, 429, timeouts... lo perdonamos por culpa de los anti-bots
- return True
 
 new=[]
 for x in c:
