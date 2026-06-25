@@ -220,8 +220,7 @@ def _guardar_noticias(items):
   ("https://wwwhatsnew.com/tag/inteligencia-artificial/feed/","WWWhat's new"),
   ("https://planetachatbot.com/feed/","Planeta Chatbot"),
   ("https://www.computing.es/inteligencia-artificial/feed/","Computing.es"),
-  ("https://blogthinkbig.com/feed","Think Big"),
-  ("https://www.lavanguardia.com/rss/tecnologia","La Vanguardia")
+  ("https://blogthinkbig.com/feed","Think Big")
  ]
  # Feeds en español dedicados a ÉTICA / regulación / privacidad (verificados).
  FEEDS_ETI=[
@@ -398,10 +397,28 @@ elif n:
   m=re.search(r"\[[\s\S]*\]",tx_clean)
   if m:
    try:
-    # A veces devuelven comas finales inválidas, las intentamos limpiar
-    json_str = re.sub(r',(\s*[\]}])', r'', m.group())
+    # Limpiador avanzado de JSON: quita comas finales, escapa comillas dobles internas mal puestas.
+    json_str = m.group()
+    # 1. Quita comas huérfanas al final de listas o diccionarios
+    json_str = re.sub(r',(\s*[\]}])', r'', json_str)
+    # 2. Reemplaza los saltos de línea literales por espacios dentro de las cadenas para evitar roturas
+    json_str = json_str.replace('\n', ' ')
     _nombres_bajos = [x.lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in nombres]
-    for h in json.loads(json_str):
+    
+    # Intento de parseo
+    import ast
+    try:
+        data_parsed = json.loads(json_str)
+    except json.JSONDecodeError:
+        # Si falla el parseo estricto, intenta evaluar el string como un dict de python (es mucho más tolerante con comillas)
+        try:
+            # Reemplazar valores booleanos
+            json_str_py = json_str.replace("true", "True").replace("false", "False").replace("null", "None")
+            data_parsed = ast.literal_eval(json_str_py)
+        except Exception:
+            raise Exception("No se pudo reparar el JSON ni evaluarlo")
+            
+    for h in data_parsed:
      nm_limpio = h.get("nombre","").lower().replace("-", " ").replace("‑", " ").replace("—", " ")
      
      # Check if a very similar name already exists (fuzzy matching)
