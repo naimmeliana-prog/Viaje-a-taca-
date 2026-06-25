@@ -1,6 +1,8 @@
 name: Actualizar herramientas IA
 on:
   schedule:
+    # Cada 2 días a las 08:00 UTC (~10:00 España).
+    # La cuota gratuita se reinicia a medianoche del Pacífico.
     - cron: "0 8 */2 * *"
   workflow_dispatch:
     inputs:
@@ -26,21 +28,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install feedparser requests
-      - name: Forzar modelos gratuitos
-        run: |
-          sed -i 's/"meta-llama\/llama-3.3-70b-instruct:free"/"google\/gemini-2.0-flash-lite-preview-02-05:free"/g' update_tools.py
-          sed -i 's/"google\/gemini-2.0-flash-lite-preview-02-05:free"/"google\/gemini-2.0-pro-exp-02-05:free"/g' update_tools.py
-          sed -i 's/"qwen\/qwen-2.5-coder-32b-instruct:free"/"cognitivecomputations\/dolphin3.0-r1-mistral-24b:free"/g' update_tools.py
-          sed -i 's/"mistralai\/mistral-7b-instruct:free"/"deepseek\/deepseek-r1:free"/g' update_tools.py
-          # Borrar las pausas largas de 20 y 40 segundos
-          sed -i 's/ESPERA_BASE=20/ESPERA_BASE=3/g' update_tools.py
+      - run: pip install feedparser requests ddgs
+
       - name: Buscar herramientas
         env:
           OPENROUTER_API_KEY: ${{ secrets.ITACA }}
           MODO_PRUEBA: ${{ inputs.modo_prueba || '0' }}
         run: python3 update_tools.py
 
+      # Regenera data/herramientas.js a partir del JSON, sin tocar el
+      # cargador (mantiene URLs, intervalo y toda la lógica de actualización).
       - name: Regenerar data/herramientas.js
         run: python3 build_js.py
 
