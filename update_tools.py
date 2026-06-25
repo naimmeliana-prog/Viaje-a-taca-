@@ -553,21 +553,38 @@ def enriquecer_con_ia(lista):
    warn(f"Fallo enriqueciendo con IA OpenRouter: {ex}")
  return enr_total
 
+def buscar_en_internet(query):
+ try:
+  from ddgs import DDGS
+  resultados = DDGS().text(query, max_results=3)
+  return "\n".join([f"[{r.get('href')}] {r.get('body')}" for r in resultados])
+ except Exception:
+  return ""
+
 def completar_webs_con_ia(lista):
- """Pide a IA la URL OFICIAL de cada herramienta sin web válida.
- Solo acepta URLs reales (http/https); si IA no la sabe, deja la web vacía.
- Devuelve cuántas webs se rellenaron. No rompe si IA falla."""
+ """Pide a IA la URL OFICIAL de cada herramienta buscando en Internet de verdad (vía DuckDuckGo)."""
  if not G or not lista:return 0
  try:
-  lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120],"web_actual":x.get("web","")} for x in lista]
+  lote=[]
+  print(f"  Buscando en internet {len(lista)} herramientas...")
+  for x in lista:
+   import time
+   time.sleep(1) # Pequeña pausa para no saturar DuckDuckGo
+   contexto_web = buscar_en_internet(x.get("nombre","") + " AI tool official website")
+   lote.append({
+       "nombre": x.get("nombre",""),
+       "resultados_de_google": contexto_web,
+       "web_provisional": x.get("web","")
+   })
+   
   pw=(
-   "Eres un asistente web experto. Tu tarea es proporcionar la URL oficial EXACTA de estas herramientas de IA. "
+   "Eres un investigador web. Te doy una lista de herramientas de IA junto con los primeros resultados de búsqueda de Google (DuckDuckGo) para cada una. "
+   "Tu tarea es leer esos resultados reales de internet y extraer la URL OFICIAL de la herramienta. "
    "Devuelve SOLO un array JSON, un objeto por elemento EN EL MISMO ORDEN, con los campos: nombre, web. "
    "REGLAS CRÍTICAS: "
-   "1. NO INVENTES dominios .com que puedan estar a la venta o aparcados. Usa el dominio real (muchas startups modernas usan .ai, .io, .so o subdominios). "
-   "2. Analiza el nombre de la empresa y la herramienta; a veces la URL correcta es un subdominio de la compañía matriz. "
-   "3. Si es un proyecto open-source, devuelve la URL de GitHub (ej: https://github.com/usuario/proyecto). "
-   "4. Si no existe web oficial clara, devuelve el enlace provisional que viene en 'web_actual' o déjalo vacío \"\".\n"
+   "1. Usa SÓLO las URLs que veas en los 'resultados_de_google'. No inventes dominios. "
+   "2. Descarta agregadores como producthunt.com, saashub.com, linkedin.com o noticias. Queremos la web de la startup o su GitHub. "
+   "3. Si los resultados de Google no muestran la web oficial clara, devuelve la 'web_provisional' que te doy o déjalo vacío \"\".\n"
    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
   )
   txw,okw=llamar_ia(pw)
