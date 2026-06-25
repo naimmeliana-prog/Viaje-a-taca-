@@ -1457,7 +1457,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6,
+    "intentos_web": 7,
     "limite_gratis": "Ofrece funcionalidades básicas de gestión de forma gratuita."
   },
   {
@@ -1488,7 +1488,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 14,
+    "intentos_web": 15,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1542,7 +1542,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 14,
+    "intentos_web": 15,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1620,7 +1620,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
+    "intentos_web": 5,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones avanzadas."
   },
   {
@@ -3267,7 +3267,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 11
+    "intentos_web": 12
   },
   {
     "nombre": "Oracle",
@@ -3392,7 +3392,7 @@
     "tipo": "Comparación de modelos ASR",
     "precio": "Gratuito",
     "descripcion": "Plataforma pública que compara modelos de reconocimiento automático de voz (ASR) usando métricas de precisión, latencia y consumo energético con datos del mundo real.",
-    "web": "https://ffasr.org/leaderboard",
+    "web": "",
     "funciones": [
       "Publica resultados de benchmark de modelos ASR.",
       "Permite comparar precisión, latencia y consumo energético.",
@@ -3415,7 +3415,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Launch‑AI Directory",
@@ -3453,7 +3453,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite crear y desplegar agentes de IA como aplicaciones web en cuestión de minutos, sin necesidad de infraestructura propia.",
-    "web": "https://edgeone.tencent.com",
+    "web": "",
     "funciones": [
       "Diseñador visual de flujos conversacionales",
       "Despliegue automático en hosting propio o en la nube de EdgeOne",
@@ -3473,7 +3473,8 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Plan gratuito incluye 3 agentes activos, 500 interacciones mensuales y acceso a plantillas básicas."
+    "limite_gratis": "Plan gratuito incluye 3 agentes activos, 500 interacciones mensuales y acceso a plantillas básicas.",
+    "intentos_web": 1
   },
   {
     "nombre": "Clarify CRM Agents",
