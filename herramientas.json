@@ -616,33 +616,6 @@
     "limite_gratis": "Ofrece 50 créditos diarios gratis, permitiendo generar varias canciones al día con acceso a las funciones principales."
   },
   {
-    "id": "udio",
-    "nombre": "Udio",
-    "compania": "Udio AI",
-    "tipo": "Generación de música",
-    "precio": "Freemium",
-    "gratis": true,
-    "pago": true,
-    "web": "https://www.udio.com",
-    "descripcion": "Un generador de música con IA que compite con Suno, destacando por su excepcional calidad de audio, voces naturales y producción pulida, especialmente en géneros específicos.",
-    "funciones": [
-      "Generación de canciones con IA de alta fidelidad",
-      "Creación de voces cantadas excepcionalmente naturales",
-      "Producción de instrumentales de alta calidad",
-      "Especialización en géneros como jazz, clásica y ambiental",
-      "Personalización de la estructura y el estilo musical"
-    ],
-    "caracteristicas": [
-      "Calidad de audio superior y producción pulida",
-      "Voces cantadas muy naturales y expresivas",
-      "Amplia gama de géneros musicales con enfoque en la calidad",
-      "Interfaz de usuario refinada",
-      "Resultados musicales con un toque profesional"
-    ],
-    "etica": "Se compromete con la creación musical ética, respetando los derechos de autor y evitando la generación de contenido inapropiado. La privacidad de los datos del usuario es fundamental.",
-    "limite_gratis": "Ofrece un plan gratuito con un número limitado de generaciones de canciones o acceso a funciones básicas para probar su calidad de audio."
-  },
-  {
     "id": "elevenlabs",
     "nombre": "ElevenLabs",
     "compania": "ElevenLabs",
@@ -1136,31 +1109,6 @@
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones."
   },
   {
-    "id": "claude-code",
-    "nombre": "Claude Code",
-    "compania": "Anthropic",
-    "tipo": "Agente de programación",
-    "precio": "Freemium",
-    "gratis": false,
-    "pago": true,
-    "web": "https://docs.anthropic.com/en/docs/claude-code",
-    "descripcion": "Agente de IA avanzado que opera directamente desde la terminal para asistir en el desarrollo de software.",
-    "funciones": [
-      "Lectura y escritura de archivos",
-      "Edición de código en tiempo real",
-      "Ejecución de comandos de terminal",
-      "Comprensión de contexto de proyectos completos"
-    ],
-    "caracteristicas": [
-      "Interfaz de línea de comandos (CLI)",
-      "Acceso directo al sistema de archivos",
-      "Capacidad de ejecución de tests",
-      "Razonamiento lógico avanzado"
-    ],
-    "etica": "Diseñado bajo los principios de IA constitucional de Anthropic para minimizar sesgos y comportamientos peligrosos en el código.",
-    "limite_gratis": "Permite uso limitado basado en el consumo de tokens de la API de Anthropic."
-  },
-  {
     "nombre": "WorkClaw",
     "descripcion": "Compañeros de trabajo IA proactivos para mejorar la productividad en Slack.",
     "compania": "WorkClaw",
@@ -1517,35 +1465,6 @@
     "limite_gratis": "Sin plan gratuito"
   },
   {
-    "nombre": "Grok by SpaceXAI for Word",
-    "descripcion": "Un complemento de IA para Microsoft Word que ayuda a redactar, reestructurar y mejorar la claridad y concisión del texto directamente desde un panel lateral.",
-    "compania": "SpaceXAI",
-    "tipo": "Generación de vídeo / Asistente de programación",
-    "precio": "Gratuito",
-    "funciones": [
-      "Sugerencias de palabras",
-      "Reescritura de textos",
-      "Mejora de estilo",
-      "Corrección gramatical",
-      "Resumen automático"
-    ],
-    "caracteristicas": [
-      "Interfaz intuitiva",
-      "Integración directa con Word",
-      "Personalización de modelos"
-    ],
-    "etica": "La herramienta prioriza la privacidad del usuario y evita sesgos en su procesamiento de texto.",
-    "web": "https://x.ai",
-    "id": "grok-by-spacexai-for-word-420489",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-21",
-    "auto_detectado": true,
-    "pendiente_revision": false,
-    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional.",
-    "intentos_web": 4
-  },
-  {
     "nombre": "Agent 37",
     "descripcion": "Permite asignar agentes de IA como Hermes o OpenClaw para mejorar la experiencia del cliente.",
     "compania": "Agent 37 Solutions",
@@ -1852,36 +1771,6 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones."
-  },
-  {
-    "nombre": "Agent 37 Cloud",
-    "descripcion": "Ofrece una plataforma para crear y gestionar agentes de IA personalizados, diseñados para interactuar individualmente con cada cliente y optimizar la experiencia.",
-    "precio": "Pago",
-    "funciones": [
-      "Creación y personalización de agentes de IA",
-      "Despliegue masivo y escalable de agentes",
-      "Interacción proactiva y personalizada con clientes",
-      "Gestión centralizada de todos los agentes"
-    ],
-    "caracteristicas": [
-      "Arquitectura de agentes avanzada (ej. Hermes, OpenClaw)",
-      "Escalabilidad y alta disponibilidad en la nube",
-      "Personalización profunda para cada cliente",
-      "Integración con CRM y sistemas empresariales",
-      "Análisis de rendimiento de agentes"
-    ],
-    "etica": "Prioriza la privacidad y seguridad de los datos del cliente, implementando medidas para garantizar interacciones éticas y transparentes, y mitigar posibles sesgos.",
-    "web": "https://agent37.com",
-    "tipo": "Agentes IA",
-    "compania": "Agent 37",
-    "id": "agent-37-cloud-448fab",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-21",
-    "auto_detectado": true,
-    "pendiente_revision": false,
-    "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 5
   },
   {
     "nombre": "CADAM",
@@ -3241,35 +3130,6 @@
     "pendiente_revision": false
   },
   {
-    "nombre": "Samsung ChatGPT Enterprise",
-    "compania": "Samsung",
-    "tipo": "Chatbot / Asistente",
-    "precio": "Freemium",
-    "descripcion": "Versión empresarial de ChatGPT integrada en el ecosistema de Samsung para uso interno de empleados.",
-    "funciones": [
-      "Respuestas contextuales basadas en datos corporativos",
-      "Integración con herramientas de productividad de Samsung",
-      "Soporte multilingüe y reconocimiento de voz",
-      "Control de acceso y auditoría de conversaciones"
-    ],
-    "caracteristicas": [
-      "Modelo GPT‑4 optimizado para entornos empresariales",
-      "Cumplimiento con normas de seguridad ISO 27001",
-      "Panel de administración para gestión de usuarios",
-      "Capacidad de entrenamiento con datos internos"
-    ],
-    "etica": "Garantiza la privacidad de la información corporativa mediante encriptación de extremo a extremo y filtros contra sesgos en respuestas.",
-    "limite_gratis": "Plan gratuito limitado a 5 usuarios y 1 000 consultas mensuales.",
-    "web": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/",
-    "id": "samsung-chatgpt-enterprise-1ebe8c",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false,
-    "intentos_web": 5
-  },
-  {
     "nombre": "Oracle",
     "compania": "Oracle Corporation",
     "tipo": "Agentes IA",
@@ -3450,35 +3310,6 @@
     "intentos_web": 3
   },
   {
-    "nombre": "EdgeOne",
-    "compania": "EdgeTech Labs",
-    "tipo": "Agentes IA",
-    "precio": "Freemium",
-    "descripcion": "Plataforma que permite crear y desplegar agentes de IA como aplicaciones web en cuestión de minutos, sin necesidad de infraestructura propia.",
-    "web": "https://edgeone.ai",
-    "funciones": [
-      "Diseñador visual de flujos conversacionales",
-      "Despliegue automático en hosting propio o en la nube de EdgeOne",
-      "Integración con APIs externas y bases de datos",
-      "Plantillas predefinidas para casos de uso comunes"
-    ],
-    "caracteristicas": [
-      "Escalado automático bajo demanda",
-      "Editor de código integrado con soporte para Python y JavaScript",
-      "Panel de métricas y analítica en tiempo real",
-      "Control de versiones y pruebas A/B"
-    ],
-    "etica": "EdgeOne almacena los datos de interacción bajo cifrado AES‑256 y permite la exportación completa para cumplir con normativas de privacidad; se revisan los prompts para mitigar sesgos y contenido dañino.",
-    "id": "edgeone-f04494",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false,
-    "limite_gratis": "Plan gratuito incluye 3 agentes activos, 500 interacciones mensuales y acceso a plantillas básicas.",
-    "intentos_web": 2
-  },
-  {
     "nombre": "Clarify CRM Agents",
     "compania": "Clarify Solutions",
     "tipo": "Chatbot / Asistente",
@@ -3534,35 +3365,6 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Acceso ilimitado a generación de ideas, pero limitado a 10 consultas diarias."
-  },
-  {
-    "nombre": "CUGA Harness",
-    "compania": "CUGA Labs",
-    "tipo": "Agentes IA",
-    "precio": "Freemium",
-    "descripcion": "Kit ligero que facilita la construcción, prueba y despliegue de aplicaciones basadas en agentes IA, con ejemplos prácticos y documentación completa.",
-    "web": "https://cuga.ai",
-    "funciones": [
-      "Plantillas de agentes para atención al cliente, análisis de datos y automatización",
-      "Entorno de pruebas local con simulador de conversaciones",
-      "Generador de código para integración rápida en proyectos existentes",
-      "Documentación paso a paso y tutoriales interactivos"
-    ],
-    "caracteristicas": [
-      "Compatibilidad con OpenAI, Anthropic y modelos locales",
-      "Soporte para Docker y despliegue en Kubernetes",
-      "Herramientas de depuración y registro de conversaciones",
-      "Licencia MIT para uso comercial"
-    ],
-    "etica": "CUGA Harness promueve la transparencia al incluir logs de decisiones del agente y permite al desarrollador auditar los datos de entrenamiento para reducir sesgos.",
-    "id": "cuga-harness-f6d551",
-    "gratis": true,
-    "pago": false,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false,
-    "limite_gratis": "Plan gratuito incluye 5 plantillas, 2 entornos de prueba simultáneos y 1000 llamadas a API al mes.",
-    "intentos_web": 1
   },
   {
     "nombre": "stt‑translate",
@@ -3625,34 +3427,6 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 4
-  },
-  {
-    "nombre": "Railway AI‑Native Cloud",
-    "compania": "Railway",
-    "tipo": "Infraestructura IA / Cloud",
-    "precio": "Freemium",
-    "descripcion": "Servicio de nube optimizado para cargas de trabajo de IA, con recursos de GPU y almacenamiento de datos en tiempo real.",
-    "web": "https://railway.app",
-    "funciones": [
-      "Despliegue de modelos con GPU dedicada (NVIDIA A100, T4)",
-      "Almacenamiento de datos en tiempo real con replicación automática",
-      "Escalado automático basado en demanda de inferencia",
-      "Panel de monitorización de métricas de latencia y coste"
-    ],
-    "caracteristicas": [
-      "Entorno preconfigurado con frameworks populares (TensorFlow, PyTorch, JAX)",
-      "Integración CI/CD para pipelines de entrenamiento y despliegue",
-      "Seguridad de nivel empresarial con cifrado en reposo y en tránsito",
-      "Facturación por segundo de uso de GPU"
-    ],
-    "etica": "Railway ofrece aislamiento de datos entre proyectos y cumplimiento con GDPR, evitando el uso no autorizado de datos de entrenamiento.",
-    "limite_gratis": "Plan gratuito con 2 GPU‑hours al mes y 5 GB de almacenamiento de datos.",
-    "id": "railway-ai-native-cloud-310b04",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-06-24",
-    "auto_detectado": true,
-    "pendiente_revision": false
   },
   {
     "nombre": "NVIDIA NeMo AutoModel",
@@ -3964,7 +3738,7 @@
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "descripcion": "Modelo de procesamiento de lenguaje natural de última generación, optimizado para síntesis y generación de texto avanzado.",
-    "web": "https://example.com",
+    "web": "https://www.together.ai/models/glm-52",
     "funciones": [
       "Redacción automática de artículos y reportes",
       "Resumen y extracción de información clave",
@@ -3984,7 +3758,8 @@
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Acceso gratuito con 50 000 tokens mensuales; límite de velocidad de 10 req/s."
+    "limite_gratis": "Acceso gratuito con 50 000 tokens mensuales; límite de velocidad de 10 req/s.",
+    "intentos_web": 1
   },
   {
     "nombre": "Paybond CLI",
@@ -3992,7 +3767,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Interfaz de línea de comandos que permite gestionar datos financieros y automatizar procesos mediante IA.",
-    "web": "https://paybond.cli",
+    "web": "https://paybond.ai",
     "funciones": [
       "Importación y exportación de datos bancarios",
       "Generación automática de reportes financieros",
@@ -4012,7 +3787,8 @@
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Plan gratuito con 1 000 transacciones procesadas al mes y acceso a 5 scripts de automatización."
+    "limite_gratis": "Plan gratuito con 1 000 transacciones procesadas al mes y acceso a 5 scripts de automatización.",
+    "intentos_web": 1
   },
   {
     "nombre": "Brain² by ClickUp",
@@ -4029,7 +3805,7 @@
       "Detectada automáticamente"
     ],
     "etica": "Los datos corporativos se procesan bajo estrictas políticas de privacidad y se garantiza que la IA no comparta información sensible con terceros.",
-    "web": "",
+    "web": "https://clickup.com/brain",
     "tipo": "Productividad / Asistente de IA",
     "compania": "Desconocida",
     "id": "brain--by-clickup-6ff70a",
@@ -4039,7 +3815,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite acceso a 5 proyectos y 10 tareas automatizadas por mes.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Heron",
@@ -4056,7 +3832,7 @@
       "Detectada automáticamente"
     ],
     "etica": "Los datos recopilados se mantienen dentro del entorno del cliente y no se comparten con terceros, garantizando la confidencialidad de la infraestructura.",
-    "web": "",
+    "web": "https://www.herondata.io/",
     "tipo": "Observabilidad / Agentes IA",
     "compania": "Desconocida",
     "id": "heron-2dde8f",
@@ -4066,7 +3842,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite 1 GB de trazas por día y 3 dashboards personalizados.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "BrowserBash",
@@ -4083,7 +3859,7 @@
       "Detectada automáticamente"
     ],
     "etica": "El procesamiento de los comandos se realiza localmente siempre que sea posible, y los datos de prueba no se comparten sin consentimiento explícito.",
-    "web": "",
+    "web": "https://github.com/mmaelzer/browserbash",
     "tipo": "Asistente de programación / Automatización de pruebas",
     "compania": "Desconocida",
     "id": "browserbash-d45d59",
@@ -4093,7 +3869,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite 50 pruebas por mes y acceso a la documentación básica.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Tough Tongue AI for Sales",
@@ -4110,7 +3886,7 @@
       "Detectada automáticamente"
     ],
     "etica": "La IA procesa únicamente la información necesaria para la conversación y no almacena datos sensibles fuera del entorno seguro del cliente.",
-    "web": "",
+    "web": "https://www.toughtongueai.com/",
     "tipo": "Asistente de ventas / Chatbot",
     "compania": "Desconocida",
     "id": "tough-tongue-ai-for-sales-1135b4",
@@ -4120,6 +3896,37 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito; la suscripción mínima comienza en $49/mes por usuario.",
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Polygraph",
+    "descripcion": "Polygraph permite que agentes de IA exploren múltiples repositorios de código y mantengan memoria de sesión entre interacciones.",
+    "compania": "Polygraph AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Exploración transversal de repositorios de código",
+      "Memoria persistente de sesión para agentes",
+      "Integración con entornos de desarrollo populares",
+      "Generación de resúmenes y recomendaciones de código",
+      "Control de versiones y seguimiento de cambios"
+    ],
+    "caracteristicas": [
+      "Interfaz web y plugin para IDEs",
+      "Soporte para Git, GitHub, GitLab y Bitbucket",
+      "Modelos de IA personalizables",
+      "Cifrado de datos en tránsito y en reposo",
+      "Panel de auditoría de actividades de los agentes"
+    ],
+    "etica": "Polygraph cifra todas las comunicaciones y permite al usuario controlar qué repositorios son accesibles, reduciendo riesgos de exposición de código confidencial y sesgos en las recomendaciones.",
+    "limite_gratis": "Plan gratuito con acceso a 3 repositorios y 500 MB de memoria de sesión por mes.",
+    "web": "https://www.polygraph.so/",
+    "id": "polygraph-80e3a7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]
