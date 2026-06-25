@@ -1450,14 +1450,14 @@
       "Automatización de copias de seguridad"
     ],
     "etica": "Prioriza la integridad y la seguridad de los datos al gestionar copias de seguridad críticas.",
-    "web": "https://cloudback.io",
+    "web": "",
     "id": "cloudback-mcp-server-d72873",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5,
+    "intentos_web": 6,
     "limite_gratis": "Ofrece funcionalidades básicas de gestión de forma gratuita."
   },
   {
@@ -1481,14 +1481,14 @@
       "Soporte para integración con bots de Discord y Slack"
     ],
     "etica": "No intercepta datos sensibles sin consentimiento y garantiza la trazabilidad de todas las acciones automatizadas.",
-    "web": "https://backgrind.ai",
+    "web": "",
     "id": "backgrind-26a6d6",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 13,
+    "intentos_web": 14,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs."
   },
   {
@@ -1535,14 +1535,14 @@
       "Personalización de modelos"
     ],
     "etica": "La herramienta prioriza la privacidad del usuario y evita sesgos en su procesamiento de texto.",
-    "web": "https://grok.spacexai.com",
+    "web": "",
     "id": "grok-by-spacexai-for-word-420489",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 13,
+    "intentos_web": 14,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional."
   },
   {
@@ -1613,14 +1613,14 @@
       "Documentación detallada"
     ],
     "etica": "Focalizada en la transparencia y la seguridad de los datos durante el desarrollo.",
-    "web": "https://foglamp.ai",
+    "web": "",
     "id": "foglamp-3d4410",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3,
+    "intentos_web": 4,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones avanzadas."
   },
   {
@@ -3267,7 +3267,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10
+    "intentos_web": 11
   },
   {
     "nombre": "Oracle",

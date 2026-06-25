@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-06-23T16:16:54Z",
+  "actualizado": "2026-06-25T01:25:21Z",
   "novedades": [
+    {
+      "titulo": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
+      "resumen": "Hace tanto tiempo que vivo atada a un teclado o a una pantalla táctil que cuando me apunté a la Escuela de Idiomas se me hizo muy raro volver a llevar cuaderno y boli para tomar apuntes. Así que en cuanto tuve la oportun",
+      "enlace": "https://www.xataka.com/analisis/iflytek-ai-note-2-analisis-review-caracteristicas-especificaciones",
+      "medio": "Xataka",
+      "fecha": "2026-06-24T14:00:00Z"
+    },
+    {
+      "titulo": "Creíamos que Adobe estaba amenazada de muerte por la IA. Resulta que es una de las pocas empresas que está ganando dinero con ella",
+      "resumen": "En el último año Adobe ha perdido casi la mitad de su valor. Hace doce meses cotizaba a 382 dólares. Hoy sus acciones cotizan a 197 dólares. Wall Street ha castigado claramente a una empresa que parecía desde luego estar",
+      "enlace": "https://www.xataka.com/robotica-e-ia/creiamos-que-adobe-estaba-amenazada-muerte-ia-resulta-que-pocas-empresas-que-esta-ganando-dinero-ella",
+      "medio": "Xataka",
+      "fecha": "2026-06-24T13:31:01Z"
+    },
+    {
+      "titulo": "Las grandes fortunas de la inteligencia artificial: quién es quién en los nuevos millonarios de la IA",
+      "resumen": "La lista Forbes de Millonarios de 2026 sumó 45 nuevos nombres de millonarios. Lo relevante de estas nuevas incorporaciones es el origen de su fortuna: proviene de empresas relacionadas, de forma directa o indirecta, con ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/grandes-fortunas-inteligencia-artificial-quien-quien-nuevos-millonarios-ia",
+      "medio": "Xataka",
+      "fecha": "2026-06-24T12:01:01Z"
+    },
+    {
+      "titulo": "El supercomputador más potente del mundo está en China. La otra parte de la historia es aún más interesante",
+      "resumen": "La lista TOP500 bianual con los supercomputadores más potentes del planeta ha dado una sorpresa llamativa en su edición de junio de 2026. El sistema chino LineShine, instalado en el Centro Nacional de Supercomputación de",
+      "enlace": "https://www.xataka.com/ordenadores/supercomputador-potente-mundo-esta-china-otra-parte-historia-interesante",
+      "medio": "Xataka",
+      "fecha": "2026-06-24T08:31:01Z"
+    },
+    {
+      "titulo": "La araña que inspiró la cámara 3D más eficiente del mundo",
+      "resumen": "La araña saltadora puede saltar distancias que multiplican por decenas su propio tamaño y tiene un cerebro del tamaño de una semilla de amapola. No parece el punto de partida más obvio para un avance [&#8230;] La araña q",
+      "enlace": "https://blogthinkbig.com/la-arana-que-inspiro-la-camara-3d-mas-eficiente-del-mundo",
+      "medio": "Think Big",
+      "fecha": "2026-06-24T08:16:13Z"
+    },
+    {
+      "titulo": "De nada sirve tener un Apple Watch compatible con la nueva Siri AI si no tienes uno de estos iPhone",
+      "resumen": "Si tienes un Apple Watch más moderno que el iPhone, quizás te lleves una decepción cuando llegue watchOS 27 en septiembre y veas que no hay compatibilidad con la nueva IA que traerá Siri AI. Y dará igual también si el iP",
+      "enlace": "https://www.applesfera.com/juegos-para-ios/nada-sirve-tener-apple-watch-compatible-nueva-siri-ai-no-tienes-uno-estos-iphone",
+      "medio": "Applesfera",
+      "fecha": "2026-06-24T08:01:01Z"
+    },
+    {
+      "titulo": "Airbus está probando IA en una de las maniobras más delicadas de un vuelo: el aterrizaje",
+      "resumen": "Aterrizar un avión comercial parece, visto desde la ventanilla, una secuencia casi rutinaria, pero en realidad, es una de las fases más exigentes del vuelo, una maniobra en la que pilotos, sistemas de navegación, condici",
+      "enlace": "https://www.xataka.com/movilidad/airbus-esta-probando-ia-maniobras-delicadas-vuelo-aterrizaje",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T19:31:01Z"
+    },
+    {
+      "titulo": "La solución de Nvidia para reducir a cero el consumo de agua en centros de datos apunta a ser una genialidad: usar agua caliente",
+      "resumen": "Nvidia ha anunciado un sistema de refrigeración líquida muy especial. Sobre todo, porque el concepto de \"refrigeración\" se confunde un poco aquí. La empresa se las ha ingeniado para reinventar este tipo de sistemas, y se",
+      "enlace": "https://www.xataka.com/robotica-e-ia/solucion-nvidia-para-reducir-a-cero-consumo-agua-centros-datos-apunta-a-ser-genialidad-usar-agua-caliente",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T17:01:01Z"
+    },
+    {
+      "titulo": "\"Nunca ha habido un mejor momento para usar Atajos\". Con iOS 27 tendremos la IA que llevábamos años esperando",
+      "resumen": "De las mejoras de Apple Intelligence que llegan con iOS 27, hay una que me entusiasma especialmente: poder crear atajos con cero conocimiento de la app Atajos (valga la redundancia). No es que fuese una aplicación muy té",
+      "enlace": "https://www.applesfera.com/ios/nunca-ha-habido-mejor-momento-para-usar-atajos-ios-27-tendremos-ia-que-llevabamos-anos-esperando",
+      "medio": "Applesfera",
+      "fecha": "2026-06-23T17:01:01Z"
+    },
     {
       "titulo": "Nos hemos empeñado en que los robots humanoides parezcan personas: esta startup acaba de demostrar que hay otro camino",
       "resumen": "Aún no está claro si los robots humanoides serán la próxima gran revolución&nbsp;de la tecnología de consumo, pero desde luego cada vez hay más empresas compitiendo para colar uno de estos robots en nuestras casas. Todos",
@@ -30,32 +93,11 @@
       "fecha": "2026-06-23T12:17:00Z"
     },
     {
-      "titulo": "\"El uso de tokens se está poniendo bastante, bastante loco\": la fiebre de la IA empieza a pasar factura a las empresas",
-      "resumen": "Ah, los tokens, esas pequeñas unidades de texto que se han convertido en la moneda de cambio en el boom de la IA. Hace unos meses, las empresas de Silicon Valley se lanzaron a los brazos del tokenmaxxing: gastar tokens c",
-      "enlace": "https://www.xataka.com/robotica-e-ia/uso-tokens-se-esta-poniendo-bastante-bastante-loco-fiebre-ia-empieza-a-pasar-factura-a-empresas",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T12:01:01Z"
-    },
-    {
-      "titulo": "Corea del Sur tenía un rey tecnológico desde 2000. La fiebre por la IA acaba de coronar a otro",
-      "resumen": "Cuando uno hablaba de tecnología surcoreana, la empresa que le venía a la cabeza siempre era Samsung. El gigante de los semiconductores y la industria móvil parecía ser líder indiscutible de su país, pero eso está a punt",
-      "enlace": "https://www.xataka.com/componentes/corea-sur-tenia-rey-tecnologico-2000-fiebre-ia-acaba-coronar-a-otro",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T09:31:01Z"
-    },
-    {
       "titulo": "Los algoritmos que deciden tu vida: qué hay detrás de las decisiones que no ves",
       "resumen": "Hoy, sin saberlo, un algoritmo puede haber decidido si te llaman para una entrevista de trabajo, si tu banco te concede un crédito o qué noticias aparecen primeras en tu pantalla. Esto ya está pasando, [&#8230;] Los algo",
       "enlace": "https://blogthinkbig.com/los-algoritmos-que-deciden-tu-vida-que-hay-detras-de-las-decisiones-que-no-ves",
       "medio": "Think Big",
       "fecha": "2026-06-23T09:14:40Z"
-    },
-    {
-      "titulo": "China ha encontrado un atajo inesperado para llevar la IA a millones de hogares: el robot aspirador",
-      "resumen": "Puede que ya estés usando inteligencia artificial china en casa sin haberlo pensado demasiado. No necesariamente en forma de chatbot, ni como una función escondida en el móvil, ni como una promesa más dentro del televiso",
-      "enlace": "https://www.xataka.com/robotica-e-ia/china-ha-encontrado-atajo-inesperado-para-llevar-ia-a-millones-hogares-robot-aspirador",
-      "medio": "Xataka",
-      "fecha": "2026-06-22T19:01:01Z"
     },
     {
       "titulo": "Por qué las cámaras retro están de vuelta y qué refleja eso sobre hacia dónde va la sociedad",
@@ -65,13 +107,6 @@
       "fecha": "2026-06-22T16:01:00Z"
     },
     {
-      "titulo": "El problema no es que haya IA en TikTok. Es que ya es más de la mitad de lo que ves nada más entrar",
-      "resumen": "Desde que tenemos modelos de generación de imágenes y vídeos con IA tan punteros, nos hemos empezado a acostumbrar a ver todo tipo de contenido generado por inteligencia artificial en redes sociales. Ya no es solo que no",
-      "enlace": "https://www.xataka.com/aplicaciones/problema-no-que-haya-ia-tiktok-que-mitad-que-ves-nada-entrar",
-      "medio": "Xataka",
-      "fecha": "2026-06-22T15:47:01Z"
-    },
-    {
       "titulo": "Siri AI cambia tu iPhone para siempre: todo lo que puedes hacer (y antes no) con la nueva IA de Apple",
       "resumen": "Las primeras incursiones de Apple en el campo de la inteligencia artificial con su asistente inteligente no salieron del todo bien. En 2024, Apple anunciaba Apple Intelligence, su asistente de IA para competir cara a [&#",
       "enlace": "https://blogthinkbig.com/novedades-siri-ai-apple-intelligence",
@@ -79,11 +114,11 @@
       "fecha": "2026-06-22T15:13:54Z"
     },
     {
-      "titulo": "Mientras medio mundo se pregunta cómo integrar la IA en las escuelas, Noruega ha encontrado la respuesta: no haciéndolo",
-      "resumen": "La inteligencia artificial ha llegado como un meteorito, impactando en prácticamente todos los sensores y no sólo destruyendo el segmento de tecnología de consumo, sino provocando que los gobiernos trabajen a contrarrelo",
-      "enlace": "https://www.xataka.com/robotica-e-ia/medio-mundo-se-pregunta-como-integrar-ia-escuelas-noruega-ha-encontrado-respuesta-no-haciendolo",
-      "medio": "Xataka",
-      "fecha": "2026-06-22T09:01:01Z"
+      "titulo": "Las 11 mejoras de Apple Intelligence con iOS 27. Solamente hay una que no llegará a Europa (de momento)",
+      "resumen": "Con iOS 27 (y con la ayuda de Google), Apple por fin mejora la IA nativa del iPhone para mejorar funciones que ya teníamos con Apple Intelligence y mejorar otras tantas. Algunas de las más interesantes no parecen llegar ",
+      "enlace": "https://www.applesfera.com/ios/11-mejoras-apple-intelligence-ios-27-solamente-hay-que-no-llegara-a-europa-momento",
+      "medio": "Applesfera",
+      "fecha": "2026-06-22T13:50:37Z"
     },
     {
       "titulo": "Europa pone límites a la IA: lo que ya está prohibido y lo que llega en 2026",
@@ -100,11 +135,18 @@
       "fecha": "2026-06-22T07:33:11Z"
     },
     {
-      "titulo": "Saber usar la IA no es simple ventaja: es la diferencia entre estar en el mercado laboral que crece o en el que se estanca",
-      "resumen": "Llevamos años escuchando eso de que la IA va a reconfigurar el mercado laboral y cada vez tenemos más datos de cómo está siendo ese cambio. PwC acaba de hacer público su nuevo barómetro global de la IA en el mercado labo",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-esta-generando-mercado-laboral-a-dos-velocidades-que-ganan-que-se-quedan-atras",
-      "medio": "Xataka",
-      "fecha": "2026-06-21T17:00:00Z"
+      "titulo": "Acabo de encontrar la solución definitiva a mi torpeza. Es de Gemini y lo quiero ya nativo en mi iPhone",
+      "resumen": "Soy de los que en el cole sudaba para aprobar la asignatura favorita de muchos: Educación Plástica. Tendré muchas virtudes, pero la de hacer buenas manualidades no está incluida entre ellas. De ahí mi torpeza para montar",
+      "enlace": "https://www.applesfera.com/aplicaciones-ios/acabo-encontrar-solucion-definitiva-a-mi-torpeza-gemini-quiero-para-mi-iphone",
+      "medio": "Applesfera",
+      "fecha": "2026-06-21T15:00:00Z"
+    },
+    {
+      "titulo": "Sé que todos hablan de Siri AI, pero la \"otra IA\" que Apple trae en iOS 27 y macOS 27 es brutal",
+      "resumen": "Casi dos semanas después de la WWDC26, empiezo a dejar de lado el disgusto de que Siri AI no llegue a Europa de momento. Esto me está permitiendo observar mejor las otras novedades de inteligencia artificial que sí llega",
+      "enlace": "https://www.applesfera.com/aplicaciones-ios/nuevo-safari-app-contrasenas-verdaderos-tapados-nueva-ia-apple",
+      "medio": "Applesfera",
+      "fecha": "2026-06-20T09:00:00Z"
     },
     {
       "titulo": "Golpe a ChatGPT: con los nuevos precios de Gemini Pro, no vas a querer usar otra IA",
@@ -128,6 +170,13 @@
       "fecha": "2026-06-19T09:17:23Z"
     },
     {
+      "titulo": "Rockstar presenta la portada de ‘Grand Theft Auto VI’ y anuncia la apertura de reservas",
+      "resumen": "El esperado videojuego mantiene su fecha de lanzamiento para el próximo 19 de noviembre en PlayStation 5 y Xbox Series",
+      "enlace": "https://www.lavanguardia.com/neo/20260618/11568391/videojuegos-grand-theft-auto-vi-gta-6-portada-reservas-fecha.html",
+      "medio": "La Vanguardia Tecno",
+      "fecha": "2026-06-18T13:56:30Z"
+    },
+    {
       "titulo": "DOOM y hasta dónde puede llegar el ingenio para estirar una broma",
       "resumen": "El videojuego DOOM nació en 1993 gracias a id Software, y mas allá de haber revolucionado los shooters, la extrema flexibilidad de su código fuente es su caracteristica mas recordada. Lo que empezó como una [&#8230;] DOO",
       "enlace": "https://blogthinkbig.com/doom-y-hasta-donde-puede-llegar-el-ingenio-para-estirar-una-broma",
@@ -142,6 +191,13 @@
       "fecha": "2026-06-18T09:32:28Z"
     },
     {
+      "titulo": "¿Un robot en el Everest? Nepal se plantea una prueba histórica en el techo del mundo",
+      "resumen": "Una misión de investigación destinada a comprobar cómo se comportan las máquinas avanzadas en uno de los entornos más hostiles de la Tierra",
+      "enlace": "https://www.lavanguardia.com/tecnologia/20260618/11567607/robot-everest-nepal-plantea-prueba-historica-techo-mundo.html",
+      "medio": "La Vanguardia Tecno",
+      "fecha": "2026-06-18T04:00:00Z"
+    },
+    {
       "titulo": "Reino Unido prohíbe las redes sociales a menores de 16 años, y detrás hay una conversación pendiente",
       "resumen": "El primer ministro británico Keir Starmer anunció recientemente una propuesta para prohibir el acceso a redes sociales como TikTok, Instagram, YouTube, Snapchat o X a todos los menores de 16 años. Si el Parlamento la [&#",
       "enlace": "https://blogthinkbig.com/reino-unido-prohibe-las-redes-sociales-a-menores-de-16-anos-y-detras-hay-una-conversacion-pendiente",
@@ -149,76 +205,48 @@
       "fecha": "2026-06-17T10:06:12Z"
     },
     {
-      "titulo": "Cómo ver si la Policía o Hacienda ha investigado tus datos usando Mi Carpeta Ciudadana",
-      "resumen": "Uno de los beneficios de la digitalización, ese concepto tan amplio que afecta a particulares, empresas y administraciones públicas, es que los datos son más fáciles de consultar, procesar y utilizar para el bien de [&#8",
-      "enlace": "https://blogthinkbig.com/consultar-datos-investigados-administraciones-mi-carpeta-ciudadana",
-      "medio": "Think Big",
-      "fecha": "2026-06-17T07:01:00Z"
-    },
-    {
-      "titulo": "Google extiende a todos los Android la IA contextual del Pixel 10: ahora tu teléfono aprende tus hábitos sin enviar datos a nadie",
-      "resumen": "Si tienes un Pixel 10, llevas meses con una función que el resto de usuarios de Android acaba de empezar a recibir. Lo detalla The Verge el 13 de mayo de 2026: Google está desplegando Contextual Suggestions para todos lo",
-      "enlace": "https://wwwhatsnew.com/2026/05/15/android-contextual-suggestions-habitos-privacidad-on-device-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-15T08:00:14Z"
-    },
-    {
-      "titulo": "Agricultura de precisión: sensores, drones e IA que están transformando el campo",
-      "resumen": "Sensores IoT, drones y modelos de IA ya reducen un 30 por ciento el uso de agua en el campo. Asi funciona la agricultura de precisión.La noticia Agricultura de precisión: sensores, drones e IA que están transformando el ",
-      "enlace": "https://wwwhatsnew.com/2026/05/05/agricultura-precision-sensores-drones-ia/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-05T17:00:00Z"
-    },
-    {
-      "titulo": "IA ética: los dilemas que la inteligencia artificial plantea y por qué deberían importarte",
-      "resumen": "Sesgo algoritmico, caja negra y concentración de poder: los dilemas éticos de la IA en 2026 y que puedes hacer como ciudadano. AI Act explicado.La noticia IA ética: los dilemas que la inteligencia artificial plantea y po",
-      "enlace": "https://wwwhatsnew.com/2026/05/04/ia-etica-dilemas-inteligencia-artificial-sesgo-regulacion-guia/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-04T01:00:00Z"
-    },
-    {
-      "titulo": "Gemini ya genera Excel, PDF y PowerPoint desde la conversación: cinco prompts concretos para sacarle partido (y cómo se compara con ChatGPT y Claude)",
-      "resumen": "Gemini genera Excel, PDF y PowerPoint dentro del chat: cinco prompts probados y comparativa con ChatGPT y Claude.La noticia Gemini ya genera Excel, PDF y PowerPoint desde la conversación: cinco prompts concretos para sac",
-      "enlace": "https://wwwhatsnew.com/2026/05/03/tutorial-gemini-genera-archivos-cinco-prompts-comparativa-chatgpt-claude-mayo-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-03T18:00:31Z"
-    },
-    {
-      "titulo": "Reddit gana 30 por ciento más usuarios en búsqueda año tras año: Steve Huffman demuestra que apostar por la búsqueda con IA está pagando",
-      "resumen": "Reddit gana 30% más usuarios en su buscador con IA: Steve Huffman muestra que Reddit Answers le come terreno a Google y a ChatGPT.La noticia Reddit gana 30 por ciento más usuarios en búsqueda año tras año: Steve Huffman ",
-      "enlace": "https://wwwhatsnew.com/2026/05/03/reddit-busqueda-30-crecimiento-q1-2026-steve-huffman-mayo-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-03T06:00:26Z"
-    },
-    {
-      "titulo": "Anthropic lanza Claude Security en beta pública con Opus 4.7: la respuesta defensiva al modelo Mythos que mantiene en secreto",
-      "resumen": "Anthropic lanza Claude Security en beta pública con Opus 4.7: la respuesta defensiva al modelo Mythos que mantiene en secreto.La noticia Anthropic lanza Claude Security en beta pública con Opus 4.7: la respuesta defensiv",
-      "enlace": "https://wwwhatsnew.com/2026/05/03/anthropic-claude-security-beta-publica-opus-4-7-mayo-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-02T22:00:36Z"
-    },
-    {
-      "titulo": "IA en medicina: cómo la inteligencia artificial está transformando el diagnóstico y tratamiento en 2026",
-      "resumen": "La IA destaca en imagen médica (radiología, dermatología), predicción cardiovascular y descubrimiento de fármacos. No reemplaza al médico: lo potencia.La noticia IA en medicina: cómo la inteligencia artificial está trans",
-      "enlace": "https://wwwhatsnew.com/2026/05/02/ia-medicina-inteligencia-artificial-diagnostico-tratamiento-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-02T11:00:00Z"
-    },
-    {
-      "titulo": "Los discos duros mecánicos no están muertos: por qué en 2026 siguen siendo imprescindibles (y por qué van a subir de precio)",
-      "resumen": "Los HDD siguen vivos en 2026 y subirán de precio: Seagate y WD ya han vendido toda su producción a hyperscalers de IA hasta 2028.La noticia Los discos duros mecánicos no están muertos: por qué en 2026 siguen siendo impre",
-      "enlace": "https://wwwhatsnew.com/2026/04/13/los-discos-duros-mecanicos-no-estan-muertos-por-que-en-2026-siguen-siendo-imprescindibles-y-por-que-van-a-subir-de-precio/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-04-13T04:00:40Z"
+      "titulo": "El iOS 27 más troceado de la historia: tu iPhone puede actualizarse, pero no a la misma versión que el de tu vecino",
+      "resumen": "Pocas actualizaciones de software han sido tan particulares como lo será iOS 27 en septiembre. Cuando se lance ese mes en su versión final, veremos que no todos recibirán el mismo número de funciones. Tendrán elementos c",
+      "enlace": "https://www.applesfera.com/ios/que-novedades-ios-27-llegaran-a-tu-iphone-dependiendo-modelo-vives-no-europa",
+      "medio": "Applesfera",
+      "fecha": "2026-06-17T09:00:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "OWASP lanza un asistente de IA para hacer análisis de amenazas en sistemas de IA gratis",
+      "resumen": "OWASP AI Exchange acaba de publicar Threat Advisor, un asistente basado en NotebookLM que guía a cualquier equipo en el análisis de amenazas de seguridad de su sistema de IA. The post OWASP lanza un asistente de IA para ",
+      "enlace": "https://derechodelared.com/2026/06/22/owasp-asistente-de-ia-analisis-amenazas/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-22T16:46:28Z"
+    },
     {
       "titulo": "Europa pone límites a la IA: lo que ya está prohibido y lo que llega en 2026",
       "resumen": "La Unión Europea lleva años trabajando en una ley para regular la inteligencia artificial. Se llama el AI Act, y entró en vigor en agosto de 2024 con una fecha clave grabada en el calendario [&#8230;] Europa pone límites",
       "enlace": "https://blogthinkbig.com/europa-pone-limites-a-la-ia-lo-que-ya-esta-prohibido-y-lo-que-llega-en-2026",
       "medio": "Think Big",
       "fecha": "2026-06-22T08:49:51Z"
+    },
+    {
+      "titulo": "NVIDIA publica un escáner para saber si la skill que vas a instalar en tu agente de IA es segura",
+      "resumen": "NVIDIA ha publicado SkillSpector, un escáner open source que analiza skills de agentes de IA antes de instalarlas. Las skills no son solo prompts, pueden incluir código ejecutable con tus mismos permisos. The post NVIDIA",
+      "enlace": "https://derechodelared.com/2026/06/18/nvidia-publica-un-escaner-para-saber-si-la-skill-que-vas-a-instalar-en-tu-agente-de-ia-es-segura/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-18T18:50:36Z"
+    },
+    {
+      "titulo": "EE.UU. obliga a Anthropic a desactivar sus modelos Fable 5 y Mythos por seguridad nacional",
+      "resumen": "El gobierno estadounidense ha emitido una directiva de control de exportaciones que obliga a Anthropic a desactivar el acceso a Fable 5 y Mythos 5 para todos los usuarios. The post EE.UU. obliga a Anthropic a desactivar ",
+      "enlace": "https://derechodelared.com/2026/06/13/anthropic-mythos-fable-gobierno-estados-unidos/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-13T16:18:47Z"
+    },
+    {
+      "titulo": "Un tribunal alemán declara a Google responsable de las respuestas falsas de su IA",
+      "resumen": "Las respuestas de la IA son \"palabras propias\" de Google, no contenido de terceros, por lo que este no puede acogerse a la protección de responsabilidad limitada de los buscadores convencionales. The post Un tribunal ale",
+      "enlace": "https://derechodelared.com/2026/06/11/tribunal-aleman-google-responsable-respuestas-ia/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-11T18:45:52Z"
     },
     {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
@@ -247,6 +275,13 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/apple-lleva-anos-montando-sistema-salud-paralelo-a-sanidad-publica-pregunta-sanidad-publica-hara-algo-ello",
       "medio": "Xataka",
       "fecha": "2026-03-01T10:30:56Z"
+    },
+    {
+      "titulo": "Siempre juego con los ajustes de privacidad de las apps que más uso. No esperaba tener esta consecuencia",
+      "resumen": "Desde el mítico ‘Spotify Wrapped’ a los nuevos ‘YouTube Recap’ o el resumen de Google Fotos, parece que las apps tienen mucho interés en eso de mostrarnos cómo ha sido nuestro año, qué es lo que más nos interesa o qué ha",
+      "enlace": "https://www.xatakandroid.com/personalizacion/me-he-quedado-wrapped-youtube-gemini-este-fin-ano-no-tengo-solo-resumen-culpa-solo-mia",
+      "medio": "Xataka Android",
+      "fecha": "2025-12-15T10:00:00Z"
     },
     {
       "titulo": "Un hacker encontró riesgos en una baliza V16 muy vendida, la Help Flash IoT. Vodafone y la empresa fabricante han aclarado qué pasa",
@@ -317,41 +352,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/europa-lucha-sus-normas-ia-eeuu-esta-apostando-contrario-relajacion-normativa-precedentes",
       "medio": "Xataka",
       "fecha": "2025-07-24T20:31:57Z"
-    },
-    {
-      "titulo": "ASML, Airbus y Mistral se plantan ante Bruselas. Piden que retrase la aplicación de la Ley de IA y avisan de los riesgos",
-      "resumen": "Europa ya tiene su gran ley de inteligencia artificial. Lo que falta, según varias empresas, son las reglas concretas para aplicarla. A solo un mes de que entren en vigor las primeras normas para los modelos más avanzado",
-      "enlace": "https://www.xataka.com/robotica-e-ia/asml-airbus-mistral-se-plantan-bruselas-piden-que-retrase-aplicacion-ley-ia-avisan-riesgos",
-      "medio": "Xataka",
-      "fecha": "2025-07-04T06:00:25Z"
-    },
-    {
-      "titulo": "Cómo Stanford y Google están creando clones de personalidad con IA tras entrevistas de dos horas",
-      "resumen": "La inteligencia artificial sigue rompiendo barreras, y la última colaboración entre Stanford y Google lleva la tecnología a un terreno fascinante y también preocupante. En un estudio reciente titulado «Simulaciones de ag",
-      "enlace": "https://wwwhatsnew.com/2025/01/11/como-stanford-y-google-estan-creando-clones-de-personalidad-con-ia-tras-entrevistas-de-dos-horas/",
-      "medio": "WWWhat's new",
-      "fecha": "2025-01-10T23:00:43Z"
-    },
-    {
-      "titulo": "Recolección de datos sin permiso: El caso de Anthropic y las preocupaciones éticas",
-      "resumen": "Recientemente, varios actores importantes en el campo de la inteligencia artificial han sido acusados de recopilar datos sin la debida autorización para entrenar sus modelos de lenguaje. El último caso involucra a Anthro",
-      "enlace": "https://wwwhatsnew.com/2024/08/01/recoleccion-de-datos-sin-permiso-el-caso-de-anthropic-y-las-preocupaciones-eticas/",
-      "medio": "WWWhat's new",
-      "fecha": "2024-07-31T22:00:14Z"
-    },
-    {
-      "titulo": "OpenAI retrasa lanzamiento de funciones de voz y emociones en ChatGPT",
-      "resumen": "OpenAI ha decidido retrasar el lanzamiento de las esperadas funciones de voz y lectura de emociones para su chatbot ChatGPT. Aunque estas características estaban programadas para debutar este mes, la empresa ha indicado ",
-      "enlace": "https://wwwhatsnew.com/2024/06/27/openai-retrasa-lanzamiento-de-funciones-de-voz-y-emociones-en-chatgpt/",
-      "medio": "WWWhat's new",
-      "fecha": "2024-06-27T06:00:42Z"
-    },
-    {
-      "titulo": "Nuevas polémicas sobre el uso de Inteligencia artificial en el periodismo",
-      "resumen": "Al adentrarnos en la evolución constante del periodismo, nos encontramos en un punto de inflexión donde la inteligencia artificial (IA) se ha convertido en una herramienta tan omnipresente como controvertida. La noticia ",
-      "enlace": "https://wwwhatsnew.com/2023/11/08/nuevas-polemicas-sobre-el-uso-de-inteligencia-artificial-en-el-periodismo/",
-      "medio": "WWWhat's new",
-      "fecha": "2023-11-08T12:00:08Z"
     }
   ]
 }
