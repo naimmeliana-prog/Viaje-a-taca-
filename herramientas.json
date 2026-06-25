@@ -1489,7 +1489,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs.",
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Plansera AI",
@@ -1535,7 +1535,7 @@
       "Personalización de modelos"
     ],
     "etica": "La herramienta prioriza la privacidad del usuario y evita sesgos en su procesamiento de texto.",
-    "web": "",
+    "web": "https://x.ai",
     "id": "grok-by-spacexai-for-word-420489",
     "gratis": true,
     "pago": true,
@@ -1543,7 +1543,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Agent 37",
@@ -3267,7 +3267,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Oracle",
@@ -3601,7 +3601,7 @@
     "tipo": "Motor de traducción directa entre pares de idiomas",
     "precio": "Freemium",
     "descripcion": "Motor de traducción directa entre pares de idiomas con latencia mínima, optimizado para conversaciones en vivo.",
-    "web": "",
+    "web": "https://docs.nvidia.com/deeplearning/riva/archives/2-11-0/user-guide/docs/translation/speech-to-speech-translation-overview.html",
     "funciones": [
       "Traducción bidireccional en tiempo real entre 20 pares de idiomas",
       "Modo de conversación con reconocimiento de contexto",
@@ -3624,7 +3624,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Railway AI‑Native Cloud",
