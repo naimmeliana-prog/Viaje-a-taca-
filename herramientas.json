@@ -1450,7 +1450,7 @@
       "Automatización de copias de seguridad"
     ],
     "etica": "Prioriza la integridad y la seguridad de los datos al gestionar copias de seguridad críticas.",
-    "web": "",
+    "web": "https://cloudback.it/",
     "id": "cloudback-mcp-server-d72873",
     "gratis": false,
     "pago": true,
@@ -1458,7 +1458,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece funcionalidades básicas de gestión de forma gratuita.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Backgrind",
@@ -1489,7 +1489,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Plansera AI",
@@ -2139,14 +2139,14 @@
     ],
     "etica": "AgentX es fundamental para la ética de la IA, ya que ayuda a identificar y corregir sesgos o comportamientos no deseados en los agentes, promoviendo un desarrollo responsable. La privacidad de los datos dependerá de cómo AgentX procese la información de los agentes y sus interacciones durante la evaluación.",
     "limite_gratis": "Ofrece un plan gratuito para la evaluación de un número limitado de agentes o un volumen específico de pruebas, con funciones avanzadas y análisis ilimitados en planes de pago.",
-    "web": "",
+    "web": "https://www.agentx.so/",
     "id": "agentx-4a5ff4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "jebi",
@@ -2223,7 +2223,7 @@
       "Interfaz de usuario para configuración y supervisión"
     ],
     "etica": "Rosply enfatiza la seguridad y el control del usuario sobre las acciones del agente, con mecanismos para supervisar y revocar permisos, y políticas de privacidad para los datos procesados localmente.",
-    "web": "",
+    "web": "https://rosply.com/",
     "tipo": "Agente IA autónomo / Automatización de escritorio",
     "compania": "Rosply AI",
     "id": "rosply-167ee9",
@@ -2233,7 +2233,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece un número limitado de automatizaciones o un tiempo de uso diario restringido en su plan gratuito, con la versión completa disponible mediante suscripción.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Conduit",
@@ -2368,7 +2368,7 @@
       "Personalización de plantillas y estilos visuales"
     ],
     "etica": "Deckwise se compromete a proteger la privacidad del contenido de las presentaciones, procesando la información de forma segura y garantizando que los datos del usuario no se utilicen para entrenar modelos sin consentimiento explícito.",
-    "web": "",
+    "web": "https://deckwise.io/",
     "tipo": "Generación de presentaciones IA / Productividad",
     "compania": "Deckwise AI",
     "id": "deckwise-aef3d7",
@@ -2378,7 +2378,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Permite la creación de un número limitado de presentaciones básicas o el acceso a plantillas restringidas de forma gratuita, con funciones premium y exportación avanzada bajo suscripción.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "prime-rl 0.6.0",
@@ -2386,7 +2386,7 @@
     "tipo": "Framework IA / Aprendizaje por Refuerzo",
     "precio": "Gratuito",
     "descripcion": "Un framework de código abierto para el aprendizaje por refuerzo asíncrono, optimizado para entrenar modelos Mixture-of-Experts (MoE) de billones de parámetros.",
-    "web": "",
+    "web": "https://github.com/PRIME-RL",
     "funciones": [
       "Entrenamiento de modelos de aprendizaje por refuerzo",
       "Soporte para arquitecturas Mixture-of-Experts (MoE)",
@@ -2408,7 +2408,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Seedance 2.5",
@@ -2475,7 +2475,7 @@
     "tipo": "Diagnóstico de IA / Herramientas para Agentes IA",
     "precio": "Freemium",
     "descripcion": "Una herramienta especializada en el diagnóstico y la resolución de problemas que afectan el rendimiento y la operación de los agentes de inteligencia artificial.",
-    "web": "",
+    "web": "https://lat.ai/",
     "funciones": [
       "Identificación de fallos en agentes IA",
       "Diagnóstico de problemas de rendimiento",
@@ -2497,7 +2497,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Fika Jobs",
@@ -2535,7 +2535,7 @@
     "tipo": "Desarrollo de Aplicaciones IA / No-code/Low-code",
     "precio": "Freemium",
     "descripcion": "Una extensión de Jotform que permite a los usuarios crear aplicaciones funcionales a partir de sus ideas de forma rápida y sencilla, aprovechando la inteligencia artificial.",
-    "web": "",
+    "web": "https://www.jotform.com/",
     "funciones": [
       "Transformación de ideas en aplicaciones",
       "Generación de interfaces de usuario",
@@ -2558,7 +2558,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OpenArt Director",
@@ -2699,7 +2699,7 @@
       "Soporte multiidioma"
     ],
     "etica": "Ofrece opciones de privacidad configurable, pero los datos sensibles deben manejarse según normativas locales.",
-    "web": "",
+    "web": "https://www.tencentcloud.com/products/teo",
     "tipo": "Desarrollo de agentes IA",
     "compania": "Tencent",
     "id": "tencent-edgeone-makers-310148",
@@ -2709,7 +2709,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Incluye hasta 10 despliegues de agentes con recursos limitados y funcionalidades básicas.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Swimio",
@@ -2730,7 +2730,7 @@
       "Soporte para múltiples deportes acuáticos"
     ],
     "etica": "Respeta la privacidad de los datos de salud, cifrando la información y permitiendo control total del usuario.",
-    "web": "",
+    "web": "https://www.swimio.app/",
     "tipo": "Asistente deportivo",
     "compania": "Swimio",
     "id": "swimio-ff8e82",
@@ -2740,7 +2740,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Ruby",
@@ -2823,7 +2823,7 @@
       "Modo sin conexión"
     ],
     "etica": "Protege datos de pedidos y permite cancelar rastreo de historial si el usuario lo solicita.",
-    "web": "",
+    "web": "https://www.agentcard.sh/",
     "tipo": "Compras por IA",
     "compania": "Agentcard",
     "id": "buy-by-agentcard-78e519",
@@ -2833,7 +2833,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Servicio totalmente gratuito con límite de 10 pedidos por mes.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Mindstone Rebel",
@@ -3006,7 +3006,7 @@
       "Actualizaciones frecuentes impulsadas por la comunidad"
     ],
     "etica": "Al ser open source, los usuarios pueden revisar el código y asegurarse de que no haya recolección de datos no autorizada. El uso responsable protege la privacidad de las conversaciones registradas.",
-    "web": "",
+    "web": "https://www.gethush.ai/",
     "tipo": "Agentes IA",
     "compania": "Hush",
     "id": "hush-93e127",
@@ -3016,7 +3016,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Jalapeño",
@@ -3267,7 +3267,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Oracle",
@@ -3362,7 +3362,7 @@
     "tipo": "Asistente de programación / Generación de documentación",
     "precio": "Freemium",
     "descripcion": "Extiende el agente Hermes con el comando /learn, que genera automáticamente archivos SKILL.md a partir de documentación o URLs sin requerir código manual.",
-    "web": "",
+    "web": "https://hermes-agent.nousresearch.com/",
     "funciones": [
       "Genera archivos de documentación técnica (SKILL.md) a partir de URLs o textos.",
       "Integra el contenido generado directamente en el flujo de trabajo del agente Hermes.",
@@ -3385,7 +3385,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "FFASR Leaderboard",
@@ -3393,7 +3393,7 @@
     "tipo": "Comparación de modelos ASR",
     "precio": "Gratuito",
     "descripcion": "Plataforma pública que compara modelos de reconocimiento automático de voz (ASR) usando métricas de precisión, latencia y consumo energético con datos del mundo real.",
-    "web": "",
+    "web": "https://huggingface.co/spaces/treble-technologies/ffasr",
     "funciones": [
       "Publica resultados de benchmark de modelos ASR.",
       "Permite comparar precisión, latencia y consumo energético.",
@@ -3416,7 +3416,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Launch‑AI Directory",
@@ -3447,7 +3447,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "EdgeOne",
@@ -3484,7 +3484,7 @@
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "descripcion": "Agentes conversacionales especializados en la gestión de relaciones con clientes, automatizando seguimiento, soporte y actualización de datos en CRM.",
-    "web": "",
+    "web": "https://www.clarify.ai/",
     "funciones": [
       "Respuesta automática a consultas frecuentes",
       "Programación de recordatorios y seguimientos",
@@ -3505,7 +3505,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Plan gratuito permite 2 agentes, 1 000 mensajes al mes y conexión a un único CRM.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "MicroSaaS Idea Generator",
@@ -3570,7 +3570,7 @@
     "tipo": "Reconocimiento de voz + Traducción simultánea",
     "precio": "Freemium",
     "descripcion": "Modelo de reconocimiento de voz y traducción en tiempo real que supera a gpt‑realtime‑translate en precisión y latencia para 5 idiomas.",
-    "web": "",
+    "web": "https://stt.ai/",
     "funciones": [
       "Transcripción de audio en tiempo real",
       "Traducción simultánea a 5 idiomas (inglés, español, francés, alemán, chino)",
@@ -3593,7 +3593,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "s2s‑translate",
@@ -3624,7 +3624,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Railway AI‑Native Cloud",
@@ -3660,7 +3660,7 @@
     "tipo": "Modelo de Transformers",
     "precio": "Gratuito",
     "descripcion": "Herramienta especializada para optimizar el ajuste de modelos de transformers mediante el uso eficiente de recursos computacionales.",
-    "web": "",
+    "web": "https://www.nvidia.com/en-us/ai-data-science/products/nemo/",
     "funciones": [
       "Fine-tuning",
       "Optimización de Parámetros"
@@ -3678,7 +3678,7 @@
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Gradium Real‑Time Speech Translation",
