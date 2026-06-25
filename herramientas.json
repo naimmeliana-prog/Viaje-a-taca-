@@ -1489,7 +1489,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Plansera AI",
@@ -1543,7 +1543,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Agent 37",
@@ -1613,7 +1613,7 @@
       "Documentación detallada"
     ],
     "etica": "Focalizada en la transparencia y la seguridad de los datos durante el desarrollo.",
-    "web": "",
+    "web": "https://github.com/foglamp/foglamp",
     "id": "foglamp-3d4410",
     "gratis": true,
     "pago": true,
@@ -1621,7 +1621,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones avanzadas.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Darkmoon",
@@ -1692,7 +1692,7 @@
       "Integración con herramientas nativas"
     ],
     "etica": "Enfocada en respetar la privacidad del usuario y evitar sesgos en sus respuestas.",
-    "web": "",
+    "web": "https://openai.com/prism/",
     "id": "prism-6e0d8d",
     "gratis": true,
     "pago": true,
@@ -1700,7 +1700,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito: acceso restringido a funciones básicas.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "VELA",
@@ -1717,7 +1717,7 @@
       "Agilidad"
     ],
     "etica": "Ética en seguridad y cumplimiento normativo.",
-    "web": "",
+    "web": "https://www.getvela.com/",
     "id": "vela-3c3d35",
     "gratis": false,
     "pago": true,
@@ -1725,7 +1725,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "IdeaVault",
@@ -1905,14 +1905,14 @@
     ],
     "etica": "CADAM prioriza la privacidad de los datos del usuario, implementando cifrado y políticas claras de uso. Se esfuerza por mitigar sesgos en los algoritmos de diseño, promoviendo la diversidad y la inclusión en las soluciones generadas.",
     "limite_gratis": "El plan gratuito permite crear y guardar un número limitado de proyectos, con acceso a las funciones básicas de diseño asistido por IA y exportaciones en formatos estándar.",
-    "web": "",
+    "web": "https://www.scriptbyai.com/text-image-3d-model-cadam/",
     "id": "cadam-985a9b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Clawd",
@@ -1934,14 +1934,14 @@
     ],
     "etica": "Al operar 100% localmente, Clawd ofrece una privacidad de datos superior, ya que la información del usuario nunca sale del dispositivo. Esto minimiza los riesgos de sesgos por datos externos y garantiza la confidencialidad.",
     "limite_gratis": "Acceso completo a todas las funciones de IA local y asistencia contextual sin coste alguno.",
-    "web": "",
+    "web": "https://www.myclawd.ai/",
     "id": "clawd-0820b5",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "AirJelly",
@@ -2021,14 +2021,14 @@
     ],
     "etica": "La privacidad de los datos es una preocupación clave, ya que la IA podría estar procesando información en el dispositivo del usuario. La transparencia sobre qué tareas realiza la IA y cómo se utilizan los datos es fundamental para mantener la confianza del usuario.",
     "limite_gratis": "La herramienta es gratuita para los usuarios, ya que su modelo de negocio se basa en la monetización del tiempo de inactividad del usuario a través de tareas de IA.",
-    "web": "",
+    "web": "https://www.uwait.co/",
     "id": "uwait-30c856",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Skybridge",
@@ -2050,14 +2050,14 @@
     ],
     "etica": "Al ser de código abierto, Skybridge promueve la transparencia y la colaboración en el desarrollo de software. La ética dependerá en gran medida de cómo los desarrolladores utilicen el framework para construir sus propias aplicaciones, especialmente en lo que respecta a la privacidad y el uso responsable de la IA.",
     "limite_gratis": "Al ser un framework de código abierto, es completamente gratuito y accesible para cualquier desarrollador sin limitaciones de uso.",
-    "web": "",
+    "web": "https://docs.skybridge.tech/",
     "id": "skybridge-bdaea1",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "OnBrand by SlideSpeak",
@@ -2108,14 +2108,14 @@
     ],
     "etica": "Este servicio facilita el despliegue de agentes, lo que implica una responsabilidad en el uso ético de dichos agentes. Cloudflare, como proveedor de infraestructura, debe asegurar la seguridad y la privacidad de los datos manejados por estas cuentas temporales, así como la transparencia en su uso.",
     "limite_gratis": "Permite la creación de un número limitado de cuentas temporales o un volumen específico de despliegues para agentes de IA sin coste.",
-    "web": "",
+    "web": "https://blog.cloudflare.com/temporary-accounts/",
     "id": "cloudflare-temporary-accounts-0322f1",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "AgentX",
@@ -3267,7 +3267,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Oracle",
@@ -3424,7 +3424,7 @@
     "tipo": "Catálogo de herramientas IA",
     "precio": "Freemium",
     "descripcion": "Directorio searchable que agrupa herramientas IA emergentes, con filtros por caso de uso, modelo, precio y nivel de código requerido.",
-    "web": "",
+    "web": "https://www.launchai.app/",
     "funciones": [
       "Busca herramientas IA por caso de uso y modelo.",
       "Filtra por precio, nivel de código y disponibilidad de API.",
@@ -3447,7 +3447,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "EdgeOne",
@@ -3624,7 +3624,7 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Railway AI‑Native Cloud",
