@@ -116,9 +116,12 @@ def _guardar_noticias(items):
  FEEDS_NOV=[
   ("https://www.xataka.com/tag/inteligencia-artificial/rss2.xml","Xataka"),
   ("https://www.genbeta.com/tag/inteligencia-artificial/rss2.xml","Genbeta"),
+  ("https://www.applesfera.com/tag/inteligencia-artificial/rss2.xml","Applesfera"),
+  ("https://www.xatakandroid.com/tag/inteligencia-artificial/rss2.xml","Xataka Android"),
   ("https://wwwhatsnew.com/tag/inteligencia-artificial/feed/","WWWhat's new"),
   ("https://planetachatbot.com/feed/","Planeta Chatbot"),
-  ("https://blogthinkbig.com/feed","Think Big")
+  ("https://blogthinkbig.com/feed","Think Big"),
+  ("https://www.lavanguardia.com/rss/tecnologia","La Vanguardia Tecno")
  ]
  # Feeds en español dedicados a ÉTICA / regulación / privacidad (verificados).
  FEEDS_ETI=[
@@ -233,9 +236,12 @@ def llamar_ia(prompt):
    if rp.status_code==200:
     print(f"✓ IA OK con modelo {modelo}")
     try:
-     return rp.json()["choices"][0]["message"]["content"],True
+     js = rp.json()
+     if "choices" in js: return js["choices"][0]["message"]["content"],True
+     elif "candidates" in js: return js["candidates"][0]["content"]["parts"][0]["text"],True # Fallback just in case openrouter passes native gemini format
+     else: raise Exception("No choices or candidates found in response")
     except Exception as ex:
-     warn(f"[{modelo}] respuesta 200 pero ilegible: {ex}")
+     warn(f"[{modelo}] respuesta 200 pero ilegible: {ex} - {rp.text[:150]}")
      return None,True
    if rp.status_code==429:
     cuota=True
@@ -289,8 +295,18 @@ elif n:
   m=re.search(r"\[[\s\S]*\]",tx)
   if m:
    try:
+    _nombres_bajos = [x.lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in nombres]
     for h in json.loads(m.group()):
-     if h.get("nombre","").lower() not in [x.lower() for x in nombres]:
+     nm_limpio = h.get("nombre","").lower().replace("-", " ").replace("‑", " ").replace("—", " ")
+     
+     # Check if a very similar name already exists (fuzzy matching)
+     existe = False
+     for existente in _nombres_bajos:
+         if nm_limpio == existente or (len(nm_limpio) > 5 and (nm_limpio in existente or existente in nm_limpio)):
+             existe = True
+             break
+     
+     if not existe:
       c.append(h)
    except Exception as ex:
     warn(f"No se pudo parsear el JSON de IA: {ex}")
@@ -343,8 +359,30 @@ def _ph_candidatos(items, conocidas):
 
 ph=_ph_candidatos(n, nombres)
 # Evitar duplicados con lo ya detectado por Gemini/heurística
-_ya=set((x.get("nombre","") or "").lower() for x in c)
-nuevas_ph=[x for x in ph if x["nombre"].lower() not in _ya]
+_ya=set((x.get("nombre","") or "").lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in c)
+_nombres_conocidos_bajos = [x.lower().replace("-", " ").replace("‑", " ").replace("—", " ") for x in nombres]
+
+nuevas_ph = []
+for x in ph:
+    nm_ph = x["nombre"].lower().replace("-", " ").replace("‑", " ").replace("—", " ")
+    
+    # Skip if it's already in the AI candidate list 'c'
+    existe_en_c = False
+    for ya in _ya:
+        if nm_ph == ya or (len(nm_ph) > 5 and (nm_ph in ya or ya in nm_ph)):
+            existe_en_c = True
+            break
+            
+    # Skip if it's already in the database
+    existe_en_db = False
+    if not existe_en_c:
+        for existente in _nombres_conocidos_bajos:
+            if nm_ph == existente or (len(nm_ph) > 5 and (nm_ph in existente or existente in nm_ph)):
+                existe_en_db = True
+                break
+                
+    if not existe_en_c and not existe_en_db:
+        nuevas_ph.append(x)
 # Control de crecimiento: no añadir nuevas si ya hay muchas pendientes sin cerrar.
 # Así el catálogo no crece sin control y se da tiempo a completar/cerrar las previas.
 _pend_actuales=sum(1 for h in t if h.get("pendiente_revision"))
@@ -418,14 +456,15 @@ def completar_webs_con_ia(lista):
  Devuelve cuántas webs se rellenaron. No rompe si IA falla."""
  if not G or not lista:return 0
  try:
-  lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120]} for x in lista]
+  lote=[{"nombre":x.get("nombre",""),"compania":x.get("compania",""),"pista":(x.get("descripcion") or "")[:120],"web_actual":x.get("web","")} for x in lista]
   pw=(
-   "Eres un investigador experto y tienes que encontrar la página web OFICIAL de estas herramientas de IA. "
-   "Para cada elemento, debes encontrar O DEDUCIR su URL oficial (suelo ser nombre-herramienta.com, .ai, o .io). "
+   "Eres un asistente web experto. Tu tarea es proporcionar la URL oficial EXACTA de estas herramientas de IA. "
    "Devuelve SOLO un array JSON, un objeto por elemento EN EL MISMO ORDEN, con los campos: nombre, web. "
-   "REGLAS: la 'web' debe empezar por https://. Haz tu mejor esfuerzo por deducir la web oficial basada en el nombre. "
-   "Por ejemplo si se llama 'Super AI', su web probablemente sea https://super.ai o https://superai.com. "
-   "SOLO devuelve cadena vacía \"\" si es absolutamente imposible deducir el dominio.\n"
+   "REGLAS CRÍTICAS: "
+   "1. NO INVENTES dominios .com que puedan estar a la venta o aparcados. Usa el dominio real (muchas usan .ai, .io, o subdominios de la empresa matriz). "
+   "2. Por ejemplo, para herramientas de ByteDance como Seedance, su web real suele ser seedance2.ai u otros dominios .ai. "
+   "3. Si es un proyecto de GitHub, devuelve la URL de GitHub (ej: https://github.com/empresa/proyecto). "
+   "4. Si no existe web oficial clara, devuelve el enlace provisional que viene en 'web_actual' o déjalo vacío \"\".\n"
    "LISTA:\n"+json.dumps(lote,ensure_ascii=False)
   )
   txw,okw=llamar_ia(pw)
