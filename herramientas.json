@@ -1458,7 +1458,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece funcionalidades básicas de gestión de forma gratuita.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Backgrind",
@@ -1489,7 +1489,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "5 agentes activos, 30 minutos de uso por día y 1 GB de almacenamiento de logs.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Plansera AI",
@@ -1543,7 +1543,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: permite usar las funciones básicas sin costo adicional.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Agent 37",
@@ -1621,7 +1621,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso limitado a funciones avanzadas.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Darkmoon",
@@ -1700,7 +1700,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito: acceso restringido a funciones básicas.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "VELA",
@@ -1725,7 +1725,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "IdeaVault",
@@ -1912,7 +1912,7 @@
     "fecha_agregado": "2026-06-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Clawd",
@@ -1941,7 +1941,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AirJelly",
@@ -2028,7 +2028,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Skybridge",
@@ -2057,7 +2057,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OnBrand by SlideSpeak",
@@ -2115,7 +2115,7 @@
     "fecha_agregado": "2026-06-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AgentX",
@@ -3015,7 +3015,8 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso."
+    "limite_gratis": "El plan gratuito incluye la versión completa de código abierto sin restricciones de uso.",
+    "intentos_web": 1
   },
   {
     "nombre": "Jalapeño",
@@ -3265,7 +3266,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Oracle",
@@ -3382,7 +3384,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "FFASR Leaderboard",
@@ -3412,7 +3415,8 @@
     "pago": false,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Launch‑AI Directory",
@@ -3442,7 +3446,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "EdgeOne",
@@ -3499,7 +3504,8 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Plan gratuito permite 2 agentes, 1 000 mensajes al mes y conexión a un único CRM."
+    "limite_gratis": "Plan gratuito permite 2 agentes, 1 000 mensajes al mes y conexión a un único CRM.",
+    "intentos_web": 1
   },
   {
     "nombre": "MicroSaaS Idea Generator",
@@ -3586,7 +3592,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "s2s‑translate",
@@ -3616,7 +3623,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Railway AI‑Native Cloud",
@@ -3652,7 +3660,7 @@
     "tipo": "Modelo de Transformers",
     "precio": "Gratuito",
     "descripcion": "Herramienta especializada para optimizar el ajuste de modelos de transformers mediante el uso eficiente de recursos computacionales.",
-    "web": "https://nvidia.com/nemo-automodel",
+    "web": "",
     "funciones": [
       "Fine-tuning",
       "Optimización de Parámetros"
@@ -3667,6 +3675,37 @@
     "id": "nvidia-nemo-automodel-4a4f5f",
     "gratis": true,
     "pago": false,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Gradium Real‑Time Speech Translation",
+    "compania": "Gradium AI",
+    "tipo": "Traducción de audio en tiempo real",
+    "descripcion": "Servicio que convierte audio a texto y traduce instantáneamente entre más de 30 idiomas con baja latencia.",
+    "web": "https://gradium.ai/",
+    "funciones": [
+      "Transcripción de voz a texto en tiempo real",
+      "Traducción automática entre múltiples idiomas",
+      "Detección automática del idioma de origen",
+      "Sincronización de subtítulos en pantalla",
+      "API REST para integración con aplicaciones"
+    ],
+    "caracteristicas": [
+      "Latencia inferior a 200 ms",
+      "Soporte para micrófonos y archivos de audio",
+      "Modo offline con modelos descargables",
+      "Control de calidad con puntuación de confianza",
+      "Escalabilidad en la nube con balanceo de carga"
+    ],
+    "etica": "Los datos de audio se procesan en servidores locales cuando se usa el modo offline, reduciendo riesgos de exposición. La herramienta incluye filtros de contenido para evitar la generación de textos ofensivos.",
+    "precio": "Freemium",
+    "limite_gratis": "El plan gratuito permite 30 minutos de traducción por día y acceso a 10 idiomas.",
+    "id": "gradium-real-time-speech-translation-a91cb4",
+    "gratis": true,
+    "pago": true,
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false
