@@ -28,9 +28,13 @@ def enlace_vivo(url):
   with _u.urlopen(req, timeout=8, context=_ctx) as r:
    # Si responde bien, leemos el contenido para cazar cybersquatters
    html = r.read(8192).decode("utf-8", errors="ignore").lower()
-   toxicos = ["domain is for sale", "buy this domain", "godaddy", "hugedomains", "sedo.com", "domain has expired", "this page is parked", "inquire about this domain", "afternic"]
+   toxicos = ["domain is for sale", "buy this domain", "godaddy", "hugedomains", "sedo.com", "domain has expired", "this page is parked", "inquire about this domain", "afternic", "window.location.href=\"/lander\""]
    if any(t in html for t in toxicos):
     return False # Es una web de venta de dominios
+   
+   # Comprobar redirecciones meta y javascript de aparcamiento
+   if "/lander" in html or "parking-page" in html:
+    return False
  except Exception:
   pass # 403, 429, timeouts... lo perdonamos por culpa de los anti-bots
  return True
@@ -98,7 +102,9 @@ for h in t:
     web_actual = h.get("web", "")
     if web_actual:
         if any(toxico in web_actual.lower() for toxico in DOMINIOS_TOXICOS) or not enlace_vivo(web_actual):
-            h["web"] = "" # La vacía para que el módulo de Backfill le busque una nueva
+            # Si era la única que teníamos y es tóxica, probamos a volver al provisional o la dejamos vacía
+            prov = h.get("li") or h.get("enlace")
+            h["web"] = prov if prov else ""
             h.pop("intentos_web", None) # Resetea la cola
             _webs_toxicas += 1
         
