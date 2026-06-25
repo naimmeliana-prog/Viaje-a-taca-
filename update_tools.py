@@ -41,9 +41,10 @@ def enlace_vivo(url):
     return False
  except _u.HTTPError as e:
   if e.code in (404, 410):
-    return False # Si es un 404 real (como un repo de Github borrado), la damos por muerta
+   return False # Si es un 404 real (como un repo de Github borrado), la damos por muerta
+  return True # Resto de HTTP Errors (403, 503) los damos por vivos para no asustarnos con Cloudflare
  except Exception:
-  pass # 403, 429, timeouts... lo perdonamos por culpa de los anti-bots (Cloudflare)
+  pass # Timeouts... lo perdonamos
  return True
 
 
