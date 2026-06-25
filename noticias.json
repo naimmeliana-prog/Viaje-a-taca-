@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-06-25T03:57:42Z",
+  "actualizado": "2026-06-25T05:15:19Z",
   "novedades": [
+    {
+      "titulo": "EE.UU. tiene la llave de la IA",
+      "resumen": "Washington se ha convertido en el guardián de los modelos más avanzados y de la mayor parte de la capacidad de cálculo",
+      "enlace": "https://www.lavanguardia.com/tecnologia/20260625/11568665/ia-inteligencia-artificial-estados-unidos.html",
+      "medio": "La Vanguardia Tecno",
+      "fecha": "2026-06-25T04:00:00Z"
+    },
+    {
+      "titulo": "Análisis de 'Star Fox', el regreso de la aventura espacial de Nintendo",
+      "resumen": "Casi tres décadas después de su lanzamiento original, Switch 2 recibe una espectacular puesta al día del clásico de Nintendo 64",
+      "enlace": "https://www.lavanguardia.com/neo/20260624/11574365/videojuegos-star-fox-remake-nintendo-switch-2-analisis.html",
+      "medio": "La Vanguardia Tecno",
+      "fecha": "2026-06-24T17:40:06Z"
+    },
     {
       "titulo": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
       "resumen": "Hace tanto tiempo que vivo atada a un teclado o a una pantalla táctil que cuando me apunté a la Escuela de Idiomas se me hizo muy raro volver a llevar cuaderno y boli para tomar apuntes. Así que en cuanto tuve la oportun",
@@ -196,20 +210,6 @@
       "enlace": "https://www.lavanguardia.com/tecnologia/20260618/11567607/robot-everest-nepal-plantea-prueba-historica-techo-mundo.html",
       "medio": "La Vanguardia Tecno",
       "fecha": "2026-06-18T04:00:00Z"
-    },
-    {
-      "titulo": "Reino Unido prohíbe las redes sociales a menores de 16 años, y detrás hay una conversación pendiente",
-      "resumen": "El primer ministro británico Keir Starmer anunció recientemente una propuesta para prohibir el acceso a redes sociales como TikTok, Instagram, YouTube, Snapchat o X a todos los menores de 16 años. Si el Parlamento la [&#",
-      "enlace": "https://blogthinkbig.com/reino-unido-prohibe-las-redes-sociales-a-menores-de-16-anos-y-detras-hay-una-conversacion-pendiente",
-      "medio": "Think Big",
-      "fecha": "2026-06-17T10:06:12Z"
-    },
-    {
-      "titulo": "El iOS 27 más troceado de la historia: tu iPhone puede actualizarse, pero no a la misma versión que el de tu vecino",
-      "resumen": "Pocas actualizaciones de software han sido tan particulares como lo será iOS 27 en septiembre. Cuando se lance ese mes en su versión final, veremos que no todos recibirán el mismo número de funciones. Tendrán elementos c",
-      "enlace": "https://www.applesfera.com/ios/que-novedades-ios-27-llegaran-a-tu-iphone-dependiendo-modelo-vives-no-europa",
-      "medio": "Applesfera",
-      "fecha": "2026-06-17T09:00:00Z"
     }
   ],
   "etica": [
