@@ -3732,14 +3732,14 @@
     ],
     "etica": "La herramienta procesa solo datos proporcionados por el usuario y no almacena información personal sin consentimiento; se realizan auditorías periódicas para minimizar sesgos en los análisis de feedback.",
     "limite_gratis": "El plan gratuito permite analizar hasta 1000 comentarios mensuales y ofrece acceso limitado a integraciones básicas.",
-    "web": "https://www.producthunt.com/products/samepage-signals",
+    "web": "https://www.samepage.ai/",
     "id": "samepage-signals-be2f29",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Oxlo.ai",
@@ -3763,14 +3763,14 @@
     ],
     "etica": "Oxlo.ai garantiza que los datos de los usuarios no se utilicen para reentrenar modelos sin permiso explícito y aplica revisiones para detectar y mitigar sesgos en las salidas de los modelos.",
     "limite_gratis": "El plan gratuito incluye hasta 100,000 tokens mensuales y acceso a dos modelos básicos para pruebas.",
-    "web": "https://www.producthunt.com/products/oxlo-ai",
+    "web": "https://www.oxlo.ai/",
     "id": "oxlo-ai-be1dee",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "BrowserAct",
@@ -3794,14 +3794,14 @@
     ],
     "etica": "BrowserAct respeta los términos de servicio de los sitios web, evitando scraping no autorizado, e incluye mecanismos para identificar y mitigar sesgos en la interacción con contenido.",
     "limite_gratis": "El plan gratuito brinda hasta 10 horas de ejecución mensual y un número limitado de sesiones concurrentes.",
-    "web": "https://www.producthunt.com/products/browseract",
+    "web": "https://www.browseract.com/login",
     "id": "browseract-79f851",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Grass 2.0",
@@ -3825,8 +3825,132 @@
     ],
     "etica": "Grass 2.0 no almacena ni reutiliza código propietario sin el consentimiento explícito del usuario y mantiene entornos aislados para evitar uso malicioso o sesgos inducidos.",
     "limite_gratis": "El plan gratuito brinda 2 horas de tiempo de cómputo mensual y acceso a un entorno básico con almacenamiento limitado.",
-    "web": "https://www.producthunt.com/products/grass-claude-code-from-your-phone",
+    "web": "https://www.grass.io/",
     "id": "grass-2-0-3224ff",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Zaro",
+    "descripcion": "Permite crear agentes y aplicaciones personalizadas con un solo prompt, integrando tu contexto de manera sencilla.",
+    "compania": "Zaro Labs",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de agentes conversacionales",
+      "Integración de datos contextuales",
+      "Automatización de tareas",
+      "Despliegue rápido de aplicaciones",
+      "Personalización de flujos de trabajo"
+    ],
+    "caracteristicas": [
+      "Prompt único para todo el contexto",
+      "API flexible y extensible",
+      "Escalabilidad automática",
+      "Seguridad de datos con cifrado",
+      "Soporte para múltiples lenguajes"
+    ],
+    "etica": "Protege la privacidad de los datos contextuales y minimiza sesgos mediante entrenamiento supervisado y revisiones de contenido.",
+    "limite_gratis": "Plan gratuito permite crear hasta 3 agentes y 500 tokens por mes.",
+    "web": "https://zaro.ai/",
+    "id": "zaro-583054",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Nashra",
+    "descripcion": "Convierte seguidores en clientes mediante automatización de mensajes y ofertas personalizadas.",
+    "compania": "Nashra Inc.",
+    "tipo": "Marketing / Ventas",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis de audiencia y segmentación",
+      "Campañas de retargeting automatizadas",
+      "Mensajería personalizada en redes sociales",
+      "Seguimiento de conversiones y métricas",
+      "Integración con CRM y plataformas de pago"
+    ],
+    "caracteristicas": [
+      "Segmentación avanzada por intereses y comportamiento",
+      "Plantillas de contenido optimizadas",
+      "Análisis en tiempo real de campañas",
+      "Compatibilidad con Instagram, Twitter y TikTok",
+      "Automatización de flujos de ventas"
+    ],
+    "etica": "Cumple con GDPR y evita la manipulación indebida de datos, garantizando transparencia en la recopilación y uso de la información.",
+    "limite_gratis": "Plan gratuito permite gestionar hasta 500 seguidores y 10 campañas mensuales.",
+    "web": "https://nashra.ai/",
+    "id": "nashra-bf5cf7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "VTT for Mac",
+    "descripcion": "Convierte voz a texto en macOS con opción totalmente local, garantizando privacidad y precisión.",
+    "compania": "VTT Solutions",
+    "tipo": "Transcripción / Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Transcripción en tiempo real",
+      "Modo offline sin conexión a internet",
+      "Reconocimiento multilingüe",
+      "Edición y corrección de texto integrado",
+      "Exportación a PDF, DOCX y formatos de subtítulos"
+    ],
+    "caracteristicas": [
+      "Privacidad local: datos nunca salen del dispositivo",
+      "Precisión alta con modelos de última generación",
+      "Interfaz nativa de macOS",
+      "Soporte para micrófonos externos y entradas de audio",
+      "Sincronización con iCloud para respaldo"
+    ],
+    "etica": "No envía datos a servidores externos, garantizando la confidencialidad y cumplimiento de normativas de privacidad.",
+    "limite_gratis": "Plan gratuito permite 30 minutos de transcripción por día.",
+    "web": "https://apps.apple.com/us/app/quest-portal-vtt/id1588540503",
+    "id": "vtt-for-mac-0f8f3c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "SayCraft",
+    "descripcion": "Crea aplicaciones web mediante conversaciones en reuniones, generando código y diseños en tiempo real.",
+    "compania": "SayCraft Labs",
+    "tipo": "Desarrollo de aplicaciones / Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación automática de código front-end y back-end",
+      "Diseño de UI basado en conversación",
+      "Automatización de flujos de trabajo y lógica de negocio",
+      "Integración con APIs externas y bases de datos",
+      "Despliegue en la nube con un solo clic"
+    ],
+    "caracteristicas": [
+      "Conversación natural en español e inglés",
+      "Plantillas de proyectos predefinidas",
+      "Edición colaborativa en tiempo real",
+      "Generación de documentación técnica",
+      "Soporte multiplataforma (Web, Mobile, Desktop)"
+    ],
+    "etica": "Promueve la transparencia del código generado y evita la inclusión de contenido sesgado, ofreciendo revisiones de seguridad y cumplimiento.",
+    "limite_gratis": "Plan gratuito permite crear 1 proyecto y 500 líneas de código.",
+    "web": "https://saycraft.ai/",
+    "id": "saycraft-1dbde4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-25",

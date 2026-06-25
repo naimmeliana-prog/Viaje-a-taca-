@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-25T09:07:44Z",
+  "actualizado": "2026-06-25T09:33:59Z",
   "novedades": [
     {
       "titulo": "Infobip celebra sus 10 años en España hablando del salto de la IA agéntica de los casos piloto a la operativa real en la comunicación conversacional",
@@ -14,13 +14,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/dos-de-cada-tres-ceo-temen-no-invertir-en-ia-lo-suficientemente-rapido/",
       "medio": "Computing.es",
       "fecha": "2026-06-25T07:31:00Z"
-    },
-    {
-      "titulo": "EE.UU. tiene la llave de la IA",
-      "resumen": "Washington se ha convertido en el guardián de los modelos más avanzados y de la mayor parte de la capacidad de cálculo",
-      "enlace": "https://www.lavanguardia.com/tecnologia/20260625/11568665/ia-inteligencia-artificial-estados-unidos.html",
-      "medio": "La Vanguardia",
-      "fecha": "2026-06-25T04:00:00Z"
     },
     {
       "titulo": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
@@ -210,6 +203,13 @@
       "enlace": "https://www.applesfera.com/rumores/apple-tenia-ambicioso-plan-airpods-camaras-uno-que-acaba-cambiar-golpe-gurman",
       "medio": "Applesfera",
       "fecha": "2026-06-17T06:30:00Z"
+    },
+    {
+      "titulo": "Zscaler presenta su modelo Zero Trust para agentes de IA en Zenith Live 26",
+      "resumen": "En el marco del evento Zenith Live 2026 celebrado en Viena, Jay Chaudhry, CEO y fundador de Zscaler, anunció una evolución crítica en su estrategia de seguridad para abordar los riesgos de la era de la IA agéntica L'arti",
+      "enlace": "https://www.computing.es/seguridad/zscaler-presenta-su-modelo-zero-trust-para-agentes-de-ia-en-zenith-live-26/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-16T13:18:20Z"
     }
   ],
   "etica": [
