@@ -4461,14 +4461,14 @@
     ],
     "etica": "Al ser comunitario y de código abierto, evita la concentración de poder y permite revisión pública para mitigar sesgos y asegurar privacidad de los registros.",
     "limite_gratis": "El plan gratuito ofrece registro y resolución ilimitados de agentes dentro del namespace comunitario.",
-    "web": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+    "web": "https://poweredbyai.app/project/dmv-by-agent-community",
     "id": "dmv-by-agent-community-45cdcf",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "GPT-5.6",
