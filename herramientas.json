@@ -3963,7 +3963,7 @@
     "tipo": "Modelos de lenguaje",
     "precio": "Gratuito",
     "descripcion": "Familia de modelos de codificación open-source basados en Gemma 4 y Qwen 3.5, que desarrollan sus propios andamios de RL para adaptarse a tareas específicas.",
-    "web": "",
+    "web": "https://deep-reinforce.com/",
     "funciones": [
       "Entrenamiento de modelos de lenguaje con RL personalizado",
       "Codificación y generación de texto",
@@ -3984,7 +3984,7 @@
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Patronus AI",
@@ -4092,14 +4092,14 @@
     ],
     "etica": "Se implementan filtros para reducir sesgos y proteger la privacidad, aunque persisten desafíos en la transparencia.",
     "limite_gratis": "El plan gratuito permite acceso limitado a tokens y funcionalidades básicas; se requiere suscripción para uso completo.",
-    "web": "",
+    "web": "https://openai.com/",
     "id": "openai-0523b1",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Basedash for Excel",
@@ -4123,14 +4123,14 @@
     ],
     "etica": "Procesa solo los datos locales del archivo, sin recopilar información externa, garantizando privacidad.",
     "limite_gratis": "El plan gratuito permite crear hasta 3 dashboards y manejar hasta 100 filas de datos; los planes pagos sin límites.",
-    "web": "https://www.producthunt.com/products/basedash",
+    "web": "https://www.basedash.com/",
     "id": "basedash-for-excel-45dec0",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Atlas",
@@ -4220,6 +4220,249 @@
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AI Slide Editor",
+    "compania": "CubeOne",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Editor de presentaciones impulsado por IA que automatiza la creación de diapositivas y brinda sugerencias inteligentes de diseño y contenido.",
+    "web": "https://cubeone.ai",
+    "funciones": [
+      "Generación automática de diapositivas",
+      "Sugerencias de diseño y layout",
+      "Integración con fuentes de datos",
+      "Exportación a PowerPoint/Google Slides",
+      "Colaboración en tiempo real"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "IA contextual",
+      "Plantillas personalizables",
+      "Soporte multimedia",
+      "Actualizaciones automáticas"
+    ],
+    "etica": "Respeta la privacidad al procesar solo el contenido proporcionado por el usuario y no almacena datos sensibles sin consentimiento; busca minimizar sesgos en las sugerencias de diseño mediante entrenamiento diversificado.",
+    "limite_gratis": "El plan gratuito permite crear hasta 5 presentaciones por mes con marca de agua y acceso limitado a plantillas premium.",
+    "id": "ai-slide-editor-a2492b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Computer for Counsel",
+    "compania": "Perplexity",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Plataforma agente multi‑modelo que combina más de 20 IA para acelerar la investigación legal, generar resúmenes y redactar documentos.",
+    "web": "https://www.perplexity.ai/computer-for-counsel",
+    "funciones": [
+      "Búsqueda legal automatizada",
+      "Análisis de jurisprudencia",
+      "Redacción de memorandos",
+      "Citas y referencias automáticas",
+      "Integración con bases de datos legales"
+    ],
+    "caracteristicas": [
+      "Multi‑modelo (20+ IA)",
+      "Enfoque en privacidad de datos legales",
+      "Actualizaciones en tiempo real de leyes",
+      "Interfaz de chat especializada",
+      "Escalabilidad empresarial"
+    ],
+    "etica": "Garantiza confidencialidad de la información del cliente mediante cifrado de extremo a extremo y evita sesgos al entrenar con fuentes jurídicas diversas y auditadas.",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "computer-for-counsel-2929de",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "LockIn MCP",
+    "compania": "LockIn",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Aplicación que usa IA para detectar y bloquear distracciones digitales, favoreciendo el foco en tareas laborales.",
+    "web": "https://lockin.mcp",
+    "funciones": [
+      "Bloqueo de sitios y apps distractores",
+      "Sesiones de trabajo personalizables (Pomodoro)",
+      "Informes de productividad y enfoque",
+      "Modo de concentración adaptativo basado en comportamiento",
+      "Integración con calendarios"
+    ],
+    "caracteristicas": [
+      "Detección inteligente de distracciones",
+      "Interfaz minimalista",
+      "Sincronización multiplataforma",
+      "Modo de enfoque adaptativo",
+      "Reportes visuales"
+    ],
+    "etica": "Respeta la privacidad al procesar localmente la actividad del usuario y no vender datos a terceros; evita sesgos al aplicar reglas de bloqueo neutras y personalizables.",
+    "limite_gratis": "El plan gratuito ofrece bloqueo básico de sitios y sesiones Pomodoro limitadas a 2 horas diarias, sin acceso a analíticas avanzadas.",
+    "id": "lockin-mcp-33af5a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "container",
+    "compania": "Apple",
+    "tipo": "Desarrollo",
+    "precio": "Gratuito",
+    "descripcion": "Herramienta de código abierto en Swift que permite ejecutar contenedores Linux como máquinas virtuales ligeras en macOS y otros dispositivos Apple.",
+    "web": "https://github.com/apple/container",
+    "funciones": [
+      "Ejecución de contenedores Linux",
+      "Integración con hipervisor de Apple",
+      "Gestión de imágenes OCI",
+      "Interfaz de línea de comandos",
+      "Compatibilidad con Docker"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Rendimiento cercano al nativo",
+      "Bajo consumo de recursos",
+      "Actualizaciones mediante Swift Package Manager",
+      "Soporte para arquitecturas ARM y x86"
+    ],
+    "etica": "Al ser de código abierto y desarrollado por Apple, no recopila datos de uso sin consentimiento y su transparencia permite auditorías de seguridad y sesgo.",
+    "limite_gratis": "Al ser de código abierto y gratuito, ofrece funcionalidad completa sin limitaciones de uso.",
+    "id": "container-5f0b6e",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "SquidHub",
+    "compania": "SquidHub",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que combina juego y productividad, permitiendo a humanos y agentes de IA trabajar juntos en tiempo real en proyectos compartidos.",
+    "web": "https://squidhub.com",
+    "funciones": [
+      "Colaboración en tiempo real humano‑IA",
+      "Modo multijugador de proyectos",
+      "Integración de herramientas de IA (generación de texto, código)",
+      "Gestión de tareas y seguimiento de progreso",
+      "Chat y comunicación integrada"
+    ],
+    "caracteristicas": [
+      "Entorno lúdico y productivo",
+      "Soporte para múltiples modelos de IA",
+      "Sincronización en la nube",
+      "Interfaz de juego estilo sandbox",
+      "Escalabilidad para equipos"
+    ],
+    "etica": "Garantiza que los datos de los usuarios no se usen para entrenar modelos sin permiso y aplica filtros para reducir sesgos en las respuestas de los agentes IA.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 proyectos simultáneos con acceso a agentes IA básicos y almacenamiento limitado a 1 GB.",
+    "id": "squidhub-4093ae",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Agent Arena",
+    "descripcion": "Plataforma pública donde se pueden desplegar, observar y competir agentes de IA en diversos entornos de prueba.",
+    "compania": "Agent Arena",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Despliegue de agentes IA",
+      "Competencias y benchmarking",
+      "Visualización de comportamiento en tiempo real",
+      "Integración con marcos de RL",
+      "Compartir y clonar agentes"
+    ],
+    "caracteristicas": [
+      "Acceso abierto y público",
+      "Entornos de prueba variados",
+      "Tabla de líderes global",
+      "API para integración",
+      "Documentación y tutoriales"
+    ],
+    "etica": "Fomenta la transparencia al permitir auditoría pública del comportamiento de los agentes y evita sesgos al ofrecer entornos equilibrados y diversos.",
+    "limite_gratis": "El plan gratuito ofrece acceso completo a todas las arenas y funcionalidades sin costo.",
+    "web": "https://www.agentarena.chat/",
+    "id": "agent-arena-8e4eb9",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "note.md",
+    "descripcion": "Aplicación que convierte tus notas y documentación en una memoria local potenciada por un LLM, permitiendo búsquedas semánticas y generación de contenido.",
+    "compania": "note.md",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "funciones": [
+      "Indexación semántica de notas",
+      "Búsqueda por lenguaje natural",
+      "Generación de resúmenes y respuestas",
+      "Integración con editores Markdown",
+      "Sincronización opcional con la nube"
+    ],
+    "caracteristicas": [
+      "Funciona totalmente en el dispositivo",
+      "Privacidad de datos garantizada",
+      "Soporte para múltiples formatos",
+      "Actualizaciones de modelo locales",
+      "Interfaz minimalista"
+    ],
+    "etica": "Al procesar todo localmente, no envía datos a servidores externos, asegurando confidencialidad y minimizando riesgos de sesgo introducido por terceros.",
+    "limite_gratis": "El plan gratuito ofrece todas las funciones locales sin limitaciones de almacenamiento o uso.",
+    "web": "https://www.notemd.org/",
+    "id": "note-md-4152aa",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "DMV by Agent Community",
+    "descripcion": "Espacio de nombres gobernado por la comunidad que permite registrar y descubrir agentes de IA de forma estándar y descentralizada.",
+    "compania": "Agent Community",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Registro de agentes IA",
+      "Resolución de nombres descentralizada",
+      "Gobernanza comunitaria mediante votaciones",
+      "Integración con frameworks de agentes",
+      "Auditoría y trazabilidad de cambios"
+    ],
+    "caracteristicas": [
+      "Descentralizado y resistente a censura",
+      "Governado por la comunidad",
+      "Soporte para estándares abiertos",
+      "Transparencia total de cambios",
+      "Escalable a gran cantidad de agentes"
+    ],
+    "etica": "Al ser comunitario y de código abierto, evita la concentración de poder y permite revisión pública para mitigar sesgos y asegurar privacidad de los registros.",
+    "limite_gratis": "El plan gratuito ofrece registro y resolución ilimitados de agentes dentro del namespace comunitario.",
+    "web": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+    "id": "dmv-by-agent-community-45cdcf",
+    "gratis": true,
+    "pago": false,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
