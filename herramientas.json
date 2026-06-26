@@ -4291,7 +4291,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Aplicación que usa IA para detectar y bloquear distracciones digitales, favoreciendo el foco en tareas laborales.",
-    "web": "https://lockin.mcp",
+    "web": "https://modelcontextprotocol.io",
     "funciones": [
       "Bloqueo de sitios y apps distractores",
       "Sesiones de trabajo personalizables (Pomodoro)",
@@ -4313,7 +4313,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "container",
@@ -4466,6 +4467,34 @@
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
+  },
+  {
+    "nombre": "GPT-5.6",
+    "compania": "OpenAI",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Pago",
+    "descripcion": "Modelo de lenguaje de última generación diseñado para tareas de razonamiento complejo y alta precisión. Su acceso está gestionado mediante API bajo estrictos controles regulatorios.",
+    "web": "https://openai.com/api",
+    "funciones": [
+      "Razonamiento lógico avanzado",
+      "Procesamiento de lenguaje natural profundo",
+      "Integración vía API para desarrolladores",
+      "Multimodalidad mejorada"
+    ],
+    "caracteristicas": [
+      "Arquitectura de modelo de gran escala",
+      "Acceso restringido por cumplimiento normativo",
+      "Alta capacidad de contexto",
+      "Optimización para tareas empresariales"
+    ],
+    "etica": "Implementa medidas de seguridad avanzadas para mitigar sesgos y cumplir con las regulaciones de IA vigentes. La privacidad se gestiona mediante protocolos de acceso controlado.",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "gpt-5-6-ddfc04",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]
