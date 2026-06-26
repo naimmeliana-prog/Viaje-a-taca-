@@ -4231,7 +4231,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Editor de presentaciones impulsado por IA que automatiza la creación de diapositivas y brinda sugerencias inteligentes de diseño y contenido.",
-    "web": "https://cubeone.ai",
+    "web": "https://www.slidesai.io/",
     "funciones": [
       "Generación automática de diapositivas",
       "Sugerencias de diseño y layout",
@@ -4253,7 +4253,8 @@
     "pago": true,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Computer for Counsel",
@@ -4467,7 +4468,7 @@
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "GPT-5.6",
