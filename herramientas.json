@@ -3956,5 +3956,117 @@
     "fecha_agregado": "2026-06-25",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "Ornith-1.0",
+    "compania": "Comunidad de investigación open-source",
+    "tipo": "Modelos de lenguaje",
+    "precio": "Gratuito",
+    "descripcion": "Familia de modelos de codificación open-source basados en Gemma 4 y Qwen 3.5, que desarrollan sus propios andamios de RL para adaptarse a tareas específicas.",
+    "web": "https://deepreinforce.ai/ornith",
+    "funciones": [
+      "Entrenamiento de modelos de lenguaje con RL personalizado",
+      "Codificación y generación de texto",
+      "Adaptación a dominios específicos sin andamios fijos",
+      "Colaboración comunitaria en desarrollo de IA"
+    ],
+    "caracteristicas": [
+      "Arquitectura basada en Gemma 4 y Qwen 3.5",
+      "Andamios de RL auto-generados",
+      "Enfoque open-source y transparente",
+      "Optimización para tareas de codificación y lenguaje natural"
+    ],
+    "etica": "Promueve la transparencia y acceso abierto a modelos de IA, reduciendo riesgos de sesgos al permitir auditorías comunitarias.",
+    "limite_gratis": "Acceso completo al código y modelos, pero con limitaciones en recursos computacionales para entrenamiento avanzado.",
+    "id": "ornith-1-0-8d1226",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Patronus AI",
+    "compania": "Patronus AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que crea mundos digitales para probar y validar agentes de IA antes de su despliegue en entornos reales.",
+    "web": "https://patronus.ai",
+    "funciones": [
+      "Simulación de entornos digitales para pruebas de IA",
+      "Evaluación de seguridad y rendimiento de agentes",
+      "Generación de escenarios de estrés controlados",
+      "Integración con frameworks de desarrollo de IA"
+    ],
+    "caracteristicas": [
+      "Fundada por ex-investigadores de Meta AI",
+      "Entornos virtuales altamente personalizables",
+      "Análisis de riesgos en tiempo real",
+      "Enfoque en IA responsable y segura"
+    ],
+    "etica": "Prioriza la seguridad y la responsabilidad en el desarrollo de IA, minimizando impactos negativos en usuarios reales mediante pruebas exhaustivas.",
+    "limite_gratis": "Acceso a simulaciones básicas y un número limitado de agentes para pruebas iniciales.",
+    "id": "patronus-ai-c94029",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Baidu Unlimited OCR",
+    "compania": "Baidu",
+    "tipo": "Procesamiento de documentos",
+    "precio": "Pago",
+    "descripcion": "Modelo de OCR de arquitectura MoE con 3B de parámetros que procesa múltiples páginas de documentos en un solo paso, manteniendo eficiencia con KV cache plano.",
+    "web": "https://github.com/baidu/unlimited-ocr",
+    "funciones": [
+      "Reconocimiento óptico de caracteres (OCR) multilingüe",
+      "Procesamiento de documentos en lote",
+      "Mantenimiento de contexto con Reference Sliding Window Attention",
+      "Conversión de documentos escaneados a texto editable"
+    ],
+    "caracteristicas": [
+      "Arquitectura Mixture of Experts (MoE)",
+      "3B de parámetros para alta precisión",
+      "KV cache plano para eficiencia computacional",
+      "Soporte para formatos complejos (PDF, imágenes, etc.)"
+    ],
+    "etica": "Garantiza la privacidad de los documentos procesados mediante encriptación y no almacenamiento de datos sensibles.",
+    "limite_gratis": "Sin plan gratuito; requiere suscripción para acceso a funcionalidades avanzadas.",
+    "id": "baidu-unlimited-ocr-49bf13",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "General Intuition",
+    "compania": "General Intuition",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Empresa que entrena agentes de IA utilizando millones de horas de datos de gameplay, con el objetivo de desarrollar inteligencia más cercana a la humana.",
+    "web": "https://generalintuition.ai",
+    "funciones": [
+      "Entrenamiento de agentes con datos de acción en videojuegos",
+      "Desarrollo de inteligencia artificial adaptable a tareas complejas",
+      "Simulación de comportamientos humanos en entornos virtuales",
+      "Optimización de decisiones en tiempo real"
+    ],
+    "caracteristicas": [
+      "Uso de datos de gameplay para entrenamiento",
+      "Enfoque en inteligencia artificial humana",
+      "Simulaciones de alta fidelidad",
+      "Aplicaciones en robótica y automatización"
+    ],
+    "etica": "Aborda preocupaciones sobre sesgos al utilizar datos de comportamiento humano, pero requiere supervisión para evitar replicar patrones problemáticos.",
+    "limite_gratis": "Sin plan gratuito; acceso restringido a clientes empresariales o académicos con licencias especiales.",
+    "id": "general-intuition-0372c3",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]

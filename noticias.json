@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-25T10:37:01Z",
+  "actualizado": "2026-06-26T05:25:33Z",
   "novedades": [
     {
       "titulo": "Infobip celebra sus 10 años en España hablando del salto de la IA agéntica de los casos piloto a la operativa real en la comunicación conversacional",
@@ -58,18 +58,18 @@
       "fecha": "2026-06-23T19:31:01Z"
     },
     {
-      "titulo": "La solución de Nvidia para reducir a cero el consumo de agua en centros de datos apunta a ser una genialidad: usar agua caliente",
-      "resumen": "Nvidia ha anunciado un sistema de refrigeración líquida muy especial. Sobre todo, porque el concepto de \"refrigeración\" se confunde un poco aquí. La empresa se las ha ingeniado para reinventar este tipo de sistemas, y se",
-      "enlace": "https://www.xataka.com/robotica-e-ia/solucion-nvidia-para-reducir-a-cero-consumo-agua-centros-datos-apunta-a-ser-genialidad-usar-agua-caliente",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T17:01:01Z"
-    },
-    {
       "titulo": "\"Nunca ha habido un mejor momento para usar Atajos\". Con iOS 27 tendremos la IA que llevábamos años esperando",
       "resumen": "De las mejoras de Apple Intelligence que llegan con iOS 27, hay una que me entusiasma especialmente: poder crear atajos con cero conocimiento de la app Atajos (valga la redundancia). No es que fuese una aplicación muy té",
       "enlace": "https://www.applesfera.com/ios/nunca-ha-habido-mejor-momento-para-usar-atajos-ios-27-tendremos-ia-que-llevabamos-anos-esperando",
       "medio": "Applesfera",
       "fecha": "2026-06-23T17:01:01Z"
+    },
+    {
+      "titulo": "Los centros de datos consumen muchísimo agua. Nvidia cree que la forma de ahorrar es utilizando agua caliente en su lugar",
+      "resumen": "Nvidia ha anunciado un sistema de refrigeración líquida muy especial. Sobre todo, porque el concepto de \"refrigeración\" se confunde un poco aquí. La empresa se las ha ingeniado para reinventar este tipo de sistemas, y se",
+      "enlace": "https://www.xataka.com/robotica-e-ia/solucion-nvidia-para-reducir-a-cero-consumo-agua-centros-datos-apunta-a-ser-genialidad-usar-agua-caliente",
+      "medio": "Xataka",
+      "fecha": "2026-06-23T17:00:00Z"
     },
     {
       "titulo": "Todos los robots compiten por parecer personas: esta startup acaba de apostar exactamente por lo contrario",
@@ -79,11 +79,11 @@
       "fecha": "2026-06-23T16:00:00Z"
     },
     {
-      "titulo": "Las nuevas Meta Glasses son 0% Ray-Ban. Esa es una gran noticia para nuestro bolsillo",
+      "titulo": "Las nuevas gafas inteligentes de Meta son 100% Meta y 0% RayBan: eso tiene un impacto inmediato en tu bolsillo",
       "resumen": "Meta acaba de anunciar el lanzamiento de varios nuevos pares de gafas inteligentes a las que llama sencillamente Meta Glasses (\"Gafas Meta\"), pero lo realmente llamativo del lanzamiento no son las especificaciones de las",
       "enlace": "https://www.xataka.com/wearables/meta-glasses-2026-caracteristicas-precio-ficha-tecnica",
       "medio": "Xataka",
-      "fecha": "2026-06-23T14:47:01Z"
+      "fecha": "2026-06-23T14:45:00Z"
     },
     {
       "titulo": "Un ingeniero de Microsoft tuvo una idea genial para demostrar que la IA no es consciente de sí misma: usar cabras en Age of Empires II",
@@ -91,13 +91,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/ingeniero-microsoft-tuvo-idea-genial-para-demostrar-que-ia-no-consciente-usar-cabras-age-of-empires-ii",
       "medio": "Xataka",
       "fecha": "2026-06-23T12:31:00Z"
-    },
-    {
-      "titulo": "\"Los repartidores ya no serán necesarios\": Richard Liu, CEO del \"Amazon chino\", señala el destino de 700.000 empleados",
-      "resumen": "Uno de los debates internos que están teniendo que asumir algunas de las mayores empresas tecnológicas y de logística gira en torno a la automatización de sus plantillas: sustituir a trabajadores humanos por robots que n",
-      "enlace": "https://www.xataka.com/robotica-e-ia/repartidores-no-seran-necesarios-richard-liu-ceo-amazon-chino-senala-destino-700-000-empleados",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T12:17:00Z"
     },
     {
       "titulo": "Solo el 37% de las empresas tiene control total sobre las herramientas de IA que utiliza",
@@ -210,9 +203,23 @@
       "enlace": "https://www.computing.es/seguridad/zscaler-presenta-su-modelo-zero-trust-para-agentes-de-ia-en-zenith-live-26/",
       "medio": "Computing.es",
       "fecha": "2026-06-16T13:18:20Z"
+    },
+    {
+      "titulo": "IA Accionable: la inteligencia artificial es la nueva ventaja competitiva",
+      "resumen": "Quienes entienden este cambio han dejado de pensar en tecnología para empezar a pensar en impacto L'articolo IA Accionable: la inteligencia artificial es la nueva ventaja competitiva proviene da Computing.",
+      "enlace": "https://www.computing.es/opinion/ia-accionable-la-inteligencia-artificial-es-la-nueva-ventaja-competitiva/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-16T08:50:43Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "‘Anthropic Cybersecurity Skills’, 754 skills de ciberseguridad para agentes de IA",
+      "resumen": "La mayor biblioteca open source de skills de ciberseguridad para agentes de IA: 754 workflows estructurados en 26 dominios, mapeados a MITRE ATT&#038;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND y NIST AI RMF. No es un proyecto",
+      "enlace": "https://derechodelared.com/2026/06/25/anthropic-cybersecurity-skills-ciberseguridad-agentes-de-ia/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-06-25T16:23:13Z"
+    },
     {
       "titulo": "OWASP lanza un asistente de IA para hacer análisis de amenazas en sistemas de IA gratis",
       "resumen": "OWASP AI Exchange acaba de publicar Threat Advisor, un asistente basado en NotebookLM que guía a cualquier equipo en el análisis de amenazas de seguridad de su sistema de IA. The post OWASP lanza un asistente de IA para ",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
       "medio": "Xataka",
       "fecha": "2025-09-05T17:44:00Z"
-    },
-    {
-      "titulo": "Mientras Europa lucha con sus normas sobre IA, EEUU está apostando por lo contrario: una relajación normativa sin precedentes",
-      "resumen": "La IA ya está redefiniendo nuestra relación con la tecnología, pero también está redibujando las esferas de poder en el mundo. Estados Unidos y Europa dicen estar comprometidos con su desarrollo, pero lo están haciendo d",
-      "enlace": "https://www.xataka.com/robotica-e-ia/europa-lucha-sus-normas-ia-eeuu-esta-apostando-contrario-relajacion-normativa-precedentes",
-      "medio": "Xataka",
-      "fecha": "2025-07-24T20:31:57Z"
     }
   ]
 }
