@@ -3963,7 +3963,7 @@
     "tipo": "Modelos de lenguaje",
     "precio": "Gratuito",
     "descripcion": "Familia de modelos de codificación open-source basados en Gemma 4 y Qwen 3.5, que desarrollan sus propios andamios de RL para adaptarse a tareas específicas.",
-    "web": "https://deepreinforce.ai/ornith",
+    "web": "",
     "funciones": [
       "Entrenamiento de modelos de lenguaje con RL personalizado",
       "Codificación y generación de texto",
@@ -3983,7 +3983,8 @@
     "pago": false,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Patronus AI",
@@ -4068,5 +4069,160 @@
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "OpenAI",
+    "compania": "OpenAI",
+    "tipo": "Modelo de generación de lenguaje",
+    "precio": "Freemium",
+    "descripcion": "Modelo de última generación de lenguaje con capacidades avanzadas y restricciones de seguridad.",
+    "funciones": [
+      "Generación de texto",
+      "Respuesta a preguntas",
+      "Resumen de documentos",
+      "Traducción",
+      "Generación de código"
+    ],
+    "caracteristicas": [
+      "Multilingüe",
+      "Contexto extendido",
+      "Integración API",
+      "Ajustes de seguridad",
+      "Soporte para plugins"
+    ],
+    "etica": "Se implementan filtros para reducir sesgos y proteger la privacidad, aunque persisten desafíos en la transparencia.",
+    "limite_gratis": "El plan gratuito permite acceso limitado a tokens y funcionalidades básicas; se requiere suscripción para uso completo.",
+    "web": "",
+    "id": "openai-0523b1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Basedash for Excel",
+    "descripcion": "Convierte cualquier hoja de cálculo en un panel interactivo en tiempo real.",
+    "compania": "Basedash",
+    "tipo": "Productividad / Dashboard",
+    "precio": "Freemium",
+    "funciones": [
+      "Visualización de datos",
+      "Filtrado dinámico",
+      "Gráficos automáticos",
+      "Exportación a PDF",
+      "Colaboración en tiempo real"
+    ],
+    "caracteristicas": [
+      "Sin necesidad de código",
+      "Actualización en vivo",
+      "Integración con Excel",
+      "Dashboard personalizable",
+      "Alertas automáticas"
+    ],
+    "etica": "Procesa solo los datos locales del archivo, sin recopilar información externa, garantizando privacidad.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 dashboards y manejar hasta 100 filas de datos; los planes pagos sin límites.",
+    "web": "https://www.producthunt.com/products/basedash",
+    "id": "basedash-for-excel-45dec0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Atlas",
+    "descripcion": "Cada herramienta de IA que usas debe conocer cómo funciona tu empresa.",
+    "compania": "Atlas AI",
+    "tipo": "Agentes IA / Integración",
+    "precio": "Freemium",
+    "funciones": [
+      "Conocimiento contextual",
+      "Automatización de flujos",
+      "Gestión de datos corporativos",
+      "Integración con APIs",
+      "Recomendaciones personalizadas"
+    ],
+    "caracteristicas": [
+      "Adaptable a políticas corporativas",
+      "Seguridad empresarial",
+      "Escalabilidad en la nube",
+      "Soporte multi-nube",
+      "Monitorización en tiempo real"
+    ],
+    "etica": "Respeta la confidencialidad de los datos empresariales y minimiza sesgos en decisiones automatizadas.",
+    "limite_gratis": "Plan gratuito limitado a 5 usuarios y 1000 consultas mensuales; los planes pagos sin restricciones.",
+    "web": "https://www.atlasai.co/",
+    "id": "atlas-a65678",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ModuleX",
+    "descripcion": "Espacio de trabajo IA ya conectado a todo.",
+    "compania": "ModuleX",
+    "tipo": "Entorno de trabajo IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Integración con múltiples modelos",
+      "Gestión de prompts",
+      "Colaboración en equipo",
+      "Versionado de modelos",
+      "Monitoreo de rendimiento"
+    ],
+    "caracteristicas": [
+      "Sin código",
+      "Soporte multiplataforma",
+      "API abierta",
+      "Gestión de datos",
+      "Seguridad avanzada"
+    ],
+    "etica": "Enfocado en transparencia y control del usuario sobre los datos procesados.",
+    "limite_gratis": "Plan gratuito incluye 10 proyectos y 5000 tokens al mes; los planes pagos ampliados sin límites.",
+    "web": "https://modulex.dev/",
+    "id": "modulex-e493e9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Cewsco",
+    "descripcion": "Asistente de IA integral que combina chat, imágenes, voz y datos de mercado.",
+    "compania": "Cewsco",
+    "tipo": "Asistente todo en uno",
+    "precio": "Freemium",
+    "funciones": [
+      "Respuesta a preguntas",
+      "Generación de imágenes",
+      "Transcripción de voz",
+      "Consulta de datos de mercado",
+      "Programación de tareas"
+    ],
+    "caracteristicas": [
+      "Multimodal",
+      "Interfaz conversacional",
+      "Acceso a fuentes de datos en tiempo real",
+      "Personalización",
+      "Integración con CRM"
+    ],
+    "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
+    "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
+    "web": "https://cewsco.com/",
+    "id": "cewsco-14e76c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]

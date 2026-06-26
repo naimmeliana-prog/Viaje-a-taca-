@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-06-26T05:25:33Z",
+  "actualizado": "2026-06-26T19:08:07Z",
   "novedades": [
+    {
+      "titulo": "Christian Klein, CEO de SAP, lo tiene claro: \"En tres o cuatro años es posible que ya no haya nadie desarrollando software aquí\"",
+      "resumen": "SAP es una de las empresas de software más grandes del mundo, por eso, cuando su CEO afirma que en muy poco tiempo no habrá nadie programando, es que la cosa se va a poner realmente complicada para los ingenieros de soft",
+      "enlace": "https://www.xataka.com/robotica-e-ia/christian-klein-ceo-sap-tiene-claro-tres-cuatro-anos-posible-que-no-haya-nadie-desarrollando-software-aqui",
+      "medio": "Xataka",
+      "fecha": "2026-06-26T17:47:01Z"
+    },
+    {
+      "titulo": "Anthropic acusa a Alibaba de clonar Claude con 25.000 cuentas falsas: es el mayor ataque de destilación jamás registrado",
+      "resumen": "Anthropic ha enviado una carta confidencial al Senado&nbsp;de los Estados Unidos&nbsp;en la que acusa a Alibaba de haber orquestado el ataque de destilación más grande que ha sufrido Claude.&nbsp;Según comparte Bloomberg",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-acusa-a-alibaba-clonar-claude-25-000-cuentas-falsas-mayor-robo-ia-historia",
+      "medio": "Xataka",
+      "fecha": "2026-06-26T15:31:39Z"
+    },
+    {
+      "titulo": "Qué es Eustella, precios y qué puedes hacer con la nueva alternativa europea a Claude, Gemini o ChatGPT pero con agentes",
+      "resumen": "Vamos a decirte qué es Eustella y cómo funciona esta alternativa europea a OpenClaw. Se trata de un asistente de inteligencia artificial para Android e iOS, que se promociona con la privacidad como bandera al tener todos",
+      "enlace": "https://www.xataka.com/basics/que-eustella-precios-que-puedes-hacer-nueva-alternativa-europea-a-claude-gemini-chatgpt-agentes",
+      "medio": "Xataka",
+      "fecha": "2026-06-26T12:18:32Z"
+    },
+    {
+      "titulo": "\"Nunca había visto algo así\": por qué Apple sube los precios ahora y hasta cuándo durará el chaparrón",
+      "resumen": "Tim Cook lleva más de cuarenta años en el mundo de la tecnología. Ha vivido la burbuja puntocom, la crisis financiera de 2008, la pandemia, las guerras de patentes, los aranceles de Trump... Ha gestionado Apple en moment",
+      "enlace": "https://www.applesfera.com/apple-1/nunca-habia-visto-algo-asi-que-apple-sube-precios-ahora-cuando-durara-chaparron",
+      "medio": "Applesfera",
+      "fecha": "2026-06-26T12:00:00Z"
+    },
+    {
+      "titulo": "Los beneficios extra de Gemini Pro que no conoces",
+      "resumen": "Hoy en día es bastante común ser cliente de algún servicio de pago de inteligencia artificial. En el panorama actual, el mercado de asistentes de inteligencia artificial generativa tiene un estándar de precios definido. ",
+      "enlace": "https://blogthinkbig.com/google-ai-pro-ventajas-gemini-one",
+      "medio": "Think Big",
+      "fecha": "2026-06-26T09:43:55Z"
+    },
+    {
+      "titulo": "Del hype a la estrategia: cómo integrar la inteligencia artificial con impacto real en las organizaciones",
+      "resumen": "Las organizaciones ya no se preguntan qué puede hacer la IA, sino cómo integrarla para que impacte de forma real en su cuenta de resultados L'articolo Del hype a la estrategia: cómo integrar la inteligencia artificial co",
+      "enlace": "https://www.computing.es/inteligencia-artificial/del-hype-a-la-estrategia-como-integrar-la-inteligencia-artificial-con-impacto-real-en-las-organizaciones/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-26T07:50:17Z"
+    },
     {
       "titulo": "Infobip celebra sus 10 años en España hablando del salto de la IA agéntica de los casos piloto a la operativa real en la comunicación conversacional",
       "resumen": "Infobip ha reunido en Madrid a expertos de Google, Microsoft, Telefónica, Adobe y Meta para analizar el futuro de la comunicación empresarial L'articolo Infobip celebra sus 10 años en España hablando del salto de la IA a",
@@ -70,27 +112,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/solucion-nvidia-para-reducir-a-cero-consumo-agua-centros-datos-apunta-a-ser-genialidad-usar-agua-caliente",
       "medio": "Xataka",
       "fecha": "2026-06-23T17:00:00Z"
-    },
-    {
-      "titulo": "Todos los robots compiten por parecer personas: esta startup acaba de apostar exactamente por lo contrario",
-      "resumen": "Aún no está claro si los robots humanoides serán la próxima gran revolución&nbsp;de la tecnología de consumo, pero desde luego cada vez hay más empresas compitiendo para colar uno de estos robots en nuestras casas. Todos",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nos-hemos-empenado-que-robots-humanoides-parezcan-personas-esta-startup-acaba-demostrar-que-hay-otro-camino",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T16:00:00Z"
-    },
-    {
-      "titulo": "Las nuevas gafas inteligentes de Meta son 100% Meta y 0% RayBan: eso tiene un impacto inmediato en tu bolsillo",
-      "resumen": "Meta acaba de anunciar el lanzamiento de varios nuevos pares de gafas inteligentes a las que llama sencillamente Meta Glasses (\"Gafas Meta\"), pero lo realmente llamativo del lanzamiento no son las especificaciones de las",
-      "enlace": "https://www.xataka.com/wearables/meta-glasses-2026-caracteristicas-precio-ficha-tecnica",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T14:45:00Z"
-    },
-    {
-      "titulo": "Un ingeniero de Microsoft tuvo una idea genial para demostrar que la IA no es consciente de sí misma: usar cabras en Age of Empires II",
-      "resumen": "¿Puede un modelo de inteligencia artificial \"sentir\" y ser \"consciente de sí mismo\"? Parece una pregunta absurda, pero hay gente que está comenzando a pensar que así es. La tecnología es cada vez más convincente y precis",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ingeniero-microsoft-tuvo-idea-genial-para-demostrar-que-ia-no-consciente-usar-cabras-age-of-empires-ii",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T12:31:00Z"
     },
     {
       "titulo": "Solo el 37% de las empresas tiene control total sobre las herramientas de IA que utiliza",
@@ -189,27 +210,6 @@
       "enlace": "https://www.computing.es/administracion/espana-optara-al-desarrollo-de-una-gigafactoria-de-inteligencia-artificial/",
       "medio": "Computing.es",
       "fecha": "2026-06-17T07:00:00Z"
-    },
-    {
-      "titulo": "Apple prepara los \"AirPods de la IA\" y llevarán cámaras. El problema es que los veremos más tarde de lo previsto",
-      "resumen": "Apple parecía estar lista para lanzar este año sus primeros AirPods con cámaras. Y no para hacer fotos, sino como uno de los primeros productos de IA de Apple. El problema es que esa misma IA es ahora la causante de que ",
-      "enlace": "https://www.applesfera.com/rumores/apple-tenia-ambicioso-plan-airpods-camaras-uno-que-acaba-cambiar-golpe-gurman",
-      "medio": "Applesfera",
-      "fecha": "2026-06-17T06:30:00Z"
-    },
-    {
-      "titulo": "Zscaler presenta su modelo Zero Trust para agentes de IA en Zenith Live 26",
-      "resumen": "En el marco del evento Zenith Live 2026 celebrado en Viena, Jay Chaudhry, CEO y fundador de Zscaler, anunció una evolución crítica en su estrategia de seguridad para abordar los riesgos de la era de la IA agéntica L'arti",
-      "enlace": "https://www.computing.es/seguridad/zscaler-presenta-su-modelo-zero-trust-para-agentes-de-ia-en-zenith-live-26/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-16T13:18:20Z"
-    },
-    {
-      "titulo": "IA Accionable: la inteligencia artificial es la nueva ventaja competitiva",
-      "resumen": "Quienes entienden este cambio han dejado de pensar en tecnología para empezar a pensar en impacto L'articolo IA Accionable: la inteligencia artificial es la nueva ventaja competitiva proviene da Computing.",
-      "enlace": "https://www.computing.es/opinion/ia-accionable-la-inteligencia-artificial-es-la-nueva-ventaja-competitiva/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-16T08:50:43Z"
     }
   ],
   "etica": [
