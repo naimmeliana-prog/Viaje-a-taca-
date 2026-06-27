@@ -4550,14 +4550,14 @@
     ],
     "etica": "Respeta la privacidad de los usuarios y evita la generación de contenido ofensivo mediante filtros de contenido y revisión humana opcional.",
     "limite_gratis": "Plan gratuito permite crear hasta 10 presentaciones y 50 diapositivas por mes.",
-    "web": "https://www.producthunt.com/products/folio-ai",
+    "web": "https://www.usefolio.ai/",
     "id": "folio-ai-205914",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-27",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Mythos 5",
@@ -4580,13 +4580,43 @@
     ],
     "etica": "Los datos de los usuarios pueden ser procesados en servidores externos, lo que plantea riesgos de privacidad. El modelo puede exhibir sesgos inherentes a sus datos de entrenamiento.",
     "limite_gratis": "El plan gratuito incluye acceso limitado a la API con 10,000 tokens mensuales y soporte básico.",
-    "web": "",
+    "web": "https://mythos-5.org/",
     "id": "mythos-5-888029",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-27",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
+  },
+  {
+    "nombre": "OpenOrb",
+    "compania": "OpenOrb",
+    "tipo": "Agentes IA",
+    "descripcion": "OpenOrb es una herramienta de código abierto que facilita la creación y despliegue de sistemas de agentes de IA colaborativos.",
+    "web": "https://openorb.onrender.com",
+    "funciones": [
+      "Construir flujos de trabajo multiagente",
+      "Desplegar agentes en la nube o local",
+      "Coordinación automática entre agentes",
+      "Gestión de memoria y contexto compartido",
+      "Integración con APIs y servicios externos"
+    ],
+    "caracteristicas": [
+      "Código abierto y transparente",
+      "Soporte para múltiples modelos de IA",
+      "Interfaz visual para configuración",
+      "Escalabilidad horizontal",
+      "Documentación y comunidad activa"
+    ],
+    "etica": "Prioriza la transparencia y el control del usuario sobre los datos. Mitiga sesgos mediante configuración de modelos y revisión de decisiones.",
+    "precio": "Freemium",
+    "limite_gratis": "El plan gratuito permite crear y probar hasta 3 agentes con recursos limitados, sin acceso a funciones avanzadas de monitoreo.",
+    "id": "openorb-655a6e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-27",
+    "auto_detectado": true,
+    "pendiente_revision": false
   }
 ]
