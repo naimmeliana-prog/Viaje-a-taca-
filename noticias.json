@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-06-27T03:07:10Z",
+  "actualizado": "2026-06-27T09:58:35Z",
   "novedades": [
+    {
+      "titulo": "He probado Siri AI durante una semana. El increíble nivel de control que tiene sobre tu vida asusta (para bien)",
+      "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
+      "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
+      "medio": "Applesfera",
+      "fecha": "2026-06-27T09:00:13Z"
+    },
+    {
+      "titulo": "Quién está demandando a quién en la IA: el mapa de los 100 juicios que lo explica todo",
+      "resumen": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co",
+      "enlace": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
+      "medio": "Xataka",
+      "fecha": "2026-06-27T08:00:13Z"
+    },
+    {
+      "titulo": "Mythos vuelve solo para un selecto club de empresas estadounidenses. Y deja algo claro: quién controla la IA más potente del mundo",
+      "resumen": "Hace justo dos semanas contábamos cómo el gobierno de Estados Unidos bloqueaba dos de los modelos de IA más inteligentes del mundo: Claude Fable 5 y Mythos 5 mientras Anthropic prometía estar trabajando en ello para solu",
+      "enlace": "https://www.xataka.com/servicios/mythos-vuelve-solo-para-selecto-club-empresas-estadounidenses-deja-algo-claro-quien-controla-ia-potente-mundo",
+      "medio": "Xataka",
+      "fecha": "2026-06-27T06:19:40Z"
+    },
     {
       "titulo": "Christian Klein, CEO de SAP, lo tiene claro: \"En tres o cuatro años es posible que ya no haya nadie desarrollando software aquí\"",
       "resumen": "SAP es una de las empresas de software más grandes del mundo, por eso, cuando su CEO afirma que en muy poco tiempo no habrá nadie programando, es que la cosa se va a poner realmente complicada para los ingenieros de soft",
@@ -93,25 +114,11 @@
       "fecha": "2026-06-24T08:00:00Z"
     },
     {
-      "titulo": "Airbus está probando IA en una de las maniobras más delicadas de un vuelo: el aterrizaje",
-      "resumen": "Aterrizar un avión comercial parece, visto desde la ventanilla, una secuencia casi rutinaria, pero en realidad, es una de las fases más exigentes del vuelo, una maniobra en la que pilotos, sistemas de navegación, condici",
-      "enlace": "https://www.xataka.com/movilidad/airbus-esta-probando-ia-maniobras-delicadas-vuelo-aterrizaje",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T19:31:01Z"
-    },
-    {
       "titulo": "\"Nunca ha habido un mejor momento para usar Atajos\". Con iOS 27 tendremos la IA que llevábamos años esperando",
       "resumen": "De las mejoras de Apple Intelligence que llegan con iOS 27, hay una que me entusiasma especialmente: poder crear atajos con cero conocimiento de la app Atajos (valga la redundancia). No es que fuese una aplicación muy té",
       "enlace": "https://www.applesfera.com/ios/nunca-ha-habido-mejor-momento-para-usar-atajos-ios-27-tendremos-ia-que-llevabamos-anos-esperando",
       "medio": "Applesfera",
       "fecha": "2026-06-23T17:01:01Z"
-    },
-    {
-      "titulo": "Los centros de datos consumen muchísimo agua. Nvidia cree que la forma de ahorrar es utilizando agua caliente en su lugar",
-      "resumen": "Nvidia ha anunciado un sistema de refrigeración líquida muy especial. Sobre todo, porque el concepto de \"refrigeración\" se confunde un poco aquí. La empresa se las ha ingeniado para reinventar este tipo de sistemas, y se",
-      "enlace": "https://www.xataka.com/robotica-e-ia/solucion-nvidia-para-reducir-a-cero-consumo-agua-centros-datos-apunta-a-ser-genialidad-usar-agua-caliente",
-      "medio": "Xataka",
-      "fecha": "2026-06-23T17:00:00Z"
     },
     {
       "titulo": "Solo el 37% de las empresas tiene control total sobre las herramientas de IA que utiliza",
@@ -203,16 +210,16 @@
       "enlace": "https://www.applesfera.com/ios/que-novedades-ios-27-llegaran-a-tu-iphone-dependiendo-modelo-vives-no-europa",
       "medio": "Applesfera",
       "fecha": "2026-06-17T09:00:00Z"
-    },
-    {
-      "titulo": "España optará al desarrollo de una Gigafactoría de Inteligencia Artificial",
-      "resumen": "El Consejo de Ministros ha autorizado hoy una inversión de 719 millones de euros del Ministerio para la Transformación Digital y de la Función Pública L'articolo España optará al desarrollo de una Gigafactoría de Intelig",
-      "enlace": "https://www.computing.es/administracion/espana-optara-al-desarrollo-de-una-gigafactoria-de-inteligencia-artificial/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-17T07:00:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Quién está demandando a quién en la IA: el mapa de los 100 juicios que lo explica todo",
+      "resumen": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co",
+      "enlace": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
+      "medio": "Xataka",
+      "fecha": "2026-06-27T08:00:13Z"
+    },
     {
       "titulo": "‘Anthropic Cybersecurity Skills’, 754 skills de ciberseguridad para agentes de IA",
       "resumen": "La mayor biblioteca open source de skills de ciberseguridad para agentes de IA: 754 workflows estructurados en 26 dominios, mapeados a MITRE ATT&#038;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND y NIST AI RMF. No es un proyecto",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
       "medio": "Xataka",
       "fecha": "2025-09-08T16:30:00Z"
-    },
-    {
-      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
-      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
-      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
-      "medio": "Xataka",
-      "fecha": "2025-09-05T17:44:00Z"
     }
   ]
 }

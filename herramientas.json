@@ -4497,5 +4497,66 @@
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "QApilot's CoWork",
+    "compania": "QApilot",
+    "tipo": "Automatización móvil / QA Automation",
+    "precio": "Freemium",
+    "descripcion": "Automatiza pruebas móviles 3 veces más rápido para equipos de control de calidad, reduciendo el esfuerzo manual.",
+    "web": "https://qapilot.com",
+    "funciones": [
+      "Automatización de pruebas móviles",
+      "Generación de scripts de prueba",
+      "Integración CI/CD",
+      "Análisis y reporte de resultados",
+      "Colaboración en equipo"
+    ],
+    "caracteristicas": [
+      "Soporte multiplataforma (iOS/Android)",
+      "Interfaz de arrastrar y soltar",
+      "Integración con Jira y Slack",
+      "Reportes en tiempo real",
+      "Escalabilidad en la nube"
+    ],
+    "etica": "Protege los datos de los usuarios mediante cifrado y cumplimiento GDPR; se minimiza el sesgo al usar datos de prueba anónimos.",
+    "limite_gratis": "Plan gratuito permite hasta 5 proyectos y 100 pruebas mensuales.",
+    "id": "qapilot-s-cowork-b15015",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-27",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Folio AI",
+    "descripcion": "Genera presentaciones de PowerPoint con contenido, diseño y narración impulsados por Claude.",
+    "compania": "Folio AI",
+    "tipo": "Generación de contenido / Presentaciones",
+    "precio": "Freemium",
+    "funciones": [
+      "Generar diapositivas a partir de texto",
+      "Sugerir diseños y plantillas",
+      "Crear guiones de presentación",
+      "Integración con Office 365",
+      "Exportar a PDF y formatos web"
+    ],
+    "caracteristicas": [
+      "IA conversacional basada en Claude",
+      "Personalización de tono y estilo",
+      "Edición colaborativa en tiempo real",
+      "Acceso a bibliotecas de imágenes y iconos",
+      "Compatibilidad con Markdown y notas de orador"
+    ],
+    "etica": "Respeta la privacidad de los usuarios y evita la generación de contenido ofensivo mediante filtros de contenido y revisión humana opcional.",
+    "limite_gratis": "Plan gratuito permite crear hasta 10 presentaciones y 50 diapositivas por mes.",
+    "web": "https://www.producthunt.com/products/folio-ai",
+    "id": "folio-ai-205914",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-27",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]
