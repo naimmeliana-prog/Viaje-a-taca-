@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-06-27T09:58:35Z",
+  "actualizado": "2026-06-27T21:26:53Z",
   "novedades": [
+    {
+      "titulo": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
+      "resumen": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inte",
+      "enlace": "https://www.xataka.com/aplicaciones/harto-ia-programador-creo-chat-donde-16-000-personas-fingen-ser-chatgpt-para-no-tener-que-usarlo",
+      "medio": "Xataka",
+      "fecha": "2026-06-27T18:00:13Z"
+    },
+    {
+      "titulo": "Yann LeCun, padrino de la IA: \"Si bloqueas una IA porque crees que es peligrosa, estás en el oscurantismo medieval\"",
+      "resumen": "La frase \"este modelo de IA es tan peligroso que sería un error hacerlo público\" es algo más viejo que las primeras versiones públicas de ChatGPT. Esa narrativa de la IA \"peligrosa\" tiene más de marketing que de realidad",
+      "enlace": "https://www.xataka.com/empresas-y-economia/yann-lecun-padrino-ia-bloqueas-ia-porque-crees-que-peligrosa-estas-oscurantismo-medieval",
+      "medio": "Xataka",
+      "fecha": "2026-06-27T11:00:13Z"
+    },
     {
       "titulo": "He probado Siri AI durante una semana. El increíble nivel de control que tiene sobre tu vida asusta (para bien)",
       "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
@@ -91,20 +105,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/creiamos-que-adobe-estaba-amenazada-muerte-ia-resulta-que-pocas-empresas-que-esta-ganando-dinero-ella",
       "medio": "Xataka",
       "fecha": "2026-06-24T13:31:01Z"
-    },
-    {
-      "titulo": "Las grandes fortunas de la inteligencia artificial: quién es quién en los nuevos millonarios de la IA",
-      "resumen": "La lista Forbes de Millonarios de 2026 sumó 45 nuevos nombres de millonarios. Lo relevante de estas nuevas incorporaciones es el origen de su fortuna: proviene de empresas relacionadas, de forma directa o indirecta, con ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/grandes-fortunas-inteligencia-artificial-quien-quien-nuevos-millonarios-ia",
-      "medio": "Xataka",
-      "fecha": "2026-06-24T12:01:01Z"
-    },
-    {
-      "titulo": "El supercomputador más potente del mundo está en China. La otra parte de la historia es aún más interesante",
-      "resumen": "La lista TOP500 bianual con los supercomputadores más potentes del planeta ha dado una sorpresa llamativa en su edición de junio de 2026. El sistema chino LineShine, instalado en el Centro Nacional de Supercomputación de",
-      "enlace": "https://www.xataka.com/ordenadores/supercomputador-potente-mundo-esta-china-otra-parte-historia-interesante",
-      "medio": "Xataka",
-      "fecha": "2026-06-24T08:31:01Z"
     },
     {
       "titulo": "La nueva Siri AI llegará al Apple Watch... pero seguirá dependiendo del iPhone y no sirve cualquier modelo",
