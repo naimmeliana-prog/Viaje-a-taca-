@@ -4665,7 +4665,7 @@
       "Modo de ritmo ajustable según el usuario"
     ],
     "etica": "Ofrece transparencia al permitir que elijas el modelo, aunque podría presentar sesgos por selección de modelos no auditados.",
-    "web": "https://www.producthunt.com/products/discode-ai",
+    "web": "https://www.disco.co/ai",
     "tipo": "Chatbot / Asistente",
     "compania": "Discode",
     "id": "discode-ai-e1e0ad",
@@ -4675,7 +4675,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Plan gratuito con acceso limitado a modelos básicos y funciones esenciales.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Lyto",

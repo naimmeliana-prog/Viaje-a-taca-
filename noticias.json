@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-06-28T09:17:00Z",
+  "actualizado": "2026-06-28T17:39:10Z",
   "novedades": [
+    {
+      "titulo": "Masayoshi Son, CEO de SoftBank: \"Decir que es una burbuja es una blasfemia contra la IA, esto no es más que el principio\"",
+      "resumen": "Burbuja sí, burbuja no. Nadie se pone de acuerdo. De un lado están quienes ven un claro paralelismo con la burbuja de las puntocom y creen que el estallido es inminente. De otro, los más optimistas que ven en la IA una f",
+      "enlace": "https://www.xataka.com/empresas-y-economia/decir-que-burbuja-blasfemia-ia-senor-que-ha-invertido-dineral-openai",
+      "medio": "Xataka",
+      "fecha": "2026-06-28T17:00:14Z"
+    },
+    {
+      "titulo": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
+      "resumen": "Que últimamente no están las cosas muy allá en la industria tech es una realidad (según en qué lado estés, claro). La economía en torno a la exacerbada demanda de los centros de datos de IA se ha desvirtualizado tanto qu",
+      "enlace": "https://www.xataka.com/empresas-y-economia/satya-nadella-ceo-microsoft-sociedad-no-va-a-tolerar-que-solo-unas-pocas-empresas-hagan-todo-aprendizaje",
+      "medio": "Xataka",
+      "fecha": "2026-06-28T11:30:13Z"
+    },
+    {
+      "titulo": "Foxconn quiere fabricarlo todo. TODO",
+      "resumen": "La semana pasada se celebró Vivatech. Se trata de una de las mayores ferias de tecnología del mundo y una de las menos concretas. Hay robots humanoides, robots que se dedican únicamente a hacer cosas graciosas, roboasist",
+      "enlace": "https://www.xataka.com/empresas-y-economia/foxconn-quiere-fabricarlo-todo-todo",
+      "medio": "Xataka",
+      "fecha": "2026-06-28T10:00:14Z"
+    },
     {
       "titulo": "Un 49% de estadounidenses ya usan la IA con frecuencia. Solo un 16% cree que trae algo bueno",
       "resumen": "La gente está usando la IA sin parar, pero tienen miedo de ela. Es la gran conclusión de un estudio reciente de Pew Research Center en el que se plantea un dilema singular. La adopción se dispara, pero el pesimismo y la ",
@@ -58,13 +79,6 @@
       "fecha": "2026-06-26T15:31:39Z"
     },
     {
-      "titulo": "Qué es Eustella, precios y qué puedes hacer con la nueva alternativa europea a Claude, Gemini o ChatGPT pero con agentes",
-      "resumen": "Vamos a decirte qué es Eustella y cómo funciona esta alternativa europea a OpenClaw. Se trata de un asistente de inteligencia artificial para Android e iOS, que se promociona con la privacidad como bandera al tener todos",
-      "enlace": "https://www.xataka.com/basics/que-eustella-precios-que-puedes-hacer-nueva-alternativa-europea-a-claude-gemini-chatgpt-agentes",
-      "medio": "Xataka",
-      "fecha": "2026-06-26T12:18:32Z"
-    },
-    {
       "titulo": "\"Nunca había visto algo así\": por qué Apple sube los precios ahora y hasta cuándo durará el chaparrón",
       "resumen": "Tim Cook lleva más de cuarenta años en el mundo de la tecnología. Ha vivido la burbuja puntocom, la crisis financiera de 2008, la pandemia, las guerras de patentes, los aranceles de Trump... Ha gestionado Apple en moment",
       "enlace": "https://www.applesfera.com/apple-1/nunca-habia-visto-algo-asi-que-apple-sube-precios-ahora-cuando-durara-chaparron",
@@ -98,13 +112,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/dos-de-cada-tres-ceo-temen-no-invertir-en-ia-lo-suficientemente-rapido/",
       "medio": "Computing.es",
       "fecha": "2026-06-25T07:31:00Z"
-    },
-    {
-      "titulo": "Llevo 2 meses tomando apuntes en clase usando un cuaderno hipervitaminado con IA y Android. Es el aliado que jamás esperé",
-      "resumen": "Hace tanto tiempo que vivo atada a un teclado o a una pantalla táctil que cuando me apunté a la Escuela de Idiomas se me hizo muy raro volver a llevar cuaderno y boli para tomar apuntes. Así que en cuanto tuve la oportun",
-      "enlace": "https://www.xataka.com/analisis/iflytek-ai-note-2-analisis-review-caracteristicas-especificaciones",
-      "medio": "Xataka",
-      "fecha": "2026-06-24T14:00:00Z"
     },
     {
       "titulo": "La nueva Siri AI llegará al Apple Watch... pero seguirá dependiendo del iPhone y no sirve cualquier modelo",
@@ -203,13 +210,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/dell-technologies-impulsa-la-industrializacion-de-la-ia-en-espana-mientras-crece-la-presion-por-la-soberania-del-dato/",
       "medio": "Computing.es",
       "fecha": "2026-06-18T06:00:00Z"
-    },
-    {
-      "titulo": "El iOS 27 más troceado de la historia: tu iPhone puede actualizarse, pero no a la misma versión que el de tu vecino",
-      "resumen": "Pocas actualizaciones de software han sido tan particulares como lo será iOS 27 en septiembre. Cuando se lance ese mes en su versión final, veremos que no todos recibirán el mismo número de funciones. Tendrán elementos c",
-      "enlace": "https://www.applesfera.com/ios/que-novedades-ios-27-llegaran-a-tu-iphone-dependiendo-modelo-vives-no-europa",
-      "medio": "Applesfera",
-      "fecha": "2026-06-17T09:00:00Z"
     }
   ],
   "etica": [
