@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-06-28T01:06:46Z",
+  "actualizado": "2026-06-28T09:17:00Z",
   "novedades": [
+    {
+      "titulo": "Un 49% de estadounidenses ya usan la IA con frecuencia. Solo un 16% cree que trae algo bueno",
+      "resumen": "La gente está usando la IA sin parar, pero tienen miedo de ela. Es la gran conclusión de un estudio reciente de Pew Research Center en el que se plantea un dilema singular. La adopción se dispara, pero el pesimismo y la ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/49-estadounidenses-usan-ia-frecuencia-solo-16-cree-que-sera-buena-para-mundo",
+      "medio": "Xataka",
+      "fecha": "2026-06-28T09:00:13Z"
+    },
     {
       "titulo": "Harto de la IA, un programador creó un chat donde 16.000 personas fingen ser ChatGPT para no tener que usarlo",
       "resumen": "No hace falta que te diga que el viejo internet hace tiempo que murió: primero, centralizado en redes sociales y sus respectivos algoritmos. Después, con la inteligencia artificial: ya hay más contenido generado por inte",
@@ -23,18 +30,18 @@
       "fecha": "2026-06-27T09:00:13Z"
     },
     {
-      "titulo": "Quién está demandando a quién en la IA: el mapa de los 100 juicios que lo explica todo",
+      "titulo": "La gran guerra legal de la IA: el mapa de las 100 demandas que acorralan a las big tech",
       "resumen": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co",
       "enlace": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
       "medio": "Xataka",
-      "fecha": "2026-06-27T08:00:13Z"
+      "fecha": "2026-06-27T08:00:00Z"
     },
     {
-      "titulo": "Mythos vuelve solo para un selecto club de empresas estadounidenses. Y deja algo claro: quién controla la IA más potente del mundo",
+      "titulo": "EEUU ata en corto a Anthropic: Mythos vuelve, pero bajo el control estricto de la administración Trump",
       "resumen": "Hace justo dos semanas contábamos cómo el gobierno de Estados Unidos bloqueaba dos de los modelos de IA más inteligentes del mundo: Claude Fable 5 y Mythos 5 mientras Anthropic prometía estar trabajando en ello para solu",
       "enlace": "https://www.xataka.com/servicios/mythos-vuelve-solo-para-selecto-club-empresas-estadounidenses-deja-algo-claro-quien-controla-ia-potente-mundo",
       "medio": "Xataka",
-      "fecha": "2026-06-27T06:19:40Z"
+      "fecha": "2026-06-27T06:19:00Z"
     },
     {
       "titulo": "Christian Klein, CEO de SAP, lo tiene claro: \"En tres o cuatro años es posible que ya no haya nadie desarrollando software aquí\"",
@@ -98,13 +105,6 @@
       "enlace": "https://www.xataka.com/analisis/iflytek-ai-note-2-analisis-review-caracteristicas-especificaciones",
       "medio": "Xataka",
       "fecha": "2026-06-24T14:00:00Z"
-    },
-    {
-      "titulo": "Creíamos que Adobe estaba amenazada de muerte por la IA. Resulta que es una de las pocas empresas que está ganando dinero con ella",
-      "resumen": "En el último año Adobe ha perdido casi la mitad de su valor. Hace doce meses cotizaba a 382 dólares. Hoy sus acciones cotizan a 197 dólares. Wall Street ha castigado claramente a una empresa que parecía desde luego estar",
-      "enlace": "https://www.xataka.com/robotica-e-ia/creiamos-que-adobe-estaba-amenazada-muerte-ia-resulta-que-pocas-empresas-que-esta-ganando-dinero-ella",
-      "medio": "Xataka",
-      "fecha": "2026-06-24T13:31:01Z"
     },
     {
       "titulo": "La nueva Siri AI llegará al Apple Watch... pero seguirá dependiendo del iPhone y no sirve cualquier modelo",
@@ -214,11 +214,11 @@
   ],
   "etica": [
     {
-      "titulo": "Quién está demandando a quién en la IA: el mapa de los 100 juicios que lo explica todo",
+      "titulo": "La gran guerra legal de la IA: el mapa de las 100 demandas que acorralan a las big tech",
       "resumen": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co",
       "enlace": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
       "medio": "Xataka",
-      "fecha": "2026-06-27T08:00:13Z"
+      "fecha": "2026-06-27T08:00:00Z"
     },
     {
       "titulo": "‘Anthropic Cybersecurity Skills’, 754 skills de ciberseguridad para agentes de IA",

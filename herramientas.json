@@ -4618,5 +4618,92 @@
     "fecha_agregado": "2026-06-27",
     "auto_detectado": true,
     "pendiente_revision": false
+  },
+  {
+    "nombre": "Persona.js",
+    "descripcion": "Permite agregar chat de IA nativo WebMCP a cualquier frontend, facilitando la integración de asistentes virtuales en aplicaciones web.",
+    "precio": "Gratuito",
+    "funciones": [
+      "Integración de chat AI en frontends",
+      "Soporte para múltiples plataformas web",
+      "Interfaz configurable para desarrolladores",
+      "Compatibilidad con estándares web modernos"
+    ],
+    "caracteristicas": [
+      "Arquitectura WebMCP-native",
+      "Fácil implementación en proyectos existentes",
+      "Personalización del diseño y comportamiento",
+      "Rendimiento optimizado para navegadores"
+    ],
+    "etica": "Promueve el uso responsable de la IA en interfaces web, con enfoque en transparencia y control del usuario final.",
+    "web": "https://userpersona.dev/",
+    "tipo": "Chatbot / Asistente",
+    "compania": "WebMCP",
+    "id": "persona-js-bb119b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece versión completa sin restricciones para uso básico en proyectos web.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "discode.ai",
+    "descripcion": "Plataforma unificada que conecta más de 100 modelos de IA en una sola interfaz, permitiendo elegir el ritmo y estilo de interacción según las necesidades del usuario.",
+    "precio": "Freemium",
+    "funciones": [
+      "Acceso a 100+ modelos de IA",
+      "Interfaz unificada para múltiples tareas",
+      "Selección flexible del modelo activo",
+      "Soporte para flujos de trabajo personalizados"
+    ],
+    "caracteristicas": [
+      "Panel de control centralizado",
+      "Cambio dinámico entre modelos",
+      "Integración con herramientas populares",
+      "Modo de ritmo ajustable según el usuario"
+    ],
+    "etica": "Ofrece transparencia al permitir que elijas el modelo, aunque podría presentar sesgos por selección de modelos no auditados.",
+    "web": "https://www.producthunt.com/products/discode-ai",
+    "tipo": "Chatbot / Asistente",
+    "compania": "Discode",
+    "id": "discode-ai-e1e0ad",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito con acceso limitado a modelos básicos y funciones esenciales.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Lyto",
+    "descripcion": "Agente de IA universal que opera en tu navegador, herramientas y mensajes, automatizando tareas y mejorando la productividad sin cambiar de contexto.",
+    "precio": "Freemium",
+    "funciones": [
+      "Asistente de IA multicontexto",
+      "Automatización de tareas en mensajes",
+      "Integración con herramientas del navegador",
+      "Gestión inteligente de flujos de trabajo"
+    ],
+    "caracteristicas": [
+      "Operación transversal (browser, tools, messages)",
+      "Aprendizaje adaptativo del entorno",
+      "Intervención no intrusiva en el flujo de trabajo",
+      "Configuración basada en preferencias del usuario"
+    ],
+    "etica": "Reduce la necesidad de múltiples herramientas, pero requiere cuidado en el acceso a datos personales y mensajes privados.",
+    "web": "https://www.lyto.group/jobs",
+    "tipo": "Agentes IA",
+    "compania": "Lyto",
+    "id": "lyto-d3b350",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Versión gratuita con funciones básicas y límites de uso mensual.",
+    "intentos_web": 1
   }
 ]
