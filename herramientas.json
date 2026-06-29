@@ -4705,5 +4705,229 @@
     "pendiente_revision": false,
     "limite_gratis": "Versión gratuita con funciones básicas y límites de uso mensual.",
     "intentos_web": 1
+  },
+  {
+    "nombre": "VisibAI",
+    "compania": "VisibAI",
+    "tipo": "Servicio de IA",
+    "precio": "Pago",
+    "descripcion": "Ayuda a identificar y corregir problemas en respuestas de IA en minutos.",
+    "web": "https://visib.ai",
+    "funciones": [
+      "Identificación de problemas",
+      "Corrección de respuestas",
+      "Optimización"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Integración con múltiples modelos de IA",
+      "Actualizaciones en tiempo real"
+    ],
+    "etica": "Privacidad de datos y reducción de sesgos en respuestas",
+    "id": "visibai-b51ea4",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ClinePass",
+    "compania": "Cline",
+    "tipo": "Plataforma de Código Abierto",
+    "precio": "Gratuito",
+    "descripcion": "Ejecuta los mejores modelos de código abierto en Cline.",
+    "web": "https://clinepass.com",
+    "funciones": [
+      "Ejecución de modelos",
+      "Optimización",
+      "Gestión de código"
+    ],
+    "caracteristicas": [
+      "Alta compatibilidad",
+      "Escalabilidad",
+      "Interfaz amigable"
+    ],
+    "etica": "Transparencia en el uso de modelos de código abierto",
+    "id": "clinepass-b4f3d4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Receiptor AI",
+    "compania": "Receiptor AI",
+    "tipo": "Servicio de Contabilidad",
+    "precio": "Pago",
+    "descripcion": "Automatiza la contabilidad y gestiona facturas de forma autónoma.",
+    "web": "https://receiptor.ai",
+    "funciones": [
+      "Automatización de facturas",
+      "Gestión de contabilidad",
+      "Integración con sistemas"
+    ],
+    "caracteristicas": [
+      "Alta precisión",
+      "Integración con múltiples sistemas",
+      "Actualizaciones en tiempo real"
+    ],
+    "etica": "Protección de datos financieros y cumplimiento normativo",
+    "id": "receiptor-ai-b68f3b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "LFM2.5-230M",
+    "compania": "Liquid AI",
+    "tipo": "Herramienta de IA",
+    "precio": "Pago",
+    "descripcion": "Modelo de 230 millones de parámetros para inferencia en dispositivo.",
+    "web": "https://liquid.ai/lfm2.5",
+    "funciones": [
+      "Inferencia en dispositivos",
+      "Análisis de datos",
+      "Optimización"
+    ],
+    "caracteristicas": [
+      "Bajo consumo de recursos",
+      "Alta eficiencia",
+      "Compatibilidad con múltiples plataformas"
+    ],
+    "etica": "Acceso abierto y reducción de barreras técnicas",
+    "id": "lfm2-5-230m-559b81",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "PMB",
+    "descripcion": "PMB evita que tengas que explicar tu proyecto repetidamente a los agentes de codificación IA, almacenando el contexto del proyecto y proporcionándolo automáticamente.",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de contexto de proyectos",
+      "Integración con GitHub y GitLab",
+      "Sincronización en tiempo real con IDEs",
+      "Generación automática de documentación",
+      "Soporte para múltiples lenguajes de programación"
+    ],
+    "caracteristicas": [
+      "Acelera el ciclo de desarrollo",
+      "Reduce errores por falta de contexto",
+      "Mejora la colaboración entre equipos",
+      "Permite la reutilización de especificaciones",
+      "Interfaz limpia y fácil de usar"
+    ],
+    "etica": "Los datos de los proyectos se almacenan en la nube con encriptación; la herramienta busca evitar sesgos en la generación de código y ofrece opciones de exportación de datos.",
+    "web": "https://github.com/oleksiijko/pmb",
+    "tipo": "Asistente de programación",
+    "compania": "PMB Inc.",
+    "id": "pmb-19a5f4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite hasta 3 proyectos y 100 solicitudes de código al mes.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Intelli",
+    "descripcion": "Intelli utiliza conversaciones impulsadas por IA para calificar y convertir leads en clientes de forma automatizada.",
+    "precio": "Freemium",
+    "funciones": [
+      "Chatbots personalizables por canal",
+      "Análisis de sentimiento y calificación de leads",
+      "Seguimiento automatizado por correo y WhatsApp",
+      "Integración con sistemas CRM",
+      "Informes detallados de interacción"
+    ],
+    "caracteristicas": [
+      "Aumenta las tasas de conversión",
+      "Reduce el tiempo de respuesta a prospectos",
+      "Escalable para equipos grandes",
+      "Soporta múltiples idiomas",
+      "Interfaz de arrastrar y soltar"
+    ],
+    "etica": "Los datos de los leads se procesan en servidores seguros; se implementan medidas contra el uso indebido y el sesgo algorítmico.",
+    "web": "https://github.com/IntelliCAD-Official/intellicad-ai",
+    "tipo": "Chatbot / Asistente",
+    "compania": "Intelli Labs",
+    "id": "intelli-761a19",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito incluye hasta 50 contactos y 100 conversaciones al mes.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Spira for Product Hunt Makers",
+    "descripcion": "Spira for Product Hunt Makers ayuda a los creadores a aumentar su presencia en redes sociales mediante agentes de crecimiento automatizados.",
+    "precio": "Freemium",
+    "funciones": [
+      "Programación automática de publicaciones en redes sociales",
+      "Generación de contenido con IA",
+      "Análisis de rendimiento y engagement",
+      "Colaboración en equipo con roles",
+      "Integración nativa con Product Hunt"
+    ],
+    "caracteristicas": [
+      "Aumenta el engagement orgánico",
+      "Ahorra tiempo en la creación de contenido",
+      "Mejora el descubrimiento de productos",
+      "Soporta múltiples plataformas (Twitter, LinkedIn, Reddit)",
+      "Panel de control intuitivo"
+    ],
+    "etica": "Los datos compartidos se utilizan para mejorar los algoritmos de recomendación; los usuarios tienen control sobre la privacidad de sus publicaciones.",
+    "web": "https://www.producthunt.com/products/spira-ai",
+    "tipo": "Productividad",
+    "compania": "Spira Inc.",
+    "id": "spira-for-product-hunt-makers-f596a0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite hasta 5 cuentas y 100 publicaciones programadas al mes.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ad Reframe",
+    "descripcion": "Ad Reframe transforma el contenido generado por usuarios en anuncios listos para TV con un solo clic.",
+    "precio": "Freemium",
+    "funciones": [
+      "Conversión automática de vídeo a formato publicitario",
+      "Optimización de resolución para TV",
+      "Biblioteca de recursos y plantillas",
+      "Colaboración en equipo con edición compartida",
+      "Exportación en múltiples formatos"
+    ],
+    "caracteristicas": [
+      "Reduce costos de producción",
+      "Acelera el tiempo de lanzamiento al mercado",
+      "Mantiene la autenticidad del UGC",
+      "Soporta vídeos en 4K y HD",
+      "Interfaz sencilla e intuitiva"
+    ],
+    "etica": "Los vídeos pueden contener datos personales; se solicita consentimiento y se ofrece la opción de anonimizar rostros y locaciones.",
+    "web": "https://pollo.ai/ai-video-reframe",
+    "tipo": "Generación de vídeo",
+    "compania": "Ad Reframe Studios",
+    "id": "ad-reframe-632f6e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite convertir hasta 5 vídeos al mes de 30 segundos cada uno.",
+    "intentos_web": 1
   }
 ]

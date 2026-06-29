@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-28T17:39:10Z",
+  "actualizado": "2026-06-29T09:36:02Z",
   "novedades": [
     {
       "titulo": "Masayoshi Son, CEO de SoftBank: \"Decir que es una burbuja es una blasfemia contra la IA, esto no es más que el principio\"",
@@ -44,11 +44,11 @@
       "fecha": "2026-06-27T11:00:13Z"
     },
     {
-      "titulo": "He probado Siri AI durante una semana. El increíble nivel de control que tiene sobre tu vida asusta (para bien)",
+      "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
       "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
       "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
       "medio": "Applesfera",
-      "fecha": "2026-06-27T09:00:13Z"
+      "fecha": "2026-06-27T09:00:00Z"
     },
     {
       "titulo": "La gran guerra legal de la IA: el mapa de las 100 demandas que acorralan a las big tech",
@@ -191,13 +191,6 @@
       "fecha": "2026-06-20T09:00:00Z"
     },
     {
-      "titulo": "Golpe a ChatGPT: con los nuevos precios de Gemini Pro, no vas a querer usar otra IA",
-      "resumen": "Gemini se ha convertido en el centro del ecosistema de productos y servicios de Google. La inteligencia artificial es el producto estrella y Google la ha integrado en sus teléfonos Pixel, en su proveedor de [&#8230;] Gol",
-      "enlace": "https://blogthinkbig.com/precios-planes-tarifas-gemini-pro-google-ai",
-      "medio": "Think Big",
-      "fecha": "2026-06-19T16:01:00Z"
-    },
-    {
       "titulo": "La IA geoespacial aplicada en más de 14.000 satélites permite anticipar riesgos en el planeta",
       "resumen": "Gracias a la inteligencia artificial geoespacial, las imágenes captadas desde el espacio ya no solo muestran lo que ocurre en el planeta: también permiten detectar cambios, anticipar riesgos y acelerar la toma de decisio",
       "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-geoespacial-aplicada-en-mas-de-14-000-satelites-permite-anticipar-riesgos-en-el-planeta/",
@@ -210,6 +203,13 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/dell-technologies-impulsa-la-industrializacion-de-la-ia-en-espana-mientras-crece-la-presion-por-la-soberania-del-dato/",
       "medio": "Computing.es",
       "fecha": "2026-06-18T06:00:00Z"
+    },
+    {
+      "titulo": "El iOS 27 más troceado de la historia: tu iPhone puede actualizarse, pero no a la misma versión que el de tu vecino",
+      "resumen": "Pocas actualizaciones de software han sido tan particulares como lo será iOS 27 en septiembre. Cuando se lance ese mes en su versión final, veremos que no todos recibirán el mismo número de funciones. Tendrán elementos c",
+      "enlace": "https://www.applesfera.com/ios/que-novedades-ios-27-llegaran-a-tu-iphone-dependiendo-modelo-vives-no-europa",
+      "medio": "Applesfera",
+      "fecha": "2026-06-17T09:00:00Z"
     }
   ],
   "etica": [
