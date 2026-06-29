@@ -4919,7 +4919,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite hasta 5 cuentas y 100 publicaciones programadas al mes.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Ad Reframe",
@@ -4951,5 +4951,155 @@
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite convertir hasta 5 vídeos al mes de 30 segundos cada uno.",
     "intentos_web": 1
+  },
+  {
+    "nombre": "Spira para Product Hunt Makers",
+    "compania": "Spira",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Agente de IA que automatiza la presencia en redes sociales de los creadores de Product Hunt, generando y programando contenido para aumentar su momentum.",
+    "web": "https://spira.ai",
+    "caracteristicas": [
+      "Integración directa con la API de Product Hunt",
+      "Modelo de lenguaje ajustado para copy de lanzamiento",
+      "Panel de análisis visual sencillo",
+      "Soporte multilingüe (español e inglés)",
+      "Actualizaciones automáticas de algoritmos de tendencia"
+    ],
+    "etica": "Spira no almacena ni vende datos de usuarios; solo usa la información pública de las redes para optimizar publicaciones. Sus modelos están entrenados para evitar sesgos de género o raza en el copy generado.",
+    "funciones": [
+      "Programar publicaciones en Twitter, LinkedIn y Reddit",
+      "Generar copy y sugerencias de hashtags con IA",
+      "Analizar engagement y alcance en tiempo real",
+      "Monitorizar menciones y comentarios de la comunidad",
+      "Proponer mejoras de contenido basado en tendencias"
+    ],
+    "id": "spira-para-product-hunt-makers-1d8dd3",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite hasta 10 publicaciones programadas al mes y acceso a análisis básico de alcance."
+  },
+  {
+    "nombre": "Empirical – Tu memoria personal de IA",
+    "compania": "Empirical",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Memoria personal de IA que guarda y recupera información en todas tus herramientas de IA, garantizando continuidad contextual entre sesiones.",
+    "web": "https://empirical.gauzza.com/",
+    "caracteristicas": [
+      "Almacenamiento cifrado de extremo a extremo",
+      "Indexación BM25 + embeddings vectoriales",
+      "Compatibilidad con múltiples LLMs mediante adaptadores",
+      "Interfaz de escritorio y extensión de navegador",
+      "Autoetiquetado y sugerencias de relaciones entre notas"
+    ],
+    "etica": "Los datos permanecen bajo control del usuario; Empirical no los usa para entrenar modelos externos. El diseño evita introducir sesgos al no alterar el contenido almacenado.",
+    "funciones": [
+      "Guardar notas, fragmentos y respuestas de IA con etiquetado semántico",
+      "Búsqueda híbrida por texto y vectores para recuperación instantánea",
+      "Sincronización automática entre dispositivos y plataformas",
+      "Integración vía API con modelos como GPT-4, Claude y Llama",
+      "Versionado y historial de cambios de cada entrada"
+    ],
+    "id": "empirical---tu-memoria-personal-de-ia-ff06af",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito ofrece hasta 1 GB de almacenamiento y búsquedas ilimitadas, con sincronización básica entre dos dispositivos."
+  },
+  {
+    "nombre": "Robot humanoide Flexion Robotics (Interno de oficina)",
+    "compania": "Flexion Robotics",
+    "tipo": "Agentes IA (Robótica de servicio)",
+    "precio": "Pago",
+    "descripcion": "Robot humanoide capaz de ejecutar de forma autónoma tareas de oficina como manipulación de documentos, organización de espacios y interacción con equipos.",
+    "web": "https://flexionrobotics.com",
+    "caracteristicas": [
+      "Altura aproximada de 1,6 m y peso de 35 kg",
+      "Visión 3D basada en cámaras RGB-D y LiDAR",
+      "Batería de litio con hasta 8 horas de operación continua",
+      "Software basado en ROS2 con módulos de IA preentrenados",
+      "Certificación de seguridad colaborativa (ISO 10218-1)"
+    ],
+    "etica": "Flexion Robotics garantiza que el robot no graba audio ni video sin consentimiento explícito y procesa datos localmente. Sus algoritmos de manipulación están diseñados para evitar sesgos que puedan favorecer ciertos tipos de objetos o tareas.",
+    "funciones": [
+      "Navegación autónoma en interiores con evitación de obstáculos",
+      "Manipulación de objetos mediante brazos de 6 grados de libertad",
+      "Reconocimiento y respuesta a comandos de voz en tiempo real",
+      "Integración con impresoras, escáneres y sistemas de videoconferencia",
+      "Aprendizaje por demostración para nuevas tareas de oficina"
+    ],
+    "id": "robot-humanoide-flexion-robotics--interno-de-oficina--9f3e65",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
+  },
+  {
+    "nombre": "NVIDIA BioNeMo Agent Toolkit",
+    "compania": "NVIDIA",
+    "tipo": "Herramienta de desarrollo / Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Kit que convierte modelos biomoleculares como OpenFold3, DiffDock y GenMol en habilidades documentadas y listas para usar por agentes de IA en descubrimiento de fármacos.",
+    "web": "https://developer.nvidia.com/bionemo",
+    "caracteristicas": [
+      "Basado en Python y compatible con GPUs NVIDIA",
+      "Soporta formatos de modelo ONNX, TensorFlow y PyTorch",
+      "Licencia abierta para uso académico y comercial",
+      "Actualizaciones continuas alineadas con lanzamientos de BioNeMo",
+      "Incluye ejemplos de uso y notebooks interactivos"
+    ],
+    "etica": "El toolkit promueve la reproducibilidad y el acceso abierto a modelos biomoleculares, reduciendo sesgos al proporcionar herramientas verificadas por la comunidad. Su uso puede acelerar el descubrimiento de fármacos con un impacto positivo en salud global.",
+    "funciones": [
+      "Envolver OpenFold3, DiffDock y GenMol como habilidades reutilizables",
+      "Generar documentación automática de cada habilidad",
+      "Exportar habilidades en formato compatible con BioNeMo Framework",
+      "Ejecutar pruebas de inferencia y validación de modelos",
+      "Integrar con pipelines de entrenamiento y fine‑tuning de agentes"
+    ],
+    "id": "nvidia-bionemo-agent-toolkit-4a5cfe",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Acceso completo al toolkit y documentación; el soporte técnico premium está disponible bajo pago."
+  },
+  {
+    "nombre": "EverOS – Tiempo de ejecución de memoria de agente de código abierto basado en Markdown",
+    "compania": "EverOS",
+    "tipo": "Herramienta de desarrollo / Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Runtime de memoria para agentes IA que almacena conocimiento en Markdown y combina recuperación híbrida BM25 y vectorial con habilidades autoevolutivas.",
+    "web": "https://evermind.ai",
+    "caracteristicas": [
+      "Código abierto bajo licencia MIT",
+      "Indice híbrido que combina texto tradicional y embeddings",
+      "Extensible vía plugins para nuevos formatos de almacenamiento",
+      "Bajo consumo de recursos, adecuado para despliegue en edge",
+      "Interfaz de línea de comandos y UI web opcional"
+    ],
+    "etica": "EverOS deja que el usuario tenga pleno control sobre sus datos, evitando la centralización y el posible sesgo introducido por terceros. La transparencia del código favorece auditorías de seguridad y ética.",
+    "funciones": [
+      "Almacenar y organizar información en archivos Markdown",
+      "Realizar consultas híbridas BM25 + búsqueda vectorial",
+      "Permitir la autoevolución de habilidades mediante retroalimentación",
+      "Integrarse fácilmente con cualquier agente LLM mediante API",
+      "Gestionar versiones y ramas de la memoria como un repositorio Git"
+    ],
+    "id": "everos---tiempo-de-ejecuci-n-de-memoria-de-agente-de-c-digo-abierto-basado-en-markdown-519889",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-06-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Todas las funcionalidades están disponibles sin límite, al ser software de código abierto."
   }
 ]
