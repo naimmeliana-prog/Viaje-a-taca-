@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-06-29T09:43:32Z",
+  "actualizado": "2026-06-29T12:26:07Z",
   "novedades": [
+    {
+      "titulo": "EEUU se ha dado cuenta de que millones de trabajadores no tienen futuro por la IA. Y se ha puesto manos a la obra",
+      "resumen": "Una pregunta lleva recorriendo los consejos de ministros y los principales foros económicos del mundo desde hace que ChatGPT mostró sus capacidades en noviembre de 2022. ¿Cuántos puestos de trabajo va a destruir la IA? E",
+      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-se-ha-dado-cuenta-que-millones-trabajadores-no-tienen-futuro-ia-se-ha-puesto-manos-a-obra",
+      "medio": "Xataka",
+      "fecha": "2026-06-29T10:00:14Z"
+    },
     {
       "titulo": "Masayoshi Son, CEO de SoftBank: \"Decir que es una burbuja es una blasfemia contra la IA, esto no es más que el principio\"",
       "resumen": "Burbuja sí, burbuja no. Nadie se pone de acuerdo. De un lado están quienes ven un claro paralelismo con la burbuja de las puntocom y creen que el estallido es inminente. De otro, los más optimistas que ven en la IA una f",
@@ -70,13 +77,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/christian-klein-ceo-sap-tiene-claro-tres-cuatro-anos-posible-que-no-haya-nadie-desarrollando-software-aqui",
       "medio": "Xataka",
       "fecha": "2026-06-26T17:47:01Z"
-    },
-    {
-      "titulo": "Anthropic acusa a Alibaba de clonar Claude con 25.000 cuentas falsas: es el mayor ataque de destilación jamás registrado",
-      "resumen": "Anthropic ha enviado una carta confidencial al Senado&nbsp;de los Estados Unidos&nbsp;en la que acusa a Alibaba de haber orquestado el ataque de destilación más grande que ha sufrido Claude.&nbsp;Según comparte Bloomberg",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-acusa-a-alibaba-clonar-claude-25-000-cuentas-falsas-mayor-robo-ia-historia",
-      "medio": "Xataka",
-      "fecha": "2026-06-26T15:31:39Z"
     },
     {
       "titulo": "\"Nunca había visto algo así\": por qué Apple sube los precios ahora y hasta cuándo durará el chaparrón",
