@@ -4708,103 +4708,125 @@
   },
   {
     "nombre": "VisibAI",
-    "compania": "VisibAI",
-    "tipo": "Servicio de IA",
-    "precio": "Pago",
-    "descripcion": "Ayuda a identificar y corregir problemas en respuestas de IA en minutos.",
+    "compania": "VisibAI Labs",
+    "tipo": "Herramienta de auditoría de IA / Depuración",
+    "precio": "Freemium",
+    "descripcion": "Analiza las respuestas generadas por modelos de IA, detecta sesgos, incoherencias y errores, y sugiere correcciones automáticas.",
     "web": "https://visib.ai",
     "funciones": [
-      "Identificación de problemas",
-      "Corrección de respuestas",
-      "Optimización"
+      "Análisis de coherencia y consistencia",
+      "Detección de sesgos y contenido ofensivo",
+      "Comparación con datos de referencia y benchmarks",
+      "Generación de reportes detallados",
+      "Integración con IDEs y pipelines CI/CD"
     ],
     "caracteristicas": [
-      "Interfaz intuitiva",
-      "Integración con múltiples modelos de IA",
-      "Actualizaciones en tiempo real"
+      "Algoritmos de NLP avanzados",
+      "Interfaz web intuitiva y dashboards",
+      "API de análisis en tiempo real",
+      "Alertas y notificaciones push",
+      "Soporte multilingüe y de código abierto"
     ],
-    "etica": "Privacidad de datos y reducción de sesgos en respuestas",
+    "etica": "Garantiza la confidencialidad de los datos de entrada y evita la recolección de información sensible.",
     "id": "visibai-b51ea4",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito permite 100 análisis por mes y acceso a funciones básicas."
   },
   {
     "nombre": "ClinePass",
-    "compania": "Cline",
-    "tipo": "Plataforma de Código Abierto",
-    "precio": "Gratuito",
-    "descripcion": "Ejecuta los mejores modelos de código abierto en Cline.",
-    "web": "https://clinepass.com",
+    "compania": "ClineTech Solutions",
+    "tipo": "Infraestructura / Orquestación de IA",
+    "precio": "Freemium",
+    "descripcion": "Permite ejecutar modelos de código abierto de alto rendimiento directamente en la plataforma Cline, optimizando recursos y reduciendo latencia.",
+    "web": "https://cline.bot/cline-pass",
     "funciones": [
-      "Ejecución de modelos",
-      "Optimización",
-      "Gestión de código"
+      "Integración sencilla con modelos de código abierto",
+      "Escalado automático de recursos",
+      "Monitoreo de rendimiento en tiempo real",
+      "Seguridad de datos con cifrado",
+      "Compatibilidad con contenedores Docker y Kubernetes"
     ],
     "caracteristicas": [
-      "Alta compatibilidad",
-      "Escalabilidad",
-      "Interfaz amigable"
+      "Soporte para PyTorch, TensorFlow y ONNX",
+      "GPU y CPU optimizados para inferencia",
+      "API RESTful y SDKs en Python y JavaScript",
+      "Dashboard de métricas y alertas",
+      "Actualizaciones automáticas de modelos"
     ],
-    "etica": "Transparencia en el uso de modelos de código abierto",
+    "etica": "Protege la privacidad de los datos mediante cifrado en tránsito y en reposo, y promueve la transparencia en el uso de modelos.",
     "id": "clinepass-b4f3d4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito permite hasta 10 GB de almacenamiento y 5 horas de cómputo por mes."
   },
   {
     "nombre": "Receiptor AI",
-    "compania": "Receiptor AI",
-    "tipo": "Servicio de Contabilidad",
+    "compania": "Receiptor AI Inc.",
+    "tipo": "Automatización contable / Gestión de facturas",
     "precio": "Pago",
-    "descripcion": "Automatiza la contabilidad y gestiona facturas de forma autónoma.",
+    "descripcion": "Software de IA que procesa facturas, extrae datos, valida transacciones y genera reportes contables sin intervención humana.",
     "web": "https://receiptor.ai",
     "funciones": [
-      "Automatización de facturas",
-      "Gestión de contabilidad",
-      "Integración con sistemas"
+      "OCR y extracción de datos de facturas",
+      "Validación automática de facturas y conciliación bancaria",
+      "Generación de reportes financieros y contables",
+      "Integración con ERP y sistemas contables",
+      "Alertas de anomalías y fraudes"
     ],
     "caracteristicas": [
-      "Alta precisión",
-      "Integración con múltiples sistemas",
-      "Actualizaciones en tiempo real"
+      "Precisión de extracción del 98 %",
+      "Cumplimiento normativo (GDPR, SOX, etc.)",
+      "API RESTful y SDKs para integración",
+      "Escalabilidad multiempresa y multi‑idioma",
+      "Soporte en español e inglés"
     ],
-    "etica": "Protección de datos financieros y cumplimiento normativo",
+    "etica": "Cumple con GDPR y protege la información financiera mediante cifrado y controles de acceso.",
     "id": "receiptor-ai-b68f3b",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-06-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito."
   },
   {
     "nombre": "LFM2.5-230M",
-    "compania": "Liquid AI",
-    "tipo": "Herramienta de IA",
-    "precio": "Pago",
-    "descripcion": "Modelo de 230 millones de parámetros para inferencia en dispositivo.",
-    "web": "https://liquid.ai/lfm2.5",
+    "compania": "LFM Labs",
+    "tipo": "Modelo de lenguaje / Inferencia en dispositivo",
+    "precio": "Freemium",
+    "descripcion": "Modelo de lenguaje ligero de 230 millones de parámetros optimizado para ejecución en dispositivos con recursos limitados.",
+    "web": "https://www.liquid.ai/",
     "funciones": [
-      "Inferencia en dispositivos",
-      "Análisis de datos",
-      "Optimización"
+      "Generación de texto coherente y contextual",
+      "Respuestas rápidas en modo offline",
+      "Traducción ligera entre idiomas",
+      "Fine‑tuning local con datos propios",
+      "Soporte para tareas de clasificación y extracción"
     ],
     "caracteristicas": [
-      "Bajo consumo de recursos",
-      "Alta eficiencia",
-      "Compatibilidad con múltiples plataformas"
+      "Tamaño reducido (≈ 1 GB) y latencia baja",
+      "Compatibilidad con ONNX y TensorRT",
+      "Entrenamiento con datos locales sin enviar a la nube",
+      "Licencia MIT y código abierto",
+      "Optimizado para CPU y GPU de bajo consumo"
     ],
-    "etica": "Acceso abierto y reducción de barreras técnicas",
+    "etica": "Promueve la accesibilidad al permitir IA en dispositivos sin conexión, pero requiere cuidado con la generación de contenido sesgado.",
     "id": "lfm2-5-230m-559b81",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-06-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Modelo libre bajo licencia MIT; sin restricciones de uso."
   },
   {
     "nombre": "PMB",
@@ -4897,7 +4919,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite hasta 5 cuentas y 100 publicaciones programadas al mes.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Ad Reframe",
