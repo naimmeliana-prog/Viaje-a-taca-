@@ -4919,7 +4919,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite hasta 5 cuentas y 100 publicaciones programadas al mes.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Ad Reframe",
@@ -5018,7 +5018,7 @@
     "tipo": "Agentes IA (Robótica de servicio)",
     "precio": "Pago",
     "descripcion": "Robot humanoide capaz de ejecutar de forma autónoma tareas de oficina como manipulación de documentos, organización de espacios y interacción con equipos.",
-    "web": "https://flexionrobotics.com",
+    "web": "",
     "caracteristicas": [
       "Altura aproximada de 1,6 m y peso de 35 kg",
       "Visión 3D basada en cámaras RGB-D y LiDAR",
@@ -5040,7 +5040,8 @@
     "fecha_agregado": "2026-06-29",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Sin plan gratuito"
+    "limite_gratis": "Sin plan gratuito",
+    "intentos_web": 1
   },
   {
     "nombre": "NVIDIA BioNeMo Agent Toolkit",
@@ -5048,7 +5049,7 @@
     "tipo": "Herramienta de desarrollo / Agentes IA",
     "precio": "Gratuito",
     "descripcion": "Kit que convierte modelos biomoleculares como OpenFold3, DiffDock y GenMol en habilidades documentadas y listas para usar por agentes de IA en descubrimiento de fármacos.",
-    "web": "https://developer.nvidia.com/bionemo",
+    "web": "",
     "caracteristicas": [
       "Basado en Python y compatible con GPUs NVIDIA",
       "Soporta formatos de modelo ONNX, TensorFlow y PyTorch",
@@ -5070,7 +5071,8 @@
     "fecha_agregado": "2026-06-29",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Acceso completo al toolkit y documentación; el soporte técnico premium está disponible bajo pago."
+    "limite_gratis": "Acceso completo al toolkit y documentación; el soporte técnico premium está disponible bajo pago.",
+    "intentos_web": 1
   },
   {
     "nombre": "EverOS – Tiempo de ejecución de memoria de agente de código abierto basado en Markdown",
@@ -5101,5 +5103,129 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Todas las funcionalidades están disponibles sin límite, al ser software de código abierto."
+  },
+  {
+    "nombre": "Foresight by Lightning Rod",
+    "descripcion": "Foresight es una herramienta de IA que predice futuros escenarios y decisiones con alta precisión, ayudando a empresas a anticipar tendencias.",
+    "compania": "Lightning Rod",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Predicción de tendencias",
+      "Análisis de riesgos",
+      "Simulación de escenarios",
+      "Generación de informes predictivos",
+      "Integración API"
+    ],
+    "caracteristicas": [
+      "Modelos de aprendizaje profundo",
+      "Actualizaciones en tiempo real",
+      "Dashboards interactivos",
+      "Soporte multilingüe",
+      "API REST"
+    ],
+    "etica": "Garantiza la privacidad de los datos y realiza auditorías regulares para mitigar sesgos.",
+    "limite_gratis": "El plan gratuito permite 5 predicciones diarias y acceso a modelos básicos.",
+    "web": "https://www.producthunt.com/products/training-data-generator",
+    "id": "foresight-by-lightning-rod-8e12ec",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pluno",
+    "descripcion": "Pluno es un agente de navegador que automatiza tareas web con velocidad 10 veces superior a la de Claude.",
+    "compania": "Pluno",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de navegación",
+      "Extracción de datos",
+      "Rellenado de formularios",
+      "Generación de contenido",
+      "Interacción con sitios web"
+    ],
+    "caracteristicas": [
+      "Velocidad 10x superior",
+      "Compatibilidad multi-navegador",
+      "API de integración",
+      "Modo offline",
+      "Detección de cambios en tiempo real"
+    ],
+    "etica": "Protege la privacidad del usuario al no almacenar datos de navegación y aplicar filtros de contenido.",
+    "limite_gratis": "El plan gratuito incluye 100 horas de navegación al mes y acceso a funciones básicas.",
+    "web": "https://www.producthunt.com/products/pluno",
+    "id": "pluno-146e06",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "v0 Design Systems 2.0",
+    "descripcion": "v0 Design Systems 2.0 permite crear y gestionar sistemas de diseño con componentes, colores, fuentes y patrones personalizados.",
+    "compania": "v0",
+    "tipo": "Productividad",
+    "precio": "Pago",
+    "funciones": [
+      "Creación de componentes reutilizables",
+      "Gestión de paletas de colores",
+      "Sincronización de fuentes tipográficas",
+      "Exportación a CSS/SCSS",
+      "Integración con prototipos"
+    ],
+    "caracteristicas": [
+      "Interfaz drag-and-drop",
+      "Control de versiones",
+      "Biblioteca de patrones predefinidos",
+      "Colaboración en tiempo real",
+      "Exportación de código limpio"
+    ],
+    "etica": "Respetuosa con la privacidad del usuario y no utiliza datos personales sin consentimiento explícito.",
+    "limite_gratis": "La versión gratuita permite crear hasta 3 sistemas de diseño y acceso a la biblioteca básica de componentes.",
+    "web": "https://www.producthunt.com/products/v0",
+    "id": "v0-design-systems-2-0-7f0332",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-06-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Clade",
+    "descripcion": "Clade actúa como COO de IA, coordinando equipos y automatizando procesos en las herramientas que ya usan.",
+    "compania": "Clade",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de tareas",
+      "Automatización de flujos de trabajo",
+      "Monitoreo de productividad",
+      "Generación de reportes",
+      "Soporte multilingüe"
+    ],
+    "caracteristicas": [
+      "Integración con Slack, Teams, Asana",
+      "Análisis de rendimiento",
+      "Alertas proactivas",
+      "Interfaz de chat",
+      "Aprendizaje continuo"
+    ],
+    "etica": "Prioriza la transparencia en el uso de datos y minimiza sesgos en la asignación de tareas.",
+    "limite_gratis": "El plan gratuito permite gestionar hasta 5 equipos y ofrece funciones básicas de automatización.",
+    "web": "https://www.producthunt.com/products/cleo-4",
+    "id": "clade-b86c09",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-06-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]
