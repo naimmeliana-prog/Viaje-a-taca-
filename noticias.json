@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-06-30T08:38:06Z",
+  "actualizado": "2026-06-30T14:11:25Z",
   "novedades": [
+    {
+      "titulo": "El 75% de las organizaciones prevé desplegar agentes de IA en dos años",
+      "resumen": "La inversión en soluciones de inteligencia artificial ha aumentado por parte de las empresas entre un 50% y un 75% en el último año L'articolo El 75% de las organizaciones prevé desplegar agentes de IA en dos años provie",
+      "enlace": "https://www.computing.es/inteligencia-artificial/el-75-de-las-organizaciones-preve-desplegar-agentes-de-ia-en-dos-anos/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-30T13:34:40Z"
+    },
+    {
+      "titulo": "Quería saber el lugar más cercano para ir a ver el eclipse. Así que he programado una aplicación con IA para buscarlo",
+      "resumen": "El próximo 12 de agosto estaré en Madrid, y eso es un problema. Y lo es porque Madrid no será el sitio óptimo para ver el evento astronómico del siglo: el eclipse solar que ese día tendrá a millones de personas pendiente",
+      "enlace": "https://www.xataka.com/robotica-e-ia/queria-saber-lugar-cercano-para-ir-a-ver-eclipse-asi-que-he-programado-aplicacion-ia-para-buscarlo",
+      "medio": "Xataka",
+      "fecha": "2026-06-30T13:32:29Z"
+    },
+    {
+      "titulo": "El gran riesgo de la IA no es la tecnología, sino la fuga de datos",
+      "resumen": "Los beneficios de la IA para la innovación y la productividad son evidentes. Sin embargo, hay una cara menos visible que muchas organizaciones todavía no están abordando con la suficiente profundidad: el incremento de lo",
+      "enlace": "https://www.computing.es/seguridad/el-gran-riesgo-de-la-ia-no-es-la-tecnologia-sino-la-fuga-de-datos/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-30T12:10:30Z"
+    },
+    {
+      "titulo": "\"Tenemos un Mythos en casa\": los expertos ya afirman que el modelo chino GLM-5.2 es tan \"peligroso\" como el de Anthropic",
+      "resumen": "La brecha tecnológica entre EEUU y China sigue reduciéndose. Al menos, si hacemos caso de lo que afirman los últimos análisis sobre el modelo GLM-5.2. Dos empresas independientes de ciberseguridad han hecho su propia val",
+      "enlace": "https://www.xataka.com/robotica-e-ia/creadores-modelo-chino-glm-5-2-afirman-que-igual-peligroso-que-mythos-eso-plantea-momento-sputnik-para-ia-china",
+      "medio": "Xataka",
+      "fecha": "2026-06-30T10:30:56Z"
+    },
     {
       "titulo": "¿Llega la IA de Apple demasiado tarde? Y si es así, ¿por qué?",
       "resumen": "Internet lleva más de un año riéndose de Apple y uno de los objetivos más ambiciosos de su historia: hacer que la inteligencia artificial sea una herramienta útil, integrada en sus servicios y totalmente transparente [&#",
@@ -79,25 +107,11 @@
       "fecha": "2026-06-27T18:00:00Z"
     },
     {
-      "titulo": "Yann LeCun, padrino de la IA: \"Si bloqueas una IA porque crees que es peligrosa, estás en el oscurantismo medieval\"",
-      "resumen": "La frase \"este modelo de IA es tan peligroso que sería un error hacerlo público\" es algo más viejo que las primeras versiones públicas de ChatGPT. Esa narrativa de la IA \"peligrosa\" tiene más de marketing que de realidad",
-      "enlace": "https://www.xataka.com/empresas-y-economia/yann-lecun-padrino-ia-bloqueas-ia-porque-crees-que-peligrosa-estas-oscurantismo-medieval",
-      "medio": "Xataka",
-      "fecha": "2026-06-27T11:00:13Z"
-    },
-    {
       "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
       "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
       "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
       "medio": "Applesfera",
       "fecha": "2026-06-27T09:00:00Z"
-    },
-    {
-      "titulo": "El futuro de la IA se dirime en más de 100 demandas contra las grandes tecnológicas: este gráfico lo explica bien",
-      "resumen": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co",
-      "enlace": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
-      "medio": "Xataka",
-      "fecha": "2026-06-27T08:00:00Z"
     },
     {
       "titulo": "\"Nunca había visto algo así\": por qué Apple sube los precios ahora y hasta cuándo durará el chaparrón",
@@ -196,20 +210,6 @@
       "enlace": "https://www.applesfera.com/aplicaciones-ios/nuevo-safari-app-contrasenas-verdaderos-tapados-nueva-ia-apple",
       "medio": "Applesfera",
       "fecha": "2026-06-20T09:00:00Z"
-    },
-    {
-      "titulo": "La IA geoespacial aplicada en más de 14.000 satélites permite anticipar riesgos en el planeta",
-      "resumen": "Gracias a la inteligencia artificial geoespacial, las imágenes captadas desde el espacio ya no solo muestran lo que ocurre en el planeta: también permiten detectar cambios, anticipar riesgos y acelerar la toma de decisio",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-geoespacial-aplicada-en-mas-de-14-000-satelites-permite-anticipar-riesgos-en-el-planeta/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-18T09:00:00Z"
-    },
-    {
-      "titulo": "Dell Technologies impulsa la “industrialización” de la IA en España mientras crece la presión por la soberanía del dato",
-      "resumen": "La tecnológica asegura que la inteligencia artificial ha pasado de fase piloto a ejecución real en las empresas, aunque la adopción sigue rezagada en pymes L'articolo Dell Technologies impulsa la “industrialización” de l",
-      "enlace": "https://www.computing.es/inteligencia-artificial/dell-technologies-impulsa-la-industrializacion-de-la-ia-en-espana-mientras-crece-la-presion-por-la-soberania-del-dato/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-18T06:00:00Z"
     }
   ],
   "etica": [
@@ -219,13 +219,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/alguien-uso-opus-4-8-analizara-resonancia-magnetica-que-siguio-confirma-que-no-nos-podemos-fiar-ia",
       "medio": "Xataka",
       "fecha": "2026-06-29T13:30:13Z"
-    },
-    {
-      "titulo": "El futuro de la IA se dirime en más de 100 demandas contra las grandes tecnológicas: este gráfico lo explica bien",
-      "resumen": "Para que ChatGPT, Gemini o Meta AI respondan bien a la ingente cantidad de preguntas que sus usuarios y usuarias le hacemos cada día, años antes las empresas que hay detrás tomaron una decisión: conseguir datos a toda co",
-      "enlace": "https://www.xataka.com/servicios/quien-esta-demandando-a-quien-ia-mapa-100-juicios-que-explica-todo",
-      "medio": "Xataka",
-      "fecha": "2026-06-27T08:00:00Z"
     },
     {
       "titulo": "‘Anthropic Cybersecurity Skills’, 754 skills de ciberseguridad para agentes de IA",
@@ -352,6 +345,13 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
       "medio": "Xataka",
       "fecha": "2025-09-08T16:30:00Z"
+    },
+    {
+      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
+      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
+      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
+      "medio": "Xataka",
+      "fecha": "2025-09-05T17:44:00Z"
     }
   ]
 }
