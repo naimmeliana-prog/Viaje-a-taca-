@@ -2864,7 +2864,7 @@
       "Actualizaciones continuas del modelo de IA"
     ],
     "etica": "Los datos de los usuarios se procesan de forma anónima y se almacenan solo con su consentimiento explícito. El modelo puede heredar sesgos del entrenamiento, por lo que es necesario revisar los resultados humanos.",
-    "web": "https://blazly.com",
+    "web": "https://www.blazlyseo.com/",
     "tipo": "Generación de contenido",
     "compania": "Blazly",
     "id": "blazly-seo-a2acb7",
@@ -2873,8 +2873,8 @@
     "fecha_agregado": "2026-06-24",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
-    "limite_gratis": "El plan gratuito permite generar hasta 5 artículos al mes con funcionalidades básicas de SEO."
+    "limite_gratis": "El plan gratuito permite generar hasta 5 artículos al mes con funcionalidades básicas de SEO.",
+    "intentos_web": 1
   },
   {
     "nombre": "Hush",
@@ -5049,7 +5049,7 @@
     "tipo": "Herramienta de desarrollo / Agentes IA",
     "precio": "Gratuito",
     "descripcion": "Kit que convierte modelos biomoleculares como OpenFold3, DiffDock y GenMol en habilidades documentadas y listas para usar por agentes de IA en descubrimiento de fármacos.",
-    "web": "",
+    "web": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
     "caracteristicas": [
       "Basado en Python y compatible con GPUs NVIDIA",
       "Soporta formatos de modelo ONNX, TensorFlow y PyTorch",
@@ -5072,7 +5072,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Acceso completo al toolkit y documentación; el soporte técnico premium está disponible bajo pago.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "EverOS – Tiempo de ejecución de memoria de agente de código abierto basado en Markdown",
@@ -5226,7 +5226,7 @@
     "fecha_agregado": "2026-06-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Skills Marketplace by Databox",
@@ -5255,9 +5255,112 @@
     "pago": true,
     "fecha_agregado": "2026-06-30",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 1,
+    "pendiente_revision": false,
     "intentos_web": 1,
     "limite_gratis": "El plan gratuito permite usar un número limitado de habilidades y almacenar hasta 1 GB de datos."
+  },
+  {
+    "nombre": "Adam CAD Copilot",
+    "descripcion": "AI CAD inside Onshape and Fusion",
+    "compania": "Onshape",
+    "tipo": "Generación de contenido",
+    "precio": "Pago",
+    "funciones": [
+      "Generación automática de diseños",
+      "Optimización de flujos de trabajo",
+      "Integración con software"
+    ],
+    "limite_gratis": "Ofrece una versión gratuita limitada con funcionalidades básicas, pero requiere pago para acceder a todas las funciones avanzadas.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://adam.new/",
+    "id": "adam-cad-copilot-23f0de",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Humalike",
+    "descripcion": "Give your AI agents the social intelligence they're missing",
+    "compania": "Humalike",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de tareas",
+      "Análisis de datos",
+      "Integración con redes sociales"
+    ],
+    "limite_gratis": "Proporciona una versión básica con funcionalidades limitadas, ideal para usuarios con necesidades sencillas.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/humalike-2",
+    "id": "humalike-147770",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Clusy",
+    "descripcion": "AI notebook platform for modern data science",
+    "compania": "Clusy",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Organización de datos",
+      "Integración con código",
+      "Visualización de información"
+    ],
+    "limite_gratis": "Ofrece una versión gratuita con funcionalidades básicas, pero requiere pago para acceso completo.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.clusy.io/",
+    "id": "clusy-f972a7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Bamboo",
+    "descripcion": "Markdown notes with AI under your control",
+    "compania": "Bamboo",
+    "tipo": "Generación de contenido",
+    "precio": "Pago",
+    "funciones": [
+      "Creación automática de documentos",
+      "Edición de texto",
+      "Integración con otras herramientas"
+    ],
+    "limite_gratis": "Proporciona una versión gratuita con limitaciones, ideal para principiantes.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://bambooai.io/",
+    "id": "bamboo-515128",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
+    "intentos_web": 1
   }
 ]
