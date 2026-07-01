@@ -5528,5 +5528,129 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
+  },
+  {
+    "nombre": "Sequence Agentic",
+    "descripcion": "Plataforma para gestionar movimientos de dinero y transacciones automatizadas para agentes de inteligencia artificial.",
+    "compania": "Sequence",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Procesamiento de pagos para agentes IA",
+      "Integración con flujos de trabajo automatizados",
+      "Gestión de transacciones seguras",
+      "API para desarrolladores",
+      "Soporte multi-moneda"
+    ],
+    "caracteristicas": [
+      "Sin código o low-code",
+      "Escalable para aplicaciones empresariales",
+      "Integración con sistemas financieros",
+      "Automatización de pagos recurrentes",
+      "Dashboard de monitoreo en tiempo real"
+    ],
+    "etica": "Enfocado en transparencia en las transacciones y cumplimiento normativo financiero. Requiere auditoría de sesgos en algoritmos de pagos.",
+    "limite_gratis": "Plan gratuito con hasta 1,000 transacciones mensuales y soporte básico.",
+    "web": "https://home.getsequence.io/solutions/agentic",
+    "id": "sequence-agentic-3a26a1",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "MailAdept by mailwarm",
+    "descripcion": "Herramienta de marketing por email que combina agentes de IA con tecnología de entrega para maximizar la tasa de apertura y conversión.",
+    "compania": "MailWarm",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de campañas de email",
+      "Optimización de deliverability",
+      "Análisis predictivo de engagement",
+      "Segmentación inteligente de audiencias",
+      "Generación de contenido personalizado"
+    ],
+    "caracteristicas": [
+      "Integración con plataformas de email marketing",
+      "IA generativa para copywriting",
+      "Métricas en tiempo real",
+      "Plantillas adaptables",
+      "Soporte para A/B testing"
+    ],
+    "etica": "Garantiza consentimiento explícito de destinatarios y previene el spam. Monitorea sesgos en segmentación para evitar discriminación.",
+    "limite_gratis": "Plan gratuito con hasta 500 envíos mensuales y funciones básicas de automatización.",
+    "web": "https://www.mailwarm.com/",
+    "id": "mailadept-by-mailwarm-0cae45",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Tabstack Browser Automation",
+    "descripcion": "Framework para automatizar navegación web dentro de aplicaciones o agentes de IA sin necesidad de interfaz gráfica de usuario.",
+    "compania": "Tabstack",
+    "tipo": "Automatización web",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de scraping web",
+      "Integración headless con agentes",
+      "Ejecución de flujos de trabajo en la nube",
+      "Simulación de interacciones de usuario",
+      "Manejo de dinámicas AJAX"
+    ],
+    "caracteristicas": [
+      "Compatible con Node.js y Python",
+      "Sin necesidad de browser local",
+      "Alta escalabilidad en parallel execution",
+      "Soporte para proxies y rotación de IPs",
+      "Logs detallados de ejecución"
+    ],
+    "etica": "Cumple con robots.txt y respeta términos de servicio. Requiere revisión de cumplimiento legal en scraping de datos sensibles.",
+    "limite_gratis": "Plan gratuito con hasta 100 horas de ejecución mensual y 5 nodos de ejecución simultánea.",
+    "web": "https://tabstack.ai/",
+    "id": "tabstack-browser-automation-2ab4d6",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Acti",
+    "descripcion": "Teclado inteligente para dispositivos móviles que permite comandos de voz y búsqueda mediante IA, optimizando la productividad en movilidad.",
+    "compania": "Acti",
+    "tipo": "Asistente de productividad",
+    "precio": "Gratuito",
+    "funciones": [
+      "Comandos de voz para acciones rápidas",
+      "Búsqueda contextual en tiempo real",
+      "Corrección gramatical inteligente",
+      "Atajos personalizables",
+      "Integración con apps del sistema"
+    ],
+    "caracteristicas": [
+      "Funciona offline con modelos ligeros",
+      "Soporte para múltiples idiomas",
+      "Interfaz minimalista",
+      "Sincronización entre dispositivos",
+      "Privacidad end-to-end encryption"
+    ],
+    "etica": "Procesa datos en dispositivo local para maximizar privacidad. No almacena datos de teclados ni comandos de voz.",
+    "limite_gratis": "Versión completa gratuita sin restricciones de funcionalidad.",
+    "web": "https://www.acti.ai/",
+    "id": "acti-5ee4fc",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]
