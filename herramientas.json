@@ -5226,7 +5226,7 @@
     "fecha_agregado": "2026-06-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Skills Marketplace by Databox",
@@ -5261,106 +5261,164 @@
   },
   {
     "nombre": "Adam CAD Copilot",
-    "descripcion": "AI CAD inside Onshape and Fusion",
+    "descripcion": "Herramienta de diseño asistido por IA integrada en plataformas de CAD como Onshape y Fusion.",
     "compania": "Onshape",
-    "tipo": "Generación de contenido",
-    "precio": "Pago",
+    "tipo": "Generación de modelos 3D",
+    "precio": "Freemium",
     "funciones": [
-      "Generación automática de diseños",
-      "Optimización de flujos de trabajo",
-      "Integración con software"
+      "Diseño automático de componentes",
+      "Optimización de geometrías",
+      "Integración con herramientas de ingeniería"
     ],
-    "limite_gratis": "Ofrece una versión gratuita limitada con funcionalidades básicas, pero requiere pago para acceder a todas las funciones avanzadas.",
+    "limite_gratis": "Acceso limitado a funciones avanzadas de IA en el plan gratuito.",
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Colaboración en tiempo real",
+      "Sugerencias de diseño basadas en IA",
+      "Soporte para múltiples formatos"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Garantiza privacidad de datos de diseño y reduce sesgos en recomendaciones técnicas.",
     "web": "https://adam.new/",
     "id": "adam-cad-copilot-23f0de",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-07-01",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 1,
+    "pendiente_revision": false,
     "intentos_web": 1
   },
   {
     "nombre": "Humalike",
-    "descripcion": "Give your AI agents the social intelligence they're missing",
-    "compania": "Humalike",
-    "tipo": "Chatbot / Asistente",
+    "descripcion": "Plataforma que añade inteligencia social a agentes de IA para interacciones más naturales.",
+    "compania": "Desconocida",
+    "tipo": "Agentes IA",
     "precio": "Freemium",
     "funciones": [
-      "Automatización de tareas",
-      "Análisis de datos",
-      "Integración con redes sociales"
+      "Simulación de empatía",
+      "Adaptación a contextos sociales",
+      "Gestión de diálogos complejos"
     ],
-    "limite_gratis": "Proporciona una versión básica con funcionalidades limitadas, ideal para usuarios con necesidades sencillas.",
+    "limite_gratis": "Funcionalidades limitadas en el plan gratuito, como interacciones básicas.",
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Aprendizaje contextual",
+      "Reconocimiento emocional",
+      "Integración con APIs sociales"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
-    "web": "https://www.producthunt.com/products/humalike-2",
+    "etica": "Prioriza la privacidad de datos personales y evita sesgos en interacciones sociales.",
+    "web": "https://www.humanizeai.io/",
     "id": "humalike-147770",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-01",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 1,
-    "intentos_web": 1
+    "pendiente_revision": false,
+    "intentos_web": 2
   },
   {
     "nombre": "Clusy",
-    "descripcion": "AI notebook platform for modern data science",
-    "compania": "Clusy",
+    "descripcion": "Plataforma de notebooks para ciencia de datos con integración de IA.",
+    "compania": "Desconocida",
     "tipo": "Productividad",
     "precio": "Freemium",
     "funciones": [
-      "Organización de datos",
-      "Integración con código",
-      "Visualización de información"
+      "Análisis de datos automatizado",
+      "Visualización inteligente",
+      "Colaboración en tiempo real"
     ],
-    "limite_gratis": "Ofrece una versión gratuita con funcionalidades básicas, pero requiere pago para acceso completo.",
+    "limite_gratis": "Recursos computacionales restringidos en el plan gratuito.",
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Soporte para múltiples lenguajes de código",
+      "Plantillas predefinidas",
+      "Integración con bases de datos"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Protege datos sensibles y promueve el uso ético de algoritmos predictivos.",
     "web": "https://www.clusy.io/",
     "id": "clusy-f972a7",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-01",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 1,
+    "pendiente_revision": false,
     "intentos_web": 1
   },
   {
     "nombre": "Bamboo",
-    "descripcion": "Markdown notes with AI under your control",
-    "compania": "Bamboo",
-    "tipo": "Generación de contenido",
-    "precio": "Pago",
+    "descripcion": "Herramienta de notas con IA para organizar contenido en Markdown.",
+    "compania": "Desconocida",
+    "tipo": "Productividad",
+    "precio": "Freemium",
     "funciones": [
-      "Creación automática de documentos",
-      "Edición de texto",
-      "Integración con otras herramientas"
+      "Sugerencias de contenido",
+      "Estructuración automática",
+      "Búsqueda semántica"
     ],
-    "limite_gratis": "Proporciona una versión gratuita con limitaciones, ideal para principiantes.",
+    "limite_gratis": "Espacio de almacenamiento limitado en el plan gratuito.",
     "caracteristicas": [
-      "Detectada automáticamente"
+      "Personalización de plantillas",
+      "Sincronización en la nube",
+      "Integración con editores"
     ],
-    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "etica": "Respetan la privacidad del usuario y evitan manipulación de datos en notas.",
     "web": "https://bambooai.io/",
     "id": "bamboo-515128",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-07-01",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 1,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Mark by Airtop",
+    "descripcion": "Automatización de campañas de marketing para solopreneurs.",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de contenido automatizada",
+      "Análisis de rendimiento",
+      "Segmentación de audiencias"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Integración con redes sociales",
+      "Optimización de presupuestos"
+    ],
+    "etica": "Promueve prácticas de marketing transparentes y evita manipulación de datos.",
+    "web": "https://www.airtop.ai/",
+    "tipo": "Marketing",
+    "compania": "Airtop",
+    "id": "mark-by-airtop-933e3a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Acceso limitado a herramientas de análisis avanzado.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "N71",
+    "descripcion": "Plataforma que unifica el contexto compartido entre múltiples agentes de IA.",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de contexto global",
+      "Colaboración entre agentes",
+      "Aprendizaje colectivo"
+    ],
+    "caracteristicas": [
+      "Sincronización en tiempo real",
+      "Escalabilidad",
+      "Soporte para múltiples dominios"
+    ],
+    "etica": "Asegura consistencia en datos compartidos y minimiza sesgos en decisiones colectivas.",
+    "web": "https://www.producthunt.com/products/n71",
+    "tipo": "Agentes IA",
+    "compania": "Desconocida",
+    "id": "n71-7fa2a2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Capacidad limitada de agentes o contexto en el plan gratuito.",
     "intentos_web": 1
   }
 ]

@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-07-01T11:19:16Z",
+  "actualizado": "2026-07-01T12:44:07Z",
   "novedades": [
+    {
+      "titulo": "Compartir la contraseña de ChatGPT o Claude no es como compartir la de Netflix: hay gente aprendiéndolo por las malas",
+      "resumen": "Compartir contraseña es una práctica muy habitual en servicios de pago, una que a esos servicios no les hace ninguna gracia. Hay personas que han pensado que si compartían la contraseña de Netflix, por qué no hacer lo mi",
+      "enlace": "https://www.xataka.com/robotica-e-ia/compartir-contrasena-chatgpt-claude-no-como-compartir-netflix-hay-gente-aprendiendolo-malas",
+      "medio": "Xataka",
+      "fecha": "2026-07-01T12:30:59Z"
+    },
     {
       "titulo": "Anthropic acaba de lanzar Claude Sonnet 5 con un objetivo claro: no cruzar ninguna línea roja",
       "resumen": "Anthropic anunció ayer el lanzamiento de Claude Sonnet 5, un modelo más \"normal\" y conservador de lo que nos tenía acostumbrados. También es más barato, lo que lo hace interesante para usarlo en esos agentes de IA que co",
@@ -98,13 +105,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/satya-nadella-ceo-microsoft-sociedad-no-va-a-tolerar-que-solo-unas-pocas-empresas-hagan-todo-aprendizaje",
       "medio": "Xataka",
       "fecha": "2026-06-28T11:30:13Z"
-    },
-    {
-      "titulo": "Foxconn quiere fabricarlo todo. TODO",
-      "resumen": "La semana pasada se celebró Vivatech. Se trata de una de las mayores ferias de tecnología del mundo y una de las menos concretas. Hay robots humanoides, robots que se dedican únicamente a hacer cosas graciosas, roboasist",
-      "enlace": "https://www.xataka.com/empresas-y-economia/foxconn-quiere-fabricarlo-todo-todo",
-      "medio": "Xataka",
-      "fecha": "2026-06-28T10:00:14Z"
     },
     {
       "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
