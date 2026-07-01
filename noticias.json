@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-07-01T12:44:07Z",
+  "actualizado": "2026-07-01T14:36:29Z",
   "novedades": [
+    {
+      "titulo": "Corea del Sur tiene un plan para dominar en chips de memoria y en robótica. Uno de un billón de dólares",
+      "resumen": "Corea del Sur ha puesto sobre la mesa un megaproyecto para la era de la IA. Se trata de una iniciativa compuesta de tres proyectos público-privados repartidos entre semiconductores, centros de datos y la prometedora indu",
+      "enlace": "https://www.xataka.com/robotica-e-ia/corea-sur-tiene-plan-para-dominar-chips-memoria-robotica-uno-billon-dolares",
+      "medio": "Xataka",
+      "fecha": "2026-07-01T13:30:59Z"
+    },
     {
       "titulo": "Compartir la contraseña de ChatGPT o Claude no es como compartir la de Netflix: hay gente aprendiéndolo por las malas",
       "resumen": "Compartir contraseña es una práctica muy habitual en servicios de pago, una que a esos servicios no les hace ninguna gracia. Hay personas que han pensado que si compartían la contraseña de Netflix, por qué no hacer lo mi",
@@ -98,13 +105,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/decir-que-burbuja-blasfemia-ia-senor-que-ha-invertido-dineral-openai",
       "medio": "Xataka",
       "fecha": "2026-06-28T17:00:00Z"
-    },
-    {
-      "titulo": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
-      "resumen": "Que últimamente no están las cosas muy allá en la industria tech es una realidad (según en qué lado estés, claro). La economía en torno a la exacerbada demanda de los centros de datos de IA se ha desvirtualizado tanto qu",
-      "enlace": "https://www.xataka.com/empresas-y-economia/satya-nadella-ceo-microsoft-sociedad-no-va-a-tolerar-que-solo-unas-pocas-empresas-hagan-todo-aprendizaje",
-      "medio": "Xataka",
-      "fecha": "2026-06-28T11:30:13Z"
     },
     {
       "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",

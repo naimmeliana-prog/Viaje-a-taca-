@@ -5219,14 +5219,14 @@
     ],
     "etica": "Prioriza la transparencia en el uso de datos y minimiza sesgos en la asignación de tareas.",
     "limite_gratis": "El plan gratuito permite gestionar hasta 5 equipos y ofrece funciones básicas de automatización.",
-    "web": "https://www.producthunt.com/products/cleo-4",
+    "web": "https://www.clade.run/",
     "id": "clade-b86c09",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Skills Marketplace by Databox",
@@ -5409,7 +5409,7 @@
       "Soporte para múltiples dominios"
     ],
     "etica": "Asegura consistencia en datos compartidos y minimiza sesgos en decisiones colectivas.",
-    "web": "https://www.producthunt.com/products/n71",
+    "web": "https://n71.ai/",
     "tipo": "Agentes IA",
     "compania": "Desconocida",
     "id": "n71-7fa2a2",
@@ -5419,6 +5419,114 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Capacidad limitada de agentes o contexto en el plan gratuito.",
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Dump Memory",
+    "descripcion": "Herramienta para optimizar la gestión de la memoria digital y mejorar la productividad.",
+    "compania": "MemoryFix Inc.",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Optimizar almacenamiento",
+      "Recuperar datos perdidos",
+      "Gestionar archivos"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Sincronización en la nube",
+      "Alta seguridad"
+    ],
+    "etica": "Prioriza la privacidad de los datos del usuario y evita sesgos en la recuperación de información.",
+    "limite_gratis": "Ofrece funciones básicas de recuperación de datos sin costo.",
+    "web": "https://mem0.ai/",
+    "id": "dump-memory-3978d5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ciaro Pro",
+    "descripcion": "Plataforma para crear contenido visual con inteligencia artificial.",
+    "compania": "Ciaro Studios",
+    "tipo": "Generación de vídeo",
+    "precio": "Pago",
+    "funciones": [
+      "Generar guiones",
+      "Editar videos automáticamente",
+      "Crear efectos visuales"
+    ],
+    "caracteristicas": [
+      "Calidad 4K",
+      "Personalización avanzada",
+      "Integración con cámaras"
+    ],
+    "etica": "Respetar derechos de autor y evitar contenido sesgado en la generación de videos.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://ciaro.pro/",
+    "id": "ciaro-pro-f8ff0e",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "OASIS 1 Ring",
+    "descripcion": "Dispositivo inteligente que permite interactuar mediante voz y toque.",
+    "compania": "OASIS Tech",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Comandos por voz",
+      "Edición de texto por toque",
+      "Asistencia en tareas"
+    ],
+    "caracteristicas": [
+      "Interacción natural",
+      "Respuesta en tiempo real",
+      "Diseño ergonómico"
+    ],
+    "etica": "Garantizar privacidad en las conversaciones y evitar manipulación de datos.",
+    "limite_gratis": "Acceso limitado a funciones avanzadas en el plan gratuito.",
+    "web": "https://oasis-ai.org/",
+    "id": "oasis-1-ring-9ef4c0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "RunInfra",
+    "descripcion": "Plataforma para diseñar y optimizar modelos de inteligencia artificial personalizados.",
+    "compania": "RunInfra Solutions",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Crear modelos de IA",
+      "Optimizar rendimiento",
+      "Desplegar soluciones"
+    ],
+    "caracteristicas": [
+      "Escalabilidad",
+      "Integración con APIs",
+      "Análisis de datos"
+    ],
+    "etica": "Promover transparencia en los algoritmos y evitar sesgos en los modelos.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://runinfra.ai/",
+    "id": "runinfra-d5ce1d",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]
