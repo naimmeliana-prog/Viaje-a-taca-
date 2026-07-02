@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-07-02T02:54:29Z",
+  "actualizado": "2026-07-02T18:57:14Z",
   "novedades": [
+    {
+      "titulo": "Cuando ni Google puede con la demanda: el racionamiento de Gemini a Meta",
+      "resumen": "Cada vez que preguntamos algo a Gemini o a ChatGPT, damos por hecho que hay potencia de sobra detrás. Pero esa potencia también tiene límite, y Google acaba de chocar con él. Se ha sabido [&#8230;] Cuando ni Google puede",
+      "enlace": "https://blogthinkbig.com/cuando-ni-google-puede-con-la-demanda-el-racionamiento-de-gemini-a-meta",
+      "medio": "Think Big",
+      "fecha": "2026-07-02T13:58:08Z"
+    },
+    {
+      "titulo": "“La IA Open Source es peligrosa”: el CEO de Anthropic repite lo que Ballmer dijo hace 25 años al calificar a Linux de ser “un cáncer”",
+      "resumen": "En junio de 2001 Steve Ballmer, que apenas llevaba año y medio como CEO de Microsoft, concedía una entrevista al diario Chicago Sun-Times. Durante el transcurso de la misma, haría una declaración histórica al decir que \"",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ia-open-source-peligrosa-ceo-anthropic-repite-que-ballmer-dijo-hace-25-anos-al-calificar-a-linux-ser-cancer",
+      "medio": "Xataka",
+      "fecha": "2026-07-02T12:01:54Z"
+    },
+    {
+      "titulo": "Isidro Fernández (UDIT): «Necesitamos que el diseño de los robots sea transparente y tenga límites claros»",
+      "resumen": "Hablamos con Isidro Fernández, Director del Grado en Robótica Centrada en las Personas de UDIT, sobre la formación de talento especializado en IA y la visión humanista del uso de esta tecnología L'articolo Isidro Fernánd",
+      "enlace": "https://www.computing.es/inteligencia-artificial/isidro-fernandez-udit-necesitamos-que-el-diseno-de-los-robots-sea-transparente-y-tenga-limites-claros/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-02T08:11:03Z"
+    },
     {
       "titulo": "Corea del Sur tiene un plan para dominar en chips de memoria y en robótica. Uno de un billón de dólares",
       "resumen": "Corea del Sur ha puesto sobre la mesa un megaproyecto para la era de la IA. Se trata de una iniciativa compuesta de tres proyectos público-privados repartidos entre semiconductores, centros de datos y la prometedora indu",
@@ -23,11 +44,11 @@
       "fecha": "2026-07-01T07:15:00Z"
     },
     {
-      "titulo": "Ford ha comprobado que la IA tiene un problema de calidad. Su solución: volver a contratar a viejos empleados",
+      "titulo": "Charles Poon, vicepresidente de ingeniería de Ford: \"Pensamos erróneamente que solo con introducir IA obtendríamos un producto de calidad\"",
       "resumen": "Hace unos años, Ford se lanzó de cabeza a la automatización de su cadena de producción. Quería que sus sistemas de inteligencia artificial revisaran cada pieza y detectaran fallos antes de que el vehículo abandonara la f",
       "enlace": "https://www.xataka.com/movilidad/ford-ha-comprobado-que-ia-tiene-problema-calidad-su-solucion-volver-a-contratar-a-viejos-empleados",
       "medio": "Xataka",
-      "fecha": "2026-06-30T17:46:00Z"
+      "fecha": "2026-06-30T17:45:00Z"
     },
     {
       "titulo": "El 75% de las organizaciones prevé desplegar agentes de IA en dos años",
@@ -37,11 +58,11 @@
       "fecha": "2026-06-30T13:34:40Z"
     },
     {
-      "titulo": "Quería saber el lugar más cercano para ir a ver el eclipse. Así que he programado una aplicación con IA para buscarlo",
+      "titulo": "Vivo en Madrid y quería saber cuál era el lugar más cercano para ver el eclipse. Así que programé yo mismo un mapa",
       "resumen": "El próximo 12 de agosto estaré en Madrid, y eso es un problema. Y lo es porque Madrid no será el sitio óptimo para ver el evento astronómico del siglo: el eclipse solar que ese día tendrá a millones de personas pendiente",
       "enlace": "https://www.xataka.com/robotica-e-ia/queria-saber-lugar-cercano-para-ir-a-ver-eclipse-asi-que-he-programado-aplicacion-ia-para-buscarlo",
       "medio": "Xataka",
-      "fecha": "2026-06-30T13:32:29Z"
+      "fecha": "2026-06-30T13:30:00Z"
     },
     {
       "titulo": "El gran riesgo de la IA no es la tecnología, sino la fuga de datos",
@@ -98,13 +119,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-se-ha-dado-cuenta-que-millones-trabajadores-no-tienen-futuro-ia-se-ha-puesto-manos-a-obra",
       "medio": "Xataka",
       "fecha": "2026-06-29T10:00:00Z"
-    },
-    {
-      "titulo": "\"Decir que es una burbuja es una blasfemia contra la IA\": un señor que ha invertido un dineral en OpenAI",
-      "resumen": "Burbuja sí, burbuja no. Nadie se pone de acuerdo. De un lado están quienes ven un claro paralelismo con la burbuja de las puntocom y creen que el estallido es inminente. De otro, los más optimistas que ven en la IA una f",
-      "enlace": "https://www.xataka.com/empresas-y-economia/decir-que-burbuja-blasfemia-ia-senor-que-ha-invertido-dineral-openai",
-      "medio": "Xataka",
-      "fecha": "2026-06-28T17:00:00Z"
     },
     {
       "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
@@ -196,23 +210,16 @@
       "enlace": "https://www.applesfera.com/aplicaciones-ios/acabo-encontrar-solucion-definitiva-a-mi-torpeza-gemini-quiero-para-mi-iphone",
       "medio": "Applesfera",
       "fecha": "2026-06-21T15:00:00Z"
-    },
-    {
-      "titulo": "Sé que todos hablan de Siri AI, pero la \"otra IA\" que Apple trae en iOS 27 y macOS 27 es brutal",
-      "resumen": "Casi dos semanas después de la WWDC26, empiezo a dejar de lado el disgusto de que Siri AI no llegue a Europa de momento. Esto me está permitiendo observar mejor las otras novedades de inteligencia artificial que sí llega",
-      "enlace": "https://www.applesfera.com/aplicaciones-ios/nuevo-safari-app-contrasenas-verdaderos-tapados-nueva-ia-apple",
-      "medio": "Applesfera",
-      "fecha": "2026-06-20T09:00:00Z"
-    },
-    {
-      "titulo": "La IA geoespacial aplicada en más de 14.000 satélites permite anticipar riesgos en el planeta",
-      "resumen": "Gracias a la inteligencia artificial geoespacial, las imágenes captadas desde el espacio ya no solo muestran lo que ocurre en el planeta: también permiten detectar cambios, anticipar riesgos y acelerar la toma de decisio",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-geoespacial-aplicada-en-mas-de-14-000-satelites-permite-anticipar-riesgos-en-el-planeta/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-18T09:00:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Cuando ni Google puede con la demanda: el racionamiento de Gemini a Meta",
+      "resumen": "Cada vez que preguntamos algo a Gemini o a ChatGPT, damos por hecho que hay potencia de sobra detrás. Pero esa potencia también tiene límite, y Google acaba de chocar con él. Se ha sabido [&#8230;] Cuando ni Google puede",
+      "enlace": "https://blogthinkbig.com/cuando-ni-google-puede-con-la-demanda-el-racionamiento-de-gemini-a-meta",
+      "medio": "Think Big",
+      "fecha": "2026-07-02T13:58:08Z"
+    },
     {
       "titulo": "Alguien usó Opus 4.8 para que analizara una resonancia magnética. Lo que siguió confirma que no nos podemos fiar de la IA",
       "resumen": "Un desarrollador llamado Antoine Finkelstein llevaba semanas con el hombro derecho dolorido. Tras visitar a un ortopedista se realizó una resonancia magnética en la zona afectada, y según el informe médico, tenía una rot",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
       "medio": "Xataka",
       "fecha": "2025-09-08T16:30:00Z"
-    },
-    {
-      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
-      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
-      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
-      "medio": "Xataka",
-      "fecha": "2025-09-05T17:44:00Z"
     }
   ]
 }

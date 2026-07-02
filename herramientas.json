@@ -5654,35 +5654,6 @@
     "intentos_web": 1
   },
   {
-    "nombre": "Mark",
-    "compania": "MarketTools",
-    "tipo": "Automatización de marketing",
-    "precio": "Gratuito",
-    "descripcion": "Una herramienta de automatización de vibes que permite a los marketers individuales crear y gestionar campañas de marketing mediante comandos de lenguaje natural.",
-    "web": "https://airtop.ai",
-    "funciones": [
-      "Crear campañas",
-      "Gestionar publicidad",
-      "Automatizar envíos",
-      "Analizar resultados",
-      "Personalizar mensajes"
-    ],
-    "caracteristicas": [
-      "Interfaz intuitiva",
-      "Integración con redes sociales",
-      "Personalización avanzada",
-      "Escalable"
-    ],
-    "etica": "El uso de IA respeta la privacidad de los datos y evita sesgos en las recomendaciones.",
-    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso básico a funciones de automatización.",
-    "id": "mark-b82a9a",
-    "gratis": true,
-    "pago": false,
-    "fecha_agregado": "2026-07-02",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
     "nombre": "LightTwist",
     "descripcion": "Record & stream your show en un estudio virtual realista y profesional.",
     "compania": "VirtualStudio",
@@ -5709,7 +5680,7 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Fuser Apps",
@@ -5760,14 +5731,14 @@
     ],
     "etica": "Prioriza la transparencia y la privacidad de los usuarios en el desarrollo.",
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funcionalidades básicas de hosting.",
-    "web": "https://www.producthunt.com/products/livinity",
+    "web": "https://livinity.io/",
     "id": "livinity-9e5db7",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Stigg 2.0",
@@ -5792,6 +5763,256 @@
     "web": "https://www.producthunt.com/products/stigg",
     "id": "stigg-2-0-aed9ae",
     "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Needle",
+    "compania": "Needle AI",
+    "tipo": "Agente proactivo",
+    "precio": "Gratuito",
+    "descripcion": "Agente proactivo que ayuda a equipos de ventas y marketing a automatizar seguimiento de leads, generar informes y responder consultas dentro de Slack y Teams.",
+    "web": "https://needle.ai",
+    "funciones": [
+      "Automatización de seguimiento de leads",
+      "Generación de informes",
+      "Respuesta de consultas",
+      "Integración con Slack y Teams"
+    ],
+    "caracteristicas": [
+      "Interactivo",
+      "Automatiza tareas repetitivas",
+      "Soporta múltiples canales de comunicación"
+    ],
+    "etica": "El uso de datos de contacto debe respetar la privacidad y seguir buenas prácticas de seguridad.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: acceso básico a funciones esenciales sin publicidad ni soporte avanzado.",
+    "id": "needle-d4a666",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Pocket",
+    "compania": "Pocket",
+    "tipo": "Generación de vídeo / Mini juegos",
+    "precio": "Freemium",
+    "descripcion": "App que permite crear y compartir mini juegos interactivos describiendo su mecánica y aspecto con solo texto, sin necesidad de programar.",
+    "web": "https://pocket.meta.com",
+    "funciones": [
+      "Creación de mini juegos",
+      "Descripción textual",
+      "Compartir contenido",
+      "Sin programación requerida"
+    ],
+    "caracteristicas": [
+      "Sin programación",
+      "Interactivo",
+      "Ideal para principiantes"
+    ],
+    "etica": "No se recopilan datos personales, promueve el aprendizaje sin riesgos.",
+    "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funciones básicas y descargas limitadas.",
+    "id": "pocket-74f27d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Context.dev",
+    "compania": "Context.dev",
+    "tipo": "API de datos web",
+    "precio": "Pago",
+    "descripcion": "API que permite extraer datos web estructurados y enriquecidos listos para ser consumidos por agentes de IA, con manejo de JavaScript dinámico.",
+    "web": "https://context.dev",
+    "funciones": [
+      "Extracción de datos web",
+      "Enriquecimiento de información",
+      "Integración con modelos de IA"
+    ],
+    "caracteristicas": [
+      "Enriquecimiento de datos",
+      "APIs estructuradas",
+      "Soporte para JavaScript"
+    ],
+    "etica": "Asegura el uso responsable de datos y evita sesgos en la información proporcionada.",
+    "limite_gratis": "Sin plan gratuito: acceso limitado a funcionalidades básicas.",
+    "id": "context-dev-20a482",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Solaris",
+    "compania": "Solaris",
+    "tipo": "Plataforma de aprendizaje adaptativo",
+    "precio": "Pago",
+    "descripcion": "Ofrece rutas de aprendizaje adaptativas, simulaciones y métricas para acelerar la adopción responsable de IA dentro de organizaciones, con seguimiento de progreso.",
+    "web": "https://solaris.ai",
+    "funciones": [
+      "Rutas de aprendizaje adaptativas",
+      "Simulaciones",
+      "Métricas de desempeño",
+      "Seguimiento de progreso"
+    ],
+    "caracteristicas": [
+      "Aprendizaje personalizado",
+      "Simulaciones interactivas",
+      "Seguimiento de métricas",
+      "Enfoque en responsabilidad"
+    ],
+    "etica": "Promueve la adopción ética de la IA con métricas claras y seguimiento responsable.",
+    "limite_gratis": "Sin plan gratuito: acceso restringido a funciones avanzadas.",
+    "id": "solaris-eaf36c",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "MatchShot",
+    "compania": "MatchShot",
+    "tipo": "Analizador de fotos",
+    "precio": "Pago",
+    "descripcion": "Analiza tus fotos de perfil de aplicaciones de citas y brinda sugerencias concretas para mejorar su atractivo, autenticidad y efectividad, sin almacenar las imágenes.",
+    "web": "https://matchshot.app",
+    "funciones": [
+      "Análisis de fotos",
+      "Sugerencias de mejora",
+      "Sin almacenamiento de imágenes",
+      "Enfoque en perfiles"
+    ],
+    "caracteristicas": [
+      "Análisis visual",
+      "Recomendaciones personalizadas",
+      "Privacidad de imágenes",
+      "Sin almacenamiento de datos"
+    ],
+    "etica": "Respeto a la privacidad de los usuarios y evita el uso indebido de imágenes.",
+    "limite_gratis": "Sin plan gratuito: acceso limitado a funciones básicas.",
+    "id": "matchshot-432293",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Macro",
+    "descripcion": "Unifies tu trabajo en una sola app con memoria compartida para mejorar la colaboración entre herramientas.",
+    "compania": "Macro",
+    "tipo": "Unificador de apps",
+    "precio": "Pago",
+    "funciones": [
+      "Unificación de apps",
+      "Memoria compartida",
+      "Mejora de la colaboración",
+      "Integración entre plataformas"
+    ],
+    "caracteristicas": [
+      "Integración multiapp",
+      "Memoria compartida",
+      "Facilita la colaboración",
+      "Soporta múltiples aplicaciones"
+    ],
+    "etica": "Diseñado para fomentar el uso responsable y eficiente de las herramientas tecnológicas.",
+    "limite_gratis": "Sin plan gratuito: acceso limitado a funciones básicas.",
+    "web": "https://macro.com/",
+    "id": "macro-4374cf",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Macuse",
+    "descripcion": "Da tus poderes de IA en macOS, permitiendo una experiencia más potente y personalizada.",
+    "compania": "Macuse",
+    "tipo": "Extensiones para macOS",
+    "precio": "Pago",
+    "funciones": [
+      "Extensiones de IA",
+      "Mejora de rendimiento",
+      "Personalización",
+      "Integración con apps nativas"
+    ],
+    "caracteristicas": [
+      "Extensiones",
+      "Optimización",
+      "Personalización",
+      "Compatibilidad con macOS"
+    ],
+    "etica": "Promueve el uso ético de la IA en entornos macOS, respetando normas de privacidad.",
+    "limite_gratis": "Sin plan gratuito: acceso limitado a funciones básicas.",
+    "web": "https://macuse.app/",
+    "id": "macuse-29fbec",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "scritty",
+    "descripcion": "Memoria compartida para cada agente de IA, facilitando el trabajo en equipo y la colaboración.",
+    "compania": "Scritty",
+    "tipo": "Memoria compartida para agentes de IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Memoria compartida",
+      "Colaboración en equipo",
+      "Sincronización de datos",
+      "Facilita el trabajo en equipo"
+    ],
+    "caracteristicas": [
+      "Memoria compartida",
+      "Colaborativo",
+      "Sincronización",
+      "Ideal para equipos"
+    ],
+    "etica": "Fomenta la transparencia y el uso responsable de la información compartida.",
+    "web": "https://scritty.dev/",
+    "id": "scritty-dc0699",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "PieterPost MCP",
+    "descripcion": "Conecta tu agente de IA a la postal, permitiendo una comunicación más personalizada y contextual.",
+    "compania": "PieterPost MCP",
+    "tipo": "Conexión postal con IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Integración con correo",
+      "Comunicación personalizada",
+      "Mejora de interacciones",
+      "Enfoque en contacto humano"
+    ],
+    "caracteristicas": [
+      "Integración con correo",
+      "Comunicación contextual",
+      "Mejora de interacciones",
+      "Enfoque humano"
+    ],
+    "etica": "Busca equilibrar la tecnología con la privacidad y el respeto al contacto humano.",
+    "web": "https://pieterpost.com/",
+    "id": "pieterpost-mcp-b94a36",
+    "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
