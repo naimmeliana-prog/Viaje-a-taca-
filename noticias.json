@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-07-03T01:23:23Z",
+  "actualizado": "2026-07-03T10:29:00Z",
   "novedades": [
+    {
+      "titulo": "Cómo borrar tu huella digital de internet usando IA",
+      "resumen": "Todos dejamos un rastro constante en internet, la mayoría de las veces sin darnos cuenta. Te registras en un foro para leer un hilo, aceptas unas cookies sin mirar, y años después esa información acaba [&#8230;] Cómo bor",
+      "enlace": "https://blogthinkbig.com/como-borrar-huella-digital-ia",
+      "medio": "Think Big",
+      "fecha": "2026-07-03T09:46:16Z"
+    },
+    {
+      "titulo": "IA soberana: la nueva frontera para una adopción responsable de la inteligencia artificial",
+      "resumen": "IA soberana: una evolución necesaria hacia un modelo donde la innovación y la gobernanza del dato conviven de forma equilibrada L'articolo IA soberana: la nueva frontera para una adopción responsable de la inteligencia a",
+      "enlace": "https://www.computing.es/inteligencia-artificial/ia-soberana-la-nueva-frontera-para-una-adopcion-responsable-de-la-inteligencia-artificial/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-03T09:45:08Z"
+    },
+    {
+      "titulo": "Una empresa china cree tener en sus manos el nuevo filón de la robótica: robos humanoides de compañía desde 15.000 euros",
+      "resumen": "UBTech Robotics acaba de presentar en Shenzhen su primer robot no pensado para entornos industriales, sino para poder usarlo en entornos domésticos. Se llama U1, tiene piel de silicona, pelo real y una \"IA emocional\" que",
+      "enlace": "https://www.xataka.com/robotica-e-ia/empresa-china-cree-tener-sus-manos-nuevo-filon-robotica-robos-humanoides-compania-15-000-euros",
+      "medio": "Xataka",
+      "fecha": "2026-07-03T09:30:43Z"
+    },
+    {
+      "titulo": "Meta se pasa al otro lado del mostrador de la IA. Está pasando de comprar cómputo a venderlo",
+      "resumen": "Meta está diseñando un negocio de computación en la nube para vender a terceros el exceso de capacidad de sus centros de datos de IA, según ha adelantado Bloomberg. La empresa valora dos vías: Ofrecer acceso a modelos al",
+      "enlace": "https://www.xataka.com/empresas-y-economia/meta-se-pasa-al-otro-lado-mostrador-ia-esta-pasando-comprar-computo-a-venderlo",
+      "medio": "Xataka",
+      "fecha": "2026-07-03T09:15:54Z"
+    },
+    {
+      "titulo": "El nuevo fichaje estrella de la IA no es un ingeniero ni un científico de datos, pero domina el estoicismo: los filósofos",
+      "resumen": "Hace poco menos de una década, estudiar filosofía traía implícita una pregunta: \"¿Y de qué vas a vivir?\". Como muchas otras carreras de la rama de Humanidades, la filosofía registraba una baja tasa de inserción laboral. ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nuevo-fichaje-estrella-ia-no-ingeniero-cientifico-datos-domina-estoicismo-filosofos",
+      "medio": "Xataka",
+      "fecha": "2026-07-03T06:31:54Z"
+    },
+    {
+      "titulo": "La NASA ha conseguido que un satélite “entienda” lo que ve, sin mandar ni una foto a la Tierra",
+      "resumen": "El papel de los satélites es sencillo. Toman datos, los envían a la Tierra y, una vez aquí, se analizan. Hasta ahora, eso está siendo viable. Sin embargo, el proceso se está complicando. Cada vez hay más satélites (hola,",
+      "enlace": "https://www.xataka.com/espacio/nasa-ha-conseguido-que-satelite-entienda-que-ve-mandar-foto-a-tierra",
+      "medio": "Xataka",
+      "fecha": "2026-07-03T06:01:54Z"
+    },
     {
       "titulo": "Cuando ni Google puede con la demanda: el racionamiento de Gemini a Meta",
       "resumen": "Cada vez que preguntamos algo a Gemini o a ChatGPT, damos por hecho que hay potencia de sobra detrás. Pero esa potencia también tiene límite, y Google acaba de chocar con él. Se ha sabido [&#8230;] Cuando ni Google puede",
@@ -72,13 +114,6 @@
       "fecha": "2026-06-30T12:10:30Z"
     },
     {
-      "titulo": "\"Tenemos un Mythos en casa\": los expertos ya afirman que el modelo chino GLM-5.2 es tan \"peligroso\" como el de Anthropic",
-      "resumen": "La brecha tecnológica entre EEUU y China sigue reduciéndose. Al menos, si hacemos caso de lo que afirman los últimos análisis sobre el modelo GLM-5.2. Dos empresas independientes de ciberseguridad han hecho su propia val",
-      "enlace": "https://www.xataka.com/robotica-e-ia/creadores-modelo-chino-glm-5-2-afirman-que-igual-peligroso-que-mythos-eso-plantea-momento-sputnik-para-ia-china",
-      "medio": "Xataka",
-      "fecha": "2026-06-30T10:30:00Z"
-    },
-    {
       "titulo": "¿Llega la IA de Apple demasiado tarde? Y si es así, ¿por qué?",
       "resumen": "Internet lleva más de un año riéndose de Apple y uno de los objetivos más ambiciosos de su historia: hacer que la inteligencia artificial sea una herramienta útil, integrada en sus servicios y totalmente transparente [&#",
       "enlace": "https://blogthinkbig.com/llega-la-ia-de-apple-demasiado-tarde-y-si-es-asi-por-que",
@@ -93,32 +128,11 @@
       "fecha": "2026-06-29T19:00:00Z"
     },
     {
-      "titulo": "La moda del prompt engineering ya pasó. Ahora lo que se lleva es el loop engineering",
-      "resumen": "En los últimos tres años hemos visto cómo si uno quería ser un usuario avanzado de IA, tenía que convertirse en todo un ingeniero de prompts: la forma de preguntarle cosas a la IA era vital para lograr los mejores result",
-      "enlace": "https://www.xataka.com/robotica-e-ia/moda-prompt-engineering-paso-se-lleva-loop-engineering",
-      "medio": "Xataka",
-      "fecha": "2026-06-29T17:30:52Z"
-    },
-    {
       "titulo": "Europa construye su propia IA: así es el proyecto que quiere cambiar las reglas",
       "resumen": "Durante años, Europa ha sido la región que más ha legislado sobre inteligencia artificial. Ha aprobado reglamentos y fijado normas que han servido de referencia para otros países. Lo que no había hecho hasta ahora [&#823",
       "enlace": "https://blogthinkbig.com/europa-construye-su-propia-ia-asi-es-el-proyecto-que-quiere-cambiar-las-reglas",
       "medio": "Think Big",
       "fecha": "2026-06-29T16:00:00Z"
-    },
-    {
-      "titulo": "Alguien usó Opus 4.8 para que analizara una resonancia magnética. Lo que siguió confirma que no nos podemos fiar de la IA",
-      "resumen": "Un desarrollador llamado Antoine Finkelstein llevaba semanas con el hombro derecho dolorido. Tras visitar a un ortopedista se realizó una resonancia magnética en la zona afectada, y según el informe médico, tenía una rot",
-      "enlace": "https://www.xataka.com/robotica-e-ia/alguien-uso-opus-4-8-analizara-resonancia-magnetica-que-siguio-confirma-que-no-nos-podemos-fiar-ia",
-      "medio": "Xataka",
-      "fecha": "2026-06-29T13:30:13Z"
-    },
-    {
-      "titulo": "En EEUU, los expertos empiezan a verlo claro: \"Si construimos las mejores IA y dejamos atrás a millones, no habremos ganado nada\"",
-      "resumen": "Una pregunta lleva recorriendo los consejos de ministros y los principales foros económicos del mundo desde hace que ChatGPT mostró sus capacidades en noviembre de 2022. ¿Cuántos puestos de trabajo va a destruir la IA? E",
-      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-se-ha-dado-cuenta-que-millones-trabajadores-no-tienen-futuro-ia-se-ha-puesto-manos-a-obra",
-      "medio": "Xataka",
-      "fecha": "2026-06-29T10:00:00Z"
     },
     {
       "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
@@ -196,20 +210,6 @@
       "enlace": "https://www.applesfera.com/ios/11-mejoras-apple-intelligence-ios-27-solamente-hay-que-no-llegara-a-europa-momento",
       "medio": "Applesfera",
       "fecha": "2026-06-22T13:50:37Z"
-    },
-    {
-      "titulo": "HPE lleva la IA agéntica a producción junto con NVIDIA",
-      "resumen": "En el marco del HPE Discover 2026, celebrado en Las Vegas, Hewlett Packard Enterprise ha anunciado una nueva generación de soluciones diseñadas para llevar la IA agéntica del laboratorio a la producción real L'articolo H",
-      "enlace": "https://www.computing.es/inteligencia-artificial/hpe-lleva-la-ia-agentica-a-produccion-junto-con-nvidia/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-22T11:02:16Z"
-    },
-    {
-      "titulo": "Acabo de encontrar la solución definitiva a mi torpeza. Es de Gemini y lo quiero ya nativo en mi iPhone",
-      "resumen": "Soy de los que en el cole sudaba para aprobar la asignatura favorita de muchos: Educación Plástica. Tendré muchas virtudes, pero la de hacer buenas manualidades no está incluida entre ellas. De ahí mi torpeza para montar",
-      "enlace": "https://www.applesfera.com/aplicaciones-ios/acabo-encontrar-solucion-definitiva-a-mi-torpeza-gemini-quiero-para-mi-iphone",
-      "medio": "Applesfera",
-      "fecha": "2026-06-21T15:00:00Z"
     }
   ],
   "etica": [
@@ -219,13 +219,6 @@
       "enlace": "https://blogthinkbig.com/cuando-ni-google-puede-con-la-demanda-el-racionamiento-de-gemini-a-meta",
       "medio": "Think Big",
       "fecha": "2026-07-02T13:58:08Z"
-    },
-    {
-      "titulo": "Alguien usó Opus 4.8 para que analizara una resonancia magnética. Lo que siguió confirma que no nos podemos fiar de la IA",
-      "resumen": "Un desarrollador llamado Antoine Finkelstein llevaba semanas con el hombro derecho dolorido. Tras visitar a un ortopedista se realizó una resonancia magnética en la zona afectada, y según el informe médico, tenía una rot",
-      "enlace": "https://www.xataka.com/robotica-e-ia/alguien-uso-opus-4-8-analizara-resonancia-magnetica-que-siguio-confirma-que-no-nos-podemos-fiar-ia",
-      "medio": "Xataka",
-      "fecha": "2026-06-29T13:30:13Z"
     },
     {
       "titulo": "‘Anthropic Cybersecurity Skills’, 754 skills de ciberseguridad para agentes de IA",
@@ -352,6 +345,13 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
       "medio": "Xataka",
       "fecha": "2025-09-08T16:30:00Z"
+    },
+    {
+      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
+      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
+      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
+      "medio": "Xataka",
+      "fecha": "2025-09-05T17:44:00Z"
     }
   ]
 }
