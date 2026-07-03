@@ -5680,7 +5680,7 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Fuser Apps",
@@ -5767,7 +5767,7 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Needle",
@@ -5802,7 +5802,7 @@
     "tipo": "Generación de vídeo / Mini juegos",
     "precio": "Freemium",
     "descripcion": "App que permite crear y compartir mini juegos interactivos describiendo su mecánica y aspecto con solo texto, sin necesidad de programar.",
-    "web": "https://pocket.meta.com",
+    "web": "https://heypocket.com/",
     "funciones": [
       "Creación de mini juegos",
       "Descripción textual",
@@ -5821,7 +5821,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Context.dev",
@@ -5965,23 +5966,25 @@
   },
   {
     "nombre": "scritty",
-    "descripcion": "Memoria compartida para cada agente de IA, facilitando el trabajo en equipo y la colaboración.",
+    "descripcion": "Plataforma que proporciona una capa de memoria compartida y persistente para agentes de IA, permitiendo la colaboración efectiva y el contexto continuo entre múltiples ejecuciones y miembros del equipo.",
     "compania": "Scritty",
-    "tipo": "Memoria compartida para agentes de IA",
+    "tipo": "Agentes IA",
     "precio": "Freemium",
     "funciones": [
-      "Memoria compartida",
-      "Colaboración en equipo",
-      "Sincronización de datos",
-      "Facilita el trabajo en equipo"
+      "Memoria a largo plazo para agentes",
+      "Contexto compartido entre múltiples agentes",
+      "API para integración con frameworks de agentes",
+      "Gestión de permisos y acceso a memoria",
+      "Visualización del grafo de conocimiento del agente"
     ],
     "caracteristicas": [
-      "Memoria compartida",
-      "Colaborativo",
-      "Sincronización",
-      "Ideal para equipos"
+      "Persistencia de datos más allá de la ventana de contexto del LLM",
+      "Sincronización en tiempo real para trabajo en equipo humano-IA",
+      "Compatibilidad con LangChain, AutoGen, CrewAI y otros",
+      "Interfaz de administración para auditar memorias",
+      "Almacenamiento vectorial y estructurado híbrido"
     ],
-    "etica": "Fomenta la transparencia y el uso responsable de la información compartida.",
+    "etica": "Al centralizar la memoria de los agentes, Scritty debe garantizar un control de acceso estricto y cifrado para evitar filtraciones de datos sensibles compartidos entre agentes; además, la persistencia de interacciones pasadas requiere políticas claras de retención y olvido (derecho al olvido) para mitigar sesgos históricos acumulados.",
     "web": "https://scritty.dev/",
     "id": "scritty-dc0699",
     "gratis": true,
@@ -5989,32 +5992,98 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito con límite de almacenamiento de memoria (ej. 100MB o 1M tokens) y número restringido de agentes/proyectos concurrentes."
   },
   {
     "nombre": "PieterPost MCP",
-    "descripcion": "Conecta tu agente de IA a la postal, permitiendo una comunicación más personalizada y contextual.",
-    "compania": "PieterPost MCP",
-    "tipo": "Conexión postal con IA",
+    "descripcion": "Implementación del Protocolo de Contexto de Modelo (MCP) que dota a los agentes de IA de la capacidad de enviar correo postal físico real (cartas, postales) como herramienta de acción, cerrando la brecha entre lo digital y lo físico.",
+    "compania": "Pieter Levels / PieterPost",
+    "tipo": "Agentes IA",
     "precio": "Freemium",
     "funciones": [
-      "Integración con correo",
-      "Comunicación personalizada",
-      "Mejora de interacciones",
-      "Enfoque en contacto humano"
+      "Envío de postales y cartas físicas vía API",
+      "Personalización de contenido con variables dinámicas del agente",
+      "Gestión de direcciones y verificación de destinatarios",
+      "Seguimiento de estado de envío y entrega",
+      "Plantillas de diseño para comunicación física"
     ],
     "caracteristicas": [
-      "Integración con correo",
-      "Comunicación contextual",
-      "Mejora de interacciones",
-      "Enfoque humano"
+      "Integración nativa mediante estándar MCP (Model Context Protocol)",
+      "Automatización completa: del prompt al buzón físico",
+      "Soporte para envíos internacionales",
+      "Coste por uso (pay-per-postcard) sin suscripción obligatoria",
+      "Interfaz de previsualización de renderizado postal"
     ],
-    "etica": "Busca equilibrar la tecnología con la privacidad y el respeto al contacto humano.",
+    "etica": "El envío de correo físico masivo por agentes autónomos plantea riesgos de spam físico y desperdicio de recursos (papel, transporte); es crucial implementar límites de tasa, verificación de consentimiento del destinatario (opt-in) y filtros de contenido para evitar uso malicioso o acoso postal.",
     "web": "https://pieterpost.com/",
     "id": "pieterpost-mcp-b94a36",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito que incluye un número limitado de envíos de prueba (ej. 3-5 postales al mes) para validar la integración, requiriendo recarga de saldo para envíos regulares."
+  },
+  {
+    "nombre": "Retrace",
+    "descripcion": "Herramienta que permite depurar agentes de IA reproduciendo y bifurcando ejecuciones para identificar fallos y optimizar comportamientos.",
+    "compania": "Retrace",
+    "tipo": "Depuración de agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Reproducir ejecuciones pasadas de agentes",
+      "Forking de runs para probar variantes",
+      "Visualizar estados internos y flujos de decisión",
+      "Analizar logs y métricas de rendimiento",
+      "Integrar con frameworks de agentes como LangChain y Agentic"
+    ],
+    "caracteristicas": [
+      "Interfaz gráfica intuitiva",
+      "Soporte para múltiples frameworks de agentes",
+      "Registro detallado de eventos y decisiones",
+      "Colaboración en equipo con control de versiones",
+      "Exportación de logs y reportes en formatos comunes"
+    ],
+    "etica": "Protege la privacidad de los datos de entrenamiento y facilita la detección de sesgos mediante análisis transparente de los flujos de decisión.",
+    "limite_gratis": "Plan gratuito permite hasta 10 runs por mes y 5 GB de almacenamiento.",
+    "web": "https://retraceai.tech/",
+    "id": "retrace-b3b0af",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Flowly",
+    "descripcion": "Agente IA que corre en tu escritorio y iPhone, gestionando tareas, recordatorios y automatizaciones de flujo de trabajo de forma personalizada.",
+    "compania": "Flowly",
+    "tipo": "Agente IA personal",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de calendario y recordatorios",
+      "Respuesta a preguntas y consultas contextuales",
+      "Automatización de tareas repetitivas",
+      "Integración con aplicaciones de productividad",
+      "Sincronización entre dispositivos"
+    ],
+    "caracteristicas": [
+      "Sincronización en tiempo real entre escritorio e iPhone",
+      "Interfaz nativa y adaptable a dispositivos",
+      "Personalización de voz y estilo de respuesta",
+      "Almacenamiento local y cifrado de datos",
+      "Soporte offline para tareas básicas"
+    ],
+    "etica": "Mantiene los datos localmente y no comparte información sin consentimiento explícito del usuario, garantizando la privacidad y la seguridad.",
+    "limite_gratis": "Plan gratuito permite 3 tareas automatizadas y 1 integración de apps.",
+    "web": "https://www.myflowly.com/",
+    "id": "flowly-f82067",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-03",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
