@@ -5680,7 +5680,7 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Fuser Apps",
@@ -5767,7 +5767,7 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Needle",
@@ -6079,7 +6079,7 @@
     ],
     "etica": "Mantiene los datos localmente y no comparte información sin consentimiento explícito del usuario, garantizando la privacidad y la seguridad.",
     "limite_gratis": "Plan gratuito permite 3 tareas automatizadas y 1 integración de apps.",
-    "web": "https://www.myflowly.com/",
+    "web": "https://useflowlyapp.com/en",
     "id": "flowly-f82067",
     "gratis": true,
     "pago": true,
@@ -6172,14 +6172,14 @@
     ],
     "etica": "El acceso a repositorios privados implica riesgos de exposición de código sensible; se deben aplicar filtros de privacidad.",
     "limite_gratis": "El plan gratuito permite reproducir hasta 3 issues al mes.",
-    "web": "https://www.producthunt.com/products/osloq",
+    "web": "https://osloq.com/",
     "id": "osloq-a2c224",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Glaze by Raycast",
@@ -6208,6 +6208,217 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "MentionDrop MCP",
+    "compania": "MentionDrop Inc.",
+    "tipo": "Análisis de mercado / Toma de decisiones",
+    "precio": "Freemium",
+    "descripcion": "Proporciona señales de mercado en tiempo real mediante protocolo MCP para automatizar decisiones.",
+    "web": "https://mentiondrop.com",
+    "funciones": [
+      "Señales de mercado en tiempo real",
+      "Integración con agentes de IA",
+      "Toma de decisiones automatizada"
+    ],
+    "caracteristicas": [
+      "Protocolo MCP optimizado",
+      "Escalabilidad para grandes volúmenes de datos",
+      "Interfaz API modular"
+    ],
+    "etica": "Garantiza privacidad de datos financieros y reduce sesgos en señales de mercado.",
+    "limite_gratis": "Acceso limitado a señales de mercado en el plan gratuito.",
+    "id": "mentiondrop-mcp-03f614",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "WorkBuddy",
+    "compania": "WorkBuddy Labs",
+    "tipo": "Orquestación de agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Coordinar múltiples agentes especializados para resolver tareas complejas como un equipo humano.",
+    "web": "https://workbuddy.ai",
+    "funciones": [
+      "Orquestación de agentes",
+      "Asignación de tareas",
+      "Integración de resultados"
+    ],
+    "caracteristicas": [
+      "Soporte para múltiples especialidades",
+      "Interfaz de colaboración en tiempo real",
+      "Optimización de flujos de trabajo"
+    ],
+    "etica": "Minimiza sesgos mediante diversidad de agentes y auditorías periódicas.",
+    "limite_gratis": "Limitado a 3 agentes simultáneos en el plan gratuito.",
+    "id": "workbuddy-5db078",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "TryCase",
+    "compania": "TryCase Solutions",
+    "tipo": "Desarrollo de código seguro",
+    "precio": "Freemium",
+    "descripcion": "Crea entornos aislados para que agentes de IA escriban, ejecuten y depuren código sin riesgos.",
+    "web": "https://trycase.dev",
+    "funciones": [
+      "Sandboxes aislados",
+      "Ejecución de código",
+      "Limpieza automática"
+    ],
+    "caracteristicas": [
+      "Seguridad en tiempo real",
+      "Compatibilidad con múltiples lenguajes",
+      "Historial de pruebas"
+    ],
+    "etica": "Protege datos sensibles y evita vulnerabilidades en el código generado.",
+    "limite_gratis": "Sandboxes gratuitos con límite de 5 ejecuciones diarias.",
+    "id": "trycase-506ebf",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "pxpipe",
+    "compania": "pxpipe Team",
+    "tipo": "Generación de imágenes",
+    "precio": "Gratuito",
+    "descripcion": "Convierte prompts de texto largo en imágenes PNG compactas optimizando costos de API.",
+    "web": "https://github.com/pxpipe/pxpipe",
+    "funciones": [
+      "Conversión texto-imagen",
+      "Optimización de píxeles",
+      "Exportación PNG"
+    ],
+    "caracteristicas": [
+      "Open-source",
+      "Económico para APIs como Anthropic",
+      "Alta compresión"
+    ],
+    "etica": "Reduce el consumo de recursos computacionales y minimiza sesgos en la generación de imágenes.",
+    "limite_gratis": "Sin plan gratuito (herramienta open-source).",
+    "id": "pxpipe-da2956",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Termi Protocol",
+    "compania": "Termi Labs",
+    "tipo": "Visualización de desarrollo",
+    "precio": "Freemium",
+    "descripcion": "Renderiza en 3D la actividad de agentes de codificación en tiempo real.",
+    "web": "https://termi.dev",
+    "funciones": [
+      "Renderizado 3D en tiempo real",
+      "Seguimiento de repositorios",
+      "Visualización de commits"
+    ],
+    "caracteristicas": [
+      "Interfaz interactiva",
+      "Integración con Git",
+      "Análisis de rendimiento"
+    ],
+    "etica": "Respetar la privacidad del código y evitar sobrecarga de datos.",
+    "limite_gratis": "Sesiones gratuitas limitadas a 1 hora diarias.",
+    "id": "termi-protocol-25824e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "CentryAI",
+    "descripcion": "Herramienta para rastrear suscripciones creada por alguien que olvidó 11 de ellas.",
+    "compania": "CentryAI Inc.",
+    "tipo": "Gestión de suscripciones",
+    "precio": "Freemium",
+    "funciones": [
+      "Seguimiento de suscripciones",
+      "Recordatorios",
+      "Integración con calendarios"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Sincronización en la nube",
+      "Reportes personalizados"
+    ],
+    "etica": "Protege datos financieros y evita duplicados en el seguimiento.",
+    "limite_gratis": "Limitado a 10 suscripciones en el plan gratuito.",
+    "web": "https://centryai.app",
+    "id": "centryai-80aee7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Vida",
+    "descripcion": "Clona tu productividad: deja que la IA realice tareas antes de que las solicites.",
+    "compania": "Vida AI",
+    "tipo": "Automatización de tareas",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización proactiva",
+      "Clonación de flujos de trabajo",
+      "Optimización de tiempo"
+    ],
+    "caracteristicas": [
+      "Aprendizaje adaptativo",
+      "Integración con herramientas comunes",
+      "Escalabilidad"
+    ],
+    "etica": "Respetar la privacidad del usuario y evitar dependencia excesiva de la IA.",
+    "limite_gratis": "Limitado a 3 tareas automatizadas diarias en el plan gratuito.",
+    "web": "https://vida.io/",
+    "id": "vida-365f9c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ChecklistFox",
+    "descripcion": "Crea checklists inteligentes para PDFs hermosos, gratis e instantáneamente.",
+    "compania": "ChecklistFox",
+    "tipo": "Generación de checklists",
+    "precio": "Gratuito",
+    "funciones": [
+      "Generación de checklists",
+      "Exportación a PDF",
+      "Personalización visual"
+    ],
+    "caracteristicas": [
+      "Interfaz amigable",
+      "Diseño responsive",
+      "Integración con plantillas"
+    ],
+    "etica": "Garantizar privacidad de los datos del usuario y evitar sesgos en la organización.",
+    "limite_gratis": "Sin plan gratuito (herramienta completamente gratuita).",
+    "web": "https://checklistfox.com/",
+    "id": "checklistfox-9b0096",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-05",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-07-03T10:29:00Z",
+  "actualizado": "2026-07-05T10:06:23Z",
   "novedades": [
+    {
+      "titulo": "El gran tapado de la IA: el gigante de los váteres inteligentes japonés gastará 500 millones en chips del futuro",
+      "resumen": "Si has viajado a Asia a países como Japón, China o Singapur, es posible que a lo largo de tu periplo hayas puesto las posaderas en un inodoro inteligente. Y también es probable que ese vater inteligente fuera de la marca",
+      "enlace": "https://www.xataka.com/empresas-y-economia/gran-tapado-ia-mayor-fabricante-wc-inteligentes-japon-va-a-gastar-500-millones-chips-futuro",
+      "medio": "Xataka",
+      "fecha": "2026-07-04T12:00:00Z"
+    },
+    {
+      "titulo": "ChatGPT Codex: qué es, qué puedes hacer con él y cómo utilizarlo",
+      "resumen": "Vamos a explicarte qué es y cómo puedes usar ChatGPT Codex, el agente de programación de ChatGPT. Se trata de una opción con la que la inteligencia artificial no se limita a responder preguntas o generar código, sino que",
+      "enlace": "https://www.xataka.com/basics/chatgpt-codex-que-que-puedes-hacer-como-utilizarlo",
+      "medio": "Xataka",
+      "fecha": "2026-07-04T10:00:45Z"
+    },
+    {
+      "titulo": "Mark Zuckerberg no está contento y se lo ha hecho saber a su equipo: \"Tememos no ser lo suficientemente rápidos para adaptarnos\"",
+      "resumen": "Pocas empresas están poniendo tanta carne en el asador como Meta en la carrera de la IA: fracasó estrepitosamente con el multiverso, así que cambió su meta y dirigió todos sus esfuerzos a la inteligencia artificial. De h",
+      "enlace": "https://www.xataka.com/servicios/mark-zuckerberg-no-esta-contento-se-ha-hecho-saber-a-su-equipo-tememos-no-ser-suficientemente-rapidos-para-adaptarnos",
+      "medio": "Xataka",
+      "fecha": "2026-07-04T09:30:44Z"
+    },
+    {
+      "titulo": "El regreso de Fable 5 tiene un problema preocupante: Anthropic lo ha condenado al \"preferiría no hacerlo\"",
+      "resumen": "El narrador anónimo de nuestra historia contrata a un escribiente llamado Bartleby para su despacho de abogados. El empleado comienza a trabajar de forma envidiable, pero a los tres días, algo pasa. El narrador le pide q",
+      "enlace": "https://www.xataka.com/robotica-e-ia/regreso-fable-5-tiene-problema-preocupante-anthropic-ha-condenado-al-preferiria-no-hacerlo",
+      "medio": "Xataka",
+      "fecha": "2026-07-03T14:30:44Z"
+    },
+    {
+      "titulo": "Anthropic ya está preparando justo lo único que le faltaba para reforzar su liderazgo IA: un chip propio",
+      "resumen": "Los gigantes tecnológicos han aprendido algo a las duras: depender de terceros es una debilidad. Anthropic parece haberse dado cuenta de lo mismo, y lleva meses dándole vueltas a una idea importante: fabricar su propio c",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-esta-preparando-justo-unico-que-le-faltaba-para-reforzar-su-liderazgo-ia-chip-propio",
+      "medio": "Xataka",
+      "fecha": "2026-07-03T12:30:44Z"
+    },
+    {
+      "titulo": "\"El Papa está trabajando para los comunistas chinos\": Peter Thiel cree que la Santa Sede está cometiendo un craso error",
+      "resumen": "Peter Thiel no se suele morder la lengua, y no lo hizo hace unos días en el Aspen Ideas Festival. El inversor y cofundador de Palantir y PayPal participó en una charla en la que acusó al Papa León XIV de estar (sin saber",
+      "enlace": "https://www.xataka.com/robotica-e-ia/papa-esta-trabajando-para-comunistas-chinos-peter-thiel-cree-que-santa-sede-esta-cometiendo-craso-error",
+      "medio": "Xataka",
+      "fecha": "2026-07-03T10:30:43Z"
+    },
     {
       "titulo": "Cómo borrar tu huella digital de internet usando IA",
       "resumen": "Todos dejamos un rastro constante en internet, la mayoría de las veces sin darnos cuenta. Te registras en un foro para leer un hilo, aceptas unas cookies sin mirar, y años después esa información acaba [&#8230;] Cómo bor",
@@ -16,11 +58,11 @@
       "fecha": "2026-07-03T09:45:08Z"
     },
     {
-      "titulo": "Una empresa china cree tener en sus manos el nuevo filón de la robótica: robos humanoides de compañía desde 15.000 euros",
+      "titulo": "Una empresa china cree tener en sus manos el nuevo filón de la robótica: robots humanoides de compañía desde 15.000 euros",
       "resumen": "UBTech Robotics acaba de presentar en Shenzhen su primer robot no pensado para entornos industriales, sino para poder usarlo en entornos domésticos. Se llama U1, tiene piel de silicona, pelo real y una \"IA emocional\" que",
       "enlace": "https://www.xataka.com/robotica-e-ia/empresa-china-cree-tener-sus-manos-nuevo-filon-robotica-robos-humanoides-compania-15-000-euros",
       "medio": "Xataka",
-      "fecha": "2026-07-03T09:30:43Z"
+      "fecha": "2026-07-03T09:30:00Z"
     },
     {
       "titulo": "Meta se pasa al otro lado del mostrador de la IA. Está pasando de comprar cómputo a venderlo",
@@ -51,13 +93,6 @@
       "fecha": "2026-07-02T13:58:08Z"
     },
     {
-      "titulo": "“La IA Open Source es peligrosa”: el CEO de Anthropic repite lo que Ballmer dijo hace 25 años al calificar a Linux de ser “un cáncer”",
-      "resumen": "En junio de 2001 Steve Ballmer, que apenas llevaba año y medio como CEO de Microsoft, concedía una entrevista al diario Chicago Sun-Times. Durante el transcurso de la misma, haría una declaración histórica al decir que \"",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-open-source-peligrosa-ceo-anthropic-repite-que-ballmer-dijo-hace-25-anos-al-calificar-a-linux-ser-cancer",
-      "medio": "Xataka",
-      "fecha": "2026-07-02T12:01:54Z"
-    },
-    {
       "titulo": "Isidro Fernández (UDIT): «Necesitamos que el diseño de los robots sea transparente y tenga límites claros»",
       "resumen": "Hablamos con Isidro Fernández, Director del Grado en Robótica Centrada en las Personas de UDIT, sobre la formación de talento especializado en IA y la visión humanista del uso de esta tecnología L'articolo Isidro Fernánd",
       "enlace": "https://www.computing.es/inteligencia-artificial/isidro-fernandez-udit-necesitamos-que-el-diseno-de-los-robots-sea-transparente-y-tenga-limites-claros/",
@@ -65,46 +100,11 @@
       "fecha": "2026-07-02T08:11:03Z"
     },
     {
-      "titulo": "Corea del Sur tiene un plan para dominar en chips de memoria y en robótica. Uno de un billón de dólares",
-      "resumen": "Corea del Sur ha puesto sobre la mesa un megaproyecto para la era de la IA. Se trata de una iniciativa compuesta de tres proyectos público-privados repartidos entre semiconductores, centros de datos y la prometedora indu",
-      "enlace": "https://www.xataka.com/robotica-e-ia/corea-sur-tiene-plan-para-dominar-chips-memoria-robotica-uno-billon-dolares",
-      "medio": "Xataka",
-      "fecha": "2026-07-01T13:30:59Z"
-    },
-    {
-      "titulo": "Compartir la contraseña de ChatGPT o Claude no es como compartir la de Netflix: hay gente aprendiéndolo por las malas",
-      "resumen": "Compartir contraseña es una práctica muy habitual en servicios de pago, una que a esos servicios no les hace ninguna gracia. Hay personas que han pensado que si compartían la contraseña de Netflix, por qué no hacer lo mi",
-      "enlace": "https://www.xataka.com/robotica-e-ia/compartir-contrasena-chatgpt-claude-no-como-compartir-netflix-hay-gente-aprendiendolo-malas",
-      "medio": "Xataka",
-      "fecha": "2026-07-01T12:30:59Z"
-    },
-    {
-      "titulo": "Anthropic acaba de lanzar Claude Sonnet 5 con un objetivo claro: no cruzar ninguna línea roja",
-      "resumen": "Anthropic anunció ayer el lanzamiento de Claude Sonnet 5, un modelo más \"normal\" y conservador de lo que nos tenía acostumbrados. También es más barato, lo que lo hace interesante para usarlo en esos agentes de IA que co",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-claude-sonnet-5-objetivo-claro-no-cruzar-ninguna-linea-roja",
-      "medio": "Xataka",
-      "fecha": "2026-07-01T07:15:00Z"
-    },
-    {
-      "titulo": "Charles Poon, vicepresidente de ingeniería de Ford: \"Pensamos erróneamente que solo con introducir IA obtendríamos un producto de calidad\"",
-      "resumen": "Hace unos años, Ford se lanzó de cabeza a la automatización de su cadena de producción. Quería que sus sistemas de inteligencia artificial revisaran cada pieza y detectaran fallos antes de que el vehículo abandonara la f",
-      "enlace": "https://www.xataka.com/movilidad/ford-ha-comprobado-que-ia-tiene-problema-calidad-su-solucion-volver-a-contratar-a-viejos-empleados",
-      "medio": "Xataka",
-      "fecha": "2026-06-30T17:45:00Z"
-    },
-    {
       "titulo": "El 75% de las organizaciones prevé desplegar agentes de IA en dos años",
       "resumen": "La inversión en soluciones de inteligencia artificial ha aumentado por parte de las empresas entre un 50% y un 75% en el último año L'articolo El 75% de las organizaciones prevé desplegar agentes de IA en dos años provie",
       "enlace": "https://www.computing.es/inteligencia-artificial/el-75-de-las-organizaciones-preve-desplegar-agentes-de-ia-en-dos-anos/",
       "medio": "Computing.es",
       "fecha": "2026-06-30T13:34:40Z"
-    },
-    {
-      "titulo": "Vivo en Madrid y quería saber cuál era el lugar más cercano para ver el eclipse. Así que programé yo mismo un mapa",
-      "resumen": "El próximo 12 de agosto estaré en Madrid, y eso es un problema. Y lo es porque Madrid no será el sitio óptimo para ver el evento astronómico del siglo: el eclipse solar que ese día tendrá a millones de personas pendiente",
-      "enlace": "https://www.xataka.com/robotica-e-ia/queria-saber-lugar-cercano-para-ir-a-ver-eclipse-asi-que-he-programado-aplicacion-ia-para-buscarlo",
-      "medio": "Xataka",
-      "fecha": "2026-06-30T13:30:00Z"
     },
     {
       "titulo": "El gran riesgo de la IA no es la tecnología, sino la fuga de datos",
