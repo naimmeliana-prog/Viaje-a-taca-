@@ -5680,7 +5680,7 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Fuser Apps",
@@ -5760,14 +5760,14 @@
     ],
     "etica": "Enfocado en minimizar el impacto negativo en la privacidad de los usuarios.",
     "limite_gratis": "Sin plan gratuito: acceso restringido a funciones de entrenamiento.",
-    "web": "https://www.producthunt.com/products/stigg",
+    "web": "https://www.stigg.io/blog-posts/announcing-stigg-2-0-the-usage-runtime-for-ai-products",
     "id": "stigg-2-0-aed9ae",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Needle",
@@ -6296,7 +6296,7 @@
     "tipo": "Generación de imágenes",
     "precio": "Gratuito",
     "descripcion": "Convierte prompts de texto largo en imágenes PNG compactas optimizando costos de API.",
-    "web": "https://github.com/pxpipe/pxpipe",
+    "web": "https://github.com/teamchong/pxpipe",
     "funciones": [
       "Conversión texto-imagen",
       "Optimización de píxeles",
@@ -6314,7 +6314,8 @@
     "pago": false,
     "fecha_agregado": "2026-07-05",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Termi Protocol",
@@ -6419,6 +6420,249 @@
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-07-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AirKaren",
+    "compania": "AirKaren Inc.",
+    "tipo": "Automatización de servicio al cliente / Agente IA",
+    "precio": "Freemium",
+    "descripcion": "Automatiza la resolución de problemas de servicio al cliente, actuando como intermediario entre el usuario y los proveedores de soporte.",
+    "web": "https://airkaren.com",
+    "funciones": [
+      "Interacción con plataformas de soporte como Zendesk y Freshdesk",
+      "Seguimiento y cierre automático de tickets",
+      "Generación de respuestas automáticas basadas en IA",
+      "Análisis de sentimiento y priorización de casos",
+      "Reportes de métricas de satisfacción y tiempos de respuesta"
+    ],
+    "caracteristicas": [
+      "Integración nativa con APIs de proveedores de soporte",
+      "Aprendizaje continuo a partir de interacciones previas",
+      "Interfaz conversacional intuitiva",
+      "Encriptación de datos en tránsito y reposo",
+      "Escalabilidad para equipos de cualquier tamaño"
+    ],
+    "etica": "Protege la privacidad de los datos del cliente y evita sesgos al generar respuestas neutrales, garantizando la confidencialidad de la información sensible.",
+    "limite_gratis": "Plan gratuito con 50 tickets mensuales y acceso limitado a integraciones",
+    "id": "airkaren-4e24ff",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Sakana Translate",
+    "compania": "Sakana Labs",
+    "tipo": "Herramienta de traducción",
+    "precio": "Freemium",
+    "descripcion": "Traducción bidireccional entre japonés, inglés y chino con modos de traducción, corrección y preguntas.",
+    "web": "https://sakana.ai/translate",
+    "funciones": [
+      "Traducción instantánea entre los tres idiomas",
+      "Corrección gramatical y de estilo",
+      "Modo de preguntas para aclarar contexto",
+      "Historial de traducciones guardado",
+      "API para integración en aplicaciones"
+    ],
+    "caracteristicas": [
+      "Modelo de IA Namazu optimizado para idiomas asiáticos",
+      "Soporte de 3 idiomas principales",
+      "Interfaz web y móvil",
+      "Exportación de textos en formatos comunes",
+      "Control de calidad con puntuación de confianza"
+    ],
+    "etica": "Respeta la confidencialidad de los textos y evita sesgos culturales, garantizando que la información traducida se mantenga fiel al contexto original.",
+    "limite_gratis": "Plan gratuito con 500 palabras por día y sin acceso a la API",
+    "id": "sakana-translate-6f09ce",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "CodeMote",
+    "compania": "CodeMote Ltd.",
+    "tipo": "Asistente de programación / Agente IA",
+    "precio": "Freemium",
+    "descripcion": "Agente de código IA que permite programar desde el iPhone, conectado mediante una CLI móvil.",
+    "web": "https://codemote.ai",
+    "funciones": [
+      "Generación de código en múltiples lenguajes",
+      "Refactorización automática",
+      "Depuración y sugerencias de corrección",
+      "Generación de pruebas unitarias",
+      "Integración con repositorios Git"
+    ],
+    "caracteristicas": [
+      "Uso de modelos Claude Code y Codex",
+      "CLI nativa en iOS con soporte de teclado",
+      "Autenticación segura con tokens",
+      "Soporte de proyectos locales y remotos",
+      "Respuestas en tiempo real con baja latencia"
+    ],
+    "etica": "Garantiza la seguridad del código generado, evitando la introducción de vulnerabilidades y respetando las licencias de terceros.",
+    "limite_gratis": "Plan gratuito con 10 comandos por día y sin acceso a modelos premium",
+    "id": "codemote-22bbec",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Mozaik",
+    "compania": "Mozaik Systems",
+    "tipo": "Runtime / Plataforma de agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Runtime en TypeScript que permite crear agentes IA autoorganizados que colaboran y se adaptan a tareas complejas.",
+    "web": "https://mozaik.ai",
+    "funciones": [
+      "Orquestación de múltiples agentes",
+      "Autoorganización basada en objetivos",
+      "Adaptación dinámica a cambios de contexto",
+      "Integración con APIs externas y microservicios",
+      "Monitoreo y métricas de rendimiento"
+    ],
+    "caracteristicas": [
+      "Escrito en TypeScript para mayor mantenibilidad",
+      "Arquitectura modular y extensible",
+      "Escalabilidad horizontal con Node.js",
+      "API de eventos y callbacks",
+      "Compatibilidad con Docker y Kubernetes"
+    ],
+    "etica": "Promueve la transparencia en la toma de decisiones de los agentes y protege la privacidad de los datos procesados.",
+    "limite_gratis": "Plan gratuito con 5 agentes simultáneos y 1000 tareas por mes",
+    "id": "mozaik-d6dffd",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Nixmac",
+    "compania": "Nixmac Solutions",
+    "tipo": "Productividad / Configuración de sistema",
+    "precio": "Freemium",
+    "descripcion": "Configuración Nix-darwin que permite gestionar macOS con lenguaje natural en lugar de comandos técnicos.",
+    "web": "https://nixmac.dev",
+    "funciones": [
+      "Declarar configuraciones con lenguaje natural",
+      "Generar scripts Nix automáticamente",
+      "Aplicar cambios en tiempo real",
+      "Revertir configuraciones con un solo comando",
+      "Integración con Homebrew y paquetes de terceros"
+    ],
+    "caracteristicas": [
+      "Basado en Nix-darwin para reproducibilidad",
+      "Interfaz de línea de comandos intuitiva",
+      "Compatibilidad con macOS Big Sur y posteriores",
+      "Seguridad de configuración con aislamiento de procesos",
+      "Soporte de paquetes y flake"
+    ],
+    "etica": "Mantiene la integridad del sistema y evita la exposición de credenciales, garantizando que las configuraciones se apliquen de forma segura.",
+    "limite_gratis": "Plan gratuito con 10 configuraciones por proyecto y sin acceso a soporte premium",
+    "id": "nixmac-1f7d81",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Octolens",
+    "descripcion": "Herramienta de escucha social diseñada para agentes IA, que recopila y analiza datos de redes sociales y foros en tiempo real.",
+    "compania": "Octolens Analytics",
+    "tipo": "Social listening / Análisis de medios",
+    "precio": "Freemium",
+    "funciones": [
+      "Monitoreo en tiempo real de menciones y hashtags",
+      "Análisis de sentimiento y tendencias",
+      "Alertas de crisis y reputación",
+      "Integración directa con agentes IA para respuestas automáticas",
+      "Reportes y dashboards personalizados"
+    ],
+    "caracteristicas": [
+      "Soporte de múltiples plataformas (Twitter, Reddit, Instagram, etc.)",
+      "Algoritmos de NLP para extracción de entidades",
+      "API de datos estructurados",
+      "Panel de control web intuitivo",
+      "Exportación a CSV y JSON"
+    ],
+    "etica": "Protege la privacidad de los usuarios y evita la recolección de datos sensibles sin consentimiento, garantizando el cumplimiento de normativas de protección de datos.",
+    "limite_gratis": "Plan gratuito con 1000 menciones por mes y acceso limitado a análisis avanzado",
+    "web": "https://octolens.com/",
+    "id": "octolens-de2a68",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Typeahead 2.0",
+    "descripcion": "Autocompletado IA privado para todas las aplicaciones en tu Mac.",
+    "compania": "Typeahead Inc.",
+    "tipo": "Productividad / Autocompletado IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Autocompletar texto en cualquier campo",
+      "Sugerir frases y correcciones contextuales",
+      "Aprendizaje personalizado basado en tu uso",
+      "Integración con cualquier aplicación vía API de teclado",
+      "Configuración de privacidad y filtros"
+    ],
+    "caracteristicas": [
+      "Ejecuta localmente sin enviar datos a la nube",
+      "Soporte de más de 200 aplicaciones",
+      "Interfaz de teclado con atajos rápidos",
+      "Configuración granular de privacidad",
+      "Actualizaciones automáticas de modelo"
+    ],
+    "etica": "Mantiene los datos del usuario en el dispositivo y evita la exposición a terceros, garantizando la confidencialidad de la información personal.",
+    "limite_gratis": "Plan gratuito con 500 sugerencias diarias y sin acceso a modelos avanzados",
+    "web": "https://www.producthunt.com/products/typeahead",
+    "id": "typeahead-2-0-ea694c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AnySearch",
+    "descripcion": "Búsqueda estructurada en tiempo real confiable por agentes y desarrolladores.",
+    "compania": "AnySearch Technologies",
+    "tipo": "Buscador estructurado / API de búsqueda",
+    "precio": "Freemium",
+    "funciones": [
+      "Búsqueda en bases de datos y APIs externas",
+      "Consulta estructurada con filtros avanzados",
+      "Respuestas rápidas en formato JSON",
+      "Integración con agentes IA para respuestas automáticas",
+      "API REST y SDKs para múltiples lenguajes"
+    ],
+    "caracteristicas": [
+      "Soporte de JSON y XML como formatos de respuesta",
+      "Rendimiento bajo latencia con caché inteligente",
+      "Escalabilidad horizontal con clústeres",
+      "Seguridad con autenticación OAuth y TLS",
+      "Documentación completa y ejemplos"
+    ],
+    "etica": "Garantiza la transparencia en la fuente de datos y evita la filtración de información sensible, cumpliendo con las mejores prácticas de seguridad.",
+    "limite_gratis": "Plan gratuito con 1000 consultas por mes y acceso limitado a índices premium",
+    "web": "https://anysearch.com/home",
+    "id": "anysearch-4a44f5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-06",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

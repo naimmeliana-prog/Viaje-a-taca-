@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-07-05T10:06:23Z",
+  "actualizado": "2026-07-06T21:27:02Z",
   "novedades": [
+    {
+      "titulo": "Los navegadores de IA llegaron con la promesa de cambiarlo todo. No solo no lo han hecho: son un peligro",
+      "resumen": "Los navegadores de inteligencia artificial no llegaron prometiendo una pestaña más lista ni un buscador con mejores respuestas. Llegaron con una ambición bastante mayor: OpenAI habla de acercarse a un “verdadero superasi",
+      "enlace": "https://www.xataka.com/seguridad/navegadores-ia-llegaron-promesa-cambiarlo-todo-no-solo-no-han-hecho-peligro",
+      "medio": "Xataka",
+      "fecha": "2026-07-06T19:30:54Z"
+    },
+    {
+      "titulo": "China acaba de regular algo que realmente importa: que la IA acabe siendo nuestra amiga o nuestra novia",
+      "resumen": "China ha decidido poner límites a un tipo muy concreto de IA: aquella diseñada para parecer una persona. Doubao (ByteDance) y Qwen (Alibaba) han anunciado que desactivarán sus agentes de IA personalizados antes de que la",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-acaba-regular-algo-que-realmente-importa-que-ia-acabe-siendo-nuestra-amiga-nuestra-novia",
+      "medio": "Xataka",
+      "fecha": "2026-07-06T16:00:54Z"
+    },
+    {
+      "titulo": "Qué es Claude Sonnet 5, el modelo que ahora usan gratis millones de personas",
+      "resumen": "El 30 de junio, Anthropic lanzó Claude Sonnet 5 sin demasiado ruido. Pero trajo un cambio relevante: pasó a ser el modelo por defecto de Claude para quien usa la app gratis o con el [&#8230;] Qué es Claude Sonnet 5, el m",
+      "enlace": "https://blogthinkbig.com/que-es-claude-sonnet-5-el-modelo-que-ahora-usan-gratis-millones-de-personas",
+      "medio": "Think Big",
+      "fecha": "2026-07-06T16:00:00Z"
+    },
+    {
+      "titulo": "Álvaro Grande (Inconcert): «No vendemos licencias, rediseñamos procesos de negocio para humanizar la experiencia del cliente»",
+      "resumen": "Tras asumir la dirección de Inconcert en abril de 2026, Álvaro Grande lidera una transformación estratégica que ha llevado a la compañía a \"la vanguardia de la inteligencia artificial agéntica\" L'articolo Álvaro Grande (",
+      "enlace": "https://www.computing.es/inteligencia-artificial/alvaro-grande-inconcert-no-vendemos-licencias-redisenamos-procesos-de-negocio-para-humanizar-la-experiencia-del-cliente/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-06T10:24:08Z"
+    },
+    {
+      "titulo": "\"La idea de hacer un móvil hace que quiera morirme\": dijo Musk. Dos años después, está dentrísimo con su prototipo de móvil con IA",
+      "resumen": "En octubre de 2024, Elon Musk apareció en un acto electoral en Pensilvania, y allí afirmó que \"La idea de hacer un móvil hace que quiera morirme\" porque era \"mucho trabajo\", pero después añadió que \"si tenemos que hacer ",
+      "enlace": "https://www.xataka.com/moviles/idea-hacer-movil-hace-que-quiera-morirme-dijo-musk-dos-anos-despues-esta-dentrisimo-su-prototipo-movil-ia",
+      "medio": "Xataka",
+      "fecha": "2026-07-06T10:00:54Z"
+    },
+    {
+      "titulo": "Seleccionar todos los semáforos ya no es suficiente para demostrar que no eres un robot. Ahora hay que escanear códigos QR",
+      "resumen": "Hay quien piensa que en internet no hay personas y todo son bots, es lo que se conoce como&nbsp;teoría del internet muerto. Durante años, hemos usado la tecnología captcha para demostrar que no somos robots, pero los tes",
+      "enlace": "https://www.xataka.com/seguridad/seleccionar-todos-semaforos-no-suficiente-para-demostrar-que-no-eres-robot-ahora-hay-que-escanear-codigos-qr",
+      "medio": "Xataka",
+      "fecha": "2026-07-06T09:00:55Z"
+    },
+    {
+      "titulo": "Mientras la mayoría se opone a los centros de datos de IA hay un grupo entusiasmado con ellos: los ladrones de mercancías",
+      "resumen": "En Estados Unidos, se concentra al menos un tercio de todos los centros de datos del mundo. Con la inversión alcanzando cotas demenciales, cada vez se construyen infraestructuras más grandes y potentes para desgracia de ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mayoria-se-opone-a-centros-datos-ia-hay-grupo-entusiasmado-ellos-ladrones-mercancias",
+      "medio": "Xataka",
+      "fecha": "2026-07-05T17:00:00Z"
+    },
     {
       "titulo": "El gran tapado de la IA: el gigante de los váteres inteligentes japonés gastará 500 millones en chips del futuro",
       "resumen": "Si has viajado a Asia a países como Japón, China o Singapur, es posible que a lo largo de tu periplo hayas puesto las posaderas en un inodoro inteligente. Y también es probable que ese vater inteligente fuera de la marca",
@@ -37,13 +86,6 @@
       "fecha": "2026-07-03T12:30:44Z"
     },
     {
-      "titulo": "\"El Papa está trabajando para los comunistas chinos\": Peter Thiel cree que la Santa Sede está cometiendo un craso error",
-      "resumen": "Peter Thiel no se suele morder la lengua, y no lo hizo hace unos días en el Aspen Ideas Festival. El inversor y cofundador de Palantir y PayPal participó en una charla en la que acusó al Papa León XIV de estar (sin saber",
-      "enlace": "https://www.xataka.com/robotica-e-ia/papa-esta-trabajando-para-comunistas-chinos-peter-thiel-cree-que-santa-sede-esta-cometiendo-craso-error",
-      "medio": "Xataka",
-      "fecha": "2026-07-03T10:30:43Z"
-    },
-    {
       "titulo": "Cómo borrar tu huella digital de internet usando IA",
       "resumen": "Todos dejamos un rastro constante en internet, la mayoría de las veces sin darnos cuenta. Te registras en un foro para leer un hilo, aceptas unas cookies sin mirar, y años después esa información acaba [&#8230;] Cómo bor",
       "enlace": "https://blogthinkbig.com/como-borrar-huella-digital-ia",
@@ -56,34 +98,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/ia-soberana-la-nueva-frontera-para-una-adopcion-responsable-de-la-inteligencia-artificial/",
       "medio": "Computing.es",
       "fecha": "2026-07-03T09:45:08Z"
-    },
-    {
-      "titulo": "Una empresa china cree tener en sus manos el nuevo filón de la robótica: robots humanoides de compañía desde 15.000 euros",
-      "resumen": "UBTech Robotics acaba de presentar en Shenzhen su primer robot no pensado para entornos industriales, sino para poder usarlo en entornos domésticos. Se llama U1, tiene piel de silicona, pelo real y una \"IA emocional\" que",
-      "enlace": "https://www.xataka.com/robotica-e-ia/empresa-china-cree-tener-sus-manos-nuevo-filon-robotica-robos-humanoides-compania-15-000-euros",
-      "medio": "Xataka",
-      "fecha": "2026-07-03T09:30:00Z"
-    },
-    {
-      "titulo": "Meta se pasa al otro lado del mostrador de la IA. Está pasando de comprar cómputo a venderlo",
-      "resumen": "Meta está diseñando un negocio de computación en la nube para vender a terceros el exceso de capacidad de sus centros de datos de IA, según ha adelantado Bloomberg. La empresa valora dos vías: Ofrecer acceso a modelos al",
-      "enlace": "https://www.xataka.com/empresas-y-economia/meta-se-pasa-al-otro-lado-mostrador-ia-esta-pasando-comprar-computo-a-venderlo",
-      "medio": "Xataka",
-      "fecha": "2026-07-03T09:15:54Z"
-    },
-    {
-      "titulo": "El nuevo fichaje estrella de la IA no es un ingeniero ni un científico de datos, pero domina el estoicismo: los filósofos",
-      "resumen": "Hace poco menos de una década, estudiar filosofía traía implícita una pregunta: \"¿Y de qué vas a vivir?\". Como muchas otras carreras de la rama de Humanidades, la filosofía registraba una baja tasa de inserción laboral. ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nuevo-fichaje-estrella-ia-no-ingeniero-cientifico-datos-domina-estoicismo-filosofos",
-      "medio": "Xataka",
-      "fecha": "2026-07-03T06:31:54Z"
-    },
-    {
-      "titulo": "La NASA ha conseguido que un satélite “entienda” lo que ve, sin mandar ni una foto a la Tierra",
-      "resumen": "El papel de los satélites es sencillo. Toman datos, los envían a la Tierra y, una vez aquí, se analizan. Hasta ahora, eso está siendo viable. Sin embargo, el proceso se está complicando. Cada vez hay más satélites (hola,",
-      "enlace": "https://www.xataka.com/espacio/nasa-ha-conseguido-que-satelite-entienda-que-ve-mandar-foto-a-tierra",
-      "medio": "Xataka",
-      "fecha": "2026-07-03T06:01:54Z"
     },
     {
       "titulo": "Cuando ni Google puede con la demanda: el racionamiento de Gemini a Meta",
@@ -149,13 +163,6 @@
       "fecha": "2026-06-26T12:00:00Z"
     },
     {
-      "titulo": "Los beneficios extra de Gemini Pro que no conoces",
-      "resumen": "Hoy en día es bastante común ser cliente de algún servicio de pago de inteligencia artificial. En el panorama actual, el mercado de asistentes de inteligencia artificial generativa tiene un estándar de precios definido. ",
-      "enlace": "https://blogthinkbig.com/google-ai-pro-ventajas-gemini-one",
-      "medio": "Think Big",
-      "fecha": "2026-06-26T09:43:55Z"
-    },
-    {
       "titulo": "Del hype a la estrategia: cómo integrar la inteligencia artificial con impacto real en las organizaciones",
       "resumen": "Las organizaciones ya no se preguntan qué puede hacer la IA, sino cómo integrarla para que impacte de forma real en su cuenta de resultados L'articolo Del hype a la estrategia: cómo integrar la inteligencia artificial co",
       "enlace": "https://www.computing.es/inteligencia-artificial/del-hype-a-la-estrategia-como-integrar-la-inteligencia-artificial-con-impacto-real-en-las-organizaciones/",
@@ -203,16 +210,16 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/hbx-group-aplica-ia-agentica-a-su-servicio-de-atencion-al-cliente-de-la-mano-de-ayesa-digital/",
       "medio": "Computing.es",
       "fecha": "2026-06-23T08:35:32Z"
-    },
-    {
-      "titulo": "Las 11 mejoras de Apple Intelligence con iOS 27. Solamente hay una que no llegará a Europa (de momento)",
-      "resumen": "Con iOS 27 (y con la ayuda de Google), Apple por fin mejora la IA nativa del iPhone para mejorar funciones que ya teníamos con Apple Intelligence y mejorar otras tantas. Algunas de las más interesantes no parecen llegar ",
-      "enlace": "https://www.applesfera.com/ios/11-mejoras-apple-intelligence-ios-27-solamente-hay-que-no-llegara-a-europa-momento",
-      "medio": "Applesfera",
-      "fecha": "2026-06-22T13:50:37Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "China acaba de regular algo que realmente importa: que la IA acabe siendo nuestra amiga o nuestra novia",
+      "resumen": "China ha decidido poner límites a un tipo muy concreto de IA: aquella diseñada para parecer una persona. Doubao (ByteDance) y Qwen (Alibaba) han anunciado que desactivarán sus agentes de IA personalizados antes de que la",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-acaba-regular-algo-que-realmente-importa-que-ia-acabe-siendo-nuestra-amiga-nuestra-novia",
+      "medio": "Xataka",
+      "fecha": "2026-07-06T16:00:54Z"
+    },
     {
       "titulo": "Cuando ni Google puede con la demanda: el racionamiento de Gemini a Meta",
       "resumen": "Cada vez que preguntamos algo a Gemini o a ChatGPT, damos por hecho que hay potencia de sobra detrás. Pero esa potencia también tiene límite, y Google acaba de chocar con él. Se ha sabido [&#8230;] Cuando ni Google puede",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
       "medio": "Xataka",
       "fecha": "2025-09-08T16:30:00Z"
-    },
-    {
-      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
-      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
-      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
-      "medio": "Xataka",
-      "fecha": "2025-09-05T17:44:00Z"
     }
   ]
 }
