@@ -5680,7 +5680,7 @@
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Fuser Apps",
@@ -6460,7 +6460,7 @@
     "tipo": "Herramienta de traducción",
     "precio": "Freemium",
     "descripcion": "Traducción bidireccional entre japonés, inglés y chino con modos de traducción, corrección y preguntas.",
-    "web": "https://sakana.ai/translate",
+    "web": "https://sakana.ai/translate-release/",
     "funciones": [
       "Traducción instantánea entre los tres idiomas",
       "Corrección gramatical y de estilo",
@@ -6482,7 +6482,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "CodeMote",
@@ -6490,7 +6491,7 @@
     "tipo": "Asistente de programación / Agente IA",
     "precio": "Freemium",
     "descripcion": "Agente de código IA que permite programar desde el iPhone, conectado mediante una CLI móvil.",
-    "web": "https://codemote.ai",
+    "web": "https://exploreai.tools/tools/codemote",
     "funciones": [
       "Generación de código en múltiples lenguajes",
       "Refactorización automática",
@@ -6512,7 +6513,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Mozaik",
@@ -6550,7 +6552,7 @@
     "tipo": "Productividad / Configuración de sistema",
     "precio": "Freemium",
     "descripcion": "Configuración Nix-darwin que permite gestionar macOS con lenguaje natural en lugar de comandos técnicos.",
-    "web": "https://nixmac.dev",
+    "web": "https://github.com/darkmatter/nixmac",
     "funciones": [
       "Declarar configuraciones con lenguaje natural",
       "Generar scripts Nix automáticamente",
@@ -6572,7 +6574,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Octolens",
@@ -6634,7 +6637,7 @@
     "fecha_agregado": "2026-07-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AnySearch",
@@ -6663,6 +6666,220 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ogment AI",
+    "compania": "Ogment AI",
+    "tipo": "Chatbot / Asistente de productividad",
+    "precio": "Freemium",
+    "descripcion": "Asistente de IA integrado en Slack que ayuda a los usuarios a gestionar tareas, responder preguntas y automatizar flujos de trabajo con simples menciones.",
+    "web": "https://ogment.ai",
+    "funciones": [
+      "Responder preguntas frecuentes",
+      "Generar resúmenes de conversaciones",
+      "Automatizar recordatorios y tareas",
+      "Integrar con otras aplicaciones",
+      "Sugerir respuestas contextuales"
+    ],
+    "caracteristicas": [
+      "Integración nativa con Slack",
+      "Activación mediante etiqueta @O",
+      "Personalización de tono y estilo",
+      "Seguridad de datos en la nube",
+      "Soporte multilingüe"
+    ],
+    "etica": "Protege la privacidad de los mensajes y no almacena datos sensibles sin consentimiento. Se implementan filtros de sesgo para evitar respuestas inapropiadas.",
+    "limite_gratis": "Plan gratuito permite hasta 500 interacciones mensuales y acceso a funciones básicas; las funciones avanzadas y la integración con CRM requieren suscripción.",
+    "id": "ogment-ai-cfe8e0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-07",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Katalyst",
+    "compania": "Katalyst",
+    "tipo": "Agente IA / CRM / Ventas",
+    "precio": "Freemium",
+    "descripcion": "Agente de IA que optimiza y automatiza el flujo de ventas en Salesforce, ofreciendo insights y tareas automatizadas para cerrar negocios más rápido.",
+    "web": "https://katalyst.ai",
+    "funciones": [
+      "Automatizar tareas de entrada de datos",
+      "Priorizar leads según probabilidad de cierre",
+      "Generar pronósticos de ventas",
+      "Sugerir acciones de seguimiento",
+      "Integrar con email y calendario"
+    ],
+    "caracteristicas": [
+      "Integración profunda con Salesforce",
+      "Algoritmos de aprendizaje automático",
+      "Panel de control de métricas en tiempo real",
+      "Alertas y notificaciones instantáneas",
+      "Configuración de reglas personalizadas"
+    ],
+    "etica": "Respeta la privacidad de los clientes y cumple con GDPR; los datos se procesan en servidores seguros y se anonimiza la información sensible.",
+    "limite_gratis": "Plan gratuito incluye 50 leads gestionados y acceso a funciones básicas; la automatización avanzada y el análisis predictivo requieren suscripción.",
+    "id": "katalyst-495b87",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-07",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Badge",
+    "compania": "Badge",
+    "tipo": "Productividad / Verificación de reputación",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que permite a profesionales y comunidades recopilar y verificar reseñas de IA para crear pruebas de trabajo verificables.",
+    "web": "https://badge.ai",
+    "funciones": [
+      "Recopilar reseñas de pares",
+      "Verificar autenticidad con IA",
+      "Generar certificados de habilidades",
+      "Integrar con portafolios y perfiles",
+      "Publicar resultados en redes profesionales"
+    ],
+    "caracteristicas": [
+      "IA de verificación de contenido",
+      "Sistema de reputación descentralizado",
+      "API para integraciones externas",
+      "Notificaciones automáticas",
+      "Soporte multilingüe"
+    ],
+    "etica": "Garantiza la transparencia y evita la manipulación de reseñas; los datos se almacenan con cifrado y se respetan los derechos de autor.",
+    "limite_gratis": "Plan gratuito permite 10 reseñas verificadas y 1 certificado; la creación de múltiples certificados y la integración avanzada requieren suscripción.",
+    "id": "badge-454a5c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-07",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Zoho Tables",
+    "descripcion": "Herramienta de gestión de datos y trabajo colaborativo que combina hojas de cálculo con bases de datos para facilitar la organización y análisis.",
+    "compania": "Zoho",
+    "tipo": "Productividad / Gestión de datos",
+    "precio": "Freemium",
+    "funciones": [
+      "Crear y editar tablas",
+      "Automatizar flujos de trabajo",
+      "Visualizar datos con gráficos",
+      "Colaborar en tiempo real",
+      "Integrar con otras apps Zoho"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva y drag‑and‑drop",
+      "Fórmulas avanzadas y validaciones",
+      "Reglas de automatización y triggers",
+      "Seguridad de datos y control de acceso",
+      "API y webhooks para integraciones"
+    ],
+    "etica": "Cumple con normas de privacidad y ofrece controles de acceso granular; los datos se almacenan en servidores seguros.",
+    "limite_gratis": "Plan gratuito permite 5 tablas y 500 registros por tabla; las tablas ilimitadas y la automatización avanzada requieren suscripción.",
+    "web": "https://www.zoho.com/tables/",
+    "id": "zoho-tables-aad06c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-07",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ellis",
+    "descripcion": "Aplicación que captura y organiza notas de reuniones presenciales con IA, generando resúmenes y tareas automáticamente.",
+    "compania": "Ellis",
+    "tipo": "Productividad / Asistente de reuniones",
+    "precio": "Freemium",
+    "funciones": [
+      "Grabar audio y transcribir en tiempo real",
+      "Resumir puntos clave y decisiones",
+      "Asignar tareas y recordatorios",
+      "Compartir notas con participantes",
+      "Integrar con calendarios y agendas"
+    ],
+    "caracteristicas": [
+      "Reconocimiento de voz avanzado",
+      "Etiquetado automático de participantes",
+      "Exportación a PDF, Word y formatos de notas",
+      "Seguridad de datos y cifrado",
+      "Soporte multilingüe y localización"
+    ],
+    "etica": "Protege la confidencialidad de las conversaciones y no comparte datos sin consentimiento; se implementan filtros de sesgo.",
+    "limite_gratis": "Plan gratuito permite 3 reuniones por mes y 30 minutos de grabación; las reuniones ilimitadas y la transcripción avanzada requieren suscripción.",
+    "web": "https://www.ellis.com.ai/",
+    "id": "ellis-58da3c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-07",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Scribble Network",
+    "descripcion": "Plataforma que utiliza IA para recomendar y posicionar marcas en función de datos de mercado y preferencias del consumidor.",
+    "compania": "Scribble Network",
+    "tipo": "Marketing / Recomendaciones de marca",
+    "precio": "Freemium",
+    "funciones": [
+      "Analizar tendencias de mercado",
+      "Generar recomendaciones de branding",
+      "Optimizar campañas publicitarias",
+      "Medir impacto y ROI",
+      "Integrar con plataformas de e‑commerce"
+    ],
+    "caracteristicas": [
+      "Algoritmos de aprendizaje profundo",
+      "Dashboard interactivo y visualizaciones",
+      "Integración con redes sociales y CRM",
+      "Personalización de perfiles de marca",
+      "Reportes automáticos y alertas"
+    ],
+    "etica": "Respeta la privacidad del usuario y evita la manipulación de datos; los algoritmos se revisan para minimizar sesgos.",
+    "limite_gratis": "Plan gratuito ofrece análisis de 5 marcas y 10 recomendaciones mensuales; la recomendación ilimitada y la integración con CRM requieren suscripción.",
+    "web": "https://scribble.network/",
+    "id": "scribble-network-46d986",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-07",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "LongCat-2.0",
+    "descripcion": "Modelo de lenguaje de 1.6 billones de parámetros entrenado en ASICs de IA, diseñado para tareas de generación de texto y comprensión avanzada.",
+    "compania": "LongCat",
+    "tipo": "Generación de texto / Modelo de lenguaje",
+    "precio": "Pago",
+    "funciones": [
+      "Generar textos coherentes y creativos",
+      "Responder preguntas y consultas",
+      "Traducir entre idiomas",
+      "Resumir documentos extensos",
+      "Analizar sentimientos y tono"
+    ],
+    "caracteristicas": [
+      "1.6T parámetros para alta precisión",
+      "Entrenado en ASICs para eficiencia energética",
+      "API de alta velocidad y baja latencia",
+      "Personalización de dominio y estilo",
+      "Seguridad de datos y cumplimiento de normativas"
+    ],
+    "etica": "El modelo se entrena con datos públicos y se implementan filtros para evitar contenido ofensivo; se garantiza la protección de la privacidad de los usuarios.",
+    "limite_gratis": "Sin plan gratuito; acceso solo mediante suscripción empresarial.",
+    "web": "https://longcat.ai/",
+    "id": "longcat-2-0-534300",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-07",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
