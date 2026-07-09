@@ -5673,14 +5673,14 @@
     ],
     "etica": "Garantiza la privacidad de los datos de los usuarios durante las transmisiones.",
     "limite_gratis": "Qué ofrece o qué limita el plan GRATUITO: funciones básicas de grabación y transmisión.",
-    "web": "https://www.producthunt.com/products/lighttwist",
+    "web": "https://www.lighttwist.net/",
     "id": "lighttwist-62ee32",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "Fuser Apps",
@@ -6491,7 +6491,7 @@
     "tipo": "Asistente de programación / Agente IA",
     "precio": "Freemium",
     "descripcion": "Agente de código IA que permite programar desde el iPhone, conectado mediante una CLI móvil.",
-    "web": "https://exploreai.tools/tools/codemote",
+    "web": "https://codemote.caste.work/",
     "funciones": [
       "Generación de código en múltiples lenguajes",
       "Refactorización automática",
@@ -6630,14 +6630,14 @@
     ],
     "etica": "Mantiene los datos del usuario en el dispositivo y evita la exposición a terceros, garantizando la confidencialidad de la información personal.",
     "limite_gratis": "Plan gratuito con 500 sugerencias diarias y sin acceso a modelos avanzados",
-    "web": "https://www.producthunt.com/products/typeahead",
+    "web": "https://www.typeahead.ai/",
     "id": "typeahead-2-0-ea694c",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "AnySearch",
@@ -6736,7 +6736,7 @@
     "tipo": "Productividad / Verificación de reputación",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite a profesionales y comunidades recopilar y verificar reseñas de IA para crear pruebas de trabajo verificables.",
-    "web": "https://badge.ai",
+    "web": "",
     "funciones": [
       "Recopilar reseñas de pares",
       "Verificar autenticidad con IA",
@@ -6758,7 +6758,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-07",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Zoho Tables",
@@ -6880,6 +6881,190 @@
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-07-07",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Opper AI",
+    "compania": "Opper AI",
+    "tipo": "Agentes IA",
+    "descripcion": "Plataforma europea de IA para agentes con enfoque en privacidad y cumplimiento normativo.",
+    "web": "https://opper.ai",
+    "funciones": [
+      "Creación de agentes de IA",
+      "Automatización de tareas",
+      "Integración con sistemas externos",
+      "Gestión de flujos de trabajo",
+      "Monitoreo de cumplimiento normativo"
+    ],
+    "caracteristicas": [
+      "Enfoque en privacidad",
+      "Cumplimiento normativo",
+      "Interfaz intuitiva",
+      "Escalabilidad",
+      "Soporte multilingüe"
+    ],
+    "etica": "Prioriza la privacidad del usuario y el cumplimiento de regulaciones como el RGPD, minimizando riesgos de sesgos en los datos.",
+    "precio": "Freemium",
+    "limite_gratis": "Ofrece acceso limitado a funciones básicas de agentes IA sin costo.",
+    "id": "opper-ai-74ef06",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Datalab Lift",
+    "compania": "Datalab",
+    "tipo": "Extracción de datos",
+    "descripcion": "Herramienta de extracción de datos basada en esquemas para PDFs e imágenes.",
+    "web": "https://datalab.ai/lift",
+    "funciones": [
+      "Extracción de datos estructurados",
+      "Procesamiento de PDFs",
+      "Análisis de imágenes",
+      "Integración con bases de datos",
+      "Validación de esquemas"
+    ],
+    "caracteristicas": [
+      "Esquemas personalizables",
+      "Alta precisión en extracción",
+      "Soporte para múltiples formatos",
+      "Interfaz visual intuitiva",
+      "Escalabilidad"
+    ],
+    "etica": "Minimiza sesgos en la extracción de datos mediante validación de esquemas y transparencia en los algoritmos.",
+    "precio": "Freemium",
+    "limite_gratis": "Permite procesar un número limitado de documentos al mes.",
+    "id": "datalab-lift-9696c5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Lispr",
+    "descripcion": "Herramienta que permite escribir código en cualquier lugar mediante comandos de voz.",
+    "compania": "Lispr",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Escritura de código por voz",
+      "Integración con editores de código",
+      "Soporte para múltiples lenguajes",
+      "Autocompletado de código",
+      "Gestión de snippets"
+    ],
+    "caracteristicas": [
+      "Reconocimiento de voz avanzado",
+      "Compatibilidad con IDEs",
+      "Personalización de comandos",
+      "Sincronización en la nube",
+      "Soporte multilingüe"
+    ],
+    "etica": "Respeta la privacidad del usuario al no almacenar datos de voz sin consentimiento.",
+    "limite_gratis": "Ofrece acceso limitado a funciones de reconocimiento de voz.",
+    "web": "https://lispr.ai/",
+    "id": "lispr-0727d7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Just Ask by SEORCE",
+    "descripcion": "Herramienta para consultar datos de SEO y visibilidad en WhatsApp.",
+    "compania": "SEORCE",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Consulta de datos de SEO",
+      "Análisis de visibilidad en motores de búsqueda",
+      "Integración con WhatsApp",
+      "Generación de informes",
+      "Monitoreo de palabras clave"
+    ],
+    "caracteristicas": [
+      "Interfaz conversacional",
+      "Acceso a datos en tiempo real",
+      "Soporte multilingüe",
+      "Personalización de informes",
+      "Integración con herramientas de SEO"
+    ],
+    "etica": "Protege los datos del usuario mediante encriptación y cumplimiento de políticas de privacidad.",
+    "limite_gratis": "Permite un número limitado de consultas por mes.",
+    "web": "https://seorce.com/",
+    "id": "just-ask-by-seorce-511b31",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "GPT-Live",
+    "descripcion": "Herramienta que permite interacción en tiempo real con ChatGPT mediante voz.",
+    "compania": "GPT-Live",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Interacción en tiempo real con ChatGPT",
+      "Reconocimiento de voz",
+      "Respuesta de voz",
+      "Integración con aplicaciones",
+      "Personalización de respuestas"
+    ],
+    "caracteristicas": [
+      "Full-duplex de voz",
+      "Baja latencia",
+      "Soporte multilingüe",
+      "Interfaz intuitiva",
+      "Escalabilidad"
+    ],
+    "etica": "Respeta la privacidad del usuario al no almacenar conversaciones sin consentimiento.",
+    "limite_gratis": "Ofrece acceso limitado a funciones de interacción en tiempo real.",
+    "web": "https://openai.com/",
+    "id": "gpt-live-0aefe4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Timbal AI",
+    "descripcion": "Plataforma para construir agentes de IA, flujos de trabajo y aplicaciones en un solo entorno.",
+    "compania": "Timbal AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de agentes de IA",
+      "Diseño de flujos de trabajo",
+      "Desarrollo de aplicaciones",
+      "Integración con APIs",
+      "Gestión de datos"
+    ],
+    "caracteristicas": [
+      "Entorno unificado",
+      "Escalabilidad",
+      "Soporte multilingüe",
+      "Interfaz visual",
+      "Automatización de tareas"
+    ],
+    "etica": "Promueve el uso responsable de la IA mediante transparencia en los algoritmos y protección de datos.",
+    "limite_gratis": "Permite construir proyectos básicos con funcionalidades limitadas.",
+    "web": "https://github.com/timbal-ai",
+    "id": "timbal-ai-e15e1f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-09",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

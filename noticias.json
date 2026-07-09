@@ -1,6 +1,97 @@
 {
-  "actualizado": "2026-07-07T10:49:43Z",
+  "actualizado": "2026-07-09T10:49:33Z",
   "novedades": [
+    {
+      "titulo": "Cómo internet se está blindando ante la inminente revolución cuántica",
+      "resumen": "Durante siglos, para asegurar la autenticidad de un documento bastaba con aplicar un sello de cera. Hoy confiamos en algoritmos matemáticos que protegen desde nuestras compras online hasta los secretos industriales más s",
+      "enlace": "https://blogthinkbig.com/criptografia-postcuantica-seguridad-internet",
+      "medio": "Think Big",
+      "fecha": "2026-07-09T09:28:11Z"
+    },
+    {
+      "titulo": "Un profesor sospechaba que sus alumnos habían hecho trampas con IA. Hizo el examen en persona y las notas bajaron a la mitad",
+      "resumen": "En diciembre de 2025, un tiroteo en el campus de la Universidad de Brown causó la muerte de dos personas. Una de ellas acababa de presentarse a uno de los profesores de esa universidad, el español Roberto Serrano. La tra",
+      "enlace": "https://www.xataka.com/robotica-e-ia/profesor-sospechaba-que-sus-alumnos-habian-hecho-trampas-ia-hizo-examen-persona-notas-bajaron-a-mitad",
+      "medio": "Xataka",
+      "fecha": "2026-07-09T09:15:19Z"
+    },
+    {
+      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"El usuario de a pie debería estar preocupado porque el phishing se está refinando con IA\"",
+      "resumen": "La IA está cambiándolo todo, también la ciberseguridad. El lanzamiento de Claude Mythos hace un par de meses hizo saltar las alarmas: la IA ya es capaz de encontrar decenas de vulnerabilidades que llevaban años ocultas. ",
+      "enlace": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-usuario-a-pie-deberia-estar-preocupado-porque-phishing-se-esta-refinando-ia",
+      "medio": "Xataka",
+      "fecha": "2026-07-09T07:01:19Z"
+    },
+    {
+      "titulo": "OpenAI acaba de lanzar GPT-Live: el modo de voz de ChatGPT ha aprendido a escuchar, callarse y responder mejor",
+      "resumen": "Greg Brockman empezó el directo de OpenAI haciendo algo muy sencillo: hablar con ChatGPT y cortarle mientras respondía. Lo que importaba no eran las preguntas, sino la reacción del sistema. En lugar de detenerse con un c",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-acaba-lanzar-gpt-live-modo-voz-chatgpt-ha-aprendido-a-escuchar-callarse-responder-mejor",
+      "medio": "Xataka",
+      "fecha": "2026-07-08T17:42:00Z"
+    },
+    {
+      "titulo": "iOS 27 está bien, pero si pruebas estas ocho funciones en tu iPhone es todavía mejor",
+      "resumen": "Si eres de los que no esperó a la beta pública de iOS 27 y estás ya con la beta 3 para desarrolladores, quizás se te hayan pasado por alto algunas de las novedades que trae este nuevo iOS 27. Aquí repaso las ocho que más",
+      "enlace": "https://www.applesfera.com/ios/ios-27-esta-bien-pruebas-estas-ocho-funciones-tu-iphone-todavia-mejor",
+      "medio": "Applesfera",
+      "fecha": "2026-07-08T14:00:03Z"
+    },
+    {
+      "titulo": "Ganar 180.000 dólares al año ya no da para vivir en San Francisco. El boom de la IA se ha comido a la clase media tecnológica",
+      "resumen": "En San Francisco puedes ganar 180.000 dólares al año y no llegar tranquilo a fin de mes. El boom de la IA está haciendo que, lo que en cualquier otro lugar sería un sueldazo, sea simple calderilla, impidiendo la entrada ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/ganar-180-000-dolares-al-ano-no-da-para-vivir-san-francisco-boom-ia-se-ha-comido-a-clase-media-tecnologica",
+      "medio": "Xataka",
+      "fecha": "2026-07-08T12:01:19Z"
+    },
+    {
+      "titulo": "Cualquiera puede etiquetarte en Instagram para generar deepfakes de IA con tus fotos. Es Meta siendo Meta",
+      "resumen": "Meta ha lanzado Muse Image y Muse Video, los primeros modelos de IA generativa de imágenes y vídeos de su división Meta Superintelligence Labs. Con el de imágenes quiere desde luego plantar cara a GPT Image 2.0 de OpenAI",
+      "enlace": "https://www.xataka.com/robotica-e-ia/meta-tiene-su-rival-para-nanob-banana-2-su-problema-siempre-invadir-piedad-nuestra-privacidad",
+      "medio": "Xataka",
+      "fecha": "2026-07-08T11:45:00Z"
+    },
+    {
+      "titulo": "Los líderes financieros españoles exigen más transparencia a la IA",
+      "resumen": "Un estudio de Sage revela que casi siete de cada diez líderes financieros en España rechazarían resultados de IA que no puedan explicar L'articolo Los líderes financieros españoles exigen más transparencia a la IA provie",
+      "enlace": "https://www.computing.es/inteligencia-artificial/los-lideres-financieros-espanoles-exigen-mas-transparencia-a-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-08T08:20:18Z"
+    },
+    {
+      "titulo": "EEUU enseñó que el acceso a la IA avanzada puede cortarse. China estudia lo mismo, según Reuters, y Europa mira desde fuera",
+      "resumen": "Cuando Estados Unidos activó controles de exportación que acabaron llevando a Anthropic a desactivar Fable 5 y Mythos 5 para todos sus usuarios, quedó expuesta una realidad difícil de ignorar: el acceso a la IA avanzada ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-enseno-que-acceso-a-ia-avanzada-puede-cortarse-china-estudia-reuters-europa-mira-fuera",
+      "medio": "Xataka",
+      "fecha": "2026-07-07T23:02:00Z"
+    },
+    {
+      "titulo": "DeepSeek ya no quiere competir solo con modelos. Su nuevo frente apunta directamente al negocio de NVIDIA, según Reuters",
+      "resumen": "En poco más de un año, DeepSeek ha dejado de sonar como una rareza de la industria china para convertirse en uno de esos nombres que ya aparecen cada vez que hablamos de la carrera global de la inteligencia artificial. P",
+      "enlace": "https://www.xataka.com/robotica-e-ia/deepseek-no-quiere-competir-solo-modelos-su-nuevo-frente-apunta-directamente-al-negocio-nvidia-reuters",
+      "medio": "Xataka",
+      "fecha": "2026-07-07T19:31:18Z"
+    },
+    {
+      "titulo": "El modelo de IA Qwen de Alibaba es la nueva joya de la corona. El único problema es que no ganan dinero con él",
+      "resumen": "Jack Ma regresaba cual hijo pródigo al panorama internacional en febrero del año pasado. Lo hacía en un acto junto al presidente de China, Xi Jinping, y aquello suponía un importante respaldo para el líder tecnológico. D",
+      "enlace": "https://www.xataka.com/robotica-e-ia/modelo-ia-qwen-alibaba-nueva-joya-corona-unico-problema-que-no-ganan-dinero",
+      "medio": "Xataka",
+      "fecha": "2026-07-07T14:30:40Z"
+    },
+    {
+      "titulo": "Samsung gana 19 veces más que hace un año. Los inversores han reaccionado hundiendo la acción un 7%",
+      "resumen": "Samsung ha anunciado que su beneficio operativo se disparó hasta los 89,4 billones de wones (58.400 millones de dólares) en el segundo trimestre de 2026. Eso representa un 1.810% más que lo que logró el año pasado, es de",
+      "enlace": "https://www.xataka.com/empresas-y-economia/samsung-gana-19-veces-que-hace-ano-inversores-han-reaccionado-hundiendo-accion-7",
+      "medio": "Xataka",
+      "fecha": "2026-07-07T14:16:40Z"
+    },
+    {
+      "titulo": "La solución de EEUU para que su red eléctrica aguante la ola de calor: dejar que los centros de datos contaminen sin límite",
+      "resumen": "El verano de 2026 empezó fuerte con la primera ola de calor extremo. Hemos hablado del calor en España y en toda Europa, pero en Estados Unidos tampoco se han librado de las consecuencias. Con los aires acondicionados fu",
+      "enlace": "https://www.xataka.com/energia/solucion-eeuu-su-red-electrica-aguante-ola-calor-dejar-que-centros-datos-contaminen-limite",
+      "medio": "Xataka",
+      "fecha": "2026-07-07T14:00:41Z"
+    },
     {
       "titulo": "\"Hay desarrolladores programando a 10.000 metros de altura en un avión\", Doug Brooks, gerente de Apple Silicon habla del mejor Mac para la IA",
       "resumen": "La conversación sobre inteligencia artificial en Apple suele girar alrededor de Apple Intelligence o la nueva Siri AI, pero lo cierto es que su estrategia va más allá de su IA propia. Cada vez hay más desarrolladores usa",
@@ -23,27 +114,6 @@
       "fecha": "2026-07-07T06:39:11Z"
     },
     {
-      "titulo": "“Claude ha desarrollado un mecanismo para el acceso consciente”: Anthropic acaba de abrir una grieta en la caja negra de la IA",
-      "resumen": "Estamos acostumbrados a pensar que quien construye algo sabe explicar cómo funciona por dentro. Un motor, un procesador, una pieza de software: puede haber complejidad, capas y decisiones técnicas difíciles de seguir, pe",
-      "enlace": "https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia",
-      "medio": "Xataka",
-      "fecha": "2026-07-07T06:30:53Z"
-    },
-    {
-      "titulo": "Los navegadores de IA llegaron con la promesa de cambiarlo todo. No solo no lo han hecho: son un peligro",
-      "resumen": "Los navegadores de inteligencia artificial no llegaron prometiendo una pestaña más lista ni un buscador con mejores respuestas. Llegaron con una ambición bastante mayor: OpenAI habla de acercarse a un “verdadero superasi",
-      "enlace": "https://www.xataka.com/seguridad/navegadores-ia-llegaron-promesa-cambiarlo-todo-no-solo-no-han-hecho-peligro",
-      "medio": "Xataka",
-      "fecha": "2026-07-06T19:30:54Z"
-    },
-    {
-      "titulo": "China acaba de regular algo que realmente importa: que la IA acabe siendo nuestra amiga o nuestra novia",
-      "resumen": "China ha decidido poner límites a un tipo muy concreto de IA: aquella diseñada para parecer una persona. Doubao (ByteDance) y Qwen (Alibaba) han anunciado que desactivarán sus agentes de IA personalizados antes de que la",
-      "enlace": "https://www.xataka.com/robotica-e-ia/china-acaba-regular-algo-que-realmente-importa-que-ia-acabe-siendo-nuestra-amiga-nuestra-novia",
-      "medio": "Xataka",
-      "fecha": "2026-07-06T16:00:54Z"
-    },
-    {
       "titulo": "Qué es Claude Sonnet 5, el modelo que ahora usan gratis millones de personas",
       "resumen": "El 30 de junio, Anthropic lanzó Claude Sonnet 5 sin demasiado ruido. Pero trajo un cambio relevante: pasó a ser el modelo por defecto de Claude para quien usa la app gratis o con el [&#8230;] Qué es Claude Sonnet 5, el m",
       "enlace": "https://blogthinkbig.com/que-es-claude-sonnet-5-el-modelo-que-ahora-usan-gratis-millones-de-personas",
@@ -58,74 +128,11 @@
       "fecha": "2026-07-06T10:24:08Z"
     },
     {
-      "titulo": "\"La idea de hacer un móvil hace que quiera morirme\": dijo Musk. Dos años después, está dentrísimo con su prototipo de móvil con IA",
-      "resumen": "En octubre de 2024, Elon Musk apareció en un acto electoral en Pensilvania, y allí afirmó que \"La idea de hacer un móvil hace que quiera morirme\" porque era \"mucho trabajo\", pero después añadió que \"si tenemos que hacer ",
-      "enlace": "https://www.xataka.com/moviles/idea-hacer-movil-hace-que-quiera-morirme-dijo-musk-dos-anos-despues-esta-dentrisimo-su-prototipo-movil-ia",
-      "medio": "Xataka",
-      "fecha": "2026-07-06T10:00:54Z"
-    },
-    {
-      "titulo": "Seleccionar todos los semáforos ya no es suficiente para demostrar que no eres un robot. Ahora hay que escanear códigos QR",
-      "resumen": "Hay quien piensa que en internet no hay personas y todo son bots, es lo que se conoce como&nbsp;teoría del internet muerto. Durante años, hemos usado la tecnología captcha para demostrar que no somos robots, pero los tes",
-      "enlace": "https://www.xataka.com/seguridad/seleccionar-todos-semaforos-no-suficiente-para-demostrar-que-no-eres-robot-ahora-hay-que-escanear-codigos-qr",
-      "medio": "Xataka",
-      "fecha": "2026-07-06T09:00:55Z"
-    },
-    {
-      "titulo": "Mientras la mayoría se opone a los centros de datos de IA hay un grupo entusiasmado con ellos: los ladrones de mercancías",
-      "resumen": "En Estados Unidos, se concentra al menos un tercio de todos los centros de datos del mundo. Con la inversión alcanzando cotas demenciales, cada vez se construyen infraestructuras más grandes y potentes para desgracia de ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mayoria-se-opone-a-centros-datos-ia-hay-grupo-entusiasmado-ellos-ladrones-mercancias",
-      "medio": "Xataka",
-      "fecha": "2026-07-05T17:00:00Z"
-    },
-    {
-      "titulo": "El gran tapado de la IA: el gigante de los váteres inteligentes japonés gastará 500 millones en chips del futuro",
-      "resumen": "Si has viajado a Asia a países como Japón, China o Singapur, es posible que a lo largo de tu periplo hayas puesto las posaderas en un inodoro inteligente. Y también es probable que ese vater inteligente fuera de la marca",
-      "enlace": "https://www.xataka.com/empresas-y-economia/gran-tapado-ia-mayor-fabricante-wc-inteligentes-japon-va-a-gastar-500-millones-chips-futuro",
-      "medio": "Xataka",
-      "fecha": "2026-07-04T12:00:00Z"
-    },
-    {
-      "titulo": "ChatGPT Codex: qué es, qué puedes hacer con él y cómo utilizarlo",
-      "resumen": "Vamos a explicarte qué es y cómo puedes usar ChatGPT Codex, el agente de programación de ChatGPT. Se trata de una opción con la que la inteligencia artificial no se limita a responder preguntas o generar código, sino que",
-      "enlace": "https://www.xataka.com/basics/chatgpt-codex-que-que-puedes-hacer-como-utilizarlo",
-      "medio": "Xataka",
-      "fecha": "2026-07-04T10:00:45Z"
-    },
-    {
-      "titulo": "Mark Zuckerberg no está contento y se lo ha hecho saber a su equipo: \"Tememos no ser lo suficientemente rápidos para adaptarnos\"",
-      "resumen": "Pocas empresas están poniendo tanta carne en el asador como Meta en la carrera de la IA: fracasó estrepitosamente con el multiverso, así que cambió su meta y dirigió todos sus esfuerzos a la inteligencia artificial. De h",
-      "enlace": "https://www.xataka.com/servicios/mark-zuckerberg-no-esta-contento-se-ha-hecho-saber-a-su-equipo-tememos-no-ser-suficientemente-rapidos-para-adaptarnos",
-      "medio": "Xataka",
-      "fecha": "2026-07-04T09:30:44Z"
-    },
-    {
-      "titulo": "El regreso de Fable 5 tiene un problema preocupante: Anthropic lo ha condenado al \"preferiría no hacerlo\"",
-      "resumen": "El narrador anónimo de nuestra historia contrata a un escribiente llamado Bartleby para su despacho de abogados. El empleado comienza a trabajar de forma envidiable, pero a los tres días, algo pasa. El narrador le pide q",
-      "enlace": "https://www.xataka.com/robotica-e-ia/regreso-fable-5-tiene-problema-preocupante-anthropic-ha-condenado-al-preferiria-no-hacerlo",
-      "medio": "Xataka",
-      "fecha": "2026-07-03T14:30:44Z"
-    },
-    {
-      "titulo": "Cómo borrar tu huella digital de internet usando IA",
-      "resumen": "Todos dejamos un rastro constante en internet, la mayoría de las veces sin darnos cuenta. Te registras en un foro para leer un hilo, aceptas unas cookies sin mirar, y años después esa información acaba [&#8230;] Cómo bor",
-      "enlace": "https://blogthinkbig.com/como-borrar-huella-digital-ia",
-      "medio": "Think Big",
-      "fecha": "2026-07-03T09:46:16Z"
-    },
-    {
       "titulo": "IA soberana: la nueva frontera para una adopción responsable de la inteligencia artificial",
       "resumen": "IA soberana: una evolución necesaria hacia un modelo donde la innovación y la gobernanza del dato conviven de forma equilibrada L'articolo IA soberana: la nueva frontera para una adopción responsable de la inteligencia a",
       "enlace": "https://www.computing.es/inteligencia-artificial/ia-soberana-la-nueva-frontera-para-una-adopcion-responsable-de-la-inteligencia-artificial/",
       "medio": "Computing.es",
       "fecha": "2026-07-03T09:45:08Z"
-    },
-    {
-      "titulo": "Cuando ni Google puede con la demanda: el racionamiento de Gemini a Meta",
-      "resumen": "Cada vez que preguntamos algo a Gemini o a ChatGPT, damos por hecho que hay potencia de sobra detrás. Pero esa potencia también tiene límite, y Google acaba de chocar con él. Se ha sabido [&#8230;] Cuando ni Google puede",
-      "enlace": "https://blogthinkbig.com/cuando-ni-google-puede-con-la-demanda-el-racionamiento-de-gemini-a-meta",
-      "medio": "Think Big",
-      "fecha": "2026-07-02T13:58:08Z"
     },
     {
       "titulo": "Isidro Fernández (UDIT): «Necesitamos que el diseño de los robots sea transparente y tenga límites claros»",
@@ -147,13 +154,6 @@
       "enlace": "https://www.computing.es/seguridad/el-gran-riesgo-de-la-ia-no-es-la-tecnologia-sino-la-fuga-de-datos/",
       "medio": "Computing.es",
       "fecha": "2026-06-30T12:10:30Z"
-    },
-    {
-      "titulo": "¿Llega la IA de Apple demasiado tarde? Y si es así, ¿por qué?",
-      "resumen": "Internet lleva más de un año riéndose de Apple y uno de los objetivos más ambiciosos de su historia: hacer que la inteligencia artificial sea una herramienta útil, integrada en sus servicios y totalmente transparente [&#",
-      "enlace": "https://blogthinkbig.com/llega-la-ia-de-apple-demasiado-tarde-y-si-es-asi-por-que",
-      "medio": "Think Big",
-      "fecha": "2026-06-30T06:01:00Z"
     },
     {
       "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
@@ -214,18 +214,18 @@
   ],
   "etica": [
     {
+      "titulo": "Cualquiera puede etiquetarte en Instagram para generar deepfakes de IA con tus fotos. Es Meta siendo Meta",
+      "resumen": "Meta ha lanzado Muse Image y Muse Video, los primeros modelos de IA generativa de imágenes y vídeos de su división Meta Superintelligence Labs. Con el de imágenes quiere desde luego plantar cara a GPT Image 2.0 de OpenAI",
+      "enlace": "https://www.xataka.com/robotica-e-ia/meta-tiene-su-rival-para-nanob-banana-2-su-problema-siempre-invadir-piedad-nuestra-privacidad",
+      "medio": "Xataka",
+      "fecha": "2026-07-08T11:45:00Z"
+    },
+    {
       "titulo": "China acaba de regular algo que realmente importa: que la IA acabe siendo nuestra amiga o nuestra novia",
       "resumen": "China ha decidido poner límites a un tipo muy concreto de IA: aquella diseñada para parecer una persona. Doubao (ByteDance) y Qwen (Alibaba) han anunciado que desactivarán sus agentes de IA personalizados antes de que la",
       "enlace": "https://www.xataka.com/robotica-e-ia/china-acaba-regular-algo-que-realmente-importa-que-ia-acabe-siendo-nuestra-amiga-nuestra-novia",
       "medio": "Xataka",
       "fecha": "2026-07-06T16:00:54Z"
-    },
-    {
-      "titulo": "Cuando ni Google puede con la demanda: el racionamiento de Gemini a Meta",
-      "resumen": "Cada vez que preguntamos algo a Gemini o a ChatGPT, damos por hecho que hay potencia de sobra detrás. Pero esa potencia también tiene límite, y Google acaba de chocar con él. Se ha sabido [&#8230;] Cuando ni Google puede",
-      "enlace": "https://blogthinkbig.com/cuando-ni-google-puede-con-la-demanda-el-racionamiento-de-gemini-a-meta",
-      "medio": "Think Big",
-      "fecha": "2026-07-02T13:58:08Z"
     },
     {
       "titulo": "‘Anthropic Cybersecurity Skills’, 754 skills de ciberseguridad para agentes de IA",
