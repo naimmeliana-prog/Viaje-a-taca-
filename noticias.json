@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-07-09T10:49:33Z",
+  "actualizado": "2026-07-10T07:20:18Z",
   "novedades": [
+    {
+      "titulo": "Cuando el calor apaga la IA: el reto climático de los centros de datos",
+      "resumen": "Cada vez hace más calor, y cada vez usamos más inteligencia artificial. Son dos tendencias que avanzan en paralelo desde hace años, pero pocas veces se piensa en qué pasa cuando chocan entre sí. La [&#8230;] Cuando el ca",
+      "enlace": "https://blogthinkbig.com/cuando-el-calor-apaga-la-ia-el-reto-climatico-de-los-centros-de-datos",
+      "medio": "Think Big",
+      "fecha": "2026-07-10T07:12:12Z"
+    },
+    {
+      "titulo": "Las Big Tech chinas tienen un plan: la mayor apuesta de su historia a las fabricantes de chips nacionales",
+      "resumen": "China ha definido una serie de pasos para convertirse en la primera potencia mundial. Dentro de esa hoja de ruta entra la soberanía tecnológica y, para lograr el objetivo, es necesaria una inversión mayor en tecnología l",
+      "enlace": "https://www.xataka.com/empresas-y-economia/big-tech-chinas-tienen-plan-mayor-apuesta-su-historia-a-fabricantes-chips-nacionales",
+      "medio": "Xataka",
+      "fecha": "2026-07-09T16:31:20Z"
+    },
+    {
+      "titulo": "Los secretos de Anthropic para escribir un buen prompt",
+      "resumen": "Hace un tiempo, Anthropic compartió en una charla interna algo que rara vez se ve: la plantilla que usan sus propios equipos para construir prompts en producción. La diapositiva en torno a la que gira [&#8230;] Los secre",
+      "enlace": "https://blogthinkbig.com/los-secretos-de-anthropic-para-escribir-un-buen-prompt",
+      "medio": "Think Big",
+      "fecha": "2026-07-09T16:00:00Z"
+    },
     {
       "titulo": "Cómo internet se está blindando ante la inminente revolución cuántica",
       "resumen": "Durante siglos, para asegurar la autenticidad de un documento bastaba con aplicar un sello de cera. Hoy confiamos en algoritmos matemáticos que protegen desde nuestras compras online hasta los secretos industriales más s",
@@ -37,11 +58,11 @@
       "fecha": "2026-07-08T14:00:03Z"
     },
     {
-      "titulo": "Ganar 180.000 dólares al año ya no da para vivir en San Francisco. El boom de la IA se ha comido a la clase media tecnológica",
+      "titulo": "Una pareja gana 365.000 dólares al año entre los dos en San Francisco. No les llega para un piso de una habitación",
       "resumen": "En San Francisco puedes ganar 180.000 dólares al año y no llegar tranquilo a fin de mes. El boom de la IA está haciendo que, lo que en cualquier otro lugar sería un sueldazo, sea simple calderilla, impidiendo la entrada ",
       "enlace": "https://www.xataka.com/empresas-y-economia/ganar-180-000-dolares-al-ano-no-da-para-vivir-san-francisco-boom-ia-se-ha-comido-a-clase-media-tecnologica",
       "medio": "Xataka",
-      "fecha": "2026-07-08T12:01:19Z"
+      "fecha": "2026-07-08T12:00:00Z"
     },
     {
       "titulo": "Cualquiera puede etiquetarte en Instagram para generar deepfakes de IA con tus fotos. Es Meta siendo Meta",
@@ -84,13 +105,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/samsung-gana-19-veces-que-hace-ano-inversores-han-reaccionado-hundiendo-accion-7",
       "medio": "Xataka",
       "fecha": "2026-07-07T14:16:40Z"
-    },
-    {
-      "titulo": "La solución de EEUU para que su red eléctrica aguante la ola de calor: dejar que los centros de datos contaminen sin límite",
-      "resumen": "El verano de 2026 empezó fuerte con la primera ola de calor extremo. Hemos hablado del calor en España y en toda Europa, pero en Estados Unidos tampoco se han librado de las consecuencias. Con los aires acondicionados fu",
-      "enlace": "https://www.xataka.com/energia/solucion-eeuu-su-red-electrica-aguante-ola-calor-dejar-que-centros-datos-contaminen-limite",
-      "medio": "Xataka",
-      "fecha": "2026-07-07T14:00:41Z"
     },
     {
       "titulo": "\"Hay desarrolladores programando a 10.000 metros de altura en un avión\", Doug Brooks, gerente de Apple Silicon habla del mejor Mac para la IA",
@@ -196,20 +210,6 @@
       "enlace": "https://www.applesfera.com/juegos-para-ios/nada-sirve-tener-apple-watch-compatible-nueva-siri-ai-no-tienes-uno-estos-iphone",
       "medio": "Applesfera",
       "fecha": "2026-06-24T08:00:00Z"
-    },
-    {
-      "titulo": "\"Nunca ha habido un mejor momento para usar Atajos\". Con iOS 27 tendremos la IA que llevábamos años esperando",
-      "resumen": "De las mejoras de Apple Intelligence que llegan con iOS 27, hay una que me entusiasma especialmente: poder crear atajos con cero conocimiento de la app Atajos (valga la redundancia). No es que fuese una aplicación muy té",
-      "enlace": "https://www.applesfera.com/ios/nunca-ha-habido-mejor-momento-para-usar-atajos-ios-27-tendremos-ia-que-llevabamos-anos-esperando",
-      "medio": "Applesfera",
-      "fecha": "2026-06-23T17:01:01Z"
-    },
-    {
-      "titulo": "Solo el 37% de las empresas tiene control total sobre las herramientas de IA que utiliza",
-      "resumen": "Los expertos alertan de que la adopción de IA supera la capacidad de las organizaciones L'articolo Solo el 37% de las empresas tiene control total sobre las herramientas de IA que utiliza proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/el-85-de-los-cio-asegura-estar-invirtiendo-en-tecnologias-de-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-23T09:42:09Z"
     }
   ],
   "etica": [

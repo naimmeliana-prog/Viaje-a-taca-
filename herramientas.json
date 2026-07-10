@@ -4878,7 +4878,7 @@
       "Interfaz de arrastrar y soltar"
     ],
     "etica": "Los datos de los leads se procesan en servidores seguros; se implementan medidas contra el uso indebido y el sesgo algorítmico.",
-    "web": "https://github.com/IntelliCAD-Official/intellicad-ai",
+    "web": "https://intelliai.ai/",
     "tipo": "Chatbot / Asistente",
     "compania": "Intelli Labs",
     "id": "intelli-761a19",
@@ -6736,7 +6736,7 @@
     "tipo": "Productividad / Verificación de reputación",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite a profesionales y comunidades recopilar y verificar reseñas de IA para crear pruebas de trabajo verificables.",
-    "web": "",
+    "web": "https://www.navigatr.org/badge-assistant",
     "funciones": [
       "Recopilar reseñas de pares",
       "Verificar autenticidad con IA",
@@ -6759,7 +6759,7 @@
     "fecha_agregado": "2026-07-07",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Zoho Tables",
@@ -6920,7 +6920,7 @@
     "compania": "Datalab",
     "tipo": "Extracción de datos",
     "descripcion": "Herramienta de extracción de datos basada en esquemas para PDFs e imágenes.",
-    "web": "https://datalab.ai/lift",
+    "web": "https://github.com/datalab-to/lift",
     "funciones": [
       "Extracción de datos estructurados",
       "Procesamiento de PDFs",
@@ -6943,7 +6943,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-09",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Lispr",
@@ -7065,6 +7066,200 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "PlugThis",
+    "compania": "PlugThis",
+    "tipo": "Herramienta de desarrollo de extensiones IA",
+    "precio": "Freemium",
+    "descripcion": "Genera extensiones de Chrome con código IA sin necesidad de programar.",
+    "web": "https://plugthis.ai/",
+    "funciones": [
+      "Generación automática de código JavaScript",
+      "Integración con APIs externas",
+      "Pruebas en tiempo real",
+      "Exportación directa a Chrome Web Store"
+    ],
+    "caracteristicas": [
+      "Orientado a no desarrolladores",
+      "Similar a Lovable pero para Chrome",
+      "Rápido prototipado",
+      "Basado en modelos de lenguaje",
+      "Soporte para múltiples funciones"
+    ],
+    "etica": "Protege la privacidad de los usuarios y evita la recopilación de datos sensibles.",
+    "limite_gratis": "Plan gratuito permite crear hasta 3 extensiones y 500 líneas de código.",
+    "id": "plugthis-f2b7cc",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ChatCut",
+    "compania": "ChatCut",
+    "tipo": "Edición de video por IA",
+    "precio": "Freemium",
+    "descripcion": "Edita videos con comandos de chat y comandos sencillos.",
+    "web": "https://chatcut.io/",
+    "funciones": [
+      "Recorte automático",
+      "Transición generada por IA",
+      "Edición por comandos de texto",
+      "Exportación en múltiples formatos"
+    ],
+    "caracteristicas": [
+      "Disponible como app de ChatGPT",
+      "Versión de escritorio y web",
+      "Edición no destructiva",
+      "Asistencia por LLM",
+      "Interfaz intuitiva"
+    ],
+    "etica": "No almacena videos en servidores sin consentimiento del usuario.",
+    "limite_gratis": "Plan gratuito permite exportar videos de hasta 2 minutos.",
+    "id": "chatcut-6f93d9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ConnectMachine 2.0",
+    "compania": "ConnectMachine",
+    "tipo": "Tarjeta de presentación digital IA",
+    "precio": "Freemium",
+    "descripcion": "Tarjeta digital que recuerda contactos y facilita el networking.",
+    "web": "",
+    "funciones": [
+      "Recordatorio de seguimiento",
+      "Análisis de interacción",
+      "Sincronización con LinkedIn",
+      "Generación de notas de reunión"
+    ],
+    "caracteristicas": [
+      "Versión 2.0",
+      "Formato tarjeta digital",
+      "Memoria de interacciones",
+      "Enfocado en networking",
+      "Acceso multi-dispositivo"
+    ],
+    "etica": "Respeta la privacidad de los datos de contactos y no comparte información sin permiso.",
+    "limite_gratis": "Plan gratuito permite 50 contactos y recordatorios limitados.",
+    "id": "connectmachine-2-0-3375ca",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Yasmine Works",
+    "descripcion": "Cooperador IA en Slack que ayuda a completar tareas y automatizar flujos de trabajo.",
+    "tipo": "Asistente de trabajo en Slack",
+    "precio": "Freemium",
+    "funciones": [
+      "Responder preguntas de equipo",
+      "Automatizar flujos de trabajo",
+      "Generar resúmenes de reuniones",
+      "Programar recordatorios"
+    ],
+    "etica": "No comparte información confidencial sin autorización explícita.",
+    "limite_gratis": "Plan gratuito permite 10 interacciones diarias.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "web": "https://yasmineo1.com/",
+    "compania": "Desconocida",
+    "id": "yasmine-works-12e797",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Mispher",
+    "descripcion": "Herramienta todo en uno para dictar, reescribir y traducir textos.",
+    "tipo": "Asistente de dictado, reescritura y traducción",
+    "precio": "Freemium",
+    "funciones": [
+      "Dictado en tiempo real",
+      "Reescritura de estilo",
+      "Traducción multilingüe",
+      "Generación de resúmenes"
+    ],
+    "etica": "Los datos de voz se procesan localmente cuando es posible para proteger la privacidad.",
+    "limite_gratis": "Plan gratuito permite 30 minutos de dictado al mes.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "web": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+    "compania": "Desconocida",
+    "id": "mispher-46cedb",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "StoryChief Connect",
+    "descripcion": "Publica contenido generado por Claude en tu web y redes sociales.",
+    "tipo": "Publicación de contenido IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Sincronización con CMS",
+      "Programación de publicaciones",
+      "Análisis de rendimiento",
+      "Generación de metadatos SEO"
+    ],
+    "etica": "Cumple con GDPR y no comparte datos de usuarios sin consentimiento.",
+    "limite_gratis": "Plan gratuito permite 5 publicaciones mensuales.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "web": "https://storychief.io/blog",
+    "compania": "Desconocida",
+    "id": "storychief-connect-68d97c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ship OS by Notion",
+    "descripcion": "Plataforma de despliegue de software con agentes IA que automatiza CI/CD.",
+    "tipo": "Gestión de despliegue de software IA",
+    "precio": "Pago",
+    "funciones": [
+      "Automatizar CI/CD",
+      "Generar scripts de despliegue",
+      "Monitoreo de versiones",
+      "Gestión de entornos"
+    ],
+    "etica": "Protege la propiedad intelectual y no expone código sin autorización.",
+    "limite_gratis": "Sin plan gratuito.",
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "web": "https://www.notion.com/en-GB",
+    "compania": "Desconocida",
+    "id": "ship-os-by-notion-2b770b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-10",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
