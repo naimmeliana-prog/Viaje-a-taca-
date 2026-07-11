@@ -7158,7 +7158,7 @@
     "fecha_agregado": "2026-07-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Yasmine Works",
@@ -7202,7 +7202,7 @@
     "caracteristicas": [
       "Detectada automáticamente"
     ],
-    "web": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+    "web": "https://poweredbyai.app/project/mispher",
     "compania": "Desconocida",
     "id": "mispher-46cedb",
     "gratis": true,
@@ -7210,7 +7210,7 @@
     "fecha_agregado": "2026-07-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "StoryChief Connect",
@@ -7262,6 +7262,253 @@
     "fecha_agregado": "2026-07-10",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Kickbacks CLI",
+    "compania": "Kickbacks",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "CLI y menú de barra de macOS que se integra con el ecosistema de Kickbacks para facilitar la gestión de tareas.",
+    "web": "https://kickbacks.ai",
+    "funciones": [
+      "Acceso rápido mediante barra de menús",
+      "Ejecución de comandos en terminal",
+      "Integración con servicios de Kickbacks",
+      "Personalización de menús",
+      "Soporte multiplataforma macOS"
+    ],
+    "caracteristicas": [
+      "Interfaz de línea de comandos",
+      "Menú de barra de estado",
+      "Integración profunda con Kickbacks",
+      "Compatibilidad exclusiva macOS",
+      "Personalizable"
+    ],
+    "etica": "No recopila datos de usuarios y no contiene sesgos conocidos.",
+    "id": "kickbacks-cli-7901c3",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "La versión gratuita incluye la CLI y el menú básicos, mientras que las integraciones avanzadas requieren suscripción."
+  },
+  {
+    "nombre": "Effects SDK",
+    "compania": "EffectsAI",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "descripcion": "Kit de desarrollo para aplicar efectos de video y audio en tiempo real usando IA.",
+    "web": "https://effectssdk.ai/",
+    "funciones": [
+      "Aplicación de efectos de video en tiempo real",
+      "Procesamiento de audio con IA",
+      "API flexible para integración",
+      "Soporte para múltiples formatos",
+      "Compatibilidad con pipelines de producción"
+    ],
+    "caracteristicas": [
+      "Kit modular",
+      "Algoritmos de IA en tiempo real",
+      "Compatibilidad multiplataforma",
+      "Documentación extensa",
+      "Escalable"
+    ],
+    "etica": "Los datos de audio y video pueden ser procesados en la nube, lo que implica revisión de políticas de privacidad. Existe riesgo de sesgo en los efectos si los modelos están entrenados con datasets limitados.",
+    "id": "effects-sdk-199651",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "La versión gratuita permite usar efectos básicos con marcas de agua y limitaciones de resolución."
+  },
+  {
+    "nombre": "MuScriptor",
+    "compania": "OpenMusic",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "Modelo Transformer de pesos abiertos que transcribe audio de instrumentos musicales a formato MIDI.",
+    "web": "https://github.com/muscriptor/muscriptor",
+    "funciones": [
+      "Transcripción de audio multicanal",
+      "Conversión a MIDI",
+      "Soporte para varios instrumentos",
+      "Ajuste de parámetros de reconocimiento",
+      "Salida de alta precisión"
+    ],
+    "caracteristicas": [
+      "Pesos abiertos",
+      "Arquitectura Transformer",
+      "Alta precisión",
+      "Sin dependencia de APIs externas",
+      "Personalizable"
+    ],
+    "etica": "Los archivos de audio se procesan localmente, protegiendo la privacidad del usuario. Puede haber sesgos en la detección de ciertos instrumentos.",
+    "id": "muscriptor-9eb95c",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "El modelo es totalmente gratuito, aunque la documentación y soporte pueden estar limitados en la versión gratuita."
+  },
+  {
+    "nombre": "Muse Spark 1.1",
+    "compania": "Meta",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Modelo de IA de Meta optimizado para tareas de codificación con alto rendimiento en índices de inteligencia.",
+    "web": "",
+    "funciones": [
+      "Completado inteligente de código",
+      "Depuración automática",
+      "Generación de documentación",
+      "Traducción entre lenguajes de programación",
+      "Asistencia en tiempo real dentro del IDE"
+    ],
+    "caracteristicas": [
+      "Optimizado para codificación",
+      "Alto rendimiento en benchmarks",
+      "Disponible vía API",
+      "Soporte multilingüe",
+      "Actualizaciones frecuentes"
+    ],
+    "etica": "Los datos de código pueden enviarse a servidores externos, lo que plantea riesgos de privacidad. Puede haber sesgos en las sugerencias según el conjunto de datos de entrenamiento.",
+    "id": "muse-spark-1-1-991d9e",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "El plan gratuito ofrece un número limitado de llamadas a la API y tiempos de respuesta más lentos."
+  },
+  {
+    "nombre": "Basedash SCIM",
+    "descripcion": "Permite sincronizar automáticamente usuarios y grupos entre tu directorio y Basedash usando el protocolo SCIM, manteniendo el acceso actualizado conforme cambian los datos de la organización.",
+    "precio": "Freemium",
+    "funciones": [
+      "Provisionamiento de usuarios",
+      "Desprovisionamiento automático",
+      "Mapeo de atributos personalizado",
+      "Sincronización en tiempo real",
+      "Soporte para múltiples proveedores de identidad"
+    ],
+    "caracteristicas": [
+      "Basado en el estándar SCIM 2.0",
+      "Sin necesidad de código",
+      "Logs de auditoría detallados",
+      "Escalable para organizaciones grandes",
+      "Compatible con Okta, Azure AD y Google Workspace"
+    ],
+    "etica": "Basedash SCIM solo procesa la información de directorio necesaria para el provisioning, respetando la privacidad y evitando sesgos al tratar a todos los usuarios de forma uniforme.",
+    "web": "https://www.basedash.com/",
+    "tipo": "Integración de identidades (SCIM)",
+    "compania": "Basedash",
+    "id": "basedash-scim-569984",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite sincronizar hasta 50 usuarios y un único proveedor de identidad.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Scarlett.",
+    "descripcion": "Asistente de IA que se integra en Slack y iMessage para ayudar con tareas, responder preguntas y automatizar flujos de trabajo dentro de los chats.",
+    "precio": "Freemium",
+    "funciones": [
+      "Responder preguntas en lenguaje natural",
+      "Programar recordatorios y eventos",
+      "Generar resúmenes de conversaciones",
+      "Ejecutar comandos personalizados",
+      "Integrar con APIs externas y servicios"
+    ],
+    "caracteristicas": [
+      "Procesamiento de lenguaje natural avanzado",
+      "Respuestas en tiempo real",
+      "Personalización de tono y estilo",
+      "Encriptación de datos en tránsito y reposo",
+      "Disponibilidad 24/7 en los canales soportados"
+    ],
+    "etica": "Scarlett está diseñada para minimizar sesgos mediante entrenamiento con datos diversos y ofrece opciones de privacidad que permiten a los usuarios controlar qué datos se comparten y almacenan.",
+    "web": "https://www.producthunt.com/products/tryscarlett",
+    "tipo": "Chatbot / Asistente",
+    "compania": "Scarlett AI",
+    "id": "scarlett--ea06f5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito incluye hasta 100 interacciones mensuales y acceso básico a funciones de chat.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Sim",
+    "descripcion": "Entorno de código abierto que permite crear, probar y desplegar agentes de IA y flujos de trabajo automatizados sin necesidad de infraestructura compleja.",
+    "precio": "Gratuito",
+    "funciones": [
+      "Construcción de agentes con bloques visuales",
+      "Integración con múltiples modelos LLM",
+      "Ejecución y depuración de workflows",
+      "Versionado y control de cambios de agentes",
+      "Despliegue en contenedores o en la nube"
+    ],
+    "caracteristicas": [
+      "Código abierto bajo licencia MIT",
+      "Extensible mediante plugins comunitarios",
+      "Interfaz drag-and-drop intuitiva",
+      "Soporte para LLM como GPT, Llama y otros",
+      "Comunidad activa y documentación completa"
+    ],
+    "etica": "Al ser de código abierto, Sim permite auditoría completa del código, reduciendo riesgos de sesgos ocultos y garantizando que los usuarios mantengan el control total sobre sus datos y modelos.",
+    "web": "https://www.sim.ai/",
+    "tipo": "Agentes IA",
+    "compania": "Sim Labs",
+    "id": "sim-cbb548",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Al ser totalmente gratuito y de código abierto, no hay límites de uso además de los recursos del propio hardware del usuario.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Coasty",
+    "descripcion": "Agente de IA que utiliza la computadora como un humano para operar aplicaciones heredadas, realizando tareas repetitivas sin necesidad de APIs.",
+    "precio": "Freemium",
+    "funciones": [
+      "Reconocimiento de elementos en pantalla",
+      "Interacción simulada con teclado y ratón",
+      "Automatización de flujos de trabajo legacy",
+      "Aprendizaje por demostración de usuario",
+      "Manejo de excepciones y reintentos inteligentes"
+    ],
+    "caracteristicas": [
+      "Funciona sin modificar el software antiguo",
+      "Compatible con Windows y Linux",
+      "Bajo consumo de recursos del sistema",
+      "Registro detallado de acciones para auditoría",
+      "Escalable en la nube para ejecuciones paralelas"
+    ],
+    "etica": "Coasty está diseñado para respetar la privacidad al procesar solo la información necesaria de la pantalla y ofrece opciones para excluir datos sensibles, además de ser auditado para evitar sesgos en la toma de decisiones automatizadas.",
+    "web": "https://github.com/coasty-ai",
+    "tipo": "Agentes IA",
+    "compania": "Coasty AI",
+    "id": "coasty-15023a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite ejecutar hasta 5 horas de automatización mensual y acceso a un número limitado de plantillas de workflow.",
     "intentos_web": 1
   }
 ]

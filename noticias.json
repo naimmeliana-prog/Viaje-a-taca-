@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-07-10T07:20:18Z",
+  "actualizado": "2026-07-11T09:21:06Z",
   "novedades": [
+    {
+      "titulo": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
+      "resumen": "Si te habías acostumbrado a abrir la aplicación de ChatGPT y trabajar siempre desde el mismo lugar, al actualizar puedes encontrarte con una experiencia bastante distinta. OpenAI está reorganizando sus productos y, con e",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
+      "medio": "Xataka",
+      "fecha": "2026-07-10T19:31:57Z"
+    },
+    {
+      "titulo": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
+      "resumen": "La IA es bastante&nbsp;impopular entre los ciudadanos estadounidenses. Según una encuesta reciente, la mayoría cree que va a suponer un impacto negativo en la sociedad. Hay algo en concreto que se ha ganado el rechazo de",
+      "enlace": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
+      "medio": "Xataka",
+      "fecha": "2026-07-10T19:01:58Z"
+    },
+    {
+      "titulo": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
+      "resumen": "Llevamos una semana bastante loca en cuanto a lanzamientos de modelos de IA. Puede que el protagonismo se lo haya llevado la esperada familia GPT-5.6 (con sus variantes Sol, Terra, Luna), pero es que además hemos visto c",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nuevos-grok-4-5-muse-spark-1-1-tienen-apuesta-rompedora-hacer-90-sus-rivales-al-20-su-precio",
+      "medio": "Xataka",
+      "fecha": "2026-07-10T15:31:57Z"
+    },
+    {
+      "titulo": "El plan de Europa para blindar su ciberseguridad con IA",
+      "resumen": "Hasta hace poco, un ciberataque masivo requería equipos coordinados y semanas de preparación. Hoy, un modelo de inteligencia artificial puede escanear redes enteras, encontrar grietas y ejecutar una intrusión en cuestión",
+      "enlace": "https://blogthinkbig.com/plan-europa-ciberseguridad-ia",
+      "medio": "Think Big",
+      "fecha": "2026-07-10T12:09:17Z"
+    },
+    {
+      "titulo": "Instagram va a usar tus fotos públicas para generar imágenes con IA. Yo ya he ido corriendo a desactivarlo",
+      "resumen": "Meta lleva un tiempo empeñada en meter IA en todos los rincones de sus apps, la pidas o no. WhatsApp, Facebook, Instagram, da igual dónde mires, ahí está Meta AI esperando a que le hagas caso. Pero su última jugada va un",
+      "enlace": "https://www.applesfera.com/seguridad/instagram-va-a-usar-tus-fotos-publicas-para-generar-imagenes-ia-yo-he-ido-corriendo-a-desactivarlo",
+      "medio": "Applesfera",
+      "fecha": "2026-07-10T12:01:57Z"
+    },
+    {
+      "titulo": "Meta AI puede crear imágenes con tu cara sin permiso usando tus fotos de Instagram: cómo funciona y dos modos de evitarlo",
+      "resumen": "Meta AI ha estrenado una nueva función con la que cualquier usuario puede crear imágenes con las caras de otras personas sin permiso. Esto abre la puerta a todo tipo de abusos y usos poco éticos, ya que la función permit",
+      "enlace": "https://www.xataka.com/basics/meta-ai-crea-imagenes-tu-cara-permiso-usando-tus-fotos-instagram-como-funciona-dos-modos-evitarlo",
+      "medio": "Xataka",
+      "fecha": "2026-07-10T11:07:00Z"
+    },
+    {
+      "titulo": "GPT-5.6: novedades y todo lo que cambia en ChatGPT con la nueva versión de su modelo de inteligencia artificial",
+      "resumen": "Vamos a decirte&nbsp;cuáles son las novedades de&nbsp;GPT-5.6, la nueva versión del modelo de&nbsp;inteligencia artificial&nbsp;de&nbsp;ChatGPT. Vamos a hacerlo de una manera sencilla, sintetizando en una lista cuáles so",
+      "enlace": "https://www.xataka.com/basics/gpt-5-6-novedades-todo-que-cambia-chatgpt-nueva-version-su-modelo-inteligencia-artificial",
+      "medio": "Xataka",
+      "fecha": "2026-07-10T10:32:12Z"
+    },
+    {
+      "titulo": "GPT-5.6 probablemente sea el mejor modelo de IA del mundo. Y precisamente por eso, la mayoría no lo necesita",
+      "resumen": "Ayer OpenAI lanzaba públicamente GPT-5.6, su nueva familia de modelos de IA con tres variantes: Sol, la más potente, Terra, más equilibrada, y Luna, la más eficiente en costes. Una idea sobresalía en ese lanzamiento: la ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gpt-5-6-probablemente-sea-mejor-modelo-ia-mundo-precisamente-eso-mayoria-no-necesita",
+      "medio": "Xataka",
+      "fecha": "2026-07-10T08:15:58Z"
+    },
+    {
+      "titulo": "Meta acaba de convertir tus fotos de Instagram en materia prima para su IA sin pedirte permiso: cómo desactivarlo",
+      "resumen": "Meta no es conocida precisamente por ser una empresa que cuide la privacidad de sus usuarios, más bien al contrario. Con su último lanzamiento nos lo han dejado aún más claro si cabe: un generador de imágenes en el que c",
+      "enlace": "https://www.xataka.com/privacidad/meta-acaba-convertir-tus-fotos-instagram-materia-prima-para-su-ia-pedirte-permiso-como-desactivarlo",
+      "medio": "Xataka",
+      "fecha": "2026-07-10T07:31:58Z"
+    },
     {
       "titulo": "Cuando el calor apaga la IA: el reto climático de los centros de datos",
       "resumen": "Cada vez hace más calor, y cada vez usamos más inteligencia artificial. Son dos tendencias que avanzan en paralelo desde hace años, pero pocas veces se piensa en qué pasa cuando chocan entre sí. La [&#8230;] Cuando el ca",
@@ -37,18 +100,11 @@
       "fecha": "2026-07-09T09:15:19Z"
     },
     {
-      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"El usuario de a pie debería estar preocupado porque el phishing se está refinando con IA\"",
+      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"Van a llegar videollamadas con el vídeo de un familiar y se va a complicar la cosa\"",
       "resumen": "La IA está cambiándolo todo, también la ciberseguridad. El lanzamiento de Claude Mythos hace un par de meses hizo saltar las alarmas: la IA ya es capaz de encontrar decenas de vulnerabilidades que llevaban años ocultas. ",
       "enlace": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-usuario-a-pie-deberia-estar-preocupado-porque-phishing-se-esta-refinando-ia",
       "medio": "Xataka",
-      "fecha": "2026-07-09T07:01:19Z"
-    },
-    {
-      "titulo": "OpenAI acaba de lanzar GPT-Live: el modo de voz de ChatGPT ha aprendido a escuchar, callarse y responder mejor",
-      "resumen": "Greg Brockman empezó el directo de OpenAI haciendo algo muy sencillo: hablar con ChatGPT y cortarle mientras respondía. Lo que importaba no eran las preguntas, sino la reacción del sistema. En lugar de detenerse con un c",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-acaba-lanzar-gpt-live-modo-voz-chatgpt-ha-aprendido-a-escuchar-callarse-responder-mejor",
-      "medio": "Xataka",
-      "fecha": "2026-07-08T17:42:00Z"
+      "fecha": "2026-07-09T07:00:00Z"
     },
     {
       "titulo": "iOS 27 está bien, pero si pruebas estas ocho funciones en tu iPhone es todavía mejor",
@@ -58,53 +114,11 @@
       "fecha": "2026-07-08T14:00:03Z"
     },
     {
-      "titulo": "Una pareja gana 365.000 dólares al año entre los dos en San Francisco. No les llega para un piso de una habitación",
-      "resumen": "En San Francisco puedes ganar 180.000 dólares al año y no llegar tranquilo a fin de mes. El boom de la IA está haciendo que, lo que en cualquier otro lugar sería un sueldazo, sea simple calderilla, impidiendo la entrada ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/ganar-180-000-dolares-al-ano-no-da-para-vivir-san-francisco-boom-ia-se-ha-comido-a-clase-media-tecnologica",
-      "medio": "Xataka",
-      "fecha": "2026-07-08T12:00:00Z"
-    },
-    {
-      "titulo": "Cualquiera puede etiquetarte en Instagram para generar deepfakes de IA con tus fotos. Es Meta siendo Meta",
-      "resumen": "Meta ha lanzado Muse Image y Muse Video, los primeros modelos de IA generativa de imágenes y vídeos de su división Meta Superintelligence Labs. Con el de imágenes quiere desde luego plantar cara a GPT Image 2.0 de OpenAI",
-      "enlace": "https://www.xataka.com/robotica-e-ia/meta-tiene-su-rival-para-nanob-banana-2-su-problema-siempre-invadir-piedad-nuestra-privacidad",
-      "medio": "Xataka",
-      "fecha": "2026-07-08T11:45:00Z"
-    },
-    {
       "titulo": "Los líderes financieros españoles exigen más transparencia a la IA",
       "resumen": "Un estudio de Sage revela que casi siete de cada diez líderes financieros en España rechazarían resultados de IA que no puedan explicar L'articolo Los líderes financieros españoles exigen más transparencia a la IA provie",
       "enlace": "https://www.computing.es/inteligencia-artificial/los-lideres-financieros-espanoles-exigen-mas-transparencia-a-la-ia/",
       "medio": "Computing.es",
       "fecha": "2026-07-08T08:20:18Z"
-    },
-    {
-      "titulo": "EEUU enseñó que el acceso a la IA avanzada puede cortarse. China estudia lo mismo, según Reuters, y Europa mira desde fuera",
-      "resumen": "Cuando Estados Unidos activó controles de exportación que acabaron llevando a Anthropic a desactivar Fable 5 y Mythos 5 para todos sus usuarios, quedó expuesta una realidad difícil de ignorar: el acceso a la IA avanzada ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-enseno-que-acceso-a-ia-avanzada-puede-cortarse-china-estudia-reuters-europa-mira-fuera",
-      "medio": "Xataka",
-      "fecha": "2026-07-07T23:02:00Z"
-    },
-    {
-      "titulo": "DeepSeek ya no quiere competir solo con modelos. Su nuevo frente apunta directamente al negocio de NVIDIA, según Reuters",
-      "resumen": "En poco más de un año, DeepSeek ha dejado de sonar como una rareza de la industria china para convertirse en uno de esos nombres que ya aparecen cada vez que hablamos de la carrera global de la inteligencia artificial. P",
-      "enlace": "https://www.xataka.com/robotica-e-ia/deepseek-no-quiere-competir-solo-modelos-su-nuevo-frente-apunta-directamente-al-negocio-nvidia-reuters",
-      "medio": "Xataka",
-      "fecha": "2026-07-07T19:31:18Z"
-    },
-    {
-      "titulo": "El modelo de IA Qwen de Alibaba es la nueva joya de la corona. El único problema es que no ganan dinero con él",
-      "resumen": "Jack Ma regresaba cual hijo pródigo al panorama internacional en febrero del año pasado. Lo hacía en un acto junto al presidente de China, Xi Jinping, y aquello suponía un importante respaldo para el líder tecnológico. D",
-      "enlace": "https://www.xataka.com/robotica-e-ia/modelo-ia-qwen-alibaba-nueva-joya-corona-unico-problema-que-no-ganan-dinero",
-      "medio": "Xataka",
-      "fecha": "2026-07-07T14:30:40Z"
-    },
-    {
-      "titulo": "Samsung gana 19 veces más que hace un año. Los inversores han reaccionado hundiendo la acción un 7%",
-      "resumen": "Samsung ha anunciado que su beneficio operativo se disparó hasta los 89,4 billones de wones (58.400 millones de dólares) en el segundo trimestre de 2026. Eso representa un 1.810% más que lo que logró el año pasado, es de",
-      "enlace": "https://www.xataka.com/empresas-y-economia/samsung-gana-19-veces-que-hace-ano-inversores-han-reaccionado-hundiendo-accion-7",
-      "medio": "Xataka",
-      "fecha": "2026-07-07T14:16:40Z"
     },
     {
       "titulo": "\"Hay desarrolladores programando a 10.000 metros de altura en un avión\", Doug Brooks, gerente de Apple Silicon habla del mejor Mac para la IA",
@@ -196,30 +210,9 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/infobip-celebra-sus-10-anos-en-espana-hablando-del-salto-de-la-ia-agentica-de-los-casos-piloto-a-la-operativa-real-en-la-comunicacion-conversacional/",
       "medio": "Computing.es",
       "fecha": "2026-06-25T08:00:00Z"
-    },
-    {
-      "titulo": "Dos de cada tres CEO temen no invertir en IA lo suficientemente rápido",
-      "resumen": "La modernización de la infraestructura constituye la principal prioridad de los CEO para 2026, siendo la fragmentación de datos, la seguridad y el control sus mayores preocupaciones L'articolo Dos de cada tres CEO temen ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/dos-de-cada-tres-ceo-temen-no-invertir-en-ia-lo-suficientemente-rapido/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-25T07:31:00Z"
-    },
-    {
-      "titulo": "La nueva Siri AI llegará al Apple Watch... pero seguirá dependiendo del iPhone y no sirve cualquier modelo",
-      "resumen": "Si tienes un Apple Watch más moderno que el iPhone, quizás te lleves una decepción cuando llegue watchOS 27 en septiembre y veas que no hay compatibilidad con la nueva IA que traerá Siri AI. Y dará igual también si el iP",
-      "enlace": "https://www.applesfera.com/juegos-para-ios/nada-sirve-tener-apple-watch-compatible-nueva-siri-ai-no-tienes-uno-estos-iphone",
-      "medio": "Applesfera",
-      "fecha": "2026-06-24T08:00:00Z"
     }
   ],
   "etica": [
-    {
-      "titulo": "Cualquiera puede etiquetarte en Instagram para generar deepfakes de IA con tus fotos. Es Meta siendo Meta",
-      "resumen": "Meta ha lanzado Muse Image y Muse Video, los primeros modelos de IA generativa de imágenes y vídeos de su división Meta Superintelligence Labs. Con el de imágenes quiere desde luego plantar cara a GPT Image 2.0 de OpenAI",
-      "enlace": "https://www.xataka.com/robotica-e-ia/meta-tiene-su-rival-para-nanob-banana-2-su-problema-siempre-invadir-piedad-nuestra-privacidad",
-      "medio": "Xataka",
-      "fecha": "2026-07-08T11:45:00Z"
-    },
     {
       "titulo": "China acaba de regular algo que realmente importa: que la IA acabe siendo nuestra amiga o nuestra novia",
       "resumen": "China ha decidido poner límites a un tipo muy concreto de IA: aquella diseñada para parecer una persona. Doubao (ByteDance) y Qwen (Alibaba) han anunciado que desactivarán sus agentes de IA personalizados antes de que la",
@@ -352,6 +345,13 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
       "medio": "Xataka",
       "fecha": "2025-09-08T16:30:00Z"
+    },
+    {
+      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
+      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
+      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
+      "medio": "Xataka",
+      "fecha": "2025-09-05T17:44:00Z"
     }
   ]
 }
