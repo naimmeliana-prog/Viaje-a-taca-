@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-07-11T09:21:06Z",
+  "actualizado": "2026-07-13T10:53:48Z",
   "novedades": [
+    {
+      "titulo": "A Meta le pareció buena idea que su IA generara imágenes a partir de tus fotos de Instagram. Días después ya ha dado marcha atrás",
+      "resumen": "La semana pasada Meta lanzó Muse Image y Muse Video, sus nuevos modelos de IA&nbsp;integrados en la app de Meta AI. Sin embargo, el lanzamiento fue rápidamente eclipsado por las críticas que recibió una de las funciones ",
+      "enlace": "https://www.xataka.com/privacidad/a-meta-le-parecio-buena-idea-que-su-ia-generara-imagenes-a-partir-tus-fotos-instagram-dias-despues-ha-dado-marcha-atras",
+      "medio": "Xataka",
+      "fecha": "2026-07-13T09:16:06Z"
+    },
+    {
+      "titulo": "Eustella: la alternativa europea a Claude, Gemini y ChatGPT",
+      "resumen": "Los principales asistentes de inteligencia artificial tienen su sede en Estados Unidos. Me refiero a Claude, Gemini y ChatGPT. Y aunque no todo el mundo los conoce por igual, desde China también están llegando asistentes",
+      "enlace": "https://blogthinkbig.com/eustella-agente-ia-europa",
+      "medio": "Think Big",
+      "fecha": "2026-07-13T07:01:00Z"
+    },
+    {
+      "titulo": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
+      "resumen": "Asha Sharma, flamante CEO de Xbox, anunció esta semana el despido de 1.600 personas de su división. Es el primer tramo de un plan que prevé más recortes, hasta 3.200, este año. Tres días después, la Reserva Federal estad",
+      "enlace": "https://www.xataka.com/empresas-y-economia/ia-se-ha-convertido-coartada-perfecta-para-cualquier-cosa-a-empresas-les-sirve-para-recortar-como-para-expandirse",
+      "medio": "Xataka",
+      "fecha": "2026-07-12T09:01:57Z"
+    },
+    {
+      "titulo": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
+      "resumen": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
+      "medio": "Xataka",
+      "fecha": "2026-07-12T06:40:00Z"
+    },
     {
       "titulo": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
       "resumen": "Si te habías acostumbrado a abrir la aplicación de ChatGPT y trabajar siempre desde el mismo lugar, al actualizar puedes encontrarte con una experiencia bastante distinta. OpenAI está reorganizando sus productos y, con e",
@@ -30,11 +58,11 @@
       "fecha": "2026-07-10T12:09:17Z"
     },
     {
-      "titulo": "Instagram va a usar tus fotos públicas para generar imágenes con IA. Yo ya he ido corriendo a desactivarlo",
+      "titulo": "Instagram va a usar tus fotos públicas para generar imágenes con IA y puedes evitarlo con estos ajustes en un minuto",
       "resumen": "Meta lleva un tiempo empeñada en meter IA en todos los rincones de sus apps, la pidas o no. WhatsApp, Facebook, Instagram, da igual dónde mires, ahí está Meta AI esperando a que le hagas caso. Pero su última jugada va un",
       "enlace": "https://www.applesfera.com/seguridad/instagram-va-a-usar-tus-fotos-publicas-para-generar-imagenes-ia-yo-he-ido-corriendo-a-desactivarlo",
       "medio": "Applesfera",
-      "fecha": "2026-07-10T12:01:57Z"
+      "fecha": "2026-07-10T12:00:00Z"
     },
     {
       "titulo": "Meta AI puede crear imágenes con tu cara sin permiso usando tus fotos de Instagram: cómo funciona y dos modos de evitarlo",
@@ -72,13 +100,6 @@
       "fecha": "2026-07-10T07:12:12Z"
     },
     {
-      "titulo": "Las Big Tech chinas tienen un plan: la mayor apuesta de su historia a las fabricantes de chips nacionales",
-      "resumen": "China ha definido una serie de pasos para convertirse en la primera potencia mundial. Dentro de esa hoja de ruta entra la soberanía tecnológica y, para lograr el objetivo, es necesaria una inversión mayor en tecnología l",
-      "enlace": "https://www.xataka.com/empresas-y-economia/big-tech-chinas-tienen-plan-mayor-apuesta-su-historia-a-fabricantes-chips-nacionales",
-      "medio": "Xataka",
-      "fecha": "2026-07-09T16:31:20Z"
-    },
-    {
       "titulo": "Los secretos de Anthropic para escribir un buen prompt",
       "resumen": "Hace un tiempo, Anthropic compartió en una charla interna algo que rara vez se ve: la plantilla que usan sus propios equipos para construir prompts en producción. La diapositiva en torno a la que gira [&#8230;] Los secre",
       "enlace": "https://blogthinkbig.com/los-secretos-de-anthropic-para-escribir-un-buen-prompt",
@@ -91,20 +112,6 @@
       "enlace": "https://blogthinkbig.com/criptografia-postcuantica-seguridad-internet",
       "medio": "Think Big",
       "fecha": "2026-07-09T09:28:11Z"
-    },
-    {
-      "titulo": "Un profesor sospechaba que sus alumnos habían hecho trampas con IA. Hizo el examen en persona y las notas bajaron a la mitad",
-      "resumen": "En diciembre de 2025, un tiroteo en el campus de la Universidad de Brown causó la muerte de dos personas. Una de ellas acababa de presentarse a uno de los profesores de esa universidad, el español Roberto Serrano. La tra",
-      "enlace": "https://www.xataka.com/robotica-e-ia/profesor-sospechaba-que-sus-alumnos-habian-hecho-trampas-ia-hizo-examen-persona-notas-bajaron-a-mitad",
-      "medio": "Xataka",
-      "fecha": "2026-07-09T09:15:19Z"
-    },
-    {
-      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"Van a llegar videollamadas con el vídeo de un familiar y se va a complicar la cosa\"",
-      "resumen": "La IA está cambiándolo todo, también la ciberseguridad. El lanzamiento de Claude Mythos hace un par de meses hizo saltar las alarmas: la IA ya es capaz de encontrar decenas de vulnerabilidades que llevaban años ocultas. ",
-      "enlace": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-usuario-a-pie-deberia-estar-preocupado-porque-phishing-se-esta-refinando-ia",
-      "medio": "Xataka",
-      "fecha": "2026-07-09T07:00:00Z"
     },
     {
       "titulo": "iOS 27 está bien, pero si pruebas estas ocho funciones en tu iPhone es todavía mejor",
@@ -128,25 +135,11 @@
       "fecha": "2026-07-07T08:00:00Z"
     },
     {
-      "titulo": "La inteligencia artificial que calienta tu casa (y no quiere tus datos)",
-      "resumen": "En el subsuelo de un barrio residencial de Ginebra, miles de procesadores trabajan a pleno rendimiento. No hay aparatos de aire acondicionado gigantescos haciendo ruido ni torres de evaporación consumiendo millones de li",
-      "enlace": "https://blogthinkbig.com/inteligencia-artificial-euria-suiza",
-      "medio": "Think Big",
-      "fecha": "2026-07-07T07:50:51Z"
-    },
-    {
       "titulo": "La verdadera transformación de la IA empieza cuando pasa de automatizar tareas a rediseñar procesos",
       "resumen": "El valor de la inteligencia artificial reside en la confianza, que solo puede construirse sobre datos conectados, gobernados y verificables L'articolo La verdadera transformación de la IA empieza cuando pasa de automatiz",
       "enlace": "https://www.computing.es/inteligencia-artificial/la-verdadera-transformacion-de-la-ia-empieza-cuando-pasa-de-automatizar-tareas-a-redisenar-procesos/",
       "medio": "Computing.es",
       "fecha": "2026-07-07T06:39:11Z"
-    },
-    {
-      "titulo": "Qué es Claude Sonnet 5, el modelo que ahora usan gratis millones de personas",
-      "resumen": "El 30 de junio, Anthropic lanzó Claude Sonnet 5 sin demasiado ruido. Pero trajo un cambio relevante: pasó a ser el modelo por defecto de Claude para quien usa la app gratis o con el [&#8230;] Qué es Claude Sonnet 5, el m",
-      "enlace": "https://blogthinkbig.com/que-es-claude-sonnet-5-el-modelo-que-ahora-usan-gratis-millones-de-personas",
-      "medio": "Think Big",
-      "fecha": "2026-07-06T16:00:00Z"
     },
     {
       "titulo": "Álvaro Grande (Inconcert): «No vendemos licencias, rediseñamos procesos de negocio para humanizar la experiencia del cliente»",
@@ -210,9 +203,37 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/infobip-celebra-sus-10-anos-en-espana-hablando-del-salto-de-la-ia-agentica-de-los-casos-piloto-a-la-operativa-real-en-la-comunicacion-conversacional/",
       "medio": "Computing.es",
       "fecha": "2026-06-25T08:00:00Z"
+    },
+    {
+      "titulo": "Dos de cada tres CEO temen no invertir en IA lo suficientemente rápido",
+      "resumen": "La modernización de la infraestructura constituye la principal prioridad de los CEO para 2026, siendo la fragmentación de datos, la seguridad y el control sus mayores preocupaciones L'articolo Dos de cada tres CEO temen ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/dos-de-cada-tres-ceo-temen-no-invertir-en-ia-lo-suficientemente-rapido/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-25T07:31:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "OASIS: auditorías de seguridad automatizadas con IA y modelos de Ollama locales",
+      "resumen": "OASIS es una herramienta open source de auditoría de seguridad que usa modelos locales de Ollama para detectar vulnerabilidades en código fuente. Todo el análisis ocurre en tu máquina, sin enviar código a ningún servidor",
+      "enlace": "https://derechodelared.com/2026/07/12/oasis-escaner-vulnerabilidades-ia/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-12T10:42:04Z"
+    },
+    {
+      "titulo": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
+      "resumen": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
+      "medio": "Xataka",
+      "fecha": "2026-07-12T06:40:00Z"
+    },
+    {
+      "titulo": "La UE presenta su Plan de Acción sobre Ciberseguridad e IA.",
+      "resumen": "La Comisión Europea presenta un Plan de Acción sobre Ciberseguridad e IA que no crea nueva legislación sino que coordina la aplicación del marco existente. The post La UE presenta su Plan de Acción sobre Ciberseguridad e",
+      "enlace": "https://derechodelared.com/2026/07/11/ue-plan-de-accion-ciberseguridad-e-ia/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-11T19:47:29Z"
+    },
     {
       "titulo": "China acaba de regular algo que realmente importa: que la IA acabe siendo nuestra amiga o nuestra novia",
       "resumen": "China ha decidido poner límites a un tipo muy concreto de IA: aquella diseñada para parecer una persona. Doubao (ByteDance) y Qwen (Alibaba) han anunciado que desactivarán sus agentes de IA personalizados antes de que la",
@@ -240,20 +261,6 @@
       "enlace": "https://derechodelared.com/2026/06/18/nvidia-publica-un-escaner-para-saber-si-la-skill-que-vas-a-instalar-en-tu-agente-de-ia-es-segura/",
       "medio": "Derecho de la Red",
       "fecha": "2026-06-18T18:50:36Z"
-    },
-    {
-      "titulo": "EE.UU. obliga a Anthropic a desactivar sus modelos Fable 5 y Mythos por seguridad nacional",
-      "resumen": "El gobierno estadounidense ha emitido una directiva de control de exportaciones que obliga a Anthropic a desactivar el acceso a Fable 5 y Mythos 5 para todos los usuarios. The post EE.UU. obliga a Anthropic a desactivar ",
-      "enlace": "https://derechodelared.com/2026/06/13/anthropic-mythos-fable-gobierno-estados-unidos/",
-      "medio": "Derecho de la Red",
-      "fecha": "2026-06-13T16:18:47Z"
-    },
-    {
-      "titulo": "Un tribunal alemán declara a Google responsable de las respuestas falsas de su IA",
-      "resumen": "Las respuestas de la IA son \"palabras propias\" de Google, no contenido de terceros, por lo que este no puede acogerse a la protección de responsabilidad limitada de los buscadores convencionales. The post Un tribunal ale",
-      "enlace": "https://derechodelared.com/2026/06/11/tribunal-aleman-google-responsable-respuestas-ia/",
-      "medio": "Derecho de la Red",
-      "fecha": "2026-06-11T18:45:52Z"
     },
     {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
       "medio": "Xataka",
       "fecha": "2025-09-08T16:30:00Z"
-    },
-    {
-      "titulo": "Bruselas multa a Google con 2.950 millones. Lo peor es que la UE apunta a una venta de parte de su negocio publicitario",
-      "resumen": "Bruselas ha lanzado un aviso rotundo a la industria tecnológica: 2.950 millones de euros de multa a Google por abusar de su posición en el mercado publicitario digital, según anunció hoy la Comisión Europea. La investiga",
-      "enlace": "https://www.xataka.com/empresas-y-economia/bruselas-multa-a-google-2-950-millones-peor-que-ue-apunta-a-venta-parte-su-negocio-publicitario",
-      "medio": "Xataka",
-      "fecha": "2025-09-05T17:44:00Z"
     }
   ]
 }

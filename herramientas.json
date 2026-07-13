@@ -7158,7 +7158,7 @@
     "fecha_agregado": "2026-07-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Yasmine Works",
@@ -7362,7 +7362,7 @@
     "tipo": "Asistente de programación",
     "precio": "Freemium",
     "descripcion": "Modelo de IA de Meta optimizado para tareas de codificación con alto rendimiento en índices de inteligencia.",
-    "web": "",
+    "web": "https://ai.meta.com/research/",
     "funciones": [
       "Completado inteligente de código",
       "Depuración automática",
@@ -7384,7 +7384,7 @@
     "fecha_agregado": "2026-07-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1,
+    "intentos_web": 2,
     "limite_gratis": "El plan gratuito ofrece un número limitado de llamadas a la API y tiempos de respuesta más lentos."
   },
   {
@@ -7437,7 +7437,7 @@
       "Disponibilidad 24/7 en los canales soportados"
     ],
     "etica": "Scarlett está diseñada para minimizar sesgos mediante entrenamiento con datos diversos y ofrece opciones de privacidad que permiten a los usuarios controlar qué datos se comparten y almacenan.",
-    "web": "https://www.producthunt.com/products/tryscarlett",
+    "web": "https://tryscarlett.ai/",
     "tipo": "Chatbot / Asistente",
     "compania": "Scarlett AI",
     "id": "scarlett--ea06f5",
@@ -7447,7 +7447,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito incluye hasta 100 interacciones mensuales y acceso básico a funciones de chat.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Sim",
@@ -7509,6 +7509,310 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite ejecutar hasta 5 horas de automatización mensual y acceso a un número limitado de plantillas de workflow.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Loomal",
+    "compania": "Loomal",
+    "tipo": "Plataforma de monetización",
+    "precio": "Freemium",
+    "descripcion": "Permite monetizar servidores MCP (Model Context Protocol) en minutos sin comisiones por transacción.",
+    "web": "https://loomal.com",
+    "funciones": [
+      "Configuración rápida de monetización",
+      "Sin comisiones por transacción",
+      "Integración con Model Context Protocol",
+      "Monitoreo de ingresos en tiempo real",
+      "Soporte para múltiples proveedores de contenido"
+    ],
+    "caracteristicas": [
+      "Sin costos ocultos",
+      "Compatible con MCP estándar",
+      "Interfaz intuitiva",
+      "Escalabilidad automática",
+      "Soporte técnico dedicado"
+    ],
+    "etica": "Protege la privacidad de los datos de los usuarios y evita sesgos en la distribución de ingresos.",
+    "limite_gratis": "El plan gratuito permite monetizar hasta 3 servidores con límites de transacciones mensuales.",
+    "id": "loomal-be63aa",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AgentKey",
+    "compania": "AgentKey",
+    "tipo": "Mercado de datos",
+    "precio": "Freemium",
+    "descripcion": "Mercado que proporciona datos estructurados en tiempo real para agentes autónomos que toman decisiones informadas.",
+    "web": "https://agentkey.com",
+    "funciones": [
+      "Acceso a datos en tiempo real",
+      "Estructura de datos validada",
+      "Integración con APIs de agentes",
+      "Actualización automática de datos",
+      "Soporte para múltiples formatos"
+    ],
+    "caracteristicas": [
+      "Datos verificados y actualizados",
+      "Sin límites de uso en el plan básico",
+      "Documentación técnica detallada",
+      "Soporte para consultas complejas",
+      "Herramientas de análisis integradas"
+    ],
+    "etica": "Garantiza transparencia en la procedencia de los datos y previene sesgos mediante validación automatizada.",
+    "limite_gratis": "El plan gratuito ofrece 100 consultas diarias con datos básicos.",
+    "id": "agentkey-6c19a7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Verifiers v1",
+    "compania": "Verifiers",
+    "tipo": "Herramienta de entrenamiento",
+    "precio": "Gratuito",
+    "descripcion": "Biblioteca open source para crear tareas, entornos y entornos de ejecución que entrenan y evalúan agentes mediante aprendizaje por refuerzo.",
+    "web": "https://github.com/prime-intellect/verifiers",
+    "funciones": [
+      "Creación de tasksets personalizados",
+      "Entornos de entrenamiento modular",
+      "Evaluación de agentes con métricas",
+      "Integración con frameworks de RL",
+      "Simulación de escenarios complejos"
+    ],
+    "caracteristicas": [
+      "Código abierto y extensible",
+      "Compatible con Python y Rust",
+      "Documentación comunitaria activa",
+      "Soporte para múltiples algoritmos de RL",
+      "Herramientas de visualización integradas"
+    ],
+    "etica": "Promueve la transparencia en el entrenamiento de agentes y permite auditorías de sesgos mediante su código abierto.",
+    "limite_gratis": "Acceso completo al código fuente y a las funciones sin restricciones.",
+    "id": "verifiers-v1-f18da7",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Osaurus",
+    "compania": "Osaurus",
+    "tipo": "Framework de agentes",
+    "precio": "Gratuito",
+    "descripcion": "Framework de agentes de código abierto que se ejecutan completamente en local en macOS, sin dependencia de la nube ni telemetría.",
+    "web": "https://github.com/osaurus/osaurus",
+    "funciones": [
+      "Ejecución local de agentes",
+      "Sin conexión a internet requerida",
+      "Sin recopilación de datos de uso",
+      "Soporte para múltiples lenguajes",
+      "Entorno de desarrollo integrado"
+    ],
+    "caracteristicas": [
+      "Código abierto y modificable",
+      "Compatible con macOS exclusivamente",
+      "Sin telemetría ni seguimiento",
+      "Soporte para agentes personalizados",
+      "Documentación técnica detallada"
+    ],
+    "etica": "Prioriza la privacidad al procesar todos los datos localmente y evita el uso de servicios en la nube.",
+    "limite_gratis": "Acceso ilimitado a todas las funciones del framework sin costo.",
+    "id": "osaurus-868697",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Atrophy CLI",
+    "compania": "Atrophy",
+    "tipo": "Herramienta de productividad",
+    "precio": "Gratuito",
+    "descripcion": "Aplicación de línea de comandos que genera ejercicios diarios de programación para prevenir la atrofia de habilidades por dependencia excesiva de IA.",
+    "web": "https://github.com/atrophy/atrophy-cli",
+    "funciones": [
+      "Generación de ejercicios diarios",
+      "Niveles de dificultad ajustables",
+      "Soporte para múltiples lenguajes",
+      "Registro de progreso del usuario",
+      "Integración con entornos de desarrollo"
+    ],
+    "caracteristicas": [
+      "Código abierto y personalizable",
+      "Interfaz de línea de comandos ligera",
+      "Sin conexión a internet requerida",
+      "Soporte para scripts personalizados",
+      "Documentación técnica detallada"
+    ],
+    "etica": "Promueve el aprendizaje equilibrado y evita la dependencia excesiva de herramientas de IA.",
+    "limite_gratis": "Acceso completo a todas las funciones sin restricciones.",
+    "id": "atrophy-cli-02fba9",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Fudge MCP",
+    "compania": "Fudge",
+    "tipo": "Middleware MCP",
+    "precio": "Freemium",
+    "descripcion": "Middleware MCP que permite a agentes de IA extraer patrones de diseño, sistemas de color, tipografía y componentes de cualquier sitio web para replicar su estilo.",
+    "web": "https://fudge.design/mcp",
+    "funciones": [
+      "Análisis de elementos de diseño web",
+      "Extracción de sistemas de color",
+      "Identificación de tipografías",
+      "Generación de estilos replicables",
+      "Integración con MCP"
+    ],
+    "caracteristicas": [
+      "Compatible con MCP estándar",
+      "Sin límites de uso en el plan básico",
+      "Documentación técnica detallada",
+      "Soporte para múltiples lenguajes",
+      "Herramientas de análisis visual integradas"
+    ],
+    "etica": "Respeto por los derechos de autor y evita el uso no autorizado de contenido protegido.",
+    "limite_gratis": "El plan gratuito permite analizar hasta 50 sitios web mensualmente.",
+    "id": "fudge-mcp-12a25e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Playground",
+    "descripcion": "Plataforma que ofrece recompensas semanales de hasta $100,000 por identificar vulnerabilidades en agentes de IA.",
+    "compania": "Playground",
+    "tipo": "Plataforma de recompensas",
+    "precio": "Pago",
+    "funciones": [
+      "Pruebas de seguridad de agentes de IA",
+      "Recompensas por hallazgos críticos",
+      "Herramientas de análisis de código",
+      "Soporte para múltiples tipos de agentes",
+      "Reportes de vulnerabilidades detallados"
+    ],
+    "caracteristicas": [
+      "Sin plan gratuito disponible",
+      "Acceso a agentes de alta complejidad",
+      "Soporte técnico 24/7",
+      "Herramientas de automatización integradas",
+      "Comunidad de expertos en seguridad"
+    ],
+    "etica": "Promueve la seguridad de los agentes de IA mediante pruebas responsables y colaboración con desarrolladores.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://www.producthunt.com/products/nyx-4",
+    "id": "playground-a5fedb",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "NoMac.app",
+    "descripcion": "Pipeline de publicación de aplicaciones iOS sin interfaz gráfica para agentes de IA.",
+    "compania": "NoMac",
+    "tipo": "Herramienta de desarrollo",
+    "precio": "Pago",
+    "funciones": [
+      "Compilación de apps iOS sin interfaz",
+      "Integración con agentes de IA",
+      "Automatización de procesos de publicación",
+      "Soporte para múltiples plataformas",
+      "Gestión de certificados y firmas"
+    ],
+    "caracteristicas": [
+      "Sin plan gratuito disponible",
+      "Compatible con Xcode y herramientas de Apple",
+      "Soporte técnico dedicado",
+      "Documentación técnica detallada",
+      "Integración con sistemas de CI/CD"
+    ],
+    "etica": "Cumple con las políticas de App Store y garantiza la privacidad de los datos de los usuarios.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://nomac.app/",
+    "id": "nomac-app-0a4cca",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Second Brain for AI v2",
+    "descripcion": "Memoria de IA que conecta información entre todas las herramientas para una productividad mejorada.",
+    "compania": "Second Brain",
+    "tipo": "Asistente de productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Conexión de datos entre herramientas",
+      "Memoria persistente de la IA",
+      "Búsqueda inteligente de información",
+      "Sincronización en tiempo real",
+      "Integración con múltiples plataformas"
+    ],
+    "caracteristicas": [
+      "Sin límites de uso en el plan básico",
+      "Documentación técnica detallada",
+      "Soporte para múltiples idiomas",
+      "Herramientas de análisis integradas",
+      "Interfaz intuitiva y personalizable"
+    ],
+    "etica": "Protege la privacidad de los datos y permite control total sobre la información almacenada.",
+    "limite_gratis": "El plan gratuito ofrece 500 notas y 10 integraciones con herramientas.",
+    "web": "https://www.thesecondbrain.io/",
+    "id": "second-brain-for-ai-v2-be531b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Miora",
+    "descripcion": "Escala la creatividad con un lienzo editable y memoria de agentes para colaboración en tiempo real.",
+    "compania": "Miora",
+    "tipo": "Herramienta creativa",
+    "precio": "Freemium",
+    "funciones": [
+      "Canvas colaborativo en tiempo real",
+      "Memoria persistente de agentes",
+      "Edición de contenido multimedia",
+      "Sincronización entre dispositivos",
+      "Integración con herramientas de IA"
+    ],
+    "caracteristicas": [
+      "Sin límites de uso en el plan básico",
+      "Documentación técnica detallada",
+      "Soporte para múltiples formatos de archivo",
+      "Herramientas de edición avanzadas",
+      "Interfaz intuitiva y personalizable"
+    ],
+    "etica": "Promueve la propiedad intelectual de los usuarios y protege la privacidad de los datos creativos.",
+    "limite_gratis": "El plan gratuito permite 3 proyectos activos y 10 colaboradores por proyecto.",
+    "web": "https://miora.ai/",
+    "id": "miora-8a2f27",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]
