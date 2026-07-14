@@ -1,12 +1,82 @@
 {
-  "actualizado": "2026-07-13T10:53:48Z",
+  "actualizado": "2026-07-14T17:08:19Z",
   "novedades": [
     {
-      "titulo": "A Meta le pareció buena idea que su IA generara imágenes a partir de tus fotos de Instagram. Días después ya ha dado marcha atrás",
+      "titulo": "El fin del anonimato en internet: así usa la IA para identificarte con pocas pistas",
+      "resumen": "La época de publicar de forma anónima en internet se está acabando. Los usuarios que usan seudónimo siempre han confiado en algo llamado obscuridad práctica: podías dejar migajas de información sueltas por la red, el [&#",
+      "enlace": "https://blogthinkbig.com/el-fin-del-anonimato-en-internet-asi-usa-la-ia-para-identificarte-con-pocas-pistas",
+      "medio": "Think Big",
+      "fecha": "2026-07-14T16:00:00Z"
+    },
+    {
+      "titulo": "Madrid va a abrir un túnel que vigila el tráfico con IA en tiempo real: así funcionará el nuevo subterráneo de la Castellana",
+      "resumen": "Hace unos días conocíamos que Madrid había terminado con una de las fases clave del soterramiento del norte del paseo de la Castellana. Esta es la excavación del túnel que conectará la M-30 con el entorno de las Cuatro T",
+      "enlace": "https://www.xataka.com/movilidad/madrid-va-a-abrir-tunel-que-vigila-trafico-ia-tiempo-real-asi-funcionara-nuevo-subterraneo-castellana",
+      "medio": "Xataka",
+      "fecha": "2026-07-14T14:16:06Z"
+    },
+    {
+      "titulo": "Llega la inteligencia artificial en Waze: así va a cambiar la app en los próximos días",
+      "resumen": "Waze es una de las mejores aplicaciones que tienen los conductores en sus teléfonos móviles. Sin embargo, para bien o para mal, es propiedad de Google. Y aunque sigue siendo una app independiente de Google [&#8230;] Lleg",
+      "enlace": "https://blogthinkbig.com/novedades-waze-viajar-gemini-ia-inteligencia-artificial",
+      "medio": "Think Big",
+      "fecha": "2026-07-14T14:01:00Z"
+    },
+    {
+      "titulo": "Anthropic asegura haber encontrado la \"consciencia\" de Claude, aunque los datos cuentan otra historia",
+      "resumen": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp;(IA), como os explicamos la semana pasada. Esta compañía asegura ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
+      "medio": "Xataka",
+      "fecha": "2026-07-14T13:16:06Z"
+    },
+    {
+      "titulo": "Nadie apostaría hoy por Meta en la carrera de la superinteligencia, pero juega con más ventaja de la que pensamos para ganarla",
+      "resumen": "Hace un año, Zuckerberg estaba contratando talento IA como si se fuera a acabar el mundo, ofreciendo sueldos millonarios y hasta comprando empresas enteras para poder fichar a Alexandr Wang. Un año después, han despedido",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nadie-apostaria-hoy-meta-carrera-superinteligencia-juega-ventaja-que-pensamos-para-ganarla",
+      "medio": "Xataka",
+      "fecha": "2026-07-14T13:00:08Z"
+    },
+    {
+      "titulo": "La información es poder y Microsoft ha llegado a una conclusión: se ha cansado de regalarla a las Big Tech de la IA",
+      "resumen": "Satya Nadella, el CEO de Microsoft, se ha puesto creativo en Twitter. A través de un mensaje casi tan largo como el que su colega Asha Sharma, CEO de Xbox, aprovechó para comunicar el despido de 3.200 personas hace apena",
+      "enlace": "https://www.xataka.com/empresas-y-economia/informacion-poder-microsoft-ha-llegado-a-conclusion-se-ha-cansado-regalarla-a-big-tech-ia",
+      "medio": "Xataka",
+      "fecha": "2026-07-14T10:30:07Z"
+    },
+    {
+      "titulo": "La adopción de la IA se acelera: La preparación de los profesionales se convierte en el factor decisivo para el ROI",
+      "resumen": "Solo el 23 % de las plantillas de las organizaciones encuestadas están preparadas para la IA, lo que supone un descenso de 6 puntos con respecto a los resultados de este informe en 2025 L'articolo La adopción de la IA se",
+      "enlace": "https://www.computing.es/informes/la-adopcion-de-la-ia-se-acelera-la-preparacion-de-los-profesionales-se-convierte-en-el-factor-decisivo-para-el-roi/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-14T08:31:56Z"
+    },
+    {
+      "titulo": "\"Si no fuera por el coche, Apple estaría aún más rezagada en IA\". Mark Gurman revela la importancia del Apple Car en los actuales chips de iPhone y Mac",
+      "resumen": "Diez años y 10.000 millones de dólares es lo que Apple invirtió en su fallido coche eléctrico. Uno que comenzó su desarrollo en 2014 con idea de llevar a la compañía al éxito en un terreno inédito para ellos como ya suce",
+      "enlace": "https://www.applesfera.com/curiosidades/no-fuera-coche-apple-estaria-rezagada-ia-mark-gurman-revela-importancia-apple-car-actuales-chips-iphone-mac",
+      "medio": "Applesfera",
+      "fecha": "2026-07-13T15:00:07Z"
+    },
+    {
+      "titulo": "Cómo usar ChatGPT en WhatsApp ahora que vuelve a estar disponible en la Unión Europea",
+      "resumen": "Vamos a explicarte&nbsp;cómo usar ChatGPT en WhatsApp, usando la&nbsp;inteligencia artificial&nbsp;creada por OpenAI. Se trata del&nbsp;ChatGPT&nbsp;oficial, el real, y no ningún otro bot que usa su tecnología. Tras lleg",
+      "enlace": "https://www.xataka.com/basics/como-usar-chatgpt-whatsapp-vuelve-a-estar-disponible-union-europea",
+      "medio": "Xataka",
+      "fecha": "2026-07-13T14:59:01Z"
+    },
+    {
+      "titulo": "Por qué la inteligencia artificial nos puede llevar a resucitar la energía nuclear (y a mirar al espacio)",
+      "resumen": "Cuando le pides a una inteligencia artificial que te resuma un PDF o te genere una imagen, lo último en lo que piensas es en reactores nucleares o en la estratosfera. Pero la realidad física [&#8230;] Por qué la intelige",
+      "enlace": "https://blogthinkbig.com/consumo-energia-inteligencia-artificial",
+      "medio": "Think Big",
+      "fecha": "2026-07-13T11:54:38Z"
+    },
+    {
+      "titulo": "Instagram intentó generar imágenes con IA a partir de las fotos de sus usuarios: ahora Meta ha tenido que retractarse",
       "resumen": "La semana pasada Meta lanzó Muse Image y Muse Video, sus nuevos modelos de IA&nbsp;integrados en la app de Meta AI. Sin embargo, el lanzamiento fue rápidamente eclipsado por las críticas que recibió una de las funciones ",
       "enlace": "https://www.xataka.com/privacidad/a-meta-le-parecio-buena-idea-que-su-ia-generara-imagenes-a-partir-tus-fotos-instagram-dias-despues-ha-dado-marcha-atras",
       "medio": "Xataka",
-      "fecha": "2026-07-13T09:16:06Z"
+      "fecha": "2026-07-13T09:15:00Z"
     },
     {
       "titulo": "Eustella: la alternativa europea a Claude, Gemini y ChatGPT",
@@ -44,13 +114,6 @@
       "fecha": "2026-07-10T19:01:58Z"
     },
     {
-      "titulo": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
-      "resumen": "Llevamos una semana bastante loca en cuanto a lanzamientos de modelos de IA. Puede que el protagonismo se lo haya llevado la esperada familia GPT-5.6 (con sus variantes Sol, Terra, Luna), pero es que además hemos visto c",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nuevos-grok-4-5-muse-spark-1-1-tienen-apuesta-rompedora-hacer-90-sus-rivales-al-20-su-precio",
-      "medio": "Xataka",
-      "fecha": "2026-07-10T15:31:57Z"
-    },
-    {
       "titulo": "El plan de Europa para blindar su ciberseguridad con IA",
       "resumen": "Hasta hace poco, un ciberataque masivo requería equipos coordinados y semanas de preparación. Hoy, un modelo de inteligencia artificial puede escanear redes enteras, encontrar grietas y ejecutar una intrusión en cuestión",
       "enlace": "https://blogthinkbig.com/plan-europa-ciberseguridad-ia",
@@ -63,34 +126,6 @@
       "enlace": "https://www.applesfera.com/seguridad/instagram-va-a-usar-tus-fotos-publicas-para-generar-imagenes-ia-yo-he-ido-corriendo-a-desactivarlo",
       "medio": "Applesfera",
       "fecha": "2026-07-10T12:00:00Z"
-    },
-    {
-      "titulo": "Meta AI puede crear imágenes con tu cara sin permiso usando tus fotos de Instagram: cómo funciona y dos modos de evitarlo",
-      "resumen": "Meta AI ha estrenado una nueva función con la que cualquier usuario puede crear imágenes con las caras de otras personas sin permiso. Esto abre la puerta a todo tipo de abusos y usos poco éticos, ya que la función permit",
-      "enlace": "https://www.xataka.com/basics/meta-ai-crea-imagenes-tu-cara-permiso-usando-tus-fotos-instagram-como-funciona-dos-modos-evitarlo",
-      "medio": "Xataka",
-      "fecha": "2026-07-10T11:07:00Z"
-    },
-    {
-      "titulo": "GPT-5.6: novedades y todo lo que cambia en ChatGPT con la nueva versión de su modelo de inteligencia artificial",
-      "resumen": "Vamos a decirte&nbsp;cuáles son las novedades de&nbsp;GPT-5.6, la nueva versión del modelo de&nbsp;inteligencia artificial&nbsp;de&nbsp;ChatGPT. Vamos a hacerlo de una manera sencilla, sintetizando en una lista cuáles so",
-      "enlace": "https://www.xataka.com/basics/gpt-5-6-novedades-todo-que-cambia-chatgpt-nueva-version-su-modelo-inteligencia-artificial",
-      "medio": "Xataka",
-      "fecha": "2026-07-10T10:32:12Z"
-    },
-    {
-      "titulo": "GPT-5.6 probablemente sea el mejor modelo de IA del mundo. Y precisamente por eso, la mayoría no lo necesita",
-      "resumen": "Ayer OpenAI lanzaba públicamente GPT-5.6, su nueva familia de modelos de IA con tres variantes: Sol, la más potente, Terra, más equilibrada, y Luna, la más eficiente en costes. Una idea sobresalía en ese lanzamiento: la ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gpt-5-6-probablemente-sea-mejor-modelo-ia-mundo-precisamente-eso-mayoria-no-necesita",
-      "medio": "Xataka",
-      "fecha": "2026-07-10T08:15:58Z"
-    },
-    {
-      "titulo": "Meta acaba de convertir tus fotos de Instagram en materia prima para su IA sin pedirte permiso: cómo desactivarlo",
-      "resumen": "Meta no es conocida precisamente por ser una empresa que cuide la privacidad de sus usuarios, más bien al contrario. Con su último lanzamiento nos lo han dejado aún más claro si cabe: un generador de imágenes en el que c",
-      "enlace": "https://www.xataka.com/privacidad/meta-acaba-convertir-tus-fotos-instagram-materia-prima-para-su-ia-pedirte-permiso-como-desactivarlo",
-      "medio": "Xataka",
-      "fecha": "2026-07-10T07:31:58Z"
     },
     {
       "titulo": "Cuando el calor apaga la IA: el reto climático de los centros de datos",
@@ -175,44 +210,16 @@
       "enlace": "https://www.computing.es/seguridad/el-gran-riesgo-de-la-ia-no-es-la-tecnologia-sino-la-fuga-de-datos/",
       "medio": "Computing.es",
       "fecha": "2026-06-30T12:10:30Z"
-    },
-    {
-      "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
-      "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
-      "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
-      "medio": "Applesfera",
-      "fecha": "2026-06-27T09:00:00Z"
-    },
-    {
-      "titulo": "\"Nunca había visto algo así\": por qué Apple sube los precios ahora y hasta cuándo durará el chaparrón",
-      "resumen": "Tim Cook lleva más de cuarenta años en el mundo de la tecnología. Ha vivido la burbuja puntocom, la crisis financiera de 2008, la pandemia, las guerras de patentes, los aranceles de Trump... Ha gestionado Apple en moment",
-      "enlace": "https://www.applesfera.com/apple-1/nunca-habia-visto-algo-asi-que-apple-sube-precios-ahora-cuando-durara-chaparron",
-      "medio": "Applesfera",
-      "fecha": "2026-06-26T12:00:00Z"
-    },
-    {
-      "titulo": "Del hype a la estrategia: cómo integrar la inteligencia artificial con impacto real en las organizaciones",
-      "resumen": "Las organizaciones ya no se preguntan qué puede hacer la IA, sino cómo integrarla para que impacte de forma real en su cuenta de resultados L'articolo Del hype a la estrategia: cómo integrar la inteligencia artificial co",
-      "enlace": "https://www.computing.es/inteligencia-artificial/del-hype-a-la-estrategia-como-integrar-la-inteligencia-artificial-con-impacto-real-en-las-organizaciones/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-26T07:50:17Z"
-    },
-    {
-      "titulo": "Infobip celebra sus 10 años en España hablando del salto de la IA agéntica de los casos piloto a la operativa real en la comunicación conversacional",
-      "resumen": "Infobip ha reunido en Madrid a expertos de Google, Microsoft, Telefónica, Adobe y Meta para analizar el futuro de la comunicación empresarial L'articolo Infobip celebra sus 10 años en España hablando del salto de la IA a",
-      "enlace": "https://www.computing.es/inteligencia-artificial/infobip-celebra-sus-10-anos-en-espana-hablando-del-salto-de-la-ia-agentica-de-los-casos-piloto-a-la-operativa-real-en-la-comunicacion-conversacional/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-25T08:00:00Z"
-    },
-    {
-      "titulo": "Dos de cada tres CEO temen no invertir en IA lo suficientemente rápido",
-      "resumen": "La modernización de la infraestructura constituye la principal prioridad de los CEO para 2026, siendo la fragmentación de datos, la seguridad y el control sus mayores preocupaciones L'articolo Dos de cada tres CEO temen ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/dos-de-cada-tres-ceo-temen-no-invertir-en-ia-lo-suficientemente-rapido/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-25T07:31:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Cómo borrar tus datos de Claude: guía completa de memoria, historial y privacidad",
+      "resumen": "Aprende a borrar tus datos de Claude: qué guarda la memoria, cómo verla y eliminarla, y cómo evitar que tus chats entrenen los modelos. The post Cómo borrar tus datos de Claude: guía completa de memoria, historial y priv",
+      "enlace": "https://derechodelared.com/2026/07/14/como-borrar-tus-datos-claude/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-14T16:59:30Z"
+    },
     {
       "titulo": "OASIS: auditorías de seguridad automatizadas con IA y modelos de Ollama locales",
       "resumen": "OASIS es una herramienta open source de auditoría de seguridad que usa modelos locales de Ollama para detectar vulnerabilidades en código fuente. Todo el análisis ocurre en tu máquina, sin enviar código a ningún servidor",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/servicios/microsoft-365-tendra-versiones-baratas-todo-mundo-fruto-presion-antimonopolio-comision-europea",
       "medio": "Xataka",
       "fecha": "2025-09-12T19:30:45Z"
-    },
-    {
-      "titulo": "El presidente de EEUU ha elevado el pulso tras la millonaria multa de la UE a Google: amenaza con activar la Sección 301",
-      "resumen": "Bruselas volvió a apuntar alto: una multa de 2.950 millones de euros a Google por su negocio publicitario. La Comisión Europea no hizo más que reforzar su perfil de regulador firme en un sector que lleva años bajo su lup",
-      "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
-      "medio": "Xataka",
-      "fecha": "2025-09-08T16:30:00Z"
     }
   ]
 }

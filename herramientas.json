@@ -7136,7 +7136,7 @@
     "tipo": "Tarjeta de presentación digital IA",
     "precio": "Freemium",
     "descripcion": "Tarjeta digital que recuerda contactos y facilita el networking.",
-    "web": "",
+    "web": "https://www.connectmachine.ai/",
     "funciones": [
       "Recordatorio de seguimiento",
       "Análisis de interacción",
@@ -7158,7 +7158,7 @@
     "fecha_agregado": "2026-07-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Yasmine Works",
@@ -7547,7 +7547,7 @@
     "tipo": "Mercado de datos",
     "precio": "Freemium",
     "descripcion": "Mercado que proporciona datos estructurados en tiempo real para agentes autónomos que toman decisiones informadas.",
-    "web": "https://agentkey.com",
+    "web": "https://agentkey.dev/",
     "funciones": [
       "Acceso a datos en tiempo real",
       "Estructura de datos validada",
@@ -7569,7 +7569,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-13",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Verifiers v1",
@@ -7577,7 +7578,7 @@
     "tipo": "Herramienta de entrenamiento",
     "precio": "Gratuito",
     "descripcion": "Biblioteca open source para crear tareas, entornos y entornos de ejecución que entrenan y evalúan agentes mediante aprendizaje por refuerzo.",
-    "web": "https://github.com/prime-intellect/verifiers",
+    "web": "https://github.com/PrimeIntellect-ai/verifiers",
     "funciones": [
       "Creación de tasksets personalizados",
       "Entornos de entrenamiento modular",
@@ -7599,7 +7600,8 @@
     "pago": false,
     "fecha_agregado": "2026-07-13",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Osaurus",
@@ -7607,7 +7609,7 @@
     "tipo": "Framework de agentes",
     "precio": "Gratuito",
     "descripcion": "Framework de agentes de código abierto que se ejecutan completamente en local en macOS, sin dependencia de la nube ni telemetría.",
-    "web": "https://github.com/osaurus/osaurus",
+    "web": "https://github.com/osaurus-ai/osaurus",
     "funciones": [
       "Ejecución local de agentes",
       "Sin conexión a internet requerida",
@@ -7629,7 +7631,8 @@
     "pago": false,
     "fecha_agregado": "2026-07-13",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Atrophy CLI",
@@ -7637,7 +7640,7 @@
     "tipo": "Herramienta de productividad",
     "precio": "Gratuito",
     "descripcion": "Aplicación de línea de comandos que genera ejercicios diarios de programación para prevenir la atrofia de habilidades por dependencia excesiva de IA.",
-    "web": "https://github.com/atrophy/atrophy-cli",
+    "web": "https://kvcops.github.io/Atrophy/",
     "funciones": [
       "Generación de ejercicios diarios",
       "Niveles de dificultad ajustables",
@@ -7659,7 +7662,8 @@
     "pago": false,
     "fecha_agregado": "2026-07-13",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Fudge MCP",
@@ -7667,7 +7671,7 @@
     "tipo": "Middleware MCP",
     "precio": "Freemium",
     "descripcion": "Middleware MCP que permite a agentes de IA extraer patrones de diseño, sistemas de color, tipografía y componentes de cualquier sitio web para replicar su estilo.",
-    "web": "https://fudge.design/mcp",
+    "web": "https://www.fudge.ai/",
     "funciones": [
       "Análisis de elementos de diseño web",
       "Extracción de sistemas de color",
@@ -7689,7 +7693,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-13",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Playground",
@@ -7713,14 +7718,14 @@
     ],
     "etica": "Promueve la seguridad de los agentes de IA mediante pruebas responsables y colaboración con desarrolladores.",
     "limite_gratis": "Sin plan gratuito.",
-    "web": "https://www.producthunt.com/products/nyx-4",
+    "web": "https://playgroundai.com/",
     "id": "playground-a5fedb",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-07-13",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "NoMac.app",
@@ -7811,6 +7816,122 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ClawTeams",
+    "descripcion": "Equipo de IA proactivo y orientado a objetivos para optimizar operaciones de comercio electrónico.",
+    "compania": "ClawTeams Inc.",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de tareas",
+      "Gestión de clientes",
+      "Análisis de inventario",
+      "Optimización de campañas"
+    ],
+    "caracteristicas": [
+      "Integración con plataformas de e-commerce",
+      "Análisis en tiempo real",
+      "Escalabilidad",
+      "Personalización de estrategias"
+    ],
+    "etica": "Prioriza la transparencia en la toma de decisiones y protege los datos de clientes mediante encriptación avanzada.",
+    "limite_gratis": "Ofrece funcionalidades básicas con límite de 100 interacciones mensuales y sin acceso a integraciones premium.",
+    "web": "https://clawteams.ai/",
+    "id": "clawteams-28f8d8",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pazi",
+    "descripcion": "Herramienta de código abierto para automatizar operaciones empresariales mediante programación intuitiva.",
+    "compania": "Pazi Labs",
+    "tipo": "Asistente de programación",
+    "precio": "Gratuito",
+    "funciones": [
+      "Generación de código",
+      "Automatización de flujos",
+      "Procesamiento de datos",
+      "Integración con APIs"
+    ],
+    "caracteristicas": [
+      "Interfaz amigable",
+      "Colaboración en tiempo real",
+      "Plantillas personalizables",
+      "Soporte para múltiples lenguajes"
+    ],
+    "etica": "Promueve la seguridad de los datos y la equidad en el diseño de algoritmos mediante auditorías comunitarias.",
+    "limite_gratis": "Acceso completo a funcionalidades básicas, con límites en el número de proyectos y usuarios simultáneos.",
+    "web": "https://pazi.ai/",
+    "id": "pazi-ac1086",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Branda",
+    "descripcion": "Convierte cualquier dominio en anuncios publicitarios alineados con la identidad de marca, basado en código abierto.",
+    "compania": "MIT Open Source",
+    "tipo": "Generación de contenido",
+    "precio": "Gratuito",
+    "funciones": [
+      "Creación de anuncios",
+      "Consistencia de marca",
+      "Generación de plantillas",
+      "Optimización SEO"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Personalización avanzada",
+      "Compatibilidad multiplataforma",
+      "Comunidad activa"
+    ],
+    "etica": "Fomenta la transparencia y la accesibilidad, permitiendo a los usuarios auditar y modificar el código según sus valores.",
+    "limite_gratis": "Acceso total a todas las funciones, con posibles restricciones en el almacenamiento de datos o soporte técnico.",
+    "web": "https://branda.co/",
+    "id": "branda-d517f3",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "loopclub",
+    "descripcion": "Máquina de ritmos compartida para colaborar en proyectos musicales con usuarios o asistentes de IA como Claude.",
+    "compania": "LoopClub Studios",
+    "tipo": "Creatividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Colaboración en tiempo real",
+      "Generación de música con IA",
+      "Compartición de proyectos",
+      "Edición de audio"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Integración con modelos de IA",
+      "Comunidad creativa",
+      "Exportación de pistas"
+    ],
+    "etica": "Resalta la importancia de la propiedad intelectual y la equidad en la colaboración entre humanos y algoritmos.",
+    "limite_gratis": "Permite crear hasta 5 proyectos con funciones básicas, sin acceso a herramientas avanzadas de edición o exportación.",
+    "web": "https://loopclub.io/",
+    "id": "loopclub-0aeb27",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-14",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
