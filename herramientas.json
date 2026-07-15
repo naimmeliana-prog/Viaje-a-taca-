@@ -7935,5 +7935,189 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
+  },
+  {
+    "nombre": "V2Fun",
+    "compania": "V2Fun",
+    "tipo": "Generación de 3D",
+    "precio": "Freemium",
+    "descripcion": "V2Fun permite crear personajes 3D de alta calidad con texturas 8K y captura de movimiento impulsada por IA, facilitando la producción de contenido visual avanzado. Ideal para desarrolladores de juegos y creadores de contenido que buscan realismo sin complicaciones.",
+    "web": "https://v2fun.app/",
+    "funciones": [
+      "Generación de modelos 3D a partir de descripciones",
+      "Aplicación de texturas 8K automáticas",
+      "Captura y retargeting de movimiento mediante IA",
+      "Exportación en formatos compatibles con engines",
+      "Integración con pipelines de producción"
+    ],
+    "caracteristicas": [
+      "Texturas 8K ultra‑detalladas",
+      "Motor de IA para animación facial",
+      "Exportación directa a Unity y Unreal",
+      "Interfaz basada en navegador",
+      "Soporte para colaboración en tiempo real"
+    ],
+    "etica": "La herramienta recopila datos de movimiento y textura que pueden contener información personal; se recomienda obtener consentimiento explícito de los usuarios. Se deben evitar sesgos en la generación de cuerpos y rostros para no perpetuar estereotipos.",
+    "limite_gratis": "La versión gratuita permite crear hasta 5 personajes al mes con marcas de agua, mientras que el plan pago elimina límites y marcas.",
+    "id": "v2fun-06b544",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-15",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "EQK",
+    "compania": "EQK",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "EQK es una aplicación para macOS que ajusta dinámicamente la ecualización de audio mediante IA, adaptándose al contenido y al entorno del usuario. Optimiza el sonido para música, podcasts y videoconferencias sin intervención manual.",
+    "web": "https://eqk.app/",
+    "funciones": [
+      "Ecualización automática por tipo de contenido",
+      "Adaptación en tiempo real a cambios de entorno",
+      "Perfil de sonido personalizable",
+      "Integración con aplicaciones de transmisión",
+      "Soporte para dispositivos Bluetooth"
+    ],
+    "caracteristicas": [
+      "Ajuste inteligente basado en IA",
+      "Interfaz minimalista para macOS",
+      "Compatibilidad con macOS 12+",
+      "Modo de prueba sin límite de tiempo",
+      "Actualizaciones continuas de algoritmos"
+    ],
+    "etica": "La IA analiza patrones de audio que pueden incluir conversaciones privadas; es esencial garantizar cifrado y uso responsable. Se deben evitar sesgos en la percepción del sonido que puedan afectar la accesibilidad.",
+    "limite_gratis": "La versión gratuita ofrece ecualización básica con limitaciones de canales, mientras que la suscripción paga desbloquea ajustes avanzados y soporte premium.",
+    "id": "eqk-f05097",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-15",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ccshare",
+    "descripcion": "ccshare es una plataforma de multiplayer para compartir y colaborar en código mediante la IA de Claude, permitiendo a equipos trabajar simultáneamente en proyectos. Facilita la revisión y ejecución de código en tiempo real desde cualquier navegador.",
+    "compania": "ccshare",
+    "tipo": "Colaboración",
+    "precio": "Freemium",
+    "funciones": [
+      "Ejecutar código compartido en tiempo real",
+      "Revisión colaborativa con comentarios de IA",
+      "Integración con repositorios Git",
+      "Soporte para múltiples lenguajes de programación",
+      "Gestión de versiones mediante IA"
+    ],
+    "caracteristicas": [
+      "Entorno de desarrollo en la nube",
+      "Interfaz basada en chat",
+      "Sincronización instantánea de cambios",
+      "Control de acceso por proyectos",
+      "Compatibilidad con extensiones de VS Code"
+    ],
+    "etica": "El uso de IA para analizar código puede exponer vulnerabilidades de seguridad si no se protege adecuadamente la información. Es necesario establecer políticas de privacidad claras para los usuarios y sus datos.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 salas de colaboración y tiene un límite de 100 mensajes al día, mientras que los planes superiores amplían estos límites.",
+    "web": "https://ccshare.in/",
+    "id": "ccshare-651629",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Tiptap AI Toolkit",
+    "descripcion": "Tiptap AI Toolkit permite que la IA edite documentos en tiempo real, integrándose directamente con editores de texto para mejorar la productividad. Facilita la generación de contenido, corrección y formato sin salir del flujo de trabajo.",
+    "compania": "Tiptap",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Edición automática de texto",
+      "Sugerencias de estilo y gramática",
+      "Generación de resúmenes y respuestas",
+      "Integración con plataformas de mensajería",
+      "Control de versiones mediante IA"
+    ],
+    "caracteristicas": [
+      "Edición en tiempo real dentro de documentos",
+      "Compatibilidad con markdown y rich text",
+      "API para desarrolladores",
+      "Soporte multilingüe",
+      "Modo offline opcional"
+    ],
+    "etica": "El acceso a contenido de documentos puede comprometer la confidencialidad; se deben aplicar cifrados y políticas de acceso estrictas. Se debe vigilar que los sesgos de la IA no distorsionen la redacción en contextos sensibles.",
+    "limite_gratis": "La versión gratuita permite 100 operaciones de IA al mes y guarda documentos en la nube con marcas de agua, mientras que el plan pago elimina límites y marcas.",
+    "web": "https://tiptap.dev/",
+    "id": "tiptap-ai-toolkit-00affb",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "nudge2.0",
+    "descripcion": "nudge2.0 es una herramienta que usa IA para programar toda la semana del usuario, asignando tareas y recordatorios para tomar acción. Busca optimizar la gestión del tiempo mediante sugerencias personalizadas.",
+    "compania": "nudge2.0",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Planificación semanal automática",
+      "Asignación de tareas basada en prioridades",
+      "Recordatorios contextuales",
+      "Integración con calendarios",
+      "Análisis de productividad semanal"
+    ],
+    "caracteristicas": [
+      "Interfaz conversacional",
+      "Sincronización con apps de productividad",
+      "Recomendaciones de hábitos",
+      "Modo offline limitado",
+      "Dashboard de seguimiento"
+    ],
+    "etica": "La IA que programa acciones puede influir en decisiones personales; es crucial que el usuario mantenga el control final. Se deben evitar sesgos que favorezcan ciertos tipos de tareas sobre otros.",
+    "limite_gratis": "La versión gratuita permite planificar una semana por mes con un número limitado de nudges, mientras que la suscripción paga ofrece planificación ilimitada y sincronización avanzada.",
+    "web": "https://www.nudgeapp.dev/",
+    "id": "nudge2-0-7d9821",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "New AI tools by IFTTT",
+    "descripcion": "Las nuevas herramientas de IA de IFTTT permiten automatizar flujos de trabajo usando modelos como Grok, Gemini y Perplexity, integrando IA en tareas cotidianas. Facilita la creación de applets inteligentes sin necesidad de programar.",
+    "compania": "IFTTT",
+    "tipo": "Automatización",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de applets con IA generativa",
+      "Automatización de respuestas a mensajes",
+      "Enriquecimiento de datos con búsqueda IA",
+      "Gatillos basados en eventos de redes sociales",
+      "Integración con servicios de nube"
+    ],
+    "caracteristicas": [
+      "Sin necesidad de código",
+      "Plantillas predefinidas",
+      "Soporte multi‑plataforma",
+      "Actualizaciones continuas de modelos",
+      "Panel de monitoreo de ejecuciones"
+    ],
+    "etica": "El uso de IA en automatización puede propagar sesgos si los modelos están entrenados con datos sesgados; se recomienda revisar los resultados. Es importante proteger la privacidad de los datos al activar triggers que involucren información personal.",
+    "limite_gratis": "El plan gratuito permite crear hasta 5 applets con un número limitado de ejecuciones diarias, mientras que los planes de pago amplían estos límites y añaden integraciones premium.",
+    "web": "https://ifttt.com/",
+    "id": "new-ai-tools-by-ifttt-d3be75",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]

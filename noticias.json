@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-07-14T17:08:19Z",
+  "actualizado": "2026-07-15T09:54:36Z",
   "novedades": [
+    {
+      "titulo": "El argumento de la creación de empleo ha sido la gran baza para levantar centros de datos. Estaría bien si fuera cierto",
+      "resumen": "Los centros de datos consumen mucha electricidad, haciendo que suba la factura de la luz, contaminan el aire y a veces también el agua. Argumentos en contra hay cada vez más, mientras que los argumentos a favor para quie",
+      "enlace": "https://www.xataka.com/empresas-y-economia/argumento-creacion-empleo-ha-sido-gran-baza-para-levantar-centros-datos-estaria-bien-fuera-cierto",
+      "medio": "Xataka",
+      "fecha": "2026-07-15T07:01:55Z"
+    },
+    {
+      "titulo": "Filtran el primer producto de los creadores de ChatGPT: un altavoz que parece tener vida propia. Y Apple amenaza con truncarlo",
+      "resumen": "¿Un altavoz? Sí, un altavoz será el primer producto de OpenAI. Aunque en principio, no será un altavoz más. Al menos esas son las intenciones de la compañía según un informe de Bloomberg en el que el filtrador Mark Gurma",
+      "enlace": "https://www.applesfera.com/rumores/openai-describe-internamente-como-primero-su-tipo-gurman-filtra-como-sera-primer-producto-creadores-chatgpt-altavoz",
+      "medio": "Applesfera",
+      "fecha": "2026-07-15T06:31:00Z"
+    },
     {
       "titulo": "El fin del anonimato en internet: así usa la IA para identificarte con pocas pistas",
       "resumen": "La época de publicar de forma anónima en internet se está acabando. Los usuarios que usan seudónimo siempre han confiado en algo llamado obscuridad práctica: podías dejar migajas de información sueltas por la red, el [&#",
@@ -23,11 +37,11 @@
       "fecha": "2026-07-14T14:01:00Z"
     },
     {
-      "titulo": "Anthropic asegura haber encontrado la \"consciencia\" de Claude, aunque los datos cuentan otra historia",
+      "titulo": "Chantaje y provocación: así reacciona Claude cuando no sabe que la están evaluando",
       "resumen": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp;(IA), como os explicamos la semana pasada. Esta compañía asegura ",
       "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
       "medio": "Xataka",
-      "fecha": "2026-07-14T13:16:06Z"
+      "fecha": "2026-07-14T13:15:00Z"
     },
     {
       "titulo": "Nadie apostaría hoy por Meta en la carrera de la superinteligencia, pero juega con más ventaja de la que pensamos para ganarla",
@@ -107,13 +121,6 @@
       "fecha": "2026-07-10T19:31:57Z"
     },
     {
-      "titulo": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
-      "resumen": "La IA es bastante&nbsp;impopular entre los ciudadanos estadounidenses. Según una encuesta reciente, la mayoría cree que va a suponer un impacto negativo en la sociedad. Hay algo en concreto que se ha ganado el rechazo de",
-      "enlace": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
-      "medio": "Xataka",
-      "fecha": "2026-07-10T19:01:58Z"
-    },
-    {
       "titulo": "El plan de Europa para blindar su ciberseguridad con IA",
       "resumen": "Hasta hace poco, un ciberataque masivo requería equipos coordinados y semanas de preparación. Hoy, un modelo de inteligencia artificial puede escanear redes enteras, encontrar grietas y ejecutar una intrusión en cuestión",
       "enlace": "https://blogthinkbig.com/plan-europa-ciberseguridad-ia",
@@ -133,20 +140,6 @@
       "enlace": "https://blogthinkbig.com/cuando-el-calor-apaga-la-ia-el-reto-climatico-de-los-centros-de-datos",
       "medio": "Think Big",
       "fecha": "2026-07-10T07:12:12Z"
-    },
-    {
-      "titulo": "Los secretos de Anthropic para escribir un buen prompt",
-      "resumen": "Hace un tiempo, Anthropic compartió en una charla interna algo que rara vez se ve: la plantilla que usan sus propios equipos para construir prompts en producción. La diapositiva en torno a la que gira [&#8230;] Los secre",
-      "enlace": "https://blogthinkbig.com/los-secretos-de-anthropic-para-escribir-un-buen-prompt",
-      "medio": "Think Big",
-      "fecha": "2026-07-09T16:00:00Z"
-    },
-    {
-      "titulo": "Cómo internet se está blindando ante la inminente revolución cuántica",
-      "resumen": "Durante siglos, para asegurar la autenticidad de un documento bastaba con aplicar un sello de cera. Hoy confiamos en algoritmos matemáticos que protegen desde nuestras compras online hasta los secretos industriales más s",
-      "enlace": "https://blogthinkbig.com/criptografia-postcuantica-seguridad-internet",
-      "medio": "Think Big",
-      "fecha": "2026-07-09T09:28:11Z"
     },
     {
       "titulo": "iOS 27 está bien, pero si pruebas estas ocho funciones en tu iPhone es todavía mejor",
@@ -210,6 +203,13 @@
       "enlace": "https://www.computing.es/seguridad/el-gran-riesgo-de-la-ia-no-es-la-tecnologia-sino-la-fuga-de-datos/",
       "medio": "Computing.es",
       "fecha": "2026-06-30T12:10:30Z"
+    },
+    {
+      "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
+      "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
+      "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
+      "medio": "Applesfera",
+      "fecha": "2026-06-27T09:00:00Z"
     }
   ],
   "etica": [
