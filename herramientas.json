@@ -6179,7 +6179,7 @@
     "fecha_agregado": "2026-07-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 1
   },
   {
     "nombre": "Glaze by Raycast",
@@ -7942,7 +7942,7 @@
     "tipo": "Generación de 3D",
     "precio": "Freemium",
     "descripcion": "V2Fun permite crear personajes 3D de alta calidad con texturas 8K y captura de movimiento impulsada por IA, facilitando la producción de contenido visual avanzado. Ideal para desarrolladores de juegos y creadores de contenido que buscan realismo sin complicaciones.",
-    "web": "https://v2fun.app/",
+    "web": "",
     "funciones": [
       "Generación de modelos 3D a partir de descripciones",
       "Aplicación de texturas 8K automáticas",
@@ -7964,7 +7964,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-15",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "EQK",
@@ -8116,6 +8117,122 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Basedash Suggestions",
+    "descripcion": "Basedash Suggestions es un analista de datos impulsado por IA que genera ideas y recomendaciones a partir de tus datos.",
+    "compania": "Basedash AI",
+    "tipo": "Analítica de datos",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis predictivo",
+      "Visualización interactiva",
+      "Generación automática de informes",
+      "Alertas personalizadas"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Escalable para empresas",
+      "Integración con múltiples fuentes de datos",
+      "Colaboración en equipo"
+    ],
+    "etica": "Protege la privacidad de los datos de los usuarios y busca minimizar sesgos en los resultados generados.",
+    "limite_gratis": "El plan gratuito permite hasta 1000 filas de datos y 5 informes generados por mes.",
+    "web": "https://www.basedash.com/",
+    "id": "basedash-suggestions-d9eb78",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Aye",
+    "descripcion": "Aye es un internauta de IA enseñable que automatiza tareas cotidianas en el navegador, como rellenar formularios y resumir páginas.",
+    "compania": "Aye Inc.",
+    "tipo": "Asistente de navegador / Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Autocompletado inteligente",
+      "Extracción de datos",
+      "Navegación guiada",
+      "Aprendizaje personalizado"
+    ],
+    "caracteristicas": [
+      "Funciona en Chrome, Firefox y Edge",
+      "Sin necesidad de configuración inicial",
+      "Opera localmente para mayor seguridad",
+      "Se adapta a tus hábitos de navegación"
+    ],
+    "etica": "No recopila datos personales y opera localmente para proteger tu privacidad.",
+    "limite_gratis": "El plan gratuito incluye hasta 100 acciones diarias y aprendizaje básico.",
+    "web": "https://aye-ai.org/",
+    "id": "aye-3f83c8",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pebbles Ai",
+    "descripcion": "Pebbles Ai es una plataforma de ventas impulsada por IA diseñada para equipos B2B modernos, que ayuda a calificar clientes potenciales y automatizar el seguimiento.",
+    "compania": "Pebbles AI",
+    "tipo": "Plataforma de ventas de IA / CRM",
+    "precio": "Freemium",
+    "funciones": [
+      "Calificación de clientes potenciales",
+      "Chatbots de ventas",
+      "Seguimiento automatizado",
+      "Análisis de pipelines de ventas"
+    ],
+    "caracteristicas": [
+      "Integración con Salesforce y HubSpot",
+      "Interfaz personalizable",
+      "Escalable para equipos grandes",
+      "Informes detallados y exportables"
+    ],
+    "etica": "Garantiza el cumplimiento del GDPR y ofrece recomendaciones imparciales para evitar sesgos en la calificación de clientes potenciales.",
+    "limite_gratis": "El plan gratuito permite hasta 50 clientes potenciales y 1 automatización por mes.",
+    "web": "http://www.pebbles.ai/",
+    "id": "pebbles-ai-be1078",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Kimi K3",
+    "descripcion": "Kimi K3 es el primer modelo de lenguaje de clase 3T abierto al público, ofreciendo capacidades avanzadas de generación y comprensión de texto.",
+    "compania": "Kimi AI",
+    "tipo": "Modelo de lenguaje grande de código abierto",
+    "precio": "Freemium",
+    "funciones": [
+      "Modelo de código abierto bajo licencia MIT",
+      "Alto rendimiento en tareas de lenguaje",
+      "Multilingüe con soporte para múltiples idiomas",
+      "Sin costes de API"
+    ],
+    "caracteristicas": [
+      "Transparencia total del modelo",
+      "Permite la personalización local",
+      "Soporta contextos extensos",
+      "Comunidad activa de contribuidores"
+    ],
+    "etica": "Al ser de código abierto, fomenta la auditoría comunitaria para mitigar sesgos y protege la privacidad de los usuarios.",
+    "limite_gratis": "Sin plan gratuito; el modelo es completamente gratuito y de código abierto bajo licencia MIT.",
+    "web": "https://www.kimi.com/blog/kimi-k3",
+    "id": "kimi-k3-ca6aac",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-17",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

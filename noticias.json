@@ -1,15 +1,64 @@
 {
-  "actualizado": "2026-07-15T09:54:36Z",
+  "actualizado": "2026-07-17T09:51:46Z",
   "novedades": [
     {
-      "titulo": "El argumento de la creación de empleo ha sido la gran baza para levantar centros de datos. Estaría bien si fuera cierto",
+      "titulo": "Raúl Chico (Evolutio): «La principal función de una CAIO es convertir la IA en una capacidad real y transversal de la empresa»",
+      "resumen": "Hablamos con Raúl Chico, CAIO de Evolutio, quien ha pasado de dirigir la estrategia digital de la compañía de servicios cloud a la estrategia de IA desde el año 2024 L'articolo Raúl Chico (Evolutio): «La principal funció",
+      "enlace": "https://www.computing.es/inteligencia-artificial/raul-chico-evolutio-la-principal-funcion-de-una-caio-es-convertir-la-ia-en-una-capacidad-real-y-transversal-de-la-empresa/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-17T08:38:36Z"
+    },
+    {
+      "titulo": "“Nadie sabe con certeza qué va a ocurrir”: Demis Hassabis, premio Nobel, advierte del riesgo de perder el control de la IA",
+      "resumen": "Pensemos por un momento en cómo se movía el mercado tecnológico antes de noviembre de 2022. La inteligencia artificial ya estaba presente en buscadores, cámaras, recomendaciones y servicios digitales, pero todavía no era",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nadie-sabe-certeza-que-va-a-ocurrir-demis-hassabis-premio-nobel-advierte-riesgo-perder-control-ia",
+      "medio": "Xataka",
+      "fecha": "2026-07-16T21:48:47Z"
+    },
+    {
+      "titulo": "Ni los procesadores más potentes de Apple pueden con la nueva Siri y la solución pasa por comprar empresas",
+      "resumen": "Cuando Apple presentó la nueva Siri AI las noticias se centraron sobre todo lo que vamos a poder hacer: entender mejor el contexto, mantener conversaciones más naturales, resolver cosas que la Siri anterior ni intentaba.",
+      "enlace": "https://www.applesfera.com/apple-1/apple-saca-chequera-a-pasear-para-cortar-raiz-su-enorme-dependencia-nvidia-the-information",
+      "medio": "Applesfera",
+      "fecha": "2026-07-16T14:00:00Z"
+    },
+    {
+      "titulo": "DDR4 y DDR5 escasean, Apple sube precios y solo dos fabricantes chinos pueden devolver la cordura al mercado",
+      "resumen": "El precio de la memoria se ha transformado en una broma de mal gusto. Los módulos DDR4 y DDR5 escasean, los fabricantes de PC empaquetan equipos sin memoria suficiente y hasta Apple ha subido un 20% el precio de sus MacB",
+      "enlace": "https://www.xataka.com/empresas-y-economia/china-te-necesitamos-solo-fabricantes-chinos-memorias-pueden-devolver-cordura-al-mercado-hardware",
+      "medio": "Xataka",
+      "fecha": "2026-07-16T11:45:00Z"
+    },
+    {
+      "titulo": "Irlanda se queda sin enchufe: el 23% de su electricidad acaba en los centros de datos",
+      "resumen": "Encender la luz en una casa de Dublín significa compartir la red con un servidor que está entrenando un modelo de inteligencia artificial. Durante 2025, los centros de datos en Irlanda devoraron el 23% de [&#8230;] Irlan",
+      "enlace": "https://blogthinkbig.com/consumo-electrico-centros-de-datos-ia",
+      "medio": "Think Big",
+      "fecha": "2026-07-16T08:35:57Z"
+    },
+    {
+      "titulo": "Una IA en la orilla, un socio imprescindible y mucha burocracia. Apple está a punto de dar un gran paso en China",
+      "resumen": "Si en la Unión Europea tardamos más de la cuenta en recibir Apple Intelligence (cinco meses desde que llegó a Estados Unidos), lo de China ya parece una historia interminable. Pero no, no hay historias sin final y la del",
+      "enlace": "https://www.applesfera.com/apple-1/dos-anos-despues-apple-intelligence-esta-a-paso-ser-legal-china-importante-que-parece",
+      "medio": "Applesfera",
+      "fecha": "2026-07-16T08:30:00Z"
+    },
+    {
+      "titulo": "China acaba de reunir 100.000 aceleradores nacionales en un superclúster. El desafío ahora es que trabajen juntos con eficiencia",
+      "resumen": "China ha puesto en marcha en Zhengzhou el Dawning 8000, un superclúster de inteligencia artificial que, según Sugon, puede integrar 100.000 tarjetas de cálculo desarrolladas en el país. La compañía lo presenta como el pr",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-acaba-reunir-100-000-aceleradores-nacionales-supercluster-desafio-trabajen-juntos-eficiencia",
+      "medio": "Xataka",
+      "fecha": "2026-07-15T19:01:55Z"
+    },
+    {
+      "titulo": "Los centros de datos necesitan mucha agua, luz y dinero. Lo que no necesitan son trabajadores",
       "resumen": "Los centros de datos consumen mucha electricidad, haciendo que suba la factura de la luz, contaminan el aire y a veces también el agua. Argumentos en contra hay cada vez más, mientras que los argumentos a favor para quie",
       "enlace": "https://www.xataka.com/empresas-y-economia/argumento-creacion-empleo-ha-sido-gran-baza-para-levantar-centros-datos-estaria-bien-fuera-cierto",
       "medio": "Xataka",
-      "fecha": "2026-07-15T07:01:55Z"
+      "fecha": "2026-07-15T07:00:00Z"
     },
     {
-      "titulo": "Filtran el primer producto de los creadores de ChatGPT: un altavoz que parece tener vida propia. Y Apple amenaza con truncarlo",
+      "titulo": "OpenAI pretende lanzar un \"HomePod superinteligente\" antes que Apple. Los de Cupertino lo quieren impedir",
       "resumen": "¿Un altavoz? Sí, un altavoz será el primer producto de OpenAI. Aunque en principio, no será un altavoz más. Al menos esas son las intenciones de la compañía según un informe de Bloomberg en el que el filtrador Mark Gurma",
       "enlace": "https://www.applesfera.com/rumores/openai-describe-internamente-como-primero-su-tipo-gurman-filtra-como-sera-primer-producto-creadores-chatgpt-altavoz",
       "medio": "Applesfera",
@@ -37,25 +86,25 @@
       "fecha": "2026-07-14T14:01:00Z"
     },
     {
-      "titulo": "Chantaje y provocación: así reacciona Claude cuando no sabe que la están evaluando",
+      "titulo": "Claude tiene un espacio en el que manipula conceptos antes de su respuesta final. Y ha sorprendido a la propia Anthropic",
       "resumen": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp;(IA), como os explicamos la semana pasada. Esta compañía asegura ",
       "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
       "medio": "Xataka",
       "fecha": "2026-07-14T13:15:00Z"
     },
     {
-      "titulo": "Nadie apostaría hoy por Meta en la carrera de la superinteligencia, pero juega con más ventaja de la que pensamos para ganarla",
+      "titulo": "Meta es la última gran tecnológica en la carrera por la IA. Y sin embargo tiene un arma que las demás no",
       "resumen": "Hace un año, Zuckerberg estaba contratando talento IA como si se fuera a acabar el mundo, ofreciendo sueldos millonarios y hasta comprando empresas enteras para poder fichar a Alexandr Wang. Un año después, han despedido",
       "enlace": "https://www.xataka.com/robotica-e-ia/nadie-apostaria-hoy-meta-carrera-superinteligencia-juega-ventaja-que-pensamos-para-ganarla",
       "medio": "Xataka",
-      "fecha": "2026-07-14T13:00:08Z"
+      "fecha": "2026-07-14T13:00:00Z"
     },
     {
-      "titulo": "La información es poder y Microsoft ha llegado a una conclusión: se ha cansado de regalarla a las Big Tech de la IA",
+      "titulo": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
       "resumen": "Satya Nadella, el CEO de Microsoft, se ha puesto creativo en Twitter. A través de un mensaje casi tan largo como el que su colega Asha Sharma, CEO de Xbox, aprovechó para comunicar el despido de 3.200 personas hace apena",
       "enlace": "https://www.xataka.com/empresas-y-economia/informacion-poder-microsoft-ha-llegado-a-conclusion-se-ha-cansado-regalarla-a-big-tech-ia",
       "medio": "Xataka",
-      "fecha": "2026-07-14T10:30:07Z"
+      "fecha": "2026-07-14T10:30:00Z"
     },
     {
       "titulo": "La adopción de la IA se acelera: La preparación de los profesionales se convierte en el factor decisivo para el ROI",
@@ -93,53 +142,11 @@
       "fecha": "2026-07-13T09:15:00Z"
     },
     {
-      "titulo": "Eustella: la alternativa europea a Claude, Gemini y ChatGPT",
-      "resumen": "Los principales asistentes de inteligencia artificial tienen su sede en Estados Unidos. Me refiero a Claude, Gemini y ChatGPT. Y aunque no todo el mundo los conoce por igual, desde China también están llegando asistentes",
-      "enlace": "https://blogthinkbig.com/eustella-agente-ia-europa",
-      "medio": "Think Big",
-      "fecha": "2026-07-13T07:01:00Z"
-    },
-    {
-      "titulo": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
-      "resumen": "Asha Sharma, flamante CEO de Xbox, anunció esta semana el despido de 1.600 personas de su división. Es el primer tramo de un plan que prevé más recortes, hasta 3.200, este año. Tres días después, la Reserva Federal estad",
-      "enlace": "https://www.xataka.com/empresas-y-economia/ia-se-ha-convertido-coartada-perfecta-para-cualquier-cosa-a-empresas-les-sirve-para-recortar-como-para-expandirse",
-      "medio": "Xataka",
-      "fecha": "2026-07-12T09:01:57Z"
-    },
-    {
-      "titulo": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
-      "resumen": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
-      "medio": "Xataka",
-      "fecha": "2026-07-12T06:40:00Z"
-    },
-    {
-      "titulo": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
-      "resumen": "Si te habías acostumbrado a abrir la aplicación de ChatGPT y trabajar siempre desde el mismo lugar, al actualizar puedes encontrarte con una experiencia bastante distinta. OpenAI está reorganizando sus productos y, con e",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
-      "medio": "Xataka",
-      "fecha": "2026-07-10T19:31:57Z"
-    },
-    {
-      "titulo": "El plan de Europa para blindar su ciberseguridad con IA",
-      "resumen": "Hasta hace poco, un ciberataque masivo requería equipos coordinados y semanas de preparación. Hoy, un modelo de inteligencia artificial puede escanear redes enteras, encontrar grietas y ejecutar una intrusión en cuestión",
-      "enlace": "https://blogthinkbig.com/plan-europa-ciberseguridad-ia",
-      "medio": "Think Big",
-      "fecha": "2026-07-10T12:09:17Z"
-    },
-    {
       "titulo": "Instagram va a usar tus fotos públicas para generar imágenes con IA y puedes evitarlo con estos ajustes en un minuto",
       "resumen": "Meta lleva un tiempo empeñada en meter IA en todos los rincones de sus apps, la pidas o no. WhatsApp, Facebook, Instagram, da igual dónde mires, ahí está Meta AI esperando a que le hagas caso. Pero su última jugada va un",
       "enlace": "https://www.applesfera.com/seguridad/instagram-va-a-usar-tus-fotos-publicas-para-generar-imagenes-ia-yo-he-ido-corriendo-a-desactivarlo",
       "medio": "Applesfera",
       "fecha": "2026-07-10T12:00:00Z"
-    },
-    {
-      "titulo": "Cuando el calor apaga la IA: el reto climático de los centros de datos",
-      "resumen": "Cada vez hace más calor, y cada vez usamos más inteligencia artificial. Son dos tendencias que avanzan en paralelo desde hace años, pero pocas veces se piensa en qué pasa cuando chocan entre sí. La [&#8230;] Cuando el ca",
-      "enlace": "https://blogthinkbig.com/cuando-el-calor-apaga-la-ia-el-reto-climatico-de-los-centros-de-datos",
-      "medio": "Think Big",
-      "fecha": "2026-07-10T07:12:12Z"
     },
     {
       "titulo": "iOS 27 está bien, pero si pruebas estas ocho funciones en tu iPhone es todavía mejor",
@@ -203,16 +210,16 @@
       "enlace": "https://www.computing.es/seguridad/el-gran-riesgo-de-la-ia-no-es-la-tecnologia-sino-la-fuga-de-datos/",
       "medio": "Computing.es",
       "fecha": "2026-06-30T12:10:30Z"
-    },
-    {
-      "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
-      "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
-      "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
-      "medio": "Applesfera",
-      "fecha": "2026-06-27T09:00:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Bruselas obliga a Google a abrir Android a asistentes de IA rivales de Gemini",
+      "resumen": "La Comisión Europea impone a Google dos medidas de la DMA: abrir funciones clave de Android a asistentes de IA rivales y compartir sus datos de búsqueda con motores de la competencia. The post Bruselas obliga a Google a ",
+      "enlace": "https://derechodelared.com/2026/07/16/bruselas-obliga-a-google-a-abrir-android-a-asistentes-de-ia-rivales-de-gemini/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-16T20:27:53Z"
+    },
     {
       "titulo": "Cómo borrar tus datos de Claude: guía completa de memoria, historial y privacidad",
       "resumen": "Aprende a borrar tus datos de Claude: qué guarda la memoria, cómo verla y eliminarla, y cómo evitar que tus chats entrenen los modelos. The post Cómo borrar tus datos de Claude: guía completa de memoria, historial y priv",
@@ -221,18 +228,18 @@
       "fecha": "2026-07-14T16:59:30Z"
     },
     {
+      "titulo": "Claude tiene un espacio en el que manipula conceptos antes de su respuesta final. Y ha sorprendido a la propia Anthropic",
+      "resumen": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp;(IA), como os explicamos la semana pasada. Esta compañía asegura ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
+      "medio": "Xataka",
+      "fecha": "2026-07-14T13:15:00Z"
+    },
+    {
       "titulo": "OASIS: auditorías de seguridad automatizadas con IA y modelos de Ollama locales",
       "resumen": "OASIS es una herramienta open source de auditoría de seguridad que usa modelos locales de Ollama para detectar vulnerabilidades en código fuente. Todo el análisis ocurre en tu máquina, sin enviar código a ningún servidor",
       "enlace": "https://derechodelared.com/2026/07/12/oasis-escaner-vulnerabilidades-ia/",
       "medio": "Derecho de la Red",
       "fecha": "2026-07-12T10:42:04Z"
-    },
-    {
-      "titulo": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
-      "resumen": "Este fin de semana ha explotado un culebrón que amenaza seriamente el primer hardware Made in OpenAI, deja en mal lugar a un ingeniero con una dilatada y exitosa carrera como Tan Tang (24 años en Apple y VP de diseño de ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/historica-demanda-apple-a-openai-lol-tengo-acceso-mensaje-ingeniero-que-destapo-escandalo",
-      "medio": "Xataka",
-      "fecha": "2026-07-12T06:40:00Z"
     },
     {
       "titulo": "La UE presenta su Plan de Acción sobre Ciberseguridad e IA.",
@@ -261,13 +268,6 @@
       "enlace": "https://derechodelared.com/2026/06/22/owasp-asistente-de-ia-analisis-amenazas/",
       "medio": "Derecho de la Red",
       "fecha": "2026-06-22T16:46:28Z"
-    },
-    {
-      "titulo": "NVIDIA publica un escáner para saber si la skill que vas a instalar en tu agente de IA es segura",
-      "resumen": "NVIDIA ha publicado SkillSpector, un escáner open source que analiza skills de agentes de IA antes de instalarlas. Las skills no son solo prompts, pueden incluir código ejecutable con tus mismos permisos. The post NVIDIA",
-      "enlace": "https://derechodelared.com/2026/06/18/nvidia-publica-un-escaner-para-saber-si-la-skill-que-vas-a-instalar-en-tu-agente-de-ia-es-segura/",
-      "medio": "Derecho de la Red",
-      "fecha": "2026-06-18T18:50:36Z"
     },
     {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
