@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-07-17T09:51:46Z",
+  "actualizado": "2026-07-19T09:48:13Z",
   "novedades": [
+    {
+      "titulo": "El salario de los junior lleva años en caída libre. Un nuevo estudio sugiere que el impacto de la IA no es tan obvio",
+      "resumen": "Llevamos un par de años viendo titulares sobre el destrozo que la IA está haciendo en el empleo junior. Y la réplica habitual: que no, que es excusa, que las empresas recortan cuando suben los tipos y la IA solo es una j",
+      "enlace": "https://www.xataka.com/robotica-e-ia/llevamos-dos-anos-culpando-a-ia-destrozo-empleo-junior-estudio-nominas-reales-que-dice-que-a-medias",
+      "medio": "Xataka",
+      "fecha": "2026-07-19T09:00:07Z"
+    },
+    {
+      "titulo": "China ha encontrado un nuevo filón turístico lejos de su muralla: las fábricas de robots, coches eléctricos y IA",
+      "resumen": "China es uno de esos destinos que tengo marcados en mi lista de deseos de vacaciones: ojalá ver los osos panda rojos, los Guerreros de Xi’an y la Gran Muralla. Sí, he estado dos veces ya allí, pero fueron viajes de traba",
+      "enlace": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
+      "medio": "Xataka",
+      "fecha": "2026-07-18T18:00:00Z"
+    },
+    {
+      "titulo": "“Así es como se pierde la carrera de la IA”: el modelo chino Kimi K3 alcanza el número 1 de Frontend Code Arena y David Sacks lanza un aviso",
+      "resumen": "Parece que fue ayer cuando DeepSeek R1 puso en cuestión una idea que muchos daban por sentada: que la carrera por la inteligencia artificial avanzada seguía teniendo un dueño claro en Silicon Valley. La irrupción del mod",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
+      "medio": "Xataka",
+      "fecha": "2026-07-17T18:58:00Z"
+    },
+    {
+      "titulo": "\"La IA cambia el modo de trabajar y cómo se sienten las personas\": el 30% de los trabajadores se sienten menos útiles",
+      "resumen": "Según el último estudio de Ionos, el 41% de las pymes en España ya usa alguna herramienta de IA en sus procesos diarios. Eso, sobre el papel debería implicar un incremento de la productividad en esas tareas. Sin embargo,",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ia-cambia-modo-trabajar-como-se-sienten-personas-30-trabajadores-se-sienten-utiles",
+      "medio": "Xataka",
+      "fecha": "2026-07-17T11:46:06Z"
+    },
     {
       "titulo": "Raúl Chico (Evolutio): «La principal función de una CAIO es convertir la IA en una capacidad real y transversal de la empresa»",
       "resumen": "Hablamos con Raúl Chico, CAIO de Evolutio, quien ha pasado de dirigir la estrategia digital de la compañía de servicios cloud a la estrategia de IA desde el año 2024 L'articolo Raúl Chico (Evolutio): «La principal funció",
@@ -79,32 +107,11 @@
       "fecha": "2026-07-14T14:16:06Z"
     },
     {
-      "titulo": "Llega la inteligencia artificial en Waze: así va a cambiar la app en los próximos días",
-      "resumen": "Waze es una de las mejores aplicaciones que tienen los conductores en sus teléfonos móviles. Sin embargo, para bien o para mal, es propiedad de Google. Y aunque sigue siendo una app independiente de Google [&#8230;] Lleg",
-      "enlace": "https://blogthinkbig.com/novedades-waze-viajar-gemini-ia-inteligencia-artificial",
-      "medio": "Think Big",
-      "fecha": "2026-07-14T14:01:00Z"
-    },
-    {
       "titulo": "Claude tiene un espacio en el que manipula conceptos antes de su respuesta final. Y ha sorprendido a la propia Anthropic",
       "resumen": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp;(IA), como os explicamos la semana pasada. Esta compañía asegura ",
       "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
       "medio": "Xataka",
       "fecha": "2026-07-14T13:15:00Z"
-    },
-    {
-      "titulo": "Meta es la última gran tecnológica en la carrera por la IA. Y sin embargo tiene un arma que las demás no",
-      "resumen": "Hace un año, Zuckerberg estaba contratando talento IA como si se fuera a acabar el mundo, ofreciendo sueldos millonarios y hasta comprando empresas enteras para poder fichar a Alexandr Wang. Un año después, han despedido",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nadie-apostaria-hoy-meta-carrera-superinteligencia-juega-ventaja-que-pensamos-para-ganarla",
-      "medio": "Xataka",
-      "fecha": "2026-07-14T13:00:00Z"
-    },
-    {
-      "titulo": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
-      "resumen": "Satya Nadella, el CEO de Microsoft, se ha puesto creativo en Twitter. A través de un mensaje casi tan largo como el que su colega Asha Sharma, CEO de Xbox, aprovechó para comunicar el despido de 3.200 personas hace apena",
-      "enlace": "https://www.xataka.com/empresas-y-economia/informacion-poder-microsoft-ha-llegado-a-conclusion-se-ha-cansado-regalarla-a-big-tech-ia",
-      "medio": "Xataka",
-      "fecha": "2026-07-14T10:30:00Z"
     },
     {
       "titulo": "La adopción de la IA se acelera: La preparación de los profesionales se convierte en el factor decisivo para el ROI",
@@ -119,27 +126,6 @@
       "enlace": "https://www.applesfera.com/curiosidades/no-fuera-coche-apple-estaria-rezagada-ia-mark-gurman-revela-importancia-apple-car-actuales-chips-iphone-mac",
       "medio": "Applesfera",
       "fecha": "2026-07-13T15:00:07Z"
-    },
-    {
-      "titulo": "Cómo usar ChatGPT en WhatsApp ahora que vuelve a estar disponible en la Unión Europea",
-      "resumen": "Vamos a explicarte&nbsp;cómo usar ChatGPT en WhatsApp, usando la&nbsp;inteligencia artificial&nbsp;creada por OpenAI. Se trata del&nbsp;ChatGPT&nbsp;oficial, el real, y no ningún otro bot que usa su tecnología. Tras lleg",
-      "enlace": "https://www.xataka.com/basics/como-usar-chatgpt-whatsapp-vuelve-a-estar-disponible-union-europea",
-      "medio": "Xataka",
-      "fecha": "2026-07-13T14:59:01Z"
-    },
-    {
-      "titulo": "Por qué la inteligencia artificial nos puede llevar a resucitar la energía nuclear (y a mirar al espacio)",
-      "resumen": "Cuando le pides a una inteligencia artificial que te resuma un PDF o te genere una imagen, lo último en lo que piensas es en reactores nucleares o en la estratosfera. Pero la realidad física [&#8230;] Por qué la intelige",
-      "enlace": "https://blogthinkbig.com/consumo-energia-inteligencia-artificial",
-      "medio": "Think Big",
-      "fecha": "2026-07-13T11:54:38Z"
-    },
-    {
-      "titulo": "Instagram intentó generar imágenes con IA a partir de las fotos de sus usuarios: ahora Meta ha tenido que retractarse",
-      "resumen": "La semana pasada Meta lanzó Muse Image y Muse Video, sus nuevos modelos de IA&nbsp;integrados en la app de Meta AI. Sin embargo, el lanzamiento fue rápidamente eclipsado por las críticas que recibió una de las funciones ",
-      "enlace": "https://www.xataka.com/privacidad/a-meta-le-parecio-buena-idea-que-su-ia-generara-imagenes-a-partir-tus-fotos-instagram-dias-despues-ha-dado-marcha-atras",
-      "medio": "Xataka",
-      "fecha": "2026-07-13T09:15:00Z"
     },
     {
       "titulo": "Instagram va a usar tus fotos públicas para generar imágenes con IA y puedes evitarlo con estos ajustes en un minuto",
@@ -210,9 +196,30 @@
       "enlace": "https://www.computing.es/seguridad/el-gran-riesgo-de-la-ia-no-es-la-tecnologia-sino-la-fuga-de-datos/",
       "medio": "Computing.es",
       "fecha": "2026-06-30T12:10:30Z"
+    },
+    {
+      "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
+      "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
+      "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
+      "medio": "Applesfera",
+      "fecha": "2026-06-27T09:00:00Z"
+    },
+    {
+      "titulo": "Del hype a la estrategia: cómo integrar la inteligencia artificial con impacto real en las organizaciones",
+      "resumen": "Las organizaciones ya no se preguntan qué puede hacer la IA, sino cómo integrarla para que impacte de forma real en su cuenta de resultados L'articolo Del hype a la estrategia: cómo integrar la inteligencia artificial co",
+      "enlace": "https://www.computing.es/inteligencia-artificial/del-hype-a-la-estrategia-como-integrar-la-inteligencia-artificial-con-impacto-real-en-las-organizaciones/",
+      "medio": "Computing.es",
+      "fecha": "2026-06-26T07:50:17Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "xAI demanda a un usuario por usar Grok para generar deepfakes sexuales de menores",
+      "resumen": "xAI, la empresa de IA de Elon Musk, demanda a un hombre que usó Grok para crear deepfakes sexuales de menores. The post xAI demanda a un usuario por usar Grok para generar deepfakes sexuales de menores appeared first on ",
+      "enlace": "https://derechodelared.com/2026/07/17/xai-demanda-a-un-usuario-por-usar-grok-para-generar-deepfakes-sexuales-de-menores/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-17T16:30:06Z"
+    },
     {
       "titulo": "Bruselas obliga a Google a abrir Android a asistentes de IA rivales de Gemini",
       "resumen": "La Comisión Europea impone a Google dos medidas de la DMA: abrir funciones clave de Android a asistentes de IA rivales y compartir sus datos de búsqueda con motores de la competencia. The post Bruselas obliga a Google a ",
@@ -261,13 +268,6 @@
       "enlace": "https://derechodelared.com/2026/06/25/anthropic-cybersecurity-skills-ciberseguridad-agentes-de-ia/",
       "medio": "Derecho de la Red",
       "fecha": "2026-06-25T16:23:13Z"
-    },
-    {
-      "titulo": "OWASP lanza un asistente de IA para hacer análisis de amenazas en sistemas de IA gratis",
-      "resumen": "OWASP AI Exchange acaba de publicar Threat Advisor, un asistente basado en NotebookLM que guía a cualquier equipo en el análisis de amenazas de seguridad de su sistema de IA. The post OWASP lanza un asistente de IA para ",
-      "enlace": "https://derechodelared.com/2026/06/22/owasp-asistente-de-ia-analisis-amenazas/",
-      "medio": "Derecho de la Red",
-      "fecha": "2026-06-22T16:46:28Z"
     },
     {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",
