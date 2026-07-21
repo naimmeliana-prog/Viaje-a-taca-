@@ -1,33 +1,96 @@
 {
-  "actualizado": "2026-07-19T09:48:13Z",
+  "actualizado": "2026-07-21T10:19:02Z",
   "novedades": [
+    {
+      "titulo": "Cuando la IA se equivoca, nosotros seguimos confiando: un estudio revela que ya no sabemos decir \"no lo sé\"",
+      "resumen": "Noto que cada vez nos cuesta más decir “no lo sé”. Igual se trata de uno de los actos más honestos que puede hacer una persona y, en cambio, con la llegada de la IA y con toda la información a nuestro alcance, da la sens",
+      "enlace": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
+      "medio": "Xataka",
+      "fecha": "2026-07-21T06:01:15Z"
+    },
+    {
+      "titulo": "NVIDIA ha encontrado una forma de contener el consumo de los centros de datos de IA: líquido más caliente que un jacuzzi",
+      "resumen": "Durante años, hemos asociado los centros de datos eficientes con salas frías, pasillos de aire helado y máquinas rugiendo para mantener los servidores bajo control. La expansión de la inteligencia artificial está obligan",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nvidia-ha-encontrado-forma-contener-consumo-centros-datos-ia-liquido-caliente-que-jacuzzi",
+      "medio": "Xataka",
+      "fecha": "2026-07-20T19:30:00Z"
+    },
+    {
+      "titulo": "Los ordenadores tardaron 15 años en mejorar la productividad de las empresas. La IA puede tardar más por un motivo: el sabotaje",
+      "resumen": "No paramos de escuchar que la IA va a sustituir a los empleados en sus puestos de trabajo y que eso supondrá un apocalipsis en el mercado laboral. Si bien es cierto que se avecina un cambio de paradigma, incluso las voce",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ordenadores-tardaron-15-anos-mejorar-productividad-empresas-ia-puede-tardar-motivo-sabotaje",
+      "medio": "Xataka",
+      "fecha": "2026-07-20T15:45:15Z"
+    },
+    {
+      "titulo": "\"Impresionante\": hasta Elon Musk se rinde ante el modelo abierto de IA chino Kimi K3. No es para menos",
+      "resumen": "Es bueno, es bonito y es (bastante) barato. Lo conocimos hace unos días, pero es que Kimi K3, el nuevo modelo abierto de IA de la startup china Moonshot AI, está causando sensación. Tanta, tanta, que han tenido que pausa",
+      "enlace": "https://www.xataka.com/robotica-e-ia/impresionante-elon-musk-se-rinde-modelo-abierto-ia-chino-kimi-k3-no-para",
+      "medio": "Xataka",
+      "fecha": "2026-07-20T13:31:42Z"
+    },
+    {
+      "titulo": "Playwright: qué es y para qué sirve esta herramienta para controlar tu navegador automáticamente",
+      "resumen": "Vamos a explicarte qué es Playwright y para qué sirve esta herramienta gratuita de código abierto. Con ella puedes hacer que un navegador web funcione solo sin que nadie lo toque, y es algo de lo que seguro has oído habl",
+      "enlace": "https://www.xataka.com/basics/playwright-que-sirve-esta-herramienta-para-controlar-tu-navegador-automaticamente",
+      "medio": "Xataka",
+      "fecha": "2026-07-20T12:36:00Z"
+    },
+    {
+      "titulo": "Intuíamos que los centros de datos subían la factura de la luz de sus vecinos. Los datos son mucho más preocupantes",
+      "resumen": "Lo de EEUU con los centros de datos se ha convertido en un asunto de primer orden y motivo de rechazo de gran parte de la población. Además de la cuestión de la contaminación, estas enormes infraestructuras suponen una c",
+      "enlace": "https://www.xataka.com/energia/factura-luz-eeuu-habia-subido-culpa-centros-datos-que-se-viene-6-300-millones-tres-anos",
+      "medio": "Xataka",
+      "fecha": "2026-07-20T11:00:00Z"
+    },
+    {
+      "titulo": "570 agujeros en un día: cuando la IA de Microsoft reventó su propio Patch Tuesday",
+      "resumen": "Cualquier administrador de sistemas sabe que el segundo martes de cada mes toca actualizar Windows. Es una rutina predecible. Suele traer un par de docenas de parches y algún reinicio molesto. Pero las cifras de [&#8230;",
+      "enlace": "https://blogthinkbig.com/vulnerabilidades-windows-ia-patch-tuesday",
+      "medio": "Think Big",
+      "fecha": "2026-07-20T10:57:01Z"
+    },
+    {
+      "titulo": "Coordinación de agentes de IA: Cómo elegir la arquitectura adecuada para la empresa",
+      "resumen": "La coordinación de agentes de IA puede aportar un valor real al distribuir el trabajo entre agentes especializados y permitir flujos de trabajo más flexibles L'articolo Coordinación de agentes de IA: Cómo elegir la arqui",
+      "enlace": "https://www.computing.es/inteligencia-artificial/coordinacion-de-agentes-de-ia-como-elegir-la-arquitectura-adecuada-para-la-empresa/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-20T09:08:54Z"
+    },
+    {
+      "titulo": "Pocos días después del \"shock\" de Kimi K3, Alibaba ha lanzado Qwen 3.8: es la señal de que EEUU tiene un problema",
+      "resumen": "Las empresas chinas de IA están que lo tiran. Tras el lanzamiento del prometedor Kimi K3, ahora Alibaba acaba de presentar Qwen 3.8, un modelo gigantesco que según sus responsables es tan potente que solo Fable 5 logra s",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gigantesco-qwen-3-8-otra-senal-inquietante-para-eeuu-su-ventaja-ia-esta-evaporandose",
+      "medio": "Xataka",
+      "fecha": "2026-07-20T08:30:00Z"
+    },
+    {
+      "titulo": "Qué es ‘tokenmaxxing’ y ‘tokenminning’ y por qué todas las empresas de IA hablan de ello",
+      "resumen": "Hubo un tiempo en el que un profesional cualquiera aprendía su oficio y aplicaba sus conocimientos, en adelante, durante sus años de carrera profesional. Los perfiles profesionales ahora evolucionan constantemente e inco",
+      "enlace": "https://blogthinkbig.com/tokenmaxxing-tokenminning-tendencias-ia",
+      "medio": "Think Big",
+      "fecha": "2026-07-20T08:01:00Z"
+    },
+    {
+      "titulo": "Andreas Prins, experto en soberanía digital: \"El sentimiento es uniforme: ya no confiamos en los hiperescaladores de EEUU\"",
+      "resumen": "Hace varias semanas, EEUU ordenó a Anthropic suspender el acceso a Fable 5. Poco después el modelo volvió a estar disponible&nbsp;(aunque con cambios), pero este evento sirvió para algo más: hacer tangible una amenaza de",
+      "enlace": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
+      "medio": "Xataka",
+      "fecha": "2026-07-19T17:00:32Z"
+    },
+    {
+      "titulo": "Meta avisa: \"Llevamos 20 años construyendo infraestructura para humanos, quizás tengamos 20 meses para reconstruirla para los agentes\"",
+      "resumen": "Las empresas han abrazado el boom de la IA agéntica, hasta el punto de que algunas se están ahogando en tantos agentes de IA. Los empleados están creando agentes sin control, disparando el consumo de tokens y provocando ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/meta-avisa-llevamos-20-anos-construyendo-infraestructura-para-humanos-quizas-tengamos-20-meses-para-reconstruirlo-para-agentes",
+      "medio": "Xataka",
+      "fecha": "2026-07-19T10:16:06Z"
+    },
     {
       "titulo": "El salario de los junior lleva años en caída libre. Un nuevo estudio sugiere que el impacto de la IA no es tan obvio",
       "resumen": "Llevamos un par de años viendo titulares sobre el destrozo que la IA está haciendo en el empleo junior. Y la réplica habitual: que no, que es excusa, que las empresas recortan cuando suben los tipos y la IA solo es una j",
       "enlace": "https://www.xataka.com/robotica-e-ia/llevamos-dos-anos-culpando-a-ia-destrozo-empleo-junior-estudio-nominas-reales-que-dice-que-a-medias",
       "medio": "Xataka",
       "fecha": "2026-07-19T09:00:07Z"
-    },
-    {
-      "titulo": "China ha encontrado un nuevo filón turístico lejos de su muralla: las fábricas de robots, coches eléctricos y IA",
-      "resumen": "China es uno de esos destinos que tengo marcados en mi lista de deseos de vacaciones: ojalá ver los osos panda rojos, los Guerreros de Xi’an y la Gran Muralla. Sí, he estado dos veces ya allí, pero fueron viajes de traba",
-      "enlace": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
-      "medio": "Xataka",
-      "fecha": "2026-07-18T18:00:00Z"
-    },
-    {
-      "titulo": "“Así es como se pierde la carrera de la IA”: el modelo chino Kimi K3 alcanza el número 1 de Frontend Code Arena y David Sacks lanza un aviso",
-      "resumen": "Parece que fue ayer cuando DeepSeek R1 puso en cuestión una idea que muchos daban por sentada: que la carrera por la inteligencia artificial avanzada seguía teniendo un dueño claro en Silicon Valley. La irrupción del mod",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
-      "medio": "Xataka",
-      "fecha": "2026-07-17T18:58:00Z"
-    },
-    {
-      "titulo": "\"La IA cambia el modo de trabajar y cómo se sienten las personas\": el 30% de los trabajadores se sienten menos útiles",
-      "resumen": "Según el último estudio de Ionos, el 41% de las pymes en España ya usa alguna herramienta de IA en sus procesos diarios. Eso, sobre el papel debería implicar un incremento de la productividad en esas tareas. Sin embargo,",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-cambia-modo-trabajar-como-se-sienten-personas-30-trabajadores-se-sienten-utiles",
-      "medio": "Xataka",
-      "fecha": "2026-07-17T11:46:06Z"
     },
     {
       "titulo": "Raúl Chico (Evolutio): «La principal función de una CAIO es convertir la IA en una capacidad real y transversal de la empresa»",
@@ -37,32 +100,11 @@
       "fecha": "2026-07-17T08:38:36Z"
     },
     {
-      "titulo": "“Nadie sabe con certeza qué va a ocurrir”: Demis Hassabis, premio Nobel, advierte del riesgo de perder el control de la IA",
-      "resumen": "Pensemos por un momento en cómo se movía el mercado tecnológico antes de noviembre de 2022. La inteligencia artificial ya estaba presente en buscadores, cámaras, recomendaciones y servicios digitales, pero todavía no era",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nadie-sabe-certeza-que-va-a-ocurrir-demis-hassabis-premio-nobel-advierte-riesgo-perder-control-ia",
-      "medio": "Xataka",
-      "fecha": "2026-07-16T21:48:47Z"
-    },
-    {
       "titulo": "Ni los procesadores más potentes de Apple pueden con la nueva Siri y la solución pasa por comprar empresas",
       "resumen": "Cuando Apple presentó la nueva Siri AI las noticias se centraron sobre todo lo que vamos a poder hacer: entender mejor el contexto, mantener conversaciones más naturales, resolver cosas que la Siri anterior ni intentaba.",
       "enlace": "https://www.applesfera.com/apple-1/apple-saca-chequera-a-pasear-para-cortar-raiz-su-enorme-dependencia-nvidia-the-information",
       "medio": "Applesfera",
       "fecha": "2026-07-16T14:00:00Z"
-    },
-    {
-      "titulo": "DDR4 y DDR5 escasean, Apple sube precios y solo dos fabricantes chinos pueden devolver la cordura al mercado",
-      "resumen": "El precio de la memoria se ha transformado en una broma de mal gusto. Los módulos DDR4 y DDR5 escasean, los fabricantes de PC empaquetan equipos sin memoria suficiente y hasta Apple ha subido un 20% el precio de sus MacB",
-      "enlace": "https://www.xataka.com/empresas-y-economia/china-te-necesitamos-solo-fabricantes-chinos-memorias-pueden-devolver-cordura-al-mercado-hardware",
-      "medio": "Xataka",
-      "fecha": "2026-07-16T11:45:00Z"
-    },
-    {
-      "titulo": "Irlanda se queda sin enchufe: el 23% de su electricidad acaba en los centros de datos",
-      "resumen": "Encender la luz en una casa de Dublín significa compartir la red con un servidor que está entrenando un modelo de inteligencia artificial. Durante 2025, los centros de datos en Irlanda devoraron el 23% de [&#8230;] Irlan",
-      "enlace": "https://blogthinkbig.com/consumo-electrico-centros-de-datos-ia",
-      "medio": "Think Big",
-      "fecha": "2026-07-16T08:35:57Z"
     },
     {
       "titulo": "Una IA en la orilla, un socio imprescindible y mucha burocracia. Apple está a punto de dar un gran paso en China",
@@ -72,46 +114,11 @@
       "fecha": "2026-07-16T08:30:00Z"
     },
     {
-      "titulo": "China acaba de reunir 100.000 aceleradores nacionales en un superclúster. El desafío ahora es que trabajen juntos con eficiencia",
-      "resumen": "China ha puesto en marcha en Zhengzhou el Dawning 8000, un superclúster de inteligencia artificial que, según Sugon, puede integrar 100.000 tarjetas de cálculo desarrolladas en el país. La compañía lo presenta como el pr",
-      "enlace": "https://www.xataka.com/robotica-e-ia/china-acaba-reunir-100-000-aceleradores-nacionales-supercluster-desafio-trabajen-juntos-eficiencia",
-      "medio": "Xataka",
-      "fecha": "2026-07-15T19:01:55Z"
-    },
-    {
-      "titulo": "Los centros de datos necesitan mucha agua, luz y dinero. Lo que no necesitan son trabajadores",
-      "resumen": "Los centros de datos consumen mucha electricidad, haciendo que suba la factura de la luz, contaminan el aire y a veces también el agua. Argumentos en contra hay cada vez más, mientras que los argumentos a favor para quie",
-      "enlace": "https://www.xataka.com/empresas-y-economia/argumento-creacion-empleo-ha-sido-gran-baza-para-levantar-centros-datos-estaria-bien-fuera-cierto",
-      "medio": "Xataka",
-      "fecha": "2026-07-15T07:00:00Z"
-    },
-    {
       "titulo": "OpenAI pretende lanzar un \"HomePod superinteligente\" antes que Apple. Los de Cupertino lo quieren impedir",
       "resumen": "¿Un altavoz? Sí, un altavoz será el primer producto de OpenAI. Aunque en principio, no será un altavoz más. Al menos esas son las intenciones de la compañía según un informe de Bloomberg en el que el filtrador Mark Gurma",
       "enlace": "https://www.applesfera.com/rumores/openai-describe-internamente-como-primero-su-tipo-gurman-filtra-como-sera-primer-producto-creadores-chatgpt-altavoz",
       "medio": "Applesfera",
       "fecha": "2026-07-15T06:31:00Z"
-    },
-    {
-      "titulo": "El fin del anonimato en internet: así usa la IA para identificarte con pocas pistas",
-      "resumen": "La época de publicar de forma anónima en internet se está acabando. Los usuarios que usan seudónimo siempre han confiado en algo llamado obscuridad práctica: podías dejar migajas de información sueltas por la red, el [&#",
-      "enlace": "https://blogthinkbig.com/el-fin-del-anonimato-en-internet-asi-usa-la-ia-para-identificarte-con-pocas-pistas",
-      "medio": "Think Big",
-      "fecha": "2026-07-14T16:00:00Z"
-    },
-    {
-      "titulo": "Madrid va a abrir un túnel que vigila el tráfico con IA en tiempo real: así funcionará el nuevo subterráneo de la Castellana",
-      "resumen": "Hace unos días conocíamos que Madrid había terminado con una de las fases clave del soterramiento del norte del paseo de la Castellana. Esta es la excavación del túnel que conectará la M-30 con el entorno de las Cuatro T",
-      "enlace": "https://www.xataka.com/movilidad/madrid-va-a-abrir-tunel-que-vigila-trafico-ia-tiempo-real-asi-funcionara-nuevo-subterraneo-castellana",
-      "medio": "Xataka",
-      "fecha": "2026-07-14T14:16:06Z"
-    },
-    {
-      "titulo": "Claude tiene un espacio en el que manipula conceptos antes de su respuesta final. Y ha sorprendido a la propia Anthropic",
-      "resumen": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp;(IA), como os explicamos la semana pasada. Esta compañía asegura ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
-      "medio": "Xataka",
-      "fecha": "2026-07-14T13:15:00Z"
     },
     {
       "titulo": "La adopción de la IA se acelera: La preparación de los profesionales se convierte en el factor decisivo para el ROI",
@@ -203,16 +210,23 @@
       "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
       "medio": "Applesfera",
       "fecha": "2026-06-27T09:00:00Z"
-    },
-    {
-      "titulo": "Del hype a la estrategia: cómo integrar la inteligencia artificial con impacto real en las organizaciones",
-      "resumen": "Las organizaciones ya no se preguntan qué puede hacer la IA, sino cómo integrarla para que impacte de forma real en su cuenta de resultados L'articolo Del hype a la estrategia: cómo integrar la inteligencia artificial co",
-      "enlace": "https://www.computing.es/inteligencia-artificial/del-hype-a-la-estrategia-como-integrar-la-inteligencia-artificial-con-impacto-real-en-las-organizaciones/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-26T07:50:17Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Hugging Face hackeada por un agente de IA autónomo.",
+      "resumen": "Y cuando la empresa quiso investigar el ataque, sus propios modelos de IA se negaron a analizarlo The post Hugging Face hackeada por un agente de IA autónomo. appeared first on Derecho de la Red.",
+      "enlace": "https://derechodelared.com/2026/07/20/hugging-face-hackeada-por-un-agente-de-ia-autonomo/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-20T19:11:50Z"
+    },
+    {
+      "titulo": "pentest-ai: la herramienta de código abierto que usa IA para poner a prueba la seguridad de una web",
+      "resumen": "pentest-ai automatiza el pentesting con IA coordinando herramientas ofensivas reales. Con un matiz: solo con un modelo local los datos quedan completamente aislados de terceros The post pentest-ai: la herramienta de códi",
+      "enlace": "https://derechodelared.com/2026/07/19/pentes-ai-herramienta-codigo-abierto-pentest-ia/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-19T09:56:47Z"
+    },
     {
       "titulo": "xAI demanda a un usuario por usar Grok para generar deepfakes sexuales de menores",
       "resumen": "xAI, la empresa de IA de Elon Musk, demanda a un hombre que usó Grok para crear deepfakes sexuales de menores. The post xAI demanda a un usuario por usar Grok para generar deepfakes sexuales de menores appeared first on ",
@@ -233,13 +247,6 @@
       "enlace": "https://derechodelared.com/2026/07/14/como-borrar-tus-datos-claude/",
       "medio": "Derecho de la Red",
       "fecha": "2026-07-14T16:59:30Z"
-    },
-    {
-      "titulo": "Claude tiene un espacio en el que manipula conceptos antes de su respuesta final. Y ha sorprendido a la propia Anthropic",
-      "resumen": "Anthropic ha publicado un artículo que promete cambiar la forma en que entendemos el funcionamiento interno de sus modelos de inteligencia artificial&nbsp;(IA), como os explicamos la semana pasada. Esta compañía asegura ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-asegura-haber-encontrado-consciencia-claude-datos-cuentan-otra-historia",
-      "medio": "Xataka",
-      "fecha": "2026-07-14T13:15:00Z"
     },
     {
       "titulo": "OASIS: auditorías de seguridad automatizadas con IA y modelos de Ollama locales",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/200-expertos-tienen-claro-hay-que-establacer-lineas-rojas-ia-no-se-nos-vaya-manos",
       "medio": "Xataka",
       "fecha": "2025-09-23T13:00:00Z"
-    },
-    {
-      "titulo": "Microsoft 365 tendrá versiones más baratas en todo el mundo. Es fruto de la presión antimonopolio de la Comisión Europea",
-      "resumen": "Pronto, muchos clientes de Microsoft Office en todo el mundo podrán acceder a suscripciones más baratas. No es una promoción ni un gesto comercial aislado, sino el resultado de años de presión de Bruselas. Microsoft ha a",
-      "enlace": "https://www.xataka.com/servicios/microsoft-365-tendra-versiones-baratas-todo-mundo-fruto-presion-antimonopolio-comision-europea",
-      "medio": "Xataka",
-      "fecha": "2025-09-12T19:30:45Z"
     }
   ]
 }

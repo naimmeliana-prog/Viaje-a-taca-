@@ -6172,7 +6172,7 @@
     ],
     "etica": "El acceso a repositorios privados implica riesgos de exposición de código sensible; se deben aplicar filtros de privacidad.",
     "limite_gratis": "El plan gratuito permite reproducir hasta 3 issues al mes.",
-    "web": "https://osloq.com/",
+    "web": "https://www.aat.ee/projects/osloq",
     "id": "osloq-a2c224",
     "gratis": true,
     "pago": true,
@@ -8243,7 +8243,7 @@
     "tipo": "Motor de inferencia de LLM",
     "precio": "Freemium",
     "descripcion": "Motor de inferencia de alto rendimiento para grandes modelos de lenguaje, con velocidades 6.4 veces superiores a llama.cpp y 3.9 veces superiores a otros motores de referencia.",
-    "web": "https://www.baseRT.ai",
+    "web": "https://aitoolly.com/product/basert",
     "funciones": [
       "Inferencia de modelos de lenguaje a baja latencia",
       "Soporte de cuantización FP16/INT8",
@@ -8273,7 +8273,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Carebricks",
@@ -8281,7 +8282,7 @@
     "tipo": "Agentes IA en salud",
     "precio": "Freemium",
     "descripcion": "Plataforma de IA agentica diseñada para escalar flujos de trabajo de atención al paciente, automatizando la atención y mejorando la eficiencia clínica.",
-    "web": "https://www.bunkerhillhealth.com/carebricks",
+    "web": "https://www.bunkerhillhealth.com/",
     "funciones": [
       "Triage automatizado y priorización de pacientes",
       "Recordatorios de citas y medicación",
@@ -8311,7 +8312,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "ZooData",
@@ -8357,7 +8359,7 @@
     "tipo": "Productividad / Gestión de documentos",
     "precio": "Freemium",
     "descripcion": "Convierte fuentes de conocimiento fragmentadas en un sistema unificado y searchable, simplificando la recuperación de información y la toma de decisiones.",
-    "web": "https://www.docusmart.ai",
+    "web": "https://www.docusmart.eu/",
     "funciones": [
       "Indexación automática de documentos y archivos",
       "Búsqueda semántica y recuperación de contexto",
@@ -8387,7 +8389,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Vertu AI Agent",
@@ -8625,6 +8628,396 @@
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Manifest",
+    "compania": "Manifest AI",
+    "tipo": "Automatización de tareas web",
+    "precio": "Freemium",
+    "descripcion": "Manifest permite convertir cualquier página web en un conjunto de acciones accionables para agentes de IA, facilitando la automatización sin necesidad de programar.",
+    "web": "https://manifest.ai",
+    "funciones": [
+      "Convierte URLs en planes de acción",
+      "Extrae estructura de contenido",
+      "Genera scripts para agentes IA",
+      "Integra con plataformas de automatización",
+      "Soporta múltiples tipos de contenido"
+    ],
+    "caracteristicas": [
+      "Sin necesidad de código",
+      "Soporta HTML dinámico",
+      "Exporta a formatos JSON",
+      "Compatible con APIs",
+      "Permite personalizar acciones"
+    ],
+    "etica": "Respetar la privacidad del contenido web y evitar la extracción no autorizada de datos sensibles. Los sesgos en la interpretación de páginas pueden afectar decisiones automatizadas.",
+    "limite_gratis": "El plan gratuito permite procesar hasta 10 páginas al día con funcionalidades básicas.",
+    "id": "manifest-76c3e0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Udio",
+    "compania": "Udio",
+    "tipo": "Generación de música",
+    "precio": "Freemium",
+    "descripcion": "Udio es un generador de música impulsado por IA que crea canciones originales a partir de prompts, permitiendo controlar estilo, género y duración.",
+    "web": "https://udio.ai",
+    "funciones": [
+      "Crea pistas musicales a partir de texto",
+      "Controla género, tempo y estilo",
+      "Exporta archivos de audio",
+      "Integra con DAWs",
+      "Permite ajustes de mezcla"
+    ],
+    "caracteristicas": [
+      "Interfaz basada en web",
+      "Soporte multilingüe de prompts",
+      "Modelos de alta calidad",
+      "Descarga sin marca de agua en plan pago",
+      "API para integraciones"
+    ],
+    "etica": "El uso de IA para crear música plantea preguntas sobre la autoría y derechos de autor. Puede generar contenido que infrinja derechos si se entrena con material protegido.",
+    "limite_gratis": "El plan gratuito permite generar hasta 5 canciones al mes con calidad limitada.",
+    "id": "udio-d25149",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Xiaomi-Robotics-1",
+    "compania": "Xiaomi",
+    "tipo": "Modelo de movimiento para robots",
+    "precio": "Freemium",
+    "descripcion": "Xiaomi-Robotics-1 es un modelo de IA entrenado con más de 100,000 horas de datos de movimiento para enseñar a los robots a moverse con precisión.",
+    "web": "https://www.mi.com/ai/robotics1",
+    "funciones": [
+      "Genera trayectorias de movimiento",
+      "Adapta dinámicas en tiempo real",
+      "Soporta múltiples tipos de robots",
+      "Integra con simuladores",
+      "Permite personalizar parámetros de control"
+    ],
+    "caracteristicas": [
+      "Alta precisión en entornos complejos",
+      "Entrenamiento con datos reales",
+      "Compatibilidad con hardware Xiaomi",
+      "Optimizado para dispositivos edge",
+      "Documentación en abierto"
+    ],
+    "etica": "El uso de datos de movimiento puede implicar captura de información corporal sensible. Su despliegue en entornos laborales debe considerar la seguridad del trabajador.",
+    "limite_gratis": "No existe un plan gratuito; el acceso se otorga bajo acuerdos de licencia con Xiaomi.",
+    "id": "xiaomi-robotics-1-3ecea5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Grabette",
+    "compania": "Grabette",
+    "tipo": "Plataforma de datos para robótica",
+    "precio": "Gratuito",
+    "descripcion": "Grabette es una plataforma de código abierto que permite registrar, etiquetar y analizar datos de manipulación robótica para mejorar el aprendizaje de los robots.",
+    "web": "https://grabette.ai",
+    "funciones": [
+      "Registro de videos de manipulación",
+      "Etiquetado automático de acciones",
+      "Análisis de desempeño",
+      "Exportación de datasets",
+      "Soporte de múltiples formatos"
+    ],
+    "caracteristicas": [
+      "Código abierto bajo licencia MIT",
+      "Interfaz web intuitiva",
+      "Integración con ROS",
+      "Almacenamiento en la nube opcional",
+      "Comunidad activa de contribuyentes"
+    ],
+    "etica": "El manejo de datos de robots debe garantizar la confidencialidad de procesos industriales. La apertura de datos puede exponer vulnerabilidades de seguridad.",
+    "limite_gratis": "El plan gratuito ofrece almacenamiento ilimitado pero con límites de ancho de banda mensual.",
+    "id": "grabette-37811c",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Cosmos 3 Edge",
+    "compania": "NVIDIA",
+    "tipo": "Modelo de razonamiento y generación de acciones para robots en edge",
+    "precio": "Freemium",
+    "descripcion": "Cosmos 3 Edge es un modelo de 4 mil millones de parámetros que razona y genera acciones de robots en el dispositivo, mejorando la percepción del entorno.",
+    "web": "https://www.nvidia.com/en-us/ai/cosmos-edge/",
+    "funciones": [
+      "Procesa datos de sensores en tiempo real",
+      "Genera comandos de control",
+      "Operación offline en edge",
+      "Soporte de múltiples tipos de sensores",
+      "Actualizaciones continuas del modelo"
+    ],
+    "caracteristicas": [
+      "Bajo consumo de recursos",
+      "Latencia reducida",
+      "Compatibilidad con dispositivos NVIDIA Jetson",
+      "Modelo explicable",
+      "Soporte multilingüe de comandos"
+    ],
+    "etica": "El procesamiento local protege la privacidad, pero los sesgos en la toma de decisiones pueden afectar la seguridad. Su uso en entornos críticos requiere validación rigurosa.",
+    "limite_gratis": "El plan gratuito permite usar el modelo con límites de 100 inferencias diarias.",
+    "id": "cosmos-3-edge-93e19c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Tidy",
+    "compania": "Tidy",
+    "tipo": "Organizador de archivos para Mac",
+    "precio": "Freemium",
+    "descripcion": "Tidy es una aplicación para Mac que organiza automáticamente capturas de pantalla, instaladores y descargas, liberando espacio y mejorando la productividad.",
+    "web": "https://www.tidy.com/features/tidy-ai",
+    "funciones": [
+      "Clasifica archivos por tipo",
+      "Mueve elementos a carpetas específicas",
+      "Programa limpiezas automáticas",
+      "Integración con Finder",
+      "Notificaciones de espacio liberado"
+    ],
+    "caracteristicas": [
+      "Interfaz sencilla",
+      "Modo seguro sin borrar datos",
+      "Soporte de atajos de teclado",
+      "Compatibilidad con macOS 10.15+",
+      "Actualizaciones frecuentes"
+    ],
+    "etica": "El acceso a archivos del usuario debe respetar la privacidad y no exponer información sensible. El uso de IA para organizar datos puede inferir hábitos personales sin consentimiento.",
+    "limite_gratis": "El plan gratuito permite organizar hasta 5 carpetas con funciones básicas.",
+    "id": "tidy-8a9f89",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Qwen-Audio-3.0-TTS",
+    "compania": "Alibaba Cloud",
+    "tipo": "Text-to-Speech (TTS) de producción",
+    "precio": "Freemium",
+    "descripcion": "Qwen-Audio-3.0-TTS ofrece síntesis de voz natural en 16 idiomas, disponible en niveles Flash y Plus.",
+    "web": "https://qwen3tts.com/",
+    "funciones": [
+      "Genera voz en múltiples idiomas",
+      "Control de tono y velocidad",
+      "Salida en formatos WAV/MP3",
+      "API RESTful",
+      "Soporte de ajuste de emociones"
+    ],
+    "caracteristicas": [
+      "Alta calidad de audio",
+      "Baja latencia",
+      "Modelos optimizados para dispositivos edge",
+      "Documentación extensa",
+      "Integración con otros servicios Qwen"
+    ],
+    "etica": "La generación de voz puede usarse para deepfakes, lo que plantea riesgos de desinformación. El uso de datos de entrenamiento debe asegurar la diversidad lingüística.",
+    "limite_gratis": "El plan gratuito incluye 1 millón de caracteres de síntesis al mes con calidad estándar.",
+    "id": "qwen-audio-3-0-tts-a6d661",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Seedance 2.0",
+    "compania": "Seedance",
+    "tipo": "Generación de video cinematográfico",
+    "precio": "Pago",
+    "descripcion": "Seedance 2.0 es un modelo de generación de video que permite crear clips cinematográficos realistas a partir de prompts de texto.",
+    "web": "https://seedance.ai",
+    "funciones": [
+      "Crea videos de alta resolución",
+      "Controla estilo visual",
+      "Genera escenas con iluminación",
+      "Exporta en varios formatos",
+      "Integración con editores de video"
+    ],
+    "caracteristicas": [
+      "Renderizado en tiempo real",
+      "Soporte de prompts detallados",
+      "Modelos de estilo personalizables",
+      "Salida sin marca de agua en plan premium",
+      "API para automatización"
+    ],
+    "etica": "La creación de videos falsos puede facilitar la difusión de desinformación. El uso de recursos computacionales intensivos impacta el medio ambiente.",
+    "limite_gratis": "Sin plan gratuito; se requiere suscripción para acceder al servicio.",
+    "id": "seedance-2-0-5b2cb9",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Lev8",
+    "compania": "Lev8",
+    "tipo": "Plataforma de reclutamiento y networking profesional",
+    "precio": "Freemium",
+    "descripcion": "Lev8 utiliza IA para ayudar a los usuarios a encontrar, investigar y contactar a las personas adecuadas para oportunidades profesionales.",
+    "web": "https://lev8.ai",
+    "funciones": [
+      "Busca candidatos por habilidades",
+      "Analiza perfiles y experiencia",
+      "Sugiere mensajes de contacto",
+      "Integra con LinkedIn",
+      "Genera informes de compatibilidad"
+    ],
+    "caracteristicas": [
+      "Base de datos de millones de profesionales",
+      "Filtrado avanzado por criterios",
+      "Interfaz de chatbot",
+      "Reportes de mercado",
+      "Compatibilidad con ATS"
+    ],
+    "etica": "El uso de IA para emparejar perfiles puede introducir sesgos de género o etnia. La recopilación de datos personales debe cumplir con normativas de protección.",
+    "limite_gratis": "El plan gratuito permite hasta 10 búsquedas al mes con resultados limitados.",
+    "id": "lev8-a139b7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "CreateOS Sandbox",
+    "descripcion": "CreateOS Sandbox ofrece sandboxes instantáneos y aislados en hardware para ejecutar agentes de IA de forma segura.",
+    "compania": "CreateOS",
+    "tipo": "Entornos aislados para agentes de IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Aislamiento completo del sistema",
+      "Ejecuta múltiples agentes simultáneamente",
+      "Monitorea uso de recursos",
+      "Integración con CI/CD",
+      "Exporta resultados"
+    ],
+    "caracteristicas": [
+      "Sin necesidad de configuración",
+      "Soporte de GPU",
+      "Escalado automático",
+      "Seguridad de nivel empresarial",
+      "API para automatización"
+    ],
+    "etica": "El aislamiento garantiza que los datos sensibles no se filtren, pero la compartición de recursos puede generar vulnerabilidades. El uso extensivo de hardware puede generar consumo energético elevado.",
+    "limite_gratis": "El plan gratuito permite crear hasta 2 sandboxes con duración máxima de 30 minutos cada una.",
+    "web": "https://createos.sh/products/sandbox",
+    "id": "createos-sandbox-0ad33c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Routine AI",
+    "descripcion": "Un asistente de voz diseñado para el entorno laboral que actúa como un 'Siri para el trabajo'. Permite gestionar tareas y controlar el flujo de trabajo mediante comandos de voz.",
+    "precio": "Freemium",
+    "funciones": [
+      "Control de tareas por voz",
+      "Gestión de flujo de trabajo",
+      "Asistencia de voz inteligente",
+      "Integración con herramientas laborales"
+    ],
+    "caracteristicas": [
+      "Interfaz de voz optimizada",
+      "Automatización de comandos",
+      "Enfoque en productividad profesional",
+      "Gestión de agenda"
+    ],
+    "etica": "Se enfoca en la eficiencia laboral, aunque requiere un manejo cuidadoso de la privacidad de los datos de voz y conversaciones profesionales.",
+    "web": "https://www.producthunt.com/products/routine",
+    "tipo": "Asistente de productividad",
+    "compania": "Routine AI",
+    "id": "routine-ai-98144d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece un plan gratuito con funciones básicas de asistencia de voz para probar la herramienta.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "CartAI",
+    "descripcion": "Un agente de inteligencia artificial especializado en gestionar el proceso de pago (checkout) en plataformas de comercio electrónico. Optimiza la conversión y la experiencia de compra del usuario.",
+    "precio": "Pago",
+    "funciones": [
+      "Gestión automatizada de checkout",
+      "Asistencia en el proceso de compra",
+      "Resolución de dudas en el carrito",
+      "Optimización de conversiones"
+    ],
+    "caracteristicas": [
+      "Agente autónomo de ventas",
+      "Integración con e-commerce",
+      "Reducción de abandono de carrito",
+      "Interacción en tiempo real"
+    ],
+    "etica": "Maneja datos sensibles de transacciones, por lo que debe cumplir con estrictos estándares de seguridad y privacidad de pagos.",
+    "web": "https://www.cartai.ai/",
+    "tipo": "Agentes IA",
+    "compania": "CartAI",
+    "id": "cartai-946fd1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Diffsmith",
+    "descripcion": "Una plataforma de colaboración diseñada para revisar y comentar el código generado por agentes de IA. Facilita el trabajo conjunto entre humanos y agentes en el desarrollo de software.",
+    "precio": "Freemium",
+    "funciones": [
+      "Revisión de código de IA",
+      "Colaboración en cambios de código",
+      "Comentarios en tiempo real",
+      "Gestión de diferencias (diffs) de código"
+    ],
+    "caracteristicas": [
+      "Entorno colaborativo",
+      "Integración con agentes de IA",
+      "Control de versiones de cambios",
+      "Flujo de trabajo de revisión"
+    ],
+    "etica": "Promueve la supervisión humana sobre la IA para mitigar errores de código y sesgos algorítmicos en el desarrollo.",
+    "web": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+    "tipo": "Asistente de programación",
+    "compania": "Diffsmith",
+    "id": "diffsmith-9aff47",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece acceso limitado para probar la colaboración y la revisión de código generada.",
     "intentos_web": 1
   }
 ]
