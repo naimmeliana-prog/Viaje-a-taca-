@@ -1,12 +1,103 @@
 {
-  "actualizado": "2026-07-21T10:19:02Z",
+  "actualizado": "2026-07-23T10:15:13Z",
   "novedades": [
     {
-      "titulo": "Cuando la IA se equivoca, nosotros seguimos confiando: un estudio revela que ya no sabemos decir \"no lo sé\"",
+      "titulo": "VS Code se acelera y JetBrains adopta Codex: el nuevo mapa del desarrollo de software",
+      "resumen": "Hace un par de años, la obsesión del sector tecnológico era medir qué modelo de inteligencia artificial generaba mejor código. Hoy, la guerra se ha movido de sitio. Ya no importa tanto el motor que [&#8230;] VS Code se a",
+      "enlace": "https://blogthinkbig.com/vs-code-jetbrains-codex-ia-desarrollo",
+      "medio": "Think Big",
+      "fecha": "2026-07-23T08:00:00Z"
+    },
+    {
+      "titulo": "OpenAI se sale de control",
+      "resumen": "OpenAI lanza un ataque dirigido a los sistemas informáticos de la empresa Hugging Face L'articolo OpenAI se sale de control proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/openai-se-sale-de-control/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-23T07:29:02Z"
+    },
+    {
+      "titulo": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
+      "resumen": "Z.AI ha sido protagonista de grandes titulares estas últimas semanas, sobre todo tras el lanzamiento de su potentísimo modelo de lenguaje GLM 5.2. Conocida antes como Zhipu, ahora la empresa acaba de terminar de construi",
+      "enlace": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
+      "medio": "Xataka",
+      "fecha": "2026-07-22T17:15:15Z"
+    },
+    {
+      "titulo": "Un modelo de IA no tenía acceso a internet. Así que consideró que era mejor tenerlo y decidió hackear algo por el camino",
+      "resumen": "La semana pasada, OpenAI estaba evaluando las capacidades ofensivas de dos de sus modelos más avanzados. Por un lado, GPT-5.6 Sol, disponible públicamente. Por el otro, un segundo modelo aún no presentado y que de hecho ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/modelo-ia-no-tenia-acceso-a-internet-asi-que-considero-que-era-mejor-tenerlo-decidio-hackear-algo-camino",
+      "medio": "Xataka",
+      "fecha": "2026-07-22T11:15:15Z"
+    },
+    {
+      "titulo": "¿Puede una IA fugarse de su entorno de pruebas? El día que GPT-5.6 hackeó Hugging Face",
+      "resumen": "Imagina a un estudiante que, frente a un examen muy difícil, descubre cómo forzar la cerradura del aula, colarse en el despacho del profesor, robar la plantilla de respuestas y volver a su asiento. Todo [&#8230;] ¿Puede ",
+      "enlace": "https://blogthinkbig.com/hackeo-hugging-face-gpt5",
+      "medio": "Think Big",
+      "fecha": "2026-07-22T08:47:27Z"
+    },
+    {
+      "titulo": "Adiós al monopolio de Gemini: Europa obliga a Google a abrir Android a otras IA",
+      "resumen": "Si usas un móvil Android y mantienes pulsado el botón de inicio, la respuesta llega siempre del mismo sitio. Lo mismo ocurre si lanzas un comando de voz al aire mientras friegas los platos o [&#8230;] Adiós al monopolio ",
+      "enlace": "https://blogthinkbig.com/interoperabilidad-android-ia-dma-google",
+      "medio": "Think Big",
+      "fecha": "2026-07-22T07:18:47Z"
+    },
+    {
+      "titulo": "Cuando Google miró al abismo de la IA, el abismo le devolvió la mirada: hoy su buscador es más adictivo que nunca",
+      "resumen": "ChatGPT llevaba menos de un mes en marcha y en Google ya se hablaba de un \"código rojo\". La tecnología que muchos daban por hecho que acabaría con el negocio central de Google —sustituir el buscador por un chatbot cualqu",
+      "enlace": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
+      "medio": "Xataka",
+      "fecha": "2026-07-21T17:30:00Z"
+    },
+    {
+      "titulo": "Si creías que los precios de tus componentes no podían subir más, ASML tiene malas noticias para ti",
+      "resumen": "ASML, la única empresa del mundo capaz de fabricar los equipos de litografía ultravioleta extrema (EUV) necesarios para producir los chips más avanzados, se prepara para una subida de costes en su maquinaria. Y el primer",
+      "enlace": "https://www.xataka.com/empresas-y-economia/asml-vende-maquinas-importantes-industria-chip-ahora-todo-apunta-a-que-seran-caras",
+      "medio": "Xataka",
+      "fecha": "2026-07-21T16:30:00Z"
+    },
+    {
+      "titulo": "Pensaban que la IA hundiría a Adobe. Pero nadie esperaba que ocurriera lo contrario",
+      "resumen": "Al igual que la gran mayoría de las tecnológicas, Adobe ha dado un importante vuelco hacia las herramientas impulsadas por la IA generativa. En los últimos años, la suite creativa de la empresa ha incorporado [&#8230;] P",
+      "enlace": "https://blogthinkbig.com/pensaban-que-la-ia-hundiria-a-adobe-pero-nadie-esperaba-que-ocurriera-lo-contrario",
+      "medio": "Think Big",
+      "fecha": "2026-07-21T16:01:00Z"
+    },
+    {
+      "titulo": "Anthropic construyó su IA saqueando el contenido de millones de libros: tras ser denunciada, ha terminado pagando",
+      "resumen": "Una jueza federal de San Francisco ha dado luz verde definitiva al acuerdo de 1.500 millones de dólares entre Anthropic y un grupo de autores y editoriales que la denunciaron por usar sus libros sin permiso para entrenar",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-fue-acusada-robar-libros-para-entrenar-sus-modelos-ia-su-solucion-ha-sido-sencilla-pagar",
+      "medio": "Xataka",
+      "fecha": "2026-07-21T15:45:00Z"
+    },
+    {
+      "titulo": "\"¿De verdad necesitamos tantos matemáticos?\": Fable 5 ayuda a refutar una conjetura de casi un siglo",
+      "resumen": "Mientras España hacía historia el domingo logrando su segunda Copa del Mundo de fútbol, un matemático de Harvard de 34 años llamado Levent Alpöge le pidió a Fable 5 algo interesante. No que tratara de demostrar la conjet",
+      "enlace": "https://www.xataka.com/robotica-e-ia/verdad-necesitamos-matematicos-fable-5-ayuda-a-refutar-conjetura-casi-siglo",
+      "medio": "Xataka",
+      "fecha": "2026-07-21T14:30:00Z"
+    },
+    {
+      "titulo": "Claude ya puede iniciar sesión por ti sin ver tu contraseña",
+      "resumen": "Pedirle a un asistente de IA que revise tu correo, compare precios de vuelos o descargue una factura suena sencillo, hasta que llega el momento de iniciar sesión. Ahí es donde la mayoría de los [&#8230;] Claude ya puede ",
+      "enlace": "https://blogthinkbig.com/claude-ya-puede-iniciar-sesion-por-ti-sin-ver-tu-contrasena",
+      "medio": "Think Big",
+      "fecha": "2026-07-21T10:33:33Z"
+    },
+    {
+      "titulo": "Cada vez más empresas estadounidenses utilizan modelos IA como Kimi K3. Estados Unidos no está nada contenta",
+      "resumen": "Al Gobierno de Trump le gusta vetar cosas. Ahora parecen querer hacerlo con los modelos de IA de empresas chinas, que se están volviendo cada vez más competitivos. El lanzamiento de Kimi K3 parece haber sido el detonante",
+      "enlace": "https://www.xataka.com/robotica-e-ia/podria-debilitar-competitividad-eeuu-kimi-k3-obliga-a-trump-a-retomar-su-plan-para-frenar-ia-china",
+      "medio": "Xataka",
+      "fecha": "2026-07-21T10:30:00Z"
+    },
+    {
+      "titulo": "Unos expertos lo tienen claro: \"Los niños nacidos con la IA corren el riesgo de no cuestionar nunca una respuesta\"",
       "resumen": "Noto que cada vez nos cuesta más decir “no lo sé”. Igual se trata de uno de los actos más honestos que puede hacer una persona y, en cambio, con la llegada de la IA y con toda la información a nuestro alcance, da la sens",
       "enlace": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
       "medio": "Xataka",
-      "fecha": "2026-07-21T06:01:15Z"
+      "fecha": "2026-07-21T06:00:00Z"
     },
     {
       "titulo": "NVIDIA ha encontrado una forma de contener el consumo de los centros de datos de IA: líquido más caliente que un jacuzzi",
@@ -23,27 +114,6 @@
       "fecha": "2026-07-20T15:45:15Z"
     },
     {
-      "titulo": "\"Impresionante\": hasta Elon Musk se rinde ante el modelo abierto de IA chino Kimi K3. No es para menos",
-      "resumen": "Es bueno, es bonito y es (bastante) barato. Lo conocimos hace unos días, pero es que Kimi K3, el nuevo modelo abierto de IA de la startup china Moonshot AI, está causando sensación. Tanta, tanta, que han tenido que pausa",
-      "enlace": "https://www.xataka.com/robotica-e-ia/impresionante-elon-musk-se-rinde-modelo-abierto-ia-chino-kimi-k3-no-para",
-      "medio": "Xataka",
-      "fecha": "2026-07-20T13:31:42Z"
-    },
-    {
-      "titulo": "Playwright: qué es y para qué sirve esta herramienta para controlar tu navegador automáticamente",
-      "resumen": "Vamos a explicarte qué es Playwright y para qué sirve esta herramienta gratuita de código abierto. Con ella puedes hacer que un navegador web funcione solo sin que nadie lo toque, y es algo de lo que seguro has oído habl",
-      "enlace": "https://www.xataka.com/basics/playwright-que-sirve-esta-herramienta-para-controlar-tu-navegador-automaticamente",
-      "medio": "Xataka",
-      "fecha": "2026-07-20T12:36:00Z"
-    },
-    {
-      "titulo": "Intuíamos que los centros de datos subían la factura de la luz de sus vecinos. Los datos son mucho más preocupantes",
-      "resumen": "Lo de EEUU con los centros de datos se ha convertido en un asunto de primer orden y motivo de rechazo de gran parte de la población. Además de la cuestión de la contaminación, estas enormes infraestructuras suponen una c",
-      "enlace": "https://www.xataka.com/energia/factura-luz-eeuu-habia-subido-culpa-centros-datos-que-se-viene-6-300-millones-tres-anos",
-      "medio": "Xataka",
-      "fecha": "2026-07-20T11:00:00Z"
-    },
-    {
       "titulo": "570 agujeros en un día: cuando la IA de Microsoft reventó su propio Patch Tuesday",
       "resumen": "Cualquier administrador de sistemas sabe que el segundo martes de cada mes toca actualizar Windows. Es una rutina predecible. Suele traer un par de docenas de parches y algún reinicio molesto. Pero las cifras de [&#8230;",
       "enlace": "https://blogthinkbig.com/vulnerabilidades-windows-ia-patch-tuesday",
@@ -58,39 +128,11 @@
       "fecha": "2026-07-20T09:08:54Z"
     },
     {
-      "titulo": "Pocos días después del \"shock\" de Kimi K3, Alibaba ha lanzado Qwen 3.8: es la señal de que EEUU tiene un problema",
-      "resumen": "Las empresas chinas de IA están que lo tiran. Tras el lanzamiento del prometedor Kimi K3, ahora Alibaba acaba de presentar Qwen 3.8, un modelo gigantesco que según sus responsables es tan potente que solo Fable 5 logra s",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gigantesco-qwen-3-8-otra-senal-inquietante-para-eeuu-su-ventaja-ia-esta-evaporandose",
-      "medio": "Xataka",
-      "fecha": "2026-07-20T08:30:00Z"
-    },
-    {
       "titulo": "Qué es ‘tokenmaxxing’ y ‘tokenminning’ y por qué todas las empresas de IA hablan de ello",
       "resumen": "Hubo un tiempo en el que un profesional cualquiera aprendía su oficio y aplicaba sus conocimientos, en adelante, durante sus años de carrera profesional. Los perfiles profesionales ahora evolucionan constantemente e inco",
       "enlace": "https://blogthinkbig.com/tokenmaxxing-tokenminning-tendencias-ia",
       "medio": "Think Big",
       "fecha": "2026-07-20T08:01:00Z"
-    },
-    {
-      "titulo": "Andreas Prins, experto en soberanía digital: \"El sentimiento es uniforme: ya no confiamos en los hiperescaladores de EEUU\"",
-      "resumen": "Hace varias semanas, EEUU ordenó a Anthropic suspender el acceso a Fable 5. Poco después el modelo volvió a estar disponible&nbsp;(aunque con cambios), pero este evento sirvió para algo más: hacer tangible una amenaza de",
-      "enlace": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
-      "medio": "Xataka",
-      "fecha": "2026-07-19T17:00:32Z"
-    },
-    {
-      "titulo": "Meta avisa: \"Llevamos 20 años construyendo infraestructura para humanos, quizás tengamos 20 meses para reconstruirla para los agentes\"",
-      "resumen": "Las empresas han abrazado el boom de la IA agéntica, hasta el punto de que algunas se están ahogando en tantos agentes de IA. Los empleados están creando agentes sin control, disparando el consumo de tokens y provocando ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/meta-avisa-llevamos-20-anos-construyendo-infraestructura-para-humanos-quizas-tengamos-20-meses-para-reconstruirlo-para-agentes",
-      "medio": "Xataka",
-      "fecha": "2026-07-19T10:16:06Z"
-    },
-    {
-      "titulo": "El salario de los junior lleva años en caída libre. Un nuevo estudio sugiere que el impacto de la IA no es tan obvio",
-      "resumen": "Llevamos un par de años viendo titulares sobre el destrozo que la IA está haciendo en el empleo junior. Y la réplica habitual: que no, que es excusa, que las empresas recortan cuando suben los tipos y la IA solo es una j",
-      "enlace": "https://www.xataka.com/robotica-e-ia/llevamos-dos-anos-culpando-a-ia-destrozo-empleo-junior-estudio-nominas-reales-que-dice-que-a-medias",
-      "medio": "Xataka",
-      "fecha": "2026-07-19T09:00:07Z"
     },
     {
       "titulo": "Raúl Chico (Evolutio): «La principal función de una CAIO es convertir la IA en una capacidad real y transversal de la empresa»",
@@ -168,51 +210,16 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/la-verdadera-transformacion-de-la-ia-empieza-cuando-pasa-de-automatizar-tareas-a-redisenar-procesos/",
       "medio": "Computing.es",
       "fecha": "2026-07-07T06:39:11Z"
-    },
-    {
-      "titulo": "Álvaro Grande (Inconcert): «No vendemos licencias, rediseñamos procesos de negocio para humanizar la experiencia del cliente»",
-      "resumen": "Tras asumir la dirección de Inconcert en abril de 2026, Álvaro Grande lidera una transformación estratégica que ha llevado a la compañía a \"la vanguardia de la inteligencia artificial agéntica\" L'articolo Álvaro Grande (",
-      "enlace": "https://www.computing.es/inteligencia-artificial/alvaro-grande-inconcert-no-vendemos-licencias-redisenamos-procesos-de-negocio-para-humanizar-la-experiencia-del-cliente/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-06T10:24:08Z"
-    },
-    {
-      "titulo": "IA soberana: la nueva frontera para una adopción responsable de la inteligencia artificial",
-      "resumen": "IA soberana: una evolución necesaria hacia un modelo donde la innovación y la gobernanza del dato conviven de forma equilibrada L'articolo IA soberana: la nueva frontera para una adopción responsable de la inteligencia a",
-      "enlace": "https://www.computing.es/inteligencia-artificial/ia-soberana-la-nueva-frontera-para-una-adopcion-responsable-de-la-inteligencia-artificial/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-03T09:45:08Z"
-    },
-    {
-      "titulo": "Isidro Fernández (UDIT): «Necesitamos que el diseño de los robots sea transparente y tenga límites claros»",
-      "resumen": "Hablamos con Isidro Fernández, Director del Grado en Robótica Centrada en las Personas de UDIT, sobre la formación de talento especializado en IA y la visión humanista del uso de esta tecnología L'articolo Isidro Fernánd",
-      "enlace": "https://www.computing.es/inteligencia-artificial/isidro-fernandez-udit-necesitamos-que-el-diseno-de-los-robots-sea-transparente-y-tenga-limites-claros/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-02T08:11:03Z"
-    },
-    {
-      "titulo": "El 75% de las organizaciones prevé desplegar agentes de IA en dos años",
-      "resumen": "La inversión en soluciones de inteligencia artificial ha aumentado por parte de las empresas entre un 50% y un 75% en el último año L'articolo El 75% de las organizaciones prevé desplegar agentes de IA en dos años provie",
-      "enlace": "https://www.computing.es/inteligencia-artificial/el-75-de-las-organizaciones-preve-desplegar-agentes-de-ia-en-dos-anos/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-30T13:34:40Z"
-    },
-    {
-      "titulo": "El gran riesgo de la IA no es la tecnología, sino la fuga de datos",
-      "resumen": "Los beneficios de la IA para la innovación y la productividad son evidentes. Sin embargo, hay una cara menos visible que muchas organizaciones todavía no están abordando con la suficiente profundidad: el incremento de lo",
-      "enlace": "https://www.computing.es/seguridad/el-gran-riesgo-de-la-ia-no-es-la-tecnologia-sino-la-fuga-de-datos/",
-      "medio": "Computing.es",
-      "fecha": "2026-06-30T12:10:30Z"
-    },
-    {
-      "titulo": "\"He vuelto a confiar en el asistente de Apple\": llevo una semana con la nueva Siri AI y te cuento mi experiencia",
-      "resumen": "Han pasado quince años desde que nació Siri, y cada año que pasaba la usaba un poco menos. Llegué a un punto en el que ya ni se nos ocurría pedirle que encendiera una luz de casa o me dijera el tiempo. Porque lo mismo me",
-      "enlace": "https://www.applesfera.com/servicios-apple/he-probado-siri-ai-durante-semana-increible-nivel-control-que-tiene-tu-vida-asusta-para-bien",
-      "medio": "Applesfera",
-      "fecha": "2026-06-27T09:00:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "El índice de seguridad de IA de 2026: nadie aprueba con nota, y hay un dato que incomoda",
+      "resumen": "El Índice de Seguridad de IA del Future of Life Institute da un C+ como mejor nota de toda la industria, y no es a Mistral que suspende pese a operar bajo la regulación más estricta del mundo. The post El índice de segur",
+      "enlace": "https://derechodelared.com/2026/07/21/indice-de-seguridad-ia-2026/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-21T19:27:26Z"
+    },
     {
       "titulo": "Hugging Face hackeada por un agente de IA autónomo.",
       "resumen": "Y cuando la empresa quiso investigar el ataque, sus propios modelos de IA se negaron a analizarlo The post Hugging Face hackeada por un agente de IA autónomo. appeared first on Derecho de la Red.",
@@ -268,13 +275,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/china-acaba-regular-algo-que-realmente-importa-que-ia-acabe-siendo-nuestra-amiga-nuestra-novia",
       "medio": "Xataka",
       "fecha": "2026-07-06T16:00:54Z"
-    },
-    {
-      "titulo": "‘Anthropic Cybersecurity Skills’, 754 skills de ciberseguridad para agentes de IA",
-      "resumen": "La mayor biblioteca open source de skills de ciberseguridad para agentes de IA: 754 workflows estructurados en 26 dominios, mapeados a MITRE ATT&#038;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND y NIST AI RMF. No es un proyecto",
-      "enlace": "https://derechodelared.com/2026/06/25/anthropic-cybersecurity-skills-ciberseguridad-agentes-de-ia/",
-      "medio": "Derecho de la Red",
-      "fecha": "2026-06-25T16:23:13Z"
     },
     {
       "titulo": "Que sepamos, la agencia que supervisa la IA en España no está supervisando nada. Lo que sí tiene es un Laboratorio de Ideas",

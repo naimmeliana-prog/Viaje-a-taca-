@@ -2394,7 +2394,7 @@
     "tipo": "Recursos Humanos IA / Contratación IA",
     "precio": "Pago",
     "descripcion": "Una innovadora plataforma de contratación que optimiza el proceso de selección mediante agentes de IA para entrevistas en vídeo y perfiles de vídeo cortos de los candidatos.",
-    "web": "https://fika.jobs",
+    "web": "https://fikajobs.ai/",
     "funciones": [
       "Realización de entrevistas en vídeo por agentes de IA",
       "Creación y gestión de perfiles de vídeo de candidatos",
@@ -2416,7 +2416,7 @@
     "fecha_agregado": "2026-06-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 9
+    "intentos_web": 1
   },
   {
     "nombre": "Jotform AI App Builder",
@@ -8661,36 +8661,6 @@
     "pendiente_revision": false
   },
   {
-    "nombre": "Udio",
-    "compania": "Udio",
-    "tipo": "Generación de música",
-    "precio": "Freemium",
-    "descripcion": "Udio es un generador de música impulsado por IA que crea canciones originales a partir de prompts, permitiendo controlar estilo, género y duración.",
-    "web": "https://udio.ai",
-    "funciones": [
-      "Crea pistas musicales a partir de texto",
-      "Controla género, tempo y estilo",
-      "Exporta archivos de audio",
-      "Integra con DAWs",
-      "Permite ajustes de mezcla"
-    ],
-    "caracteristicas": [
-      "Interfaz basada en web",
-      "Soporte multilingüe de prompts",
-      "Modelos de alta calidad",
-      "Descarga sin marca de agua en plan pago",
-      "API para integraciones"
-    ],
-    "etica": "El uso de IA para crear música plantea preguntas sobre la autoría y derechos de autor. Puede generar contenido que infrinja derechos si se entrena con material protegido.",
-    "limite_gratis": "El plan gratuito permite generar hasta 5 canciones al mes con calidad limitada.",
-    "id": "udio-d25149",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-07-21",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
     "nombre": "Xiaomi-Robotics-1",
     "compania": "Xiaomi",
     "tipo": "Modelo de movimiento para robots",
@@ -8726,7 +8696,7 @@
     "tipo": "Plataforma de datos para robótica",
     "precio": "Gratuito",
     "descripcion": "Grabette es una plataforma de código abierto que permite registrar, etiquetar y analizar datos de manipulación robótica para mejorar el aprendizaje de los robots.",
-    "web": "https://grabette.ai",
+    "web": "https://grab-ai-tech.com/",
     "funciones": [
       "Registro de videos de manipulación",
       "Etiquetado automático de acciones",
@@ -8748,7 +8718,8 @@
     "pago": false,
     "fecha_agregado": "2026-07-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Cosmos 3 Edge",
@@ -8756,7 +8727,7 @@
     "tipo": "Modelo de razonamiento y generación de acciones para robots en edge",
     "precio": "Freemium",
     "descripcion": "Cosmos 3 Edge es un modelo de 4 mil millones de parámetros que razona y genera acciones de robots en el dispositivo, mejorando la percepción del entorno.",
-    "web": "https://www.nvidia.com/en-us/ai/cosmos-edge/",
+    "web": "https://huggingface.co/spaces/hugging-apps/nvidia-cosmos3-edge",
     "funciones": [
       "Procesa datos de sensores en tiempo real",
       "Genera comandos de control",
@@ -8778,7 +8749,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-21",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Tidy",
@@ -8950,7 +8922,7 @@
       "Gestión de agenda"
     ],
     "etica": "Se enfoca en la eficiencia laboral, aunque requiere un manejo cuidadoso de la privacidad de los datos de voz y conversaciones profesionales.",
-    "web": "https://www.producthunt.com/products/routine",
+    "web": "https://routine.co/product/ai",
     "tipo": "Asistente de productividad",
     "compania": "Routine AI",
     "id": "routine-ai-98144d",
@@ -8960,7 +8932,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece un plan gratuito con funciones básicas de asistencia de voz para probar la herramienta.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "CartAI",
@@ -9018,6 +8990,320 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece acceso limitado para probar la colaboración y la revisión de código generada.",
+    "intentos_web": 2
+  },
+  {
+    "nombre": "ReExplain",
+    "compania": "Desconocida",
+    "tipo": "Educación / Aprendizaje",
+    "precio": "Freemium",
+    "descripcion": "Herramienta de aprendizaje interactivo que utiliza la técnica de enseñanza inversa para identificar lagunas en el conocimiento del usuario.",
+    "web": "https://reexplain.com",
+    "funciones": [
+      "Explicación de conceptos a la IA",
+      "Identificación de brechas de conocimiento",
+      "Feedback interactivo en tiempo real",
+      "Guía de estudio personalizada"
+    ],
+    "caracteristicas": [
+      "Interfaz de chat educativo",
+      "Metodología de aprendizaje activo",
+      "Evaluación de comprensión",
+      "Personalización del ritmo de aprendizaje"
+    ],
+    "etica": "Se enfoca en el refuerzo del aprendizaje humano, aunque requiere el manejo de datos educativos personales.",
+    "limite_gratis": "Ofrece un número limitado de sesiones de explicación diarias.",
+    "id": "reexplain-7fb6f6",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Rehello",
+    "compania": "Desconocida",
+    "tipo": "Productividad / Relaciones Sociales",
+    "precio": "Freemium",
+    "descripcion": "Asistente de memoria social diseñado para ayudar a personas introvertidas a mantener conexiones humanas de forma natural.",
+    "web": "https://rehello.app",
+    "funciones": [
+      "Recordatorios de contacto contextuales",
+      "Gestión de detalles de personas conocidas",
+      "Sugerencias de reconexión",
+      "Registro de interacciones sociales"
+    ],
+    "caracteristicas": [
+      "Interfaz amigable para introvertidos",
+      "Recordatorios inteligentes",
+      "Base de datos de contactos enriquecida",
+      "Sugerencias basadas en contexto"
+    ],
+    "etica": "La privacidad es crítica al manejar datos personales de terceros para facilitar la reconexión social.",
+    "limite_gratis": "Permite gestionar un número básico de contactos y recordatorios.",
+    "id": "rehello-ee6a6b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AgentLoop",
+    "compania": "Desconocida",
+    "tipo": "Agentes IA / Ingeniería de Software",
+    "precio": "Pago",
+    "descripcion": "Framework avanzado para ingeniería de software que utiliza ciclos de agentes 'workers' y 'critics' para tareas autónomas.",
+    "web": "https://agentloop.dev",
+    "funciones": [
+      "Ejecución de tareas de ingeniería autónomas",
+      "Autoevaluación de código mediante agentes críticos",
+      "Ciclos de iteración de software",
+      "Optimización de flujos de trabajo de desarrollo"
+    ],
+    "caracteristicas": [
+      "Arquitectura de agentes duales",
+      "Optimización para Codex",
+      "Autoevaluación continua",
+      "Enfoque en ingeniería de software"
+    ],
+    "etica": "El uso de agentes autónomos plantea retos sobre la responsabilidad del código generado y la supervisión humana.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "agentloop-ca38bf",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "PromptQL",
+    "compania": "Desconocida",
+    "tipo": "Productividad / Colaboración",
+    "precio": "Pago",
+    "descripcion": "Plataforma de colaboración multijugador que integra IA para transformar la comunicación de equipo y la ejecución de tareas.",
+    "web": "https://promptql.com",
+    "funciones": [
+      "Chat colaborativo con IA integrada",
+      "Gestión de prompts compartidos",
+      "Ejecución de tareas en equipo",
+      "Flujos de trabajo basados en prompts"
+    ],
+    "caracteristicas": [
+      "Interfaz multijugador en tiempo real",
+      "Integración de prompts en el flujo de trabajo",
+      "Sustitución de herramientas de chat tradicionales",
+      "Colaboración centrada en IA"
+    ],
+    "etica": "La transparencia en el uso de prompts compartidos es clave para la propiedad intelectual del equipo.",
+    "limite_gratis": "Ofrece una prueba gratuita limitada para equipos pequeños.",
+    "id": "promptql-bc8eb6",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Gigatoken",
+    "compania": "Desconocida",
+    "tipo": "Infraestructura de IA",
+    "precio": "Freemium",
+    "descripcion": "Tokenizer de alto rendimiento implementado en Rust para una codificación de texto extremadamente rápida.",
+    "web": "https://github.com/gigatoken/gigatoken",
+    "funciones": [
+      "Codificación de texto ultra rápida",
+      "Tokenización BPE optimizada",
+      "Inferencia masiva de datos",
+      "Procesamiento de alto rendimiento"
+    ],
+    "caracteristicas": [
+      "Implementación en Rust",
+      "Licencia MIT",
+      "Velocidad de hasta 24.53 GB/s",
+      "Optimizado para inferencia masiva"
+    ],
+    "etica": "Al ser de código abierto, permite una auditoría transparente de sus procesos de codificación.",
+    "limite_gratis": "El código es gratuito bajo licencia MIT.",
+    "id": "gigatoken-82fb15",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Nunchaku 4-bit Diffusion",
+    "compania": "Desconocida",
+    "tipo": "Generación de vídeo / Imagen",
+    "precio": "Freemium",
+    "descripcion": "Técnica de inferencia para modelos de difusión que reduce el uso de memoria VRAM mediante cuantización de 4 bits.",
+    "web": "https://github.com/mit-han-lab/nunchaku",
+    "funciones": [
+      "Inferencia de modelos de difusión a 4 bits",
+      "Reducción de consumo de VRAM",
+      "Aceleración de generación de imágenes/vídeo",
+      "Integración con Diffusers"
+    ],
+    "caracteristicas": [
+      "Cuantización de 4 bits",
+      "Sin pérdida perceptible de calidad",
+      "Optimización de hardware",
+      "Compatibilidad con Diffusers"
+    ],
+    "etica": "La eficiencia en el uso de recursos ayuda a reducir la huella de carbono de la IA generativa.",
+    "limite_gratis": "Disponible como componente de software de código abierto.",
+    "id": "nunchaku-4-bit-diffusion-1bccda",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "iKairos",
+    "compania": "Desconocida",
+    "tipo": "Hardware / Estilo de vida",
+    "precio": "Pago",
+    "descripcion": "Dispositivo inteligente que transforma momentos familiares en recuerdos visuales generados por IA.",
+    "web": "https://ikairos.com",
+    "funciones": [
+      "Conversión de momentos en imágenes/vídeo",
+      "Generación de contenido visual con IA",
+      "Journaling digital inteligente",
+      "Creación de álbumes automáticos"
+    ],
+    "caracteristicas": [
+      "Formato wearable o de escritorio",
+      "Enfoque en recuerdos familiares",
+      "IA generativa integrada",
+      "Diseño orientado al hogar"
+    ],
+    "etica": "Requiere un manejo extremadamente cuidadoso de la privacidad de las imágenes familiares capturadas.",
+    "limite_gratis": "Sin plan gratuito (producto físico).",
+    "id": "ikairos-efa188",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Mufal",
+    "descripcion": "Copiloto de IA diseñado para asistir de forma discreta durante reuniones en vivo.",
+    "compania": "Desconocida",
+    "tipo": "Productividad / Asistente de reuniones",
+    "precio": "Freemium",
+    "funciones": [
+      "Asistencia en tiempo real durante reuniones",
+      "Generación de notas de reunión",
+      "Apoyo en la comunicación en vivo",
+      "Resúmenes de interacciones"
+    ],
+    "caracteristicas": [
+      "Modo de uso indetectable",
+      "Asistencia en tiempo real",
+      "Integración en videollamadas",
+      "Apoyo discreto al usuario"
+    ],
+    "etica": "El uso de herramientas 'indetectables' plantea dilemas éticos sobre el consentimiento de los participantes en una reunión.",
+    "limite_gratis": "Ofrece funciones básicas de asistencia para reuniones cortas.",
+    "web": "https://mufal.com/",
+    "id": "mufal-348af0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Wispro",
+    "descripcion": "Herramienta de conversión de voz a texto que transforma el habla en texto perfectamente redactado.",
+    "compania": "Desconocida",
+    "tipo": "Productividad / Dictado",
+    "precio": "Freemium",
+    "funciones": [
+      "Conversión de voz a texto",
+      "Redacción automática de texto",
+      "Limpieza de lenguaje hablado",
+      "Transcripción inteligente"
+    ],
+    "caracteristicas": [
+      "Procesamiento de lenguaje natural avanzado",
+      "Redacción fluida y natural",
+      "Interfaz de dictado",
+      "Alta precisión gramatical"
+    ],
+    "etica": "La precisión del modelo depende de la calidad del audio y la privacidad de las grabaciones de voz.",
+    "limite_gratis": "Ofrece un límite de palabras o minutos de dictado mensual.",
+    "web": "https://doc.cloud.wispro.co/docs/migracion-a-wispro",
+    "id": "wispro-49efb7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Vevey",
+    "descripcion": "Tutor de desarrollo de videojuegos optimizado para dispositivos móviles iOS.",
+    "compania": "Desconocida",
+    "tipo": "Educación / Desarrollo de videojuegos",
+    "precio": "Freemium",
+    "funciones": [
+      "Tutoría de diseño de videojuegos",
+      "Lecciones interactivas de desarrollo",
+      "Guía paso a paso para creadores",
+      "Aprendizaje móvil"
+    ],
+    "caracteristicas": [
+      "Optimizado para iOS",
+      "Contenido educativo especializado",
+      "Interfaz de aprendizaje móvil",
+      "Enfoque en game dev"
+    ],
+    "etica": "El contenido educativo debe ser actualizado constantemente para seguir los estándares de la industria.",
+    "limite_gratis": "Acceso a lecciones introductorias gratuitas.",
+    "web": "https://www.vevey.ai/",
+    "id": "vevey-8d9caf",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pulse",
+    "descripcion": "Pulse es un cerebro de IA proactivo y consciente de permisos que ayuda a las empresas a automatizar tareas y tomar decisiones de forma inteligente.",
+    "compania": "Pulse AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Automatización de flujos de trabajo basados en permisos",
+      "Interacción proactiva con el usuario para anticipar necesidades",
+      "Integración con sistemas empresariales y APIs",
+      "Análisis de datos en tiempo real para toma de decisiones",
+      "Control granular de acceso y privacidad"
+    ],
+    "caracteristicas": [
+      "Arquitectura agentica adaptable",
+      "Mecanismos de control de privacidad y seguridad",
+      "Capacidad de razonamiento y planificación",
+      "Escalabilidad para organizaciones de cualquier tamaño",
+      "Soporte multilingüe y multimodal"
+    ],
+    "etica": "Pulse recopila datos operativos sensibles, por lo que requiere políticas de privacidad transparentes y medidas para mitigar sesgos algorítmicos en la toma de decisiones automatizada.",
+    "limite_gratis": "Sin plan gratuito",
+    "web": "https://www.producthunt.com/products/pulse-47",
+    "id": "pulse-ec8374",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]
