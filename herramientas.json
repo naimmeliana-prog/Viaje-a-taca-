@@ -8990,7 +8990,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece acceso limitado para probar la colaboración y la revisión de código generada.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "ReExplain",
@@ -8998,7 +8998,7 @@
     "tipo": "Educación / Aprendizaje",
     "precio": "Freemium",
     "descripcion": "Herramienta de aprendizaje interactivo que utiliza la técnica de enseñanza inversa para identificar lagunas en el conocimiento del usuario.",
-    "web": "https://reexplain.com",
+    "web": "",
     "funciones": [
       "Explicación de conceptos a la IA",
       "Identificación de brechas de conocimiento",
@@ -9018,7 +9018,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Rehello",
@@ -9026,7 +9027,7 @@
     "tipo": "Productividad / Relaciones Sociales",
     "precio": "Freemium",
     "descripcion": "Asistente de memoria social diseñado para ayudar a personas introvertidas a mantener conexiones humanas de forma natural.",
-    "web": "https://rehello.app",
+    "web": "",
     "funciones": [
       "Recordatorios de contacto contextuales",
       "Gestión de detalles de personas conocidas",
@@ -9046,7 +9047,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "AgentLoop",
@@ -9054,7 +9056,7 @@
     "tipo": "Agentes IA / Ingeniería de Software",
     "precio": "Pago",
     "descripcion": "Framework avanzado para ingeniería de software que utiliza ciclos de agentes 'workers' y 'critics' para tareas autónomas.",
-    "web": "https://agentloop.dev",
+    "web": "https://www.agentloop.run/",
     "funciones": [
       "Ejecución de tareas de ingeniería autónomas",
       "Autoevaluación de código mediante agentes críticos",
@@ -9074,7 +9076,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "PromptQL",
@@ -9082,7 +9085,7 @@
     "tipo": "Productividad / Colaboración",
     "precio": "Pago",
     "descripcion": "Plataforma de colaboración multijugador que integra IA para transformar la comunicación de equipo y la ejecución de tareas.",
-    "web": "https://promptql.com",
+    "web": "https://promptql.io/",
     "funciones": [
       "Chat colaborativo con IA integrada",
       "Gestión de prompts compartidos",
@@ -9102,7 +9105,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Gigatoken",
@@ -9110,7 +9114,7 @@
     "tipo": "Infraestructura de IA",
     "precio": "Freemium",
     "descripcion": "Tokenizer de alto rendimiento implementado en Rust para una codificación de texto extremadamente rápida.",
-    "web": "https://github.com/gigatoken/gigatoken",
+    "web": "https://github.com/marcelroed/gigatoken/",
     "funciones": [
       "Codificación de texto ultra rápida",
       "Tokenización BPE optimizada",
@@ -9130,7 +9134,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Nunchaku 4-bit Diffusion",
@@ -9297,11 +9302,290 @@
     ],
     "etica": "Pulse recopila datos operativos sensibles, por lo que requiere políticas de privacidad transparentes y medidas para mitigar sesgos algorítmicos en la toma de decisiones automatizada.",
     "limite_gratis": "Sin plan gratuito",
-    "web": "https://www.producthunt.com/products/pulse-47",
+    "web": "https://www.pulseai.io/",
     "id": "pulse-ec8374",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-07-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "ADE",
+    "compania": "ADE Technologies",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Plataforma que permite sincronizar y gestionar todos tus agentes de codificación desde un único entorno, sin importar dónde trabajes.",
+    "web": "",
+    "funciones": [
+      "Sincronización de agentes de codificación en tiempo real",
+      "Gestión centralizada de múltiples agentes",
+      "Despliegue multiplataforma de agentes",
+      "Monitoreo del estado de los agentes",
+      "Configuración unificada de agentes"
+    ],
+    "caracteristicas": [
+      "Acceso gratuito sin coste",
+      "Compatible con múltiples entornos de desarrollo",
+      "Interfaz unificada para todos los agentes",
+      "Sincronización en la nube",
+      "Sin necesidad de configuración compleja"
+    ],
+    "etica": "Los agentes y el código generado permanecen bajo el control del usuario; la plataforma no almacena ni utiliza el código para entrenamiento externo.",
+    "limite_gratis": "Ofrece sincronización ilimitada de agentes y funciones básicas sin restricciones de uso.",
+    "id": "ade-8418ca",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "OpenComputer",
+    "compania": "OpenComputer Community",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Herramienta de código abierto que simplifica el despliegue y la gestión de agentes de IA de forma autónoma y controlada.",
+    "web": "https://opencomputer.dev/",
+    "funciones": [
+      "Despliegue simplificado de agentes gestionados",
+      "Configuración sin intervención manual compleja",
+      "Monitoreo del estado de los agentes desplegados",
+      "Escalado automático de recursos",
+      "Integración con modelos de IA populares"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva de un solo clic",
+      "Arquitectura abierta y personalizable",
+      "Despliegue en infraestructura local o en la nube",
+      "Soporte para múltiples modelos de lenguaje",
+      "Documentación comunitaria activa"
+    ],
+    "etica": "Al ser de código abierto, permite auditoría completa del funcionamiento del agente, reduciendo riesgos de sesgos ocultos y garantizando transparencia en el procesamiento de datos.",
+    "limite_gratis": "El plan gratuito permite desplegar un número limitado de agentes simultáneos con recursos de cómputo básicos.",
+    "id": "opencomputer-a9513c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Prentis",
+    "compania": "Prentis Labs",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Laboratorio de inteligencia artificial especializado en automatizar tareas rutinarias y repetitivas del ordenador mediante agentes inteligentes.",
+    "web": "https://www.prentis.co/",
+    "funciones": [
+      "Automatización de tareas rutinarias del ordenador",
+      "Grabación y reproducción de acciones del usuario",
+      "Creación de flujos de trabajo automatizados",
+      "Ejecución programada de tareas",
+      "Integración con aplicaciones de escritorio"
+    ],
+    "caracteristicas": [
+      "Diseñado como un laboratorio experimental de IA",
+      "Capacidad de aprender patrones de uso del usuario",
+      "Ejecución local de tareas automatizadas",
+      "Interfaz visual para diseñar flujos",
+      "Compatible con múltiples sistemas operativos"
+    ],
+    "etica": "Las automatizaciones se ejecutan localmente para proteger la privacidad del usuario; se recomienda revisar los permisos otorgados a los agentes para evitar accesos no deseados a datos sensibles.",
+    "limite_gratis": "El plan gratuito permite automatizar un número limitado de tareas diarias con funciones básicas de grabación.",
+    "id": "prentis-29c1ad",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "OpenSpace",
+    "compania": "OpenSpace AI",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Framework de código abierto para crear agentes de IA capaces de evolucionar autónomamente mediante el uso de habilidades modulares y el protocolo MCP.",
+    "web": "https://www.openspace.ai/",
+    "funciones": [
+      "Creación de agentes de IA auto-evolutivos",
+      "Sistema de habilidades modulares y reutilizables",
+      "Integración con el protocolo Model Context Protocol (MCP)",
+      "Entrenamiento continuo del agente con nuevas tareas",
+      "Orquestación de múltiples agentes colaborativos"
+    ],
+    "caracteristicas": [
+      "Arquitectura de framework extensible",
+      "Soporte para evolución autónoma de agentes",
+      "Compatible con el ecosistema MCP",
+      "Código abierto y modificable",
+      "Documentación técnica detallada"
+    ],
+    "etica": "Al ser un framework de código abierto, los desarrolladores son responsables de auditar y mitigar sesgos en los agentes que crean; no se recopilan datos de uso del framework.",
+    "limite_gratis": "Es completamente gratuito y de código abierto sin restricciones de uso, aunque el despliegue de agentes requiere recursos computacionales propios del usuario.",
+    "id": "openspace-498c6b",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "FluentDB",
+    "compania": "FluentDB Inc.",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Cliente de bases de datos nativo para macOS optimizado para trabajar con inteligencia artificial, facilitando la consulta y gestión de datos con asistencia IA.",
+    "web": "https://www.fluentdb.ai/",
+    "funciones": [
+      "Consultas de bases de datos asistidas por IA",
+      "Exploración visual de esquemas de bases de datos",
+      "Generación automática de consultas SQL",
+      "Soporte para múltiples motores de base de datos",
+      "Optimización de consultas con sugerencias de IA"
+    ],
+    "caracteristicas": [
+      "Diseñado exclusivamente para macOS",
+      "Interfaz nativa y ligera",
+      "Integración de IA para optimización de consultas",
+      "Soporte para conexiones locales y remotas",
+      "Exportación e importación de datos simplificada"
+    ],
+    "etica": "Las conexiones a bases de datos se gestionan de forma local; los datos del usuario no se transmiten a servidores externos sin consentimiento explícito.",
+    "limite_gratis": "El plan gratuito ofrece funciones básicas de consulta y gestión de bases de datos con un número limitado de conexiones simultáneas.",
+    "id": "fluentdb-7cc462",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Speech To Markdown",
+    "descripcion": "Herramienta local que aprovecha la inteligencia artificial para convertir notas de voz en documentos Markdown de forma rápida y organizada.",
+    "compania": "SpeechToMarkdown Dev",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Transcripción de voz a texto en formato Markdown",
+      "Procesamiento local de audio sin envío a la nube",
+      "Organización automática de notas por temas",
+      "Exportación en múltiples formatos de documento",
+      "Reconocimiento de voz en tiempo real"
+    ],
+    "caracteristicas": [
+      "Funciona completamente de forma local",
+      "Generación de Markdown estructurado",
+      "Sin necesidad de conexión a internet",
+      "Compatible con múltiples idiomas",
+      "Interfaz ligera y minimalista"
+    ],
+    "etica": "Al procesar todo localmente, garantiza la privacidad total del usuario; ninguna nota de voz ni transcripción abandona el dispositivo.",
+    "limite_gratis": "El plan gratuito permite transcripciones de duración limitada por sesión y con un número restringido de notas mensuales.",
+    "web": "https://v2md.app/",
+    "id": "speech-to-markdown-a3fa63",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Heard",
+    "descripcion": "Herramienta que añade capacidades de voz a los asistentes de programación Claude Code y Codex, permitiendo la interacción por comandos de voz.",
+    "compania": "Heard AI",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Interacción por voz con Claude Code",
+      "Interacción por voz con Codex",
+      "Transcripción de comandos de voz a instrucciones de código",
+      "Retroalimentación por voz de resultados de código",
+      "Integración con editores de código populares"
+    ],
+    "caracteristicas": [
+      "Compatible con Claude Code y Codex",
+      "Reconocimiento de voz en tiempo real",
+      "Reduce la necesidad de escritura manual",
+      "Funciona como extensión del entorno de desarrollo",
+      "Soporte para múltiples idiomas de voz"
+    ],
+    "etica": "Las interacciones de voz se procesan localmente cuando es posible; los datos de voz que se envían a los servicios de IA están sujetos a las políticas de privacidad de dichos servicios.",
+    "limite_gratis": "El plan gratuito ofrece un número limitado de comandos de voz por día y funciones básicas de transcripción.",
+    "web": "https://www.heardai.ai/",
+    "id": "heard-d63344",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Second Brain for Mac and Windows",
+    "descripcion": "Herramienta de memoria potenciada por IA que funciona como un segundo cerebro, disponible en Mac y Windows, para almacenar y recuperar información en cualquier lugar de trabajo.",
+    "compania": "Second Brain AI",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Almacenamiento inteligente de notas y conocimientos",
+      "Recuperación de información mediante IA",
+      "Sincronización entre Mac y Windows",
+      "Vinculación automática de ideas y conceptos",
+      "Búsqueda semántica en el contenido almacenado"
+    ],
+    "caracteristicas": [
+      "Disponible para macOS y Windows",
+      "Memoria persistente basada en IA",
+      "Acceso desde cualquier lugar de trabajo",
+      "Interfaz unificada multiplataforma",
+      "Cifrado de datos locales"
+    ],
+    "etica": "Los datos del usuario se almacenan de forma cifrada y el usuario controla qué información se comparte con los modelos de IA; se recomienda revisar la configuración de privacidad.",
+    "limite_gratis": "El plan gratuito ofrece almacenamiento limitado de notas y un número restringido de consultas de IA por mes.",
+    "web": "https://www.thesecondbrain.io/",
+    "id": "second-brain-for-mac-and-windows-fe0f94",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Seller by Facebook",
+    "descripcion": "Herramienta oficial de Meta que simplifica el proceso de venta en Facebook Marketplace, facilitando la publicación y gestión de productos.",
+    "compania": "Meta Platforms, Inc.",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "funciones": [
+      "Publicación rápida de productos en Marketplace",
+      "Gestión de inventario y pedidos",
+      "Comunicación con compradores",
+      "Optimización de anuncios de venta",
+      "Seguimiento de estadísticas de ventas"
+    ],
+    "caracteristicas": [
+      "Integración directa con Facebook Marketplace",
+      "Interfaz sencilla y accesible",
+      "Gratuito para todos los usuarios de Facebook",
+      "Soporte para múltiples productos simultáneos",
+      "Vinculación con la cuenta de Facebook del usuario"
+    ],
+    "etica": "Meta recopila datos de uso de la herramienta para mejorar la experiencia y personalizar anuncios; los usuarios deben revisar las políticas de privacidad de Facebook para entender el uso de sus datos.",
+    "limite_gratis": "Es completamente gratuito para todos los usuarios con cuenta de Facebook, sin limitaciones en el número de productos publicados.",
+    "web": "https://about.fb.com/news/2026/03/facebook-marketplace-new-meta-ai-tools-make-selling-faster-and-easier/",
+    "id": "seller-by-facebook-d34152",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-25",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
