@@ -8980,7 +8980,7 @@
       "Flujo de trabajo de revisión"
     ],
     "etica": "Promueve la supervisión humana sobre la IA para mitigar errores de código y sesgos algorítmicos en el desarrollo.",
-    "web": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+    "web": "https://github.com/codescalper/diff.ai",
     "tipo": "Asistente de programación",
     "compania": "Diffsmith",
     "id": "diffsmith-9aff47",
@@ -8990,7 +8990,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece acceso limitado para probar la colaboración y la revisión de código generada.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "ReExplain",
@@ -9019,7 +9019,7 @@
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Rehello",
@@ -9048,7 +9048,7 @@
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AgentLoop",
@@ -9340,7 +9340,7 @@
     "fecha_agregado": "2026-07-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OpenComputer",
@@ -9586,6 +9586,250 @@
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-07-25",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Gstack Agents",
+    "compania": "Gstack",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Agentes de IA que se unen a reuniones de Google Meet para dar retroalimentación en tiempo real.",
+    "web": "https://gstack.com",
+    "funciones": [
+      "Asistencia en reuniones virtuales",
+      "Análisis de conversaciones en tiempo real",
+      "Generación de resúmenes de discusiones",
+      "Sugerencias de mejora en comunicación",
+      "Integración con herramientas de productividad"
+    ],
+    "caracteristicas": [
+      "Compatibilidad con Google Meet",
+      "Procesamiento de lenguaje natural avanzado",
+      "Interfaz de usuario intuitiva",
+      "Soporte multilingüe",
+      "Actualizaciones automáticas"
+    ],
+    "etica": "Respeto a la privacidad de los participantes en las reuniones y transparencia en el uso de datos.",
+    "limite_gratis": "Acceso limitado a funciones básicas de retroalimentación sin integración completa.",
+    "id": "gstack-agents-09d9f3",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ScrapemyChats",
+    "compania": "ScrapemyChats",
+    "tipo": "Exportación de datos",
+    "precio": "Pago",
+    "descripcion": "Herramienta para exportar chats de ChatGPT Business/Enterprise cuando OpenAI no lo permite.",
+    "web": "https://scrapemychats.com",
+    "funciones": [
+      "Exportación de historial de chats",
+      "Almacenamiento local de datos",
+      "Filtros por fecha o tema",
+      "Compatibilidad con múltiples formatos",
+      "Cifrado de datos durante el proceso"
+    ],
+    "caracteristicas": [
+      "Interfaz web intuitiva",
+      "Soporte técnico especializado",
+      "Actualizaciones frecuentes",
+      "Cumplimiento con normativas de privacidad",
+      "Integración con servicios de nube"
+    ],
+    "etica": "Garantiza la seguridad de los datos sensibles y evita el uso no autorizado de información.",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "scrapemychats-17d9f8",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "NVIDIA Cosmos-H-Dreams",
+    "compania": "NVIDIA",
+    "tipo": "Simulación generativa",
+    "precio": "Pago",
+    "descripcion": "Simulación generativa en tiempo real para robótica quirúrgica.",
+    "web": "https://www.nvidia.com",
+    "funciones": [
+      "Modelado 3D de procedimientos quirúrgicos",
+      "Simulación de escenarios médicos complejos",
+      "Análisis de riesgos preoperatorios",
+      "Entrenamiento virtual para cirujanos",
+      "Integración con sistemas de robótica"
+    ],
+    "caracteristicas": [
+      "Alta precisión en renderizado",
+      "Compatibilidad con hardware médico",
+      "Actualizaciones en tiempo real",
+      "Soporte técnico especializado",
+      "Escalabilidad para múltiples usuarios"
+    ],
+    "etica": "Minimiza riesgos en procedimientos quirúrgicos mediante entrenamiento seguro y ético.",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "nvidia-cosmos-h-dreams-87ce3e",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Adomate",
+    "compania": "Adomate",
+    "tipo": "Marketing digital",
+    "precio": "Freemium",
+    "descripcion": "Plataforma para convertir datos en campañas publicitarias a gran escala.",
+    "web": "https://adomate.com",
+    "funciones": [
+      "Análisis de datos de clientes",
+      "Creación de campañas personalizadas",
+      "Optimización de presupuesto publicitario",
+      "Monitoreo de rendimiento en tiempo real",
+      "Integración con redes sociales"
+    ],
+    "caracteristicas": [
+      "Interfaz visual intuitiva",
+      "Soporte para múltiples canales",
+      "Automatización de tareas repetitivas",
+      "Reportes detallados",
+      "Escalabilidad para empresas grandes"
+    ],
+    "etica": "Respeto a la privacidad de los usuarios y transparencia en el uso de datos.",
+    "limite_gratis": "Acceso limitado a funciones básicas de análisis y campañas pequeñas.",
+    "id": "adomate-0e1e32",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Audos Summer Camp",
+    "descripcion": "Build your business idea with unlimited Fable/Sol credits ♾️",
+    "compania": "Audos",
+    "tipo": "Desarrollo de negocios",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de ideas de negocio",
+      "Validación de modelos de negocio",
+      "Acceso a recursos educativos",
+      "Comunidad de emprendedores",
+      "Herramientas de planificación estratégica"
+    ],
+    "caracteristicas": [
+      "Creditos ilimitados para pruebas",
+      "Interfaz colaborativa",
+      "Soporte multilingüe",
+      "Actualizaciones frecuentes",
+      "Integración con herramientas de gestión"
+    ],
+    "etica": "Promueve el emprendimiento responsable y el uso ético de recursos.",
+    "limite_gratis": "Acceso limitado a funciones avanzadas sin créditos ilimitados.",
+    "web": "https://www.producthunt.com/products/socap",
+    "id": "audos-summer-camp-04cc4f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Webhound",
+    "descripcion": "A research engine for your agent",
+    "compania": "Webhound",
+    "tipo": "Investigación",
+    "precio": "Freemium",
+    "funciones": [
+      "Búsqueda de información en tiempo real",
+      "Análisis de tendencias",
+      "Resúmenes de artículos",
+      "Integración con agentes de IA",
+      "Filtros por relevancia"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Soporte técnico especializado",
+      "Actualizaciones frecuentes",
+      "Cumplimiento con normativas de privacidad",
+      "Integración con servicios de nube"
+    ],
+    "etica": "Garantiza la privacidad de los datos de los usuarios y evita el uso no autorizado.",
+    "limite_gratis": "Acceso limitado a funciones básicas de búsqueda.",
+    "web": "https://www.webhound.ai/",
+    "id": "webhound-0683f9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Illume Labs",
+    "descripcion": "24/7 personalized health companion you can text",
+    "compania": "Illume Labs",
+    "tipo": "Salud personalizada",
+    "precio": "Freemium",
+    "funciones": [
+      "Asistencia en salud mental",
+      "Monitoreo de síntomas",
+      "Recomendaciones de bienestar",
+      "Integración con dispositivos médicos",
+      "Soporte multilingüe"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Soporte técnico especializado",
+      "Actualizaciones frecuentes",
+      "Cumplimiento con normativas de privacidad",
+      "Escalabilidad para múltiples usuarios"
+    ],
+    "etica": "Respetar la privacidad de los datos de salud y garantizar la seguridad de la información.",
+    "limite_gratis": "Acceso limitado a funciones básicas de monitoreo.",
+    "web": "https://www.producthunt.com/products/illume-labs",
+    "id": "illume-labs-e72447",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Rivault",
+    "descripcion": "Safely provide and store data and context for AI agents",
+    "compania": "Rivault",
+    "tipo": "Gestión de datos",
+    "precio": "Freemium",
+    "funciones": [
+      "Almacenamiento seguro de datos",
+      "Gestión de contexto para agentes de IA",
+      "Control de acceso a información",
+      "Integración con sistemas de IA",
+      "Cifrado de datos"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Soporte técnico especializado",
+      "Actualizaciones frecuentes",
+      "Cumplimiento con normativas de privacidad",
+      "Escalabilidad para múltiples usuarios"
+    ],
+    "etica": "Garantizar la privacidad y seguridad de los datos sensibles.",
+    "limite_gratis": "Acceso limitado a funciones básicas de almacenamiento.",
+    "web": "https://www.rivault.ai/",
+    "id": "rivault-91f864",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-27",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

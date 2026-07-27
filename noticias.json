@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-07-25T09:32:54Z",
+  "actualizado": "2026-07-27T11:14:09Z",
   "novedades": [
+    {
+      "titulo": "Anthropic responde al pulso de OpenAI y China lanzando Opus 5",
+      "resumen": "La «carrera» de la inteligencia artificial va a una velocidad vertiginosa, y se ha visto como no para de acelerar estas semanas pasadas. Con los progresos realizados por OpenAI y la reincorporación de China a [&#8230;] A",
+      "enlace": "https://blogthinkbig.com/claude-opus-5-anthropic",
+      "medio": "Think Big",
+      "fecha": "2026-07-27T08:54:20Z"
+    },
+    {
+      "titulo": "Javier Martínez (Google Cloud): «Estamos pasando de un mundo de aplicaciones a uno de agentes inteligentes»",
+      "resumen": "Javier Martínez, Head of Customer Engineering de Google Cloud para España y Portugal, analiza en esta entrevista el impacto de los recientes anuncios en Cloud Next y Google IO, destacando cómo la inteligencia artificial ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/javier-martinez-google-cloud-estamos-pasando-de-un-mundo-de-aplicaciones-a-uno-de-agentes-inteligentes/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-27T08:47:37Z"
+    },
+    {
+      "titulo": "El 'prompt injection' ya tiene su propio contraataque: inyectar falsas instrucciones también a los hackers",
+      "resumen": "Durante los últimos dos años,&nbsp;el&nbsp;prompt injection&nbsp;ha sido el arma favorita de los&nbsp;ciberatacantes&nbsp;contra sistemas de inteligencia artificial.&nbsp;Este método pasa por esconder&nbsp;una instrucció",
+      "enlace": "https://www.xataka.com/robotica-e-ia/prompt-injection-tiene-su-propio-contraataque-inyectar-falsas-instrucciones-tambien-a-hackers",
+      "medio": "Xataka",
+      "fecha": "2026-07-26T11:30:27Z"
+    },
+    {
+      "titulo": "La \"revolución\" de la IA va por barrios: el mapa que muestra quién manda y quién se ha quedado fuera",
+      "resumen": "Cuando la IA llegó y vimos todo lo que podía hacer, la primera impresión de muchos fue que les iba a quitar el trabajo (y la verdad, algunas declaraciones tampoco ayudaron), aunque la realidad de momento es otra: trabaja",
+      "enlace": "https://www.xataka.com/servicios/revolucion-ia-va-barrios-mapa-que-muestra-quien-manda-quien-se-ha-quedado-fuera",
+      "medio": "Xataka",
+      "fecha": "2026-07-26T08:00:27Z"
+    },
     {
       "titulo": "España quiere tener su propia IA \"soberana\". El primer paso se llama Sherpa.ai, y el Estado ya es accionista",
       "resumen": "La compañía vasca Sherpa.ai, especializada en IA y en privacidad de datos, cerró a principios de julio una ronda de financiación de 18 millones de dólares. Esto tiene cierta relevancia, ya que la ronda participó el propi",
@@ -9,8 +37,8 @@
       "fecha": "2026-07-25T08:30:27Z"
     },
     {
-      "titulo": "\"Depender únicamente de modelos cerrados no es seguro\": 25 empresas tecnológicas salen en defensa de la IA abierta",
-      "resumen": "Ayer 24 de julio, 25 empresas y organizaciones tecnológicas estadounidenses (y Mistral, que es francesa) tan potentes como Nvidia, Microsoft o Meta publicaron una carta abierta con destino la Casa Blanca que posteriormen",
+      "titulo": "El histórico pacto de 25 gigantes tecnológicos para salvar la IA abierta:  \"Depender solo de modelos cerrados no es seguro\"",
+      "resumen": "actualización 26/05/2026 17:43: &nbsp;Google HA sumado a la iniciativa un día después Ayer 24 de julio, 25 empresas y organizaciones tecnológicas estadounidenses (y Mistral, que es francesa) tan potentes como Nvidia, Mic",
       "enlace": "https://www.xataka.com/servicios/depender-unicamente-modelos-cerrados-no-seguro-25-empresas-tecnologicas-salen-defensa-ia-open-source",
       "medio": "Xataka",
       "fecha": "2026-07-25T07:15:00Z"
@@ -79,13 +107,6 @@
       "fecha": "2026-07-23T15:31:15Z"
     },
     {
-      "titulo": "Los genios chinos de la IA podrían ser multimillonarios en EEUU. Lo malo para EEUU es que prefieren volver a China",
-      "resumen": "Lo normal es que alguien tarde seis años en completar un doctorado en la Universidad Carnegie Mellon (CMU). Un joven llamado Yang Zhilin lo consiguió en cuatro, y acto seguido pasó lo que tenía que pasar: las grandes tec",
-      "enlace": "https://www.xataka.com/robotica-e-ia/genios-chinos-ia-podrian-ser-multimillonarios-eeuu-malo-para-eeuu-que-prefieren-volver-a-china",
-      "medio": "Xataka",
-      "fecha": "2026-07-23T14:30:00Z"
-    },
-    {
       "titulo": "OpenAI y Hugging Face: Los agentes IA los carga el diablo",
       "resumen": "La hiperautomatización puede generar riesgos para los que todavía no estamos preparados L'articolo OpenAI y Hugging Face: Los agentes IA los carga el diablo proviene da Computing.",
       "enlace": "https://www.computing.es/seguridad/openai-y-hugging-face-los-agentes-ia-los-carga-el-diablo/",
@@ -107,20 +128,6 @@
       "fecha": "2026-07-23T07:29:02Z"
     },
     {
-      "titulo": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
-      "resumen": "Z.AI ha sido protagonista de grandes titulares estas últimas semanas, sobre todo tras el lanzamiento de su potentísimo modelo de lenguaje GLM 5.2. Conocida antes como Zhipu, ahora la empresa acaba de terminar de construi",
-      "enlace": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
-      "medio": "Xataka",
-      "fecha": "2026-07-22T17:15:15Z"
-    },
-    {
-      "titulo": "Un modelo de IA no tenía acceso a internet. Así que consideró que era mejor tenerlo y decidió hackear algo por el camino",
-      "resumen": "La semana pasada, OpenAI estaba evaluando las capacidades ofensivas de dos de sus modelos más avanzados. Por un lado, GPT-5.6 Sol, disponible públicamente. Por el otro, un segundo modelo aún no presentado y que de hecho ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/modelo-ia-no-tenia-acceso-a-internet-asi-que-considero-que-era-mejor-tenerlo-decidio-hackear-algo-camino",
-      "medio": "Xataka",
-      "fecha": "2026-07-22T11:15:15Z"
-    },
-    {
       "titulo": "¿Puede una IA fugarse de su entorno de pruebas? El día que GPT-5.6 hackeó Hugging Face",
       "resumen": "Imagina a un estudiante que, frente a un examen muy difícil, descubre cómo forzar la cerradura del aula, colarse en el despacho del profesor, robar la plantilla de respuestas y volver a su asiento. Todo [&#8230;] ¿Puede ",
       "enlace": "https://blogthinkbig.com/hackeo-hugging-face-gpt5",
@@ -140,13 +147,6 @@
       "enlace": "https://blogthinkbig.com/pensaban-que-la-ia-hundiria-a-adobe-pero-nadie-esperaba-que-ocurriera-lo-contrario",
       "medio": "Think Big",
       "fecha": "2026-07-21T16:01:00Z"
-    },
-    {
-      "titulo": "Claude ya puede iniciar sesión por ti sin ver tu contraseña",
-      "resumen": "Pedirle a un asistente de IA que revise tu correo, compare precios de vuelos o descargue una factura suena sencillo, hasta que llega el momento de iniciar sesión. Ahí es donde la mayoría de los [&#8230;] Claude ya puede ",
-      "enlace": "https://blogthinkbig.com/claude-ya-puede-iniciar-sesion-por-ti-sin-ver-tu-contrasena",
-      "medio": "Think Big",
-      "fecha": "2026-07-21T10:33:33Z"
     },
     {
       "titulo": "Coordinación de agentes de IA: Cómo elegir la arquitectura adecuada para la empresa",
