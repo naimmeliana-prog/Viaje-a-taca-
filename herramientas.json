@@ -9019,7 +9019,7 @@
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Rehello",
@@ -9027,7 +9027,7 @@
     "tipo": "Productividad / Relaciones Sociales",
     "precio": "Freemium",
     "descripcion": "Asistente de memoria social diseñado para ayudar a personas introvertidas a mantener conexiones humanas de forma natural.",
-    "web": "",
+    "web": "https://launly.com/products/rehello",
     "funciones": [
       "Recordatorios de contacto contextuales",
       "Gestión de detalles de personas conocidas",
@@ -9048,7 +9048,7 @@
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "AgentLoop",
@@ -9317,7 +9317,7 @@
     "tipo": "Agentes IA",
     "precio": "Gratuito",
     "descripcion": "Plataforma que permite sincronizar y gestionar todos tus agentes de codificación desde un único entorno, sin importar dónde trabajes.",
-    "web": "",
+    "web": "https://www.stork.ai/en/ade",
     "funciones": [
       "Sincronización de agentes de codificación en tiempo real",
       "Gestión centralizada de múltiples agentes",
@@ -9340,7 +9340,7 @@
     "fecha_agregado": "2026-07-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "OpenComputer",
@@ -9626,7 +9626,7 @@
     "tipo": "Exportación de datos",
     "precio": "Pago",
     "descripcion": "Herramienta para exportar chats de ChatGPT Business/Enterprise cuando OpenAI no lo permite.",
-    "web": "https://scrapemychats.com",
+    "web": "",
     "funciones": [
       "Exportación de historial de chats",
       "Almacenamiento local de datos",
@@ -9648,7 +9648,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-27",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "NVIDIA Cosmos-H-Dreams",
@@ -9732,14 +9733,14 @@
     ],
     "etica": "Promueve el emprendimiento responsable y el uso ético de recursos.",
     "limite_gratis": "Acceso limitado a funciones avanzadas sin créditos ilimitados.",
-    "web": "https://www.producthunt.com/products/socap",
+    "web": "https://audos.com/",
     "id": "audos-summer-camp-04cc4f",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-27",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Webhound",
@@ -9794,14 +9795,14 @@
     ],
     "etica": "Respetar la privacidad de los datos de salud y garantizar la seguridad de la información.",
     "limite_gratis": "Acceso limitado a funciones básicas de monitoreo.",
-    "web": "https://www.producthunt.com/products/illume-labs",
+    "web": "https://www.illumelabs.ai/",
     "id": "illume-labs-e72447",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-27",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Rivault",
@@ -9830,6 +9831,460 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-27",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ClinicFrame",
+    "compania": "ClinicFrame Health",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "ClinicFrame transcribe y resume automáticamente las consultas médicas, asegurando la confidencialidad y cumplimiento de la normativa HIPAA.",
+    "web": "https://clinicframe.com",
+    "funciones": [
+      "Transcripción en tiempo real de conversaciones clínicas",
+      "Generación de resúmenes estructurados",
+      "Detección de términos médicos críticos",
+      "Cumplimiento HIPAA",
+      "Exportación a formatos EMR"
+    ],
+    "caracteristicas": [
+      "Interfaz web y móvil",
+      "Modelo entrenado con datos clínicos",
+      "Seguridad de datos encriptada",
+      "Integración con sistemas EMR",
+      "Soporte multilingüe"
+    ],
+    "etica": "Protege la privacidad de los pacientes y cumple con regulaciones de salud. Reduce sesgos al procesar lenguaje médico con modelos validados.",
+    "limite_gratis": "El plan gratuito permite transcribir hasta 5 horas de encuentros al mes, con limitaciones en funciones avanzadas.",
+    "id": "clinicframe-49f95a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "LFM2.5-Encoder",
+    "compania": "LFM Labs",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "Modelos de código abierto que permiten inferencia de hasta 8K tokens en CPU sin perder velocidad.",
+    "web": "https://liquid.ai/lfm2.5-encoder",
+    "funciones": [
+      "Inferencia de texto largo",
+      "Ejecución en CPU",
+      "Alta eficiencia de recursos",
+      "Soporte para varios lenguajes",
+      "Personalizable"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Rendimiento en CPU",
+      "Escalabilidad",
+      "Documentación completa",
+      "Compatibilidad con frameworks"
+    ],
+    "etica": "Al ser código abierto, permite auditoría de sesgos. No hay restricciones de uso que comprometan la privacidad.",
+    "limite_gratis": "El acceso es gratuito, aunque la ejecución en CPU puede ser más lenta que en GPU.",
+    "id": "lfm2-5-encoder-b8df87",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "OlmoEarth Platform",
+    "compania": "OlmoEarth",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que analiza imágenes satelitales y datos geoespaciales en tiempo real usando IA para aplicaciones ambientales y urbanas.",
+    "web": "https://olmoearth.com",
+    "funciones": [
+      "Análisis de imágenes satelitales",
+      "Detección de cambios urbanos",
+      "Monitoreo ambiental",
+      "Alertas en tiempo real",
+      "Exportación de datos"
+    ],
+    "caracteristicas": [
+      "Procesamiento en tiempo real",
+      "Modelos de IA entrenados con datos geoespaciales",
+      "API RESTful",
+      "Integración con GIS",
+      "Escalabilidad en la nube"
+    ],
+    "etica": "Promueve la sostenibilidad al facilitar la toma de decisiones basadas en datos. Potencial sesgo en datos de satélite según regiones.",
+    "limite_gratis": "El plan gratuito incluye 1000 km² de análisis mensual con acceso a funciones básicas.",
+    "id": "olmoearth-platform-9a3374",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "OpenCode Verifier",
+    "compania": "OpenCode Security",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Analiza código fuente para bloquear llamadas inseguras a agentes de IA y prevenir ejecuciones no autorizadas.",
+    "web": "https://opencodeverifier.dev",
+    "funciones": [
+      "Detección de llamadas inseguras",
+      "Bloqueo de ejecuciones no autorizadas",
+      "Revisión de seguridad de código",
+      "Integración con IDEs",
+      "Reportes de vulnerabilidades"
+    ],
+    "caracteristicas": [
+      "Soporte multi‑lenguaje",
+      "Actualizaciones automáticas de reglas",
+      "Interfaz de línea de comandos",
+      "Compatibilidad con CI/CD",
+      "Protección de datos de proyecto"
+    ],
+    "etica": "Garantiza la seguridad del código y protege contra abusos de IA. Reduce riesgos de filtración de información confidencial.",
+    "limite_gratis": "El plan gratuito permite analizar hasta 5000 líneas de código por mes, con limitaciones en detecciones avanzadas.",
+    "id": "opencode-verifier-4eb83e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "SoundGate Guitar",
+    "compania": "SoundGate",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Dispositivo y aplicación que brinda retroalimentación en tiempo real sobre técnica, ritmo y afinación al tocar la guitarra.",
+    "web": "https://soundgateguitar.com",
+    "funciones": [
+      "Detección de afinación",
+      "Análisis de ritmo",
+      "Corrección de postura",
+      "Feedback visual y auditivo",
+      "Registro de sesiones"
+    ],
+    "caracteristicas": [
+      "Hardware portátil",
+      "App móvil con IA",
+      "Sensores de alta precisión",
+      "Soporte multiplataforma",
+      "Integración con metrónomo"
+    ],
+    "etica": "Recopila datos de uso que pueden comprometer la privacidad si no se protegen. No tiene sesgos intrínsecos, pero la precisión depende del entrenamiento.",
+    "limite_gratis": "El plan gratuito ofrece funciones básicas de afinación y ritmo, con limitaciones en análisis avanzado y duración de sesiones.",
+    "id": "soundgate-guitar-36e93d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Spur",
+    "compania": "Spur AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Identifica tráfico legítimo humano frente a bots sofisticados usando aprendizaje de comportamiento en tiempo real.",
+    "web": "https://spur.com",
+    "funciones": [
+      "Detección de bots vs humanos",
+      "Análisis de comportamiento en tiempo real",
+      "Filtrado de tráfico",
+      "Alertas de seguridad",
+      "Integración con plataformas"
+    ],
+    "caracteristicas": [
+      "Modelo de aprendizaje continuo",
+      "Bajo consumo de recursos",
+      "Compatibilidad con APIs",
+      "Dashboard de monitoreo",
+      "Protección de APIs"
+    ],
+    "etica": "Puede generar falsos positivos que afecten a usuarios legítimos. Responsabilidad en la vigilancia de bots debe equilibrarse con derechos de los usuarios.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "spur-f3ad21",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Guardoc Health",
+    "compania": "Guardoc Health",
+    "tipo": "Productividad",
+    "precio": "Pago",
+    "descripcion": "Procesa más de un millón de documentos clínicos diarios usando modelos Amazon Nova en Bedrock para extraer información estructurada.",
+    "web": "https://guardochealth.com",
+    "funciones": [
+      "Extracción de datos estructurados",
+      "Clasificación de documentos",
+      "Búsqueda semántica",
+      "Integración con EMR",
+      "Automatización de reportes"
+    ],
+    "caracteristicas": [
+      "Escalabilidad en la nube",
+      "Modelos de IA de alta precisión",
+      "Cumplimiento HIPAA",
+      "Soporte multilingüe",
+      "API REST"
+    ],
+    "etica": "Maneja datos de salud sensibles, garantizando privacidad y cumplimiento. Riesgo de sesgo si los modelos están entrenados con datos no representativos.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "guardoc-health-5fbd5d",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Kimi CLI",
+    "compania": "Kimi AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Permite crear agentes de IA no interactivos que ejecutan tareas de codificación, pruebas y gestión de sesiones mediante JSONL streaming.",
+    "web": "https://moonshotai.com/kimi-cli",
+    "funciones": [
+      "Ejecución de tareas de codificación",
+      "Gestión de pruebas automatizadas",
+      "Control de sesiones mediante JSONL",
+      "Integración con pipelines CI",
+      "Soporte de scripting"
+    ],
+    "caracteristicas": [
+      "Interfaz de línea de comandos",
+      "Escalabilidad horizontal",
+      "Registro de logs detallado",
+      "Compatibilidad con múltiples lenguajes",
+      "Configuración vía archivos JSON"
+    ],
+    "etica": "Los agentes pueden ejecutar código arbitrario, lo que implica riesgos de seguridad. Necesita controles de auditoría para evitar usos maliciosos.",
+    "limite_gratis": "El plan gratuito permite ejecutar hasta 1000 tareas mensuales con limitaciones de recursos.",
+    "id": "kimi-cli-e35903",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AI Tool Status Checker",
+    "compania": "AI Status",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Monitorea la disponibilidad, latencia y costo de diversos servicios de IA en tiempo real mediante un panel público.",
+    "web": "https://aistatuschecker.dev",
+    "funciones": [
+      "Monitoreo de uptime",
+      "Medición de latencia",
+      "Control de costos",
+      "Alertas de incidentes",
+      "Panel público de estado"
+    ],
+    "caracteristicas": [
+      "Actualizaciones en tiempo real",
+      "Soporte multi‑servicio",
+      "Interfaz web responsive",
+      "Historial de métricas",
+      "Integración con notificaciones"
+    ],
+    "etica": "No maneja datos de usuarios, por lo que la privacidad no es un problema. Potencial sesgo en la percepción de disponibilidad según región.",
+    "limite_gratis": "El plan gratuito ofrece acceso completo al panel con monitoreo ilimitado.",
+    "id": "ai-tool-status-checker-f2c8db",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Fireworks Nexus",
+    "compania": "Fireworks AI",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Desvía tareas de codificación rutinarias a modelos de peso abierto, reduciendo gastos y mejorando la eficiencia del desarrollo.",
+    "web": "https://fireworks.ai/nexus",
+    "funciones": [
+      "Redirección automática de tareas",
+      "Uso de modelos de código abierto",
+      "Optimización de costos",
+      "Integración con IDEs",
+      "Monitoreo de rendimiento"
+    ],
+    "caracteristicas": [
+      "Soporte multi‑lenguaje",
+      "Ajuste de recursos dinámico",
+      "Reducción de dependencia de APIs pagas",
+      "Escalabilidad en la nube",
+      "Interfaz de configuración sencilla"
+    ],
+    "etica": "Promueve el uso de modelos abiertos, reduciendo riesgos de vendor lock‑in. Puede introducir sesgos si los modelos abiertos están entrenados con datos sesgados.",
+    "limite_gratis": "El plan gratuito incluye 50 horas de cómputo con modelos open‑weight, con límites en soporte y características avanzadas.",
+    "id": "fireworks-nexus-d40aab",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Python AI Tutor",
+    "compania": "EduAI Labs",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Herramienta que enseña Python mediante ejercicios adaptativos, retroalimentación instantánea y explicaciones generadas por IA.",
+    "web": "https://eduai.com/python-tutor",
+    "funciones": [
+      "Genera ejercicios adaptativos según nivel del estudiante",
+      "Proporciona retroalimentación inmediata sobre código",
+      "Ofrece explicaciones paso a paso",
+      "Evalúa la calidad del código y sugiere mejoras",
+      "Hace seguimiento del progreso y recomienda próximos pasos"
+    ],
+    "caracteristicas": [
+      "Interfaz interactiva con editor integrado",
+      "Modelos de IA entrenados específicamente en Python",
+      "Soporte multiplataforma (web, desktop)",
+      "Analítica de rendimiento del estudiante",
+      "Integración con plataformas de aprendizaje"
+    ],
+    "etica": "Protege la privacidad del estudiante y evita sesgos en la evaluación del código.",
+    "limite_gratis": "El plan gratuito incluye acceso limitado a ejercicios y retroalimentación básica.",
+    "id": "python-ai-tutor-ce0fef",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Epilude",
+    "descripcion": "Aplicación de dictado de voz local para Mac que convierte el habla en texto pulido.",
+    "compania": "Epilude Inc.",
+    "tipo": "Productividad",
+    "precio": "Pago",
+    "funciones": [
+      "Dictado offline sin conexión a internet",
+      "Corrección gramatical y ortográfica automática",
+      "Entrenamiento de vocabulario personalizado",
+      "Integración con apps de productividad como Notes y Pages",
+      "Soporte de comandos de voz personalizados"
+    ],
+    "caracteristicas": [
+      "Procesa audio localmente, garantizando privacidad",
+      "Alta precisión en reconocimiento de voz",
+      "Interfaz minimalista y rápida",
+      "Compatibilidad con macOS",
+      "Personalización de atajos y comandos"
+    ],
+    "etica": "Al procesar el audio en el dispositivo, protege la privacidad del usuario y evita filtraciones de datos.",
+    "limite_gratis": "La versión gratuita permite dictado básico con límite de duración y funciones limitadas.",
+    "web": "https://www.epilude.com/",
+    "id": "epilude-b95413",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Bo AI",
+    "descripcion": "Asistente personal basado en IA que interactúa a través de mensajes de texto.",
+    "compania": "Bo AI Ltd.",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Responde preguntas y ofrece información",
+      "Programa recordatorios y gestiona tareas",
+      "Genera resúmenes de conversaciones",
+      "Proporciona sugerencias contextuales",
+      "Soporta múltiples idiomas"
+    ],
+    "caracteristicas": [
+      "Integración con apps de mensajería como WhatsApp y Slack",
+      "Modelo de lenguaje avanzado con respuestas contextuales",
+      "Respuestas rápidas y fluidas",
+      "Interfaz de chat sencilla",
+      "Soporte continuo 24/7"
+    ],
+    "etica": "Recopila datos de conversaciones, por lo que debe proteger la privacidad y mitigar sesgos en sus respuestas.",
+    "limite_gratis": "El plan gratuito permite un número limitado de interacciones diarias y acceso a funciones básicas.",
+    "web": "https://boforwork.com/",
+    "id": "bo-ai-230a29",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Prelint",
+    "descripcion": "Servicio que detecta y corrige desviaciones en código generado por IA para mantener consistencia y calidad.",
+    "compania": "Prelint Technologies",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Analiza código generado por IA en busca de drift",
+      "Identifica inconsistencias de estilo y lógica",
+      "Sugiere refactorizaciones automáticas",
+      "Monitorea cambios en entornos de producción",
+      "Emite alertas en pipelines CI/CD"
+    ],
+    "caracteristicas": [
+      "Soporte multi‑lenguaje",
+      "Integración con GitHub, GitLab y Bitbucket",
+      "Algoritmos de detección de drift basados en IA",
+      "Panel de métricas de calidad",
+      "Actualizaciones en tiempo real"
+    ],
+    "etica": "Puede exponer código sensible si no se configura adecuadamente, por lo que es necesario aplicar controles de privacidad.",
+    "limite_gratis": "No ofrece plan gratuito; requiere suscripción paga.",
+    "web": "https://prelint.com/",
+    "id": "prelint-21ae5e",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "MemoryCustodian",
+    "descripcion": "Solución de memoria nativa para repositorios que permite a agentes de IA acceder y gestionar contexto de código.",
+    "compania": "MemoryCustodian Inc.",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Almacena contexto de código y su historial",
+      "Recupera información relevante bajo demanda",
+      "Sincroniza memoria entre varios agentes",
+      "Filtra datos para optimizar llamadas a la API",
+      "Optimiza el uso de tokens en modelos de IA"
+    ],
+    "caracteristicas": [
+      "Compatibilidad con Git y otras plataformas de repositorios",
+      "Almacenamiento local y en la nube",
+      "Control de versiones de la memoria",
+      "Cifrado de datos para seguridad",
+      "API RESTful para integración"
+    ],
+    "etica": "Maneja datos de código que pueden incluir información confidencial, requiriendo políticas de privacidad estrictas.",
+    "limite_gratis": "El plan gratuito ofrece almacenamiento limitado y funcionalidades básicas de memoria.",
+    "web": "https://www.producthunt.com/products/memorycustodian",
+    "id": "memorycustodian-9c994b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-29",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

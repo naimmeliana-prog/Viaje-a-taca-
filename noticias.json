@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-07-27T11:14:09Z",
+  "actualizado": "2026-07-29T10:35:17Z",
   "novedades": [
+    {
+      "titulo": "La Junta de Castilla-La Mancha adjudica a Inetum y ECIJA el desarrollo de un marco corporativo de IA pública",
+      "resumen": "La iniciativa, financiada con fondos FEDER y gestionada por la Consejería de Hacienda, Administraciones Públicas y Transformación Digital, contempla la creación de una oficina de gobernanza y el despliegue de una platafo",
+      "enlace": "https://www.computing.es/noticias/la-junta-de-castilla-la-mancha-adjudica-a-inetum-y-ecija-el-desarrollo-de-un-marco-corporativo-de-ia-publica/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-29T10:21:11Z"
+    },
+    {
+      "titulo": "La paradoja de Apple: la empresa más valiosa del mundo no tiene interés en invertir en la fiebre de los centros de datos",
+      "resumen": "Las Big Tech están invirtiendo absolutas fortunas en centros de datos. Casi todas parecen querer estar preparadas para suplir la demanda colosal de capacidad de cómputo para tareas de IA. Y sin embargo, hay una curiosa y",
+      "enlace": "https://www.xataka.com/robotica-e-ia/paradoja-apple-empresa-valiosa-mundo-no-tiene-interes-invertir-fiebre-centros-datos",
+      "medio": "Xataka",
+      "fecha": "2026-07-29T07:31:38Z"
+    },
+    {
+      "titulo": "\"A menos que veamos ese amplio crecimiento económico, esta película no va a terminar bien\": Satya Nadella, sobre la burbuja de la IA",
+      "resumen": "¿Estamos en una burbuja de IA? La pregunta lleva meses sobrevolando toda la industria, y hay argumentos de peso para pensar que la respuesta es sí. Sin embargo, también hay quien defiende lo contrario y hay argumentos po",
+      "enlace": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia",
+      "medio": "Xataka",
+      "fecha": "2026-07-29T07:01:36Z"
+    },
+    {
+      "titulo": "Llevamos años preguntándonos cuántos empleos destruirá la IA. Satya Nadella tiene otra teoría: estamos haciendo mal la pregunta",
+      "resumen": "Además del coste y los efectos derivados de su desarrollo, la mayor inquietud que presenta el futuro de la IA es conocer el impacto que esta tecnología tendrá en el mercado laboral de todo el mundo. De hecho, ya comenzam",
+      "enlace": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
+      "medio": "Xataka",
+      "fecha": "2026-07-28T17:45:00Z"
+    },
+    {
+      "titulo": "Sabíamos que Steve Jobs fue un visionario, pero no tanto. Se adelantó 40 años prediciendo cómo sería la inteligencia artificial",
+      "resumen": "Nunca sabremos en qué posición estaría hoy Apple en la carrera de la inteligencia artificial generativa, pero sí que su cofundador avanzó su importancia hace cuatro décadas. Steve Jobs predijo cómo estos modelos marcaría",
+      "enlace": "https://www.applesfera.com/curiosidades/sabiamos-que-steve-jobs-fue-visionario-no-se-adelanto-40-anos-prediciendo-como-seria-inteligencia-artificial-1",
+      "medio": "Applesfera",
+      "fecha": "2026-07-28T16:01:36Z"
+    },
+    {
+      "titulo": "Las nuevas Gafas inteligentes de Samsung y Google van a acabar con las Ray-Ban Meta: Gemini para todo y cámaras que hacen más que fotos",
+      "resumen": "Los móviles plegables fueron los grandes protagonistas del segundo Unpacked de Samsung del año, pero la compañía también ha aprovechado este evento de lanzamiento para anunciar más detalles de uno de sus dispositivos más",
+      "enlace": "https://blogthinkbig.com/gafas-inteligentes-samsung-google-android-xr",
+      "medio": "Think Big",
+      "fecha": "2026-07-28T16:01:00Z"
+    },
+    {
+      "titulo": "Un reconocido analista augura el colapso de la inteligencia artificial y asegura que Apple \"lo verá arder\" desde la barrera",
+      "resumen": "Apple lleva un par de años cargando con la etiqueta de que llega tarde a la inteligencia artificial. Y en parte no le falta razón. No ha sido hasta ahora cuando por fin tenemos una Siri a la altura. Pero ni siquiera está",
+      "enlace": "https://www.applesfera.com/apple-1/reconocido-analista-augura-colapso-inteligencia-artificial-asegura-que-apple-vera-arder-barrera",
+      "medio": "Applesfera",
+      "fecha": "2026-07-28T14:01:36Z"
+    },
+    {
+      "titulo": "Studio by Spotify Labs: qué es, qué puedes hacer con este agente de IA y quién puede acceder a ella",
+      "resumen": "Vamos a explicarte qué es y qué puedes hacer con Studio de Spotify, una aplicación de inteligencia artificial a la que pedir que te genere varios tipos de contenido. Se trata de una herramienta que se está abriendo poco ",
+      "enlace": "https://www.xataka.com/basics/studio-by-spotify-labs-que-que-puedes-hacer-este-agente-ia-quien-puede-acceder-a-ella",
+      "medio": "Xataka",
+      "fecha": "2026-07-28T10:05:52Z"
+    },
+    {
+      "titulo": "Empresas como Meta, Microsoft y Nvidia retan a EEUU para no prohibir los modelos de IA abiertos",
+      "resumen": "Los modelos de IA de pesos abiertos son sistemas cuyos parámetros se publican de forma gratuita para que cualquier usuario u organización puedan hacer uso de ellos L'articolo Empresas como Meta, Microsoft y Nvidia retan ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/empresas-como-meta-microsoft-y-nvidia-retan-a-eeuu-para-no-prohibir-los-modelos-de-ia-abiertos/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-28T07:15:00Z"
+    },
+    {
+      "titulo": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida de un vecindario en una pesadilla",
+      "resumen": "Durante años, los centros de datos permanecieron fuera de nuestra vista, aunque buena parte de lo que hacemos en internet depende de ellos. En Dowagiac, una ciudad del suroeste de Michigan, esa infraestructura se ha vuel",
+      "enlace": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
+      "medio": "Xataka",
+      "fecha": "2026-07-27T21:57:00Z"
+    },
+    {
+      "titulo": "\"Cuatro chips de Huawei por uno de Nvidia\": el CEO de DeepSeek explica cómo ha transformado la escasez de chips en su coartada estratégica",
+      "resumen": "Una de las muchas batallas que China y Estados Unidos están librando es la tecnológica, concretamente una relacionada con la inteligencia artificial. El gasto de las empresas estadounidenses en la IA es astronómico, pero",
+      "enlace": "https://www.xataka.com/robotica-e-ia/cuatro-chips-huawei-uno-nvidia-ceo-deepseek-explica-como-ha-transformado-escasez-chips-su-coartada-estrategica",
+      "medio": "Xataka",
+      "fecha": "2026-07-27T14:31:36Z"
+    },
+    {
+      "titulo": "Nvidia está dispuesta a avalar 250.000 millones de dólares para que OpenAI tenga su propio centro de datos, según WSJ",
+      "resumen": "Nvidia estudia convertirse en el principal motor financiero de uno de los proyectos de infraestructura de IA más grandes hasta el momento. Y es que según ha adelantado The Wall Street Journal, la compañía de Jensen Huang",
+      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-esta-dispuesta-a-avalar-250-000-millones-dolares-openai-tenga-su-propio-centro-datos-wsj",
+      "medio": "Xataka",
+      "fecha": "2026-07-27T12:01:36Z"
+    },
     {
       "titulo": "Anthropic responde al pulso de OpenAI y China lanzando Opus 5",
       "resumen": "La «carrera» de la inteligencia artificial va a una velocidad vertiginosa, y se ha visto como no para de acelerar estas semanas pasadas. Con los progresos realizados por OpenAI y la reincorporación de China a [&#8230;] A",
@@ -30,41 +114,6 @@
       "fecha": "2026-07-26T08:00:27Z"
     },
     {
-      "titulo": "España quiere tener su propia IA \"soberana\". El primer paso se llama Sherpa.ai, y el Estado ya es accionista",
-      "resumen": "La compañía vasca Sherpa.ai, especializada en IA y en privacidad de datos, cerró a principios de julio una ronda de financiación de 18 millones de dólares. Esto tiene cierta relevancia, ya que la ronda participó el propi",
-      "enlace": "https://www.xataka.com/empresas-y-economia/espana-quiere-tener-su-propia-ia-soberana-primer-paso-se-llama-sherpa-ai-estado-accionista",
-      "medio": "Xataka",
-      "fecha": "2026-07-25T08:30:27Z"
-    },
-    {
-      "titulo": "El histórico pacto de 25 gigantes tecnológicos para salvar la IA abierta:  \"Depender solo de modelos cerrados no es seguro\"",
-      "resumen": "actualización 26/05/2026 17:43: &nbsp;Google HA sumado a la iniciativa un día después Ayer 24 de julio, 25 empresas y organizaciones tecnológicas estadounidenses (y Mistral, que es francesa) tan potentes como Nvidia, Mic",
-      "enlace": "https://www.xataka.com/servicios/depender-unicamente-modelos-cerrados-no-seguro-25-empresas-tecnologicas-salen-defensa-ia-open-source",
-      "medio": "Xataka",
-      "fecha": "2026-07-25T07:15:00Z"
-    },
-    {
-      "titulo": "Mientras el sector tecnológico se desangra por los despidos, ASML camina en la dirección opuesta: 20.000 euros por quedarse",
-      "resumen": "2026 está siendo una escabechina de despidos en las empresas tecnológicas. Se estima que en los primeros cuatro meses, al menos 92.000 empleados del sector tecnológico han perdido su trabajo con la excusa de que hay que ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/sector-tecnologico-se-desangra-despidos-asml-camina-direccion-opuesta-20-000-euros-quedarse",
-      "medio": "Xataka",
-      "fecha": "2026-07-24T16:00:40Z"
-    },
-    {
-      "titulo": "EEUU está acusando a China de plagiar los modelos de Anthropic. Tenemos tres problemas con esa acusación",
-      "resumen": "Michael Kratsios, asistente del presidente de EEUU, no se mordía la lengua esta semana cuando afirmaba que \"Tenemos información que indica que Moonshoot AI destiló Fable de Anthropic para el desarrollo de su modelo K3\". ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-esta-acusando-a-china-plagiar-modelos-anthropic-tenemos-tres-problemas-esa-acusacion",
-      "medio": "Xataka",
-      "fecha": "2026-07-24T13:16:38Z"
-    },
-    {
-      "titulo": "Mistral está muy lejos en la carrera de la IA. A Samsung eso le importa bien poco y planea invertir una fortuna en ella",
-      "resumen": "Mistral está de moda. No importa que sus modelos de IA no estén entre los mejores, porque a la startup francesa le basta con defender el discurso de la IA europea y soberana que tan relevante se ha vuelto en los últimos ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mistral-esta-muy-lejos-carrera-ia-a-samsung-eso-le-importa-bien-poco-planea-invertir-fortuna-ella",
-      "medio": "Xataka",
-      "fecha": "2026-07-24T12:30:38Z"
-    },
-    {
       "titulo": "La IA ya impulsa tres de cada diez tareas empresariales",
       "resumen": "Un estudio de SAP y Oxford Economics muestra además la realidad del salto hacia los agentes inteligentes L'articolo La IA ya impulsa tres de cada diez tareas empresariales proviene da Computing.",
       "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-ya-impulsa-tres-de-cada-diez-tareas-empresariales/",
@@ -79,34 +128,6 @@
       "fecha": "2026-07-24T07:09:08Z"
     },
     {
-      "titulo": "La generación Z no aguanta más de un año en sus empleos: no es por deslealtad ni salarios, es para ser mejores profesionales",
-      "resumen": "La generación Z está revolucionando las dinámicas laborales actuales a un ritmo que supera a cualquier otra generación. Su llegada al mercado laboral no ha sido fácil: sus primeros empleos llegaron marcados por la pandem",
-      "enlace": "https://www.xataka.com/empresas-y-economia/generacion-z-no-aguanta-ano-sus-empleos-no-deslealtad-salarios-para-ser-mejores-profesionales",
-      "medio": "Xataka",
-      "fecha": "2026-07-24T07:00:39Z"
-    },
-    {
-      "titulo": "Adiós, NotebookLM; hola, Gemini Notebook: qué cambia y qué no con la nueva actualización",
-      "resumen": "NotebookLM es posiblemente una de las aplicaciones de Google que más éxito ha tenido en el último año. Solo superada por Gemini. Que muchos tienen ya en sus teléfonos móviles para consultar cualquier cosa en [&#8230;] Ad",
-      "enlace": "https://blogthinkbig.com/notebooklm-ahora-es-gemini-notebook-cambios-novedades",
-      "medio": "Think Big",
-      "fecha": "2026-07-23T16:01:00Z"
-    },
-    {
-      "titulo": "Plan Noetra: qué es y por qué Japón quiere 10 millones de robots con IA para 2040",
-      "resumen": "Japón ha puesto una cifra sobre la mesa: 10 millones de robots con inteligencia artificial funcionando en el país para 2040. La noticia llegó a finales de junio, con nombre propio, cifras de inversión y [&#8230;] Plan No",
-      "enlace": "https://blogthinkbig.com/plan-noetra-que-es-y-por-que-japon-quiere-10-millones-de-robots-con-ia-para-2040",
-      "medio": "Think Big",
-      "fecha": "2026-07-23T16:00:00Z"
-    },
-    {
-      "titulo": "Google tiene chips de sobra para vender. Prefiere quedárselos para no quedarse atrás en la carrera de la AGI",
-      "resumen": "Alcanzar la&nbsp;AGI&nbsp;(Inteligencia Artificial General) es&nbsp;una de las grandes metas de las Big Tech&nbsp;en este momento. Aunque se hayan rebajado las expectativas en torno a este concepto de IA gobernante que h",
-      "enlace": "https://www.xataka.com/empresas-y-economia/google-tiene-chips-sobra-para-vender-prefiere-quedarselos-para-no-quedarse-atras-carrera-agi",
-      "medio": "Xataka",
-      "fecha": "2026-07-23T15:31:15Z"
-    },
-    {
       "titulo": "OpenAI y Hugging Face: Los agentes IA los carga el diablo",
       "resumen": "La hiperautomatización puede generar riesgos para los que todavía no estamos preparados L'articolo OpenAI y Hugging Face: Los agentes IA los carga el diablo proviene da Computing.",
       "enlace": "https://www.computing.es/seguridad/openai-y-hugging-face-los-agentes-ia-los-carga-el-diablo/",
@@ -114,39 +135,11 @@
       "fecha": "2026-07-23T10:35:01Z"
     },
     {
-      "titulo": "VS Code se acelera y JetBrains adopta Codex: el nuevo mapa del desarrollo de software",
-      "resumen": "Hace un par de años, la obsesión del sector tecnológico era medir qué modelo de inteligencia artificial generaba mejor código. Hoy, la guerra se ha movido de sitio. Ya no importa tanto el motor que [&#8230;] VS Code se a",
-      "enlace": "https://blogthinkbig.com/vs-code-jetbrains-codex-ia-desarrollo",
-      "medio": "Think Big",
-      "fecha": "2026-07-23T08:00:00Z"
-    },
-    {
       "titulo": "OpenAI se sale de control",
       "resumen": "OpenAI lanza un ataque dirigido a los sistemas informáticos de la empresa Hugging Face L'articolo OpenAI se sale de control proviene da Computing.",
       "enlace": "https://www.computing.es/inteligencia-artificial/openai-se-sale-de-control/",
       "medio": "Computing.es",
       "fecha": "2026-07-23T07:29:02Z"
-    },
-    {
-      "titulo": "¿Puede una IA fugarse de su entorno de pruebas? El día que GPT-5.6 hackeó Hugging Face",
-      "resumen": "Imagina a un estudiante que, frente a un examen muy difícil, descubre cómo forzar la cerradura del aula, colarse en el despacho del profesor, robar la plantilla de respuestas y volver a su asiento. Todo [&#8230;] ¿Puede ",
-      "enlace": "https://blogthinkbig.com/hackeo-hugging-face-gpt5",
-      "medio": "Think Big",
-      "fecha": "2026-07-22T08:47:27Z"
-    },
-    {
-      "titulo": "Adiós al monopolio de Gemini: Europa obliga a Google a abrir Android a otras IA",
-      "resumen": "Si usas un móvil Android y mantienes pulsado el botón de inicio, la respuesta llega siempre del mismo sitio. Lo mismo ocurre si lanzas un comando de voz al aire mientras friegas los platos o [&#8230;] Adiós al monopolio ",
-      "enlace": "https://blogthinkbig.com/interoperabilidad-android-ia-dma-google",
-      "medio": "Think Big",
-      "fecha": "2026-07-22T07:18:47Z"
-    },
-    {
-      "titulo": "Pensaban que la IA hundiría a Adobe. Pero nadie esperaba que ocurriera lo contrario",
-      "resumen": "Al igual que la gran mayoría de las tecnológicas, Adobe ha dado un importante vuelco hacia las herramientas impulsadas por la IA generativa. En los últimos años, la suite creativa de la empresa ha incorporado [&#8230;] P",
-      "enlace": "https://blogthinkbig.com/pensaban-que-la-ia-hundiria-a-adobe-pero-nadie-esperaba-que-ocurriera-lo-contrario",
-      "medio": "Think Big",
-      "fecha": "2026-07-21T16:01:00Z"
     },
     {
       "titulo": "Coordinación de agentes de IA: Cómo elegir la arquitectura adecuada para la empresa",
@@ -210,9 +203,30 @@
       "enlace": "https://www.applesfera.com/ios/ios-27-esta-bien-pruebas-estas-ocho-funciones-tu-iphone-todavia-mejor",
       "medio": "Applesfera",
       "fecha": "2026-07-08T14:00:03Z"
+    },
+    {
+      "titulo": "Los líderes financieros españoles exigen más transparencia a la IA",
+      "resumen": "Un estudio de Sage revela que casi siete de cada diez líderes financieros en España rechazarían resultados de IA que no puedan explicar L'articolo Los líderes financieros españoles exigen más transparencia a la IA provie",
+      "enlace": "https://www.computing.es/inteligencia-artificial/los-lideres-financieros-espanoles-exigen-mas-transparencia-a-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-08T08:20:18Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Conversaciones compartidas de Claude aparecen indexadas en Google.",
+      "resumen": "Cientos de conversaciones compartidas de Claude aparecieron indexadas en Google Cómo revisar y revocar tus propios enlaces compartidos. The post Conversaciones compartidas de Claude aparecen indexadas en Google. appeared",
+      "enlace": "https://derechodelared.com/2026/07/28/conversaciones-compartidas-de-claude-aparecen-indexadas-en-google/",
+      "medio": "Derecho de la Red",
+      "fecha": "2026-07-28T20:10:23Z"
+    },
+    {
+      "titulo": "Empresas como Meta, Microsoft y Nvidia retan a EEUU para no prohibir los modelos de IA abiertos",
+      "resumen": "Los modelos de IA de pesos abiertos son sistemas cuyos parámetros se publican de forma gratuita para que cualquier usuario u organización puedan hacer uso de ellos L'articolo Empresas como Meta, Microsoft y Nvidia retan ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/empresas-como-meta-microsoft-y-nvidia-retan-a-eeuu-para-no-prohibir-los-modelos-de-ia-abiertos/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-28T07:15:00Z"
+    },
     {
       "titulo": "El índice de seguridad de IA de 2026: nadie aprueba con nota, y hay un dato que incomoda",
       "resumen": "El Índice de Seguridad de IA del Future of Life Institute da un C+ como mejor nota de toda la industria, y no es a Mistral que suspende pese a operar bajo la regulación más estricta del mundo. The post El índice de segur",
@@ -338,20 +352,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/200-expertos-tienen-claro-hay-que-establacer-lineas-rojas-ia-no-se-nos-vaya-manos",
       "medio": "Xataka",
       "fecha": "2025-09-23T13:00:00Z"
-    },
-    {
-      "titulo": "Microsoft 365 tendrá versiones más baratas en todo el mundo. Es fruto de la presión antimonopolio de la Comisión Europea",
-      "resumen": "Pronto, muchos clientes de Microsoft Office en todo el mundo podrán acceder a suscripciones más baratas. No es una promoción ni un gesto comercial aislado, sino el resultado de años de presión de Bruselas. Microsoft ha a",
-      "enlace": "https://www.xataka.com/servicios/microsoft-365-tendra-versiones-baratas-todo-mundo-fruto-presion-antimonopolio-comision-europea",
-      "medio": "Xataka",
-      "fecha": "2025-09-12T19:30:45Z"
-    },
-    {
-      "titulo": "El presidente de EEUU ha elevado el pulso tras la millonaria multa de la UE a Google: amenaza con activar la Sección 301",
-      "resumen": "Bruselas volvió a apuntar alto: una multa de 2.950 millones de euros a Google por su negocio publicitario. La Comisión Europea no hizo más que reforzar su perfil de regulador firme en un sector que lleva años bajo su lup",
-      "enlace": "https://www.xataka.com/empresas-y-economia/presidente-eeuu-ha-elevado-pulso-millonaria-multa-ue-a-google-pone-mesa-activar-seccion-301",
-      "medio": "Xataka",
-      "fecha": "2025-09-08T16:30:00Z"
     }
   ]
 }
