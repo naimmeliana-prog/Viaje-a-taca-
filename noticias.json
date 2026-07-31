@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-07-29T10:35:17Z",
+  "actualizado": "2026-07-31T10:32:34Z",
   "novedades": [
+    {
+      "titulo": "Un modelo de OpenAI escapó del entorno de pruebas y hackeó una empresa. La respuesta de Anthropic: sujétame el cubata",
+      "resumen": "La semana pasada OpenAI publicó un artículo en el que contaba como, mientras ponía a prueba su modelo GPT 5.6 Sol, éste logró escapar del entorno de pruebas supuestamente aislado y hackeó los sistemas de la plataforma Hu",
+      "enlace": "https://www.xataka.com/robotica-e-ia/modelo-openai-escapo-entorno-pruebas-hackeo-empresa-respuesta-anthropic-sujetame-cubata",
+      "medio": "Xataka",
+      "fecha": "2026-07-31T09:00:00Z"
+    },
+    {
+      "titulo": "Sam Altman: \"no vemos que la promesa de la semana laboral de cuatro horas llegue a la sociedad. No espero que la IA lo cambie\"",
+      "resumen": "Cada avance tecnológico trae la misma promesa: menos horas de trabajo, más tiempo de ocio y una vida menos estresada para los empleados. Pasó con la máquina de vapor, con el ordenador y con la llegada de internet. Ahora ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/sam-altman-no-vemos-que-promesa-semana-laboral-cuatro-horas-llegue-a-sociedad-no-espero-que-ia-cambie",
+      "medio": "Xataka",
+      "fecha": "2026-07-30T17:31:43Z"
+    },
+    {
+      "titulo": "Conseguir un electricista o un carpintero en EEUU es casi imposible. Están todos construyendo centros de datos de IA",
+      "resumen": "Estados Unidos concentra un tercio de todos los centros de datos del mundo y la construcción de nueva infraestructura avanza a un ritmo vertiginoso. Además de inversiones millonarias y mucha electricidad, estos centros d",
+      "enlace": "https://www.xataka.com/robotica-e-ia/conseguir-electricista-carpintero-eeuu-casi-imposible-estan-todos-construyendo-centros-datos-ia",
+      "medio": "Xataka",
+      "fecha": "2026-07-30T16:01:43Z"
+    },
+    {
+      "titulo": "Mi teclado de 30 euros puede hacer lo mismo que el nuevo teclado IA de OpenAI de 230 dólares",
+      "resumen": "OpenAI anunció hace unos días su primer producto físico (con perdón de su ropa y merchandising). Se llama Codex Micro, cuesta unos 230 dólares y se vende como el mando a distancia perfecto para gestionar agentes de IA mi",
+      "enlace": "https://www.xataka.com/teclados/mi-teclado-30-euros-puede-hacer-tu-teclado-para-ia-openai-230-dolares",
+      "medio": "Xataka",
+      "fecha": "2026-07-30T15:01:43Z"
+    },
+    {
+      "titulo": "Mondelēz International industrializa su IA de la mano de Celonis",
+      "resumen": "El gigante mundial de los snacks apuesta por la inteligencia de procesos para transformarse en una empresa autónoma impulsada por la IA, logrando recuperar más de 6 millones de dólares en 90 días L'articolo Mondelēz Inte",
+      "enlace": "https://www.computing.es/inteligencia-artificial/mondelez-international-industrializa-su-ia-de-la-mano-de-celonis/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-30T10:31:25Z"
+    },
+    {
+      "titulo": "Todo sobre la demanda de Apple y OpenAI, que no tiene nada que ver con la IA",
+      "resumen": "El pasado 10 de julio de 2026, Apple se presentó en un tribunal federal de California para interponer acciones legales contra OpenAI, la empresa propiedad de Sam Altman. Y, a pesar de lo que muchos [&#8230;] Todo sobre l",
+      "enlace": "https://blogthinkbig.com/todo-sobre-la-demanda-de-apple-y-openai-que-no-tiene-nada-que-ver-con-la-ia",
+      "medio": "Think Big",
+      "fecha": "2026-07-30T10:01:00Z"
+    },
+    {
+      "titulo": "Claude rompe la criptografía: un fallo en las matemáticas",
+      "resumen": "Cada vez que abres tu banco online o envías un mensaje, confías en unas matemáticas tan complejas que a un ordenador convencional le llevaría milenios descifrarlas. Hasta ahora, buscar debilidades en esas fórmulas era un",
+      "enlace": "https://blogthinkbig.com/claude-rompe-criptografia-matematicas",
+      "medio": "Think Big",
+      "fecha": "2026-07-30T09:46:16Z"
+    },
+    {
+      "titulo": "Si eres cliente de Revolut, puedes conseguir hasta un año gratis de ChatGPT Go: estas son las condiciones",
+      "resumen": "Revolut es el neobanco más usado en España&nbsp;y uno de los que más crece en todo el mundo. La compañía acaba de anunciar que suma una nueva suscripción a su lista de beneficios, y no es una suscripción cualquiera, sino",
+      "enlace": "https://www.xataka.com/empresas-y-economia/eres-cliente-revolut-puedes-conseguir-ano-gratis-chatgpt-go-estas-condiciones",
+      "medio": "Xataka",
+      "fecha": "2026-07-30T09:31:51Z"
+    },
+    {
+      "titulo": "OpenAI habría encontrado la fórmula mágica de la IA: ¿y si esto no es una burbuja realmente?",
+      "resumen": "La carrera de las grandes compañías de inteligencia artificial por desarrollar modelos cada vez más potentes parece no tener fin. Ya hemos visto cómo empresas de la talla de OpenAI, Google o Anthropic lanzan al [&#8230;]",
+      "enlace": "https://blogthinkbig.com/costes-de-inferencia-por-que-openai-ha-logrado-la-formula-magica",
+      "medio": "Think Big",
+      "fecha": "2026-07-30T08:01:00Z"
+    },
+    {
+      "titulo": "DXC incorpora capacidades de IA de voz tras su acuerdo con ElevenLabs",
+      "resumen": "DXC también participa en la reciente ronda de financiación Serie D de 500 millones de dólares de ElevenLabs L'articolo DXC incorpora capacidades de IA de voz tras su acuerdo con ElevenLabs proviene da Computing.",
+      "enlace": "https://www.computing.es/movilidad/dxc-incorpora-capacidades-de-ia-de-voz-tras-su-acuerdo-con-elevenlabs/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-30T07:39:15Z"
+    },
+    {
+      "titulo": "Anthropic, Uber, el Mit…De optimizar tokens a demostrar productividad",
+      "resumen": "Muchas compañías han empezado a evaluar el progreso de la IA mediante la cantidad de usuarios, número de agentes desplegados o volumen de tokens consumidos L'articolo Anthropic, Uber, el Mit…De optimizar tokens a demostr",
+      "enlace": "https://www.computing.es/inteligencia-artificial/anthropic-uber-el-mitde-optimizar-tokens-a-demostrar-productividad/",
+      "medio": "Computing.es",
+      "fecha": "2026-07-30T06:30:00Z"
+    },
     {
       "titulo": "La Junta de Castilla-La Mancha adjudica a Inetum y ECIJA el desarrollo de un marco corporativo de IA pública",
       "resumen": "La iniciativa, financiada con fondos FEDER y gestionada por la Consejería de Hacienda, Administraciones Públicas y Transformación Digital, contempla la creación de una oficina de gobernanza y el despliegue de una platafo",
@@ -30,18 +107,18 @@
       "fecha": "2026-07-28T17:45:00Z"
     },
     {
-      "titulo": "Sabíamos que Steve Jobs fue un visionario, pero no tanto. Se adelantó 40 años prediciendo cómo sería la inteligencia artificial",
-      "resumen": "Nunca sabremos en qué posición estaría hoy Apple en la carrera de la inteligencia artificial generativa, pero sí que su cofundador avanzó su importancia hace cuatro décadas. Steve Jobs predijo cómo estos modelos marcaría",
-      "enlace": "https://www.applesfera.com/curiosidades/sabiamos-que-steve-jobs-fue-visionario-no-se-adelanto-40-anos-prediciendo-como-seria-inteligencia-artificial-1",
-      "medio": "Applesfera",
-      "fecha": "2026-07-28T16:01:36Z"
-    },
-    {
       "titulo": "Las nuevas Gafas inteligentes de Samsung y Google van a acabar con las Ray-Ban Meta: Gemini para todo y cámaras que hacen más que fotos",
       "resumen": "Los móviles plegables fueron los grandes protagonistas del segundo Unpacked de Samsung del año, pero la compañía también ha aprovechado este evento de lanzamiento para anunciar más detalles de uno de sus dispositivos más",
       "enlace": "https://blogthinkbig.com/gafas-inteligentes-samsung-google-android-xr",
       "medio": "Think Big",
       "fecha": "2026-07-28T16:01:00Z"
+    },
+    {
+      "titulo": "Sabíamos que Steve Jobs fue un visionario, pero no tanto. Se adelantó 40 años prediciendo cómo sería la inteligencia artificial",
+      "resumen": "Nunca sabremos en qué posición estaría hoy Apple en la carrera de la inteligencia artificial generativa, pero sí que su cofundador avanzó su importancia hace cuatro décadas. Steve Jobs predijo cómo estos modelos marcaría",
+      "enlace": "https://www.applesfera.com/curiosidades/sabiamos-que-steve-jobs-fue-visionario-no-se-adelanto-40-anos-prediciendo-como-seria-inteligencia-artificial-1",
+      "medio": "Applesfera",
+      "fecha": "2026-07-28T16:00:00Z"
     },
     {
       "titulo": "Un reconocido analista augura el colapso de la inteligencia artificial y asegura que Apple \"lo verá arder\" desde la barrera",
@@ -72,27 +149,6 @@
       "fecha": "2026-07-27T21:57:00Z"
     },
     {
-      "titulo": "\"Cuatro chips de Huawei por uno de Nvidia\": el CEO de DeepSeek explica cómo ha transformado la escasez de chips en su coartada estratégica",
-      "resumen": "Una de las muchas batallas que China y Estados Unidos están librando es la tecnológica, concretamente una relacionada con la inteligencia artificial. El gasto de las empresas estadounidenses en la IA es astronómico, pero",
-      "enlace": "https://www.xataka.com/robotica-e-ia/cuatro-chips-huawei-uno-nvidia-ceo-deepseek-explica-como-ha-transformado-escasez-chips-su-coartada-estrategica",
-      "medio": "Xataka",
-      "fecha": "2026-07-27T14:31:36Z"
-    },
-    {
-      "titulo": "Nvidia está dispuesta a avalar 250.000 millones de dólares para que OpenAI tenga su propio centro de datos, según WSJ",
-      "resumen": "Nvidia estudia convertirse en el principal motor financiero de uno de los proyectos de infraestructura de IA más grandes hasta el momento. Y es que según ha adelantado The Wall Street Journal, la compañía de Jensen Huang",
-      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-esta-dispuesta-a-avalar-250-000-millones-dolares-openai-tenga-su-propio-centro-datos-wsj",
-      "medio": "Xataka",
-      "fecha": "2026-07-27T12:01:36Z"
-    },
-    {
-      "titulo": "Anthropic responde al pulso de OpenAI y China lanzando Opus 5",
-      "resumen": "La «carrera» de la inteligencia artificial va a una velocidad vertiginosa, y se ha visto como no para de acelerar estas semanas pasadas. Con los progresos realizados por OpenAI y la reincorporación de China a [&#8230;] A",
-      "enlace": "https://blogthinkbig.com/claude-opus-5-anthropic",
-      "medio": "Think Big",
-      "fecha": "2026-07-27T08:54:20Z"
-    },
-    {
       "titulo": "Javier Martínez (Google Cloud): «Estamos pasando de un mundo de aplicaciones a uno de agentes inteligentes»",
       "resumen": "Javier Martínez, Head of Customer Engineering de Google Cloud para España y Portugal, analiza en esta entrevista el impacto de los recientes anuncios en Cloud Next y Google IO, destacando cómo la inteligencia artificial ",
       "enlace": "https://www.computing.es/inteligencia-artificial/javier-martinez-google-cloud-estamos-pasando-de-un-mundo-de-aplicaciones-a-uno-de-agentes-inteligentes/",
@@ -100,32 +156,11 @@
       "fecha": "2026-07-27T08:47:37Z"
     },
     {
-      "titulo": "El 'prompt injection' ya tiene su propio contraataque: inyectar falsas instrucciones también a los hackers",
-      "resumen": "Durante los últimos dos años,&nbsp;el&nbsp;prompt injection&nbsp;ha sido el arma favorita de los&nbsp;ciberatacantes&nbsp;contra sistemas de inteligencia artificial.&nbsp;Este método pasa por esconder&nbsp;una instrucció",
-      "enlace": "https://www.xataka.com/robotica-e-ia/prompt-injection-tiene-su-propio-contraataque-inyectar-falsas-instrucciones-tambien-a-hackers",
-      "medio": "Xataka",
-      "fecha": "2026-07-26T11:30:27Z"
-    },
-    {
-      "titulo": "La \"revolución\" de la IA va por barrios: el mapa que muestra quién manda y quién se ha quedado fuera",
-      "resumen": "Cuando la IA llegó y vimos todo lo que podía hacer, la primera impresión de muchos fue que les iba a quitar el trabajo (y la verdad, algunas declaraciones tampoco ayudaron), aunque la realidad de momento es otra: trabaja",
-      "enlace": "https://www.xataka.com/servicios/revolucion-ia-va-barrios-mapa-que-muestra-quien-manda-quien-se-ha-quedado-fuera",
-      "medio": "Xataka",
-      "fecha": "2026-07-26T08:00:27Z"
-    },
-    {
       "titulo": "La IA ya impulsa tres de cada diez tareas empresariales",
       "resumen": "Un estudio de SAP y Oxford Economics muestra además la realidad del salto hacia los agentes inteligentes L'articolo La IA ya impulsa tres de cada diez tareas empresariales proviene da Computing.",
       "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-ya-impulsa-tres-de-cada-diez-tareas-empresariales/",
       "medio": "Computing.es",
       "fecha": "2026-07-24T07:15:00Z"
-    },
-    {
-      "titulo": "Amazon apaga Mechanical Turk: el fin de la era en la que los humanos fingían ser algoritmos",
-      "resumen": "Durante casi dos décadas, la inteligencia artificial no fue tan «artificial» como nos hacían creer. Detrás de cada algoritmo primitivo que aprendía a reconocer un semáforo en una imagen o a transcribir un audio, había [&",
-      "enlace": "https://blogthinkbig.com/amazon-apaga-mechanical-turk-ia",
-      "medio": "Think Big",
-      "fecha": "2026-07-24T07:09:08Z"
     },
     {
       "titulo": "OpenAI y Hugging Face: Los agentes IA los carga el diablo",
@@ -175,44 +210,16 @@
       "enlace": "https://www.applesfera.com/rumores/openai-describe-internamente-como-primero-su-tipo-gurman-filtra-como-sera-primer-producto-creadores-chatgpt-altavoz",
       "medio": "Applesfera",
       "fecha": "2026-07-15T06:31:00Z"
-    },
-    {
-      "titulo": "La adopción de la IA se acelera: La preparación de los profesionales se convierte en el factor decisivo para el ROI",
-      "resumen": "Solo el 23 % de las plantillas de las organizaciones encuestadas están preparadas para la IA, lo que supone un descenso de 6 puntos con respecto a los resultados de este informe en 2025 L'articolo La adopción de la IA se",
-      "enlace": "https://www.computing.es/informes/la-adopcion-de-la-ia-se-acelera-la-preparacion-de-los-profesionales-se-convierte-en-el-factor-decisivo-para-el-roi/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-14T08:31:56Z"
-    },
-    {
-      "titulo": "\"Si no fuera por el coche, Apple estaría aún más rezagada en IA\". Mark Gurman revela la importancia del Apple Car en los actuales chips de iPhone y Mac",
-      "resumen": "Diez años y 10.000 millones de dólares es lo que Apple invirtió en su fallido coche eléctrico. Uno que comenzó su desarrollo en 2014 con idea de llevar a la compañía al éxito en un terreno inédito para ellos como ya suce",
-      "enlace": "https://www.applesfera.com/curiosidades/no-fuera-coche-apple-estaria-rezagada-ia-mark-gurman-revela-importancia-apple-car-actuales-chips-iphone-mac",
-      "medio": "Applesfera",
-      "fecha": "2026-07-13T15:00:07Z"
-    },
-    {
-      "titulo": "Instagram va a usar tus fotos públicas para generar imágenes con IA y puedes evitarlo con estos ajustes en un minuto",
-      "resumen": "Meta lleva un tiempo empeñada en meter IA en todos los rincones de sus apps, la pidas o no. WhatsApp, Facebook, Instagram, da igual dónde mires, ahí está Meta AI esperando a que le hagas caso. Pero su última jugada va un",
-      "enlace": "https://www.applesfera.com/seguridad/instagram-va-a-usar-tus-fotos-publicas-para-generar-imagenes-ia-yo-he-ido-corriendo-a-desactivarlo",
-      "medio": "Applesfera",
-      "fecha": "2026-07-10T12:00:00Z"
-    },
-    {
-      "titulo": "iOS 27 está bien, pero si pruebas estas ocho funciones en tu iPhone es todavía mejor",
-      "resumen": "Si eres de los que no esperó a la beta pública de iOS 27 y estás ya con la beta 3 para desarrolladores, quizás se te hayan pasado por alto algunas de las novedades que trae este nuevo iOS 27. Aquí repaso las ocho que más",
-      "enlace": "https://www.applesfera.com/ios/ios-27-esta-bien-pruebas-estas-ocho-funciones-tu-iphone-todavia-mejor",
-      "medio": "Applesfera",
-      "fecha": "2026-07-08T14:00:03Z"
-    },
-    {
-      "titulo": "Los líderes financieros españoles exigen más transparencia a la IA",
-      "resumen": "Un estudio de Sage revela que casi siete de cada diez líderes financieros en España rechazarían resultados de IA que no puedan explicar L'articolo Los líderes financieros españoles exigen más transparencia a la IA provie",
-      "enlace": "https://www.computing.es/inteligencia-artificial/los-lideres-financieros-espanoles-exigen-mas-transparencia-a-la-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-08T08:20:18Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Todo sobre la demanda de Apple y OpenAI, que no tiene nada que ver con la IA",
+      "resumen": "El pasado 10 de julio de 2026, Apple se presentó en un tribunal federal de California para interponer acciones legales contra OpenAI, la empresa propiedad de Sam Altman. Y, a pesar de lo que muchos [&#8230;] Todo sobre l",
+      "enlace": "https://blogthinkbig.com/todo-sobre-la-demanda-de-apple-y-openai-que-no-tiene-nada-que-ver-con-la-ia",
+      "medio": "Think Big",
+      "fecha": "2026-07-30T10:01:00Z"
+    },
     {
       "titulo": "Conversaciones compartidas de Claude aparecen indexadas en Google.",
       "resumen": "Cientos de conversaciones compartidas de Claude aparecieron indexadas en Google Cómo revisar y revocar tus propios enlaces compartidos. The post Conversaciones compartidas de Claude aparecen indexadas en Google. appeared",
@@ -345,13 +352,6 @@
       "enlace": "https://www.genbeta.com/laboral/trabajas-tech-tendras-que-hacer-sacrificios-ex-ceo-google-habla-trabajar-72-semanales-para-competir-china",
       "medio": "Genbeta",
       "fecha": "2025-10-02T11:19:00Z"
-    },
-    {
-      "titulo": "La IA se nos está escapando de las manos. 200 expertos tienen una solución muy simple: establecer \"líneas rojas\"",
-      "resumen": "El lunes más de 200 personalidades y más de 70 organizaciones se unieron en una nueva iniciativa llamada Global Call for AI Red Lines (Llamamiento Mundial para establecer Líneas Rojas en la IA). El objetivo: tratar de es",
-      "enlace": "https://www.xataka.com/robotica-e-ia/200-expertos-tienen-claro-hay-que-establacer-lineas-rojas-ia-no-se-nos-vaya-manos",
-      "medio": "Xataka",
-      "fecha": "2025-09-23T13:00:00Z"
     }
   ]
 }

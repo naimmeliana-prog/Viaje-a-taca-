@@ -8998,7 +8998,7 @@
     "tipo": "Educación / Aprendizaje",
     "precio": "Freemium",
     "descripcion": "Herramienta de aprendizaje interactivo que utiliza la técnica de enseñanza inversa para identificar lagunas en el conocimiento del usuario.",
-    "web": "",
+    "web": "https://linkgo.dev/tools/reexplain-ai-tools-2026-07-24",
     "funciones": [
       "Explicación de conceptos a la IA",
       "Identificación de brechas de conocimiento",
@@ -9019,7 +9019,7 @@
     "fecha_agregado": "2026-07-23",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Rehello",
@@ -9626,7 +9626,7 @@
     "tipo": "Exportación de datos",
     "precio": "Pago",
     "descripcion": "Herramienta para exportar chats de ChatGPT Business/Enterprise cuando OpenAI no lo permite.",
-    "web": "",
+    "web": "https://github.com/Conradqh/scrapemychats",
     "funciones": [
       "Exportación de historial de chats",
       "Almacenamiento local de datos",
@@ -9649,7 +9649,7 @@
     "fecha_agregado": "2026-07-27",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "NVIDIA Cosmos-H-Dreams",
@@ -9871,7 +9871,7 @@
     "tipo": "Productividad",
     "precio": "Gratuito",
     "descripcion": "Modelos de código abierto que permiten inferencia de hasta 8K tokens en CPU sin perder velocidad.",
-    "web": "https://liquid.ai/lfm2.5-encoder",
+    "web": "https://huggingface.co/LiquidAI/LFM2.5-Encoder-230M",
     "funciones": [
       "Inferencia de texto largo",
       "Ejecución en CPU",
@@ -9893,7 +9893,8 @@
     "pago": false,
     "fecha_agregado": "2026-07-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "OlmoEarth Platform",
@@ -9901,7 +9902,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Plataforma que analiza imágenes satelitales y datos geoespaciales en tiempo real usando IA para aplicaciones ambientales y urbanas.",
-    "web": "https://olmoearth.com",
+    "web": "https://allenai.org/olmoearth",
     "funciones": [
       "Análisis de imágenes satelitales",
       "Detección de cambios urbanos",
@@ -9923,7 +9924,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "OpenCode Verifier",
@@ -9931,7 +9933,7 @@
     "tipo": "Asistente de programación",
     "precio": "Freemium",
     "descripcion": "Analiza código fuente para bloquear llamadas inseguras a agentes de IA y prevenir ejecuciones no autorizadas.",
-    "web": "https://opencodeverifier.dev",
+    "web": "https://github.com/elevate-foundry/tool-algebra-plugin",
     "funciones": [
       "Detección de llamadas inseguras",
       "Bloqueo de ejecuciones no autorizadas",
@@ -9953,7 +9955,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "SoundGate Guitar",
@@ -9961,7 +9964,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Dispositivo y aplicación que brinda retroalimentación en tiempo real sobre técnica, ritmo y afinación al tocar la guitarra.",
-    "web": "https://soundgateguitar.com",
+    "web": "https://soundgate.ai/",
     "funciones": [
       "Detección de afinación",
       "Análisis de ritmo",
@@ -9983,7 +9986,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Spur",
@@ -10051,7 +10055,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Permite crear agentes de IA no interactivos que ejecutan tareas de codificación, pruebas y gestión de sesiones mediante JSONL streaming.",
-    "web": "https://moonshotai.com/kimi-cli",
+    "web": "https://www.kimi.com/",
     "funciones": [
       "Ejecución de tareas de codificación",
       "Gestión de pruebas automatizadas",
@@ -10073,7 +10077,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "AI Tool Status Checker",
@@ -10081,7 +10086,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Monitorea la disponibilidad, latencia y costo de diversos servicios de IA en tiempo real mediante un panel público.",
-    "web": "https://aistatuschecker.dev",
+    "web": "https://aistatus.org/",
     "funciones": [
       "Monitoreo de uptime",
       "Medición de latencia",
@@ -10103,7 +10108,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-29",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Fireworks Nexus",
@@ -10280,11 +10286,211 @@
     ],
     "etica": "Maneja datos de código que pueden incluir información confidencial, requiriendo políticas de privacidad estrictas.",
     "limite_gratis": "El plan gratuito ofrece almacenamiento limitado y funcionalidades básicas de memoria.",
-    "web": "https://www.producthunt.com/products/memorycustodian",
+    "web": "https://completeaitraining.com/ai-tools/memorycustodian/",
     "id": "memorycustodian-9c994b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-29",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Halo",
+    "compania": "Halo AI",
+    "tipo": "Verificación de autenticidad en videollamadas",
+    "descripcion": "Herramienta que verifica la autenticidad de personas en videollamadas analizando deepfakes y microexpresiones.",
+    "web": "https://halo.scam.ai",
+    "funciones": [
+      "Detección de deepfakes en tiempo real",
+      "Análisis de microexpresiones",
+      "Validación de identidad durante videollamadas",
+      "Integración con plataformas de videoconferencia"
+    ],
+    "caracteristicas": [
+      "Soporta múltiples proveedores de videollamadas",
+      "Reportes de confianza por participante",
+      "API para integración personalizada",
+      "Modo offline para privacidad"
+    ],
+    "etica": "Garantiza la privacidad de los datos biométricos y evita el uso indebido de identidades falsas. Se esfuerza por minimizar sesgos en la detección de deepfakes.",
+    "precio": "Freemium",
+    "limite_gratis": "El plan gratuito permite hasta 10 verificaciones al mes con límites de duración de 5 minutos por llamada.",
+    "id": "halo-aa6df5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-31",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ShieldFont",
+    "compania": "ShieldFont Ltd.",
+    "tipo": "Protección de texto contra IA",
+    "descripcion": "Fuente tipográfica diseñada para proteger textos contra extracción por parte de modelos de IA, dificultando el scraping.",
+    "web": "https://shieldfont.io",
+    "funciones": [
+      "Oculta patrones de caracteres legibles por humanos",
+      "Resistente a OCR avanzado",
+      "Genera variaciones tipográficas seguras",
+      "Compatible con documentos PDF y HTML"
+    ],
+    "caracteristicas": [
+      "Sin costo para uso personal",
+      "Licencia comercial disponible",
+      "Soporta múltiples idiomas",
+      "Herramienta de generación de fuentes personalizadas"
+    ],
+    "etica": "Protege la confidencialidad de documentos sensibles frente a modelos de entrenamiento no autorizados. Reduce el riesgo de filtración de información mediante scraping.",
+    "precio": "Freemium",
+    "limite_gratis": "La versión gratuita permite generar fuentes con límite de 100 caracteres por archivo.",
+    "id": "shieldfont-a86c7b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-31",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Cleanlist AI",
+    "compania": "Cleanlist Inc.",
+    "tipo": "Prospectación comercial",
+    "descripcion": "Plataforma que usa lenguaje natural para encontrar, enriquecer y sincronizar leads comerciales.",
+    "web": "https://cleanlist.ai",
+    "funciones": [
+      "Búsqueda de leads mediante descripción en lenguaje natural",
+      "Enriquecimiento de datos con información de empresa",
+      "Sincronización automática con CRM",
+      "Segmentación inteligente de listas"
+    ],
+    "caracteristicas": [
+      "Interfaz conversacional",
+      "Actualizaciones en tiempo real",
+      "Integraciones con Salesforce y HubSpot",
+      "Alertas de cambios en empresas"
+    ],
+    "etica": "Respetan la normativa GDPR al solicitar consentimiento explícito para el uso de datos. Evitan sesgos en la selección de leads mediante algoritmos auditados.",
+    "precio": "Freemium",
+    "limite_gratis": "El plan gratuito incluye 50 leads por mes y acceso limitado a enriquecimiento de datos.",
+    "id": "cleanlist-ai-654e7c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-31",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Screencap",
+    "descripcion": "Convierte los flujos de trabajo reales de un equipo en datos de entrenamiento para IA.",
+    "compania": "Screencap Labs",
+    "tipo": "Captura de flujos de trabajo",
+    "precio": "Pago",
+    "funciones": [
+      "Graba actividades de pantalla y aplicaciones",
+      "Etiqueta acciones con metadatos",
+      "Exporta datasets estructurados",
+      "Integra con pipelines de entrenamiento"
+    ],
+    "caracteristicas": [
+      "Soporta múltiples plataformas (Windows, macOS)",
+      "Modo anónimo para privacidad",
+      "Control de granularidad de captura",
+      "Exportación a CSV y JSON"
+    ],
+    "etica": "Permite el uso de datos internos sin exponer información sensible a terceros. Facilita la creación de modelos entrenados con contextos reales.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://apify.com/knotless_cadence/mcp-screenshot",
+    "id": "screencap-299e91",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-07-31",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "MiniMax H3",
+    "descripcion": "Herramienta unificada de generación de vídeo para motion design y branding.",
+    "compania": "MiniMax Studios",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de videos a partir de texto",
+      "Plantillas de motion design",
+      "Exportación en múltiples formatos",
+      "Control de estilo y branding"
+    ],
+    "caracteristicas": [
+      "IA de síntesis de movimiento",
+      "Biblioteca de assets predefinidos",
+      "Renderizado en tiempo real",
+      "Colaboración en equipo"
+    ],
+    "etica": "Respetan los derechos de autor de los assets utilizados. Implementan filtros para evitar generación de contenido ofensivo.",
+    "limite_gratis": "El plan gratuito permite generar hasta 5 videos de 30 segundos cada uno.",
+    "web": "https://www.minimax.io/",
+    "id": "minimax-h3-75a211",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-31",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Mubert API",
+    "descripcion": "API para editar pistas y stems y obtener música consistente con un nuevo motor.",
+    "compania": "Mubert",
+    "tipo": "Edición de música",
+    "precio": "Freemium",
+    "funciones": [
+      "Modificar tempo y tonalidad",
+      "Separar instrumentos en stems",
+      "Generar variaciones de pista",
+      "Sincronizar con metadatos de proyecto"
+    ],
+    "caracteristicas": [
+      "Soporte para formatos WAV y MP3",
+      "API RESTful",
+      "Control de calidad de audio",
+      "Integración con DAWs"
+    ],
+    "etica": "Utiliza modelos entrenados con música libre de derechos. Evita la generación de contenido que infrinja copyright.",
+    "limite_gratis": "El plan gratuito permite 10 minutos de edición al mes.",
+    "web": "https://mubert.com/api",
+    "id": "mubert-api-c120a1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-31",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "DepthData",
+    "descripcion": "Sistema de registro para el gasto de IA de una empresa.",
+    "compania": "DepthData Inc.",
+    "tipo": "Gestión de gasto en IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Monitoreo de costos por proyecto",
+      "Reportes de consumo en tiempo real",
+      "Alertas de sobrecostos",
+      "Integración con facturación"
+    ],
+    "caracteristicas": [
+      "Panel de control personalizable",
+      "Desglose por modelo y proveedor",
+      "Exportación a Excel",
+      "Gestión de presupuestos"
+    ],
+    "etica": "Garantiza la transparencia en el uso de recursos de IA. Ayuda a evitar sesgos de inversión en modelos no éticos.",
+    "limite_gratis": "El plan gratuito incluye monitoreo de hasta 3 proyectos con límites de alerta.",
+    "web": "https://developer.apple.com/documentation/coreimage/ciimage/depthdata",
+    "id": "depthdata-7c8bbb",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-07-31",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
