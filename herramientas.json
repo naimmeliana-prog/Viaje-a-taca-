@@ -10300,7 +10300,7 @@
     "compania": "Halo AI",
     "tipo": "Verificación de autenticidad en videollamadas",
     "descripcion": "Herramienta que verifica la autenticidad de personas en videollamadas analizando deepfakes y microexpresiones.",
-    "web": "https://halo.scam.ai",
+    "web": "https://www.usehalo.com/",
     "funciones": [
       "Detección de deepfakes en tiempo real",
       "Análisis de microexpresiones",
@@ -10321,14 +10321,15 @@
     "pago": true,
     "fecha_agregado": "2026-07-31",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "ShieldFont",
     "compania": "ShieldFont Ltd.",
     "tipo": "Protección de texto contra IA",
     "descripcion": "Fuente tipográfica diseñada para proteger textos contra extracción por parte de modelos de IA, dificultando el scraping.",
-    "web": "https://shieldfont.io",
+    "web": "https://shieldfont.org/",
     "funciones": [
       "Oculta patrones de caracteres legibles por humanos",
       "Resistente a OCR avanzado",
@@ -10349,7 +10350,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-31",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Cleanlist AI",
@@ -10491,6 +10493,166 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-07-31",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Supabase Evals",
+    "compania": "Supabase",
+    "tipo": "Benchmark de agentes de código",
+    "descripcion": "Herramienta para evaluar agentes de código en tareas reales.",
+    "web": "https://supabase.com/evals",
+    "funciones": [
+      "Evaluar agentes de código",
+      "Simular tareas reales",
+      "Proporcionar métricas de rendimiento"
+    ],
+    "caracteristicas": [
+      "Open-source",
+      "Integración con Supabase",
+      "Evaluación en tiempo real"
+    ],
+    "etica": "Garantiza privacidad de datos y reduce sesgos en evaluaciones.",
+    "precio": "Gratuito",
+    "limite_gratis": "Ofrece acceso ilimitado a funciones básicas.",
+    "id": "supabase-evals-10e886",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-01",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "NudgeForMe",
+    "compania": "NudgeForMe",
+    "tipo": "Agente de seguimiento de oportunidades",
+    "descripcion": "Agente que ayuda a seguir oportunidades en correos electrónicos.",
+    "web": "https://nudgeforme.example",
+    "funciones": [
+      "Seguir correos electrónicos",
+      "Recordatorios personalizados",
+      "Gestión de oportunidades"
+    ],
+    "caracteristicas": [
+      "IA adaptativa",
+      "Integración con clientes de correo",
+      "Personalización de flujos"
+    ],
+    "etica": "Respetar la privacidad de los datos de los usuarios.",
+    "precio": "Freemium",
+    "limite_gratis": "Permite seguir hasta 50 correos al mes gratis.",
+    "id": "nudgeforme-7fcfe1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-01",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Basedash Audit Logs",
+    "descripcion": "Registro de cada acción en la herramienta BI.",
+    "compania": "Basedash",
+    "tipo": "Registro de acciones en BI",
+    "precio": "Freemium",
+    "funciones": [
+      "Registrar acciones de usuarios",
+      "Generar logs de seguridad",
+      "Monitoreo en tiempo real"
+    ],
+    "caracteristicas": [
+      "Seguimiento detallado",
+      "Integración con herramientas BI",
+      "Historial auditable"
+    ],
+    "etica": "Cumple con normativas de protección de datos.",
+    "limite_gratis": "Ofrece 100 registros gratuitos al mes.",
+    "web": "https://www.basedash.com/",
+    "id": "basedash-audit-logs-799e38",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Port22",
+    "descripcion": "Asistente de código en tu teléfono con acceso a Claude y Codex.",
+    "compania": "Port22",
+    "tipo": "Asistente de código móvil",
+    "precio": "Freemium",
+    "funciones": [
+      "Generar código en móvil",
+      "Acceso a modelos de IA",
+      "Soporte en tiempo real"
+    ],
+    "caracteristicas": [
+      "Diseño móvil-first",
+      "Integración con Claude/Codex",
+      "Soporte multilingüe"
+    ],
+    "etica": "Protege datos sensibles en dispositivos móviles.",
+    "limite_gratis": "Limitado a 100 líneas de código generadas gratis.",
+    "web": "https://port22.co.uk/",
+    "id": "port22-7e0ac5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Greplica",
+    "descripcion": "Wiki que se actualiza automáticamente para agentes de código.",
+    "compania": "Greplica",
+    "tipo": "Wiki para agentes de código",
+    "precio": "Freemium",
+    "funciones": [
+      "Mantener documentación",
+      "Actualización automática",
+      "Referencias de código"
+    ],
+    "caracteristicas": [
+      "Autoactualización en tiempo real",
+      "Integración con herramientas de código",
+      "Colaboración en equipo"
+    ],
+    "etica": "Evita la difusión de información obsoleta o sesgada.",
+    "limite_gratis": "Permite crear hasta 5 páginas gratuitas.",
+    "web": "https://github.com/Autoloops/greplica",
+    "id": "greplica-5912dd",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Memmy Agent",
+    "descripcion": "Agente que permite a los AIs compartir y recordar información.",
+    "compania": "Memmy",
+    "tipo": "Agente de gestión de memoria",
+    "precio": "Freemium",
+    "funciones": [
+      "Compartir memoria entre AIs",
+      "Sincronización en tiempo real",
+      "Consistencia de datos"
+    ],
+    "caracteristicas": [
+      "Memoria centralizada",
+      "Integración con múltiples AIs",
+      "Actualización automática"
+    ],
+    "etica": "Garantiza privacidad y precisión en la memoria compartida.",
+    "limite_gratis": "Ofrece 1 GB de almacenamiento de memoria gratis.",
+    "web": "https://memmy.bot/",
+    "id": "memmy-agent-41b60f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-01",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
