@@ -8696,7 +8696,7 @@
     "tipo": "Plataforma de datos para robótica",
     "precio": "Gratuito",
     "descripcion": "Grabette es una plataforma de código abierto que permite registrar, etiquetar y analizar datos de manipulación robótica para mejorar el aprendizaje de los robots.",
-    "web": "https://grab-ai-tech.com/",
+    "web": "https://huggingface.co/blog/grabette",
     "funciones": [
       "Registro de videos de manipulación",
       "Etiquetado automático de acciones",
@@ -10528,7 +10528,7 @@
     "compania": "NudgeForMe",
     "tipo": "Agente de seguimiento de oportunidades",
     "descripcion": "Agente que ayuda a seguir oportunidades en correos electrónicos.",
-    "web": "https://nudgeforme.example",
+    "web": "",
     "funciones": [
       "Seguir correos electrónicos",
       "Recordatorios personalizados",
@@ -10547,7 +10547,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-01",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Basedash Audit Logs",
@@ -10655,6 +10656,308 @@
     "fecha_agregado": "2026-08-01",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ctruh Studio",
+    "compania": "Ctruh Inc.",
+    "tipo": "Generación de experiencias XR/3D",
+    "precio": "Freemium",
+    "descripcion": "Herramienta visual para crear experiencias de realidad extendida y 3D sin escribir código.",
+    "web": "https://huntscreens.com/products/ctruh",
+    "funciones": [
+      "Diseñar escenas XR mediante drag‑and‑drop",
+      "Importar y animar assets 3D",
+      "Compartir proyectos en la web",
+      "Colaborar en tiempo real con otros usuarios",
+      "Exportar a formatos WebXR y Unity"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva sin necesidad de programación",
+      "Soporte para AR y VR",
+      "Biblioteca de componentes preconstruidos",
+      "Exportación directa a WebXR con marca de agua",
+      "Integración con Unity y Unreal Engine"
+    ],
+    "etica": "Protege los datos de los usuarios mediante cifrado y no comparte información sin consentimiento explícito.",
+    "id": "ctruh-studio-6764bd",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito permite crear hasta 5 proyectos y exportar a WebXR con marca de agua."
+  },
+  {
+    "nombre": "Murmell",
+    "compania": "Murmell Labs",
+    "tipo": "Productividad / Colaboración IA",
+    "precio": "Freemium",
+    "descripcion": "Lienzo colaborativo en la nube que combina trabajo humano y agentes de IA para acelerar la creación de contenido.",
+    "web": "https://murmell.com",
+    "funciones": [
+      "Co‑editar documentos y pizarras en tiempo real",
+      "Generar ideas y borradores con agentes de IA",
+      "Automatizar tareas repetitivas mediante flujos de trabajo",
+      "Integrar APIs externas y servicios de terceros",
+      "Controlar versiones y revertir cambios"
+    ],
+    "caracteristicas": [
+      "Interfaz de lienzo flexible y personalizable",
+      "Chat integrado con agentes conversacionales",
+      "Plantillas de IA para distintos tipos de contenido",
+      "Control de acceso granular por proyecto",
+      "Exportación a PDF, Markdown y formatos de oficina"
+    ],
+    "etica": "Respeta la privacidad de los usuarios y no almacena datos sensibles sin autorización explícita.",
+    "id": "murmell-c83106",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito permite 3 usuarios y 10 GB de almacenamiento."
+  },
+  {
+    "nombre": "Cogent VR-1",
+    "compania": "Cogent Security",
+    "tipo": "Agentes IA / Seguridad",
+    "precio": "Pago",
+    "descripcion": "Modelo de razonamiento avanzado que detecta y valida rutas de ataque en infraestructuras corporativas.",
+    "web": "",
+    "funciones": [
+      "Mapear topología de red y activos",
+      "Simular ataques y escenarios de riesgo",
+      "Generar informes de vulnerabilidades y recomendaciones",
+      "Priorizar mitigaciones según impacto y probabilidad",
+      "Integrarse con SIEM y sistemas de gestión de incidentes"
+    ],
+    "caracteristicas": [
+      "Aprendizaje continuo con datos de amenazas reales",
+      "Razonamiento causal y simbólico",
+      "API REST segura y escalable",
+      "Cumplimiento de normas ISO/IEC 27001",
+      "Soporte multi‑cloud y on‑premise"
+    ],
+    "etica": "No almacena datos de clientes en servidores externos y garantiza la anonimización de logs.",
+    "id": "cogent-vr-1-ec9788",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Sin plan gratuito."
+  },
+  {
+    "nombre": "Hand Wave",
+    "compania": "WaveTech",
+    "tipo": "Dispositivo wearable / Accesibilidad",
+    "precio": "Pago",
+    "descripcion": "Gafas inteligentes que traducen el lenguaje de señas en habla en tiempo real.",
+    "web": "https://wavespeed.ai/",
+    "funciones": [
+      "Reconocer gestos de lenguaje de señas con IA de visión",
+      "Convertir gestos a síntesis de voz en múltiples idiomas",
+      "Conectividad Bluetooth y Wi‑Fi para dispositivos móviles",
+      "Modo offline con modelos locales",
+      "Personalizar voces y velocidad de habla"
+    ],
+    "caracteristicas": [
+      "Cámara 4K con enfoque automático",
+      "IA de visión por computadora optimizada para baja latencia",
+      "Batería de 8 h con carga rápida",
+      "Diseño ligero y ergonómico",
+      "Compatibilidad con iOS y Android"
+    ],
+    "etica": "Protege la privacidad de las conversaciones y no comparte datos de gestos sin consentimiento explícito.",
+    "id": "hand-wave-16f82c",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Sin plan gratuito."
+  },
+  {
+    "nombre": "Ontology 1",
+    "compania": "Ontology AI",
+    "tipo": "Generación de búsqueda / Productividad",
+    "precio": "Freemium",
+    "descripcion": "Modelo neurosimbólico que permite búsquedas multimodales y conversacionales de productos.",
+    "web": "",
+    "funciones": [
+      "Buscar productos por imagen, texto o voz",
+      "Generar descripciones y comparaciones automáticas",
+      "Recomendar productos personalizados",
+      "Integrarse con plataformas de e‑commerce",
+      "Analizar sentimiento de reseñas y comentarios"
+    ],
+    "caracteristicas": [
+      "Embeddings multimodales y razonamiento simbólico",
+      "API GraphQL con paginación y filtros avanzados",
+      "Soporte multilingüe y localización",
+      "Escalabilidad horizontal con contenedores",
+      "Cumplimiento de GDPR y CCPA"
+    ],
+    "etica": "Evita sesgos de género y raza en recomendaciones y protege los datos de los usuarios.",
+    "id": "ontology-1-0776d2",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito permite 1 000 consultas mensuales y acceso a API básica."
+  },
+  {
+    "nombre": "Presence",
+    "compania": "OpenAI",
+    "tipo": "Agentes IA / Chatbot / Integración empresarial",
+    "precio": "Pago",
+    "descripcion": "Solución de OpenAI para incorporar agentes de IA en flujos de trabajo internos y atención al cliente.",
+    "web": "https://presence-ai.app/",
+    "funciones": [
+      "Crear agentes personalizados con personalidad y tono definidos",
+      "Automatizar tickets y solicitudes de soporte",
+      "Generar respuestas y documentos internos",
+      "Analizar sentimiento y métricas de satisfacción",
+      "Integrarse con CRM, ERP y sistemas de ticketing"
+    ],
+    "caracteristicas": [
+      "API de agentes con control de contexto persistente",
+      "Cumplimiento GDPR y certificaciones de seguridad",
+      "Personalización de tono y estilo de respuesta",
+      "Monitorización de rendimiento y alertas",
+      "Soporte 24/7 y SLAs empresariales"
+    ],
+    "etica": "Garantiza la transparencia en la interacción y protege la información confidencial de los clientes.",
+    "id": "presence-39244f",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Sin plan gratuito."
+  },
+  {
+    "nombre": "Airtop for Google Ads Automation",
+    "descripcion": "Airtop para Google Ads automatiza la creación de campañas, optimiza el gasto y genera informes automáticamente.",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación automática de campañas publicitarias.",
+      "Optimización de presupuesto en tiempo real.",
+      "Generación de informes detallados.",
+      "Integración nativa con Google Ads."
+    ],
+    "caracteristicas": [
+      "Interfaz basada en la nube.",
+      "Compatible con múltiples cuentas de Google Ads.",
+      "Soporte para segmentación avanzada.",
+      "Alertas personalizables."
+    ],
+    "etica": "La herramienta procesa datos de anuncios, por lo que es crucial garantizar el cumplimiento del RGPD y el consentimiento del usuario. El modelo de optimización puede favorecer campañas con mayor presupuesto, lo que podría sesgar los resultados hacia anunciantes con más recursos.",
+    "web": "https://www.airtop.ai/",
+    "tipo": "Productividad",
+    "compania": "Airtop",
+    "id": "airtop-for-google-ads-automation-f21a36",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite hasta 3 campañas activas y acceso limitado a informes básicos.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Qwen3.8-Max",
+    "descripcion": "Qwen3.8-Max es el modelo más avanzado de Qwen, diseñado para la generación de código y la colaboración entre programadores.",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de código en múltiples lenguajes.",
+      "Soporte para depuración y refactorización.",
+      "Integración con entornos de desarrollo (IDE).",
+      "Colaboración en tiempo real para equipos de programación."
+    ],
+    "caracteristicas": [
+      "Entrenado en grandes conjuntos de datos de código.",
+      "Bajo tiempo de latencia para respuestas rápidas.",
+      "Compatible con lenguajes populares (Python, JavaScript, Java, etc.).",
+      "Capacidades multilingües."
+    ],
+    "etica": "El modelo procesa código público, lo que plantea preocupaciones sobre privacidad y posibles sesgos en lenguajes menos representados. Los usuarios deben revisar el código generado para evitar vulnerabilidades de seguridad.",
+    "web": "https://www.qwencloud.com/models/qwen3.8-max",
+    "tipo": "Asistente de programación",
+    "compania": "Alibaba Group",
+    "id": "qwen3-8-max-986781",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito ofrece un número limitado de tokens por mes y acceso solo a funciones básicas de generación de código.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AgentSky",
+    "descripcion": "AgentSky permite crear y desplegar agentes de IA en la nube que pueden utilizar cualquier modelo de lenguaje, ofreciendo flexibilidad y escalabilidad.",
+    "precio": "Freemium",
+    "funciones": [
+      "Agentes personalizables que funcionan con cualquier LLM.",
+      "Despliegue rápido en la nube con un solo clic.",
+      "Capacidad de orquestación de múltiples tareas.",
+      "Monitoreo y registro en tiempo real."
+    ],
+    "caracteristicas": [
+      "Arquitectura sin servidor.",
+      "Soporte multi-nube.",
+      "Cifrado de extremo a extremo para seguridad.",
+      "Escalado automático según la demanda."
+    ],
+    "etica": "Al procesar datos en la nube, es crucial garantizar el cifrado de extremo a extremo y el cumplimiento normativo. El uso de múltiples LLMs puede amplificar sesgos presentes en los modelos subyacentes.",
+    "web": "https://www.agentsky.co/",
+    "tipo": "Agentes IA",
+    "compania": "AgentSky AI",
+    "id": "agentsky-02876b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite hasta 3 agentes simultáneos y 1000 interacciones por mes.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "MascotAI",
+    "descripcion": "MascotAI ofrece estudios de creación de mascotas animadas en SVG que permiten añadir personalidad a aplicaciones con animaciones personalizables.",
+    "precio": "Freemium",
+    "funciones": [
+      "Biblioteca de SVGs animados personalizables.",
+      "Editor visual sin código para crear animaciones.",
+      "Exportación a múltiples formatos (Web, móvil).",
+      "Integración con frameworks populares (React, Vue)."
+    ],
+    "caracteristicas": [
+      "Archivos SVG ligeros.",
+      "Funciona sin conexión.",
+      "Escalable sin pérdida de calidad.",
+      "Compatibilidad con navegadores modernos."
+    ],
+    "etica": "Los SVG generados pueden contener elementos de diseño que reflejan estereotipos culturales; se recomienda revisar su contenido. La herramienta no recopila datos personales, pero los activos creados pueden ser compartidos públicamente.",
+    "web": "https://github.com/phoenix-error/mascotai",
+    "tipo": "Productividad",
+    "compania": "MascotAI Studios",
+    "id": "mascotai-da65df",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-03",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito incluye acceso a 5 plantillas básicas y exportación limitada a 1080p.",
     "intentos_web": 1
   }
 ]
