@@ -8398,7 +8398,7 @@
     "tipo": "Asistente de IA integrado en dispositivos",
     "precio": "Pago",
     "descripcion": "Companion de IA de alta gama integrado en teléfonos plegables de lujo, ofreciendo flujos de trabajo avanzados, seguridad y asistencia personalizada.",
-    "web": "https://www.vertu.com/ai-agent",
+    "web": "https://vertu.com/",
     "funciones": [
       "Gestión de agenda y recordatorios inteligentes",
       "Control de dispositivos domésticos y wearables",
@@ -8428,7 +8428,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "TikTok AI Likeness Detection",
@@ -10528,7 +10529,7 @@
     "compania": "NudgeForMe",
     "tipo": "Agente de seguimiento de oportunidades",
     "descripcion": "Agente que ayuda a seguir oportunidades en correos electrónicos.",
-    "web": "",
+    "web": "https://www.stork.ai/en/nudgeforme",
     "funciones": [
       "Seguir correos electrónicos",
       "Recordatorios personalizados",
@@ -10548,7 +10549,7 @@
     "fecha_agregado": "2026-08-01",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Basedash Audit Logs",
@@ -10748,7 +10749,7 @@
     "fecha_agregado": "2026-08-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1,
+    "intentos_web": 2,
     "limite_gratis": "Sin plan gratuito."
   },
   {
@@ -10810,7 +10811,7 @@
     "fecha_agregado": "2026-08-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1,
+    "intentos_web": 2,
     "limite_gratis": "Plan gratuito permite 1 000 consultas mensuales y acceso a API básica."
   },
   {
@@ -10958,6 +10959,146 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito incluye acceso a 5 plantillas básicas y exportación limitada a 1080p.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AI tells detection",
+    "compania": "ESPN",
+    "tipo": "Análisis de datos / Detección de IA",
+    "precio": "Pago",
+    "descripcion": "Una herramienta tecnológica diseñada para identificar patrones de comportamiento que sugieran el uso de asistencia de IA durante partidas de póker.",
+    "funciones": [
+      "Detección de patrones de juego",
+      "Análisis de comportamiento en tiempo real",
+      "Integración con transmisiones en vivo",
+      "Identificación de anomalías estadísticas"
+    ],
+    "caracteristicas": [
+      "Basado en visión computacional",
+      "Uso en entornos de competición profesional",
+      "Análisis de datos de juego en vivo"
+    ],
+    "etica": "Plantea debates sobre la privacidad de los jugadores y la precisión de los algoritmos al juzgar la intención humana frente a la tecnológica.",
+    "limite_gratis": "Sin plan gratuito",
+    "web": "https://phrasly.ai/",
+    "id": "ai-tells-detection-699fae",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Wispr Flow Notetaker",
+    "descripcion": "Un asistente de notas inteligente especializado en capturar y organizar detalles precisos de reuniones y conversaciones.",
+    "compania": "Wispr",
+    "tipo": "Productividad / Transcripción",
+    "precio": "Freemium",
+    "funciones": [
+      "Transcripción de audio a texto",
+      "Resumen automático de reuniones",
+      "Extracción de puntos de acción",
+      "Organización de notas estructuradas"
+    ],
+    "caracteristicas": [
+      "Alta precisión en detalles",
+      "Interfaz de usuario fluida",
+      "Integración con flujos de trabajo de productividad"
+    ],
+    "etica": "Depende de la gestión de datos de audio grabados y la privacidad de las conversaciones corporativas.",
+    "limite_gratis": "Ofrece un plan gratuito con funciones básicas de transcripción y límites de tiempo mensuales.",
+    "web": "https://wisprflow.ai/",
+    "id": "wispr-flow-notetaker-1b11af",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "BackEngine MCP",
+    "descripcion": "Una solución basada en el protocolo MCP para convertir el conocimiento privado de una empresa en datos utilizables por modelos de IA.",
+    "compania": "BackEngine",
+    "tipo": "Agentes IA / Gestión de conocimiento",
+    "precio": "Pago",
+    "funciones": [
+      "Conexión de bases de datos privadas con IA",
+      "Indexación de conocimiento corporativo",
+      "Interfaz de protocolo MCP",
+      "Consulta de datos seguros"
+    ],
+    "caracteristicas": [
+      "Seguridad de datos empresariales",
+      "Compatibilidad con modelos de lenguaje avanzados",
+      "Arquitectura orientada a agentes"
+    ],
+    "etica": "Se enfoca en la seguridad y el control de acceso para evitar fugas de propiedad intelectual durante el entrenamiento o consulta.",
+    "limite_gratis": "Sin plan gratuito",
+    "web": "https://backengine.com/",
+    "id": "backengine-mcp-cd4072",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Cloudflare Wallets",
+    "descripcion": "Billeteras programables diseñadas para permitir que los agentes de IA realicen transacciones de forma segura en la internet agéntica.",
+    "compania": "Cloudflare",
+    "tipo": "Infraestructura / Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de activos para agentes",
+      "Transacciones programables",
+      "Seguridad de infraestructura en la nube",
+      "Autenticación de agentes"
+    ],
+    "caracteristicas": [
+      "Escalabilidad global",
+      "Seguridad de nivel empresarial",
+      "Integración con ecosistema Cloudflare"
+    ],
+    "etica": "Crucial para prevenir el uso malintencionado de agentes autónomos en transacciones financieras no supervisadas.",
+    "limite_gratis": "Ofrece un nivel gratuito para desarrolladores con límites de uso de red y transacciones.",
+    "web": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-gives-ai-agents-an-identity-and-a-wallet/",
+    "id": "cloudflare-wallets-630559",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Dover MCP",
+    "descripcion": "Una herramienta que permite gestionar y ejecutar procesos de contratación directamente desde interfaces de chat como Claude o ChatGPT.",
+    "compania": "Dover",
+    "tipo": "Agentes IA / Recursos Humanos",
+    "precio": "Pago",
+    "funciones": [
+      "Gestión de procesos de selección",
+      "Integración con LLMs",
+      "Automatización de flujo de contratación",
+      "Consulta de candidatos mediante chat"
+    ],
+    "caracteristicas": [
+      "Uso de protocolo MCP",
+      "Interfaz conversacional para RRHH",
+      "Automatización de tareas de reclutamiento"
+    ],
+    "etica": "Requiere supervisión estricta para evitar sesgos algorítmicos en la selección de talento humano.",
+    "limite_gratis": "Sin plan gratuito",
+    "web": "https://help.dover.com/en/articles/15278313-mcp-server",
+    "id": "dover-mcp-9dad7b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-05",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]

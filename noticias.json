@@ -1,12 +1,75 @@
 {
-  "actualizado": "2026-08-03T11:18:01Z",
+  "actualizado": "2026-08-05T10:30:49Z",
   "novedades": [
     {
-      "titulo": "EEUU restringió los chips para frenar la IA china. Alibaba acaba de enseñar lo poco que ha funcionado",
+      "titulo": "La IA solo ha tenido un impacto transformador en el 25% de las organizaciones",
+      "resumen": "Según un nuevo informe de Kearney y el Foro Económico Mundial L'articolo La IA solo ha tenido un impacto transformador en el 25% de las organizaciones proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-solo-ha-tenido-un-impacto-transformador-en-el-25-de-las-organizaciones/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-05T07:05:44Z"
+    },
+    {
+      "titulo": "Una universidad de México usó IA para evitar trampas. Lo que pasó fue justamente lo contrario",
+      "resumen": "La Universidad Nacional Autónoma de México (UNAM), que es básicamente la institución pública más prestigiosa del país, decidió este año celebrar por primera vez su examen de admisión de forma online. Para evitar que los ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/universidad-mexico-uso-ia-para-evitar-trampas-que-paso-fue-justamente-contrario",
+      "medio": "Xataka",
+      "fecha": "2026-08-04T19:01:43Z"
+    },
+    {
+      "titulo": "DeepSeek ha lanzado un modelo de IA 100 veces más barato que Fable 5. El truco está en lo que no cuenta",
+      "resumen": "DeepSeek ha vuelto a sacudir la industria tecnológica con su nuevo modelo de IA, pero esta vez no por sorpresa, sino por precio. Y es que tal y como exponen en Artificial Analysis, la última versión de su modelo insignia",
+      "enlace": "https://www.xataka.com/robotica-e-ia/deepseek-ha-lanzado-modelo-ia-100-veces-barato-que-fable-5-truco-esta-que-no-cuenta",
+      "medio": "Xataka",
+      "fecha": "2026-08-04T14:31:43Z"
+    },
+    {
+      "titulo": "Dario Amodei construyó Anthropic alrededor de una misión. Ahora teme que sus empleados lleguen por el dinero",
+      "resumen": "Anthropic nació con la idea de desarrollar modelos de IA avanzados y alineados, sin sacrificar la seguridad. Esa misión ayudó a diferenciarla de OpenAI y también sirvió para atraer a investigadores con talento. Ahora su ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/dario-amodei-construyo-anthropic-alrededor-mision-ahora-teme-que-sus-empleados-lleguen-dinero",
+      "medio": "Xataka",
+      "fecha": "2026-08-04T11:15:43Z"
+    },
+    {
+      "titulo": "La DGT instala radares y cámaras con IA para vigilar el tráfico y mejorar su gestión",
+      "resumen": "La Agencia Tributaria y la Dirección General de Tráfico son, posiblemente, dos de las agencias gubernamentales españolas que más críticas reciben. Principalmente, por motivos pecuniarios. Es decir, tener que pagar multas",
+      "enlace": "https://blogthinkbig.com/radares-camaras-ia-inteligencia-artificial-dgt-trafico",
+      "medio": "Think Big",
+      "fecha": "2026-08-04T09:27:05Z"
+    },
+    {
+      "titulo": "El AI Act se empieza a aplicar y este es el primer afectado",
+      "resumen": "Un departamento de marketing lanza un chatbot para agilizar la atención al cliente. En la planta de arriba, alguien de recursos humanos usa un copiloto ofimático para filtrar la montaña de currículums de la semana. [&#82",
+      "enlace": "https://blogthinkbig.com/ley-ia-europea-transparencia-empresas",
+      "medio": "Think Big",
+      "fecha": "2026-08-04T08:00:15Z"
+    },
+    {
+      "titulo": "La IA ha resuelto uno de los grandes problemas de la ciberseguridad: encontrar fallos. Ahora tenemos otro mucho mayor",
+      "resumen": "En junio de 2026 el célebre \"martes de parches\" de Microsoft marcó un récord con 206 vulnerabilidades, de las cuales tres eran \"zero day\". En julio ese récord se quedó en ridículo, porque se triplicó esa cifra. No es el ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ia-ha-resuelto-uno-grandes-problemas-ciberseguridad-encontrar-fallos-ahora-tenemos-otro-mucho-mayor",
+      "medio": "Xataka",
+      "fecha": "2026-08-04T06:01:43Z"
+    },
+    {
+      "titulo": "El auge de la IA ‘open source’: por qué Microsoft, Nvidia y otros gigantes defienden los modelos abiertos más allá de ChatGPT, Gemini o Claude",
+      "resumen": "Cuando empresas tan importantes como Nvidia, Microsoft, Meta, Palantir o IBM y organizaciones como Mozilla o The Linux Foundation firman una carta conjunta, algo importante está ocurriendo. En el contexto actual, el tema",
+      "enlace": "https://blogthinkbig.com/ia-open-source-codigo-abierto-open-weight",
+      "medio": "Think Big",
+      "fecha": "2026-08-03T15:01:34Z"
+    },
+    {
+      "titulo": "Ni la subida de precio frena el desastre: el MacBook Air M5 se queda sin stock por la crisis de componentes",
+      "resumen": "Agosto es el mes en el que Apple suele activar su campaña de vuelta al cole, esa promoción con la que te llevas por tu compra unos AirPods, a veces una tarjeta regalo. Este año ya ha arrancado en Estados Unidos, aunque e",
+      "enlace": "https://www.applesfera.com/portatil/subida-precio-frena-desastre-macbook-air-m5-se-queda-stock-crisis-componentes",
+      "medio": "Applesfera",
+      "fecha": "2026-08-03T12:01:44Z"
+    },
+    {
+      "titulo": "Cuando EEUU restringió la venta de chips IA a China sabía que era una medida desesperada. Alibaba acaba de confirmarlo",
       "resumen": "El gigante chino Alibaba ha presentado Qwen3.8-Max, su modelo de IA más ambicioso hasta la fecha. Es multimodal, tiene una ventana de contexto de un millón de tokens y destaca además por otras dos cosas: la primera, volv",
       "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-restringio-chips-para-frenar-ia-china-alibaba-acaba-ensenar-poco-que-ha-funcionado",
       "medio": "Xataka",
-      "fecha": "2026-08-03T10:45:43Z"
+      "fecha": "2026-08-03T10:45:00Z"
     },
     {
       "titulo": "Los AirPods con cámara apuntan a ser el primer \"dispositivo IA\" de Apple. Y ahora parece que los veremos el mes que viene",
@@ -16,18 +79,18 @@
       "fecha": "2026-08-03T09:53:23Z"
     },
     {
-      "titulo": "Arranca la era del etiquetado obligatorio de la IA en Europa: la industria ya avisa de que nadie va a hacerle caso",
+      "titulo": "La UE acaba de aprobar el etiquetado obligatorio para todo el contenido IA: cuestión distinta es que la industria obedezca",
       "resumen": "En 2023 ya hablábamos del problema de los deepfakes y la solución que planteaba la Unión Europea era que todo este contenido artificial estuviera marcado con una etiqueta de forma obligatoria. Ese día ha llegado y desde ",
       "enlace": "https://www.xataka.com/legislacion-y-derechos/arranca-era-etiquetado-obligatorio-ia-europa-industria-avisa-que-nadie-va-a-hacerle-caso",
       "medio": "Xataka",
-      "fecha": "2026-08-03T08:31:43Z"
+      "fecha": "2026-08-03T08:30:00Z"
     },
     {
-      "titulo": "OpenAI ya tiene listo Astra, un prometedor modelo de IA que apunta a algo inquietante: el momento Deep Blue de las matemáticas",
+      "titulo": "En 1997, un ordenador redefinió para siempre el ajedrez. OpenAI cree estar en condiciones de hacer lo mismo con las matemáticas",
       "resumen": "Era mayo de 1997 y Gari Kaspárov sufría la derrota definitiva frente a Deep Blue. El considerado hasta entonces como mejor ajedrecista de la historia no solo estaba triste y avergonzado: también estaba picado. En la rued",
       "enlace": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-astra-prometedor-modelo-ia-que-apunta-a-algo-inquietante-momento-deep-blue-matematicas",
       "medio": "Xataka",
-      "fecha": "2026-08-03T06:01:40Z"
+      "fecha": "2026-08-03T06:01:00Z"
     },
     {
       "titulo": "Hay una guerra entre padres millennials y abuelos boomers. El motivo: libros infantiles personalizados hechos con IA",
@@ -42,34 +105,6 @@
       "enlace": "https://www.xataka.com/ingenieria-y-megaconstrucciones/impresionante-escala-megacentro-datos-meta-imagen-satelital-paris",
       "medio": "Xataka",
       "fecha": "2026-08-02T11:31:43Z"
-    },
-    {
-      "titulo": "Si esperas un pinchazo de la burbuja de la IA, Jensen Huang tiene algo que decir: \"esta vez es diferente\"",
-      "resumen": "Desde hace un tiempo hay quien se pregunta si la situación con la inteligencia artificial es una burbuja. Hay voces a favor y en contra de la idea, pero algo está claro: en muy poco tiempo,&nbsp;la industria se ha inflad",
-      "enlace": "https://www.xataka.com/empresas-y-economia/esperas-pinchazo-burbuja-ia-jensen-huang-tiene-algo-que-decir-esta-vez-diferente",
-      "medio": "Xataka",
-      "fecha": "2026-08-02T10:01:43Z"
-    },
-    {
-      "titulo": "El mayor temor era que la IA nos quitara el trabajo. La realidad es que está reemplazando a quienes están aprendiendo a trabajar",
-      "resumen": "Cada año, miles de estudiantes de la generación Z se gradúan en sus respectivas carreras con la esperanza de conseguir ese primer trabajo que les permita iniciar una carrera profesional. Sin embargo, el panorama actual e",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mayor-temor-era-que-ia-nos-quitara-trabajo-realidad-que-esta-reemplazando-a-quienes-estan-aprendiendo-a-trabajar-1",
-      "medio": "Xataka",
-      "fecha": "2026-08-02T07:31:43Z"
-    },
-    {
-      "titulo": "Mark Zuckerberg: \"Es literalmente imposible tener una única superinteligencia benevolente que esté alineada con todos a la vez\"",
-      "resumen": "Mark Zuckerberg no es muy amigo de las entrevistas, pero esta semana ha hecho triplete y ha hablado con el New York Times, el Wall Street Journal&nbsp;y Financial Times. El tema de conversación principal ha sido, cómo no",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-literalmente-imposible-tener-unica-superinteligencia-benevolente-que-este-alineada-todos-a-vez",
-      "medio": "Xataka",
-      "fecha": "2026-08-01T09:31:43Z"
-    },
-    {
-      "titulo": "Las grandes tecnológicas ya se han gastado un billón de dólares en IA. El problema es que en la caja sólo les queda calderilla",
-      "resumen": "Desde que empezó el boom de la IA, &nbsp;Google, Amazon, Microsoft y Meta ya han invertido un billón de dólares; un uno, seguido de doce ceros, y la cosa va a seguir escalando aún más. A principios de año alucinábamos co",
-      "enlace": "https://www.xataka.com/empresas-y-economia/grandes-tecnologicas-se-han-gastado-billon-dolares-ia-problema-que-caja-solo-les-queda-calderilla",
-      "medio": "Xataka",
-      "fecha": "2026-07-31T17:01:43Z"
     },
     {
       "titulo": "Tim Cook abre la puerta a cobrar por la inteligencia artificial. Mientras tanto, el mercado europeo sigue a dos velas",
@@ -98,13 +133,6 @@
       "enlace": "https://blogthinkbig.com/claude-rompe-criptografia-matematicas",
       "medio": "Think Big",
       "fecha": "2026-07-30T09:46:16Z"
-    },
-    {
-      "titulo": "OpenAI habría encontrado la fórmula mágica de la IA: ¿y si esto no es una burbuja realmente?",
-      "resumen": "La carrera de las grandes compañías de inteligencia artificial por desarrollar modelos cada vez más potentes parece no tener fin. Ya hemos visto cómo empresas de la talla de OpenAI, Google o Anthropic lanzan al [&#8230;]",
-      "enlace": "https://blogthinkbig.com/costes-de-inferencia-por-que-openai-ha-logrado-la-formula-magica",
-      "medio": "Think Big",
-      "fecha": "2026-07-30T08:01:00Z"
     },
     {
       "titulo": "DXC incorpora capacidades de IA de voz tras su acuerdo con ElevenLabs",
@@ -182,37 +210,16 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/coordinacion-de-agentes-de-ia-como-elegir-la-arquitectura-adecuada-para-la-empresa/",
       "medio": "Computing.es",
       "fecha": "2026-07-20T09:08:54Z"
-    },
-    {
-      "titulo": "Raúl Chico (Evolutio): «La principal función de una CAIO es convertir la IA en una capacidad real y transversal de la empresa»",
-      "resumen": "Hablamos con Raúl Chico, CAIO de Evolutio, quien ha pasado de dirigir la estrategia digital de la compañía de servicios cloud a la estrategia de IA desde el año 2024 L'articolo Raúl Chico (Evolutio): «La principal funció",
-      "enlace": "https://www.computing.es/inteligencia-artificial/raul-chico-evolutio-la-principal-funcion-de-una-caio-es-convertir-la-ia-en-una-capacidad-real-y-transversal-de-la-empresa/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-17T08:38:36Z"
-    },
-    {
-      "titulo": "Ni los procesadores más potentes de Apple pueden con la nueva Siri y la solución pasa por comprar empresas",
-      "resumen": "Cuando Apple presentó la nueva Siri AI las noticias se centraron sobre todo lo que vamos a poder hacer: entender mejor el contexto, mantener conversaciones más naturales, resolver cosas que la Siri anterior ni intentaba.",
-      "enlace": "https://www.applesfera.com/apple-1/apple-saca-chequera-a-pasear-para-cortar-raiz-su-enorme-dependencia-nvidia-the-information",
-      "medio": "Applesfera",
-      "fecha": "2026-07-16T14:00:00Z"
-    },
-    {
-      "titulo": "Una IA en la orilla, un socio imprescindible y mucha burocracia. Apple está a punto de dar un gran paso en China",
-      "resumen": "Si en la Unión Europea tardamos más de la cuenta en recibir Apple Intelligence (cinco meses desde que llegó a Estados Unidos), lo de China ya parece una historia interminable. Pero no, no hay historias sin final y la del",
-      "enlace": "https://www.applesfera.com/apple-1/dos-anos-despues-apple-intelligence-esta-a-paso-ser-legal-china-importante-que-parece",
-      "medio": "Applesfera",
-      "fecha": "2026-07-16T08:30:00Z"
-    },
-    {
-      "titulo": "OpenAI pretende lanzar un \"HomePod superinteligente\" antes que Apple. Los de Cupertino lo quieren impedir",
-      "resumen": "¿Un altavoz? Sí, un altavoz será el primer producto de OpenAI. Aunque en principio, no será un altavoz más. Al menos esas son las intenciones de la compañía según un informe de Bloomberg en el que el filtrador Mark Gurma",
-      "enlace": "https://www.applesfera.com/rumores/openai-describe-internamente-como-primero-su-tipo-gurman-filtra-como-sera-primer-producto-creadores-chatgpt-altavoz",
-      "medio": "Applesfera",
-      "fecha": "2026-07-15T06:31:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "El AI Act se empieza a aplicar y este es el primer afectado",
+      "resumen": "Un departamento de marketing lanza un chatbot para agilizar la atención al cliente. En la planta de arriba, alguien de recursos humanos usa un copiloto ofimático para filtrar la montaña de currículums de la semana. [&#82",
+      "enlace": "https://blogthinkbig.com/ley-ia-europea-transparencia-empresas",
+      "medio": "Think Big",
+      "fecha": "2026-08-04T08:00:15Z"
+    },
     {
       "titulo": "Todo sobre la demanda de Apple y OpenAI, que no tiene nada que ver con la IA",
       "resumen": "El pasado 10 de julio de 2026, Apple se presentó en un tribunal federal de California para interponer acciones legales contra OpenAI, la empresa propiedad de Sam Altman. Y, a pesar de lo que muchos [&#8230;] Todo sobre l",
@@ -345,13 +352,6 @@
       "enlace": "https://www.genbeta.com/inteligencia-artificial/empiezan-a-salir-a-luz-vulnerabilidades-navegador-chatgpt-materia-seguridad-privacidad",
       "medio": "Genbeta",
       "fecha": "2025-10-28T14:45:00Z"
-    },
-    {
-      "titulo": "\"Ética de trabajo increíble\": El ex CEO de Google alaba el modelo 996 de 72 horas chino y critica el equilibrio entre vida y trabajo",
-      "resumen": "El antiguo CEO de Google, Eric Schmidt, ha hablado en un podcast sobre cómo a los trabajadores de Estados Unidos les toca sacrificarse por sacar adelante a sus empresas tecnológicas en un ambiente de rivalidad internacio",
-      "enlace": "https://www.genbeta.com/laboral/trabajas-tech-tendras-que-hacer-sacrificios-ex-ceo-google-habla-trabajar-72-semanales-para-competir-china",
-      "medio": "Genbeta",
-      "fecha": "2025-10-02T11:19:00Z"
     }
   ]
 }
