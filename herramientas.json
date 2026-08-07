@@ -2864,7 +2864,7 @@
       "Actualizaciones continuas del modelo de IA"
     ],
     "etica": "Los datos de los usuarios se procesan de forma anónima y se almacenan solo con su consentimiento explícito. El modelo puede heredar sesgos del entrenamiento, por lo que es necesario revisar los resultados humanos.",
-    "web": "https://www.blazlyseo.com/",
+    "web": "",
     "tipo": "Generación de contenido",
     "compania": "Blazly",
     "id": "blazly-seo-a2acb7",
@@ -4216,7 +4216,7 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com/",
+    "web": "",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
@@ -10749,7 +10749,7 @@
     "fecha_agregado": "2026-08-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "Sin plan gratuito."
   },
   {
@@ -10811,7 +10811,7 @@
     "fecha_agregado": "2026-08-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2,
+    "intentos_web": 3,
     "limite_gratis": "Plan gratuito permite 1 000 consultas mensuales y acceso a API básica."
   },
   {
@@ -11099,6 +11099,98 @@
     "fecha_agregado": "2026-08-05",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Prompt Bridge",
+    "descripcion": "Keep AI Context Portable",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/prompt-bridge-2",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "prompt-bridge-a3705a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-07",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "The new Firecrawl MCP",
+    "descripcion": "Agent-ready web context for any MCP client.",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/extract-by-firecrawl",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "the-new-firecrawl-mcp-92f417",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-07",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "StepShot",
+    "descripcion": "AI that turns real workflows into step-by-step guides",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/stepshot-2",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "stepshot-878b60",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-07",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Mem0",
+    "descripcion": "Persistent Memory Layer for AI Agents",
+    "precio": "Freemium",
+    "funciones": [
+      "Pendiente de revisión"
+    ],
+    "caracteristicas": [
+      "Detectada automáticamente"
+    ],
+    "etica": "Ficha pendiente de revisión ética. Aún no verificada.",
+    "web": "https://www.producthunt.com/products/mem0-5",
+    "tipo": "Otros",
+    "compania": "Desconocida",
+    "id": "mem0-7d405e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-07",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "intentos_auto": 1,
     "intentos_web": 1
   }
 ]
