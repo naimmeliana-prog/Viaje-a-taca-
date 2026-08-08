@@ -4216,14 +4216,14 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com",
+    "web": "https://cewsco.com/",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 1
   },
   {
     "nombre": "AI Slide Editor",
@@ -10727,7 +10727,7 @@
     "tipo": "Agentes IA / Seguridad",
     "precio": "Pago",
     "descripcion": "Modelo de razonamiento avanzado que detecta y valida rutas de ataque en infraestructuras corporativas.",
-    "web": "",
+    "web": "https://www.cogent.com/",
     "funciones": [
       "Mapear topología de red y activos",
       "Simular ataques y escenarios de riesgo",
@@ -10749,7 +10749,7 @@
     "fecha_agregado": "2026-08-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
+    "intentos_web": 5,
     "limite_gratis": "Sin plan gratuito."
   },
   {
@@ -10789,7 +10789,7 @@
     "tipo": "Generación de búsqueda / Productividad",
     "precio": "Freemium",
     "descripcion": "Modelo neurosimbólico que permite búsquedas multimodales y conversacionales de productos.",
-    "web": "",
+    "web": "https://makolab.com/",
     "funciones": [
       "Buscar productos por imagen, texto o voz",
       "Generar descripciones y comparaciones automáticas",
@@ -10811,7 +10811,7 @@
     "fecha_agregado": "2026-08-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4,
+    "intentos_web": 5,
     "limite_gratis": "Plan gratuito permite 1 000 consultas mensuales y acceso a API básica."
   },
   {
@@ -11103,131 +11103,119 @@
   },
   {
     "nombre": "Prompt Bridge",
-    "descripcion": "Herramienta para guardar, compartir y gestionar contextos de IA de forma portable entre plataformas.",
+    "descripcion": "Prompt Bridge es una herramienta que permite guardar, compartir y gestionar contextos de IA de forma portable entre distintas plataformas, facilitando la reutilización de prompts y flujos de trabajo.",
     "precio": "Freemium",
     "funciones": [
-      "Guardar y organizar prompts de IA",
-      "Exportar contextos en formatos compatibles",
-      "Sincronizar datos entre dispositivos",
-      "Colaboración en tiempo real en equipos",
-      "Integración con modelos de lenguaje populares"
+      "Guardado y organización de prompts y contextos de IA",
+      "Compartición de contextos entre usuarios y equipos",
+      "Exportación e importación de configuraciones entre plataformas",
+      "Sincronización en la nube para acceso multicloud"
     ],
     "caracteristicas": [
-      "Interfaz intuitiva y amigable",
-      "Cifrado de datos para privacidad",
-      "Soporte para múltiples modelos de IA",
-      "Historial de versiones y auditoría",
-      "API para desarrolladores"
+      "Interfaz intuitiva para gestión de prompts",
+      "Compatibilidad con múltiples modelos y plataformas de IA",
+      "Control de versiones de los contextos guardados",
+      "Integración con editores de código y entornos de desarrollo"
     ],
-    "etica": "Prioriza la privacidad del usuario mediante cifrado de extremo a extremo y evita el uso de datos para entrenamiento no consentido. Promueve la transparencia en el manejo de contextos.",
+    "etica": "Prompt Bridge se compromete a proteger la privacidad de los datos de los usuarios y a minimizar sesgos almacenados en los contextos compartidos, promoviendo un uso responsable de la IA.",
     "web": "https://www.promptbridge.co/",
-    "tipo": "Gestión de contexto",
+    "tipo": "Productividad",
     "compania": "Prompt Bridge Inc.",
     "id": "prompt-bridge-a3705a",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-07",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2,
+    "pendiente_revision": false,
     "intentos_web": 2,
-    "limite_gratis": "El plan gratuito permite almacenar hasta 100 prompts y 100 MB de datos, con limitaciones en colaboración multiusuario."
+    "limite_gratis": "El plan gratuito permite almacenar hasta 100 prompts y compartir contextos con un máximo de 3 colaboradores."
   },
   {
     "nombre": "The new Firecrawl MCP",
-    "descripcion": "Herramienta para extraer y estructurar datos web en formato compatible con clientes MCP, optimizada para agentes de IA.",
+    "descripcion": "The new Firecrawl MCP es una herramienta diseñada para extraer y estructurar datos web en formato compatible con clientes MCP, optimizada para potenciar el rendimiento de agentes de IA en tareas de rastreo y análisis de contenido.",
     "precio": "Freemium",
     "funciones": [
-      "Extracción de contenido web en tiempo real",
-      "Conversión de HTML a formato estructurado",
-      "Integración con clientes MCP",
-      "Filtrado y limpieza de datos",
-      "API para automatización de scraping"
+      "Extracción de datos web en formato estructurado",
+      "Conversión de contenido web a formato compatible con MCP",
+      "Optimización para integración con agentes de IA",
+      "Rastreo automatizado de sitios web y APIs"
     ],
     "caracteristicas": [
-      "Soporte para múltiples formatos de salida (JSON, CSV)",
+      "Soporte para múltiples formatos de salida (JSON, CSV, Markdown)",
       "Escalabilidad para grandes volúmenes de datos",
-      "Respeto por normas de robots.txt y privacidad web",
-      "Documentación detallada para desarrolladores",
-      "Compatibilidad con frameworks de IA"
+      "Filtrado y limpieza de datos antes de la exportación",
+      "API RESTful para integración sencilla"
     ],
-    "etica": "Respeto por las normas de privacidad web y cumplimiento de regulaciones como GDPR. Evita el scraping de contenido protegido por derechos de autor.",
+    "etica": "Firecrawl prioriza el respeto a los derechos de los propietarios de contenido web y promueve el uso ético de los datos extraídos, evitando el rastreo invasivo o el abuso de recursos.",
     "web": "https://www.firecrawl.dev/",
-    "tipo": "Extracción de datos",
+    "tipo": "Agentes IA",
     "compania": "Firecrawl",
     "id": "the-new-firecrawl-mcp-92f417",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-07",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2,
+    "pendiente_revision": false,
     "intentos_web": 2,
-    "limite_gratis": "El plan gratuito permite 100 solicitudes mensuales con límites de velocidad y sin soporte técnico prioritario."
+    "limite_gratis": "El plan gratuito permite realizar hasta 1,000 solicitudes de extracción mensuales con limitaciones en la profundidad del rastreo."
   },
   {
     "nombre": "StepShot",
-    "descripcion": "Plataforma que convierte flujos de trabajo reales en guías paso a paso automatizadas mediante IA.",
-    "precio": "Freemium",
+    "descripcion": "StepShot es una plataforma que utiliza IA para convertir flujos de trabajo reales en guías paso a paso automatizadas, mejorando la documentación y el onboarding de procesos internos.",
+    "precio": "Pago",
     "funciones": [
-      "Captura automática de procesos en tiempo real",
-      "Generación de guías visuales con capturas de pantalla",
-      "Edición y personalización de documentos",
-      "Compartir guías con equipos o clientes",
-      "Integración con herramientas de gestión de proyectos"
+      "Generación automática de guías paso a paso",
+      "Documentación visual de procesos empresariales",
+      "Automatización del onboarding de nuevos empleados",
+      "Integración con herramientas de gestión de conocimiento"
     ],
     "caracteristicas": [
-      "Interfaz drag-and-drop para edición",
-      "Soporte multilingüe en guías",
-      "Control de versiones y auditoría",
-      "Exportación a PDF, Word y formatos web",
-      "Análisis de eficiencia de procesos"
+      "Reconocimiento de acciones en pantalla mediante IA",
+      "Personalización de plantillas de guías",
+      "Exportación a múltiples formatos (PDF, HTML, Markdown)",
+      "Seguimiento y análisis del uso de las guías creadas"
     ],
-    "etica": "Garantiza la seguridad de los datos capturados mediante encriptación y cumplimiento de normativas de privacidad. Promueve la transparencia en el uso de la IA para documentación.",
-    "web": "https://stepshot.apponic.com/",
-    "tipo": "Documentación",
-    "compania": "StepShot LLC",
+    "etica": "StepShot se enfoca en proteger los datos capturados durante la generación de guías y promueve la transparencia en la automatización de procesos, evitando la sobre-reproducción de tareas sensibles.",
+    "web": "https://stepshot.app/",
+    "tipo": "Productividad",
+    "compania": "StepShot Inc.",
     "id": "stepshot-878b60",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-07",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2,
-    "intentos_web": 2,
-    "limite_gratis": "El plan gratuito permite crear hasta 5 guías mensuales con 10 pasos cada una, sin acceso a funciones avanzadas de colaboración."
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito",
+    "intentos_web": 1
   },
   {
     "nombre": "Mem0",
-    "descripcion": "Capa de memoria persistente para agentes de IA que permite almacenar y recuperar contextos a largo plazo.",
+    "descripcion": "Mem0 es una capa de memoria persistente diseñada para agentes de IA, que permite almacenar y recuperar contextos a largo plazo, mejorando la coherencia y continuidad en interacciones complejas.",
     "precio": "Freemium",
     "funciones": [
-      "Almacenamiento de memoria a largo plazo para agentes",
-      "Recuperación de contexto en conversaciones anteriores",
-      "Integración con frameworks de desarrollo de agentes",
-      "Gestión de historial de interacciones",
-      "Sincronización de memoria entre sesiones"
+      "Almacenamiento persistente de contextos de conversación",
+      "Recuperación inteligente de información histórica",
+      "Gestión de memoria a largo plazo para agentes autónomos",
+      "Sincronización de memoria entre sesiones y dispositivos"
     ],
     "caracteristicas": [
-      "Escalabilidad para grandes volúmenes de datos",
-      "API RESTful para integración sencilla",
-      "Cifrado de datos en reposo y en tránsito",
-      "Soporte para múltiples bases de datos",
-      "Herramientas de análisis de memoria"
+      "Indexación semántica para búsquedas precisas",
+      "Control de retención y expurgo de datos",
+      "Integración con marcos de trabajo de agentes de IA",
+      "Escalabilidad horizontal para despliegues empresariales"
     ],
-    "etica": "Protege la privacidad de los datos mediante encriptación y control de acceso. Fomenta el uso responsable de la memoria para evitar sesgos en decisiones de IA.",
+    "etica": "Mem0 está diseñada para respetar la privacidad de los datos de los usuarios y ofrecer controles claros sobre qué información se almacena y comparte, mitigando riesgos de exposición de datos sensibles.",
     "web": "https://mem0.ai/",
     "tipo": "Agentes IA",
-    "compania": "Mem0 Technologies",
+    "compania": "Mem0 AI",
     "id": "mem0-7d405e",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-07",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "intentos_auto": 2,
+    "pendiente_revision": false,
     "intentos_web": 2,
-    "limite_gratis": "El plan gratuito ofrece 1 GB de almacenamiento y 1000 operaciones de memoria mensuales, con limitaciones en escalabilidad."
+    "limite_gratis": "El plan gratuito permite almacenar hasta 1 GB de memoria y soporta hasta 1,000 operaciones de lectura/escritura mensuales."
   },
   {
     "nombre": "Hexis",
@@ -11235,7 +11223,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Hexis permite versionar y colaborar en las habilidades y contexto de agentes de IA mediante integración con Git, facilitando flujos de trabajo colaborativos.",
-    "web": "https://hexis.com",
+    "web": "https://hexis.live/",
     "funciones": [
       "Versionado de habilidades y contexto",
       "Integración directa con repositorios Git",
@@ -11257,7 +11245,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Shepherd",
@@ -11295,7 +11284,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Toolport ofrece un punto de conexión único (MCP) que permite a los agentes de IA acceder a múltiples herramientas de IA sin necesidad de integraciones individuales.",
-    "web": "https://toolport.io",
+    "web": "https://toolport.app/",
     "funciones": [
       "Unificación de APIs de diversos proveedores",
       "Enrutamiento inteligente de solicitudes",
@@ -11317,7 +11306,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Soloop",
@@ -11325,7 +11315,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Soloop es una plataforma approval-first que brinda a los fundadores individuales control total sobre el flujo de trabajo y las decisiones de sus agentes de IA.",
-    "web": "https://soloop.ai",
+    "web": "https://www.soloop.io/",
     "funciones": [
       "Aprobación explícita antes de cada acción del agente",
       "Visualización del flujo de trabajo en tiempo real",
@@ -11347,7 +11337,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Pokee-Isaac 28B",
@@ -11496,6 +11487,128 @@
     "id": "rindler-49bee6",
     "gratis": true,
     "pago": true,
+    "fecha_agregado": "2026-08-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Nitro 4.0",
+    "compania": "Nitro AI",
+    "tipo": "Traducción de IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de traducción híbrida que combina traductores expertos con flujos automatizados para agentes de IA, optimizando precisión y velocidad en múltiples idiomas.",
+    "web": "https://nitrotranslate.com",
+    "funciones": [
+      "Traducción automatizada con revisión humana",
+      "Integración con agentes de IA para flujos de trabajo",
+      "Soporte para múltiples idiomas y dialectos",
+      "Personalización de glosarios y terminología",
+      "Análisis de calidad y métricas de precisión"
+    ],
+    "caracteristicas": [
+      "Diseñado nativamente para agentes de IA",
+      "Escalabilidad para proyectos de cualquier tamaño",
+      "Interfaz intuitiva para colaboración entre humanos y máquinas",
+      "API RESTful para integración con sistemas existentes",
+      "Cumplimiento de estándares de privacidad de datos"
+    ],
+    "etica": "Prioriza la privacidad de los datos traducidos y trabaja para minimizar sesgos lingüísticos mediante la revisión humana. Su impacto positivo incluye la democratización del acceso a contenido multilingüe.",
+    "limite_gratis": "El plan gratuito permite hasta 100 traducciones mensuales con revisión humana limitada.",
+    "id": "nitro-4-0-71dbbd",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-08",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "blurb.cam",
+    "compania": "Blurb Technologies",
+    "tipo": "Generación de imágenes",
+    "precio": "Freemium",
+    "descripcion": "Herramienta web que convierte fotos en personajes de la mitología griega usando modelos de difusión estilizados, ideal para crear arte personalizado.",
+    "web": "http://blurb.cam",
+    "funciones": [
+      "Transformación de fotos en personajes mitológicos",
+      "Estilos artísticos inspirados en la mitología griega",
+      "Generación de imágenes en alta resolución",
+      "Edición básica de atributos visuales",
+      "Descarga e integración con redes sociales"
+    ],
+    "caracteristicas": [
+      "Uso de modelos de difusión avanzados",
+      "Interfaz web sin necesidad de instalación",
+      "Biblioteca de plantillas mitológicas",
+      "Compatibilidad con dispositivos móviles",
+      "Opciones de personalización de colores y fondos"
+    ],
+    "etica": "Garantiza que las imágenes generadas no contengan contenido ofensivo o sesgado, y respeta los derechos de autor de las fotos subidas. Promueve la creatividad inclusiva.",
+    "limite_gratis": "El plan gratuito permite 5 transformaciones por mes con resolución limitada.",
+    "id": "blurb-cam-20e1a5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-08",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Coldtea.ai",
+    "descripcion": "Plataforma que automatiza tareas de desarrollo de software, permitiendo que las aplicaciones sean 'autodirigidas' mediante IA para pruebas, mantenimiento y optimización.",
+    "compania": "Coldtea AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Automatización de pruebas de software",
+      "Generación de código basada en requisitos",
+      "Monitoreo y alertas en tiempo real",
+      "Integración con pipelines de CI/CD",
+      "Análisis predictivo de fallos"
+    ],
+    "caracteristicas": [
+      "Compatibilidad con múltiples lenguajes de programación",
+      "Escalabilidad para equipos de desarrollo grandes",
+      "Interfaz de línea de comandos y API",
+      "Soporte para entornos cloud y locales",
+      "Documentación detallada y tutoriales"
+    ],
+    "etica": "Enfocada en la transparencia de los algoritmos y la seguridad de los datos, evitando sesgos en la generación de código. Su impacto incluye la reducción de errores humanos en desarrollo.",
+    "limite_gratis": "Sin plan gratuito; ofrece una versión de prueba de 14 días con funcionalidades limitadas.",
+    "web": "https://www.coldtea.ai/",
+    "id": "coldtea-ai-d63013",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AgentOne Desktop",
+    "descripcion": "Agente de IA de escritorio extensible y gratuito que automatiza tareas repetitivas, mejorando la productividad con flujos de trabajo personalizables.",
+    "compania": "AgentOne",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Automatización de tareas de escritorio",
+      "Creación de flujos de trabajo personalizados",
+      "Integración con aplicaciones de terceros",
+      "Soporte para scripts y macros",
+      "Interfaz visual intuitiva para configuración"
+    ],
+    "caracteristicas": [
+      "Código abierto y comunidad activa",
+      "Compatibilidad con Windows, macOS y Linux",
+      "Extensiones y plugins desarrollados por usuarios",
+      "Registro de actividades y auditoría",
+      "Actualizaciones regulares y gratuitas"
+    ],
+    "etica": "Promueve la privacidad al procesar datos localmente sin enviar información a servidores externos. Fomenta la inclusión al ser accesible para usuarios de todos los niveles técnicos.",
+    "limite_gratis": "El plan gratuito incluye todas las funciones básicas y actualizaciones continuas sin costo.",
+    "web": "https://www.agent-one.dev/",
+    "id": "agentone-desktop-6850c7",
+    "gratis": true,
+    "pago": false,
     "fecha_agregado": "2026-08-08",
     "auto_detectado": true,
     "pendiente_revision": false,
