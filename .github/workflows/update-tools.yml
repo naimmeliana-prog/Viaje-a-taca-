@@ -1,9 +1,9 @@
 name: Actualizar herramientas IA
 on:
   schedule:
-    # Cada 2 días a las 04:00 UTC (~10:00 España).
+    # Cada 2 días a las 23:00 UTC (05:00 España).
     # La cuota gratuita se reinicia a medianoche del Pacífico.
-    - cron: "0 8 */2 * *"
+    - cron: "0 23 */2 * *"
   workflow_dispatch:
     inputs:
       modo_prueba:
