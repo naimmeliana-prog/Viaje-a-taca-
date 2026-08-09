@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-08-08T21:56:34Z",
+  "actualizado": "2026-08-09T23:23:28Z",
   "novedades": [
+    {
+      "titulo": "México se ha convertido en la gran fábrica para la IA. Solo China le supera",
+      "resumen": "La guerra de la IA se juega en varios frentes, que van desde la calidad de los modelos a las infraestructuras para ejecutarlos y por supuesto, disponer de la energía suficiente para alimentar a los datacenters. Pero hay ",
+      "enlace": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
+      "medio": "Xataka",
+      "fecha": "2026-08-09T16:31:15Z"
+    },
+    {
+      "titulo": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
+      "resumen": "Hace un par de semanas, OpenAI estaba probando las capacidades de ciberseguridad de dos de sus modelos de IA. Es un proceso rutinario, lo que no es tan habitual es que los modelos consiguieran escapar del entorno de prue",
+      "enlace": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
+      "medio": "Xataka",
+      "fecha": "2026-08-09T10:31:15Z"
+    },
+    {
+      "titulo": "El fundador de Anthropic no quiere títulos para sus hijos. Prefiere que aprendan algo más valioso: creatividad y curiosidad",
+      "resumen": "La inteligencia artificial está modelando el presente a un ritmo tan frenético que apenas podemos darnos cuenta de que aquello que hasta hace solo unos años era imprescindible, en un futuro muy cercano será totalmente ac",
+      "enlace": "https://www.xataka.com/robotica-e-ia/fundador-anthropic-no-quiere-titulos-para-sus-hijos-prefiere-que-aprendan-algo-valioso-creatividad-curiosidad",
+      "medio": "Xataka",
+      "fecha": "2026-08-09T07:31:15Z"
+    },
     {
       "titulo": "La IA ha creado un virus que la naturaleza no había creado antes. Son (sobre todo) buenas noticias",
       "resumen": "Un equipo de investigadores de Stanford y el Arc Institute ha utilizado los modelos genómicos Evo 1 y Evo 2 para diseñar genomas completos de bacteriófagos, es decir, virus que infectan vacterias. Los responsables del ex",
@@ -58,13 +79,6 @@
       "fecha": "2026-08-07T07:00:51Z"
     },
     {
-      "titulo": "\"Estamos cerca que la IA resuelva un problema y los humanos no puedan explicarlo\": los matemáticos opinan sobre la IA",
-      "resumen": "Los modelos de IA han demostrado que pueden resolver problemas matemáticos que llevan décadas sin solución, pero ¿qué pasa si ningún matemático humano entiende realmente cómo lo ha solucionado? Esa es la posibilidad que ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/estamos-cerca-que-ia-resuelva-problema-humanos-no-puedan-explicarlo-matematicos-opinan-ia",
-      "medio": "Xataka",
-      "fecha": "2026-08-06T16:30:53Z"
-    },
-    {
       "titulo": "Regulación de la IA: el choque entre Europa, EEUU y China",
       "resumen": "Estamos ante una división tecnológica que está partiendo el mercado global en tres bloques irreconciliables. Si hoy despliegas un sistema de inteligencia artificial en Europa y cruzas una línea roja, por su regulación de",
       "enlace": "https://blogthinkbig.com/regulacion-inteligencia-artificial-europa-eeuu-china",
@@ -72,25 +86,11 @@
       "fecha": "2026-08-06T16:00:00Z"
     },
     {
-      "titulo": "Irlanda se ha llenado de centros de datos. Y ahora está descubriendo que el 23% de toda su energía va para ellos",
-      "resumen": "La actualidad tecnológica pasa por dos velocidades. Por un lado, las Big Tech y startups de IA están apostando por la construcción masiva de gigantescos centros de datos. Realizan inversiones milmillonarias para ello y h",
-      "enlace": "https://www.xataka.com/energia/pais-europa-esta-descubriendo-que-significa-llenarlo-todo-centros-datos-entregarles-23-tu-energia",
-      "medio": "Xataka",
-      "fecha": "2026-08-06T15:30:00Z"
-    },
-    {
       "titulo": "Meta entra en la carrera de la programación con IA, pero paga con tu código",
       "resumen": "Meta ha lanzado su primera herramienta de programación con inteligencia artificial. Se llama Muse Code y llega en un momento en el que gigantes como Microsoft, Google, OpenAI y Anthropic ya se disputan a los [&#8230;] Me",
       "enlace": "https://blogthinkbig.com/meta-entra-en-la-carrera-de-la-programacion-con-ia-pero-paga-con-tu-codigo",
       "medio": "Think Big",
       "fecha": "2026-08-06T14:21:49Z"
-    },
-    {
-      "titulo": "¿Te va a quitar la IA el trabajo? Nosotros no lo sabemos, pero hay millones de empleados en China que sí lo saben",
-      "resumen": "Durante años, la amenaza de que la inteligencia artificial sustituyera a los trabajadores sonó como un debate sobre el futuro. Ocurre que, en algunas ciudades de China, ese futuro ya ha llegado o está rozándolo con los d",
-      "enlace": "https://www.xataka.com/magnet/pregunta-ia-te-va-a-quitar-trabajo-muchos-trabajadores-china-conocen-respuesta-peor-forma",
-      "medio": "Xataka",
-      "fecha": "2026-08-06T11:30:00Z"
     },
     {
       "titulo": "6 de cada 10 usuarios rechazan a las marcas que utilizan la IA en el posicionamiento de sus mensajes",

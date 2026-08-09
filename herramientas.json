@@ -11613,5 +11613,429 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
+  },
+  {
+    "nombre": "Soup CLI",
+    "compania": "Open Source",
+    "tipo": "Afinado de modelos",
+    "precio": "Gratuito",
+    "descripcion": "CLI de línea de comandos que permite afinar modelos de lenguaje de hasta 8 B en GPUs de 4 GB, ideal para desarrolladores con recursos limitados.",
+    "web": "https://github.com/soup-cli/soup-cli",
+    "funciones": [
+      "Afinar modelos de lenguaje",
+      "Soporte para GPUs de bajo consumo",
+      "Interfaz de línea de comandos",
+      "Configuración de hiperparámetros",
+      "Exportación de checkpoints"
+    ],
+    "caracteristicas": [
+      "Funciona en GPUs de 4 GB",
+      "Modelos de hasta 8 B parámetros",
+      "Código abierto",
+      "Sin dependencias externas",
+      "Documentación clara"
+    ],
+    "etica": "Los datos de entrenamiento permanecen locales y no se comparten sin consentimiento del usuario. No hay sesgos inherentes, pero la calidad depende de los datos usados.",
+    "limite_gratis": "El plan gratuito permite afinar modelos de hasta 8 B en GPUs de 4 GB sin coste, sin límite de tiempo.",
+    "id": "soup-cli-bef66c",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "WeatherNext",
+    "compania": "Open Source",
+    "tipo": "Predicción meteorológica",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de código abierto que predice trayectorias e intensidad de ciclones con precisión comparable a modelos operativos, usando datos de baja resolución.",
+    "web": "https://github.com/deepmind/weathernext",
+    "funciones": [
+      "Predicción de trayectoria de ciclones",
+      "Estimación de intensidad",
+      "Análisis de datos de baja resolución",
+      "Integración con APIs meteorológicas",
+      "Visualización de resultados"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Alto rendimiento con datos escasos",
+      "Precisión comparable a operativos",
+      "Modular y extensible",
+      "Documentación completa"
+    ],
+    "etica": "Los datos meteorológicos son públicos y no implican información personal, por lo que la privacidad no es un problema. El modelo puede replicar sesgos de los datos de entrenamiento, pero su impacto es limitado.",
+    "limite_gratis": "El plan gratuito ofrece acceso ilimitado al modelo y a sus APIs, sin coste ni restricciones de uso.",
+    "id": "weathernext-5cbb48",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Meetily",
+    "compania": "Open Source",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "Aplicación de código abierto que transcribe y resume reuniones en tiempo real sin requerir suscripción.",
+    "web": "https://meetily.com",
+    "funciones": [
+      "Transcripción en tiempo real",
+      "Resumen automático de reuniones",
+      "Detección de temas clave",
+      "Exportación a texto",
+      "Integración con calendarios"
+    ],
+    "caracteristicas": [
+      "Sin necesidad de cuenta",
+      "Funciona offline",
+      "Modelo de lenguaje integrado",
+      "Interfaz sencilla",
+      "Código abierto"
+    ],
+    "etica": "Los datos de las reuniones se procesan localmente, protegiendo la privacidad. No se recopilan datos de usuarios sin su consentimiento.",
+    "limite_gratis": "El plan gratuito permite transcribir y resumir reuniones ilimitadas, con almacenamiento local y sin límite de tiempo.",
+    "id": "meetily-657337",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Argos",
+    "compania": "Argos AI",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "descripcion": "Asistente personal dentro del navegador que ofrece contexto y automatiza tareas cotidianas.",
+    "web": "https://argos.ai",
+    "funciones": [
+      "Proporciona contexto de página",
+      "Automatiza tareas repetitivas",
+      "Responde preguntas en tiempo real",
+      "Integra extensiones",
+      "Sincroniza preferencias"
+    ],
+    "caracteristicas": [
+      "Operación totalmente en el navegador",
+      "Sin instalación adicional",
+      "Personalizable",
+      "Soporte multilingüe",
+      "Actualizaciones frecuentes"
+    ],
+    "etica": "Los datos de interacción pueden enviarse a servidores externos, lo que plantea riesgos de privacidad. Posible sesgo en recomendaciones según datos de entrenamiento.",
+    "limite_gratis": "El plan gratuito incluye acceso básico al asistente con limitaciones en funciones avanzadas y almacenamiento.",
+    "id": "argos-13b9ba",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AgentConnect",
+    "compania": "AgentConnect",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que permite etiquetar y buscar agentes en cualquier flujo de trabajo, facilitando la gestión de tareas automatizadas.",
+    "web": "https://agentconnect.io",
+    "funciones": [
+      "Etiquetado de agentes",
+      "Búsqueda semántica de agentes",
+      "Gestión de flujos de trabajo",
+      "Integración con APIs",
+      "Control de versiones"
+    ],
+    "caracteristicas": [
+      "Interfaz visual para agentes",
+      "Soporte multi‑plataforma",
+      "Escalabilidad",
+      "Documentación API",
+      "Compatibilidad con LangChain"
+    ],
+    "etica": "Los agentes pueden acceder a datos de usuarios, requiriendo controles de privacidad. Posible sesgo si los agentes están entrenados con datos sesgados.",
+    "limite_gratis": "El plan gratuito permite crear y gestionar hasta 5 agentes con acceso limitado a funciones avanzadas.",
+    "id": "agentconnect-ae0693",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "TechShark",
+    "compania": "TechShark",
+    "tipo": "Información",
+    "precio": "Gratuito",
+    "descripcion": "Directorio comunitario que recopila, compara y documenta herramientas AI emergentes.",
+    "web": "https://techshark.com",
+    "funciones": [
+      "Recopila información de herramientas",
+      "Compara funcionalidades",
+      "Documenta casos de uso",
+      "Filtra por categoría",
+      "Actualiza novedades"
+    ],
+    "caracteristicas": [
+      "Contenido generado por la comunidad",
+      "Actualizaciones frecuentes",
+      "Búsqueda avanzada",
+      "Valoración de usuarios",
+      "Acceso sin registro"
+    ],
+    "etica": "Los datos provienen de fuentes públicas y no incluyen información personal. La curación comunitaria puede introducir sesgos en la selección de herramientas.",
+    "limite_gratis": "El acceso gratuito ofrece búsqueda ilimitada y documentación completa sin registro.",
+    "id": "techshark-764aef",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Langfuse",
+    "compania": "Langfuse",
+    "tipo": "Observabilidad de IA",
+    "precio": "Freemium",
+    "descripcion": "Herramienta que registra, rastrea y evalúa el rendimiento de modelos de lenguaje en producción.",
+    "web": "https://langfuse.com",
+    "funciones": [
+      "Registro de trazas de inferencia",
+      "Métricas de latencia y precisión",
+      "Evaluación de drift",
+      "Dashboard de métricas",
+      "Exportación de datos"
+    ],
+    "caracteristicas": [
+      "Integración sencilla con SDK",
+      "Soporte para múltiples proveedores",
+      "Visualización en tiempo real",
+      "Alertas de anomalías",
+      "Código abierto parcial"
+    ],
+    "etica": "Los datos de uso pueden contener información sensible, requiriendo anonimización. El monitoreo puede revelar sesgos en el modelo si no se controla.",
+    "limite_gratis": "El plan gratuito permite registrar hasta 1 000 trazas mensuales con almacenamiento limitado.",
+    "id": "langfuse-bb14b5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "LangSmith",
+    "compania": "LangSmith",
+    "tipo": "Observabilidad de IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que permite monitorizar, depurar y mejorar modelos de lenguaje en entornos de producción.",
+    "web": "https://www.langsmith.com",
+    "funciones": [
+      "Monitoreo de latencia y errores",
+      "Depuración de prompts",
+      "Gestión de versiones",
+      "Análisis de drift",
+      "Integración con CI/CD"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Soporte para OpenAI y Anthropic",
+      "Alertas configurables",
+      "Exportación de logs",
+      "Documentación extensa"
+    ],
+    "etica": "Los datos de producción pueden exponer información confidencial, exigiendo medidas de privacidad. El monitoreo continuo puede revelar sesgos si no se supervisa.",
+    "limite_gratis": "El plan gratuito incluye 5 000 eventos de monitoreo al mes y almacenamiento básico.",
+    "id": "langsmith-e72211",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Braintrust",
+    "compania": "Braintrust",
+    "tipo": "IA Ops",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de IA ops que monitorea el rendimiento y la seguridad de los modelos de lenguaje.",
+    "web": "https://braintrust.ai",
+    "funciones": [
+      "Monitoreo de latencia y precisión",
+      "Detección de vulnerabilidades",
+      "Gestión de políticas de seguridad",
+      "Reportes de cumplimiento",
+      "Integración con pipelines"
+    ],
+    "caracteristicas": [
+      "Dashboard de métricas",
+      "Alertas en tiempo real",
+      "Control de acceso granular",
+      "Soporte multi‑modelo",
+      "Código abierto parcial"
+    ],
+    "etica": "Collects usage data that may include personal information, requiring consent. Potential bias detection helps mitigate unfair outcomes.",
+    "limite_gratis": "El plan gratuito permite monitorear hasta 2 000 solicitudes diarias con alertas básicas.",
+    "id": "braintrust-ac6093",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Arize",
+    "compania": "Arize",
+    "tipo": "IA Ops",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de IA ops que detecta drift, sesgo y anomalías en modelos de lenguaje.",
+    "web": "https://arize.com",
+    "funciones": [
+      "Detección de drift de datos",
+      "Identificación de sesgo",
+      "Análisis de anomalías",
+      "Panel de métricas",
+      "Integración con pipelines"
+    ],
+    "caracteristicas": [
+      "Soporte para varios frameworks",
+      "Alertas automáticas",
+      "Visualización de métricas",
+      "Exportación de informes",
+      "Código abierto limitado"
+    ],
+    "etica": "Procesa datos de producción que pueden incluir información personal, necesitando cumplimiento de privacidad. La detección de sesgo ayuda a reducir impactos discriminatorios.",
+    "limite_gratis": "El plan gratuito ofrece hasta 10 000 eventos de monitoreo mensuales con funcionalidades básicas.",
+    "id": "arize-ccd796",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Prompt Golf",
+    "descripcion": "Una herramienta de ingeniería de prompts diseñada para optimizar y evaluar la calidad de los prompts en modelos de IA.",
+    "compania": "Prompt Golf Inc.",
+    "tipo": "Generación de texto",
+    "precio": "Freemium",
+    "funciones": [
+      "Evaluación automática de prompts",
+      "Sugerencias para mejorar la claridad y precisión",
+      "Comparación de resultados entre diferentes prompts",
+      "Integración con modelos como GPT-4 o Claude",
+      "Modo competitivo para practicar habilidades de prompt"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva para usuarios de principiante a avanzado",
+      "Análisis en tiempo real de la efectividad del prompt",
+      "Comunidad para compartir y debatir estrategias",
+      "Soporte para múltiples idiomas",
+      "Modo offline para uso privado"
+    ],
+    "etica": "Prioriza la privacidad de los datos de usuarios y evita sesgos en la evaluación de prompts. No almacena información sensible sin consentimiento explícito.",
+    "limite_gratis": "El plan gratuito permite hasta 50 evaluaciones de prompts mensuales y acceso limitado a funciones avanzadas.",
+    "web": "https://promptgolf.app/",
+    "id": "prompt-golf-24cf81",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "DocsAlot CLI",
+    "descripcion": "Una herramienta de línea de comandos para generar y mantener documentación técnica con ayuda de IA como Claude o Codex.",
+    "compania": "DocsAlot Labs",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación automática de documentación en Markdown",
+      "Actualización de documentos basada en cambios en el código",
+      "Integración con modelos de lenguaje como GPT-4 o Claude",
+      "Soporte para múltiples lenguajes de programación",
+      "Exportación a formatos como PDF o HTML"
+    ],
+    "caracteristicas": [
+      "Interfaz basada en comandos para entornos de desarrollo",
+      "Personalización de plantillas de documentación",
+      "Sincronización con repositorios de código (GitHub, GitLab)",
+      "Modo encriptado para proteger información sensible",
+      "Compatibilidad con sistemas operativos Linux y macOS"
+    ],
+    "etica": "Garantiza la privacidad de los códigos fuente y datos de los usuarios. No comparte información con terceros sin autorización.",
+    "limite_gratis": "El plan gratuito permite hasta 100 líneas de documentación generadas mensualmente y funciones básicas de actualización.",
+    "web": "https://docsalot.dev/",
+    "id": "docsalot-cli-b81ad2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Papaya",
+    "descripcion": "Una aplicación móvil para registrar y compartir resúmenes privados de información sexual sin salir del dispositivo.",
+    "compania": "Papaya Health",
+    "tipo": "Salud",
+    "precio": "Gratuito",
+    "funciones": [
+      "Registro anónimo de datos sensibles",
+      "Generación de informes personalizados",
+      "Compartir resúmenes con profesionales de salud",
+      "Sincronización offline para uso sin conexión",
+      "Alertas personalizadas basadas en datos ingresados"
+    ],
+    "caracteristicas": [
+      "Cifrado de extremo a extremo para proteger datos",
+      "Sin publicidad ni ventas de información",
+      "Interfaz intuitiva y accesible",
+      "Soporte para múltiples idiomas",
+      "Actualizaciones automáticas de seguridad"
+    ],
+    "etica": "Diseñada con enfoque en la privacidad y confidencialidad. No almacena datos en servidores y evita sesgos en el procesamiento de información.",
+    "limite_gratis": "La herramienta es completamente gratuita con todas sus funciones básicas, aunque limita la cantidad de informes personalizados a 5 mensuales.",
+    "web": "https://papaya-app.com/",
+    "id": "papaya-6098d1",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Omniwork",
+    "descripcion": "Un sistema operativo basado en agentes de IA para optimizar flujos de trabajo creativos y productivos en entornos de escritorio.",
+    "compania": "Omniwork AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Automatización de tareas repetitivas",
+      "Coordinación entre múltiples agentes de IA",
+      "Integración con herramientas de productividad (Google Workspace, Microsoft 365)",
+      "Personalización de flujos de trabajo",
+      "Análisis de datos para optimizar eficiencia"
+    ],
+    "caracteristicas": [
+      "Interfaz visual para diseñar flujos de trabajo",
+      "Soporte para modelos de IA personalizados",
+      "Modo multiusuario para equipos colaborativos",
+      "Compatibilidad con sistemas operativos Windows, macOS y Linux",
+      "Actualizaciones constantes de agentes y funcionalidades"
+    ],
+    "etica": "Prioriza la transparencia en el uso de datos y evita sesgos en la automatización. Cumple con estándares de privacidad globales.",
+    "limite_gratis": "Sin plan gratuito. Ofrece una prueba de 14 días con acceso completo a todas las funciones.",
+    "web": "https://www.omniwork.ai/",
+    "id": "omniwork-faed74",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]
