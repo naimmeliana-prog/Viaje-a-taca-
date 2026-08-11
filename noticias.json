@@ -1,33 +1,103 @@
 {
-  "actualizado": "2026-08-09T23:23:28Z",
+  "actualizado": "2026-08-11T23:34:29Z",
   "novedades": [
     {
-      "titulo": "México se ha convertido en la gran fábrica para la IA. Solo China le supera",
-      "resumen": "La guerra de la IA se juega en varios frentes, que van desde la calidad de los modelos a las infraestructuras para ejecutarlos y por supuesto, disponer de la energía suficiente para alimentar a los datacenters. Pero hay ",
-      "enlace": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
+      "titulo": "Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando primero a otra persona de la lista",
+      "resumen": "Durante los últimos años nos hemos acostumbrado a pedirle cosas a una inteligencia artificial: que resuma un documento, busque información o nos ayude a tomar una decisión. Los agentes introducen un cambio bastante más p",
+      "enlace": "https://www.xataka.com/robotica-e-ia/usuario-le-pidio-a-su-agente-ia-que-le-reservase-hora-gimnasio-logro-expulsando-primero-a-otra-persona-lista",
       "medio": "Xataka",
-      "fecha": "2026-08-09T16:31:15Z"
+      "fecha": "2026-08-11T21:56:00Z"
     },
     {
-      "titulo": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
-      "resumen": "Hace un par de semanas, OpenAI estaba probando las capacidades de ciberseguridad de dos de sus modelos de IA. Es un proceso rutinario, lo que no es tan habitual es que los modelos consiguieran escapar del entorno de prue",
-      "enlace": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
+      "titulo": "El 2027 ni siquiera ha comenzado y la IA ya ha hecho de las suyas: todo apunta a que la DRAM y HBM del año ya se han vendido",
+      "resumen": "Cuando hablamos de la expansión de la inteligencia artificial solemos pensar en GPU, servidores y centros de datos. Pero detrás de toda esa infraestructura hay otro componente que desde hace tiempo está condicionando cad",
+      "enlace": "https://www.xataka.com/componentes/2027-siquiera-ha-comenzado-ia-ha-hecho-suyas-todo-apunta-a-que-dram-hbm-ano-se-han-vendido",
       "medio": "Xataka",
-      "fecha": "2026-08-09T10:31:15Z"
+      "fecha": "2026-08-11T19:31:15Z"
     },
     {
-      "titulo": "El fundador de Anthropic no quiere títulos para sus hijos. Prefiere que aprendan algo más valioso: creatividad y curiosidad",
-      "resumen": "La inteligencia artificial está modelando el presente a un ritmo tan frenético que apenas podemos darnos cuenta de que aquello que hasta hace solo unos años era imprescindible, en un futuro muy cercano será totalmente ac",
-      "enlace": "https://www.xataka.com/robotica-e-ia/fundador-anthropic-no-quiere-titulos-para-sus-hijos-prefiere-que-aprendan-algo-valioso-creatividad-curiosidad",
+      "titulo": "Nvidia acaba de lanzar su propio modelo de IA gratuito. Que lo haga justo ahora tiene todo el sentido",
+      "resumen": "Nvidia ha entrado en la carrera de la IA de código abierto con su propia arma. Y es que el gigante tecnológico ha anunciado recientemente el lanzamiento de Nemotron 3.5 Lightning, un modelo gratuito de pesos abiertos (op",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nvidia-acaba-lanzar-su-propio-modelo-ia-gratuito-que-haga-justo-ahora-tiene-todo-sentido",
       "medio": "Xataka",
-      "fecha": "2026-08-09T07:31:15Z"
+      "fecha": "2026-08-11T15:21:15Z"
     },
     {
-      "titulo": "La IA ha creado un virus que la naturaleza no había creado antes. Son (sobre todo) buenas noticias",
-      "resumen": "Un equipo de investigadores de Stanford y el Arc Institute ha utilizado los modelos genómicos Evo 1 y Evo 2 para diseñar genomas completos de bacteriófagos, es decir, virus que infectan vacterias. Los responsables del ex",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-ha-creado-virus-que-naturaleza-no-habia-creado-antes-todo-buenas-noticias",
+      "titulo": "Claude empieza a firmar lo que escribe: así funciona el nuevo marcado de contenido de Anthropic",
+      "resumen": "Llevas toda la tarde redactando un informe o un correo delicado. Terminas el borrador y se lo pasas a una lA para que pula un par de párrafos, revise la puntuación o elimine redundancias. Lo [&#8230;] Claude empieza a fi",
+      "enlace": "https://blogthinkbig.com/marca-agua-claude-marcado-anthropic",
+      "medio": "Think Big",
+      "fecha": "2026-08-11T15:00:00Z"
+    },
+    {
+      "titulo": "Mark Zuckerberg se ha propuesto ser el único CEO no-apocalíptico y humanista de la IA. Otra cosa es que le creamos",
+      "resumen": "De las 6.578 palabras del manifiesto que ayer publicó Mark Zuckerberg, hay unas cuantas que se repiten de manera sospechosa. \"People\" lo hace 69 veces, \"superintelligence\" lo hace 54, \"power\" lo hace 37, y \"everyone\" lo ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-se-ha-propuesto-ser-unico-ceo-no-apocaliptico-humanista-ia-otra-cosa-que-le-creamos",
       "medio": "Xataka",
-      "fecha": "2026-08-07T15:45:15Z"
+      "fecha": "2026-08-11T13:45:16Z"
+    },
+    {
+      "titulo": "Los modelos abiertos de IA de China siempre han presumido de ser un absoluto chollo. Había gato encerrado",
+      "resumen": "Alibaba quiere dar un giro en la estrategia que ha estado siguiendo hasta la fecha sobre sus modelos de IA. Y es que tal y como ha adelantado Reuters, el gigante chino pretende pedir a los grandes usuarios comerciales de",
+      "enlace": "https://www.xataka.com/robotica-e-ia/modelos-abiertos-ia-china-siempre-han-presumido-ser-absoluto-chollo-habia-gato-encerrado",
+      "medio": "Xataka",
+      "fecha": "2026-08-11T13:01:16Z"
+    },
+    {
+      "titulo": "Claude va a dejar una marca invisible en todo lo que escriba. El problema es que ni siquiera demuestra que lo haya escrito Claude",
+      "resumen": "Anthropic ha indicado que los modelos lanzados en la Unión Europea desde el 2 de agosto incorporarán una marca invisible en los textos que generen desde el primer día, y la compañía aplicará el sistema globalmente en Cla",
+      "enlace": "https://www.xataka.com/robotica-e-ia/claude-va-a-dejar-marca-invisible-todo-que-escriba-problema-que-siquiera-demuestra-que-haya-escrito-claude",
+      "medio": "Xataka",
+      "fecha": "2026-08-11T11:15:15Z"
+    },
+    {
+      "titulo": "\"El 99% de mi tráfico ahora es de bots\": la IA sigue llevándoselo todo de internet",
+      "resumen": "Nick Gray, creador de PatronView, lleva año y medio analizando el impacto de los bots de IA en su web. En una sola semana su servidor sirvió 1,28 millones de páginas, mientras que las visitas verdaderas fueron 5.977. La ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/99-mi-trafico-ahora-bots-ia-sigue-llevandoselo-todo-internet-hay-formas-contraatacar",
+      "medio": "Xataka",
+      "fecha": "2026-08-11T11:01:16Z"
+    },
+    {
+      "titulo": "El 47 % de las empresas desconoce el uso que hacen sus empleados de las herramientas de inteligencia artificial",
+      "resumen": "Una encuesta de Bitdefender sitúa los riesgos de la IA, la ocultación de brechas de seguridad y la soberanía de los datos entre los principales desafíos para las organizaciones L'articolo El 47 % de las empresas desconoc",
+      "enlace": "https://www.computing.es/seguridad/los-empleados-aceptan-a-la-ia-como-companera-pero-no-como-jefa-segun-un-informe-global-de-workday/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-11T10:03:00Z"
+    },
+    {
+      "titulo": "Ser el más malote de la clase parece el marketing perfecto para la IA. Admitir que tu modelo hackeó a otra empresa sale caro",
+      "resumen": "Cuando OpenAI admitió que su IA se había pasado de la raya sentó una especie de precedente: el de las empresas de IA constatando que su producto puede escaparse del control. Detrás vino Anthropic, también Meta. No solo e",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ser-malote-clase-parece-marketing-perfecto-para-ia-admitir-que-tu-modelo-hackeo-a-otra-empresa-sale-caro",
+      "medio": "Xataka",
+      "fecha": "2026-08-11T08:01:16Z"
+    },
+    {
+      "titulo": "Lo que se está construyendo en España mientras hablamos de inteligencia artificial",
+      "resumen": "España se ha convertido en uno de los destinos favoritos para construir la infraestructura física que necesita la inteligencia artificial. Naves enormes llenas de servidores, con mucha energía y mucha agua detrás. Los pr",
+      "enlace": "https://blogthinkbig.com/lo-que-se-esta-construyendo-en-espana-mientras-hablamos-de-inteligencia-artificial",
+      "medio": "Think Big",
+      "fecha": "2026-08-11T07:26:39Z"
+    },
+    {
+      "titulo": "SpaceX quiere desplegar 10 GW de IA en apenas un año. SemiAnalysis ha hecho las cuentas y dice que no es una locura",
+      "resumen": "Elon Musk suele plantear objetivos imposibles, pero este se sale incluso de sus estándares. SpaceX (o más bien, SpaceXAI) aspira a añadir entre 6 y 8 GW de capacidad de cómputo para IA solo durante 2027, lo que la permit",
+      "enlace": "https://www.xataka.com/robotica-e-ia/spacex-quiere-desplegar-10-gw-ia-apenas-ano-semianalysis-ha-hecho-cuentas-dice-que-no-locura",
+      "medio": "Xataka",
+      "fecha": "2026-08-11T06:01:15Z"
+    },
+    {
+      "titulo": "Meta quiere plantar cara a OpenAI y Google con un arma muy particular: una IA potente que funciona offline en tu ordenador",
+      "resumen": "Nos hemos acostumbrado a utilizar modelos de inteligencia artificial sin pensar demasiado en dónde están funcionando. Escribimos una pregunta desde el móvil o el ordenador, pero buena parte del cálculo ocurre en centros ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
+      "medio": "Xataka",
+      "fecha": "2026-08-10T19:31:18Z"
+    },
+    {
+      "titulo": "El 73% de los responsables de TI en España afirma que la falta de infraestructura frena el avance de la IA",
+      "resumen": "El informe de streaming de datos 2026 de Confluent revela que España se sitúa entre los mercados donde la brecha de infraestructura amenaza con frenar el potencial de la inteligencia artificial L'articolo El 73% de los r",
+      "enlace": "https://www.computing.es/infraestructuras/falta-una-estrategia-solida-sobre-inteligencia-artificial/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-10T10:00:00Z"
     },
     {
       "titulo": "Cámaras Flock Safety: la IA que industrializó la vigilancia",
@@ -35,48 +105,6 @@
       "enlace": "https://blogthinkbig.com/camaras-flock-safety-vigilancia-masiva-ia",
       "medio": "Think Big",
       "fecha": "2026-08-07T14:00:00Z"
-    },
-    {
-      "titulo": "Tener chips propios de IA es la última gran obsesión de las grandes tecnológicas. Anthropic no va a ser menos",
-      "resumen": "Anthropic ha confirmado que está montando un equipo interno para diseñar sus propios chips de inteligencia artificial. La compañía lo ha comunicado a varios medios tras varios meses de especulación en torno al tema. Bajo",
-      "enlace": "https://www.xataka.com/robotica-e-ia/tener-chips-propios-ia-ultima-gran-obsesion-grandes-tecnologicas-anthropic-no-va-a-ser",
-      "medio": "Xataka",
-      "fecha": "2026-08-07T13:31:16Z"
-    },
-    {
-      "titulo": "ChatGPT da más razones para no pagar: OpenAI lo hace ilimitado en el plan gratuito, la trampa está en el asterisco",
-      "resumen": "La moda en los modelos de IA está en corromper a otras empresas con modelos que se saltan los guardarraíles. Este “marketing” le viene perfecto a empresas como Anthropic y OpenAI, ya que les permite colocar los LLMs más ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/chatgpt-da-razones-para-no-pagar-openai-hace-ilimitado-plan-gratuito-trampa-esta-asterisco",
-      "medio": "Xataka",
-      "fecha": "2026-08-07T13:15:16Z"
-    },
-    {
-      "titulo": "El \"iPhone de la IA\" de OpenAI no será un iPhone: será un dispositivo sin pantalla y con forma de donut, según Bloomberg",
-      "resumen": "OpenAI lleva más de un año hablando de su nueva ambición: la de crear el primer gran dispositivo hardware de la era de la IA. En Bloomberg tienen ahora más datos sobre ese producto. Hablan de un diseño sin pantalla, con ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/iphone-ia-openai-no-sera-iphone-sera-dispositivo-pantalla-forma-donut-bloomberg",
-      "medio": "Xataka",
-      "fecha": "2026-08-07T12:45:16Z"
-    },
-    {
-      "titulo": "“DeepMind ya no es un laboratorio frontera”: los expertos de SemiAnalysis creen que Google ganará la IA aunque Gemini pierda",
-      "resumen": "Los expertos de SemiAnalysis no se han mordido la lengua a la hora de hablar de Google. Para ellos DeepMind ha dejado de ser en la práctica un laboratorio frontera. Citan la salida de figuras como Jeff Dean, Sanjay Ghema",
-      "enlace": "https://www.xataka.com/robotica-e-ia/deepmind-no-laboratorio-frontera-expertos-semianalysis-creen-que-google-ganara-ia-gemini-pierda",
-      "medio": "Xataka",
-      "fecha": "2026-08-07T11:15:15Z"
-    },
-    {
-      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"ninguna persona a primera vista podría estar 100% segura de si es IA o no es IA\"",
-      "resumen": "A estas alturas, todos nos hemos visto en la situación de creernos una imagen, sólo para descubrir después que estaba hecha con IA. Esto ha creado una desconfianza colectiva, hasta el punto de hacernos dudar de todas las",
-      "enlace": "https://www.xataka.com/robotica-e-ia/daniel-pua-jefe-seguridad-magnific-ninguna-persona-a-primera-vista-podria-estar-100-segura-ia-no-ia",
-      "medio": "Xataka",
-      "fecha": "2026-08-07T11:00:52Z"
-    },
-    {
-      "titulo": "Empezó como un experimento para su abuelo y hoy se trata de uno de los dispositivos de IA más curiosos para personas mayores: así es Ato",
-      "resumen": "La idea de Ato nació con el fin de acercar la inteligencia artificial a personas mayores que nunca han llegado a adaptarse al móvil, las apps, o al vertiginoso mundo de Internet. Empezó como un proyecto personal de su fu",
-      "enlace": "https://www.xataka.com/robotica-e-ia/empezo-como-experimento-para-su-abuelo-hoy-se-trata-uno-dispositivos-ia-curiosos-para-personas-mayores-asi-ato",
-      "medio": "Xataka",
-      "fecha": "2026-08-07T07:00:51Z"
     },
     {
       "titulo": "Regulación de la IA: el choque entre Europa, EEUU y China",
@@ -105,20 +133,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-solo-ha-tenido-un-impacto-transformador-en-el-25-de-las-organizaciones/",
       "medio": "Computing.es",
       "fecha": "2026-08-05T07:05:44Z"
-    },
-    {
-      "titulo": "La DGT instala radares y cámaras con IA para vigilar el tráfico y mejorar su gestión",
-      "resumen": "La Agencia Tributaria y la Dirección General de Tráfico son, posiblemente, dos de las agencias gubernamentales españolas que más críticas reciben. Principalmente, por motivos pecuniarios. Es decir, tener que pagar multas",
-      "enlace": "https://blogthinkbig.com/radares-camaras-ia-inteligencia-artificial-dgt-trafico",
-      "medio": "Think Big",
-      "fecha": "2026-08-04T09:27:05Z"
-    },
-    {
-      "titulo": "El AI Act se empieza a aplicar y este es el primer afectado",
-      "resumen": "Un departamento de marketing lanza un chatbot para agilizar la atención al cliente. En la planta de arriba, alguien de recursos humanos usa un copiloto ofimático para filtrar la montaña de currículums de la semana. [&#82",
-      "enlace": "https://blogthinkbig.com/ley-ia-europea-transparencia-empresas",
-      "medio": "Think Big",
-      "fecha": "2026-08-04T08:00:15Z"
     },
     {
       "titulo": "Ni la subida de precio frena el desastre: el MacBook Air M5 se queda sin stock por la crisis de componentes",
@@ -196,20 +210,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/javier-martinez-google-cloud-estamos-pasando-de-un-mundo-de-aplicaciones-a-uno-de-agentes-inteligentes/",
       "medio": "Computing.es",
       "fecha": "2026-07-27T08:47:37Z"
-    },
-    {
-      "titulo": "La IA ya impulsa tres de cada diez tareas empresariales",
-      "resumen": "Un estudio de SAP y Oxford Economics muestra además la realidad del salto hacia los agentes inteligentes L'articolo La IA ya impulsa tres de cada diez tareas empresariales proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-ya-impulsa-tres-de-cada-diez-tareas-empresariales/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-24T07:15:00Z"
-    },
-    {
-      "titulo": "OpenAI y Hugging Face: Los agentes IA los carga el diablo",
-      "resumen": "La hiperautomatización puede generar riesgos para los que todavía no estamos preparados L'articolo OpenAI y Hugging Face: Los agentes IA los carga el diablo proviene da Computing.",
-      "enlace": "https://www.computing.es/seguridad/openai-y-hugging-face-los-agentes-ia-los-carga-el-diablo/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-23T10:35:01Z"
     }
   ],
   "etica": [
@@ -226,13 +226,6 @@
       "enlace": "https://blogthinkbig.com/regulacion-inteligencia-artificial-europa-eeuu-china",
       "medio": "Think Big",
       "fecha": "2026-08-06T16:00:00Z"
-    },
-    {
-      "titulo": "El AI Act se empieza a aplicar y este es el primer afectado",
-      "resumen": "Un departamento de marketing lanza un chatbot para agilizar la atención al cliente. En la planta de arriba, alguien de recursos humanos usa un copiloto ofimático para filtrar la montaña de currículums de la semana. [&#82",
-      "enlace": "https://blogthinkbig.com/ley-ia-europea-transparencia-empresas",
-      "medio": "Think Big",
-      "fecha": "2026-08-04T08:00:15Z"
     },
     {
       "titulo": "Conversaciones compartidas de Claude aparecen indexadas en Google.",
@@ -352,6 +345,13 @@
       "enlace": "https://www.genbeta.com/inteligencia-artificial/adolescente-creo-imagen-su-companera-desnuda-usando-ia-a-sus-padres-les-ha-caido-multa-2-000-euros",
       "medio": "Genbeta",
       "fecha": "2025-11-06T16:59:14Z"
+    },
+    {
+      "titulo": "Empiezan a salir a la luz las vulnerabilidades del navegador de ChatGPT en materia de seguridad y privacidad",
+      "resumen": "La llegada del navegador ChatGPT Atlas, lanzado recientemente por OpenAI para macOS (está previsto su lanzamiento también en otros SO), ha marcado un nuevo hito en la integración entre inteligencia artificial y navegació",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/empiezan-a-salir-a-luz-vulnerabilidades-navegador-chatgpt-materia-seguridad-privacidad",
+      "medio": "Genbeta",
+      "fecha": "2025-10-28T14:45:00Z"
     }
   ]
 }

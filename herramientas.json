@@ -11620,7 +11620,7 @@
     "tipo": "Afinado de modelos",
     "precio": "Gratuito",
     "descripcion": "CLI de línea de comandos que permite afinar modelos de lenguaje de hasta 8 B en GPUs de 4 GB, ideal para desarrolladores con recursos limitados.",
-    "web": "https://github.com/soup-cli/soup-cli",
+    "web": "https://trysoup.dev/",
     "funciones": [
       "Afinar modelos de lenguaje",
       "Soporte para GPUs de bajo consumo",
@@ -11642,7 +11642,8 @@
     "pago": false,
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "WeatherNext",
@@ -11650,7 +11651,7 @@
     "tipo": "Predicción meteorológica",
     "precio": "Gratuito",
     "descripcion": "Modelo de código abierto que predice trayectorias e intensidad de ciclones con precisión comparable a modelos operativos, usando datos de baja resolución.",
-    "web": "https://github.com/deepmind/weathernext",
+    "web": "https://deepmind.google/science/weathernext/",
     "funciones": [
       "Predicción de trayectoria de ciclones",
       "Estimación de intensidad",
@@ -11672,7 +11673,8 @@
     "pago": false,
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Meetily",
@@ -11680,7 +11682,7 @@
     "tipo": "Productividad",
     "precio": "Gratuito",
     "descripcion": "Aplicación de código abierto que transcribe y resume reuniones en tiempo real sin requerir suscripción.",
-    "web": "https://meetily.com",
+    "web": "https://meetily.ai/",
     "funciones": [
       "Transcripción en tiempo real",
       "Resumen automático de reuniones",
@@ -11702,7 +11704,8 @@
     "pago": false,
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Argos",
@@ -11710,7 +11713,7 @@
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "descripcion": "Asistente personal dentro del navegador que ofrece contexto y automatiza tareas cotidianas.",
-    "web": "https://argos.ai",
+    "web": "",
     "funciones": [
       "Proporciona contexto de página",
       "Automatiza tareas repetitivas",
@@ -11732,7 +11735,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "AgentConnect",
@@ -11770,7 +11774,7 @@
     "tipo": "Información",
     "precio": "Gratuito",
     "descripcion": "Directorio comunitario que recopila, compara y documenta herramientas AI emergentes.",
-    "web": "https://techshark.com",
+    "web": "https://techshark.io/",
     "funciones": [
       "Recopila información de herramientas",
       "Compara funcionalidades",
@@ -11792,7 +11796,8 @@
     "pago": false,
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Langfuse",
@@ -11860,7 +11865,7 @@
     "tipo": "IA Ops",
     "precio": "Freemium",
     "descripcion": "Plataforma de IA ops que monitorea el rendimiento y la seguridad de los modelos de lenguaje.",
-    "web": "https://braintrust.ai",
+    "web": "https://www.braintrust.dev/",
     "funciones": [
       "Monitoreo de latencia y precisión",
       "Detección de vulnerabilidades",
@@ -11882,7 +11887,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Arize",
@@ -12034,6 +12040,270 @@
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-08-09",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Gotcha",
+    "compania": "Desconocida",
+    "tipo": "Asistente de programación",
+    "precio": "Gratuito",
+    "descripcion": "Primer copiloto de IA para Android que responde a comandos de voz y ejecuta acciones directamente en el dispositivo.",
+    "web": "https://gotcha.ai",
+    "funciones": [
+      "Respuesta a comandos de voz",
+      "Ejecución de acciones en el móvil",
+      "Integración con servicios del sistema"
+    ],
+    "caracteristicas": [
+      "Diseñado exclusivamente para Android",
+      "Funciona offline tras descarga inicial",
+      "Interfaz intuitiva basada en voz"
+    ],
+    "etica": "Protege los datos del usuario mediante cifrado local y evita el envío de comandos sensibles a servidores externos.",
+    "limite_gratis": "El plan gratuito incluye acceso completo a la funcionalidad principal sin restricciones.",
+    "id": "gotcha-222526",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Octomind Cloud & Hub",
+    "compania": "Octomind",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que permite crear y gestionar agentes inteligentes sin necesidad de claves API ni configuración compleja.",
+    "web": "https://octomind.com",
+    "funciones": [
+      "Creación de agentes inteligentes",
+      "Gestión centralizada de múltiples agentes",
+      "Acceso a 27 modelos de lenguaje integrados"
+    ],
+    "caracteristicas": [
+      "Login único para todos los agentes",
+      "Configuración sin claves API",
+      "Escalabilidad en la nube"
+    ],
+    "etica": "Los agentes operan bajo políticas de privacidad estrictas y no almacenan datos personales sin consentimiento.",
+    "limite_gratis": "El plan gratuito ofrece hasta 5 agentes y 1000 llamadas mensuales.",
+    "id": "octomind-cloud---hub-98fd77",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "webAI TwIL‑LM",
+    "compania": "WebAI",
+    "tipo": "Generación de texto con razonamiento",
+    "precio": "Freemium",
+    "descripcion": "Familia de modelos 1.7 B y 3 B que traducen lenguaje natural a lógica de primer orden y verifican conclusiones.",
+    "web": "https://webai.com/twil-lm",
+    "funciones": [
+      "Traducción a lógica de primer orden",
+      "Verificación de conclusiones generadas",
+      "Optimización de respuestas mediante razonamiento"
+    ],
+    "caracteristicas": [
+      "Alta precisión en deducciones lógicas",
+      "Entrenamiento en corpus académico diverso",
+      "Soporte multilingüe"
+    ],
+    "etica": "Se diseña para minimizar sesgos y garantizar que las deducciones sean transparentes y auditables.",
+    "limite_gratis": "La versión gratuita brinda 500 consultas al mes y acceso a los modelos más pequeños.",
+    "id": "webai-twil-lm-81fd17",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Vizard Agent",
+    "compania": "Vizard",
+    "tipo": "Agenta de video",
+    "precio": "Freemium",
+    "descripcion": "Un agente único que cubre todas las tareas de video: edición, generación, resumen y mejora de calidad.",
+    "web": "https://vizard.ai",
+    "funciones": [
+      "Edición de videos con IA",
+      "Generación de contenido visual a partir de texto",
+      "Resumen automático de clips"
+    ],
+    "caracteristicas": [
+      "Cobertura completa del ciclo de producción de video",
+      "Integración con herramientas de postproducción",
+      "Mejora de calidad mediante super‑resolución"
+    ],
+    "etica": "Comprueba la autoría y evita la creación de deepfakes no autorizados.",
+    "limite_gratis": "El plan gratuito permite 30 minutos de procesamiento de video al día.",
+    "id": "vizard-agent-8cbe15",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Nvidia Nemotron 3.5 Lightning",
+    "compania": "NVIDIA",
+    "tipo": "Modelo de lenguaje",
+    "precio": "Pago",
+    "descripcion": "Modelo de 3.6 B parámetros optimizado para velocidad y rendimiento en GPUs Nvidia.",
+    "web": "https://developer.nvidia.com/nemotron-3-5-lightning",
+    "funciones": [
+      "Inferencia rápida en GPUs Nvidia",
+      "Procesamiento de secuencias largas",
+      "Compatibilidad con frameworks CUDA"
+    ],
+    "caracteristicas": [
+      "Rendimiento superior en inferencia",
+      "Consumo energético reducido",
+      "Escalabilidad en clusters de alta gama"
+    ],
+    "etica": "Se promueve el uso responsable para evitar aplicaciones malintencionadas como deepfakes.",
+    "limite_gratis": "No existe plan gratuito; el acceso está limitado a licencias comerciales pagadas.",
+    "id": "nvidia-nemotron-3-5-lightning-0be078",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "OctoBot",
+    "compania": "OctoBot",
+    "tipo": "Agentes IA / Trading",
+    "precio": "Freemium",
+    "descripcion": "Herramienta para construir, backtestear y optimizar estrategias de trading con análisis interactivo.",
+    "web": "https://octobot.io",
+    "funciones": [
+      "Construcción de estrategias de inversión",
+      "Backtesting interactivo",
+      "Optimización de parámetros"
+    ],
+    "caracteristicas": [
+      "Enfoque especializado en finanzas",
+      "Integración con APIs de mercados financieros",
+      "Visualización de resultados en tiempo real"
+    ],
+    "etica": "Incluye advertencias sobre riesgos financieros y protección de datos de transacciones.",
+    "limite_gratis": "El plan gratuito permite crear y probar una estrategia básica con 50 operaciones simuladas.",
+    "id": "octobot-d7b4c6",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Octomind Cloud and Hub",
+    "descripcion": "One login, zero API keys — cloud agents + 27 models.",
+    "compania": "Octomind",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión centralizada de agentes",
+      "Acceso directo a 27 modelos de lenguaje",
+      "Control de permisos sin claves"
+    ],
+    "caracteristicas": [
+      "Experiencia de usuario simplificada",
+      "Seguridad mediante autenticación única",
+      "Escalabilidad sin configuración manual"
+    ],
+    "etica": "Los agentes operan bajo políticas de privacidad y no exponen claves a terceros.",
+    "limite_gratis": "El plan gratuito incluye hasta 3 agentes y 2000 llamadas mensuales.",
+    "web": "https://octomind.run/",
+    "id": "octomind-cloud-and-hub-010eed",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Product Analytics for Agents and Users",
+    "descripcion": "Optimize Agent Actions with User Behavior.",
+    "compania": "Product Analytics",
+    "tipo": "Analítica de agentes",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis de comportamiento del usuario",
+      "Ajuste dinámico de acciones de los agentes",
+      "Generación de reportes de métricas"
+    ],
+    "caracteristicas": [
+      "Enfoque centrado en el usuario final",
+      "Automatización de insights",
+      "Integración con dashboards existentes"
+    ],
+    "etica": "Garantiza anonimización de datos y cumplimiento de normativas de protección de privacidad.",
+    "limite_gratis": "La versión gratuita permite analizar hasta 5 proyectos y 100 usuarios.",
+    "web": "https://www.producthunt.com/products/kubit",
+    "id": "product-analytics-for-agents-and-users-91e130",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "agent-manager",
+    "descripcion": "El faster workflow para desarrollar con IA.",
+    "compania": "AgentManager",
+    "tipo": "Gestor de agentes",
+    "precio": "Gratuito",
+    "funciones": [
+      "Gestión de pipelines de IA",
+      "Monitoreo de modelos en tiempo real",
+      "Despliegue automatizado"
+    ],
+    "caracteristicas": [
+      "Interfaz rápida y minimalista",
+      "Integración con flujos de trabajo CI/CD",
+      "Escalabilidad horizontal"
+    ],
+    "etica": "Promueve reproducibilidad y evita sesgos en la selección de modelos.",
+    "limite_gratis": "Acceso ilimitado a todas las funciones sin restricciones.",
+    "web": "https://www.sim.ai/",
+    "id": "agent-manager-7f5202",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Cerenovus",
+    "descripcion": "Proactivamente encuentra el dinero que su empresa está perdiendo.",
+    "compania": "Cerenovus",
+    "tipo": "Analítica financiera",
+    "precio": "Freemium",
+    "funciones": [
+      "Detección de pérdidas financieras",
+      "Análisis de flujo de caja",
+      "Recomendaciones de optimización"
+    ],
+    "caracteristicas": [
+      "Alta precisión predictiva",
+      "Alertas en tiempo real",
+      "Interoperabilidad con sistemas contables"
+    ],
+    "etica": "Protege la confidencialidad de los datos financieros y evita recomendaciones erróneas.",
+    "limite_gratis": "El plan gratuito ofrece informes básicos para hasta 10 empresas.",
+    "web": "https://www.cerenovus.ai/",
+    "id": "cerenovus-c53355",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
