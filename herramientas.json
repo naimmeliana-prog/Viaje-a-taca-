@@ -4216,7 +4216,7 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com/",
+    "web": "",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
@@ -11736,7 +11736,7 @@
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AgentConnect",
@@ -12076,7 +12076,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite crear y gestionar agentes inteligentes sin necesidad de claves API ni configuración compleja.",
-    "web": "https://octomind.com",
+    "web": "",
     "funciones": [
       "Creación de agentes inteligentes",
       "Gestión centralizada de múltiples agentes",
@@ -12094,7 +12094,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "webAI TwIL‑LM",
@@ -12102,7 +12103,7 @@
     "tipo": "Generación de texto con razonamiento",
     "precio": "Freemium",
     "descripcion": "Familia de modelos 1.7 B y 3 B que traducen lenguaje natural a lógica de primer orden y verifican conclusiones.",
-    "web": "https://webai.com/twil-lm",
+    "web": "",
     "funciones": [
       "Traducción a lógica de primer orden",
       "Verificación de conclusiones generadas",
@@ -12120,7 +12121,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Vizard Agent",
@@ -12154,7 +12156,7 @@
     "tipo": "Modelo de lenguaje",
     "precio": "Pago",
     "descripcion": "Modelo de 3.6 B parámetros optimizado para velocidad y rendimiento en GPUs Nvidia.",
-    "web": "https://developer.nvidia.com/nemotron-3-5-lightning",
+    "web": "",
     "funciones": [
       "Inferencia rápida en GPUs Nvidia",
       "Procesamiento de secuencias largas",
@@ -12172,7 +12174,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "OctoBot",
@@ -12252,7 +12255,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "agent-manager",
@@ -12304,6 +12307,130 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-11",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Phinq",
+    "descripcion": "Phinq actúa como una capa de seguridad y gobernanza que monitoriza y detiene agentes autónomos antes de que ejecuten acciones destructivas o no deseadas. Permite desplegar agentes con confianza estableciendo límites operativos claros.",
+    "compania": "Phinq",
+    "tipo": "Agentes IA / Seguridad",
+    "precio": "Freemium",
+    "funciones": [
+      "Intercepción de acciones de alto riesgo en tiempo real",
+      "Definición de políticas de seguridad personalizables (guardrails)",
+      "Auditoría completa de decisiones y ejecuciones del agente",
+      "Integración con frameworks de agentes populares (LangChain, AutoGen, etc.)",
+      "Modo 'simulación' para probar agentes sin efectos secundarios"
+    ],
+    "caracteristicas": [
+      "Latencia mínima en la verificación de acciones",
+      "Panel de control unificado para flotas de agentes",
+      "Alertas y notificaciones ante violaciones de política",
+      "Soporte para entornos locales y en la nube",
+      "API para integración en pipelines CI/CD"
+    ],
+    "etica": "Prioriza la seguridad y la alineación de la IA mediante el principio de 'humano en el bucle' automatizado, reduciendo el riesgo de sesgos operativos o acciones maliciosas sin almacenar datos sensibles del usuario más allá de los logs de auditoría necesarios.",
+    "limite_gratis": "El plan gratuito permite monitorizar hasta 5 agentes concurrentes con políticas básicas y retención de logs de 7 días.",
+    "web": "https://www.producthunt.com/products/phinq",
+    "id": "phinq-3a1e48",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pickle Browser",
+    "descripcion": "Pickle Browser proporciona un entorno de navegador visual, local y controlable diseñado específicamente para que los agentes de IA naveguen por la web, permitiendo al desarrollador ver y depurar cada paso en una ventana real.",
+    "compania": "Pickle",
+    "tipo": "Agentes IA / Herramientas de desarrollo",
+    "precio": "Freemium",
+    "funciones": [
+      "Ejecución de navegador local visible (headful) para agentes",
+      "Control remoto via API (CDP/Playwright/Puppeteer)",
+      "Grabación y reproducción de sesiones de navegación",
+      "Gestión de perfiles, cookies y almacenamiento local persistente",
+      "Inyección de scripts personalizados para interacción con el DOM"
+    ],
+    "caracteristicas": [
+      "Interfaz gráfica nativa para supervisión humana en tiempo real",
+      "Aislamiento de entorno para seguridad y reproducibilidad",
+      "Compatibilidad con automatización estándar (Playwright/CDP)",
+      "Ligero y optimizado para ejecución en segundo plano",
+      "Soporte multi-plataforma (Windows, Mac, Linux)"
+    ],
+    "etica": "Al ejecutarse localmente, garantiza la privacidad total de los datos de navegación y credenciales, evitando el envío de información sensible a servidores de terceros; su naturaleza transparente mitiga el uso malintencionado de scraping o automatización abusiva.",
+    "limite_gratis": "La versión gratuita permite sesiones ilimitadas en local con una única instancia de navegador simultánea y funciones de depuración estándar.",
+    "web": "https://www.producthunt.com/products/pickle-browser",
+    "id": "pickle-browser-345ee1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Human Behavior",
+    "descripcion": "Human Behavior transforma la analítica de producto pasiva en acción automatizada, utilizando IA para no solo reportar qué ocurrió, sino ejecutar respuestas operativas (contactar usuarios, ajustar features, alertar equipos) basadas en patrones de comportamiento.",
+    "compania": "Human Behavior",
+    "tipo": "Analítica de producto / IA Aplicada",
+    "precio": "Pago",
+    "funciones": [
+      "Detección automática de anomalías y patrones de uso (churn, activación, frustración)",
+      "Ejecución de 'playbooks' automatizados ante eventos clave",
+      "Segmentación dinámica y predictiva de usuarios",
+      "Integración bidireccional con herramientas de engagement (Braze, Intercom, Customer.io)",
+      "Generación de insights narrativos en lenguaje natural"
+    ],
+    "caracteristicas": [
+      "Motor de razonamiento causal para distinguir correlación de causalidad",
+      "Interfaz de 'copiloto' para analistas de producto",
+      "Cumplimiento estricto GDPR/CCPA en el procesamiento de eventos",
+      "Despliegue en nube privada (VPC) o SaaS gestionado",
+      "API para orquestación de flujos de trabajo personalizados"
+    ],
+    "etica": "Enfocado en 'Product Analytics Ética', evita el tracking invasivo innecesario y permite a los usuarios finales gestionar su consentimiento granularmente; los modelos se entrenan con datos agregados y anonimizados para prevenir sesgos discriminatorios en la segmentación automatizada.",
+    "limite_gratis": "Sin plan gratuito; ofrece prueba de concepto (PoC) guiada de 14 días con datos reales bajo NDA.",
+    "web": "https://www.producthunt.com/products/human-behavior",
+    "id": "human-behavior-1b8d7a",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-13",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ito",
+    "descripcion": "Ito es una herramienta de revisión de código impulsada por IA que se distingue por ejecutar realmente el código (tests, builds, simulaciones) en entornos efímeros para validar la corrección lógica, rendimiento y seguridad, más allá del análisis estático.",
+    "compania": "Ito",
+    "tipo": "Asistente de programación / Revisión de código",
+    "precio": "Freemium",
+    "funciones": [
+      "Ejecución automática de suites de pruebas en Pull Requests",
+      "Detección de regresiones de rendimiento y memoria",
+      "Análisis de seguridad dinámico (DAST ligero) en tiempo de revisión",
+      "Sugerencias de refactorización validadas por ejecución",
+      "Simulación de carga y casos borde (fuzzing) automatizado"
+    ],
+    "caracteristicas": [
+      "Entornos de ejecución aislados y efímeros (micro-VMs/containers)",
+      "Integración nativa con GitHub, GitLab y Bitbucket",
+      "Comentarios en línea en el diff con evidencia de ejecución (logs, screenshots)",
+      "Políticas de calidad configurables como 'quality gates' obligatorios",
+      "Soporte multi-lenguaje (Python, JS/TS, Go, Rust, Java, etc.)"
+    ],
+    "etica": "Procesa el código en entornos efímeros que se destruyen tras la revisión, sin persistir código propietario ni entrenar modelos con repositorios privados; minimiza falsos positivos sesgados al basar sus hallazgos en evidencia empírica de ejecución.",
+    "limite_gratis": "El plan gratuito incluye revisiones ilimitadas para repositorios públicos y hasta 500 minutos de ejecución/mes para repositorios privados.",
+    "web": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
+    "id": "ito-39e85b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-13",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

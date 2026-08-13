@@ -1,26 +1,103 @@
 {
-  "actualizado": "2026-08-11T23:34:29Z",
+  "actualizado": "2026-08-13T23:33:14Z",
   "novedades": [
+    {
+      "titulo": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
+      "resumen": "Europa sigue intentando reducir una distancia muy visible en inteligencia artificial: mientras Estados Unidos concentra alrededor de OpenAI, Google o Microsoft un ecosistema de modelos, productos e infraestructura a enor",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
+      "medio": "Xataka",
+      "fecha": "2026-08-13T20:31:15Z"
+    },
+    {
+      "titulo": "Gemini ya tiene 1.000 millones de usuarios al mes. La pregunta es cuántos saben que lo están usando",
+      "resumen": "Google ha anunciado que Gemini ha superado los 1.000 millones de usuarios activos mensuales, convirtiéndose en el producto de la empresa que más rápido ha crecido en la historia. Estos datos son reales, pero la letra peq",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gemini-tiene-1-000-millones-usuarios-al-mes-pregunta-cuantos-saben-que-estan-usando",
+      "medio": "Xataka",
+      "fecha": "2026-08-13T18:01:15Z"
+    },
+    {
+      "titulo": "Hasta ahora, toda la industria IA se ha financiado a sí misma de forma circular. Nvidia acaba de romper con esa dinámica",
+      "resumen": "En los últimos dos años, Nvidia se ha dedicado tanto a vender los picos y las palas del boom de la IA como, cada vez más, a prestar el dinero para comprarlos. Esta semana ha intentado algo diferente. Y es que en lugar de",
+      "enlace": "https://www.xataka.com/empresas-y-economia/ahora-toda-industria-ia-se-ha-financiado-a-forma-circular-nvidia-acaba-romper-esa-dinamica",
+      "medio": "Xataka",
+      "fecha": "2026-08-13T15:15:15Z"
+    },
+    {
+      "titulo": "Linus Torvalds, desarrollador y fundador de Linux, sobre dirigir su empresa hoy: \"Ya no soy programador\"",
+      "resumen": "Linus Torvalds creó el kernel Linux en 1991, pero 35 años después ya no se define como un programador que escribe código. Durante el Open Source Summit India 2026 explicó que apenas lee código del proyecto de código abie",
+      "enlace": "https://www.xataka.com/aplicaciones/no-soy-programador-linus-torvalds-explica-que-dirigir-linux-no-consiste-programar",
+      "medio": "Xataka",
+      "fecha": "2026-08-13T13:31:15Z"
+    },
+    {
+      "titulo": "Grok 4.6 acaba de entrar en el club de los mejores modelos del mundo. Y lo ha hecho compitiendo en precio",
+      "resumen": "Grok ya no está un escalón por debajo de OpenAI y Anthropic. Su nueva versión, Grok 4.6, acaba de alcanzar 61 puntos en el Intelligence Index de Artificial Analysis, la misma puntuación que GPT-5.6 Sol, y a apenas uno y ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/grok-4-6-acaba-entrar-club-mejores-modelos-mundo-ha-hecho-compitiendo-precio",
+      "medio": "Xataka",
+      "fecha": "2026-08-13T11:15:15Z"
+    },
+    {
+      "titulo": "El 90% de las empresas necesita mejorar la gestión de identidades para hacer frente a los riesgos de la IA agéntica",
+      "resumen": "El 58,7% de las compañías de Estados Unidos y Canadá afirma que se necesitan mejoras significativas o una revisión completa de su enfoque de gestión de identidades L'articolo El 90% de las empresas necesita mejorar la ge",
+      "enlace": "https://www.computing.es/seguridad/solucion-de-gestion-de-identidades-de-rsa/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-13T10:00:00Z"
+    },
+    {
+      "titulo": "La IA lleva a la alta dirección de las empresas a reconsiderar sus necesidades de oficina",
+      "resumen": "Seis de cada diez CEO y directores financieros (60%) consideran que los cambios tecnológicos, incluida la IA, hacen imposible prever cuánto espacio de oficina necesitarán dentro de dos años L'articolo La IA lleva a la al",
+      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-lleva-a-la-alta-direccion-de-las-empresas-a-reconsiderar-sus-necesidades-de-oficina/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-13T09:00:00Z"
+    },
+    {
+      "titulo": "La hipótesis de Riemann llevaba sin resolverse desde 1859. Claude tampoco lo consiguió, pero hizo algo más inquietante",
+      "resumen": "La hipótesis de Riemann lleva sin resolverse desde 1859, y de momento ni las mejores IAs del planeta pueden con ella. Anthropic acaba de intentarlo con un modelo experimental, y aunque el proyecto ha tenido una parte pos",
+      "enlace": "https://www.xataka.com/robotica-e-ia/claude-no-ha-resuelto-hipotesis-riemann-inquietante-que-consiguio-intentaba",
+      "medio": "Xataka",
+      "fecha": "2026-08-12T18:30:00Z"
+    },
+    {
+      "titulo": "La IA era absurdamente cara por el \"entrenamiento\". A partir de ahora lo será por algo distinto: la infraestructura",
+      "resumen": "Desde que ChatGPT empezó a ser lo que es y la IA comenzó a llegar a todo el mundo, ya que antes era algo reservado a la investigación en diferentes ámbitos, una palabra nos ha acompañado: entrenamiento. De ese entrenamie",
+      "enlace": "https://www.xataka.com/empresas-y-economia/inferencia-ia-gasta-que-entrenamiento-cambio-paradigma-sector-malo-para-ti",
+      "medio": "Xataka",
+      "fecha": "2026-08-12T15:00:00Z"
+    },
+    {
+      "titulo": "Google se llenó con cupones de descuento fantasma. Mi solución ha sido dejar de buscarlos y mandar a la IA de caza",
+      "resumen": "Como aficionado a los descuentos que soy, nunca compro nada importante por internet sin antes haber mirado si la tienda ofrecía algún tipo de cupón. El 10 % de nuevo usuario, la suscripción a la newsletter, el código de ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/yo-creaba-cupones-tienda-online-ahora-le-pido-a-ia-que-encuentre-que-otras-esconden",
+      "medio": "Xataka",
+      "fecha": "2026-08-12T13:00:00Z"
+    },
+    {
+      "titulo": "La industria IA necesitaba urgentemente abaratar costes para empezar a ser rentable. Y eso es lo que está sucediendo",
+      "resumen": "Casi todo sube de precio en nuestras vidas, pero no ocurre lo mismo con la IA: no solo no para de ser más capaz, sino que además usarla cada vez cuesta menos. Según datos de Silicon Data citados por Jefferies, el coste m",
+      "enlace": "https://www.xataka.com/robotica-e-ia/carrera-abajo-va-viento-popa-coste-usar-ia-se-ha-desplomado-43-poco-dos-meses",
+      "medio": "Xataka",
+      "fecha": "2026-08-12T11:30:00Z"
+    },
+    {
+      "titulo": "La IA se convierte en la principal vía de ahorro para el 81% de los CIO",
+      "resumen": "Según el último informe de LiceoTIC, la automatización de tareas administrativas, el soporte IT y la gestión documental serán las áreas con mayor impacto económico para las empresas L'articolo La IA se convierte en la pr",
+      "enlace": "https://www.computing.es/inteligencia-artificial/el-96-de-los-cio-en-espana-aumentara-el-gasto-en-ia-en-2024/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-12T09:55:00Z"
+    },
+    {
+      "titulo": "¿Que es Xirp? Una gran empresa se sube al tren de la IA",
+      "resumen": "Hay algo inquietante en darle acceso a tu código a un agente autónomo y dejarlo solo. Los asistentes actuales son rápidos y escriben una sintaxis impecable. El problema real estalla cuando toman decisiones que son [&#823",
+      "enlace": "https://blogthinkbig.com/xirp-agentes-ia",
+      "medio": "Think Big",
+      "fecha": "2026-08-12T08:17:29Z"
+    },
     {
       "titulo": "Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando primero a otra persona de la lista",
       "resumen": "Durante los últimos años nos hemos acostumbrado a pedirle cosas a una inteligencia artificial: que resuma un documento, busque información o nos ayude a tomar una decisión. Los agentes introducen un cambio bastante más p",
       "enlace": "https://www.xataka.com/robotica-e-ia/usuario-le-pidio-a-su-agente-ia-que-le-reservase-hora-gimnasio-logro-expulsando-primero-a-otra-persona-lista",
       "medio": "Xataka",
       "fecha": "2026-08-11T21:56:00Z"
-    },
-    {
-      "titulo": "El 2027 ni siquiera ha comenzado y la IA ya ha hecho de las suyas: todo apunta a que la DRAM y HBM del año ya se han vendido",
-      "resumen": "Cuando hablamos de la expansión de la inteligencia artificial solemos pensar en GPU, servidores y centros de datos. Pero detrás de toda esa infraestructura hay otro componente que desde hace tiempo está condicionando cad",
-      "enlace": "https://www.xataka.com/componentes/2027-siquiera-ha-comenzado-ia-ha-hecho-suyas-todo-apunta-a-que-dram-hbm-ano-se-han-vendido",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T19:31:15Z"
-    },
-    {
-      "titulo": "Nvidia acaba de lanzar su propio modelo de IA gratuito. Que lo haga justo ahora tiene todo el sentido",
-      "resumen": "Nvidia ha entrado en la carrera de la IA de código abierto con su propia arma. Y es que el gigante tecnológico ha anunciado recientemente el lanzamiento de Nemotron 3.5 Lightning, un modelo gratuito de pesos abiertos (op",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nvidia-acaba-lanzar-su-propio-modelo-ia-gratuito-que-haga-justo-ahora-tiene-todo-sentido",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T15:21:15Z"
     },
     {
       "titulo": "Claude empieza a firmar lo que escribe: así funciona el nuevo marcado de contenido de Anthropic",
@@ -30,34 +107,6 @@
       "fecha": "2026-08-11T15:00:00Z"
     },
     {
-      "titulo": "Mark Zuckerberg se ha propuesto ser el único CEO no-apocalíptico y humanista de la IA. Otra cosa es que le creamos",
-      "resumen": "De las 6.578 palabras del manifiesto que ayer publicó Mark Zuckerberg, hay unas cuantas que se repiten de manera sospechosa. \"People\" lo hace 69 veces, \"superintelligence\" lo hace 54, \"power\" lo hace 37, y \"everyone\" lo ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-se-ha-propuesto-ser-unico-ceo-no-apocaliptico-humanista-ia-otra-cosa-que-le-creamos",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T13:45:16Z"
-    },
-    {
-      "titulo": "Los modelos abiertos de IA de China siempre han presumido de ser un absoluto chollo. Había gato encerrado",
-      "resumen": "Alibaba quiere dar un giro en la estrategia que ha estado siguiendo hasta la fecha sobre sus modelos de IA. Y es que tal y como ha adelantado Reuters, el gigante chino pretende pedir a los grandes usuarios comerciales de",
-      "enlace": "https://www.xataka.com/robotica-e-ia/modelos-abiertos-ia-china-siempre-han-presumido-ser-absoluto-chollo-habia-gato-encerrado",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T13:01:16Z"
-    },
-    {
-      "titulo": "Claude va a dejar una marca invisible en todo lo que escriba. El problema es que ni siquiera demuestra que lo haya escrito Claude",
-      "resumen": "Anthropic ha indicado que los modelos lanzados en la Unión Europea desde el 2 de agosto incorporarán una marca invisible en los textos que generen desde el primer día, y la compañía aplicará el sistema globalmente en Cla",
-      "enlace": "https://www.xataka.com/robotica-e-ia/claude-va-a-dejar-marca-invisible-todo-que-escriba-problema-que-siquiera-demuestra-que-haya-escrito-claude",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T11:15:15Z"
-    },
-    {
-      "titulo": "\"El 99% de mi tráfico ahora es de bots\": la IA sigue llevándoselo todo de internet",
-      "resumen": "Nick Gray, creador de PatronView, lleva año y medio analizando el impacto de los bots de IA en su web. En una sola semana su servidor sirvió 1,28 millones de páginas, mientras que las visitas verdaderas fueron 5.977. La ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/99-mi-trafico-ahora-bots-ia-sigue-llevandoselo-todo-internet-hay-formas-contraatacar",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T11:01:16Z"
-    },
-    {
       "titulo": "El 47 % de las empresas desconoce el uso que hacen sus empleados de las herramientas de inteligencia artificial",
       "resumen": "Una encuesta de Bitdefender sitúa los riesgos de la IA, la ocultación de brechas de seguridad y la soberanía de los datos entre los principales desafíos para las organizaciones L'articolo El 47 % de las empresas desconoc",
       "enlace": "https://www.computing.es/seguridad/los-empleados-aceptan-a-la-ia-como-companera-pero-no-como-jefa-segun-un-informe-global-de-workday/",
@@ -65,32 +114,11 @@
       "fecha": "2026-08-11T10:03:00Z"
     },
     {
-      "titulo": "Ser el más malote de la clase parece el marketing perfecto para la IA. Admitir que tu modelo hackeó a otra empresa sale caro",
-      "resumen": "Cuando OpenAI admitió que su IA se había pasado de la raya sentó una especie de precedente: el de las empresas de IA constatando que su producto puede escaparse del control. Detrás vino Anthropic, también Meta. No solo e",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ser-malote-clase-parece-marketing-perfecto-para-ia-admitir-que-tu-modelo-hackeo-a-otra-empresa-sale-caro",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T08:01:16Z"
-    },
-    {
       "titulo": "Lo que se está construyendo en España mientras hablamos de inteligencia artificial",
       "resumen": "España se ha convertido en uno de los destinos favoritos para construir la infraestructura física que necesita la inteligencia artificial. Naves enormes llenas de servidores, con mucha energía y mucha agua detrás. Los pr",
       "enlace": "https://blogthinkbig.com/lo-que-se-esta-construyendo-en-espana-mientras-hablamos-de-inteligencia-artificial",
       "medio": "Think Big",
       "fecha": "2026-08-11T07:26:39Z"
-    },
-    {
-      "titulo": "SpaceX quiere desplegar 10 GW de IA en apenas un año. SemiAnalysis ha hecho las cuentas y dice que no es una locura",
-      "resumen": "Elon Musk suele plantear objetivos imposibles, pero este se sale incluso de sus estándares. SpaceX (o más bien, SpaceXAI) aspira a añadir entre 6 y 8 GW de capacidad de cómputo para IA solo durante 2027, lo que la permit",
-      "enlace": "https://www.xataka.com/robotica-e-ia/spacex-quiere-desplegar-10-gw-ia-apenas-ano-semianalysis-ha-hecho-cuentas-dice-que-no-locura",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T06:01:15Z"
-    },
-    {
-      "titulo": "Meta quiere plantar cara a OpenAI y Google con un arma muy particular: una IA potente que funciona offline en tu ordenador",
-      "resumen": "Nos hemos acostumbrado a utilizar modelos de inteligencia artificial sin pensar demasiado en dónde están funcionando. Escribimos una pregunta desde el móvil o el ordenador, pero buena parte del cálculo ocurre en centros ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
-      "medio": "Xataka",
-      "fecha": "2026-08-10T19:31:18Z"
     },
     {
       "titulo": "El 73% de los responsables de TI en España afirma que la falta de infraestructura frena el avance de la IA",
@@ -182,34 +210,6 @@
       "enlace": "https://www.computing.es/noticias/la-junta-de-castilla-la-mancha-adjudica-a-inetum-y-ecija-el-desarrollo-de-un-marco-corporativo-de-ia-publica/",
       "medio": "Computing.es",
       "fecha": "2026-07-29T10:21:11Z"
-    },
-    {
-      "titulo": "Sabíamos que Steve Jobs fue un visionario, pero no tanto. Se adelantó 40 años prediciendo cómo sería la inteligencia artificial",
-      "resumen": "Nunca sabremos en qué posición estaría hoy Apple en la carrera de la inteligencia artificial generativa, pero sí que su cofundador avanzó su importancia hace cuatro décadas. Steve Jobs predijo cómo estos modelos marcaría",
-      "enlace": "https://www.applesfera.com/curiosidades/sabiamos-que-steve-jobs-fue-visionario-no-se-adelanto-40-anos-prediciendo-como-seria-inteligencia-artificial-1",
-      "medio": "Applesfera",
-      "fecha": "2026-07-28T16:00:00Z"
-    },
-    {
-      "titulo": "Un reconocido analista augura el colapso de la inteligencia artificial y asegura que Apple \"lo verá arder\" desde la barrera",
-      "resumen": "Apple lleva un par de años cargando con la etiqueta de que llega tarde a la inteligencia artificial. Y en parte no le falta razón. No ha sido hasta ahora cuando por fin tenemos una Siri a la altura. Pero ni siquiera está",
-      "enlace": "https://www.applesfera.com/apple-1/reconocido-analista-augura-colapso-inteligencia-artificial-asegura-que-apple-vera-arder-barrera",
-      "medio": "Applesfera",
-      "fecha": "2026-07-28T14:01:36Z"
-    },
-    {
-      "titulo": "Empresas como Meta, Microsoft y Nvidia retan a EEUU para no prohibir los modelos de IA abiertos",
-      "resumen": "Los modelos de IA de pesos abiertos son sistemas cuyos parámetros se publican de forma gratuita para que cualquier usuario u organización puedan hacer uso de ellos L'articolo Empresas como Meta, Microsoft y Nvidia retan ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/empresas-como-meta-microsoft-y-nvidia-retan-a-eeuu-para-no-prohibir-los-modelos-de-ia-abiertos/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-28T07:15:00Z"
-    },
-    {
-      "titulo": "Javier Martínez (Google Cloud): «Estamos pasando de un mundo de aplicaciones a uno de agentes inteligentes»",
-      "resumen": "Javier Martínez, Head of Customer Engineering de Google Cloud para España y Portugal, analiza en esta entrevista el impacto de los recientes anuncios en Cloud Next y Google IO, destacando cómo la inteligencia artificial ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/javier-martinez-google-cloud-estamos-pasando-de-un-mundo-de-aplicaciones-a-uno-de-agentes-inteligentes/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-27T08:47:37Z"
     }
   ],
   "etica": [
