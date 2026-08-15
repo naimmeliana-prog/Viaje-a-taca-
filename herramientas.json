@@ -4216,14 +4216,14 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "",
+    "web": "https://cewsco.com/",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AI Slide Editor",
@@ -11713,7 +11713,7 @@
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "descripcion": "Asistente personal dentro del navegador que ofrece contexto y automatiza tareas cotidianas.",
-    "web": "",
+    "web": "https://data.argosmultilingual.com/",
     "funciones": [
       "Proporciona contexto de página",
       "Automatiza tareas repetitivas",
@@ -11736,7 +11736,7 @@
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "AgentConnect",
@@ -12076,7 +12076,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite crear y gestionar agentes inteligentes sin necesidad de claves API ni configuración compleja.",
-    "web": "",
+    "web": "https://octomind.dev/",
     "funciones": [
       "Creación de agentes inteligentes",
       "Gestión centralizada de múltiples agentes",
@@ -12095,7 +12095,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "webAI TwIL‑LM",
@@ -12103,7 +12103,7 @@
     "tipo": "Generación de texto con razonamiento",
     "precio": "Freemium",
     "descripcion": "Familia de modelos 1.7 B y 3 B que traducen lenguaje natural a lógica de primer orden y verifican conclusiones.",
-    "web": "",
+    "web": "https://www.webai.com/",
     "funciones": [
       "Traducción a lógica de primer orden",
       "Verificación de conclusiones generadas",
@@ -12122,7 +12122,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Vizard Agent",
@@ -12156,7 +12156,7 @@
     "tipo": "Modelo de lenguaje",
     "precio": "Pago",
     "descripcion": "Modelo de 3.6 B parámetros optimizado para velocidad y rendimiento en GPUs Nvidia.",
-    "web": "",
+    "web": "https://developer.nvidia.com/topics/ai/nemotron",
     "funciones": [
       "Inferencia rápida en GPUs Nvidia",
       "Procesamiento de secuencias largas",
@@ -12175,7 +12175,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OctoBot",
@@ -12255,7 +12255,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "agent-manager",
@@ -12333,14 +12333,14 @@
     ],
     "etica": "Prioriza la seguridad y la alineación de la IA mediante el principio de 'humano en el bucle' automatizado, reduciendo el riesgo de sesgos operativos o acciones maliciosas sin almacenar datos sensibles del usuario más allá de los logs de auditoría necesarios.",
     "limite_gratis": "El plan gratuito permite monitorizar hasta 5 agentes concurrentes con políticas básicas y retención de logs de 7 días.",
-    "web": "https://www.producthunt.com/products/phinq",
+    "web": "https://www.phinq.co/",
     "id": "phinq-3a1e48",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-13",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Pickle Browser",
@@ -12364,14 +12364,14 @@
     ],
     "etica": "Al ejecutarse localmente, garantiza la privacidad total de los datos de navegación y credenciales, evitando el envío de información sensible a servidores de terceros; su naturaleza transparente mitiga el uso malintencionado de scraping o automatización abusiva.",
     "limite_gratis": "La versión gratuita permite sesiones ilimitadas en local con una única instancia de navegador simultánea y funciones de depuración estándar.",
-    "web": "https://www.producthunt.com/products/pickle-browser",
+    "web": "https://picklebrowser.com/",
     "id": "pickle-browser-345ee1",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-13",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Human Behavior",
@@ -12395,14 +12395,14 @@
     ],
     "etica": "Enfocado en 'Product Analytics Ética', evita el tracking invasivo innecesario y permite a los usuarios finales gestionar su consentimiento granularmente; los modelos se entrenan con datos agregados y anonimizados para prevenir sesgos discriminatorios en la segmentación automatizada.",
     "limite_gratis": "Sin plan gratuito; ofrece prueba de concepto (PoC) guiada de 14 días con datos reales bajo NDA.",
-    "web": "https://www.producthunt.com/products/human-behavior",
+    "web": "https://www.humanbehavior.co/",
     "id": "human-behavior-1b8d7a",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-08-13",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Ito",
@@ -12426,13 +12426,209 @@
     ],
     "etica": "Procesa el código en entornos efímeros que se destruyen tras la revisión, sin persistir código propietario ni entrenar modelos con repositorios privados; minimiza falsos positivos sesgados al basar sus hallazgos en evidencia empírica de ejecución.",
     "limite_gratis": "El plan gratuito incluye revisiones ilimitadas para repositorios públicos y hasta 500 minutos de ejecución/mes para repositorios privados.",
-    "web": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
+    "web": "https://www.ito.ai/",
     "id": "ito-39e85b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-13",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Zetik",
+    "compania": "Zetik AI",
+    "tipo": "Agente IA",
+    "precio": "Freemium",
+    "descripcion": "Asistente personal que gestiona tareas y coordina proyectos en tiempo real, integrándose al flujo de trabajo diario.",
+    "web": "",
+    "funciones": [
+      "Gestión de agenda",
+      "Priorización de tareas",
+      "Resumen de reuniones",
+      "Recordatorios automáticos"
+    ],
+    "caracteristicas": [
+      "Integración con calendarios",
+      "Interfaz de chat",
+      "Sincronización multiplataforma"
+    ],
+    "etica": "Protege la privacidad de los datos del usuario y evita sesgos en la toma de decisiones.",
+    "id": "zetik-5d3507",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "La versión gratuita permite hasta 5 tareas diarias y sincroniza un calendario."
+  },
+  {
+    "nombre": "Attyn",
+    "compania": "Attyn Labs",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Herramienta que aporta inteligencia y agilidad al cursor mediante sugerencias de IA en tiempo real.",
+    "web": "https://www.attyn.com/",
+    "funciones": [
+      "Autocompletado inteligente",
+      "Acción de comandos rápidos",
+      "Detección de errores",
+      "Integración con IDE"
+    ],
+    "caracteristicas": [
+      "Funciona offline",
+      "Soporta múltiples lenguajes",
+      "Personalizable"
+    ],
+    "etica": "Recopila datos de uso para mejorar el modelo, pero anonimiza la información para proteger la privacidad.",
+    "id": "attyn-e312be",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "La versión gratuita permite 100 acciones de IA al día."
+  },
+  {
+    "nombre": "Suzanne",
+    "compania": "Suzanne Tech",
+    "tipo": "Diseño de productos",
+    "precio": "Pago",
+    "descripcion": "Optimiza el diseño de productos físicos mediante generación de modelos 3D y simulaciones de fabricación.",
+    "web": "https://www.suzanne3d.com/",
+    "funciones": [
+      "Generación de modelos 3D",
+      "Análisis de materiales",
+      "Optimización de costos",
+      "Integración con CNC"
+    ],
+    "caracteristicas": [
+      "Compatible con CAD estándar",
+      "Simulaciones de resistencia",
+      "Exportación a múltiples formatos"
+    ],
+    "etica": "Promueve la sostenibilidad reduciendo desperdicio, aunque su uso requiere conocimientos técnicos especializados.",
+    "id": "suzanne-2cbb9b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito."
+  },
+  {
+    "nombre": "Inferock Bench",
+    "descripcion": "Proporciona un recibo independiente para cada llamada a la API de LLM, permitiendo la auditoría y el seguimiento del uso.",
+    "precio": "Freemium",
+    "funciones": [
+      "Registro detallado de cada llamada a la API de LLM",
+      "Generación de recibos en formato JSON",
+      "Panel de control para visualizar el uso y costos",
+      "Alertas personalizables por umbral de gasto"
+    ],
+    "caracteristicas": [
+      "Funciona con cualquier proveedor de LLM",
+      "Escalable a miles de llamadas simultáneas",
+      "Interfaz ligera sin necesidad de instalación"
+    ],
+    "etica": "Los datos de los recibos no contienen información sensible, pero el almacenamiento prolongado podría introducir sesgos si no se revisa regularmente.",
+    "web": "https://inferock.ai/",
+    "tipo": "Productividad",
+    "compania": "Inferock",
+    "id": "inferock-bench-443312",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-15",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "limite_gratis": "El plan gratuito ofrece hasta 100 recibos mensuales y acceso básico al panel de control.",
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "GLM-5.3",
+    "descripcion": "GLM-5.3 es un modelo de lenguaje optimizado para la programación, resultado de un entrenamiento posterior escalado sobre una base común, que ofrece mejoras significativas en la generación de código.",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de código en múltiples lenguajes",
+      "Corrección automática de errores",
+      "Explicación de fragmentos de código",
+      "Soporte para grandes contextos de programación"
+    ],
+    "caracteristicas": [
+      "Mayor precisión en la generación de código",
+      "Menor latencia en respuestas",
+      "Compatible con IDEs populares"
+    ],
+    "etica": "Puede reflejar sesgos presentes en los datos de entrenamiento; los desarrolladores deben revisar y validar el código generado.",
+    "web": "https://glm-5.org/",
+    "tipo": "Asistente de programación",
+    "compania": "Zhipu AI",
+    "id": "glm-5-3-a92f98",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El nivel gratuito incluye 500 tokens por día y acceso básico a las API de generación de código.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "nenspace",
+    "descripcion": "nenspace ofrece una interfaz minimalista y lo-fi para ampliar la capacidad de los LLM, funcionando como un espacio mental externo.",
+    "precio": "Freemium",
+    "funciones": [
+      "Interfaz simple y sin distracciones",
+      "Integración directa con modelos LLM",
+      "Mapas mentales y toma de notas colaborativa",
+      "Exportación de notas a múltiples formatos"
+    ],
+    "caracteristicas": [
+      "Bajo consumo de recursos",
+      "Funciona parcialmente offline",
+      "Personalizable según preferencias del usuario"
+    ],
+    "etica": "Los datos de los usuarios se almacenan en la nube; se deben considerar los sesgos inherentes a los modelos LLM subyacentes.",
+    "web": "https://www.producthunt.com/products/nenspace",
+    "tipo": "Productividad",
+    "compania": "nenspace",
+    "id": "nenspace-8af57d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite hasta 10 sesiones diarias y almacenamiento de 100 notas.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Big Mike",
+    "descripcion": "Big Mike es un asistente de iMessage que ofrece consejos y apuestas deportivas, actuando como un amigo que sabe de deportes.",
+    "precio": "Freemium",
+    "funciones": [
+      "Predicciones deportivas personalizadas",
+      "Actualizaciones de resultados en vivo",
+      "Integración nativa con iMessage",
+      "Gestor de apuestas con record histórico"
+    ],
+    "caracteristicas": [
+      "Interfaz amigable y conversacional",
+      "Consejos basados en análisis estadísticos",
+      "Alertas push para eventos importantes"
+    ],
+    "etica": "Puede fomentar el juego compulsivo; se recomienda usar con moderación y ofrece herramientas de control de límites.",
+    "web": "https://www.bigmike.ai/",
+    "tipo": "Chatbot / Asistente",
+    "compania": "Big Mike Inc.",
+    "id": "big-mike-103ead",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-15",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El nivel gratuito ofrece hasta 3 predicciones diarias y acceso básico a noticias deportivas.",
     "intentos_web": 1
   }
 ]

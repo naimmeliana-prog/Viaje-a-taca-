@@ -1,12 +1,47 @@
 {
-  "actualizado": "2026-08-13T23:33:14Z",
+  "actualizado": "2026-08-15T23:13:12Z",
   "novedades": [
     {
-      "titulo": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
+      "titulo": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
+      "resumen": "Mejorar un modelo de inteligencia artificial para programar ya no significa únicamente conseguir que escriba código con menos errores. Cuando lo entrenamos para desenvolverse durante horas en entornos complejos, utilizar",
+      "enlace": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
+      "medio": "Xataka",
+      "fecha": "2026-08-14T21:43:49Z"
+    },
+    {
+      "titulo": "La contrahistoria de lo malos que son los centros de datos la tienen en un pueblecito de EEUU que ha revivido gracias a uno de ellos",
+      "resumen": "Los centros de datos se han convertido en la cara visible de las críticas contra la IA. Consumen mucha energía y agua y una vez construidos no generan apenas empleo. Las protestas contra la construcción de nuevos centros",
+      "enlace": "https://www.xataka.com/robotica-e-ia/contrahistoria-malos-que-centros-datos-tienen-pueblecito-eeuu-que-ha-revivido-gracias-a-uno-ellos",
+      "medio": "Xataka",
+      "fecha": "2026-08-14T12:31:14Z"
+    },
+    {
+      "titulo": "Apple lleva años haciendo excepciones para vender iPhone en China. La última es enorme: una IA exclusiva para el país",
+      "resumen": "Apple lleva años teniendo más claro que nadie que China es un mercado donde quien manda es precisamente China. La IA se acaba de convertir en la última prueba de ello. Según Reuters, la compañía con sede en Cupertino ha ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/apple-lleva-anos-haciendo-excepciones-para-vender-iphone-china-ultima-enorme-ia-exclusiva-para-pais",
+      "medio": "Xataka",
+      "fecha": "2026-08-14T11:45:14Z"
+    },
+    {
+      "titulo": "La IA dispara el ransomware un 389% y acelera los ciberataques a escala global",
+      "resumen": "Según un informe de Fortinet, el número de víctimas de ransomware ha aumentado un 389% interanual, alcanzando las 7.831 víctimas confirmadas, con la industria manufacturera y el comercio minorista entre los sectores más ",
+      "enlace": "https://www.computing.es/seguridad/la-ia-ante-el-reto-de-la-seguridad/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-14T10:00:00Z"
+    },
+    {
+      "titulo": "La IA que aprendió a hackear para protegerte: así funciona GPT-5.6 Cyber",
+      "resumen": "Durante años, intentar auditar tu propio código con un modelo de lenguaje avanzado terminaba en frustración. Le pedías a la inteligencia artificial que buscara una vulnerabilidad de día cero en tu servidor y chocabas con",
+      "enlace": "https://blogthinkbig.com/gpt-5-6-cyber-ia-ciberseguridad",
+      "medio": "Think Big",
+      "fecha": "2026-08-14T09:12:16Z"
+    },
+    {
+      "titulo": "La IA china se ha vuelto imposible de ignorar. Tanto que hasta la apuesta de Mistral por la soberanía europea ya aloja uno de sus modelos",
       "resumen": "Europa sigue intentando reducir una distancia muy visible en inteligencia artificial: mientras Estados Unidos concentra alrededor de OpenAI, Google o Microsoft un ecosistema de modelos, productos e infraestructura a enor",
       "enlace": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
       "medio": "Xataka",
-      "fecha": "2026-08-13T20:31:15Z"
+      "fecha": "2026-08-13T20:30:00Z"
     },
     {
       "titulo": "Gemini ya tiene 1.000 millones de usuarios al mes. La pregunta es cuántos saben que lo están usando",
@@ -23,18 +58,18 @@
       "fecha": "2026-08-13T15:15:15Z"
     },
     {
-      "titulo": "Linus Torvalds, desarrollador y fundador de Linux, sobre dirigir su empresa hoy: \"Ya no soy programador\"",
+      "titulo": "“Ya no soy programador”: Linus Torvalds dice que su trabajo ya no consiste en entender código, sino a las personas",
       "resumen": "Linus Torvalds creó el kernel Linux en 1991, pero 35 años después ya no se define como un programador que escribe código. Durante el Open Source Summit India 2026 explicó que apenas lee código del proyecto de código abie",
       "enlace": "https://www.xataka.com/aplicaciones/no-soy-programador-linus-torvalds-explica-que-dirigir-linux-no-consiste-programar",
       "medio": "Xataka",
-      "fecha": "2026-08-13T13:31:15Z"
+      "fecha": "2026-08-13T13:30:00Z"
     },
     {
-      "titulo": "Grok 4.6 acaba de entrar en el club de los mejores modelos del mundo. Y lo ha hecho compitiendo en precio",
+      "titulo": "OpenAI y Anthropic tenían una cómoda ventaja en modelos frontera. Grok acaba de convertirla en una carrera de tres",
       "resumen": "Grok ya no está un escalón por debajo de OpenAI y Anthropic. Su nueva versión, Grok 4.6, acaba de alcanzar 61 puntos en el Intelligence Index de Artificial Analysis, la misma puntuación que GPT-5.6 Sol, y a apenas uno y ",
       "enlace": "https://www.xataka.com/robotica-e-ia/grok-4-6-acaba-entrar-club-mejores-modelos-mundo-ha-hecho-compitiendo-precio",
       "medio": "Xataka",
-      "fecha": "2026-08-13T11:15:15Z"
+      "fecha": "2026-08-13T11:15:00Z"
     },
     {
       "titulo": "El 90% de las empresas necesita mejorar la gestión de identidades para hacer frente a los riesgos de la IA agéntica",
@@ -51,7 +86,7 @@
       "fecha": "2026-08-13T09:00:00Z"
     },
     {
-      "titulo": "La hipótesis de Riemann llevaba sin resolverse desde 1859. Claude tampoco lo consiguió, pero hizo algo más inquietante",
+      "titulo": "Claude intentó resolver la hipótesis de Riemann y fracasó 650 veces. Entonces le dijeron “cree en ti mismo”",
       "resumen": "La hipótesis de Riemann lleva sin resolverse desde 1859, y de momento ni las mejores IAs del planeta pueden con ella. Anthropic acaba de intentarlo con un modelo experimental, y aunque el proyecto ha tenido una parte pos",
       "enlace": "https://www.xataka.com/robotica-e-ia/claude-no-ha-resuelto-hipotesis-riemann-inquietante-que-consiguio-intentaba",
       "medio": "Xataka",
@@ -63,20 +98,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/inferencia-ia-gasta-que-entrenamiento-cambio-paradigma-sector-malo-para-ti",
       "medio": "Xataka",
       "fecha": "2026-08-12T15:00:00Z"
-    },
-    {
-      "titulo": "Google se llenó con cupones de descuento fantasma. Mi solución ha sido dejar de buscarlos y mandar a la IA de caza",
-      "resumen": "Como aficionado a los descuentos que soy, nunca compro nada importante por internet sin antes haber mirado si la tienda ofrecía algún tipo de cupón. El 10 % de nuevo usuario, la suscripción a la newsletter, el código de ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/yo-creaba-cupones-tienda-online-ahora-le-pido-a-ia-que-encuentre-que-otras-esconden",
-      "medio": "Xataka",
-      "fecha": "2026-08-12T13:00:00Z"
-    },
-    {
-      "titulo": "La industria IA necesitaba urgentemente abaratar costes para empezar a ser rentable. Y eso es lo que está sucediendo",
-      "resumen": "Casi todo sube de precio en nuestras vidas, pero no ocurre lo mismo con la IA: no solo no para de ser más capaz, sino que además usarla cada vez cuesta menos. Según datos de Silicon Data citados por Jefferies, el coste m",
-      "enlace": "https://www.xataka.com/robotica-e-ia/carrera-abajo-va-viento-popa-coste-usar-ia-se-ha-desplomado-43-poco-dos-meses",
-      "medio": "Xataka",
-      "fecha": "2026-08-12T11:30:00Z"
     },
     {
       "titulo": "La IA se convierte en la principal vía de ahorro para el 81% de los CIO",
@@ -91,13 +112,6 @@
       "enlace": "https://blogthinkbig.com/xirp-agentes-ia",
       "medio": "Think Big",
       "fecha": "2026-08-12T08:17:29Z"
-    },
-    {
-      "titulo": "Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando primero a otra persona de la lista",
-      "resumen": "Durante los últimos años nos hemos acostumbrado a pedirle cosas a una inteligencia artificial: que resuma un documento, busque información o nos ayude a tomar una decisión. Los agentes introducen un cambio bastante más p",
-      "enlace": "https://www.xataka.com/robotica-e-ia/usuario-le-pidio-a-su-agente-ia-que-le-reservase-hora-gimnasio-logro-expulsando-primero-a-otra-persona-lista",
-      "medio": "Xataka",
-      "fecha": "2026-08-11T21:56:00Z"
     },
     {
       "titulo": "Claude empieza a firmar lo que escribe: así funciona el nuevo marcado de contenido de Anthropic",
@@ -133,20 +147,6 @@
       "enlace": "https://blogthinkbig.com/camaras-flock-safety-vigilancia-masiva-ia",
       "medio": "Think Big",
       "fecha": "2026-08-07T14:00:00Z"
-    },
-    {
-      "titulo": "Regulación de la IA: el choque entre Europa, EEUU y China",
-      "resumen": "Estamos ante una división tecnológica que está partiendo el mercado global en tres bloques irreconciliables. Si hoy despliegas un sistema de inteligencia artificial en Europa y cruzas una línea roja, por su regulación de",
-      "enlace": "https://blogthinkbig.com/regulacion-inteligencia-artificial-europa-eeuu-china",
-      "medio": "Think Big",
-      "fecha": "2026-08-06T16:00:00Z"
-    },
-    {
-      "titulo": "Meta entra en la carrera de la programación con IA, pero paga con tu código",
-      "resumen": "Meta ha lanzado su primera herramienta de programación con inteligencia artificial. Se llama Muse Code y llega en un momento en el que gigantes como Microsoft, Google, OpenAI y Anthropic ya se disputan a los [&#8230;] Me",
-      "enlace": "https://blogthinkbig.com/meta-entra-en-la-carrera-de-la-programacion-con-ia-pero-paga-con-tu-codigo",
-      "medio": "Think Big",
-      "fecha": "2026-08-06T14:21:49Z"
     },
     {
       "titulo": "6 de cada 10 usuarios rechazan a las marcas que utilizan la IA en el posicionamiento de sus mensajes",
@@ -221,25 +221,11 @@
       "fecha": "2026-08-07T14:00:00Z"
     },
     {
-      "titulo": "Regulación de la IA: el choque entre Europa, EEUU y China",
-      "resumen": "Estamos ante una división tecnológica que está partiendo el mercado global en tres bloques irreconciliables. Si hoy despliegas un sistema de inteligencia artificial en Europa y cruzas una línea roja, por su regulación de",
-      "enlace": "https://blogthinkbig.com/regulacion-inteligencia-artificial-europa-eeuu-china",
-      "medio": "Think Big",
-      "fecha": "2026-08-06T16:00:00Z"
-    },
-    {
       "titulo": "Conversaciones compartidas de Claude aparecen indexadas en Google.",
       "resumen": "Cientos de conversaciones compartidas de Claude aparecieron indexadas en Google Cómo revisar y revocar tus propios enlaces compartidos. The post Conversaciones compartidas de Claude aparecen indexadas en Google. appeared",
       "enlace": "https://derechodelared.com/2026/07/28/conversaciones-compartidas-de-claude-aparecen-indexadas-en-google/",
       "medio": "Derecho de la Red",
       "fecha": "2026-07-28T20:10:23Z"
-    },
-    {
-      "titulo": "Empresas como Meta, Microsoft y Nvidia retan a EEUU para no prohibir los modelos de IA abiertos",
-      "resumen": "Los modelos de IA de pesos abiertos son sistemas cuyos parámetros se publican de forma gratuita para que cualquier usuario u organización puedan hacer uso de ellos L'articolo Empresas como Meta, Microsoft y Nvidia retan ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/empresas-como-meta-microsoft-y-nvidia-retan-a-eeuu-para-no-prohibir-los-modelos-de-ia-abiertos/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-28T07:15:00Z"
     },
     {
       "titulo": "El índice de seguridad de IA de 2026: nadie aprueba con nota, y hay un dato que incomoda",
@@ -352,6 +338,20 @@
       "enlace": "https://www.genbeta.com/inteligencia-artificial/empiezan-a-salir-a-luz-vulnerabilidades-navegador-chatgpt-materia-seguridad-privacidad",
       "medio": "Genbeta",
       "fecha": "2025-10-28T14:45:00Z"
+    },
+    {
+      "titulo": "\"Ética de trabajo increíble\": El ex CEO de Google alaba el modelo 996 de 72 horas chino y critica el equilibrio entre vida y trabajo",
+      "resumen": "El antiguo CEO de Google, Eric Schmidt, ha hablado en un podcast sobre cómo a los trabajadores de Estados Unidos les toca sacrificarse por sacar adelante a sus empresas tecnológicas en un ambiente de rivalidad internacio",
+      "enlace": "https://www.genbeta.com/laboral/trabajas-tech-tendras-que-hacer-sacrificios-ex-ceo-google-habla-trabajar-72-semanales-para-competir-china",
+      "medio": "Genbeta",
+      "fecha": "2025-10-02T11:19:00Z"
+    },
+    {
+      "titulo": "La IA se nos está escapando de las manos. 200 expertos tienen una solución muy simple: establecer \"líneas rojas\"",
+      "resumen": "El lunes más de 200 personalidades y más de 70 organizaciones se unieron en una nueva iniciativa llamada Global Call for AI Red Lines (Llamamiento Mundial para establecer Líneas Rojas en la IA). El objetivo: tratar de es",
+      "enlace": "https://www.xataka.com/robotica-e-ia/200-expertos-tienen-claro-hay-que-establacer-lineas-rojas-ia-no-se-nos-vaya-manos",
+      "medio": "Xataka",
+      "fecha": "2025-09-23T13:00:00Z"
     }
   ]
 }
