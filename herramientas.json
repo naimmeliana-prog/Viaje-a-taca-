@@ -4223,7 +4223,7 @@
     "fecha_agregado": "2026-06-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 1
   },
   {
     "nombre": "AI Slide Editor",
@@ -12095,7 +12095,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 1
   },
   {
     "nombre": "webAI TwIL‑LM",
@@ -12255,7 +12255,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "agent-manager",
@@ -12441,7 +12441,7 @@
     "tipo": "Agente IA",
     "precio": "Freemium",
     "descripcion": "Asistente personal que gestiona tareas y coordina proyectos en tiempo real, integrándose al flujo de trabajo diario.",
-    "web": "",
+    "web": "https://www.zetik.com/",
     "funciones": [
       "Gestión de agenda",
       "Priorización de tareas",
@@ -12460,7 +12460,7 @@
     "fecha_agregado": "2026-08-15",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1,
+    "intentos_web": 2,
     "limite_gratis": "La versión gratuita permite hasta 5 tareas diarias y sincroniza un calendario."
   },
   {
@@ -12520,31 +12520,31 @@
   },
   {
     "nombre": "Inferock Bench",
-    "descripcion": "Proporciona un recibo independiente para cada llamada a la API de LLM, permitiendo la auditoría y el seguimiento del uso.",
+    "descripcion": "Herramienta de monitorización y auditoría para APIs de modelos de lenguaje (LLM). Genera recibos detallados por cada llamada a la API para facilitar el seguimiento de costos y el análisis de uso.",
     "precio": "Freemium",
     "funciones": [
-      "Registro detallado de cada llamada a la API de LLM",
-      "Generación de recibos en formato JSON",
-      "Panel de control para visualizar el uso y costos",
-      "Alertas personalizables por umbral de gasto"
+      "Auditoría de llamadas a la API",
+      "Seguimiento de costos por petición",
+      "Generación de recibos independientes",
+      "Análisis de uso de LLM"
     ],
     "caracteristicas": [
-      "Funciona con cualquier proveedor de LLM",
-      "Escalable a miles de llamadas simultáneas",
-      "Interfaz ligera sin necesidad de instalación"
+      "Integración sencilla con APIs existentes",
+      "Panel de control para visualización de datos",
+      "Registro detallado de transacciones",
+      "Alertas de uso y presupuesto"
     ],
-    "etica": "Los datos de los recibos no contienen información sensible, pero el almacenamiento prolongado podría introducir sesgos si no se revisa regularmente.",
+    "etica": "Al proporcionar transparencia total en el uso de las APIs, ayuda a las empresas a controlar el acceso a los datos y prevenir usos no autorizados. Fomenta la responsabilidad en el despliegue de IA al auditar cada interacción.",
     "web": "https://inferock.ai/",
-    "tipo": "Productividad",
+    "tipo": "Monitorización y auditoría de IA",
     "compania": "Inferock",
     "id": "inferock-bench-443312",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-15",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "limite_gratis": "El plan gratuito ofrece hasta 100 recibos mensuales y acceso básico al panel de control.",
-    "intentos_auto": 1,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito ofrece un número limitado de llamadas a la API auditadas al mes y acceso básico al panel de control.",
     "intentos_web": 1
   },
   {
@@ -12601,7 +12601,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite hasta 10 sesiones diarias y almacenamiento de 100 notas.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Big Mike",
@@ -12629,6 +12629,190 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El nivel gratuito ofrece hasta 3 predicciones diarias y acceso básico a noticias deportivas.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Omni",
+    "compania": "Omni",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma para crear y gestionar agentes de IA autónomos sin supervisión constante, optimizando procesos operativos.",
+    "web": "https://xpander.ai",
+    "funciones": [
+      "Crear agentes de IA autónomos",
+      "Gestión de flujos de trabajo automatizados",
+      "Integración con sistemas existentes",
+      "Monitoreo de rendimiento en tiempo real",
+      "Escalabilidad de agentes según necesidades"
+    ],
+    "caracteristicas": [
+      "Autonomía total de los agentes",
+      "Interfaz intuitiva para configuración",
+      "Soporte para múltiples lenguajes y frameworks",
+      "Herramientas de análisis predictivo",
+      "Personalización avanzada de comportamientos"
+    ],
+    "etica": "Protección de datos mediante encriptación y cumplimiento de normativas. Posible sesgo en decisiones autónomas si no se entrena con datos equilibrados.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 agentes con funcionalidades básicas y límites de uso horario.",
+    "id": "omni-aff17a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-17",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "MiniMax-Music3",
+    "compania": "MiniMax",
+    "tipo": "Generación de audio",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de código abierto para generar canciones completas de cinco minutos a partir de letras y descripciones estructuradas.",
+    "web": "https://www.minimax.ai",
+    "funciones": [
+      "Generar música completa desde texto",
+      "Editar y mezclar pistas de audio",
+      "Exportar en formatos estándar (MP3, WAV)",
+      "Ajustar estilos musicales y dinámicos",
+      "Soporte para letras y estructuras definidas"
+    ],
+    "caracteristicas": [
+      "Código abierto y personalizable",
+      "Generación de canciones de alta calidad",
+      "Integración con herramientas de edición",
+      "Soporte para múltiples idiomas en letras",
+      "Modelos preentrenados para diferentes géneros"
+    ],
+    "etica": "Transparencia en el uso de datos de entrenamiento. Riesgo de reproducción de contenido con derechos de autor si no se filtra adecuadamente.",
+    "limite_gratis": "El modelo es completamente gratuito y de código abierto, permitiendo uso ilimitado con herramientas de terceros.",
+    "id": "minimax-music3-27c2c2",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-17",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Clears",
+    "descripcion": "Plataforma que trasciende la programación asistida por IA para ofrecer entrega de software con agentes autónomos.",
+    "compania": "Clears",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación automatizada de código",
+      "Pruebas y validación de software",
+      "Despliegue continuo con IA",
+      "Gestión de tareas y priorización",
+      "Integración con entornos de desarrollo"
+    ],
+    "caracteristicas": [
+      "Automatización de ciclos de desarrollo",
+      "Soporte para múltiples lenguajes de programación",
+      "Interfaz visual para monitoreo de agentes",
+      "Optimización de recursos en tiempo real",
+      "Colaboración en tiempo real entre equipos"
+    ],
+    "etica": "Garantizar calidad del código y seguridad. Posible dependencia excesiva de agentes sin supervisión humana.",
+    "limite_gratis": "El plan gratuito incluye 100 horas de ejecución mensuales y acceso a funciones básicas de automatización.",
+    "web": "https://www.clears.ai/",
+    "id": "clears-8ae413",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Blender Agent Bridge",
+    "descripcion": "Puente de código abierto para integrar flujos de trabajo de IA en Blender, facilitando la automatización creativa.",
+    "compania": "Blender Agent Bridge",
+    "tipo": "Integración de IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Conectar modelos de IA con Blender",
+      "Automatizar tareas de modelado y renderizado",
+      "Sincronizar datos entre IA y escenarios 3D",
+      "Crear scripts personalizados para IA",
+      "Monitorear y ajustar parámetros en tiempo real"
+    ],
+    "caracteristicas": [
+      "Compatible con modelos de IA populares",
+      "Interfaz basada en MCP (Model Control Protocol)",
+      "Soporte para plugins de terceros",
+      "Documentación detallada y ejemplos",
+      "Actualizaciones frecuentes por comunidad"
+    ],
+    "etica": "Transparencia en el uso de código abierto. Posible sesgo en resultados si los modelos de IA no están equilibrados.",
+    "limite_gratis": "Herramienta completamente gratuita y de código abierto, sin límites de uso.",
+    "web": "https://blenderagent.org/",
+    "id": "blender-agent-bridge-470317",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Bulbthings",
+    "descripcion": "Plataforma de IA para el seguimiento y gestión de activos físicos, optimizando la eficiencia operativa.",
+    "compania": "Bulbthings",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Rastreo en tiempo real de activos",
+      "Gestión de inventarios y histórico",
+      "Alertas personalizadas de movimientos",
+      "Análisis de datos de uso y ubicación",
+      "Integración con sistemas ERP"
+    ],
+    "caracteristicas": [
+      "Uso de sensores y geolocalización",
+      "Interfaz intuitiva para usuarios no técnicos",
+      "Escalabilidad para empresas grandes",
+      "Soporte para múltiples tipos de activos",
+      "Automatización de reportes"
+    ],
+    "etica": "Protección de datos sensibles de ubicación y uso. Cumplimiento de normativas de privacidad como GDPR.",
+    "limite_gratis": "El plan gratuito permite gestionar hasta 50 activos con funciones básicas de rastreo.",
+    "web": "https://www.producthunt.com/products/bulbthings",
+    "id": "bulbthings-9b88a5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Treg",
+    "descripcion": "OpenRouter para herramientas con 2,600 APIs y 0% de margen, facilitando el acceso a servicios de IA sin costos adicionales.",
+    "compania": "Treg",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Acceso a más de 2,600 APIs de IA",
+      "Integración sencilla con aplicaciones",
+      "Sin costos adicionales por uso",
+      "Gestión de claves y permisos",
+      "Monitoreo de consumo y rendimiento"
+    ],
+    "caracteristicas": [
+      "Interfaz unificada para múltiples APIs",
+      "Soporte para lenguajes de programación populares",
+      "Documentación y ejemplos de uso",
+      "Actualizaciones constantes de APIs",
+      "Herramientas de análisis de datos"
+    ],
+    "etica": "Transparencia en el uso de APIs y precios. Posible dependencia de servicios externos con riesgos de disponibilidad.",
+    "limite_gratis": "El plan gratuito ofrece acceso a 100 APIs con límites de llamadas diarias.",
+    "web": "https://treg.to/",
+    "id": "treg-b2e94b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]

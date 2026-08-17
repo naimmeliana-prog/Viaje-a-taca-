@@ -1,6 +1,76 @@
 {
-  "actualizado": "2026-08-15T23:13:12Z",
+  "actualizado": "2026-08-17T23:16:44Z",
   "novedades": [
+    {
+      "titulo": "Anthropic ha construido un modelo mejor que Mythos. También ha decidido que el mundo no pueda usarlo",
+      "resumen": "Anthropic tiene disponible un modelo de IA que no podemos probar. Se llama simplemente \"Model 2\", es aún más potente que Mythos 5 y, según la propia compañía, ofrece una \"mejora apreciable\" en muchas de las tareas que re",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-ha-construido-modelo-mejor-que-mythos-tambien-ha-decidido-que-mundo-no-pueda-usarlo",
+      "medio": "Xataka",
+      "fecha": "2026-08-17T17:30:22Z"
+    },
+    {
+      "titulo": "Cataluña ha pillado a miles de conductores usando el móvil en el coche con sus cámaras IA",
+      "resumen": "A lo largo de estas últimas semanas, Cataluña ha estado probando un nuevo sistema de vigilancia impulsado por IA en dos de sus carreteras más transitadas. La idea detrás de esta prueba piloto es conocer si el sistema es ",
+      "enlace": "https://www.xataka.com/movilidad/cataluna-ha-probado-camaras-ia-para-pillarte-movil-cinturon",
+      "medio": "Xataka",
+      "fecha": "2026-08-17T16:30:22Z"
+    },
+    {
+      "titulo": "Stripe acaba de apostar 7.000 millones a una idea: nunca habrá un único modelo de IA que sirva para todo",
+      "resumen": "Stripe ha llegado a un acuerdo para adquirir OpenRouter Inc. por 7.000 millones de dólares, según indican fuentes cercanas a las negociaciones que citan en Bloomberg. La cifra es especialmente llamativa porque la startup",
+      "enlace": "https://www.xataka.com/robotica-e-ia/stripe-acaba-apostar-7-000-millones-a-idea-nunca-habra-unico-modelo-ia-que-sirva-para-todo",
+      "medio": "Xataka",
+      "fecha": "2026-08-17T12:46:21Z"
+    },
+    {
+      "titulo": "La IA amplía las capacidades de los profesionales españoles: El 60% ya realiza trabajos que hace un año estaban fuera de su alcance",
+      "resumen": "Según un estudio de Microsoft, el 86% de los usuarios de IA en España utiliza las respuestas generadas por estas herramientas como punto de partida, no como una solución definitiva L'articolo La IA amplía las capacidades",
+      "enlace": "https://www.computing.es/inteligencia-artificial/inteligencia-artificial-lo-que-buscan-los-directivos-vs-lo-que-obtienen-los-trabajadores/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-17T10:00:00Z"
+    },
+    {
+      "titulo": "Un tercio de las grandes empresas españolas sigue sin prepararse para la Ley de la IA",
+      "resumen": "Un estudio de Entelgy revela que el 31,7% de los CEO y directivos aún no ha implementado ninguna medida para adaptarse al AI Act L'articolo Un tercio de las grandes empresas españolas sigue sin prepararse para la Ley de ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/un-tercio-de-las-grandes-empresas-espanolas-sigue-sin-prepararse-para-la-ley-de-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-17T07:00:00Z"
+    },
+    {
+      "titulo": "Terafab será más grande que el Pentágono, Apple Park y Giga Texas juntos. Eso es lo sencillo",
+      "resumen": "Si hay alguien que piense a lo grande hoy en día, ese es Elon Musk. El magnate es una personalidad absolutamente polarizadora que genera tanta admiración como críticas, pero no se le puede negar que su ambición sigue sie",
+      "enlace": "https://www.xataka.com/robotica-e-ia/se-hace-realidad-proyecto-terafab-elon-musk-sera-estructura-interior-grande-planeta-importante-se-hace-realidad",
+      "medio": "Xataka",
+      "fecha": "2026-08-16T15:30:00Z"
+    },
+    {
+      "titulo": "Nos vendieron las redes 5G como la forma más rápida de conectarnos con el móvil. Ahora resulta que también pueden detectar drones",
+      "resumen": "Si miras tu móvil lo más seguro es que aparezca un icono en la parte superior de la pantalla, el del 5G. Empezó de forma tímida y ahora conquista una buena parte del territorio español, incluso como 5G SA real. Con unas ",
+      "enlace": "https://www.xataka.com/moviles/nos-vendieron-redes-5g-como-forma-rapida-conectarnos-movil-ahora-resulta-que-tambien-pueden-detectar-drones",
+      "medio": "Xataka",
+      "fecha": "2026-08-16T11:30:47Z"
+    },
+    {
+      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"Si Claude Opus 4.8 podía ser una navaja, Mythos es un machete\"",
+      "resumen": "Desde que Anthropic dio a conocer a Claude Mythos hace unos meses,&nbsp;la ciberseguridad se ha convertido en el principal argumento con el que los laboratorios de IA destacan la potencia de sus nuevos modelos. Hay motiv",
+      "enlace": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-claude-opus-4-8-podia-ser-navaja-mythos-machete",
+      "medio": "Xataka",
+      "fecha": "2026-08-16T09:30:00Z"
+    },
+    {
+      "titulo": "Wall Street ya se frota las manos con la salida a bolsa de Anthropic: algunos inversores la valoran en dos billones de dólares, según FT",
+      "resumen": "Si hay alguna startup que Wall Street está más que impaciente por que salga a bolsa, esa es, sin lugar a dudas, Anthropic. Y es que tal y como cuentan en Financial Times, varios inversores apuestan sobre un debut de dos ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/wall-street-se-frota-manos-salida-a-bolsa-anthropic-algunos-inversores-valoran-dos-billones-dolares-ft",
+      "medio": "Xataka",
+      "fecha": "2026-08-16T09:00:49Z"
+    },
+    {
+      "titulo": "Anthropic explica cómo funciona la nueva marca de agua de Claude: no se ve, no se nota, (casi) no se puede borrar y no prueba nada",
+      "resumen": "A principios de semana, Anthropic comunicaba que aquellos modelos lanzados en la UE desde el 2 de agosto llegarían con una&nbsp;marca invisible&nbsp;que no se ceñirá a a Europa, sino que se implementará a escala global. ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-explica-como-funciona-nueva-marca-agua-claude-no-se-ve-no-se-nota-casi-no-se-puede-borrar-no-prueba-nada",
+      "medio": "Xataka",
+      "fecha": "2026-08-16T08:30:47Z"
+    },
     {
       "titulo": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
       "resumen": "Mejorar un modelo de inteligencia artificial para programar ya no significa únicamente conseguir que escriba código con menos errores. Cuando lo entrenamos para desenvolverse durante horas en entornos complejos, utilizar",
@@ -14,13 +84,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/contrahistoria-malos-que-centros-datos-tienen-pueblecito-eeuu-que-ha-revivido-gracias-a-uno-ellos",
       "medio": "Xataka",
       "fecha": "2026-08-14T12:31:14Z"
-    },
-    {
-      "titulo": "Apple lleva años haciendo excepciones para vender iPhone en China. La última es enorme: una IA exclusiva para el país",
-      "resumen": "Apple lleva años teniendo más claro que nadie que China es un mercado donde quien manda es precisamente China. La IA se acaba de convertir en la última prueba de ello. Según Reuters, la compañía con sede en Cupertino ha ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/apple-lleva-anos-haciendo-excepciones-para-vender-iphone-china-ultima-enorme-ia-exclusiva-para-pais",
-      "medio": "Xataka",
-      "fecha": "2026-08-14T11:45:14Z"
     },
     {
       "titulo": "La IA dispara el ransomware un 389% y acelera los ciberataques a escala global",
@@ -37,41 +100,6 @@
       "fecha": "2026-08-14T09:12:16Z"
     },
     {
-      "titulo": "La IA china se ha vuelto imposible de ignorar. Tanto que hasta la apuesta de Mistral por la soberanía europea ya aloja uno de sus modelos",
-      "resumen": "Europa sigue intentando reducir una distancia muy visible en inteligencia artificial: mientras Estados Unidos concentra alrededor de OpenAI, Google o Microsoft un ecosistema de modelos, productos e infraestructura a enor",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
-      "medio": "Xataka",
-      "fecha": "2026-08-13T20:30:00Z"
-    },
-    {
-      "titulo": "Gemini ya tiene 1.000 millones de usuarios al mes. La pregunta es cuántos saben que lo están usando",
-      "resumen": "Google ha anunciado que Gemini ha superado los 1.000 millones de usuarios activos mensuales, convirtiéndose en el producto de la empresa que más rápido ha crecido en la historia. Estos datos son reales, pero la letra peq",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gemini-tiene-1-000-millones-usuarios-al-mes-pregunta-cuantos-saben-que-estan-usando",
-      "medio": "Xataka",
-      "fecha": "2026-08-13T18:01:15Z"
-    },
-    {
-      "titulo": "Hasta ahora, toda la industria IA se ha financiado a sí misma de forma circular. Nvidia acaba de romper con esa dinámica",
-      "resumen": "En los últimos dos años, Nvidia se ha dedicado tanto a vender los picos y las palas del boom de la IA como, cada vez más, a prestar el dinero para comprarlos. Esta semana ha intentado algo diferente. Y es que en lugar de",
-      "enlace": "https://www.xataka.com/empresas-y-economia/ahora-toda-industria-ia-se-ha-financiado-a-forma-circular-nvidia-acaba-romper-esa-dinamica",
-      "medio": "Xataka",
-      "fecha": "2026-08-13T15:15:15Z"
-    },
-    {
-      "titulo": "“Ya no soy programador”: Linus Torvalds dice que su trabajo ya no consiste en entender código, sino a las personas",
-      "resumen": "Linus Torvalds creó el kernel Linux en 1991, pero 35 años después ya no se define como un programador que escribe código. Durante el Open Source Summit India 2026 explicó que apenas lee código del proyecto de código abie",
-      "enlace": "https://www.xataka.com/aplicaciones/no-soy-programador-linus-torvalds-explica-que-dirigir-linux-no-consiste-programar",
-      "medio": "Xataka",
-      "fecha": "2026-08-13T13:30:00Z"
-    },
-    {
-      "titulo": "OpenAI y Anthropic tenían una cómoda ventaja en modelos frontera. Grok acaba de convertirla en una carrera de tres",
-      "resumen": "Grok ya no está un escalón por debajo de OpenAI y Anthropic. Su nueva versión, Grok 4.6, acaba de alcanzar 61 puntos en el Intelligence Index de Artificial Analysis, la misma puntuación que GPT-5.6 Sol, y a apenas uno y ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/grok-4-6-acaba-entrar-club-mejores-modelos-mundo-ha-hecho-compitiendo-precio",
-      "medio": "Xataka",
-      "fecha": "2026-08-13T11:15:00Z"
-    },
-    {
       "titulo": "El 90% de las empresas necesita mejorar la gestión de identidades para hacer frente a los riesgos de la IA agéntica",
       "resumen": "El 58,7% de las compañías de Estados Unidos y Canadá afirma que se necesitan mejoras significativas o una revisión completa de su enfoque de gestión de identidades L'articolo El 90% de las empresas necesita mejorar la ge",
       "enlace": "https://www.computing.es/seguridad/solucion-de-gestion-de-identidades-de-rsa/",
@@ -84,20 +112,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-lleva-a-la-alta-direccion-de-las-empresas-a-reconsiderar-sus-necesidades-de-oficina/",
       "medio": "Computing.es",
       "fecha": "2026-08-13T09:00:00Z"
-    },
-    {
-      "titulo": "Claude intentó resolver la hipótesis de Riemann y fracasó 650 veces. Entonces le dijeron “cree en ti mismo”",
-      "resumen": "La hipótesis de Riemann lleva sin resolverse desde 1859, y de momento ni las mejores IAs del planeta pueden con ella. Anthropic acaba de intentarlo con un modelo experimental, y aunque el proyecto ha tenido una parte pos",
-      "enlace": "https://www.xataka.com/robotica-e-ia/claude-no-ha-resuelto-hipotesis-riemann-inquietante-que-consiguio-intentaba",
-      "medio": "Xataka",
-      "fecha": "2026-08-12T18:30:00Z"
-    },
-    {
-      "titulo": "La IA era absurdamente cara por el \"entrenamiento\". A partir de ahora lo será por algo distinto: la infraestructura",
-      "resumen": "Desde que ChatGPT empezó a ser lo que es y la IA comenzó a llegar a todo el mundo, ya que antes era algo reservado a la investigación en diferentes ámbitos, una palabra nos ha acompañado: entrenamiento. De ese entrenamie",
-      "enlace": "https://www.xataka.com/empresas-y-economia/inferencia-ia-gasta-que-entrenamiento-cambio-paradigma-sector-malo-para-ti",
-      "medio": "Xataka",
-      "fecha": "2026-08-12T15:00:00Z"
     },
     {
       "titulo": "La IA se convierte en la principal vía de ahorro para el 81% de los CIO",
@@ -196,20 +210,6 @@
       "enlace": "https://www.computing.es/movilidad/dxc-incorpora-capacidades-de-ia-de-voz-tras-su-acuerdo-con-elevenlabs/",
       "medio": "Computing.es",
       "fecha": "2026-07-30T07:39:15Z"
-    },
-    {
-      "titulo": "Anthropic, Uber, el Mit…De optimizar tokens a demostrar productividad",
-      "resumen": "Muchas compañías han empezado a evaluar el progreso de la IA mediante la cantidad de usuarios, número de agentes desplegados o volumen de tokens consumidos L'articolo Anthropic, Uber, el Mit…De optimizar tokens a demostr",
-      "enlace": "https://www.computing.es/inteligencia-artificial/anthropic-uber-el-mitde-optimizar-tokens-a-demostrar-productividad/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-30T06:30:00Z"
-    },
-    {
-      "titulo": "La Junta de Castilla-La Mancha adjudica a Inetum y ECIJA el desarrollo de un marco corporativo de IA pública",
-      "resumen": "La iniciativa, financiada con fondos FEDER y gestionada por la Consejería de Hacienda, Administraciones Públicas y Transformación Digital, contempla la creación de una oficina de gobernanza y el despliegue de una platafo",
-      "enlace": "https://www.computing.es/noticias/la-junta-de-castilla-la-mancha-adjudica-a-inetum-y-ecija-el-desarrollo-de-un-marco-corporativo-de-ia-publica/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-29T10:21:11Z"
     }
   ],
   "etica": [
