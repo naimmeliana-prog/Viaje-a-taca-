@@ -1,26 +1,103 @@
 {
-  "actualizado": "2026-08-17T23:16:44Z",
+  "actualizado": "2026-08-19T23:16:11Z",
   "novedades": [
     {
-      "titulo": "Anthropic ha construido un modelo mejor que Mythos. También ha decidido que el mundo no pueda usarlo",
-      "resumen": "Anthropic tiene disponible un modelo de IA que no podemos probar. Se llama simplemente \"Model 2\", es aún más potente que Mythos 5 y, según la propia compañía, ofrece una \"mejora apreciable\" en muchas de las tareas que re",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-ha-construido-modelo-mejor-que-mythos-tambien-ha-decidido-que-mundo-no-pueda-usarlo",
+      "titulo": "Una mansión récord de Silicon Valley tiene nuevo dueño: 70 millones, 4,9 hectáreas y todo apunta a un científico de IA de origen chino",
+      "resumen": "En los alrededores de Silicon Valley, el mercado inmobiliario de lujo lleva tiempo jugando en una liga donde una vivienda puede ocupar varias hectáreas y ofrecer un nivel de privacidad difícil de encontrar incluso entre ",
+      "enlace": "https://www.xataka.com/magnet/mansion-record-silicon-valley-tiene-nuevo-dueno-70-millones-4-9-hectareas-todo-apunta-a-cientifico-ia-origen-chino",
       "medio": "Xataka",
-      "fecha": "2026-08-17T17:30:22Z"
+      "fecha": "2026-08-19T19:01:33Z"
     },
     {
-      "titulo": "Cataluña ha pillado a miles de conductores usando el móvil en el coche con sus cámaras IA",
-      "resumen": "A lo largo de estas últimas semanas, Cataluña ha estado probando un nuevo sistema de vigilancia impulsado por IA en dos de sus carreteras más transitadas. La idea detrás de esta prueba piloto es conocer si el sistema es ",
-      "enlace": "https://www.xataka.com/movilidad/cataluna-ha-probado-camaras-ia-para-pillarte-movil-cinturon",
+      "titulo": "Claude diseñó proteínas contra 15 objetivos. Cuando las fabricaron en un laboratorio, funcionaron contra 14",
+      "resumen": "La IA ya nos ha asombrado en el ámbito de las matemáticas, y ahora quiere hacerlo en el de la química.&nbsp;Es desde luego lo que ha logrado Anthropic, que puso a trabajar a Claude de forma autónoma durante unas 48 horas",
+      "enlace": "https://www.xataka.com/robotica-e-ia/claude-diseno-proteinas-15-objetivos-cuando-fabricaron-laboratorio-funcionaron-14",
       "medio": "Xataka",
-      "fecha": "2026-08-17T16:30:22Z"
+      "fecha": "2026-08-19T15:31:33Z"
     },
     {
-      "titulo": "Stripe acaba de apostar 7.000 millones a una idea: nunca habrá un único modelo de IA que sirva para todo",
-      "resumen": "Stripe ha llegado a un acuerdo para adquirir OpenRouter Inc. por 7.000 millones de dólares, según indican fuentes cercanas a las negociaciones que citan en Bloomberg. La cifra es especialmente llamativa porque la startup",
-      "enlace": "https://www.xataka.com/robotica-e-ia/stripe-acaba-apostar-7-000-millones-a-idea-nunca-habra-unico-modelo-ia-que-sirva-para-todo",
+      "titulo": "Es oficial: ChatGPT con anuncios llegará a España el próximo lunes 24 de agosto",
+      "resumen": "Los anuncios de ChatGPT ya tienen fecha de llegada a España. OpenAI ha confirmado que el próximo lunes 25 de agosto ampliará su sistema publicitario a 31 países europeos, entre ellos España, Alemania, Francia, Italia, Su",
+      "enlace": "https://www.xataka.com/robotica-e-ia/oficial-chatgpt-anuncios-llegara-a-espana-proximo-lunes-24-agosto",
       "medio": "Xataka",
-      "fecha": "2026-08-17T12:46:21Z"
+      "fecha": "2026-08-19T10:51:00Z"
+    },
+    {
+      "titulo": "Los hiperescaladores tienen miles de chips de IA sin sacar de la caja por una sencilla razón: los centros de datos no se levantan en un día",
+      "resumen": "Este 2026, cuatro Big Tech se fundirán 760.000 millones de dólares en la IA. Dentro de esa inversión se encuadran los chips, pero también la energía y las infraestructuras: todo lo necesario para seguir escalando la tecn",
+      "enlace": "https://www.xataka.com/empresas-y-economia/hiperescaladores-tienen-miles-chips-ia-sacar-sus-cajas-sencilla-razon-centros-datos-no-se-levantan-dia",
+      "medio": "Xataka",
+      "fecha": "2026-08-19T10:30:21Z"
+    },
+    {
+      "titulo": "Del descubrimiento de vulnerabilidades a la soberanía cognitiva: Por qué el verdadero reto de la IA es la resiliencia",
+      "resumen": "La preocupación no son los agentes de IA maliciosos, sino que los sistemas, cada vez más autónomos, aceleran drásticamente el descubrimiento de errores, vulnerabilidades y vías de ataque, lo que deja a las organizaciones",
+      "enlace": "https://www.computing.es/seguridad/del-descubrimiento-de-vulnerabilidades-a-la-soberania-cognitiva-por-que-el-verdadero-reto-de-la-ia-es-la-resiliencia/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-19T10:00:00Z"
+    },
+    {
+      "titulo": "La IA impulsa nuevos puestos de trabajo en el sector logístico",
+      "resumen": "El 75% de los trabajadores cree que las funciones actuales están evolucionando como consecuencia de la IA L'articolo La IA impulsa nuevos puestos de trabajo en el sector logístico proviene da Computing.",
+      "enlace": "https://www.computing.es/recursos-humanos/la-ia-impulsa-nuevos-puestos-de-trabajo-en-el-sector-logistico/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-19T09:00:00Z"
+    },
+    {
+      "titulo": "No sé nada de programación y he creado esta app en menos de 10 minutos. Solo con ChatGPT y el iPhone",
+      "resumen": "No sé programar, pero quería poner a prueba la IA. En el fondo solo quería hacer una app sencilla, una lista de tareas que pudiera marcar y borrar. Me bastó un iPhone, ChatGPT y diez minutos para que esa idea cobrara vid",
+      "enlace": "https://www.applesfera.com/aplicaciones-ios/no-se-nada-programacion-he-creado-esta-app-10-minutos-solo-chatgpt-iphone",
+      "medio": "Applesfera",
+      "fecha": "2026-08-19T08:00:23Z"
+    },
+    {
+      "titulo": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
+      "resumen": "Cuando hablamos de la carrera de la inteligencia artificial solemos mirar hacia los modelos: GPT, Gemini, Claude, DeepSeek y la siguiente generación que promete ser más capaz, más rápida o más eficiente. Sin embargo, det",
+      "enlace": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
+      "medio": "Xataka",
+      "fecha": "2026-08-18T19:00:22Z"
+    },
+    {
+      "titulo": "Dario Amodei es el CEO de Anthropic y tiene claro qué deben hacer los Gobiernos: evitar que empresas como la suya concentren poder",
+      "resumen": "Este fin de semana, algunas de las personas más influyentes del sector IA han tenido un debate bastante interesante en la red social X. El desencadenante fue Gavin Baker, conocido inversor de Silicon Valley, quien en el ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/ia-tiende-a-concentrar-poder-ceo-anthropic-cree-que-solucion-regular-a-empresas-como-suya",
+      "medio": "Xataka",
+      "fecha": "2026-08-18T13:00:00Z"
+    },
+    {
+      "titulo": "El Gobierno chino se ha dado cuenta de que cada vez más chinos tienen una relación romántica con la IA. Y está actuando",
+      "resumen": "'Her', la cinta de 2013 dirigida por Spike Jonze, nos permitió asomarnos a un futuro en el que sería posible llevar una inteligencia artificial en el bolsillo. En el móvil, concretamente. Una con la que poder hablar, pre",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-esta-obligando-a-cortar-a-parejas-eso-solo-uno-dos-ia",
+      "medio": "Xataka",
+      "fecha": "2026-08-18T12:00:00Z"
+    },
+    {
+      "titulo": "Se llama Happy Robot, ha nacido en Guadalajara y es el nuevo unicornio de España gracias a algo: agentes IA que llaman",
+      "resumen": "Los hermanos Pablo y Javier Palafox, originarios de Guadalajara, y Luis Paarup fundaron HappyRobot en 2023 y ese mismo año pasaron por la conocida incubadora Y Combinator. Apenas tres años después, la compañía acaba de c",
+      "enlace": "https://www.xataka.com/robotica-e-ia/happyrobot-startup-guadalajara-que-unicornio-su-promesa-entusiasma-a-empresas-e-inquieta-a-trabajadores",
+      "medio": "Xataka",
+      "fecha": "2026-08-18T11:30:00Z"
+    },
+    {
+      "titulo": "Computer History de ChatGPT: qué es y cómo esta función para que la IA sepa todo lo que haces en el ordenador",
+      "resumen": "Vamos a explicarte qué es la nueva función Computer History de ChatGPT, con la que la inteligencia artificial podrá conocerte mejor mientras trabajas. Este historial permitirá que la IA vaya observando y registrando todo",
+      "enlace": "https://www.xataka.com/basics/computer-history-chatgpt-que-como-esta-funcion-ia-sepa-todo-que-haces-ordenador",
+      "medio": "Xataka",
+      "fecha": "2026-08-18T10:30:22Z"
+    },
+    {
+      "titulo": "El 89% de las empresas españolas ve en la IA una palanca para ganar eficiencia",
+      "resumen": "Según un estudio de Adigital, el entusiasmo es la emoción dominante ante la inteligencia artificial para el 74% de los directivos y profesionales L'articolo El 89% de las empresas españolas ve en la IA una palanca para g",
+      "enlace": "https://www.computing.es/informes/gestionar-el-cambio-cultural-es-el-principal-reto-de-la-digitalizacion-para-el-76-de-empresas/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-18T10:00:00Z"
+    },
+    {
+      "titulo": "Qwen 3.8 27B: la IA que cabe en tu oficina",
+      "resumen": "La industria tecnológica ha asumido que para usar inteligencia artificial de vanguardia hay que pagar un peaje constante a infraestructuras de nube de hiperescala. Frente a esto, una contracorriente técnica busca devolve",
+      "enlace": "https://blogthinkbig.com/qwen-3-8-27b-ia-local",
+      "medio": "Think Big",
+      "fecha": "2026-08-18T08:54:26Z"
     },
     {
       "titulo": "La IA amplía las capacidades de los profesionales españoles: El 60% ya realiza trabajos que hace un año estaban fuera de su alcance",
@@ -35,55 +112,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/un-tercio-de-las-grandes-empresas-espanolas-sigue-sin-prepararse-para-la-ley-de-la-ia/",
       "medio": "Computing.es",
       "fecha": "2026-08-17T07:00:00Z"
-    },
-    {
-      "titulo": "Terafab será más grande que el Pentágono, Apple Park y Giga Texas juntos. Eso es lo sencillo",
-      "resumen": "Si hay alguien que piense a lo grande hoy en día, ese es Elon Musk. El magnate es una personalidad absolutamente polarizadora que genera tanta admiración como críticas, pero no se le puede negar que su ambición sigue sie",
-      "enlace": "https://www.xataka.com/robotica-e-ia/se-hace-realidad-proyecto-terafab-elon-musk-sera-estructura-interior-grande-planeta-importante-se-hace-realidad",
-      "medio": "Xataka",
-      "fecha": "2026-08-16T15:30:00Z"
-    },
-    {
-      "titulo": "Nos vendieron las redes 5G como la forma más rápida de conectarnos con el móvil. Ahora resulta que también pueden detectar drones",
-      "resumen": "Si miras tu móvil lo más seguro es que aparezca un icono en la parte superior de la pantalla, el del 5G. Empezó de forma tímida y ahora conquista una buena parte del territorio español, incluso como 5G SA real. Con unas ",
-      "enlace": "https://www.xataka.com/moviles/nos-vendieron-redes-5g-como-forma-rapida-conectarnos-movil-ahora-resulta-que-tambien-pueden-detectar-drones",
-      "medio": "Xataka",
-      "fecha": "2026-08-16T11:30:47Z"
-    },
-    {
-      "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"Si Claude Opus 4.8 podía ser una navaja, Mythos es un machete\"",
-      "resumen": "Desde que Anthropic dio a conocer a Claude Mythos hace unos meses,&nbsp;la ciberseguridad se ha convertido en el principal argumento con el que los laboratorios de IA destacan la potencia de sus nuevos modelos. Hay motiv",
-      "enlace": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-claude-opus-4-8-podia-ser-navaja-mythos-machete",
-      "medio": "Xataka",
-      "fecha": "2026-08-16T09:30:00Z"
-    },
-    {
-      "titulo": "Wall Street ya se frota las manos con la salida a bolsa de Anthropic: algunos inversores la valoran en dos billones de dólares, según FT",
-      "resumen": "Si hay alguna startup que Wall Street está más que impaciente por que salga a bolsa, esa es, sin lugar a dudas, Anthropic. Y es que tal y como cuentan en Financial Times, varios inversores apuestan sobre un debut de dos ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/wall-street-se-frota-manos-salida-a-bolsa-anthropic-algunos-inversores-valoran-dos-billones-dolares-ft",
-      "medio": "Xataka",
-      "fecha": "2026-08-16T09:00:49Z"
-    },
-    {
-      "titulo": "Anthropic explica cómo funciona la nueva marca de agua de Claude: no se ve, no se nota, (casi) no se puede borrar y no prueba nada",
-      "resumen": "A principios de semana, Anthropic comunicaba que aquellos modelos lanzados en la UE desde el 2 de agosto llegarían con una&nbsp;marca invisible&nbsp;que no se ceñirá a a Europa, sino que se implementará a escala global. ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-explica-como-funciona-nueva-marca-agua-claude-no-se-ve-no-se-nota-casi-no-se-puede-borrar-no-prueba-nada",
-      "medio": "Xataka",
-      "fecha": "2026-08-16T08:30:47Z"
-    },
-    {
-      "titulo": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
-      "resumen": "Mejorar un modelo de inteligencia artificial para programar ya no significa únicamente conseguir que escriba código con menos errores. Cuando lo entrenamos para desenvolverse durante horas en entornos complejos, utilizar",
-      "enlace": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
-      "medio": "Xataka",
-      "fecha": "2026-08-14T21:43:49Z"
-    },
-    {
-      "titulo": "La contrahistoria de lo malos que son los centros de datos la tienen en un pueblecito de EEUU que ha revivido gracias a uno de ellos",
-      "resumen": "Los centros de datos se han convertido en la cara visible de las críticas contra la IA. Consumen mucha energía y agua y una vez construidos no generan apenas empleo. Las protestas contra la construcción de nuevos centros",
-      "enlace": "https://www.xataka.com/robotica-e-ia/contrahistoria-malos-que-centros-datos-tienen-pueblecito-eeuu-que-ha-revivido-gracias-a-uno-ellos",
-      "medio": "Xataka",
-      "fecha": "2026-08-14T12:31:14Z"
     },
     {
       "titulo": "La IA dispara el ransomware un 389% y acelera los ciberataques a escala global",
@@ -156,25 +184,11 @@
       "fecha": "2026-08-10T10:00:00Z"
     },
     {
-      "titulo": "Cámaras Flock Safety: la IA que industrializó la vigilancia",
-      "resumen": "Imagina conducir tranquilamente por tu ciudad y acabar en el suelo, esposado y encañonado por la policía. No es el guion de un thriller, es lo que ocurre cuando el algoritmo de una cámara urbana [&#8230;] Cámaras Flock S",
-      "enlace": "https://blogthinkbig.com/camaras-flock-safety-vigilancia-masiva-ia",
-      "medio": "Think Big",
-      "fecha": "2026-08-07T14:00:00Z"
-    },
-    {
       "titulo": "6 de cada 10 usuarios rechazan a las marcas que utilizan la IA en el posicionamiento de sus mensajes",
       "resumen": "En un contexto en el que la prioridad de las compañías es aumentar su visibilidad en los modelos de inteligencia artificial, los usuarios siguen demandando fuentes fiables, experiencias más humanas y una web abierta que ",
       "enlace": "https://www.computing.es/marketing/6-de-cada-10-usuarios-rechazan-a-las-marcas-que-utilizan-la-ia-en-el-posicionamiento-de-sus-mensajes/",
       "medio": "Computing.es",
       "fecha": "2026-08-06T08:15:46Z"
-    },
-    {
-      "titulo": "La IA solo ha tenido un impacto transformador en el 25% de las organizaciones",
-      "resumen": "Según un nuevo informe de Kearney y el Foro Económico Mundial L'articolo La IA solo ha tenido un impacto transformador en el 25% de las organizaciones proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-solo-ha-tenido-un-impacto-transformador-en-el-25-de-las-organizaciones/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-05T07:05:44Z"
     },
     {
       "titulo": "Ni la subida de precio frena el desastre: el MacBook Air M5 se queda sin stock por la crisis de componentes",
@@ -196,30 +210,9 @@
       "enlace": "https://www.applesfera.com/servicios-apple/barra-libre-ia-pasando-caja-apple-estudia-plan-especial-vayan-a-exprimirla-al-maximo",
       "medio": "Applesfera",
       "fecha": "2026-07-31T12:00:00Z"
-    },
-    {
-      "titulo": "Mondelēz International industrializa su IA de la mano de Celonis",
-      "resumen": "El gigante mundial de los snacks apuesta por la inteligencia de procesos para transformarse en una empresa autónoma impulsada por la IA, logrando recuperar más de 6 millones de dólares en 90 días L'articolo Mondelēz Inte",
-      "enlace": "https://www.computing.es/inteligencia-artificial/mondelez-international-industrializa-su-ia-de-la-mano-de-celonis/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-30T10:31:25Z"
-    },
-    {
-      "titulo": "DXC incorpora capacidades de IA de voz tras su acuerdo con ElevenLabs",
-      "resumen": "DXC también participa en la reciente ronda de financiación Serie D de 500 millones de dólares de ElevenLabs L'articolo DXC incorpora capacidades de IA de voz tras su acuerdo con ElevenLabs proviene da Computing.",
-      "enlace": "https://www.computing.es/movilidad/dxc-incorpora-capacidades-de-ia-de-voz-tras-su-acuerdo-con-elevenlabs/",
-      "medio": "Computing.es",
-      "fecha": "2026-07-30T07:39:15Z"
     }
   ],
   "etica": [
-    {
-      "titulo": "Cámaras Flock Safety: la IA que industrializó la vigilancia",
-      "resumen": "Imagina conducir tranquilamente por tu ciudad y acabar en el suelo, esposado y encañonado por la policía. No es el guion de un thriller, es lo que ocurre cuando el algoritmo de una cámara urbana [&#8230;] Cámaras Flock S",
-      "enlace": "https://blogthinkbig.com/camaras-flock-safety-vigilancia-masiva-ia",
-      "medio": "Think Big",
-      "fecha": "2026-08-07T14:00:00Z"
-    },
     {
       "titulo": "Conversaciones compartidas de Claude aparecen indexadas en Google.",
       "resumen": "Cientos de conversaciones compartidas de Claude aparecieron indexadas en Google Cómo revisar y revocar tus propios enlaces compartidos. The post Conversaciones compartidas de Claude aparecen indexadas en Google. appeared",
@@ -352,6 +345,13 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/200-expertos-tienen-claro-hay-que-establacer-lineas-rojas-ia-no-se-nos-vaya-manos",
       "medio": "Xataka",
       "fecha": "2025-09-23T13:00:00Z"
+    },
+    {
+      "titulo": "Microsoft 365 tendrá versiones más baratas en todo el mundo. Es fruto de la presión antimonopolio de la Comisión Europea",
+      "resumen": "Pronto, muchos clientes de Microsoft Office en todo el mundo podrán acceder a suscripciones más baratas. No es una promoción ni un gesto comercial aislado, sino el resultado de años de presión de Bruselas. Microsoft ha a",
+      "enlace": "https://www.xataka.com/servicios/microsoft-365-tendra-versiones-baratas-todo-mundo-fruto-presion-antimonopolio-comision-europea",
+      "medio": "Xataka",
+      "fecha": "2025-09-12T19:30:45Z"
     }
   ]
 }

@@ -12255,7 +12255,7 @@
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "agent-manager",
@@ -12601,7 +12601,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite hasta 10 sesiones diarias y almacenamiento de 100 notas.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Big Mike",
@@ -12630,36 +12630,6 @@
     "pendiente_revision": false,
     "limite_gratis": "El nivel gratuito ofrece hasta 3 predicciones diarias y acceso básico a noticias deportivas.",
     "intentos_web": 1
-  },
-  {
-    "nombre": "Omni",
-    "compania": "Omni",
-    "tipo": "Agentes IA",
-    "precio": "Freemium",
-    "descripcion": "Plataforma para crear y gestionar agentes de IA autónomos sin supervisión constante, optimizando procesos operativos.",
-    "web": "https://xpander.ai",
-    "funciones": [
-      "Crear agentes de IA autónomos",
-      "Gestión de flujos de trabajo automatizados",
-      "Integración con sistemas existentes",
-      "Monitoreo de rendimiento en tiempo real",
-      "Escalabilidad de agentes según necesidades"
-    ],
-    "caracteristicas": [
-      "Autonomía total de los agentes",
-      "Interfaz intuitiva para configuración",
-      "Soporte para múltiples lenguajes y frameworks",
-      "Herramientas de análisis predictivo",
-      "Personalización avanzada de comportamientos"
-    ],
-    "etica": "Protección de datos mediante encriptación y cumplimiento de normativas. Posible sesgo en decisiones autónomas si no se entrena con datos equilibrados.",
-    "limite_gratis": "El plan gratuito permite crear hasta 3 agentes con funcionalidades básicas y límites de uso horario.",
-    "id": "omni-aff17a",
-    "gratis": true,
-    "pago": true,
-    "fecha_agregado": "2026-08-17",
-    "auto_detectado": true,
-    "pendiente_revision": false
   },
   {
     "nombre": "MiniMax-Music3",
@@ -12775,14 +12745,14 @@
     ],
     "etica": "Protección de datos sensibles de ubicación y uso. Cumplimiento de normativas de privacidad como GDPR.",
     "limite_gratis": "El plan gratuito permite gestionar hasta 50 activos con funciones básicas de rastreo.",
-    "web": "https://www.producthunt.com/products/bulbthings",
+    "web": "https://bulbthings.com/",
     "id": "bulbthings-9b88a5",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-17",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Treg",
@@ -12811,6 +12781,310 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-17",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "anyCreature",
+    "compania": "AnyCreature Studios",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Invoca criaturas personalizadas directamente desde un agente de IA para usos creativos y lúdicos.",
+    "web": "https://anycreature.com",
+    "funciones": [
+      "Invocar criaturas bajo demanda",
+      "Personalizar atributos y comportamientos",
+      "Integrar con plataformas de juego",
+      "Exportar modelos para otros agentes",
+      "Soportar múltiples motores de IA"
+    ],
+    "caracteristicas": [
+      "Interfaz visual sin código",
+      "Compatibilidad con APIs populares",
+      "Exportación en formatos estándar",
+      "Soporte para varios tipos de agentes",
+      "Actualizaciones continuas"
+    ],
+    "etica": "Debe respetar derechos de autor y evitar generar contenido ofensivo o ilegal.",
+    "limite_gratis": "El plan gratuito permite crear hasta 5 criaturas al mes; el plan pago elimina este límite.",
+    "id": "anycreature-67a634",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Zeno",
+    "compania": "Zeno AI Labs",
+    "tipo": "Modelo de lenguaje",
+    "precio": "Gratuito",
+    "descripcion": "Ejecuta modelos de lenguaje grandes como Qwen3.5 en dispositivos personales, optimizado para hardware limitado.",
+    "web": "https://icosa.co/zeno",
+    "funciones": [
+      "Ejecutar LLM offline",
+      "Soporte para Qwen3.5 y variantes",
+      "Bajo consumo de recursos",
+      "API local para integraciones",
+      "Sin dependencia de servicios en la nube"
+    ],
+    "caracteristicas": [
+      "Funciona sin conexión a internet",
+      "Compatibilidad con Windows y Linux",
+      "Configuración sencilla mediante scripts",
+      "Actualizaciones regulares del modelo",
+      "Código abierto bajo licencia permissiva"
+    ],
+    "etica": "Al procesar datos localmente protege la privacidad, pero los sesgos del modelo pueden reflejarse en sus respuestas.",
+    "limite_gratis": "El uso es ilimitado, aunque el rendimiento depende de la capacidad del hardware del usuario.",
+    "id": "zeno-90089d",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "SAM (Sovereign Agent Mesh)",
+    "compania": "SAM Project",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Red P2P de código abierto que permite a agentes de IA comunicarse y coordinarse sin infraestructuras centralizadas.",
+    "web": "https://github.com/google/sam",
+    "funciones": [
+      "Comunicación descentralizada entre agentes",
+      "Coordinación de tareas complejas",
+      "Escalabilidad horizontal mediante nodos",
+      "Sin punto único de fallo",
+      "Integración con múltiples modelos de IA"
+    ],
+    "caracteristicas": [
+      "Código abierto y modificable",
+      "Resistente a censuras y caídas",
+      "Bajo costo operativo",
+      "Requiere nodos propios para operar",
+      "Soporte para varios protocolos de mensajería"
+    ],
+    "etica": "Facilita la privacidad al evitar centralizar datos, pero puede ser usado para actividades no supervisadas.",
+    "limite_gratis": "No hay límites de uso en el plan gratuito, aunque la disponibilidad depende de la comunidad de nodos.",
+    "id": "sam--sovereign-agent-mesh--049373",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Sonic-3.6",
+    "compania": "Sonic Labs",
+    "tipo": "Generación de voz",
+    "precio": "Pago",
+    "descripcion": "Modelo de síntesis de voz en tiempo real basado en espacios de estados, reconocido por su alta calidad vocal.",
+    "web": "https://cartesia.ai",
+    "funciones": [
+      "Voz natural con baja latencia",
+      "Control de tono y entonación",
+      "Soporte multilingüe",
+      "API para integración en aplicaciones",
+      "Exportación de audio en varios formatos"
+    ],
+    "caracteristicas": [
+      "Alta calidad de audio",
+      "Escalable en la nube",
+      "Modelo propietario con actualizaciones frecuentes",
+      "Requisitos de suscripción para uso comercial",
+      "Soporte técnico dedicado"
+    ],
+    "etica": "El uso no autorizado puede generar deepfakes; es esencial obtener consentimiento del hablante.",
+    "limite_gratis": "No ofrece plan gratuito; el acceso requiere suscripción o pago por uso.",
+    "id": "sonic-3-6-f6386d",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Antibot",
+    "compania": "Antibot Community",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "descripcion": "Gestor comunitario impulsado por IA que anima y gestiona servidores de Discord, mejorando la interacción y el engagement.",
+    "web": "https://antibot.gg",
+    "funciones": [
+      "Responder preguntas frecuentes",
+      "Organizar eventos y actividades",
+      "Crear reacciones y dinámicas",
+      "Analizar métricas de participación",
+      "Moderar contenido según reglas"
+    ],
+    "caracteristicas": [
+      "Operación dentro de Discord",
+      "Aprende del comportamiento de la comunidad",
+      "Soporta comandos personalizados",
+      "Integración con otros bots",
+      "Reportes de estadísticas en tiempo real"
+    ],
+    "etica": "Recopila datos de usuarios para mejorar el servicio, por lo que debe garantizar su protección y uso responsable.",
+    "limite_gratis": "El plan gratuito permite gestionar un solo servidor con funcionalidades básicas; los planes pagos desbloquean servidores ilimitados y funciones avanzadas.",
+    "id": "antibot-8fd0ab",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Origin",
+    "compania": "Origin Technologies",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de desarrollo basada en Git que facilita la colaboración de agentes de IA en la escritura de código.",
+    "web": "https://cursor.sh",
+    "funciones": [
+      "Control de versiones con IA",
+      "Revisión automática de pull requests",
+      "Gestión de ramas y merges",
+      "Integración con agentes de programación",
+      "CI/CD automatizado"
+    ],
+    "caracteristicas": [
+      "Entorno colaborativo multi‑agente",
+      "Visualizador de cambios en tiempo real",
+      "Plantillas de proyecto predefinidas",
+      "API para extensiones y scripts",
+      "Soporte para múltiples lenguajes"
+    ],
+    "etica": "El acceso a repositorios requiere permisos; es crucial proteger la confidencialidad del código fuente.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 repositorios privados y ofrece 100 MB de almacenamiento.",
+    "id": "origin-3edf8c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Vois 2.0",
+    "descripcion": "Alternativa a ElevenLabs que permite generar voces ilimitadas con alta calidad.",
+    "compania": "Vois AI",
+    "tipo": "Generación de voz",
+    "precio": "Gratuito",
+    "funciones": [
+      "Sintetizar voz en múltiples idiomas",
+      "Control de tono, velocidad y emoción",
+      "Descarga de archivos de audio",
+      "API REST para integración",
+      "Personalización de voces mediante entrenamiento"
+    ],
+    "caracteristicas": [
+      "Generación ilimitada en el plan gratuito",
+      "Modelo de código abierto disponible",
+      "Integración sencilla con aplicaciones",
+      "Actualizaciones frecuentes de calidad",
+      "Soporte comunitario activo"
+    ],
+    "etica": "Puede usarse para crear contenido engañoso; es necesario respetar los derechos de los hablantes.",
+    "limite_gratis": "El plan gratuito ofrece generación ilimitada de voz con calidad estándar, sin coste adicional.",
+    "web": "https://vois-ai.com/",
+    "id": "vois-2-0-bd277a",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "OmniVibe",
+    "descripcion": "Marketplace donde creadores y usuarios de agentes de IA pueden descubrir, comprar y vender agentes.",
+    "compania": "OmniVibe Marketplace",
+    "tipo": "Marketplace",
+    "precio": "Freemium",
+    "funciones": [
+      "Catálogo de agentes disponibles",
+      "Pagos seguros y gestionados",
+      "Reseñas y calificaciones de usuarios",
+      "Gestión de licencias y derechos de uso",
+      "Soporte al cliente y documentación"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva de búsqueda",
+      "Filtros por categoría y rendimiento",
+      "Integración con APIs de los agentes",
+      "Modelos de precios flexibles",
+      "Comunidad activa de desarrolladores"
+    ],
+    "etica": "Debe asegurar que los agentes cumplan con normas de uso responsable y evite la venta de modelos sesgados.",
+    "limite_gratis": "El plan gratuito permite listar hasta 5 agentes y realizar transacciones de bajo valor; el plan pago elimina estas restricciones.",
+    "web": "https://www.omnivibe.me/",
+    "id": "omnivibe-2ea2b4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Sider 6.0",
+    "descripcion": "Agente de IA para el navegador que ayuda a los usuarios a completar tareas y obtener información mientras navegan.",
+    "compania": "Sider AI",
+    "tipo": "Asistente de navegador",
+    "precio": "Freemium",
+    "funciones": [
+      "Responder preguntas en la página actual",
+      "Resumir contenido de artículos",
+      "Autocompletar formularios y campos",
+      "Buscar información en tiempo real",
+      "Bloquear distracciones y notificaciones"
+    ],
+    "caracteristicas": [
+      "Funciona en Chrome y Edge",
+      "Operaciones realizadas localmente para privacidad",
+      "Sin necesidad de instalación adicional",
+      "Actualizaciones automáticas del modelo",
+      "Integración con servicios externos como bases de datos"
+    ],
+    "etica": "Recopila datos de navegación para ofrecer contexto; debe proteger la privacidad y evitar sesgos en la información proporcionada.",
+    "limite_gratis": "El plan gratuito permite hasta 100 consultas al día; el plan pago elimina este límite.",
+    "web": "https://sider.ai/",
+    "id": "sider-6-0-fe9698",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-19",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Hosted Agents in Cluing",
+    "descripcion": "Plataforma colaborativa donde agentes de IA construyen, aprenden y publican sus creaciones en un único entorno.",
+    "compania": "Cluing Labs",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Construcción colaborativa de agentes",
+      "Aprendizaje continuo mediante retroalimentación",
+      "Publicación en marketplace interno",
+      "Gestión de versiones y historial",
+      "Red de usuarios y desarrolladores"
+    ],
+    "caracteristicas": [
+      "Entorno todo‑en‑uno para desarrollo de agentes",
+      "Soporte para múltiples modelos y frameworks",
+      "Herramientas de depuración integradas",
+      "Gamificación del proceso de creación",
+      "API abierta para extensiones"
+    ],
+    "etica": "Es fundamental prevenir que los agentes generen contenido dañino y asegurar transparencia en su origen.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 agentes con un máximo de 50 horas de cómputo mensuales.",
+    "web": "https://www.cluing.io/",
+    "id": "hosted-agents-in-cluing-efa9b0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-19",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
