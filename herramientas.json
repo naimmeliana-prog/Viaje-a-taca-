@@ -4216,7 +4216,7 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com/",
+    "web": "https://cewsco.com/about",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
@@ -12076,7 +12076,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite crear y gestionar agentes inteligentes sin necesidad de claves API ni configuración compleja.",
-    "web": "https://octomind.dev/",
+    "web": "https://octomind.run/",
     "funciones": [
       "Creación de agentes inteligentes",
       "Gestión centralizada de múltiples agentes",
@@ -12248,14 +12248,14 @@
     ],
     "etica": "Garantiza anonimización de datos y cumplimiento de normativas de protección de privacidad.",
     "limite_gratis": "La versión gratuita permite analizar hasta 5 proyectos y 100 usuarios.",
-    "web": "https://www.producthunt.com/products/kubit",
+    "web": "https://amplitude.com/ai-agents",
     "id": "product-analytics-for-agents-and-users-91e130",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-11",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "agent-manager",
@@ -12591,7 +12591,7 @@
       "Personalizable según preferencias del usuario"
     ],
     "etica": "Los datos de los usuarios se almacenan en la nube; se deben considerar los sesgos inherentes a los modelos LLM subyacentes.",
-    "web": "https://www.producthunt.com/products/nenspace",
+    "web": "https://nenspace.com/",
     "tipo": "Productividad",
     "compania": "nenspace",
     "id": "nenspace-8af57d",
@@ -12601,7 +12601,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite hasta 10 sesiones diarias y almacenamiento de 100 notas.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Big Mike",
@@ -12791,7 +12791,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Invoca criaturas personalizadas directamente desde un agente de IA para usos creativos y lúdicos.",
-    "web": "https://anycreature.com",
+    "web": "https://github.com/Ariescar/anyCreature",
     "funciones": [
       "Invocar criaturas bajo demanda",
       "Personalizar atributos y comportamientos",
@@ -12813,7 +12813,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-19",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Zeno",
@@ -13087,6 +13088,182 @@
     "fecha_agregado": "2026-08-19",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "S1-mini",
+    "compania": "Inferida (posiblemente una startup de procesamiento de lenguaje)",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "S1-mini es un normalizador de texto que elimina rellenos y correcciones en transcripciones de ASR, optimizando la calidad del texto.",
+    "web": "https://icosa.co/zeno",
+    "funciones": [
+      "Limpia transcripciones de ASR",
+      "Elimina rellenos como 'um' o 'uh'",
+      "Corre errores de pronunciación"
+    ],
+    "caracteristicas": [
+      "Ligero (462 MB)",
+      "Fácil de integrar",
+      "Procesamiento rápido"
+    ],
+    "etica": "Respetar la privacidad de los datos de transcripción y evitar sesgos en la eliminación de rellenos.",
+    "id": "s1-mini-68f472",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece uso ilimitado en la versión gratuita."
+  },
+  {
+    "nombre": "AutoFigure",
+    "compania": "Inferida (posiblemente una empresa de diseño o IA visual)",
+    "tipo": "Generación de gráficos",
+    "precio": "Freemium",
+    "descripcion": "AutoFigure genera figuras profesionales a partir de textos y artículos científicos, facilitando la creación de visualizaciones.",
+    "web": "https://www.autofigure.com",
+    "funciones": [
+      "Crea gráficos a partir de texto",
+      "Adapta figuras a artículos científicos",
+      "Personaliza diseños"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Alta calidad de salida",
+      "Soporte para múltiples formatos"
+    ],
+    "etica": "Garantizar la precisión en la representación de datos y evitar sesgos en la generación de figuras.",
+    "id": "autofigure-bbc26e",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece un número limitado de figuras por mes en el plan gratuito."
+  },
+  {
+    "nombre": "Local",
+    "descripcion": "IA local para Mac que funciona sin conexión y sin fricción.",
+    "precio": "Gratuito",
+    "funciones": [
+      "Ejecuta modelos de IA offline",
+      "Soporte para voz y texto",
+      "Integración con aplicaciones locales",
+      "Privacidad total de datos",
+      "Sin necesidad de internet"
+    ],
+    "caracteristicas": [
+      "Funciona sin conexión",
+      "Rendimiento rápido en hardware Mac",
+      "Interfaz nativa",
+      "Modelos personalizables",
+      "Seguridad de datos"
+    ],
+    "etica": "Los datos permanecen en el dispositivo, protegiendo la privacidad. Puede haber sesgos si el modelo está entrenado con datos sesgados.",
+    "web": "https://localai.io/",
+    "tipo": "Productividad",
+    "compania": "Local AI",
+    "id": "local-509820",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "La versión gratuita permite usar la IA local con funciones básicas, sin acceso a actualizaciones premium.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Wizstar",
+    "descripcion": "Crea avatares digitales que se mueven y actúan como actores profesionales.",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de avatares personalizados",
+      "Animación facial y corporal",
+      "Sincronización de voz",
+      "Interacción en tiempo real",
+      "Exportación a video"
+    ],
+    "caracteristicas": [
+      "Modelos de alta fidelidad",
+      "Soporte multiplataforma",
+      "Capacidad de aprendizaje",
+      "Personalización de expresiones",
+      "Renderizado en tiempo real"
+    ],
+    "etica": "Los avatares pueden usarse para desinformación si no se controla. Se requiere consentimiento para usar la imagen de personas reales.",
+    "web": "https://wizstar.com/",
+    "tipo": "Agentes IA",
+    "compania": "Wizstar AI",
+    "id": "wizstar-76fb8d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite crear y animar un número limitado de avatares con marcas de agua.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Supernova",
+    "descripcion": "Centraliza tus datos en Claude y Codex para mejorar la productividad y desarrollo.",
+    "precio": "Freemium",
+    "funciones": [
+      "Almacenamiento seguro de datos",
+      "Integración con modelos de IA",
+      "Asistencia en código",
+      "Gestión de historial de prompts",
+      "Soporte multilingüe"
+    ],
+    "caracteristicas": [
+      "Interfaz unificada",
+      "Compatibilidad con múltiples modelos",
+      "Seguridad de datos",
+      "Escalabilidad",
+      "Soporte multilingüe"
+    ],
+    "etica": "Los datos se almacenan en servidores de la empresa, lo que puede plantear preocupaciones de privacidad. Posible sesgo en los modelos subyacentes.",
+    "web": "https://www.supernova.io/",
+    "tipo": "Asistente de programación",
+    "compania": "Supernova AI",
+    "id": "supernova-8776b7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "La versión gratuita ofrece acceso limitado a funciones de integración y almacenamiento.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ShogunAI",
+    "descripcion": "AGI personal que ejecuta tareas complejas en tu PC.",
+    "precio": "Pago",
+    "funciones": [
+      "Autonomía para completar tareas",
+      "Aprendizaje continuo",
+      "Integración con aplicaciones",
+      "Interfaz de voz y texto",
+      "Adaptación a estilo de trabajo"
+    ],
+    "caracteristicas": [
+      "Ejecutado localmente",
+      "Alta capacidad de razonamiento",
+      "Personalizable",
+      "Soporte multiplataforma",
+      "Rendimiento optimizado"
+    ],
+    "etica": "Los datos permanecen en el dispositivo, pero el modelo puede contener sesgos. Impacto ambiental por consumo de recursos.",
+    "web": "https://shogunaios.com/",
+    "tipo": "Agentes IA",
+    "compania": "ShogunAI",
+    "id": "shogunai-c77192",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-21",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito; requiere compra para acceder a la AGI completa.",
     "intentos_web": 1
   }
 ]
