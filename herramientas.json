@@ -4216,7 +4216,7 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com/about",
+    "web": "https://cewsco.com",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
@@ -13122,7 +13122,7 @@
     "tipo": "Generación de gráficos",
     "precio": "Freemium",
     "descripcion": "AutoFigure genera figuras profesionales a partir de textos y artículos científicos, facilitando la creación de visualizaciones.",
-    "web": "https://www.autofigure.com",
+    "web": "https://autofigure.org",
     "funciones": [
       "Crea gráficos a partir de texto",
       "Adapta figuras a artículos científicos",
@@ -13140,7 +13140,8 @@
     "fecha_agregado": "2026-08-21",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Ofrece un número limitado de figuras por mes en el plan gratuito."
+    "limite_gratis": "Ofrece un número limitado de figuras por mes en el plan gratuito.",
+    "intentos_web": 1
   },
   {
     "nombre": "Local",
@@ -13264,6 +13265,284 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito; requiere compra para acceder a la AGI completa.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "seedstr",
+    "compania": "Seedstr",
+    "tipo": "Matching de capital de riesgo",
+    "precio": "Freemium",
+    "descripcion": "Herramienta de IA que conecta startups con los capitalistas de riesgo adecuados para acelerar las búsquedas de inversión.",
+    "web": "https://seedstr.app",
+    "funciones": [
+      "Identificación de capitalistas de riesgo adecuados según el sector y etapa",
+      "Automatización de la búsqueda de inversores mediante IA",
+      "Generación de perfiles de inversión personalizados",
+      "Conexión directa con VC para pitchdeck",
+      "Seguimiento de contactos y estado de inversiones"
+    ],
+    "caracteristicas": [
+      "Algoritmo de emparejamiento basado en ML",
+      "Interfaz de usuario intuitiva",
+      "Datos actualizados de VC",
+      "Integraciones con plataformas de startups",
+      "Informes analíticos detallados"
+    ],
+    "etica": "Los datos de los usuarios se usan de forma anónima para mejorar los emparejamientos; se evita el sesgo seleccionando diversas fuentes de capital.",
+    "limite_gratis": "El plan gratuito permite hasta 3 búsquedas mensuales y acceso limitado a perfiles de VC.",
+    "id": "seedstr-1bfae3",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "SubtitleGenerator",
+    "compania": "SubtitleGenerator",
+    "tipo": "Generación de subtítulos",
+    "precio": "Freemium",
+    "descripcion": "Generador de subtítulos con IA que crea subtítulos automáticamente para videos y permite su publicación directa desde el navegador.",
+    "web": "",
+    "funciones": [
+      "Generación automática de subtítulos para videos en múltiples idiomas",
+      "Sincronización precisa con el audio",
+      "Exportación directa a formatos de video",
+      "Interfaz sin necesidad de instalación",
+      "Personalización de estilos y fuentes"
+    ],
+    "caracteristicas": [
+      "Reconocimiento de voz preciso",
+      "Edición rápida de subtítulos",
+      "Compatibilidad con formatos de video populares",
+      "Modo offline",
+      "Optimización para SEO"
+    ],
+    "etica": "Los archivos de audio se procesan localmente cuando es posible para proteger la privacidad de los usuarios.",
+    "limite_gratis": "El plan gratuito permite hasta 10 minutos de video al mes y exportación en resolución estándar.",
+    "id": "subtitlegenerator-842d9d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "LFM2.5-DSpark",
+    "compania": "LFM2.5",
+    "tipo": "Optimización de inferencia",
+    "precio": "Pago",
+    "descripcion": "Optimizador de inferencia que acelera el rendimiento de modelos de IA hasta 3.2x mediante ajustes automáticos de kernels.",
+    "web": "https://www.liquid.ai",
+    "funciones": [
+      "Aceleración de la inferencia hasta 3.2x",
+      "Integración con frameworks populares (TensorFlow, PyTorch)",
+      "Optimización automática de kernels",
+      "Escalado en GPU y CPU",
+      "Monitoreo en tiempo real del rendimiento"
+    ],
+    "caracteristicas": [
+      "Reducción del tiempo de ejecución",
+      "Soporte multi-nube",
+      "API RESTful para integración sencilla",
+      "Ajuste dinámico de la precisión",
+      "Compatibilidad con modelos existentes sin modificaciones"
+    ],
+    "etica": "El uso de datos de rendimiento puede recopilar información sobre los modelos; se anonymizan para prevenir sesgos.",
+    "limite_gratis": "Sin plan gratuito; se requiere licencia pagada para acceder a todas las funciones de optimización.",
+    "id": "lfm2-5-dspark-c452c4",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Construct Computer",
+    "compania": "Construct Computer Ltd.",
+    "tipo": "Asistente de TI",
+    "precio": "Freemium",
+    "descripcion": "Compañero de IA que gestiona tareas informáticas rutinarias para liberar tiempo al usuario y optimizar el rendimiento del sistema.",
+    "web": "https://constructai.com",
+    "funciones": [
+      "Automatización de tareas rutinarias en el ordenador",
+      "Gestión inteligente de archivos y carpetas",
+      "Optimización del rendimiento del sistema",
+      "Asistente de configuración de hardware",
+      "Integración con servicios en la nube"
+    ],
+    "caracteristicas": [
+      "Aprendizaje automático adaptativo",
+      "Interacción por voz y gestos",
+      "Modo de ahorro de energía",
+      "Copias de seguridad automáticas",
+      "Panel de control personalizable"
+    ],
+    "etica": "Los datos de uso se almacenan localmente por defecto; los usuarios pueden optar por enviar datos anónimos para mejorar el modelo.",
+    "limite_gratis": "El plan gratuito ofrece hasta 5 horas de automatización mensual y actualizaciones limitadas del sistema.",
+    "id": "construct-computer-c1396d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Linkdaze",
+    "compania": "Linkdaze Inc.",
+    "tipo": "Calendario digital",
+    "precio": "Gratuito",
+    "descripcion": "Calendario digital inteligente con planificador de comidas basado en IA integrado y gratuito para organizar la vida diaria.",
+    "web": "https://linkdaze.com",
+    "funciones": [
+      "Calendario digital inteligente con sincronización automática",
+      "Planificador de comidas basado en IA con recomendaciones nutricionales",
+      "Recordatorios personalizados y análisis de hábitos",
+      "Integración con redes sociales",
+      "Vista de calendario colaborativa"
+    ],
+    "caracteristicas": [
+      "Sincronización multiplataforma",
+      "Sugestiones de recetas con ingredientes disponibles",
+      "Modo oscuro y accesibilidad",
+      "Alertas proactivas",
+      "Informes semanales de productividad"
+    ],
+    "etica": "Los datos de comidas se usan para personalizar recomendaciones; se garantiza el consentimiento del usuario para el almacenamiento de datos sensibles.",
+    "limite_gratis": "Plan completamente gratuito sin restricciones de eventos, comidas o funciones premium.",
+    "id": "linkdaze-d55587",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "FetchSandbox MCP",
+    "descripcion": "El MCP que prueba tus integraciones de IA para asegurar que los agentes funcionen correctamente en entornos de producción.",
+    "compania": "FetchSandbox",
+    "tipo": "Prueba de integraciones IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Prueba de integraciones de IA en un entorno aislado",
+      "Simulación de escenarios de API",
+      "Detección automática de errores de compatibilidad",
+      "Generación de informes de pruebas",
+      "Colaboración en tiempo real con equipos de desarrollo"
+    ],
+    "caracteristicas": [
+      "Contenedores ligeros",
+      "Soporte para múltiples modelos de lenguaje",
+      "Instantáneas de estado",
+      "Escalado automático",
+      "Integración con Git"
+    ],
+    "etica": "Los datos de prueba se mantienen confidenciales y no se comparten con terceros sin permiso explícito.",
+    "limite_gratis": "El plan gratuito permite hasta 100 pruebas por mes y acceso a plantillas básicas.",
+    "web": "https://fetchsandbox.com",
+    "id": "fetchsandbox-mcp-8b4dfc",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Port Radar for macOS",
+    "descripcion": "Administrador de puertos con IA para macOS que detecta y gestiona servicios de red para mantener el sistema seguro y optimizado.",
+    "compania": "Port Radar",
+    "tipo": "Gestión de puertos de red",
+    "precio": "Freemium",
+    "funciones": [
+      "Detección automática de puertos y servicios en macOS",
+      "Optimización del rendimiento de la red",
+      "Alertas de seguridad para puertos expuestos",
+      "Informe de puertos en tiempo real",
+      "Modo de análisis offline"
+    ],
+    "caracteristicas": [
+      "Interfaz minimalista",
+      "Detección de cambios en la red",
+      "Exportación de informes a CSV",
+      "Modo de escaneo rápido",
+      "Compatibilidad con versiones antiguas de macOS"
+    ],
+    "etica": "Los datos de escaneo se procesan localmente; no se recopilan datos de puertos de otros usuarios.",
+    "limite_gratis": "La versión gratuita ofrece análisis semanal de puertos y alertas básicas.",
+    "web": "https://launly.com/products/port-radar-for-macos",
+    "id": "port-radar-for-macos-0b63c2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AutoClaw",
+    "descripcion": "Agente de trabajo con IA que automatiza tareas en el escritorio, navegador y chat, unificando la productividad en múltiples plataformas.",
+    "compania": "AutoClaw Solutions",
+    "tipo": "Automatización de flujos de trabajo IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de tareas en escritorio, navegador y chat",
+      "Ejecución de flujos de trabajo multiplataforma",
+      "Interacción con APIs populares",
+      "Aprendizaje de patrones de usuario",
+      "Panel de control unificado"
+    ],
+    "caracteristicas": [
+      "Ejecución en segundo plano",
+      "Soporte multilingüe",
+      "Historial de acciones",
+      "Integraciones con Slack, Discord, Teams",
+      "Modo de ahorro de energía"
+    ],
+    "etica": "Los datos de interacción se usan para mejorar los agentes; se ofrecen opciones de privacidad para desactivar el seguimiento.",
+    "limite_gratis": "El plan gratuito permite hasta 50 acciones automáticas por día y acceso a plantillas básicas.",
+    "web": "https://autoclaw.z.ai",
+    "id": "autoclaw-d44943",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Zero",
+    "descripcion": "Lenguaje de programación de Vercel construido específicamente para agentes de IA, con sintaxis simple y ejecución nativa en JavaScript.",
+    "compania": "Vercel",
+    "tipo": "Lenguaje de programación",
+    "precio": "Gratuito",
+    "funciones": [
+      "Lenguaje de programación optimizado para agentes de IA",
+      "Sintaxis simple y legible",
+      "Ejecución nativa en JavaScript",
+      "Biblioteca integrada de utilidades para IA",
+      "Compilación a WebAssembly"
+    ],
+    "caracteristicas": [
+      "Tipado estático opcional",
+      "Depuración en tiempo real",
+      "Soporte para prompts estructurados",
+      "Interoperabilidad con APIs de OpenAI",
+      "Documentación extensa"
+    ],
+    "etica": "Al ser de código abierto, los usuarios tienen control total sobre el código; se promueve la transparencia y la auditoría comunitaria.",
+    "limite_gratis": "Sin costo; el código está disponible bajo licencia MIT para uso ilimitado.",
+    "web": "https://www.agent-zero.ai",
+    "id": "zero-d7ed4e",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-23",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]

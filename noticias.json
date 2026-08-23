@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-08-21T23:16:36Z",
+  "actualizado": "2026-08-23T23:16:19Z",
   "novedades": [
+    {
+      "titulo": "Los becarios en la banca ya vienen con la IA bajo el brazo: ahora le enseñan cómo funciona a sus jefes",
+      "resumen": "Hoy por hoy, cuando hay trabajo repetitivo, mecánico y tedioso por delante que involucre documentación y mucho Excel, no son pocos precisamente los que recurren a la IA generativa. Esto también se aplica a la banca donde",
+      "enlace": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
+      "medio": "Xataka",
+      "fecha": "2026-08-23T10:31:33Z"
+    },
+    {
+      "titulo": "El profesorado se las prometía muy felices con la marca de agua de Anthropic. En un día ya la habían hackeado (y no hacía falta)",
+      "resumen": "La semana pasada, Anthropic anunciaba la llegada de su marca de agua para los textos generados con Claude, con el fin de cumplir así con la legislación europea. Tras el revuelo causado y las amenazas de bajas en la suscr",
+      "enlace": "https://www.xataka.com/robotica-e-ia/profesorado-se-prometia-muy-felices-marca-agua-anthropic-dia-habian-hackeado-no-falta",
+      "medio": "Xataka",
+      "fecha": "2026-08-23T08:01:33Z"
+    },
+    {
+      "titulo": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
+      "resumen": "La escena parece sacada de Ally McBeal: un abogado presenta un recurso de apelación ante la Sala de lo Penal del Tribunal Superior de Justicia de Canarias contra un fallo de la Audiencia Provincial de Santa Cruz de Tener",
+      "enlace": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
+      "medio": "Xataka",
+      "fecha": "2026-08-22T15:31:33Z"
+    },
+    {
+      "titulo": "LG y Nvidia llegan a un acuerdo para fabricar robots humanoides. Empiezan por unos con ruedas en una fábrica de lavadoras",
+      "resumen": "LG ha llegado a un acuerdo con Nvidia para desarrollar robots humanoides, y también para establecer una infraestructura de fábricas basadas en la inteligencia artificial y crear sistemas de vehículos autónomos de última ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/lg-nvidia-llegan-a-acuerdo-para-fabricar-robots-humanoides-empiezan-unos-ruedas-fabrica-lavadoras",
+      "medio": "Xataka",
+      "fecha": "2026-08-22T10:01:33Z"
+    },
     {
       "titulo": "Hasta ahora había que entrenar a un robot para cada tarea nueva. La nueva idea es mucho más simple: que te mire unos segundos",
       "resumen": "La firma de robótica e inteligencia artificial Generalist AI ha presentado un modelo llamado GEN-1.5 capaz de intentar una nueva tarea tras observar una única demostración de entre tres y 12 segundos. Lo llaman \"physical",
@@ -86,27 +114,6 @@
       "fecha": "2026-08-19T19:01:33Z"
     },
     {
-      "titulo": "Anthropic puso a su IA a generar proteínas durante 48 horas. Obtuvo una tasa de acierto del 35% frente al 15% de la industria",
-      "resumen": "La IA ya nos ha asombrado en el ámbito de las matemáticas, y ahora quiere hacerlo en el de la química.&nbsp;Es desde luego lo que ha logrado Anthropic, que puso a trabajar a Claude de forma autónoma durante unas 48 horas",
-      "enlace": "https://www.xataka.com/robotica-e-ia/claude-diseno-proteinas-15-objetivos-cuando-fabricaron-laboratorio-funcionaron-14",
-      "medio": "Xataka",
-      "fecha": "2026-08-19T15:30:00Z"
-    },
-    {
-      "titulo": "Es oficial: ChatGPT con anuncios llegará a España el próximo lunes 24 de agosto",
-      "resumen": "Los anuncios de ChatGPT ya tienen fecha de llegada a España. OpenAI ha confirmado que el próximo lunes 25 de agosto ampliará su sistema publicitario a 31 países europeos, entre ellos España, Alemania, Francia, Italia, Su",
-      "enlace": "https://www.xataka.com/robotica-e-ia/oficial-chatgpt-anuncios-llegara-a-espana-proximo-lunes-24-agosto",
-      "medio": "Xataka",
-      "fecha": "2026-08-19T10:51:00Z"
-    },
-    {
-      "titulo": "Alguien ha echado un vistazo a las cuentas de Microsoft con los chips para IA y ha descubierto algo preocupante: no cuadran",
-      "resumen": "Este 2026, cuatro Big Tech se fundirán 760.000 millones de dólares en la IA. Dentro de esa inversión se encuadran los chips, pero también la energía y las infraestructuras: todo lo necesario para seguir escalando la tecn",
-      "enlace": "https://www.xataka.com/empresas-y-economia/hiperescaladores-tienen-miles-chips-ia-sacar-sus-cajas-sencilla-razon-centros-datos-no-se-levantan-dia",
-      "medio": "Xataka",
-      "fecha": "2026-08-19T10:30:00Z"
-    },
-    {
       "titulo": "Del descubrimiento de vulnerabilidades a la soberanía cognitiva: Por qué el verdadero reto de la IA es la resiliencia",
       "resumen": "La preocupación no son los agentes de IA maliciosos, sino que los sistemas, cada vez más autónomos, aceleran drásticamente el descubrimiento de errores, vulnerabilidades y vías de ataque, lo que deja a las organizaciones",
       "enlace": "https://www.computing.es/seguridad/del-descubrimiento-de-vulnerabilidades-a-la-soberania-cognitiva-por-que-el-verdadero-reto-de-la-ia-es-la-resiliencia/",
@@ -126,13 +133,6 @@
       "enlace": "https://www.applesfera.com/aplicaciones-ios/no-se-nada-programacion-he-creado-esta-app-10-minutos-solo-chatgpt-iphone",
       "medio": "Applesfera",
       "fecha": "2026-08-19T08:00:23Z"
-    },
-    {
-      "titulo": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
-      "resumen": "Cuando hablamos de la carrera de la inteligencia artificial solemos mirar hacia los modelos: GPT, Gemini, Claude, DeepSeek y la siguiente generación que promete ser más capaz, más rápida o más eficiente. Sin embargo, det",
-      "enlace": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
-      "medio": "Xataka",
-      "fecha": "2026-08-18T19:00:22Z"
     },
     {
       "titulo": "El 89% de las empresas españolas ve en la IA una palanca para ganar eficiencia",
