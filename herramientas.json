@@ -4216,7 +4216,7 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com/about",
+    "web": "https://cewsco.com/features",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
@@ -10087,7 +10087,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Monitorea la disponibilidad, latencia y costo de diversos servicios de IA en tiempo real mediante un panel público.",
-    "web": "https://aistatus.org/",
+    "web": "https://aitoolstatustracker.com/",
     "funciones": [
       "Monitoreo de uptime",
       "Medición de latencia",
@@ -13829,7 +13829,7 @@
     "fecha_agregado": "2026-08-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Marble MCP",
@@ -13884,13 +13884,258 @@
     ],
     "etica": "Garantiza la privacidad de los datos de las reuniones, evitando el uso de bots y minimizando el almacenamiento de información sensible. Promueve un entorno inclusivo y libre de sesgos al procesar conversaciones.",
     "limite_gratis": "El plan gratuito incluye transcripción en tiempo real y resúmenes básicos, con limitaciones en funciones avanzadas y almacenamiento.",
-    "web": "https://www.producthunt.com/products/assistly-4",
+    "web": "https://www.assistlyai.com/",
     "id": "assistly-66483c",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-25",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Qwen3.8-Flash-Next",
+    "compania": "Alibaba",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Gratuito",
+    "descripcion": "Vista previa de pesos abiertos del Qwen4 que ofrece un rendimiento mejorado y una eficiencia optimizada para desarrolladores e investigadores.",
+    "web": "https://qwen.ai",
+    "funciones": [
+      "Generación de texto",
+      "Comprensión de lenguaje",
+      "Traducción automática",
+      "Resumen de documentos",
+      "Chat interactivo"
+    ],
+    "etica": "El modelo puede generar contenido sesgado; se recomienda su uso responsable y con supervisión humana.",
+    "caracteristicas": [
+      "Arquitectura de transformer",
+      "Pesos abiertos",
+      "Alto rendimiento",
+      "Eficiencia energética",
+      "Comunidad activa"
+    ],
+    "id": "qwen3-8-flash-next-998076",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Acceso completo a los pesos para uso no comercial, con restricciones de uso comercial."
+  },
+  {
+    "nombre": "Flock",
+    "compania": "Flock",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Proporciona a las agencias policiales herramientas de IA para reconocimiento facial, mapeo de crímenes y gestión de evidencia.",
+    "web": "https://www.flocksafety.com",
+    "funciones": [
+      "Reconocimiento facial",
+      "Mapeo de crímenes",
+      "Gestión de evidencia",
+      "Análisis de patrones",
+      "Generación de informes"
+    ],
+    "etica": "El uso de reconocimiento facial plantea preocupaciones de privacidad y sesgo; se recomienda su aplicación con supervisión y marcos legales.",
+    "caracteristicas": [
+      "IA de seguridad",
+      "Procesamiento de imágenes",
+      "Integración con bases de datos",
+      "Interfaz web",
+      "Reportes"
+    ],
+    "id": "flock-ec9c8d",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
+  },
+  {
+    "nombre": "Solución de inferencia de IA de AMD y Cerebras",
+    "compania": "AMD y Cerebras",
+    "tipo": "Productividad",
+    "precio": "Pago",
+    "descripcion": "Solución conjunta que ofrece inferencia de IA de ultra baja latencia y alto rendimiento para cargas de trabajo de centros de datos.",
+    "web": "https://www.cerebras.ai",
+    "funciones": [
+      "Inferencia de baja latencia",
+      "Alto rendimiento",
+      "Optimización de hardware",
+      "Escalabilidad",
+      "Integración con centros de datos"
+    ],
+    "etica": "La alta demanda de energía puede impactar el medio ambiente; se promueve el uso responsable y la optimización de recursos.",
+    "caracteristicas": [
+      "Ultra baja latencia",
+      "Alto throughput",
+      "Arquitectura optimizada",
+      "Soporte para modelos grandes",
+      "Eficiencia energética"
+    ],
+    "id": "soluci-n-de-inferencia-de-ia-de-amd-y-cerebras-3f5b30",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
+  },
+  {
+    "nombre": "Ticket Fairy CLI",
+    "compania": "Ticket Fairy",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Ofrece una interfaz de línea de comandos y un servidor de Protocolo de Contexto de Modelo para gestionar entradas de eventos y automatizar tareas.",
+    "web": "https://ticketfairy.com",
+    "funciones": [
+      "Gestión de entradas de eventos",
+      "Automatización de tareas",
+      "Interfaz CLI",
+      "Servidor MCP",
+      "Integración con herramientas"
+    ],
+    "etica": "Protege la privacidad de los datos de eventos y permite el control de acceso.",
+    "caracteristicas": [
+      "Interfaz de línea de comandos",
+      "Servidor MCP",
+      "Configuración flexible",
+      "Escalable",
+      "API"
+    ],
+    "id": "ticket-fairy-cli-0fa38d",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito incluye CLI básico y limitado a 10 eventos por mes."
+  },
+  {
+    "nombre": "Skydive",
+    "descripcion": "Permite construir agentes en la nube que trabajan a través de tus herramientas existentes.",
+    "compania": "Skydive",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Construcción de agentes",
+      "Integración con herramientas",
+      "Automatización de flujos",
+      "Orquestación en nube",
+      "API"
+    ],
+    "caracteristicas": [
+      "Agentes autónomos",
+      "Nube nativa",
+      "Interfaz de programación",
+      "Escalabilidad",
+      "Seguridad"
+    ],
+    "etica": "Los agentes pueden acceder a datos sensibles; se recomienda implementar controles de acceso y auditoría.",
+    "web": "https://www.skydive.com/",
+    "id": "skydive-9a1d29",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito incluye hasta 5 agentes y limitaciones de uso de API."
+  },
+  {
+    "nombre": "Traccia",
+    "descripcion": "Plataforma de control neutral para vendors que gestiona y orquesta agentes de IA.",
+    "compania": "Traccia",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de agentes",
+      "Orquestación",
+      "Control de vendors",
+      "Monitoreo de rendimiento",
+      "Configuración de políticas"
+    ],
+    "caracteristicas": [
+      "Plataforma neutral",
+      "Multi-vendor",
+      "Interfaz web",
+      "API",
+      "Escalabilidad"
+    ],
+    "etica": "Garantiza la neutralidad y evita sesgos en la orquestación de agentes de diferentes proveedores.",
+    "web": "https://traccia.ai/",
+    "id": "traccia-5f46e7",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito permite gestionar hasta 3 agentes con límite de eventos."
+  },
+  {
+    "nombre": "Lenz",
+    "descripcion": "Lenz es una API independiente que utiliza inferencia de IA para verificar hechos en flujos de trabajo de inteligencia artificial, asegurando la precisión de los datos procesados.",
+    "compania": "Lenz Technologies",
+    "tipo": "Herramientas de IA para flujos de trabajo",
+    "precio": "Pago",
+    "funciones": [
+      "Verificación de hechos en tiempo real",
+      "Análisis de precisión de datos",
+      "Integración con flujos de trabajo de IA",
+      "Inferencia de IA para validación automática",
+      "Reporte de confiabilidad de información"
+    ],
+    "caracteristicas": [
+      "API independiente y modular",
+      "Inferencia de IA avanzada",
+      "Verificación automática de hechos",
+      "Escalable para diferentes entornos",
+      "Documentación técnica detallada"
+    ],
+    "etica": "Asegura la privacidad de los datos mediante encriptación, pero los algoritmos de verificación pueden presentar sesgos si los datos de entrenamiento no son representativos.",
+    "web": "https://lenzlabs.my.canva.site/",
+    "id": "lenz-502fbd",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "limite_gratis": "Sin plan gratuito",
+    "intentos_auto": 1,
     "intentos_web": 1
+  },
+  {
+    "nombre": "Pluto",
+    "descripcion": "Transforma tu perfil profesional en un agente de IA autónomo para gestión de tiempo y comunicación.",
+    "compania": "Pluto",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de tiempo",
+      "Comunicación automata",
+      "Agenda",
+      "Recordatorios",
+      "Integración con redes sociales"
+    ],
+    "caracteristicas": [
+      "Agente autónomo",
+      "Personalización",
+      "Interfaz amigable",
+      "Integraciones",
+      "Aprendizaje continuo"
+    ],
+    "etica": "Protege la privacidad del perfil del usuario y evita el uso no autorizado de datos personales.",
+    "web": "https://www.plutoai.io/",
+    "id": "pluto-ea8dbc",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-08-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito incluye funciones básicas y limitado a 1 agente."
   }
 ]

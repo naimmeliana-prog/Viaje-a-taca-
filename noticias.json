@@ -1,19 +1,110 @@
 {
-  "actualizado": "2026-08-25T23:19:58Z",
+  "actualizado": "2026-08-28T06:29:23Z",
   "novedades": [
     {
-      "titulo": "En las entrevistas de Anthropic preguntan qué harías si la acción se va a cero por no construir IA peligrosa. No hay contraoferta",
-      "resumen": "Anthropic ha colado en sus entrevistas de trabajo una pregunta de dinero, no de código: cómo te sentirías si la empresa decidiera, por seguridad, frenar su ambición con la IA y la acción se fuera a cero. Según Axios, Dar",
-      "enlace": "https://www.xataka.com/robotica-e-ia/entrevistas-anthropic-preguntan-que-harias-accion-se-va-a-cero-no-construir-ia-peligrosa-no-hay-contraoferta",
+      "titulo": "Bill Gates exige que la IA pague impuestos para blindar empleos: \"Creo que deberíamos gravar los tokens de IA y a los robots\"",
+      "resumen": "Más allá de los pequeños empleos (casi vocacionales) que Bill Gates contó en su libro biográfico 'Código Fuente: Mis inicios', el millonario tecnológico solo ha tenido dos trabajos en su vida. El primero fue levantar una",
+      "enlace": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
       "medio": "Xataka",
-      "fecha": "2026-08-25T15:31:04Z"
+      "fecha": "2026-08-27T16:45:04Z"
     },
     {
-      "titulo": "\"Es como una droga\": los agentes de IA nunca duermen, así que los fundadores de las startups tampoco",
-      "resumen": "2026 ha sido el año de los agentes. Todo empezó con el éxito viral de OpenClaw y pocos meses después las empresas se llenaron de agentes de IA (tantos, que ha llegado a ser un problema). Los agentes no duermen, pueden es",
-      "enlace": "https://www.xataka.com/robotica-e-ia/como-droga-agentes-ia-nunca-duermen-asi-que-fundadores-startups-tampoco",
+      "titulo": "Por qué la mejor defensa corporativa contra la inteligencia artificial es volver a lo analógico",
+      "resumen": "Durante décadas, el modelo de seguridad se ha basado en una regla muy simple: ver o escuchar a una persona confirmaba su identidad. Hoy, esa premisa técnica ha dejado de ser válida. El avance de [&#8230;] Por qué la mejo",
+      "enlace": "https://blogthinkbig.com/deepfakes-ciberseguridad-defensa-analogica",
+      "medio": "Think Big",
+      "fecha": "2026-08-27T16:00:00Z"
+    },
+    {
+      "titulo": "EEUU tiene los modelos más caros y capaces del mundo. El problema es que China los tiene casi igual de buenos y mucho más baratos",
+      "resumen": "Hace pocas semanas se lanzó DeepSeek V4-Flash,&nbsp;y esta semana hemos visto cómo han llegado dos espectaculares modelos más: Qwen3.8-Flash y GLM-5.3-Flash. Todos ellos destacan por ser buenos, bonitos y sobre todo, bar",
+      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-tiene-modelos-caros-capaces-mundo-problema-que-china-tiene-casi-igual-buenos-mucho-baratos",
       "medio": "Xataka",
-      "fecha": "2026-08-25T15:01:03Z"
+      "fecha": "2026-08-27T14:45:04Z"
+    },
+    {
+      "titulo": "Wall Street está haciendo con la deuda de los centros de datos lo mismo que hizo con las hipotecas basura antes de 2008",
+      "resumen": "El Financial Times ha reconstruido cómo se está pagando la construcción de centros de datos y el retrato tiene un aire que nos resulta familiar. Ni siquiera las tecnológicas (con sus decenas de miles de millones en caja)",
+      "enlace": "https://www.xataka.com/empresas-y-economia/wall-street-esta-buscando-a-quien-colocarle-riesgo-centros-datos-destinatario-tu-fondo-pensiones",
+      "medio": "Xataka",
+      "fecha": "2026-08-27T14:15:05Z"
+    },
+    {
+      "titulo": "Nvidia lanza DLSS 4.5 Ray Reconstruction: así es la nueva IA que mejora la imagen de tus juegos sin tener que cambiar de gráfica",
+      "resumen": "Hace unos meses contábamos qué se traía entre manos Nvidia este año en cuanto a su receta mágica del DLSS en juegos y, finalmente, la compañía ha aprovechado la Gamescom para lanzar la versión DLSS 4.5 con reconstrucción",
+      "enlace": "https://www.xataka.com/videojuegos/nvidia-lanza-dlss-4-5-ray-reconstruction-asi-nueva-ia-que-mejora-imagen-tus-juegos-tener-que-cambiar-grafica",
+      "medio": "Xataka",
+      "fecha": "2026-08-27T13:21:04Z"
+    },
+    {
+      "titulo": "Mark Zuckerberg quiso convertir a Meta en \"nativa de IA\" reduciendo un 60% el tamaño de sus equipos. Ha sido un completo desastre",
+      "resumen": "En enero, Mark Zuckerberg reunió a su círculo directivo más cercano en su casoplón de Hawái para discutir sobre el futuro de su plantilla. Sobre la mesa tenían un plan con nombre de película de espías: Project OT (de Org",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-quiso-convertir-a-meta-nativa-ia-reduciendo-60-tamano-sus-equipos-ha-sido-completo-desastre",
+      "medio": "Xataka",
+      "fecha": "2026-08-27T13:15:04Z"
+    },
+    {
+      "titulo": "OpenAI ya tiene listo su chip de inferencia. Se llama Jalapeño y ha conseguido algo inesperado: superar a Nvidia",
+      "resumen": "OpenAI acaba de sacar pecho con su primer chip de inferencia IA, al que ha bautizado con el curioso nombre de \"Jalapeño\". Este chip acelerador de IA permite ejecutar modelos ya entrenados y generar las respuestas que rec",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-su-chip-inferencia-se-llama-jalapeno-ha-conseguido-algo-inesperado-superar-a-nvidia",
+      "medio": "Xataka",
+      "fecha": "2026-08-27T10:45:04Z"
+    },
+    {
+      "titulo": "Destapan una trama de contrabando de chips de NVIDIA a China: la dirigía un alto cargo de la propia NVIDIA",
+      "resumen": "Se supone que China no puede acceder a los chips más avanzados de NVIDIA. Se supone. El contrabando de chips está siendo un dolor de cabeza para EEUU desde que empezó el bloqueo y acabamos de conocer un nuevo caso que sa",
+      "enlace": "https://www.xataka.com/robotica-e-ia/destapan-trama-contrabando-chips-nvidia-a-china-dirigia-alto-cargo-propia-nvidia",
+      "medio": "Xataka",
+      "fecha": "2026-08-27T08:01:05Z"
+    },
+    {
+      "titulo": "NVIDIA va a comprar Hugging Face por 12.900 millones. Ahí es donde entrenan quienes quieren dejar de depender de sus chips",
+      "resumen": "NVIDIA ha acordado comprar Hugging Face, el mayor repositorio de modelos y datasets abiertos, por 12.900 millones de dólares, según ha adelantado AFP citando un reportaje previo de The Information. Ninguna de las dos emp",
+      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-va-a-comprar-hugging-face-12-900-millones-ahi-donde-entrenan-quienes-quieren-dejar-depender-sus-chips",
+      "medio": "Xataka",
+      "fecha": "2026-08-27T08:00:00Z"
+    },
+    {
+      "titulo": "Los centros de datos de EEUU ya gastan el triple de agua que hace casi una década. Y la cifra es de antes del boom de la IA",
+      "resumen": "La inteligencia artificial puede parecernos extraordinariamente ligera: escribimos unas palabras, pulsamos enviar y recibimos una respuesta segundos después. Lo que no vemos es la infraestructura necesaria para que eso o",
+      "enlace": "https://www.xataka.com/robotica-e-ia/centros-datos-eeuu-gastan-triple-agua-que-hace-casi-decada-cifra-antes-boom-ia",
+      "medio": "Xataka",
+      "fecha": "2026-08-27T06:31:04Z"
+    },
+    {
+      "titulo": "Taiwán acusa a ocho personas por el presunto desvío de servidores con tecnología NVIDIA hacia China",
+      "resumen": "Los chips de IA de última generación no recorren una línea recta desde una fábrica hasta un cliente. Se diseñan en un país, se fabrican o encapsulan en otro, terminan integrados en servidores y pasan después por distribu",
+      "enlace": "https://www.xataka.com/componentes/nvidia-fabrica-sus-chips-eeuu-taiwan-problema-que-algunos-servidores-ia-acabaron-donde-no-debian",
+      "medio": "Xataka",
+      "fecha": "2026-08-26T19:30:00Z"
+    },
+    {
+      "titulo": "Así funciona Jalapeño: el primer procesador de OpenAI",
+      "resumen": "La industria tecnológica ha chocado contra un límite físico. La principal restricción para expandir la inteligencia artificial ya no es el capital financiero ni el espacio en los centros de datos, sino la disponibilidad ",
+      "enlace": "https://blogthinkbig.com/openai-jalapeno-chip-inferencia-ia",
+      "medio": "Think Big",
+      "fecha": "2026-08-26T13:00:00Z"
+    },
+    {
+      "titulo": "FaRADAI, un proyecto que pone la Defensa en manos de la IA",
+      "resumen": "Indra participa en un consorcio europeo que demuestra cómo la IA puede anticipar amenazas y mejorar la toma de decisiones en operaciones militares L'articolo FaRADAI, un proyecto que pone la Defensa en manos de la IA pro",
+      "enlace": "https://www.computing.es/inteligencia-artificial/faradai-un-proyecto-que-pone-la-defensa-en-manos-de-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-26T11:30:00Z"
+    },
+    {
+      "titulo": "Qué ha pasado con Google Earth y por qué se ha llenado de imágenes falsas en tan solo un día",
+      "resumen": "La inteligencia artificial, como cualquier otra tecnología, no es mala o buena por naturaleza. El problema está en el uso que se le da. Desgraciadamente, la IA ha irrumpido en nuestras vidas en un contexto [&#8230;] Qué ",
+      "enlace": "https://blogthinkbig.com/imagenes-falsas-google-earth-ia-desinformacion-fake-news",
+      "medio": "Think Big",
+      "fecha": "2026-08-26T07:01:00Z"
+    },
+    {
+      "titulo": "BBVA extiende la IA a los procesos de su banca de empresas",
+      "resumen": "Los procesos incluyen desde la atención y asesoramiento a clientes hasta la gestión del riesgo y el desarrollo de soluciones tecnológicas L'articolo BBVA extiende la IA a los procesos de su banca de empresas proviene da ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/bbva-extiende-la-ia-a-los-procesos-de-su-banca-de-empresas/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-26T07:00:00Z"
     },
     {
       "titulo": "SharePoint bajo asedio: la cadena de exploits asistida por IA que redefine la ciberseguridad automatizada",
@@ -23,60 +114,11 @@
       "fecha": "2026-08-25T10:00:00Z"
     },
     {
-      "titulo": "Un hombre quería tener el control total sobre una tableta Amazon, algo que parecía imposible. Hasta que apareció la IA",
-      "resumen": "Eric Pardee se compró una Fire HD 10 en 2021 por 114 dólares y la utilizaba sobre todo como panel táctil permanente para control de la domótica de su hogar a través de la plataforma Home Assistant.&nbsp; Con el tiempo de",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mi-dispositivo-asi-como-tres-modelos-ia-liberaron-tablet-amazon-que-parecia-imposible-rootear",
-      "medio": "Xataka",
-      "fecha": "2026-08-25T09:30:00Z"
-    },
-    {
       "titulo": "El impacto de la Inteligencia Artificial en la programación: agotamiento, código defectuoso y deuda de verificación",
       "resumen": "La integración de la Inteligencia Artificial (IA) en el desarrollo de software prometía eliminar el trabajo repetitivo y democratizar la programación. Sin embargo, la adopción masiva de herramientas generativas ha desenc",
       "enlace": "https://blogthinkbig.com/el-impacto-de-la-inteligencia-artificial-en-la-programacion-agotamiento-codigo-defectuoso-y-deuda-de-verificacion",
       "medio": "Think Big",
       "fecha": "2026-08-25T08:55:27Z"
-    },
-    {
-      "titulo": "EEUU está experimentando ya con el futuro que nos espera a todos: precios personalizados en los billetes de avión",
-      "resumen": "Delta Air Lines quiere que la inteligencia artificial haga mucho más que recomendar una tarifa cuando alguien proceda a comprar un billete de avión. Su CEO, Ed Bastian, ha confirmado que la aerolínea planea apostar aún m",
-      "enlace": "https://www.xataka.com/movilidad/aerolineas-estan-a-paso-empezar-a-meter-precios-dinamicos-utilizando-ia-caso-delta-que-dice-nosotros",
-      "medio": "Xataka",
-      "fecha": "2026-08-24T16:30:00Z"
-    },
-    {
-      "titulo": "Cómo conseguir Gemini Plus gratis durante un año si eres estudiante: qué incluye, requisitos y cómo solicitarlo",
-      "resumen": "Vamos a decirte cómo conseguir Gemini Plus gratis durante un año con una promoción que ha lanzado Google para estudiantes. Se trata de un método con el que puedes obtener gratis la suscripción Google AI Plus, valorada en",
-      "enlace": "https://www.xataka.com/basics/como-conseguir-gemini-plus-gratis-durante-ano-eres-estudiante-que-incluye-requisitos-como-solicitarlo",
-      "medio": "Xataka",
-      "fecha": "2026-08-24T15:28:51Z"
-    },
-    {
-      "titulo": "La IA está permitiendo a los estudiantes sacar mejores notas que nunca en los deberes. Hasta que llegan al examen",
-      "resumen": "Que los estudiantes están usando la IA como ayuda para hacer los deberes y trabajos que les encargan es un secreto a voces. La cuestión ya no es si la usan o no (esto se presupone), sino si la IA está teniendo un efecto ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/alumnos-que-usan-ia-hacen-mejor-deberes-problema-llega-examenes",
-      "medio": "Xataka",
-      "fecha": "2026-08-24T14:00:00Z"
-    },
-    {
-      "titulo": "La IA ya genera imágenes y vídeos perfectos, así que ha empezado el ciclo de la nostalgia: echamos de menos DALL-E 2",
-      "resumen": "En las últimas semanas se ha extendido por X una comparación entre la misma imagen generada con DALL-E 2 y con modelos posteriores: un bodegón de una galleta mojada en leche, con idéntico prompt en ambos casos. La respue",
-      "enlace": "https://www.xataka.com/robotica-e-ia/hay-gente-nostalgica-ia-pasado-pequeno-lamento-todo-que-dall-e-2-nos-dio-se-perdio-camino",
-      "medio": "Xataka",
-      "fecha": "2026-08-24T12:00:00Z"
-    },
-    {
-      "titulo": "Sam Altman, sobre la poca penetración de la IA: \"Me equivoqué en muchas cosas, pero sobre todo en que la economía tiene mucha inercia\"",
-      "resumen": "Qué ha pasado. Sam Altman pensaba que tras el lanzamiento de GPT-4 muchas cosas iban a cambiar mucho más deprisa. En una conversación reciente con David Senra, el CEO de OpenAI reconoció que \"me equivoqué en unas cuantas",
-      "enlace": "https://www.xataka.com/robotica-e-ia/me-equivoque-muchas-cosas-todo-economia-tiene-mucha-inercia-sam-altman-reconoce-que-empresas-no-han-adoptado-ia-como-imaginaba",
-      "medio": "Xataka",
-      "fecha": "2026-08-24T11:30:00Z"
-    },
-    {
-      "titulo": "Se llama Ox Alpha, es el nuevo modelo de IA causando sensación y nadie sabe quién está detrás de él",
-      "resumen": "Se llama Ox Alpha y está disponible (entre otras plataformas) en Open Router como un modelo de IA \"stealth\". No está lanzado oficialmente, y no hay un paper ni una empresa que lo haya hecho &nbsp;suyo. Su capacidad es re",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ox-alpha-nuevo-misterioso-modelo-ia-que-todos-hablan-nadie-sabe-quien-esta-detras",
-      "medio": "Xataka",
-      "fecha": "2026-08-24T09:30:00Z"
     },
     {
       "titulo": "Un agente de IA puede liberar hasta 150.000 horas de trabajo al año en una gran organización",
@@ -93,13 +135,6 @@
       "fecha": "2026-08-24T07:01:33Z"
     },
     {
-      "titulo": "\"¿Esto cómo se hace?\": en la gran banca internacional, los junior están enseñando a sus jefes a utilizar la IA",
-      "resumen": "Hoy por hoy, cuando hay trabajo repetitivo, mecánico y tedioso por delante que involucre documentación y mucho Excel, no son pocos precisamente los que recurren a la IA generativa. Esto también se aplica a la banca donde",
-      "enlace": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
-      "medio": "Xataka",
-      "fecha": "2026-08-23T10:30:00Z"
-    },
-    {
       "titulo": "La IA está transformando los ciberataques contra los hoteles",
       "resumen": "La temporada alta plantea cada año numerosos retos al sector hotelero. La complejidad operativa convierte a los hoteles en un objetivo especialmente atractivo para los ciberdelincuentes L'articolo La IA está transformand",
       "enlace": "https://www.computing.es/seguridad/la-ia-esta-transformando-los-ciberataques-contra-los-hoteles/",
@@ -107,25 +142,11 @@
       "fecha": "2026-08-21T10:00:00Z"
     },
     {
-      "titulo": "Cómo conseguir Gemini Pro gratis durante un año",
-      "resumen": "Utilizar al menos una herramienta de inteligencia artificial en el día a día ha dejado de ser una excepción para convertirse en la norma. Esta adopción masiva choca a veces con el muro de las [&#8230;] Cómo conseguir Gem",
-      "enlace": "https://blogthinkbig.com/como-conseguir-gemini-pro-gratis-estudiantes",
-      "medio": "Think Big",
-      "fecha": "2026-08-21T09:25:00Z"
-    },
-    {
       "titulo": "He dejado a ChatGPT leer mis mensajes y el proceso asusta un poco",
       "resumen": "ChatGPT ya puede controlar iMessage en tu Mac. Es más o menos lo mismo que ya hace Siri AI, pero con esteroides: leer, escribir y enviar mensajes, buscar conversaciones, sacar resúmenes de lo que has hablado con cada per",
       "enlace": "https://www.applesfera.com/aplicaciones-os-x-1/chatgpt-puede-controlar-imessage-desata-dudas-privacidad",
       "medio": "Applesfera",
       "fecha": "2026-08-21T09:00:00Z"
-    },
-    {
-      "titulo": "Qué IA es mejor en 2026: ChatGPT 5.6 vs. Claude 5 vs. Gemini 3.7",
-      "resumen": "La plataforma de referencia LLM Stats compara más de 300 modelos de inteligencia artificial. Esta cifra es un buen ejemplo de cómo una tecnología que antes era exclusiva de investigadores, desarrolladores y demás perfile",
-      "enlace": "https://blogthinkbig.com/la-mejor-ia-2026-gpt-chatgpt-claude-gemini",
-      "medio": "Think Big",
-      "fecha": "2026-08-20T21:32:11Z"
     },
     {
       "titulo": "La memoria, nueva frontera de la inteligencia artificial empresarial",
@@ -184,32 +205,11 @@
       "fecha": "2026-08-17T07:00:00Z"
     },
     {
-      "titulo": "La IA dispara el ransomware un 389% y acelera los ciberataques a escala global",
-      "resumen": "Según un informe de Fortinet, el número de víctimas de ransomware ha aumentado un 389% interanual, alcanzando las 7.831 víctimas confirmadas, con la industria manufacturera y el comercio minorista entre los sectores más ",
-      "enlace": "https://www.computing.es/seguridad/la-ia-ante-el-reto-de-la-seguridad/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-14T10:00:00Z"
-    },
-    {
-      "titulo": "El 90% de las empresas necesita mejorar la gestión de identidades para hacer frente a los riesgos de la IA agéntica",
-      "resumen": "El 58,7% de las compañías de Estados Unidos y Canadá afirma que se necesitan mejoras significativas o una revisión completa de su enfoque de gestión de identidades L'articolo El 90% de las empresas necesita mejorar la ge",
-      "enlace": "https://www.computing.es/seguridad/solucion-de-gestion-de-identidades-de-rsa/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-13T10:00:00Z"
-    },
-    {
       "titulo": "Ni la subida de precio frena el desastre: el MacBook Air M5 se queda sin stock por la crisis de componentes",
       "resumen": "Agosto es el mes en el que Apple suele activar su campaña de vuelta al cole, esa promoción con la que te llevas por tu compra unos AirPods, a veces una tarjeta regalo. Este año ya ha arrancado en Estados Unidos, aunque e",
       "enlace": "https://www.applesfera.com/portatil/subida-precio-frena-desastre-macbook-air-m5-se-queda-stock-crisis-componentes",
       "medio": "Applesfera",
       "fecha": "2026-08-03T12:01:44Z"
-    },
-    {
-      "titulo": "Los AirPods con cámara apuntan a ser el primer \"dispositivo IA\" de Apple. Y ahora parece que los veremos el mes que viene",
-      "resumen": "Que Apple está preparando unos AirPods con cámaras es algo que no sorprende, puesto que hace ya más de un año que empezaron a rumorearse. Sin embargo, la fecha de lanzamiento ha ido \"bailando\". Mark Gurman, filtrador de ",
-      "enlace": "https://www.applesfera.com/rumores/referencias-aparecen-dentro-codigo-ios-27-gurman-vuelve-a-filtrar-unos-airpods-camaras-para-mes-que-viene",
-      "medio": "Applesfera",
-      "fecha": "2026-08-03T09:53:23Z"
     }
   ],
   "etica": [
