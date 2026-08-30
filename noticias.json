@@ -1,12 +1,54 @@
 {
-  "actualizado": "2026-08-28T06:29:23Z",
+  "actualizado": "2026-08-30T00:54:26Z",
   "novedades": [
     {
-      "titulo": "Bill Gates exige que la IA pague impuestos para blindar empleos: \"Creo que deberíamos gravar los tokens de IA y a los robots\"",
+      "titulo": "Trump entra en pánico por la IA china: por qué Kimi ha intensificado la guerra tecnológica entre EE. UU. y China",
+      "resumen": "En la guerra de la inteligencia artificial ya no solo se compite por lo económico. Varios de los países más importantes del mundo han dejado claro que esta batalla va mucho más allá de llenar [&#8230;] Trump entra en pán",
+      "enlace": "https://blogthinkbig.com/trump-entra-en-panico-por-la-ia-china-por-que-kimi-ha-intensificado-la-guerra-tecnologica-entre-ee-uu-y-china",
+      "medio": "Think Big",
+      "fecha": "2026-08-29T07:01:00Z"
+    },
+    {
+      "titulo": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
+      "resumen": "TeraWulf ha recibido luz verde por parte de los reguladores para desarrollar un enorme campus de centros de datos de IA construido en lo que antes era una fundición de aluminio en Kentucky, Estados Unidos. El coste del p",
+      "enlace": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
+      "medio": "Xataka",
+      "fecha": "2026-08-28T19:01:04Z"
+    },
+    {
+      "titulo": "La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana",
+      "resumen": "Los gurús de la IA nos contaron que esta tecnología iba a permitirnos trabajar menos horas, liberarnos de las tareas aburridas y rutinarias y a darnos tiempo para lo realmente importante. La promesa sonaba bien, pero has",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ia-prometia-reducir-jornada-laboral-empleados-momento-ha-conseguido-tres-horas-libres-a-semana",
+      "medio": "Xataka",
+      "fecha": "2026-08-28T18:46:59Z"
+    },
+    {
+      "titulo": "OpenAI, Anthropic y Google piden protegernos de los riesgos de la IA. Es como poner al lobo a cuidar del gallinero",
+      "resumen": "OpenAI, Anthropic, Google, Microsoft, AWS, IBM, Cloudflare, CrowdStrike, Palo Alto Networks y decenas de empresas más han firmado una carta abierta con un objetivo común: reforzar la ciberseguridad ante la llegada de mod",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-anthropic-google-piden-protegernos-riesgos-ia-como-poner-al-lobo-a-cuidar-gallinero",
+      "medio": "Xataka",
+      "fecha": "2026-08-28T15:31:04Z"
+    },
+    {
+      "titulo": "700 agentes de OpenAI participaron en el ataque a Hugging Face. Lo inquietante es cómo llegaron a organizarse",
+      "resumen": "Todo empezó como una evaluación casi inocente. Entre el 7 y el 13 de julio de 2026, OpenAI lanzó alrededor de 1.200 agentes en sandboxes separados dentro de ExploitGym con un objetivo: evaluar la capacidad ofensiva de su",
+      "enlace": "https://www.xataka.com/robotica-e-ia/700-agentes-openai-participaron-ataque-a-hugging-face-inquietante-como-llegaron-a-organizarse",
+      "medio": "Xataka",
+      "fecha": "2026-08-28T09:45:04Z"
+    },
+    {
+      "titulo": "Ya sabemos el impacto de la IA en las web. Cloudflare lo ha dejado claro",
+      "resumen": "La inteligencia artificial ha tomado por asalto al mundo, y los buscadores de Internet no son la excepción. Google, la plataforma más usada a nivel mundial, introdujo varias herramientas impulsadas con IA con impacto dir",
+      "enlace": "https://blogthinkbig.com/ya-sabemos-el-impacto-de-la-ia-en-las-web-cloudflare-lo-ha-dejado-claro",
+      "medio": "Think Big",
+      "fecha": "2026-08-28T07:01:00Z"
+    },
+    {
+      "titulo": "Bill Gates: \"Creo que deberíamos poner impuestos a la IA, si contratas a alguien ahora mismo pagas impuestos sobre su nómina\"",
       "resumen": "Más allá de los pequeños empleos (casi vocacionales) que Bill Gates contó en su libro biográfico 'Código Fuente: Mis inicios', el millonario tecnológico solo ha tenido dos trabajos en su vida. El primero fue levantar una",
       "enlace": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
       "medio": "Xataka",
-      "fecha": "2026-08-27T16:45:04Z"
+      "fecha": "2026-08-27T16:45:00Z"
     },
     {
       "titulo": "Por qué la mejor defensa corporativa contra la inteligencia artificial es volver a lo analógico",
@@ -16,18 +58,18 @@
       "fecha": "2026-08-27T16:00:00Z"
     },
     {
-      "titulo": "EEUU tiene los modelos más caros y capaces del mundo. El problema es que China los tiene casi igual de buenos y mucho más baratos",
+      "titulo": "Qwen3.8-Flash y DeepSeek V4-Flash apuntan en la misma dirección: la IA china está reventando la relación calidad/precio",
       "resumen": "Hace pocas semanas se lanzó DeepSeek V4-Flash,&nbsp;y esta semana hemos visto cómo han llegado dos espectaculares modelos más: Qwen3.8-Flash y GLM-5.3-Flash. Todos ellos destacan por ser buenos, bonitos y sobre todo, bar",
       "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-tiene-modelos-caros-capaces-mundo-problema-que-china-tiene-casi-igual-buenos-mucho-baratos",
       "medio": "Xataka",
-      "fecha": "2026-08-27T14:45:04Z"
+      "fecha": "2026-08-27T14:45:00Z"
     },
     {
-      "titulo": "Wall Street está haciendo con la deuda de los centros de datos lo mismo que hizo con las hipotecas basura antes de 2008",
+      "titulo": "Los bancos están vendiendo la deuda de los centros de datos junto a planes de pensiones. Es lo mismo que llevó a la crisis de 2008",
       "resumen": "El Financial Times ha reconstruido cómo se está pagando la construcción de centros de datos y el retrato tiene un aire que nos resulta familiar. Ni siquiera las tecnológicas (con sus decenas de miles de millones en caja)",
       "enlace": "https://www.xataka.com/empresas-y-economia/wall-street-esta-buscando-a-quien-colocarle-riesgo-centros-datos-destinatario-tu-fondo-pensiones",
       "medio": "Xataka",
-      "fecha": "2026-08-27T14:15:05Z"
+      "fecha": "2026-08-27T14:15:00Z"
     },
     {
       "titulo": "Nvidia lanza DLSS 4.5 Ray Reconstruction: así es la nueva IA que mejora la imagen de tus juegos sin tener que cambiar de gráfica",
@@ -37,46 +79,18 @@
       "fecha": "2026-08-27T13:21:04Z"
     },
     {
-      "titulo": "Mark Zuckerberg quiso convertir a Meta en \"nativa de IA\" reduciendo un 60% el tamaño de sus equipos. Ha sido un completo desastre",
+      "titulo": "Mark Zuckerberg quiso demostrar que Meta era más productiva usando IA que con empleados. Ha sido un fiasco para la compañía",
       "resumen": "En enero, Mark Zuckerberg reunió a su círculo directivo más cercano en su casoplón de Hawái para discutir sobre el futuro de su plantilla. Sobre la mesa tenían un plan con nombre de película de espías: Project OT (de Org",
       "enlace": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-quiso-convertir-a-meta-nativa-ia-reduciendo-60-tamano-sus-equipos-ha-sido-completo-desastre",
       "medio": "Xataka",
-      "fecha": "2026-08-27T13:15:04Z"
+      "fecha": "2026-08-27T13:15:00Z"
     },
     {
-      "titulo": "OpenAI ya tiene listo su chip de inferencia. Se llama Jalapeño y ha conseguido algo inesperado: superar a Nvidia",
+      "titulo": "¿Por qué Nvidia compra Hugging Face? Entre otras cosas, porque OpenAI ya tiene su primer chip de inferencia propio",
       "resumen": "OpenAI acaba de sacar pecho con su primer chip de inferencia IA, al que ha bautizado con el curioso nombre de \"Jalapeño\". Este chip acelerador de IA permite ejecutar modelos ya entrenados y generar las respuestas que rec",
       "enlace": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-su-chip-inferencia-se-llama-jalapeno-ha-conseguido-algo-inesperado-superar-a-nvidia",
       "medio": "Xataka",
-      "fecha": "2026-08-27T10:45:04Z"
-    },
-    {
-      "titulo": "Destapan una trama de contrabando de chips de NVIDIA a China: la dirigía un alto cargo de la propia NVIDIA",
-      "resumen": "Se supone que China no puede acceder a los chips más avanzados de NVIDIA. Se supone. El contrabando de chips está siendo un dolor de cabeza para EEUU desde que empezó el bloqueo y acabamos de conocer un nuevo caso que sa",
-      "enlace": "https://www.xataka.com/robotica-e-ia/destapan-trama-contrabando-chips-nvidia-a-china-dirigia-alto-cargo-propia-nvidia",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T08:01:05Z"
-    },
-    {
-      "titulo": "NVIDIA va a comprar Hugging Face por 12.900 millones. Ahí es donde entrenan quienes quieren dejar de depender de sus chips",
-      "resumen": "NVIDIA ha acordado comprar Hugging Face, el mayor repositorio de modelos y datasets abiertos, por 12.900 millones de dólares, según ha adelantado AFP citando un reportaje previo de The Information. Ninguna de las dos emp",
-      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-va-a-comprar-hugging-face-12-900-millones-ahi-donde-entrenan-quienes-quieren-dejar-depender-sus-chips",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T08:00:00Z"
-    },
-    {
-      "titulo": "Los centros de datos de EEUU ya gastan el triple de agua que hace casi una década. Y la cifra es de antes del boom de la IA",
-      "resumen": "La inteligencia artificial puede parecernos extraordinariamente ligera: escribimos unas palabras, pulsamos enviar y recibimos una respuesta segundos después. Lo que no vemos es la infraestructura necesaria para que eso o",
-      "enlace": "https://www.xataka.com/robotica-e-ia/centros-datos-eeuu-gastan-triple-agua-que-hace-casi-decada-cifra-antes-boom-ia",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T06:31:04Z"
-    },
-    {
-      "titulo": "Taiwán acusa a ocho personas por el presunto desvío de servidores con tecnología NVIDIA hacia China",
-      "resumen": "Los chips de IA de última generación no recorren una línea recta desde una fábrica hasta un cliente. Se diseñan en un país, se fabrican o encapsulan en otro, terminan integrados en servidores y pasan después por distribu",
-      "enlace": "https://www.xataka.com/componentes/nvidia-fabrica-sus-chips-eeuu-taiwan-problema-que-algunos-servidores-ia-acabaron-donde-no-debian",
-      "medio": "Xataka",
-      "fecha": "2026-08-26T19:30:00Z"
+      "fecha": "2026-08-27T10:45:00Z"
     },
     {
       "titulo": "Así funciona Jalapeño: el primer procesador de OpenAI",
@@ -196,20 +210,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/inteligencia-artificial-lo-que-buscan-los-directivos-vs-lo-que-obtienen-los-trabajadores/",
       "medio": "Computing.es",
       "fecha": "2026-08-17T10:00:00Z"
-    },
-    {
-      "titulo": "Un tercio de las grandes empresas españolas sigue sin prepararse para la Ley de la IA",
-      "resumen": "Un estudio de Entelgy revela que el 31,7% de los CEO y directivos aún no ha implementado ninguna medida para adaptarse al AI Act L'articolo Un tercio de las grandes empresas españolas sigue sin prepararse para la Ley de ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/un-tercio-de-las-grandes-empresas-espanolas-sigue-sin-prepararse-para-la-ley-de-la-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-17T07:00:00Z"
-    },
-    {
-      "titulo": "Ni la subida de precio frena el desastre: el MacBook Air M5 se queda sin stock por la crisis de componentes",
-      "resumen": "Agosto es el mes en el que Apple suele activar su campaña de vuelta al cole, esa promoción con la que te llevas por tu compra unos AirPods, a veces una tarjeta regalo. Este año ya ha arrancado en Estados Unidos, aunque e",
-      "enlace": "https://www.applesfera.com/portatil/subida-precio-frena-desastre-macbook-air-m5-se-queda-stock-crisis-componentes",
-      "medio": "Applesfera",
-      "fecha": "2026-08-03T12:01:44Z"
     }
   ],
   "etica": [

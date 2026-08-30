@@ -4216,7 +4216,7 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com/features",
+    "web": "https://cewsco.com/",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
@@ -13829,7 +13829,7 @@
     "fecha_agregado": "2026-08-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Marble MCP",
@@ -14077,25 +14077,25 @@
   },
   {
     "nombre": "Lenz",
-    "descripcion": "Lenz es una API independiente que utiliza inferencia de IA para verificar hechos en flujos de trabajo de inteligencia artificial, asegurando la precisión de los datos procesados.",
-    "compania": "Lenz Technologies",
-    "tipo": "Herramientas de IA para flujos de trabajo",
-    "precio": "Pago",
+    "descripcion": "Lenz es una API independiente que utiliza inferencia de IA para verificar hechos en flujos de trabajo de inteligencia artificial, garantizando la precisión y fiabilidad de la información generada por modelos de lenguaje.",
+    "compania": "Lenz AI",
+    "tipo": "Verificación de hechos",
+    "precio": "Freemium",
     "funciones": [
-      "Verificación de hechos en tiempo real",
-      "Análisis de precisión de datos",
-      "Integración con flujos de trabajo de IA",
-      "Inferencia de IA para validación automática",
-      "Reporte de confiabilidad de información"
+      "Verificación automática de hechos en tiempo real",
+      "Integración vía API en flujos de trabajo de IA",
+      "Detección de información falsa o engañosa",
+      "Validación de salidas de modelos de lenguaje",
+      "Asignación de puntuación de confianza por afirmación"
     ],
     "caracteristicas": [
-      "API independiente y modular",
-      "Inferencia de IA avanzada",
-      "Verificación automática de hechos",
-      "Escalable para diferentes entornos",
-      "Documentación técnica detallada"
+      "API independiente y escalable",
+      "Inferencia de IA especializada en fact-checking",
+      "Compatible con múltiples modelos de lenguaje",
+      "Respuestas en tiempo real",
+      "Puntuación de confianza por cada afirmación verificada"
     ],
-    "etica": "Asegura la privacidad de los datos mediante encriptación, pero los algoritmos de verificación pueden presentar sesgos si los datos de entrenamiento no son representativos.",
+    "etica": "Lenz contribuye a mitigar la propagación de desinformación al verificar hechos de forma automatizada, aunque es fundamental tener en cuenta que los modelos de IA subyacentes pueden reflejar sesgos presentes en sus datos de entrenamiento, lo que requiere una supervisión humana continua.",
     "web": "https://lenzlabs.my.canva.site/",
     "id": "lenz-502fbd",
     "gratis": true,
@@ -14103,8 +14103,8 @@
     "fecha_agregado": "2026-08-28",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "limite_gratis": "Sin plan gratuito",
-    "intentos_auto": 1,
+    "limite_gratis": "El plan gratuito ofrece un número limitado de verificaciones de hechos mensuales, ideal para pruebas y proyectos pequeños, con acceso a las funciones básicas de la API.",
+    "intentos_auto": 2,
     "intentos_web": 1
   },
   {
@@ -14137,5 +14137,459 @@
     "pendiente_revision": false,
     "intentos_web": 1,
     "limite_gratis": "Plan gratuito incluye funciones básicas y limitado a 1 agente."
+  },
+  {
+    "nombre": "Cohere Parse 5",
+    "compania": "Cohere",
+    "tipo": "Procesamiento de documentos",
+    "precio": "Freemium",
+    "descripcion": "Convierte documentos, tablas e imágenes complejos en datos estructurados listos para IA para un análisis rápido.",
+    "web": "https://cohere.com/products/parse",
+    "funciones": [
+      "Extracción de texto de documentos escaneados y PDFs",
+      "Conversión de tablas e imágenes en datos estructurados",
+      "Reconocimiento óptico de caracteres (OCR) multilingüe",
+      "Integración con APIs de IA para procesamiento adicional",
+      "Exportación de resultados a JSON, CSV y otros formatos"
+    ],
+    "caracteristicas": [
+      "Alta precisión en más de 50 idiomas",
+      "Procesamiento en la nube escalable con seguridad basada en roles",
+      "Soporte para una amplia gama de formatos (PDF, JPG, PNG, etc.)",
+      "Tiempo de respuesta rápido incluso con documentos grandes",
+      "Actualizaciones continuas del modelo para mejorar el rendimiento"
+    ],
+    "etica": "Los datos se procesan en la nube; los usuarios deben revisar el contenido sensible para evitar fugas de información confidencial.",
+    "limite_gratis": "El plan gratuito permite procesar hasta 5 documentos al mes con un máximo de 10 páginas por documento.",
+    "id": "cohere-parse-5-82da0d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Microsoft Teams Facilitator",
+    "compania": "Microsoft",
+    "tipo": "Asistente de reuniones",
+    "precio": "Freemium",
+    "descripcion": "Un asistente virtual que analiza las conversaciones en tiempo real y sugiere intervenciones para mantener las reuniones productivas.",
+    "web": "https://www.microsoft.com/en-us/microsoft-teams/teams-facilitator",
+    "funciones": [
+      "Detección automática de temas de discusión",
+      "Sugerencia de intervenciones y preguntas para mantener el flujo",
+      "Análisis de sentimiento para identificar momentos de bajo compromiso",
+      "Integración nativa con Microsoft Teams",
+      "Panel de análisis posreunión con métricas clave"
+    ],
+    "caracteristicas": [
+      "Funciona en múltiples idiomas con soporte para acentos",
+      "Aprende de interacciones previas para mejorar sugerencias",
+      "Funciona sin necesidad de conexión a internet para tareas básicas",
+      "Escalable para reuniones de hasta 1000 participantes",
+      "Autenticación basada en roles de Microsoft para proteger datos"
+    ],
+    "etica": "Los datos de audio se procesan localmente cuando es posible para proteger la privacidad; se almacenan registros anonimizados para mejorar el modelo.",
+    "limite_gratis": "El plan gratuito permite hasta 5 reuniones al mes con un máximo de 30 participantes cada una.",
+    "id": "microsoft-teams-facilitator-6e5b6e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "NVIDIA Earth2Studio",
+    "compania": "NVIDIA",
+    "tipo": "Modelado climático y predicción meteorológica",
+    "precio": "Freemium",
+    "descripcion": "Crea flujos de trabajo personalizados de predicción meteorológica por ensemble con IA, permitiendo escenarios climáticos rápidos y análisis detallado.",
+    "web": "https://www.nvidia.com/en-us/earth2studio/",
+    "funciones": [
+      "Generación de ensembles de alta resolución de pronósticos meteorológicos",
+      "Simulación interactiva de múltiples escenarios climáticos",
+      "Integración con datos satelitales y de observación terrestre",
+      "Visualización en tiempo real de mapas y gráficos",
+      "API para automatizar la ejecución de flujos de trabajo"
+    ],
+    "caracteristicas": [
+      "Escalable en clusters de GPU NVIDIA",
+      "Soporta regiones globales con resolución de 1 km",
+      "Tiempo de ejecución rápido (minutos para un día de pronóstico)",
+      "Modelo basado en datos históricos con validación continua",
+      "Colaboración en tiempo real para equipos climáticos"
+    ],
+    "etica": "Los datos climáticos son públicos, pero el modelo puede reflejar sesgos históricos; se recomienda validación por expertos antes de su uso.",
+    "limite_gratis": "Sin plan gratuito; se ofrece una prueba de 14 días con acceso limitado a 10 simulaciones.",
+    "id": "nvidia-earth2studio-d7e9a4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Analizador de presentaciones de 1752vc",
+    "compania": "1752vc",
+    "tipo": "Análisis de presentaciones",
+    "precio": "Freemium",
+    "descripcion": "Analiza las presentaciones de los inversores para predecir comentarios antes de enviarlas, ayudando a los fundadores a refinar sus presentaciones.",
+    "web": "https://1752vc.com/pitch-deck-analyzer",
+    "funciones": [
+      "Detección de sesgos en el discurso y lenguaje",
+      "Recomendaciones de mejora para diapositivas específicas",
+      "Simulación de preguntas y respuestas con respuestas probables",
+      "Análisis de sentimiento para evaluar tono y persuasión",
+      "Exportación de informes detallados en PDF y CSV"
+    ],
+    "caracteristicas": [
+      "Funciona con PowerPoint, Google Slides y PDF",
+      "Soporte multilingüe para presentaciones globales",
+      "Aprende de presentaciones anteriores para mejorar precisión",
+      "Integración con CRM y herramientas de captación de inversores",
+      "Panel de análisis con métricas de impacto"
+    ],
+    "etica": "Los datos de las presentaciones se almacenan cifrados y se eliminan tras 30 días si el usuario lo solicita.",
+    "limite_gratis": "El plan gratuito permite analizar hasta 3 presentaciones al mes con un máximo de 20 diapositivas cada una.",
+    "id": "analizador-de-presentaciones-de-1752vc-b50819",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Gafas de IA de Meta",
+    "compania": "Meta",
+    "tipo": "Gafas inteligentes de IA portátil",
+    "precio": "Freemium",
+    "descripcion": "Gafas inteligentes equipadas con IA aumentada que ofrecen asistencia en tiempo real, como traducción, navegación y captura de imágenes, priorizando la privacidad del usuario.",
+    "web": "https://www.meta.com/ai-glasses",
+    "funciones": [
+      "Asistente de voz integrado con reconocimiento de comandos en varios idiomas",
+      "Cámara de alta definición con grabación de video y foto instantánea",
+      "Visualización superpuesta de información (GPS, traducciones, notificaciones)",
+      "Control por gestos y movimiento para interacción manos libres",
+      "Conectividad 5G y Wi‑Fi para actualizaciones en tiempo real"
+    ],
+    "caracteristicas": [
+      "Diseño ligero con montura cómoda",
+      "Batería de larga duración (hasta 12 horas)",
+      "Procesamiento local de IA para minimizar latencia",
+      "Almacenamiento seguro en el dispositivo con encriptación",
+      "Compatibilidad con aplicaciones de terceros a través de SDK"
+    ],
+    "etica": "El dispositivo limita el registro no consentido y utiliza procesamiento local para minimizar la exposición de datos; se requiere consentimiento explícito para cualquier recopilación de datos.",
+    "limite_gratis": "Sin plan gratuito; el dispositivo se vende al por menor (≈ $299). No hay versión gratuita.",
+    "id": "gafas-de-ia-de-meta-f61ac4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Comulytic Note Pro AI Voice Recorder",
+    "compania": "Comulytic",
+    "tipo": "Grabador de voz y transcripción con IA",
+    "precio": "Freemium",
+    "descripcion": "Un grabador de voz compacto con IA que transcribe y organiza notas de voz al instante, permitiendo capturar ideas sobre la marcha.",
+    "web": "https://www.comulytic.com/note-pro",
+    "funciones": [
+      "Grabación de audio de alta fidelidad en formato compacto",
+      "Transcripción en tiempo real con soporte multilingüe",
+      "Organización automática de notas en carpetas temáticas",
+      "Sincronización en la nube con acceso desde múltiples dispositivos",
+      "Exportación a texto, PDF, Markdown y archivos de audio"
+    ],
+    "caracteristicas": [
+      "Batería de larga duración (hasta 20 horas)",
+      "Reducción avanzada de ruido para grabaciones claras",
+      "Interfaz táctil intuitiva con control de voz",
+      "Almacenamiento cifrado local y en la nube",
+      "Modo offline para grabación sin conexión"
+    ],
+    "etica": "Las grabaciones se almacenan cifradas; los usuarios pueden eliminarlas permanentemente. El modelo de transcripción se mejora con datos anónimos.",
+    "limite_gratis": "El plan gratuito permite grabar hasta 30 minutos al día y transcribir un máximo de 5 horas al mes.",
+    "id": "comulytic-note-pro-ai-voice-recorder-ee8e6f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Staats",
+    "compania": "Staats",
+    "tipo": "Análisis de rendimiento web",
+    "precio": "Freemium",
+    "descripcion": "Un agente de codificación que analiza el rendimiento de tu sitio web y ofrece recomendaciones accionables directamente en tu flujo de trabajo.",
+    "web": "https://staats.ai",
+    "funciones": [
+      "Auditoría automática de velocidad de página y tiempo de carga",
+      "Detección de errores de JavaScript y problemas de renderizado",
+      "Optimización sugerida de imágenes y recursos estáticos",
+      "Monitoreo continuo de disponibilidad y latencia",
+      "Integración con GitHub y sistemas CI/CD"
+    ],
+    "caracteristicas": [
+      "Informes en tiempo real con paneles personalizables",
+      "Soporte para múltiples navegadores y dispositivos",
+      "Aprendizaje automático para identificar tendencias",
+      "API REST para integración con herramientas externas",
+      "Autenticación segura con SSO y OAuth"
+    ],
+    "etica": "Los datos de rendimiento se recopilan anónimamente; no se almacenan credenciales de acceso ni información personal.",
+    "limite_gratis": "El plan gratuito permite hasta 5 sitios web y 10 análisis por día.",
+    "id": "staats-9c659d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "NVIDIA Jetson Orin Nano 2",
+    "compania": "NVIDIA",
+    "tipo": "Módulo informático de IA en el borde",
+    "precio": "Freemium",
+    "descripcion": "Un módulo informático compacto para IA en el borde que impulsa visión y control en drones y robots con alto rendimiento.",
+    "web": "https://www.nvidia.com/en-us/jetson/orin-nano-2/",
+    "funciones": [
+      "CPU de 8 núcleos ARM con alto rendimiento",
+      "GPU con 1024 núcleos para gráficos y procesamiento paralelo",
+      "NPU de 240 TOPS para inferencia de IA eficiente",
+      "Conectividad PCIe y USB 3.0 para expansión",
+      "Soporte nativo para ROS y frameworks de robótica"
+    ],
+    "caracteristicas": [
+      "Consumo de energía optimizado (< 10W)",
+      "Factor de forma pequeño (70 mm × 45 mm)",
+      "Diseñado para operar en temperaturas extremas",
+      "Actualizaciones de firmware seguras y encriptadas",
+      "Compatibilidad con múltiples sistemas operativos embebidos"
+    ],
+    "etica": "El hardware puede utilizarse en aplicaciones no éticas; los compradores deben adherirse a políticas de uso responsable.",
+    "limite_gratis": "Sin plan gratuito; el módulo se vende al por menor (≈ $199).",
+    "id": "nvidia-jetson-orin-nano-2-41e713",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Microduck",
+    "compania": "Microduck",
+    "tipo": "Robot bípedo de IA de código abierto para educación",
+    "precio": "Freemium",
+    "descripcion": "Un robot bípedo de 25 cm de código abierto que se puede entrenar mediante aprendizaje por refuerzo, ofreciendo una experiencia práctica de hardware con IA.",
+    "web": "https://www.huggingface.co/microduck",
+    "funciones": [
+      "Sensores IMU y giroscopio para equilibrio y navegación",
+      "Cámara estéreo para percepción visual",
+      "Actuadores de alta precisión para movimientos fluidos",
+      "SDK de aprendizaje por refuerzo con ejemplos integrados",
+      "Montaje sin herramientas para fácil ensamblaje"
+    ],
+    "caracteristicas": [
+      "Diseño modular para actualizaciones y reparaciones fáciles",
+      "Programable en Python y C++",
+      "Batería recargable de larga duración (hasta 2 horas)",
+      "Capacidad de interacción con el entorno mediante sensores",
+      "Comunidad activa de contribuidores y recursos de aprendizaje"
+    ],
+    "etica": "El robot puede utilizarse en investigación ética; se recomienda seguir directrices de seguridad al manipularlo.",
+    "limite_gratis": "Sin plan gratuito; el kit cuesta ≈ $349.",
+    "id": "microduck-f599b5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "WikiSkill",
+    "compania": "WikiSkill",
+    "tipo": "Gestión de conocimientos para IA",
+    "precio": "Freemium",
+    "descripcion": "Una base de conocimientos persistente que permite a los agentes de IA registrar errores pasados y mejorar continuamente su rendimiento.",
+    "web": "https://research.google/wiki-skill/",
+    "funciones": [
+      "Almacenamiento persistente de errores y lecciones aprendidas",
+      "Búsqueda semántica para recuperar información relevante rápidamente",
+      "Aprendizaje colaborativo con contribuciones de múltiples agentes",
+      "API REST para integración con sistemas de IA existentes",
+      "Panel de análisis que muestra tendencias de errores"
+    ],
+    "caracteristicas": [
+      "Escalable para bases de conocimientos de cualquier tamaño",
+      "Soporte multilingüe para equipos globales",
+      "Control de versiones para rastrear cambios en los conocimientos",
+      "Cifrado de extremo a extremo para proteger datos sensibles",
+      "Compatible con principales modelos de lenguaje (LLM)"
+    ],
+    "etica": "Los datos de errores se anonymizan para proteger la privacidad; el modelo puede heredar sesgos si no se gestionan adecuadamente.",
+    "limite_gratis": "El plan gratuito permite hasta 1000 entradas de conocimiento y 5 agentes concurrentes.",
+    "id": "wikiskill-acc7af",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Hy4",
+    "compania": "Tencent",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de lenguaje de 770 mil millones de parámetros de Tencent diseñado para razonamiento a largo plazo y resolución de problemas complejos.",
+    "web": "https://www.tencent.com/hy4",
+    "funciones": [
+      "Razonamiento a largo plazo",
+      "Resolución de problemas complejos",
+      "Generación de texto coherente",
+      "Análisis de contextos extensos",
+      "Integración en aplicaciones"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "770 mil millones de parámetros",
+      "Optimizado para tareas de razonamiento",
+      "Soporte multilingüe",
+      "Disponible para investigación y desarrollo"
+    ],
+    "etica": "Los grandes modelos pueden heredar sesgos de los datos de entrenamiento y su uso responsable es esencial para evitar discriminaciones.",
+    "limite_gratis": "El plan gratuito permite acceso al modelo sin coste, aunque puede estar sujeto a limitaciones de recursos y uso comercial.",
+    "id": "hy4-5b5bbe",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "1752vc Pitch Deck Analyzer",
+    "descripcion": "Herramienta que analiza pitch decks y predice la reacción de inversores antes de enviarlos.",
+    "compania": "1752vc",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Evaluación de contenido del deck",
+      "Predicción del feedback de inversores",
+      "Identificación de áreas de mejora",
+      "Generación de recomendaciones",
+      "Integración con PowerPoint"
+    ],
+    "caracteristicas": [
+      "Basado en IA",
+      "Análisis rápido",
+      "Interfaz web",
+      "Soporte multilingüe",
+      "Actualizaciones en tiempo real"
+    ],
+    "etica": "Debe garantizar transparencia y evitar sesgos al influir en decisiones de inversión.",
+    "limite_gratis": "El plan gratuito permite análisis limitado de pitch decks, mientras que la versión paga ofrece informes completos y análisis avanzados.",
+    "web": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
+    "id": "1752vc-pitch-deck-analyzer-003d43",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Firecrawl Developer Index",
+    "descripcion": "Índice curado con más de 70 millones de artefactos útiles para agentes de programación.",
+    "compania": "Firecrawl",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Búsqueda de recursos",
+      "Acceso a ejemplos de código",
+      "Integración con agentes de programación",
+      "Actualizaciones frecuentes",
+      "Soporte para múltiples lenguajes"
+    ],
+    "caracteristicas": [
+      "Más de 70 M de artefactos",
+      "Curado por expertos",
+      "Acceso API",
+      "Actualizaciones en tiempo real",
+      "Compatibilidad con varios entornos de desarrollo"
+    ],
+    "etica": "Es importante respetar las licencias y derechos de autor de los artefactos incluidos.",
+    "limite_gratis": "El plan gratuito ofrece acceso limitado al índice, mientras que la suscripción paga desbloquea el acceso completo.",
+    "web": "https://www.firecrawl.dev/",
+    "id": "firecrawl-developer-index-bbf592",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Caddi",
+    "descripcion": "Plataforma que permite crear agentes de IA mediante una única demostración de tu trabajo.",
+    "compania": "Caddi",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de agentes a partir de una demostración",
+      "Aprendizaje automático de tareas",
+      "Integración con APIs",
+      "Gestión de prompts",
+      "Soporte multi‑modal"
+    ],
+    "caracteristicas": [
+      "Solo necesita una muestra",
+      "Diseño sin código",
+      "Actualizaciones automáticas",
+      "Escalabilidad",
+      "Interfaz visual"
+    ],
+    "etica": "Al crear agentes a partir de datos de usuarios, es crucial proteger la privacidad y evitar sesgos en el comportamiento del agente.",
+    "limite_gratis": "El plan gratuito permite crear un número limitado de agentes con funcionalidades básicas, mientras que la versión paga ofrece creación ilimitada y características avanzadas.",
+    "web": "https://us.caddi.com/",
+    "id": "caddi-115849",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "screenpipe",
+    "descripcion": "Herramienta que graba la actividad de tu computadora para alimentar a agentes de IA.",
+    "compania": "Screenpipe",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Grabación de pantalla y teclado",
+      "Generación de datos para agentes",
+      "Análisis de comportamiento",
+      "Exportación de logs",
+      "Integración con plataformas de automatización"
+    ],
+    "caracteristicas": [
+      "Captura en tiempo real",
+      "Almacenamiento seguro",
+      "Compatibilidad con Windows/macOS/Linux",
+      "API para desarrolladores",
+      "Soporte para múltiples agentes"
+    ],
+    "etica": "La grabación continua puede comprometer la privacidad; se requiere consentimiento y protección de datos.",
+    "limite_gratis": "El plan gratuito permite grabaciones limitadas en duración y número de archivos, mientras que la suscripción paga ofrece grabaciones ilimitadas y mayor capacidad.",
+    "web": "https://screenpipe.com/",
+    "id": "screenpipe-1f0501",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
   }
 ]
