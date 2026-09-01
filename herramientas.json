@@ -6706,7 +6706,7 @@
     "tipo": "Agente IA / CRM / Ventas",
     "precio": "Freemium",
     "descripcion": "Agente de IA que optimiza y automatiza el flujo de ventas en Salesforce, ofreciendo insights y tareas automatizadas para cerrar negocios más rápido.",
-    "web": "https://katalyst.ai",
+    "web": "https://katalystxai.com/",
     "funciones": [
       "Automatizar tareas de entrada de datos",
       "Priorizar leads según probabilidad de cierre",
@@ -6728,7 +6728,8 @@
     "pago": true,
     "fecha_agregado": "2026-07-07",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Badge",
@@ -13822,14 +13823,14 @@
     ],
     "etica": "Los datos de los prompts se procesan en servidores seguros y la empresa revisa sesgos en las respuestas.",
     "limite_gratis": "El plan gratuito incluye 500 llamadas a Claude al mes y acceso a funciones básicas.",
-    "web": "https://www.producthunt.com/products/coolplugz",
+    "web": "https://www.coolplugz.com/",
     "id": "coolplugz-34a19d",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-25",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Marble MCP",
@@ -14077,34 +14078,31 @@
   },
   {
     "nombre": "Lenz",
-    "descripcion": "Lenz es una API independiente que utiliza inferencia de IA para verificar hechos en flujos de trabajo de inteligencia artificial, garantizando la precisión y fiabilidad de la información generada por modelos de lenguaje.",
-    "compania": "Lenz AI",
+    "descripcion": "Es una API independiente que utiliza inferencia de IA para verificar hechos en flujos de trabajo de inteligencia artificial, garantizando la precisión y fiabilidad de la información.",
+    "compania": "Lenz.ai",
     "tipo": "Verificación de hechos",
     "precio": "Freemium",
     "funciones": [
-      "Verificación automática de hechos en tiempo real",
-      "Integración vía API en flujos de trabajo de IA",
-      "Detección de información falsa o engañosa",
-      "Validación de salidas de modelos de lenguaje",
-      "Asignación de puntuación de confianza por afirmación"
+      "Detectar y verificar afirmaciones en tiempo real",
+      "Analizar la calidad y fuentes de los datos proporcionados",
+      "Proporcionar feedback sobre la precisión de los resultados",
+      "Integrarse fácilmente con modelos de lenguaje"
     ],
     "caracteristicas": [
-      "API independiente y escalable",
-      "Inferencia de IA especializada en fact-checking",
-      "Compatible con múltiples modelos de lenguaje",
-      "Respuestas en tiempo real",
-      "Puntuación de confianza por cada afirmación verificada"
+      "Alta precisión en la detección de errores y desinformación",
+      "Soporte multilingüe para validación global",
+      "Escalabilidad mediante API REST",
+      "Minimización de sesgos mediante datos de entrenamiento diversos"
     ],
-    "etica": "Lenz contribuye a mitigar la propagación de desinformación al verificar hechos de forma automatizada, aunque es fundamental tener en cuenta que los modelos de IA subyacentes pueden reflejar sesgos presentes en sus datos de entrenamiento, lo que requiere una supervisión humana continua.",
+    "etica": "La herramienta prioriza la privacidad al procesar únicamente los datos necesarios para la verificación y evitando la exposición de información personal sin consentimiento.",
     "web": "https://lenzlabs.my.canva.site/",
     "id": "lenz-502fbd",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-28",
     "auto_detectado": true,
-    "pendiente_revision": true,
-    "limite_gratis": "El plan gratuito ofrece un número limitado de verificaciones de hechos mensuales, ideal para pruebas y proyectos pequeños, con acceso a las funciones básicas de la API.",
-    "intentos_auto": 2,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite realizar un número limitado de verificaciones mensuales con funcionalidades básicas.",
     "intentos_web": 1
   },
   {
@@ -14144,7 +14142,7 @@
     "tipo": "Procesamiento de documentos",
     "precio": "Freemium",
     "descripcion": "Convierte documentos, tablas e imágenes complejos en datos estructurados listos para IA para un análisis rápido.",
-    "web": "https://cohere.com/products/parse",
+    "web": "https://cohere.com/",
     "funciones": [
       "Extracción de texto de documentos escaneados y PDFs",
       "Conversión de tablas e imágenes en datos estructurados",
@@ -14166,7 +14164,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Microsoft Teams Facilitator",
@@ -14204,7 +14203,7 @@
     "tipo": "Modelado climático y predicción meteorológica",
     "precio": "Freemium",
     "descripcion": "Crea flujos de trabajo personalizados de predicción meteorológica por ensemble con IA, permitiendo escenarios climáticos rápidos y análisis detallado.",
-    "web": "https://www.nvidia.com/en-us/earth2studio/",
+    "web": "https://www.nvidia.com/en-us/high-performance-computing/earth-2/",
     "funciones": [
       "Generación de ensembles de alta resolución de pronósticos meteorológicos",
       "Simulación interactiva de múltiples escenarios climáticos",
@@ -14226,7 +14225,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Analizador de presentaciones de 1752vc",
@@ -14294,7 +14294,7 @@
     "tipo": "Grabador de voz y transcripción con IA",
     "precio": "Freemium",
     "descripcion": "Un grabador de voz compacto con IA que transcribe y organiza notas de voz al instante, permitiendo capturar ideas sobre la marcha.",
-    "web": "https://www.comulytic.com/note-pro",
+    "web": "https://store.comu.com/",
     "funciones": [
       "Grabación de audio de alta fidelidad en formato compacto",
       "Transcripción en tiempo real con soporte multilingüe",
@@ -14316,7 +14316,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Staats",
@@ -14354,7 +14355,7 @@
     "tipo": "Módulo informático de IA en el borde",
     "precio": "Freemium",
     "descripcion": "Un módulo informático compacto para IA en el borde que impulsa visión y control en drones y robots con alto rendimiento.",
-    "web": "https://www.nvidia.com/en-us/jetson/orin-nano-2/",
+    "web": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/",
     "funciones": [
       "CPU de 8 núcleos ARM con alto rendimiento",
       "GPU con 1024 núcleos para gráficos y procesamiento paralelo",
@@ -14376,7 +14377,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Microduck",
@@ -14414,7 +14416,7 @@
     "tipo": "Gestión de conocimientos para IA",
     "precio": "Freemium",
     "descripcion": "Una base de conocimientos persistente que permite a los agentes de IA registrar errores pasados y mejorar continuamente su rendimiento.",
-    "web": "https://research.google/wiki-skill/",
+    "web": "",
     "funciones": [
       "Almacenamiento persistente de errores y lecciones aprendidas",
       "Búsqueda semántica para recuperar información relevante rápidamente",
@@ -14436,7 +14438,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Hy4",
@@ -14444,7 +14447,7 @@
     "tipo": "Agentes IA",
     "precio": "Gratuito",
     "descripcion": "Modelo de lenguaje de 770 mil millones de parámetros de Tencent diseñado para razonamiento a largo plazo y resolución de problemas complejos.",
-    "web": "https://www.tencent.com/hy4",
+    "web": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "funciones": [
       "Razonamiento a largo plazo",
       "Resolución de problemas complejos",
@@ -14466,7 +14469,8 @@
     "pago": false,
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "1752vc Pitch Deck Analyzer",
@@ -14490,14 +14494,14 @@
     ],
     "etica": "Debe garantizar transparencia y evitar sesgos al influir en decisiones de inversión.",
     "limite_gratis": "El plan gratuito permite análisis limitado de pitch decks, mientras que la versión paga ofrece informes completos y análisis avanzados.",
-    "web": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
+    "web": "https://1752.ai/",
     "id": "1752vc-pitch-deck-analyzer-003d43",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Firecrawl Developer Index",
@@ -14588,6 +14592,271 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-08-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Orato",
+    "compania": "Orato",
+    "tipo": "Aprendizaje de idiomas / Práctica de habla",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de práctica de habla con IA que ofrece retroalimentación en tiempo real sobre pronunciación, fluidez y entonación. Ideal para mejorar la comunicación oral en distintos idiomas mediante sesiones conversacionales interactivas.",
+    "web": "https://orato.ai",
+    "funciones": [
+      "Práctica de conversación con IA en tiempo real",
+      "Retroalimentación sobre pronunciación y fluidez",
+      "Ejercicios personalizados por nivel",
+      "Seguimiento del progreso del usuario",
+      "Soporte multilingüe"
+    ],
+    "caracteristicas": [
+      "Reconocimiento de voz avanzado",
+      "Análisis fonético instantáneo",
+      "Interfaz conversacional intuitiva",
+      "Métricas de progreso detalladas"
+    ],
+    "etica": "El audio del usuario se procesa para evaluar pronunciación, lo que implica almacenamiento temporal de grabaciones; conviene revisar su política de privacidad sobre datos biométricos. El modelo de IA podría reflejar sesgos hacia acentos estándar, penalizando variantes regionales legítimas.",
+    "limite_gratis": "Ofrece sesiones limitadas de práctica con retroalimentación básica; las funciones avanzadas de análisis y el seguimiento prolongado requieren suscripción de pago.",
+    "id": "orato-7a33cb",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "BrandJet",
+    "compania": "BrandJet",
+    "tipo": "Marketing / Ventas",
+    "precio": "Pago",
+    "descripcion": "Plataforma de IA que identifica señales públicas de compra en redes sociales, foros y web para convertirlas en un pipeline de ventas cualificado. Permite a equipos de marketing detectar intención de compra y priorizar leads con alta conversión potencial.",
+    "web": "https://brandjet.com",
+    "funciones": [
+      "Monitoreo de señales de compra en tiempo real",
+      "Generación automática de pipeline de ventas",
+      "Scoring de leads basado en intención",
+      "Integración con CRMs",
+      "Alertas de oportunidades de venta"
+    ],
+    "caracteristicas": [
+      "Análisis de sentimiento y contexto",
+      "Filtrado por sector y buyer persona",
+      "Dashboards de intención de compra",
+      "Conectores con herramientas de marketing"
+    ],
+    "etica": "Recopila datos públicos de usuarios para inferir intención de compra, lo que plantea interrogantes sobre privacidad y consentimiento implícito en la vigilancia digital. El scoring automático podría sesgar la priorización si los datos de entrenamiento no son representativos.",
+    "limite_gratis": "Sin plan gratuito; requiere suscripción de pago para acceder a la plataforma.",
+    "id": "brandjet-07842e",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Video Agent by Fotor",
+    "compania": "Fotor",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "descripcion": "Agente de IA integrado en Fotor que permite crear y editar gráficos en movimiento y vídeos mediante una interfaz de chat intuitiva. Combina generación, edición y mejora visual con asistencia conversacional para simplificar la producción audiovisual.",
+    "web": "https://www.fotor.com/video-agent",
+    "funciones": [
+      "Generación de vídeo desde texto o chat",
+      "Edición de motion graphics asistida por IA",
+      "Creación de animaciones y efectos visuales",
+      "Mejora automática de calidad de vídeo",
+      "Exportación en múltiples formatos"
+    ],
+    "caracteristicas": [
+      "Interfaz conversacional tipo chat",
+      "Integración con el ecosistema Fotor",
+      "Plantillas de motion graphics",
+      "Procesamiento en la nube"
+    ],
+    "etica": "Los vídeos generados por IA pueden usarse para crear deepfakes o contenido engañoso, por lo que Fotor debería aplicar marcas de agua o políticas de uso responsable. La privacidad del contenido subido por usuarios debe gestionarse conforme a normativas de protección de datos.",
+    "limite_gratis": "Permite crear vídeos cortos con marca de agua y funciones básicas; los vídeos sin marca de agua, mayor duración y edición avanzada requieren plan de pago.",
+    "id": "video-agent-by-fotor-3135cc",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Blue Voice",
+    "compania": "Blue Voice",
+    "tipo": "Asistente especializado / Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Asistente de IA entrenado específicamente para ayudar a oficiales de policía a consultar leyes locales, ordenanzas municipales y protocolos operativos. Proponda respuestas contextualizadas para apoyar la toma de decisiones en el trabajo policial cotidiano.",
+    "web": "https://bluevoice.ai",
+    "funciones": [
+      "Consulta de leyes y ordenanzas locales",
+      "Acceso rápido a protocolos policiales",
+      "Respuestas contextuales a situaciones operativas",
+      "Actualización de normativa vigente",
+      "Búsqueda por jurisdicción"
+    ],
+    "caracteristicas": [
+      "Modelo entrenado en legislación local",
+      "Interfaz adaptada al uso en campo",
+      "Respuestas citadas con fuentes legales",
+      "Soporte multi-jurisdicción"
+    ],
+    "etica": "Su uso en fuerzas policiales plantea serios riesgos de sesgo algorítmico si el entrenamiento no incluye perspectivas diversas; las decisiones asistidas por IA no deben sustituir el criterio humano. La privacidad de consultas potencialmente sensibles requiere cifrado y auditorías estrictas.",
+    "limite_gratis": "Sin plan gratuito; requiere suscripción institucional para acceder al servicio.",
+    "id": "blue-voice-943633",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Dreambeans",
+    "compania": "Dreambeans",
+    "tipo": "Generación de imagen / Vídeo",
+    "precio": "Freemium",
+    "descripcion": "Herramienta de IA generativa que transforma fotos y vídeos en estilos artísticos de dibujo animado, cómic o ilustración estilizada. Permite aplicar transformaciones visuales manteniendo rasgos reconocibles del contenido original.",
+    "web": "https://dreambeans.google.com",
+    "funciones": [
+      "Conversión de fotos a estilo cartoon",
+      "Transformación de vídeos a estilos artísticos",
+      "Aplicación de looks de cómic e ilustración",
+      "Personalización de intensidad del estilo",
+      "Procesamiento por lotes"
+    ],
+    "caracteristicas": [
+      "Múltiples estilos artísticos predefinidos",
+      "Preservación de rasgos faciales",
+      "Renderizado rápido en la nube",
+      "Exportación en alta resolución"
+    ],
+    "etica": "El procesamiento de fotos de personas reales implica tratamiento de datos biométricos faciales, por lo que debe cumplir normativas como el RGPD. El potencial de uso para crear imágenes manipuladas o deepfakes exige políticas de uso ético claras.",
+    "limite_gratis": "Permite transformar un número limitado de fotos o clips cortos con marca de agua; el uso ilimitado y sin marca de agua requiere suscripción.",
+    "id": "dreambeans-c9a68c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Radar by Particle",
+    "descripcion": "Motor de búsqueda especializado en podcasts que ayuda a encontrar episodios relevantes sobre cualquier tema mediante IA. Indexa contenido hablado y permite búsquedas semánticas dentro del vasto ecosistema de podcasts.",
+    "compania": "Particle",
+    "tipo": "Búsqueda / Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Búsqueda semántica en podcasts",
+      "Recomendaciones personalizadas de episodios",
+      "Transcripción automática de episodios",
+      "Filtros por tema, duración y popularidad",
+      "Alertas de nuevos episodios sobre temas seguidos"
+    ],
+    "caracteristicas": [
+      "Indexación de transcripciones de audio",
+      "Búsqueda por片段 o cita específica",
+      "Integración con plataformas de podcast",
+      "Algoritmo de relevancia basado en NLP"
+    ],
+    "etica": "La indexación masiva de contenido de podcasts plantea cuestiones de derechos de autor y atribución a creadores; los podcasters deberían poder excluirse del índice. Los sesgos en las recomendaciones podrían reducir la diversidad de voces y perspectivas accesibles.",
+    "limite_gratis": "Ofrece búsquedas básicas con resultados limitados; las funciones avanzadas de búsqueda semántica y recomendaciones ilimitadas requieren suscripción.",
+    "web": "https://www.producthunt.com/products/particle-5",
+    "id": "radar-by-particle-96cf0b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Topview Motion Studio",
+    "descripcion": "Herramienta que permite crear vídeos de lanzamiento y motion graphics profesionales sin necesidad de usar After Effects ni conocimientos avanzados de animación. Automatiza la producción de vídeos promocionales mediante plantillas inteligentes y IA.",
+    "compania": "Topview",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de vídeos de lanzamiento sin After Effects",
+      "Plantillas de motion graphics automatizadas",
+      "Animación de textos y logotipos",
+      "Personalización de marca y colores",
+      "Exportación rápida para redes sociales"
+    ],
+    "caracteristicas": [
+      "Editor visual sin línea de tiempo compleja",
+      "Animaciones predefinidas de alta calidad",
+      "Integración de assets de marca",
+      "Renderizado en la nube"
+    ],
+    "etica": "El uso de plantillas automatizadas puede homogeneizar la creatividad visual, reduciendo la diversidad estética en el contenido promocional. Las marcas y assets subidos deben protegerse para evitar uso no autorizado.",
+    "limite_gratis": "Permite crear vídeos cortos con plantillas básicas y marca de agua; las plantillas premium y la exportación en alta calidad requieren plan de pago.",
+    "web": "https://www.topview.ai/",
+    "id": "topview-motion-studio-fcda59",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "oMLX",
+    "descripcion": "Servidor local de modelos de lenguaje (LLM) optimizado para Mac que reduce drásticamente los tiempos de espera de agentes IA de 90 segundos a aproximadamente 5 segundos. Permite ejecutar modelos grandes localmente con aceleración hardware nativa.",
+    "compania": "oMLX",
+    "tipo": "Productividad / Desarrollo",
+    "precio": "Freemium",
+    "funciones": [
+      "Servidor LLM local para macOS",
+      "Reducción de latencia de agentes IA",
+      "Ejecución de modelos en hardware Apple Silicon",
+      "API compatible con estándares OpenAI",
+      "Gestión de múltiples modelos en paralelo"
+    ],
+    "caracteristicas": [
+      "Optimización para Apple Silicon (M1/M2/M3)",
+      "Aceleración por Neural Engine",
+      "Sin envío de datos a la nube",
+      "Baja huella de memoria"
+    ],
+    "etica": "Al ejecutarse localmente, evita el envío de datos sensibles a servidores externos, mejorando la privacidad del usuario. Requiere hardware reciente, lo que puede crear una brecha de acceso entre usuarios con distintos dispositivos.",
+    "limite_gratis": "Ofrece versión básica gratuita con modelos ligeros; los modelos más grandes y el rendimiento optimizado requieren licencia de pago.",
+    "web": "https://omlx.ai/",
+    "id": "omlx-c8743a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Sayscroll",
+    "descripcion": "Teleprompter inteligente potenciado por IA que desplaza el texto automáticamente al ritmo del habla del usuario. Permite a creadores, presentadores y profesionales grabar discursos y presentaciones sin perder el contacto visual con la cámara.",
+    "compania": "Sayscroll",
+    "tipo": "Productividad / Comunicación",
+    "precio": "Freemium",
+    "funciones": [
+      "Desplazamiento automático del texto al ritmo del habla",
+      "Reconocimiento de voz en tiempo real",
+      "Control por voz del teleprompter",
+      "Ajuste de velocidad y tamaño de fuente",
+      "Compatibilidad con grabación en móvil y webcam"
+    ],
+    "caracteristicas": [
+      "Sincronización por reconocimiento de voz",
+      "Modo espejo para cristal de teleprompter",
+      "Soporte multilingüe",
+      "Interfaz minimalista y configurable"
+    ],
+    "etica": "El reconocimiento de voz procesa el audio del usuario en tiempo real; conviene verificar si el procesamiento es local o en la nube para proteger conversaciones sensibles. El uso en contextos profesionales y políticos plantea interrogantes sobre autenticidad del discurso.",
+    "limite_gratis": "Ofrece funciones básicas de teleprompter con sincronización limitada; la sincronización precisa por IA y la eliminación de marcas de agua requieren suscripción.",
+    "web": "https://sayscroll.com/",
+    "id": "sayscroll-d45368",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-01",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

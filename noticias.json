@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-08-30T00:54:26Z",
+  "actualizado": "2026-09-01T01:34:32Z",
   "novedades": [
+    {
+      "titulo": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
+      "resumen": "A principios de año empezó a surgir una idea en Silicon Valley, la de que cuantos más tokens de IA consumía un trabajador, más productivo estaba siendo. La tendencia, que se bautizó como tokenmaxxing, se arraigó tanto qu",
+      "enlace": "https://www.xataka.com/robotica-e-ia/cuando-microsoft-miro-que-gastaba-cada-empleado-ia-descubrio-algo-alguien-habia-quemado-28-000-dolares-mes",
+      "medio": "Xataka",
+      "fecha": "2026-08-31T19:01:45Z"
+    },
+    {
+      "titulo": "Llevamos años programando nuestras casas inteligentes. LG tiene otra idea: contarles lo que queremos y que ellas se apañen",
+      "resumen": "Hay una contradicción con esa idea del hogar inteligente que desde hace años nos venden las empresas de electrónica de consumo: aunque la tecnología está ahí para ahorrarnos trabajo, conseguir que todo funcione cuesta. H",
+      "enlace": "https://www.xataka.com/robotica-e-ia/llevamos-anos-programando-nuestras-casas-inteligentes-lg-tiene-otra-idea-contarles-que-queremos-que-ellas-se-apanen",
+      "medio": "Xataka",
+      "fecha": "2026-08-31T15:31:45Z"
+    },
+    {
+      "titulo": "Tres “civilizaciones” de agentes de OpenAI aparecieron una detrás de otra. El problema empieza por llamarlas \"civilizaciones\"",
+      "resumen": "Hace unos días contamos en Xataka cómo cerca de 700 agentes de OpenAI acabaron colaborando para infiltrarse en Hugging Face después de descubrir una forma de comunicarse entre ellos. Ahora el divulgador y experto en IA D",
+      "enlace": "https://www.xataka.com/robotica-e-ia/tres-civilizaciones-agentes-openai-aparecieron-detras-otra-problema-empieza-llamarlas-civilizaciones",
+      "medio": "Xataka",
+      "fecha": "2026-08-31T10:31:04Z"
+    },
+    {
+      "titulo": "Hugging Face, entre el hackeo y la compra de Nvidia",
+      "resumen": "Hugging Face lleva pocas semanas siendo noticia por dos motivos muy distintos. Primero, porque un grupo de modelos de OpenAI accedió sin permiso a sus servidores durante unas pruebas internas de seguridad. Después, porqu",
+      "enlace": "https://blogthinkbig.com/hugging-face-entre-el-hackeo-y-la-compra-de-nvidia",
+      "medio": "Think Big",
+      "fecha": "2026-08-31T09:26:28Z"
+    },
+    {
+      "titulo": "Qué es Computer History de ChatGPT y por qué estamos rompiendo una barrera que hace años era impensable",
+      "resumen": "ChatGPT es una de las aplicaciones móviles más descargadas. Tanto en iOS como en Android. Y es la app más popular si hablamos de asistentes de IA. Con versión web y app de escritorio para [&#8230;] Qué es Computer Histor",
+      "enlace": "https://blogthinkbig.com/computer-history-chatgpt-memoria-historial-ordenador",
+      "medio": "Think Big",
+      "fecha": "2026-08-31T07:30:00Z"
+    },
+    {
+      "titulo": "El 96% de las organizaciones en España considera clave la IA privada y soberana",
+      "resumen": "Las empresas españolas ya incorporan la soberanía, la privacidad y la seguridad de los datos como prioridades estratégicas para escalar la IA L'articolo El 96% de las organizaciones en España considera clave la IA privad",
+      "enlace": "https://www.computing.es/inteligencia-artificial/el-96-de-las-organizaciones-en-espana-considera-clave-la-ia-privada-y-soberana/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-31T07:00:00Z"
+    },
+    {
+      "titulo": "Un agricultor confió en los consejos de la IA para cuidar su cosecha. El resultado: 10 hectáreas arrasadas en una noche",
+      "resumen": "La IA puede ser muy útil para muchas cosas, pero si algo hemos aprendido en estos años es que no podemos fiarnos al 100% de sus respuestas. Una alucinación puede hacerte quedar fatal en el trabajo, o también puede hacer ",
+      "enlace": "https://www.xataka.com/magnet/agricultor-confio-consejos-ia-para-cuidar-su-cosecha-resultado-10-hectareas-arrasadas-noche",
+      "medio": "Xataka",
+      "fecha": "2026-08-30T17:01:04Z"
+    },
+    {
+      "titulo": "La ciudad china que cambió las patatas y las vacas por centros de datos para convertirse en el motor oculto de la IA",
+      "resumen": "Rápido, piensa en cinco ciudades chinas. Seguro que en tu lista no aparece Ulanqab, una ciudad a años luz del patrimonio de Pekín y de la innovación de Shenzhen y sin embargo, de capital importancia para la estrategia te",
+      "enlace": "https://www.xataka.com/servicios/donde-antes-habia-vacas-patatas-hoy-hay-centros-datos-ciudad-china-que-gasolina-ia",
+      "medio": "Xataka",
+      "fecha": "2026-08-30T10:00:00Z"
+    },
+    {
+      "titulo": "Nos hemos pasado tres años preocupados por si la IA alucina. Ahora el problema es que haga cosas",
+      "resumen": "A finales de julio, el mantenedor de un proyecto de código abierto se encontró una pull request en su repositorio. El código traía algo escondido dentro. Puso pegas en público y entonces empezaron a aparecer cuentas apoy",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nos-hemos-pasado-tres-anos-preocupados-ia-alucina-ahora-problema-que-haga-cosas",
+      "medio": "Xataka",
+      "fecha": "2026-08-30T09:01:04Z"
+    },
     {
       "titulo": "Trump entra en pánico por la IA china: por qué Kimi ha intensificado la guerra tecnológica entre EE. UU. y China",
       "resumen": "En la guerra de la inteligencia artificial ya no solo se compite por lo económico. Varios de los países más importantes del mundo han dejado claro que esta batalla va mucho más allá de llenar [&#8230;] Trump entra en pán",
@@ -44,53 +107,11 @@
       "fecha": "2026-08-28T07:01:00Z"
     },
     {
-      "titulo": "Bill Gates: \"Creo que deberíamos poner impuestos a la IA, si contratas a alguien ahora mismo pagas impuestos sobre su nómina\"",
-      "resumen": "Más allá de los pequeños empleos (casi vocacionales) que Bill Gates contó en su libro biográfico 'Código Fuente: Mis inicios', el millonario tecnológico solo ha tenido dos trabajos en su vida. El primero fue levantar una",
-      "enlace": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T16:45:00Z"
-    },
-    {
       "titulo": "Por qué la mejor defensa corporativa contra la inteligencia artificial es volver a lo analógico",
       "resumen": "Durante décadas, el modelo de seguridad se ha basado en una regla muy simple: ver o escuchar a una persona confirmaba su identidad. Hoy, esa premisa técnica ha dejado de ser válida. El avance de [&#8230;] Por qué la mejo",
       "enlace": "https://blogthinkbig.com/deepfakes-ciberseguridad-defensa-analogica",
       "medio": "Think Big",
       "fecha": "2026-08-27T16:00:00Z"
-    },
-    {
-      "titulo": "Qwen3.8-Flash y DeepSeek V4-Flash apuntan en la misma dirección: la IA china está reventando la relación calidad/precio",
-      "resumen": "Hace pocas semanas se lanzó DeepSeek V4-Flash,&nbsp;y esta semana hemos visto cómo han llegado dos espectaculares modelos más: Qwen3.8-Flash y GLM-5.3-Flash. Todos ellos destacan por ser buenos, bonitos y sobre todo, bar",
-      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-tiene-modelos-caros-capaces-mundo-problema-que-china-tiene-casi-igual-buenos-mucho-baratos",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T14:45:00Z"
-    },
-    {
-      "titulo": "Los bancos están vendiendo la deuda de los centros de datos junto a planes de pensiones. Es lo mismo que llevó a la crisis de 2008",
-      "resumen": "El Financial Times ha reconstruido cómo se está pagando la construcción de centros de datos y el retrato tiene un aire que nos resulta familiar. Ni siquiera las tecnológicas (con sus decenas de miles de millones en caja)",
-      "enlace": "https://www.xataka.com/empresas-y-economia/wall-street-esta-buscando-a-quien-colocarle-riesgo-centros-datos-destinatario-tu-fondo-pensiones",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T14:15:00Z"
-    },
-    {
-      "titulo": "Nvidia lanza DLSS 4.5 Ray Reconstruction: así es la nueva IA que mejora la imagen de tus juegos sin tener que cambiar de gráfica",
-      "resumen": "Hace unos meses contábamos qué se traía entre manos Nvidia este año en cuanto a su receta mágica del DLSS en juegos y, finalmente, la compañía ha aprovechado la Gamescom para lanzar la versión DLSS 4.5 con reconstrucción",
-      "enlace": "https://www.xataka.com/videojuegos/nvidia-lanza-dlss-4-5-ray-reconstruction-asi-nueva-ia-que-mejora-imagen-tus-juegos-tener-que-cambiar-grafica",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T13:21:04Z"
-    },
-    {
-      "titulo": "Mark Zuckerberg quiso demostrar que Meta era más productiva usando IA que con empleados. Ha sido un fiasco para la compañía",
-      "resumen": "En enero, Mark Zuckerberg reunió a su círculo directivo más cercano en su casoplón de Hawái para discutir sobre el futuro de su plantilla. Sobre la mesa tenían un plan con nombre de película de espías: Project OT (de Org",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-quiso-convertir-a-meta-nativa-ia-reduciendo-60-tamano-sus-equipos-ha-sido-completo-desastre",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T13:15:00Z"
-    },
-    {
-      "titulo": "¿Por qué Nvidia compra Hugging Face? Entre otras cosas, porque OpenAI ya tiene su primer chip de inferencia propio",
-      "resumen": "OpenAI acaba de sacar pecho con su primer chip de inferencia IA, al que ha bautizado con el curioso nombre de \"Jalapeño\". Este chip acelerador de IA permite ejecutar modelos ya entrenados y generar las respuestas que rec",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-su-chip-inferencia-se-llama-jalapeno-ha-conseguido-algo-inesperado-superar-a-nvidia",
-      "medio": "Xataka",
-      "fecha": "2026-08-27T10:45:00Z"
     },
     {
       "titulo": "Así funciona Jalapeño: el primer procesador de OpenAI",
@@ -119,20 +140,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/bbva-extiende-la-ia-a-los-procesos-de-su-banca-de-empresas/",
       "medio": "Computing.es",
       "fecha": "2026-08-26T07:00:00Z"
-    },
-    {
-      "titulo": "SharePoint bajo asedio: la cadena de exploits asistida por IA que redefine la ciberseguridad automatizada",
-      "resumen": "Un investigador de ciberseguridad ha pasado 120 horas guiando a una inteligencia artificial para encontrar una grieta en uno de los programas más usados por empresas de todo el mundo. El resultado ha sido un [&#8230;] Sh",
-      "enlace": "https://blogthinkbig.com/sharepoint-bajo-asedio-la-cadena-de-exploits-asistida-por-ia-que-redefine-la-ciberseguridad-automatizada",
-      "medio": "Think Big",
-      "fecha": "2026-08-25T10:00:00Z"
-    },
-    {
-      "titulo": "El impacto de la Inteligencia Artificial en la programación: agotamiento, código defectuoso y deuda de verificación",
-      "resumen": "La integración de la Inteligencia Artificial (IA) en el desarrollo de software prometía eliminar el trabajo repetitivo y democratizar la programación. Sin embargo, la adopción masiva de herramientas generativas ha desenc",
-      "enlace": "https://blogthinkbig.com/el-impacto-de-la-inteligencia-artificial-en-la-programacion-agotamiento-codigo-defectuoso-y-deuda-de-verificacion",
-      "medio": "Think Big",
-      "fecha": "2026-08-25T08:55:27Z"
     },
     {
       "titulo": "Un agente de IA puede liberar hasta 150.000 horas de trabajo al año en una gran organización",
@@ -203,16 +210,16 @@
       "enlace": "https://www.computing.es/informes/gestionar-el-cambio-cultural-es-el-principal-reto-de-la-digitalizacion-para-el-76-de-empresas/",
       "medio": "Computing.es",
       "fecha": "2026-08-18T10:00:00Z"
-    },
-    {
-      "titulo": "La IA amplía las capacidades de los profesionales españoles: El 60% ya realiza trabajos que hace un año estaban fuera de su alcance",
-      "resumen": "Según un estudio de Microsoft, el 86% de los usuarios de IA en España utiliza las respuestas generadas por estas herramientas como punto de partida, no como una solución definitiva L'articolo La IA amplía las capacidades",
-      "enlace": "https://www.computing.es/inteligencia-artificial/inteligencia-artificial-lo-que-buscan-los-directivos-vs-lo-que-obtienen-los-trabajadores/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-17T10:00:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "“Califica como motor de búsqueda”: Europa coloca a ChatGPT bajo la DSA y activa una cuenta atrás con más escrutinio",
+      "resumen": "ChatGPT nació ante nuestros ojos como una caja de texto capaz de devolver respuestas, resumir documentos o ayudarnos a buscar ideas. En muy poco tiempo, sin embargo, esa descripción empezó a quedarse corta. Lo que usamos",
+      "enlace": "https://www.xataka.com/legislacion-y-derechos/califica-como-motor-busqueda-europa-coloca-a-chatgpt-dsa-activa-cuenta-atras-escrutinio",
+      "medio": "Xataka",
+      "fecha": "2026-08-31T21:55:51Z"
+    },
     {
       "titulo": "Conversaciones compartidas de Claude aparecen indexadas en Google.",
       "resumen": "Cientos de conversaciones compartidas de Claude aparecieron indexadas en Google Cómo revisar y revocar tus propios enlaces compartidos. The post Conversaciones compartidas de Claude aparecen indexadas en Google. appeared",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/200-expertos-tienen-claro-hay-que-establacer-lineas-rojas-ia-no-se-nos-vaya-manos",
       "medio": "Xataka",
       "fecha": "2025-09-23T13:00:00Z"
-    },
-    {
-      "titulo": "Microsoft 365 tendrá versiones más baratas en todo el mundo. Es fruto de la presión antimonopolio de la Comisión Europea",
-      "resumen": "Pronto, muchos clientes de Microsoft Office en todo el mundo podrán acceder a suscripciones más baratas. No es una promoción ni un gesto comercial aislado, sino el resultado de años de presión de Bruselas. Microsoft ha a",
-      "enlace": "https://www.xataka.com/servicios/microsoft-365-tendra-versiones-baratas-todo-mundo-fruto-presion-antimonopolio-comision-europea",
-      "medio": "Xataka",
-      "fecha": "2025-09-12T19:30:45Z"
     }
   ]
 }
