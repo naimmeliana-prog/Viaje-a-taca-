@@ -4216,7 +4216,7 @@
     ],
     "etica": "Recopila datos de usuarios para mejorar el servicio, con política de privacidad clara; se evita sesgos en recomendaciones de mercado.",
     "limite_gratis": "Plan gratuito permite 10 consultas diarias y acceso limitado a funciones premium; la suscripción desbloquea uso ilimitado.",
-    "web": "https://cewsco.com/",
+    "web": "https://cewsco.com/?ref=superpublic",
     "id": "cewsco-14e76c",
     "gratis": true,
     "pago": true,
@@ -14439,7 +14439,7 @@
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Hy4",
@@ -14660,7 +14660,7 @@
     "tipo": "Generación de vídeo",
     "precio": "Freemium",
     "descripcion": "Agente de IA integrado en Fotor que permite crear y editar gráficos en movimiento y vídeos mediante una interfaz de chat intuitiva. Combina generación, edición y mejora visual con asistencia conversacional para simplificar la producción audiovisual.",
-    "web": "https://www.fotor.com/video-agent",
+    "web": "https://www.fotor.com/ai-agent/",
     "funciones": [
       "Generación de vídeo desde texto o chat",
       "Edición de motion graphics asistida por IA",
@@ -14681,7 +14681,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-01",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Blue Voice",
@@ -14689,7 +14690,7 @@
     "tipo": "Asistente especializado / Agentes IA",
     "precio": "Pago",
     "descripcion": "Asistente de IA entrenado específicamente para ayudar a oficiales de policía a consultar leyes locales, ordenanzas municipales y protocolos operativos. Proponda respuestas contextualizadas para apoyar la toma de decisiones en el trabajo policial cotidiano.",
-    "web": "https://bluevoice.ai",
+    "web": "https://bluevoice.io/",
     "funciones": [
       "Consulta de leyes y ordenanzas locales",
       "Acceso rápido a protocolos policiales",
@@ -14710,7 +14711,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-01",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Dreambeans",
@@ -14718,7 +14720,7 @@
     "tipo": "Generación de imagen / Vídeo",
     "precio": "Freemium",
     "descripcion": "Herramienta de IA generativa que transforma fotos y vídeos en estilos artísticos de dibujo animado, cómic o ilustración estilizada. Permite aplicar transformaciones visuales manteniendo rasgos reconocibles del contenido original.",
-    "web": "https://dreambeans.google.com",
+    "web": "https://labs.google/dreambeans",
     "funciones": [
       "Conversión de fotos a estilo cartoon",
       "Transformación de vídeos a estilos artísticos",
@@ -14739,7 +14741,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-01",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Radar by Particle",
@@ -14769,7 +14772,7 @@
     "fecha_agregado": "2026-09-01",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Topview Motion Studio",
@@ -14857,6 +14860,128 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Keiki",
+    "descripcion": "Build one customer-facing AI agent and launch it everywhere",
+    "compania": "Keiki",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de agentes conversacionales",
+      "Integración con canales de atención",
+      "Personalización de flujos de conversación",
+      "Analíticas de interacción"
+    ],
+    "caracteristicas": [
+      "Interfaz de arrastrar y soltar",
+      "Soporte para múltiples idiomas",
+      "Entrenamiento con datos propios",
+      "API REST"
+    ],
+    "etica": "La herramienta recoge datos de conversación que pueden incluir información sensible; se recomienda anonimizar. Además, los modelos pueden heredar sesgos de los datos de entrenamiento.",
+    "limite_gratis": "El plan gratuito permite crear un solo agente y limita el número de interacciones mensuales.",
+    "web": "https://keiki.app/",
+    "id": "keiki-13fd9b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Happy Shrimp",
+    "descripcion": "Alibaba's AI music generator for turning ideas into songs",
+    "compania": "Alibaba",
+    "tipo": "Generación de música",
+    "precio": "Gratuito",
+    "funciones": [
+      "Generación de melodías a partir de texto",
+      "Estilo musical configurable",
+      "Exportación en formatos MP3/WAV",
+      "Ajuste de tempo y tono",
+      "Colaboración en tiempo real"
+    ],
+    "caracteristicas": [
+      "Modelo basado en transformer",
+      "Interfaz web amigable",
+      "Integración con Alibaba Cloud",
+      "Personalización de instrumentos",
+      "Compartición de resultados"
+    ],
+    "etica": "El uso de este generador puede generar contenido que infrinja derechos de autor si no se tiene cuidado. Además, los algoritmos pueden reflejar sesgos culturales presentes en los datos de entrenamiento.",
+    "limite_gratis": "El plan gratuito permite generar hasta 3 canciones al mes con calidad estándar.",
+    "web": "https://www.happyshrimp.ai/",
+    "id": "happy-shrimp-0167d1",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ThunderPhone",
+    "descripcion": "Platform for building reliable AI phone agents (from 2c/min)",
+    "compania": "ThunderPhone",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Creación de flujos de conversación telefónica",
+      "Integración con líneas PSTN",
+      "Transcripción en tiempo real",
+      "Personalización de voz sintética",
+      "Analíticas de llamadas"
+    ],
+    "caracteristicas": [
+      "API REST",
+      "Soporte para múltiples idiomas",
+      "Escalabilidad automática",
+      "Seguridad de datos",
+      "Integración con CRM"
+    ],
+    "etica": "La grabación de llamadas requiere consentimiento explícito según GDPR. Los modelos de voz sintética pueden ser usados para deepfakes si no se regulan.",
+    "limite_gratis": "Sin plan gratuito",
+    "web": "https://docs.thunderphone.com/",
+    "id": "thunderphone-6f5c43",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Sourclip 2.0",
+    "descripcion": "The research workspace built around Gemini Notebook",
+    "compania": "Sourclip",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "funciones": [
+      "Notebook integrado con Gemini",
+      "Gestión de datasets",
+      "Visualización de resultados",
+      "Compartición de notebooks",
+      "Ejecución de celdas en la nube"
+    ],
+    "caracteristicas": [
+      "Interfaz web",
+      "Soporte para Python y R",
+      "Integración con Google Drive",
+      "Control de versiones",
+      "Colaboración en tiempo real"
+    ],
+    "etica": "Al procesar datos en la nube, se deben garantizar la privacidad de los usuarios. Los algoritmos de IA pueden perpetuar sesgos si los datos no son representativos.",
+    "limite_gratis": "El plan gratuito incluye notebooks ilimitados pero con limitación de recursos de cómputo.",
+    "web": "https://www.sourclip.com/",
+    "id": "sourclip-2-0-b31fcc",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-02",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

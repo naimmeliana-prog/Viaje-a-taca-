@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-09-01T01:34:32Z",
+  "actualizado": "2026-09-02T00:46:32Z",
   "novedades": [
+    {
+      "titulo": "Huawei quiere llevar su IA mucho más allá de los móviles: ahora busca hacerse un hueco en el desarrollo de nuevos medicamentos",
+      "resumen": "Huawei hace tiempo que dejó de ser solo esa marca que muchos asociamos a móviles, antenas y equipos de red. En los últimos años, en un contexto de restricciones de EEUU y apuesta china por reforzar tecnologías propias, l",
+      "enlace": "https://www.xataka.com/empresas-y-economia/huawei-quiere-llevar-su-ia-mucho-alla-moviles-ahora-busca-hacerse-hueco-desarrollo-nuevos-medicamentos",
+      "medio": "Xataka",
+      "fecha": "2026-09-01T19:31:45Z"
+    },
+    {
+      "titulo": "El colapso de las marcas de agua en la IA: por qué certificar un texto ya es una batalla perdida",
+      "resumen": "La industria tecnológica lleva meses buscando una forma fiable de identificar el contenido generado por inteligencia artificial. La presión regulatoria europea exige mecanismos de trazabilidad claros, y las instituciones",
+      "enlace": "https://blogthinkbig.com/fracaso-marca-agua-ia-anthropic",
+      "medio": "Think Big",
+      "fecha": "2026-09-01T16:00:00Z"
+    },
+    {
+      "titulo": "Ha nacido el \"Claudés\", el dialecto que sólo entienden quienes se pasan el día hablando con sus agentes de IA",
+      "resumen": "Hay un nuevo dialecto circulando en la industria tech, uno que sólo entienden quienes trabajan constantemente con agentes de IA. \"Tienes razón al oponerte. Mi error no fue periférico; fue fundacional\" es el tipo de frase",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ha-nacido-claudes-dialecto-que-solo-entienden-quienes-se-pasan-dia-hablando-sus-agentes-ia",
+      "medio": "Xataka",
+      "fecha": "2026-09-01T15:31:45Z"
+    },
+    {
+      "titulo": "Nvidia acaba de invertir 3.500 millones en MediaTek. Curiosamente, para ayudar a crear alternativas a sus propias GPU",
+      "resumen": "Nvidia está poniendo más dinero a trabajar,&nbsp;esta vez&nbsp;en la empresa que podría acabar&nbsp;convirtiéndose en&nbsp;su propia competencia.&nbsp;Y es que este&nbsp;lunes,&nbsp;la compañía anunciaba&nbsp;un acuerdo ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-acaba-invertir-3-500-millones-mediatek-curiosamente-para-ayudar-a-crear-alternativas-a-sus-propias-gpu",
+      "medio": "Xataka",
+      "fecha": "2026-09-01T14:45:45Z"
+    },
+    {
+      "titulo": "DLSS 5 llega con un desafío enorme: convencernos de que el renderizado neuronal merece la pena",
+      "resumen": "DLSS 5 ya está aquí. Bueno, casi está aquí. Nvidia pondrá en las manos de los usuarios la última revisión de su tecnología de reconstrucción de la imagen el próximo 3 de septiembre. Y ya sabemos cómo funciona, qué nos pr",
+      "enlace": "https://www.xataka.com/videojuegos/dlss-5-llega-desafio-enorme-convencernos-que-renderizado-neuronal-merece-pena",
+      "medio": "Xataka",
+      "fecha": "2026-09-01T13:00:00Z"
+    },
+    {
+      "titulo": "Anthropic detuvo el entrenamiento de su nueva IA por una sencilla razón: estaba aprendiendo demasiado bien a hacer trampas",
+      "resumen": "Esto está pasando de castaño a oscuro, queridos lectores. Si ya estabamos inquietos con lo que pasó con los agentes de OpenAI y Hugging Face, ahora llega Anthropic para avisarnos de que sus modelos también se están ponie",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-detuvo-entrenamiento-su-nueva-ia-sencilla-razon-estaba-aprendiendo-demasiado-bien-a-hacer-trampas",
+      "medio": "Xataka",
+      "fecha": "2026-09-01T12:15:45Z"
+    },
+    {
+      "titulo": "Apple acusó a OpenAI de robo de secretos. OpenAI responde: es una cortina de humo para frenar a la competencia",
+      "resumen": "La incursión de OpenAI en el mercado de los dispositivos de consumo ha desencadenado un culebrón inesperado. A mediados del pasado mes de julio Apple demandó a la compañía liderada por Sam Altman y a dos exempleados suyo",
+      "enlace": "https://www.xataka.com/empresas-y-economia/openai-carga-apple-lio-solo-suyo",
+      "medio": "Xataka",
+      "fecha": "2026-09-01T09:45:00Z"
+    },
+    {
+      "titulo": "Qué ha pasado en la cúpula de IA de Google y cómo esto puede transformar sus esfuerzos con Gemini",
+      "resumen": "A principios de agosto, Google anunció importantes modificaciones en su cúpula de IA. Una reestructuración que ha traído cambios en la dirección de DeepMind, el laboratorio de inteligencia artificial de Google, para pers",
+      "enlace": "https://blogthinkbig.com/que-ha-pasado-en-la-cupula-de-ia-de-google-y-como-esto-puede-transformar-sus-esfuerzos-con-gemini",
+      "medio": "Think Big",
+      "fecha": "2026-09-01T09:01:00Z"
+    },
     {
       "titulo": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
       "resumen": "A principios de año empezó a surgir una idea en Silicon Valley, la de que cuantos más tokens de IA consumía un trabajador, más productivo estaba siendo. La tendencia, que se bautizó como tokenmaxxing, se arraigó tanto qu",
@@ -9,11 +65,11 @@
       "fecha": "2026-08-31T19:01:45Z"
     },
     {
-      "titulo": "Llevamos años programando nuestras casas inteligentes. LG tiene otra idea: contarles lo que queremos y que ellas se apañen",
+      "titulo": "La casa inteligente nunca fue realmente inteligente. LG cree que la IA puede arreglarlo",
       "resumen": "Hay una contradicción con esa idea del hogar inteligente que desde hace años nos venden las empresas de electrónica de consumo: aunque la tecnología está ahí para ahorrarnos trabajo, conseguir que todo funcione cuesta. H",
       "enlace": "https://www.xataka.com/robotica-e-ia/llevamos-anos-programando-nuestras-casas-inteligentes-lg-tiene-otra-idea-contarles-que-queremos-que-ellas-se-apanen",
       "medio": "Xataka",
-      "fecha": "2026-08-31T15:31:45Z"
+      "fecha": "2026-08-31T15:30:00Z"
     },
     {
       "titulo": "Tres “civilizaciones” de agentes de OpenAI aparecieron una detrás de otra. El problema empieza por llamarlas \"civilizaciones\"",
@@ -51,20 +107,6 @@
       "fecha": "2026-08-30T17:01:04Z"
     },
     {
-      "titulo": "La ciudad china que cambió las patatas y las vacas por centros de datos para convertirse en el motor oculto de la IA",
-      "resumen": "Rápido, piensa en cinco ciudades chinas. Seguro que en tu lista no aparece Ulanqab, una ciudad a años luz del patrimonio de Pekín y de la innovación de Shenzhen y sin embargo, de capital importancia para la estrategia te",
-      "enlace": "https://www.xataka.com/servicios/donde-antes-habia-vacas-patatas-hoy-hay-centros-datos-ciudad-china-que-gasolina-ia",
-      "medio": "Xataka",
-      "fecha": "2026-08-30T10:00:00Z"
-    },
-    {
-      "titulo": "Nos hemos pasado tres años preocupados por si la IA alucina. Ahora el problema es que haga cosas",
-      "resumen": "A finales de julio, el mantenedor de un proyecto de código abierto se encontró una pull request en su repositorio. El código traía algo escondido dentro. Puso pegas en público y entonces empezaron a aparecer cuentas apoy",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nos-hemos-pasado-tres-anos-preocupados-ia-alucina-ahora-problema-que-haga-cosas",
-      "medio": "Xataka",
-      "fecha": "2026-08-30T09:01:04Z"
-    },
-    {
       "titulo": "Trump entra en pánico por la IA china: por qué Kimi ha intensificado la guerra tecnológica entre EE. UU. y China",
       "resumen": "En la guerra de la inteligencia artificial ya no solo se compite por lo económico. Varios de los países más importantes del mundo han dejado claro que esta batalla va mucho más allá de llenar [&#8230;] Trump entra en pán",
       "enlace": "https://blogthinkbig.com/trump-entra-en-panico-por-la-ia-china-por-que-kimi-ha-intensificado-la-guerra-tecnologica-entre-ee-uu-y-china",
@@ -72,67 +114,11 @@
       "fecha": "2026-08-29T07:01:00Z"
     },
     {
-      "titulo": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
-      "resumen": "TeraWulf ha recibido luz verde por parte de los reguladores para desarrollar un enorme campus de centros de datos de IA construido en lo que antes era una fundición de aluminio en Kentucky, Estados Unidos. El coste del p",
-      "enlace": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
-      "medio": "Xataka",
-      "fecha": "2026-08-28T19:01:04Z"
-    },
-    {
-      "titulo": "La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana",
-      "resumen": "Los gurús de la IA nos contaron que esta tecnología iba a permitirnos trabajar menos horas, liberarnos de las tareas aburridas y rutinarias y a darnos tiempo para lo realmente importante. La promesa sonaba bien, pero has",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-prometia-reducir-jornada-laboral-empleados-momento-ha-conseguido-tres-horas-libres-a-semana",
-      "medio": "Xataka",
-      "fecha": "2026-08-28T18:46:59Z"
-    },
-    {
-      "titulo": "OpenAI, Anthropic y Google piden protegernos de los riesgos de la IA. Es como poner al lobo a cuidar del gallinero",
-      "resumen": "OpenAI, Anthropic, Google, Microsoft, AWS, IBM, Cloudflare, CrowdStrike, Palo Alto Networks y decenas de empresas más han firmado una carta abierta con un objetivo común: reforzar la ciberseguridad ante la llegada de mod",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-anthropic-google-piden-protegernos-riesgos-ia-como-poner-al-lobo-a-cuidar-gallinero",
-      "medio": "Xataka",
-      "fecha": "2026-08-28T15:31:04Z"
-    },
-    {
-      "titulo": "700 agentes de OpenAI participaron en el ataque a Hugging Face. Lo inquietante es cómo llegaron a organizarse",
-      "resumen": "Todo empezó como una evaluación casi inocente. Entre el 7 y el 13 de julio de 2026, OpenAI lanzó alrededor de 1.200 agentes en sandboxes separados dentro de ExploitGym con un objetivo: evaluar la capacidad ofensiva de su",
-      "enlace": "https://www.xataka.com/robotica-e-ia/700-agentes-openai-participaron-ataque-a-hugging-face-inquietante-como-llegaron-a-organizarse",
-      "medio": "Xataka",
-      "fecha": "2026-08-28T09:45:04Z"
-    },
-    {
-      "titulo": "Ya sabemos el impacto de la IA en las web. Cloudflare lo ha dejado claro",
-      "resumen": "La inteligencia artificial ha tomado por asalto al mundo, y los buscadores de Internet no son la excepción. Google, la plataforma más usada a nivel mundial, introdujo varias herramientas impulsadas con IA con impacto dir",
-      "enlace": "https://blogthinkbig.com/ya-sabemos-el-impacto-de-la-ia-en-las-web-cloudflare-lo-ha-dejado-claro",
-      "medio": "Think Big",
-      "fecha": "2026-08-28T07:01:00Z"
-    },
-    {
-      "titulo": "Por qué la mejor defensa corporativa contra la inteligencia artificial es volver a lo analógico",
-      "resumen": "Durante décadas, el modelo de seguridad se ha basado en una regla muy simple: ver o escuchar a una persona confirmaba su identidad. Hoy, esa premisa técnica ha dejado de ser válida. El avance de [&#8230;] Por qué la mejo",
-      "enlace": "https://blogthinkbig.com/deepfakes-ciberseguridad-defensa-analogica",
-      "medio": "Think Big",
-      "fecha": "2026-08-27T16:00:00Z"
-    },
-    {
-      "titulo": "Así funciona Jalapeño: el primer procesador de OpenAI",
-      "resumen": "La industria tecnológica ha chocado contra un límite físico. La principal restricción para expandir la inteligencia artificial ya no es el capital financiero ni el espacio en los centros de datos, sino la disponibilidad ",
-      "enlace": "https://blogthinkbig.com/openai-jalapeno-chip-inferencia-ia",
-      "medio": "Think Big",
-      "fecha": "2026-08-26T13:00:00Z"
-    },
-    {
       "titulo": "FaRADAI, un proyecto que pone la Defensa en manos de la IA",
       "resumen": "Indra participa en un consorcio europeo que demuestra cómo la IA puede anticipar amenazas y mejorar la toma de decisiones en operaciones militares L'articolo FaRADAI, un proyecto que pone la Defensa en manos de la IA pro",
       "enlace": "https://www.computing.es/inteligencia-artificial/faradai-un-proyecto-que-pone-la-defensa-en-manos-de-la-ia/",
       "medio": "Computing.es",
       "fecha": "2026-08-26T11:30:00Z"
-    },
-    {
-      "titulo": "Qué ha pasado con Google Earth y por qué se ha llenado de imágenes falsas en tan solo un día",
-      "resumen": "La inteligencia artificial, como cualquier otra tecnología, no es mala o buena por naturaleza. El problema está en el uso que se le da. Desgraciadamente, la IA ha irrumpido en nuestras vidas en un contexto [&#8230;] Qué ",
-      "enlace": "https://blogthinkbig.com/imagenes-falsas-google-earth-ia-desinformacion-fake-news",
-      "medio": "Think Big",
-      "fecha": "2026-08-26T07:01:00Z"
     },
     {
       "titulo": "BBVA extiende la IA a los procesos de su banca de empresas",
@@ -210,15 +196,29 @@
       "enlace": "https://www.computing.es/informes/gestionar-el-cambio-cultural-es-el-principal-reto-de-la-digitalizacion-para-el-76-de-empresas/",
       "medio": "Computing.es",
       "fecha": "2026-08-18T10:00:00Z"
+    },
+    {
+      "titulo": "La IA amplía las capacidades de los profesionales españoles: El 60% ya realiza trabajos que hace un año estaban fuera de su alcance",
+      "resumen": "Según un estudio de Microsoft, el 86% de los usuarios de IA en España utiliza las respuestas generadas por estas herramientas como punto de partida, no como una solución definitiva L'articolo La IA amplía las capacidades",
+      "enlace": "https://www.computing.es/inteligencia-artificial/inteligencia-artificial-lo-que-buscan-los-directivos-vs-lo-que-obtienen-los-trabajadores/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-17T10:00:00Z"
+    },
+    {
+      "titulo": "Ni la subida de precio frena el desastre: el MacBook Air M5 se queda sin stock por la crisis de componentes",
+      "resumen": "Agosto es el mes en el que Apple suele activar su campaña de vuelta al cole, esa promoción con la que te llevas por tu compra unos AirPods, a veces una tarjeta regalo. Este año ya ha arrancado en Estados Unidos, aunque e",
+      "enlace": "https://www.applesfera.com/portatil/subida-precio-frena-desastre-macbook-air-m5-se-queda-stock-crisis-componentes",
+      "medio": "Applesfera",
+      "fecha": "2026-08-03T12:01:44Z"
     }
   ],
   "etica": [
     {
-      "titulo": "“Califica como motor de búsqueda”: Europa coloca a ChatGPT bajo la DSA y activa una cuenta atrás con más escrutinio",
+      "titulo": "Europa ha encontrado la fórmula perfecta para regular a ChatGPT con mano dura: tratarlo como un gran buscador",
       "resumen": "ChatGPT nació ante nuestros ojos como una caja de texto capaz de devolver respuestas, resumir documentos o ayudarnos a buscar ideas. En muy poco tiempo, sin embargo, esa descripción empezó a quedarse corta. Lo que usamos",
       "enlace": "https://www.xataka.com/legislacion-y-derechos/califica-como-motor-busqueda-europa-coloca-a-chatgpt-dsa-activa-cuenta-atras-escrutinio",
       "medio": "Xataka",
-      "fecha": "2026-08-31T21:55:51Z"
+      "fecha": "2026-08-31T21:55:00Z"
     },
     {
       "titulo": "Conversaciones compartidas de Claude aparecen indexadas en Google.",
