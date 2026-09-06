@@ -14439,7 +14439,7 @@
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Hy4",
@@ -14765,14 +14765,14 @@
     ],
     "etica": "La indexación masiva de contenido de podcasts plantea cuestiones de derechos de autor y atribución a creadores; los podcasters deberían poder excluirse del índice. Los sesgos en las recomendaciones podrían reducir la diversidad de voces y perspectivas accesibles.",
     "limite_gratis": "Ofrece búsquedas básicas con resultados limitados; las funciones avanzadas de búsqueda semántica y recomendaciones ilimitadas requieren suscripción.",
-    "web": "https://www.producthunt.com/products/particle-5",
+    "web": "https://radar.particle.pro/",
     "id": "radar-by-particle-96cf0b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-01",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Topview Motion Studio",
@@ -15132,7 +15132,7 @@
     "tipo": "Infraestructura personal de inferencia de IA",
     "precio": "Freemium",
     "descripcion": "Herramienta gratuita de Nvidia que sincroniza computadoras domésticas ociosas para crear un centro de datos personal de inferencia de IA local.",
-    "web": "https://nvidia.com/pair",
+    "web": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
     "funciones": [
       "Computación distribuida",
       "Inferencia local",
@@ -15152,7 +15152,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-04",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "MagiCrew",
@@ -15160,7 +15161,7 @@
     "tipo": "Plataforma de fuerza laboral de IA",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite a cualquier usuario tener su propia fuerza laboral de IA en un solo lugar, gestionando múltiples agentes especializados.",
-    "web": "https://magicrew.com",
+    "web": "https://www.magicrew.ai/",
     "funciones": [
       "Orquestación de múltiples agentes",
       "Creación de agentes personalizados",
@@ -15180,7 +15181,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-04",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Lily",
@@ -15297,7 +15299,7 @@
     "fecha_agregado": "2026-09-04",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Causal",
@@ -15326,6 +15328,410 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-04",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "GitWarren",
+    "compania": "GitWarren Inc.",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que automatiza revisiones de código mediante agentes de IA integrados en el flujo de trabajo de desarrollo, permitiendo validar cambios antes de confirmarlos.",
+    "web": "https://gitwarren.com",
+    "funciones": [
+      "Revisión automática de código con agentes de IA",
+      "Integración con sistemas de control de versiones como Git",
+      "Validación de calidad y seguridad antes de commits",
+      "Soporte para múltiples lenguajes de programación"
+    ],
+    "caracteristicas": [
+      "Análisis en tiempo real de código",
+      "Integración con IDEs y herramientas de CI/CD",
+      "Detección de errores y vulnerabilidades",
+      "Personalización de reglas de revisión"
+    ],
+    "etica": "Garantiza la privacidad del código mediante encriptación y evita sesgos en la revisión al entrenar modelos con datos diversificados.",
+    "limite_gratis": "El plan gratuito permite revisiones básicas con un límite de 100 líneas de código por sesión.",
+    "id": "gitwarren-5af787",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Project HydraFusion",
+    "compania": "HydraFusion Labs",
+    "tipo": "Orquestación de IA",
+    "precio": "Pago",
+    "descripcion": "Sistema de orquestación multi-modelo que optimiza dinámicamente la selección de flujos de trabajo para agentes de IA en tiempo real, integrado con Copilot CLI.",
+    "web": "https://github.com/features/hydrafusion",
+    "funciones": [
+      "Orquestación de múltiples modelos de IA",
+      "Optimización de flujos de trabajo en tiempo real",
+      "Integración con Copilot CLI",
+      "Gestión de cargas de trabajo distribuidas"
+    ],
+    "caracteristicas": [
+      "Selección automática de modelos según contexto",
+      "Escalabilidad horizontal para grandes volúmenes",
+      "Monitoreo en tiempo real de rendimiento",
+      "Soporte para modelos personalizados"
+    ],
+    "etica": "Promueve la transparencia en la toma de decisiones de optimización y minimiza el impacto ambiental mediante eficiencia energética.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "project-hydrafusion-7ffeb5",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "NeoMME",
+    "compania": "NeoMME Technologies",
+    "tipo": "Codificador multimodal",
+    "precio": "Freemium",
+    "descripcion": "Codificador nativo multimodal y multilingüe diseñado para procesar eficientemente tareas de comprensión de datos en formatos como texto, imágenes y audio.",
+    "web": "https://arxiv.org/abs/neomme",
+    "funciones": [
+      "Generación de código a partir de múltiples formatos de entrada",
+      "Soporte para múltiples lenguajes de programación",
+      "Análisis de datos multimodales",
+      "Integración con entornos de desarrollo"
+    ],
+    "caracteristicas": [
+      "Procesamiento simultáneo de texto, imágenes y audio",
+      "Optimización para tareas de comprensión compleja",
+      "Interfaz intuitiva para desarrolladores",
+      "Compatibilidad con frameworks de IA"
+    ],
+    "etica": "Prioriza la privacidad de los datos al procesarlos localmente y aborda sesgos mediante entrenamiento equilibrado en múltiples idiomas.",
+    "limite_gratis": "El plan gratuito incluye 1000 tokens mensuales y soporte para 3 lenguajes de programación.",
+    "id": "neomme-522d91",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Reflexio",
+    "compania": "Reflexio AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Sistema de aprendizaje conductual que analiza interacciones pasadas para mejorar progresivamente el rendimiento de agentes de IA en tareas complejas.",
+    "web": "https://reflexio.ai",
+    "funciones": [
+      "Análisis de interacciones históricas",
+      "Adaptación de comportamientos de agentes",
+      "Simulación de escenarios para entrenamiento",
+      "Integración con plataformas de IA existentes"
+    ],
+    "caracteristicas": [
+      "Aprendizaje continuo basado en retroalimentación",
+      "Visualización de patrones de comportamiento",
+      "Personalización de estrategias de aprendizaje",
+      "Soporte para múltiples dominios de aplicación"
+    ],
+    "etica": "Garantiza la transparencia en los mecanismos de aprendizaje y evita la acumulación de sesgos mediante auditorías periódicas.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "reflexio-c221c8",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Hermes Desktop",
+    "compania": "Hermes Desktop S.L.",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "Aplicación de escritorio que automatiza la configuración de modelos de IA locales mediante un clic, detectando automáticamente el hardware disponible.",
+    "web": "https://nousresearch.com/hermes-desktop",
+    "funciones": [
+      "Configuración automática de modelos de IA",
+      "Detección de hardware compatible",
+      "Gestión de recursos locales",
+      "Interfaz gráfica intuitiva"
+    ],
+    "caracteristicas": [
+      "Soporte para múltiples frameworks de IA",
+      "Optimización de uso de GPU/CPU",
+      "Actualizaciones automáticas de modelos",
+      "Compatibilidad con sistemas operativos principales"
+    ],
+    "etica": "Respeta la privacidad del usuario al procesar datos localmente y evita la transmisión de información sensible a servidores externos.",
+    "limite_gratis": "Ofrece acceso completo a todas las funciones sin limitaciones.",
+    "id": "hermes-desktop-acb291",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Invent a Dataset",
+    "compania": "Inventa AI",
+    "tipo": "Generación de datos",
+    "precio": "Freemium",
+    "descripcion": "Herramienta que genera datasets estructurados y listos para entrenamiento a partir de descripciones detalladas de comportamientos o tareas deseadas.",
+    "web": "https://adaptionlabs.com/invent-a-dataset",
+    "funciones": [
+      "Generación de datos sintéticos",
+      "Definición de comportamientos mediante lenguaje natural",
+      "Exportación en formatos compatibles con frameworks de ML",
+      "Personalización de parámetros de generación"
+    ],
+    "caracteristicas": [
+      "Soporte para múltiples tipos de datos (texto, imágenes, tablas)",
+      "Control de calidad y validación de datos",
+      "Integración con plataformas de entrenamiento",
+      "Escalabilidad para grandes volúmenes"
+    ],
+    "etica": "Promueve la equidad en los datos generados mediante algoritmos transparentes y evita la inclusión de contenido sensible no deseado.",
+    "limite_gratis": "El plan gratuito permite generar hasta 1000 ejemplos mensuales con un máximo de 3 tipos de datos.",
+    "id": "invent-a-dataset-e07565",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "XDOF",
+    "compania": "XDOF Robotics",
+    "tipo": "Infraestructura de IA",
+    "precio": "Pago",
+    "descripcion": "Startup en fase de Serie B que ofrece infraestructura especializada para el procesamiento, almacenamiento y análisis de datos generados por sistemas robóticos.",
+    "web": "https://xdof.com",
+    "funciones": [
+      "Procesamiento de datos robóticos en tiempo real",
+      "Almacenamiento escalable de datos de sensores",
+      "Análisis predictivo para optimización de robots",
+      "Integración con plataformas de robótica"
+    ],
+    "caracteristicas": [
+      "Soporte para múltiples protocolos de comunicación robótica",
+      "Visualización de datos en tiempo real",
+      "Herramientas de análisis estadístico",
+      "Cumplimiento de normativas de seguridad industrial"
+    ],
+    "etica": "Garantiza la seguridad de los datos robóticos mediante encriptación y cumplimiento de estándares de privacidad industrial.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "xdof-648ff4",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Hyperprobe",
+    "compania": "Hyperprobe Technologies",
+    "tipo": "Depuración de IA",
+    "precio": "Pago",
+    "descripcion": "Plataforma que permite a agentes de IA depurar sistemas en producción sin necesidad de redesplegar aplicaciones, identificando errores en tiempo real.",
+    "web": "https://hyperprobe.dev",
+    "funciones": [
+      "Depuración de agentes de IA en entornos de producción",
+      "Monitoreo de comportamientos anómalos",
+      "Análisis de logs y métricas en tiempo real",
+      "Integración con sistemas de alerta"
+    ],
+    "caracteristicas": [
+      "Soporte para múltiples frameworks de IA",
+      "Interfaz de diagnóstico visual",
+      "Automatización de correcciones menores",
+      "Historial de incidentes y resoluciones"
+    ],
+    "etica": "Prioriza la transparencia en los procesos de depuración y evita interrupciones en el servicio durante la identificación de problemas.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "hyperprobe-5a139e",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "dif.sh",
+    "compania": "Dif.sh Dev Tools",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "Sistema de feature flags en formato Markdown que automatiza la instalación de indicadores para agentes de codificación, facilitando el control de funcionalidades.",
+    "web": "https://dif.sh",
+    "funciones": [
+      "Gestión de feature flags mediante archivos Markdown",
+      "Automatización de despliegues de funcionalidades",
+      "Integración con agentes de codificación",
+      "Control de versiones de indicadores"
+    ],
+    "caracteristicas": [
+      "Sintaxis simple basada en Markdown",
+      "Soporte para múltiples entornos de desarrollo",
+      "Historial de cambios y auditoría",
+      "Compatibilidad con sistemas de CI/CD"
+    ],
+    "etica": "Mantiene la privacidad de los datos de configuración al operar localmente y evita la dependencia de servicios externos.",
+    "limite_gratis": "Ofrece acceso completo a todas las funciones sin costo alguno.",
+    "id": "dif-sh-1aa7fc",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "DumbDetector",
+    "compania": "DumbDetector Community",
+    "tipo": "Plataforma de reporte",
+    "precio": "Gratuito",
+    "descripcion": "Plataforma que utiliza señales de la comunidad para identificar y reportar problemas en herramientas de IA, promoviendo la transparencia y mejora continua.",
+    "web": "https://dumbdetector.net",
+    "funciones": [
+      "Detección de problemas en herramientas de IA",
+      "Reporte colaborativo basado en comunidad",
+      "Análisis de tendencias y patrones de fallos",
+      "Integración con foros de desarrollo"
+    ],
+    "caracteristicas": [
+      "Soporte para múltiples categorías de herramientas de IA",
+      "Sistema de votación comunitaria",
+      "Notificaciones en tiempo real",
+      "Base de datos pública de incidentes"
+    ],
+    "etica": "Fomenta la colaboración abierta y garantiza que los reportes sean anónimos y basados en evidencia objetiva.",
+    "limite_gratis": "Permite participar en la comunidad y acceder a todos los reportes sin restricciones.",
+    "id": "dumbdetector-efe16f",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "BrickForgerAI",
+    "descripcion": "Convierte cualquier prompt en un set de piezas (tipo LEGO) que puedes construir físicamente, generando instrucciones y listas de piezas a partir de descripciones de texto.",
+    "compania": "Desconocida (indie/proyecto independiente)",
+    "tipo": "Generación de modelos 3D / Diseño",
+    "precio": "Freemium",
+    "funciones": [
+      "Generar sets de piezas a partir de prompts de texto",
+      "Exportar instrucciones de montaje",
+      "Personalizar tipos y colores de piezas",
+      "Vista previa 3D del modelo resultante",
+      "Lista de piezas descargable para compra"
+    ],
+    "caracteristicas": [
+      "Interfaz basada en prompts de lenguaje natural",
+      "Compatibilidad con piezas estándar (LEGO u otros)",
+      "Vista 3D interactiva del modelo",
+      "Exportación a formatos de montaje e impresión",
+      "Biblioteca de piezas reconocidas"
+    ],
+    "etica": "Las piezas generadas pueden replicar diseños con copyright (ej. LEGO); se debe verificar la propiedad intelectual de los modelos creados. Los prompts del usuario se envían a servidores externos para su procesamiento.",
+    "limite_gratis": "Generación limitada a sets sencillos y baja resolución; sets complejos requieren plan de pago.",
+    "web": "https://www.producthunt.com/products/brickforgerai",
+    "id": "brickforgerai-5b72ca",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Experiential Labs",
+    "descripcion": "Gateway de IA open source que enruta automáticamente las peticiones al modelo más adecuado, optimizando calidad y coste según el tipo de tráfico.",
+    "compania": "Experiential Labs",
+    "tipo": "Agentes IA / Infraestructura IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Enrutamiento inteligente de peticiones a modelos",
+      "Selección automática del mejor modelo por tarea",
+      "Monitorización de rendimiento y costes",
+      "API unificada multi-modelo",
+      "A/B testing entre modelos"
+    ],
+    "caracteristicas": [
+      "Código abierto (open source)",
+      "Soporte multi-proveedor (OpenAI, Anthropic, open-source…)",
+      "Routing adaptativo por contexto",
+      "Panel de observabilidad",
+      "Despliegue self-hosted"
+    ],
+    "etica": "Al ser open source, el código es auditable y transparente; sin embargo, el enrutamiento de datos de usuarios a terceros proveedores plantea preguntas sobre privacidad y soberanía de datos.",
+    "limite_gratis": "Versión open source gratuita con funcionalidades core; funciones avanzadas de enrutamiento y observabilidad requieren suscripción.",
+    "web": "https://www.producthunt.com/products/experiential-labs",
+    "id": "experiential-labs-e4c33f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ponytail",
+    "descripcion": "Herramienta de productividad para desarrolladores que sugiere reutilización de código existente y alternativas antes de escribir código nuevo, reduciendo la deuda técnica.",
+    "compania": "Desconocida",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Búsqueda inteligente de código existente en la base",
+      "Sugerencias de reutilización y refactorización",
+      "Detección de duplicación de código",
+      "Integración con IDEs",
+      "Análisis de patrones de código"
+    ],
+    "caracteristicas": [
+      "Enfoque 'code reuse first'",
+      "Integración con editores de código",
+      "Análisis semántico del codebase",
+      "Detección automática de oportunidades de refactor",
+      "Historial de sugerencias aceptadas"
+    ],
+    "etica": "El acceso al codebase completo para análisis puede exponer código propietario o sensible; se requiere control de acceso y políticas de empresa claras. Las sugerencias pueden perpetuar patrones de código problemáticos existentes.",
+    "limite_gratis": "Análisis limitado a repositorios pequeños y número restringido de sugerencias diarias; repositorios grandes y funciones avanzadas requieren plan de pago.",
+    "web": "https://ponytail.dev/",
+    "id": "ponytail-7dc5ae",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Chalked for Mac",
+    "descripcion": "Asistente de IA nativo para Mac que genera respuestas contextualizadas con toda la información de tu trabajo actual, sin necesidad de copiar y pegar contexto manualmente.",
+    "compania": "Desconocida",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Generar respuestas con contexto completo del trabajo",
+      "Acceso directo a documentos y ventanas activas",
+      "Respuestas rápidas desde cualquier app",
+      "Personalización de tono y formato",
+      "Historial de conversaciones contextuales"
+    ],
+    "caracteristicas": [
+      "Nativo para macOS",
+      "Integración con el flujo de trabajo del sistema",
+      "Contexto automático del trabajo en curso",
+      "Atajos de teclado rápidos",
+      "Soporte para múltiples modelos de IA"
+    ],
+    "etica": "Accede al contexto completo del trabajo del usuario (documentos, ventanas), lo que implica riesgos de privacidad si los datos se envían a servidores externos. Se recomienda verificar políticas de procesamiento local vs. en la nube.",
+    "limite_gratis": "Número limitado de consultas diarias y contexto acotado; uso intensivo y contexto ilimitado requieren suscripción.",
+    "web": "https://usechalked.com/?ref=producthunt",
+    "id": "chalked-for-mac-a35ed2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
