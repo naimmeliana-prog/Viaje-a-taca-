@@ -2083,7 +2083,7 @@
       "Seguridad en transacciones y gestión de fondos"
     ],
     "etica": "Bluerails Discovery se enfoca en la transparencia de las transacciones y la equidad en la distribución de ingresos para los agentes de IA, con políticas claras sobre el uso de datos financieros.",
-    "web": "https://www.bluerails.ai/discovery",
+    "web": "",
     "tipo": "Plataforma de agentes IA / Monetización de IA",
     "compania": "Bluerails AI",
     "id": "bluerails-discovery-65006d",
@@ -2093,7 +2093,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Permite el registro de agentes y un número limitado de transacciones o descubrimientos de forma gratuita, con planes de pago para mayor volumen y funcionalidades avanzadas.",
-    "intentos_web": 2
+    "intentos_web": 1
   },
   {
     "nombre": "Rosply",
@@ -14416,7 +14416,7 @@
     "tipo": "Gestión de conocimientos para IA",
     "precio": "Freemium",
     "descripcion": "Una base de conocimientos persistente que permite a los agentes de IA registrar errores pasados y mejorar continuamente su rendimiento.",
-    "web": "",
+    "web": "https://github.com/Stahl-G/wikiskill",
     "funciones": [
       "Almacenamiento persistente de errores y lecciones aprendidas",
       "Búsqueda semántica para recuperar información relevante rápidamente",
@@ -14439,7 +14439,7 @@
     "fecha_agregado": "2026-08-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Hy4",
@@ -15292,14 +15292,14 @@
     ],
     "etica": "Readr no almacena textos leídos ni datos personales, priorizando la privacidad del usuario. El sistema se entrena con fuentes diversas para minimizar sesgos en las respuestas.",
     "limite_gratis": "El plan gratuito ofrece lectura ilimitada y respuestas a preguntas sin costo, con acceso a todas las funciones básicas.",
-    "web": "https://www.producthunt.com/products/readr-3",
+    "web": "https://readr-ai.github.io/",
     "id": "readr-d094b6",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-09-04",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Causal",
@@ -15366,7 +15366,7 @@
     "tipo": "Orquestación de IA",
     "precio": "Pago",
     "descripcion": "Sistema de orquestación multi-modelo que optimiza dinámicamente la selección de flujos de trabajo para agentes de IA en tiempo real, integrado con Copilot CLI.",
-    "web": "https://github.com/features/hydrafusion",
+    "web": "https://github.com/AICPS/hydrafusion/releases",
     "funciones": [
       "Orquestación de múltiples modelos de IA",
       "Optimización de flujos de trabajo en tiempo real",
@@ -15386,7 +15386,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "NeoMME",
@@ -15394,7 +15395,7 @@
     "tipo": "Codificador multimodal",
     "precio": "Freemium",
     "descripcion": "Codificador nativo multimodal y multilingüe diseñado para procesar eficientemente tareas de comprensión de datos en formatos como texto, imágenes y audio.",
-    "web": "https://arxiv.org/abs/neomme",
+    "web": "https://huggingface.co/collections/Hcompany/neomme",
     "funciones": [
       "Generación de código a partir de múltiples formatos de entrada",
       "Soporte para múltiples lenguajes de programación",
@@ -15414,7 +15415,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Reflexio",
@@ -15450,7 +15452,7 @@
     "tipo": "Productividad",
     "precio": "Gratuito",
     "descripcion": "Aplicación de escritorio que automatiza la configuración de modelos de IA locales mediante un clic, detectando automáticamente el hardware disponible.",
-    "web": "https://nousresearch.com/hermes-desktop",
+    "web": "https://www.hermesdesktop.app/",
     "funciones": [
       "Configuración automática de modelos de IA",
       "Detección de hardware compatible",
@@ -15470,7 +15472,8 @@
     "pago": false,
     "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Invent a Dataset",
@@ -15478,7 +15481,7 @@
     "tipo": "Generación de datos",
     "precio": "Freemium",
     "descripcion": "Herramienta que genera datasets estructurados y listos para entrenamiento a partir de descripciones detalladas de comportamientos o tareas deseadas.",
-    "web": "https://adaptionlabs.com/invent-a-dataset",
+    "web": "",
     "funciones": [
       "Generación de datos sintéticos",
       "Definición de comportamientos mediante lenguaje natural",
@@ -15498,7 +15501,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "XDOF",
@@ -15534,7 +15538,7 @@
     "tipo": "Depuración de IA",
     "precio": "Pago",
     "descripcion": "Plataforma que permite a agentes de IA depurar sistemas en producción sin necesidad de redesplegar aplicaciones, identificando errores en tiempo real.",
-    "web": "https://hyperprobe.dev",
+    "web": "https://www.hyperprobe.co/",
     "funciones": [
       "Depuración de agentes de IA en entornos de producción",
       "Monitoreo de comportamientos anómalos",
@@ -15554,7 +15558,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "dif.sh",
@@ -15634,14 +15639,14 @@
     ],
     "etica": "Las piezas generadas pueden replicar diseños con copyright (ej. LEGO); se debe verificar la propiedad intelectual de los modelos creados. Los prompts del usuario se envían a servidores externos para su procesamiento.",
     "limite_gratis": "Generación limitada a sets sencillos y baja resolución; sets complejos requieren plan de pago.",
-    "web": "https://www.producthunt.com/products/brickforgerai",
+    "web": "https://neuralpaws.com/ai-tools/brickforgerai",
     "id": "brickforgerai-5b72ca",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Experiential Labs",
@@ -15665,14 +15670,14 @@
     ],
     "etica": "Al ser open source, el código es auditable y transparente; sin embargo, el enrutamiento de datos de usuarios a terceros proveedores plantea preguntas sobre privacidad y soberanía de datos.",
     "limite_gratis": "Versión open source gratuita con funcionalidades core; funciones avanzadas de enrutamiento y observabilidad requieren suscripción.",
-    "web": "https://www.producthunt.com/products/experiential-labs",
+    "web": "https://www.experientiallabs.ai/",
     "id": "experiential-labs-e4c33f",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Ponytail",
@@ -15732,6 +15737,118 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Nina by Antalpha",
+    "descripcion": "Es un agente de IA no custodial especializado en investigación, predicción y trading de criptomonedas.",
+    "compania": "Antalpha",
+    "tipo": "Asistente de trading y análisis cripto",
+    "precio": "Freemium",
+    "funciones": [
+      "Investigación de mercados en tiempo real",
+      "Predicción de tendencias de precios",
+      "Ejecución automatizada de trades",
+      "Análisis de riesgo financiero"
+    ],
+    "caracteristicas": [
+      "No custodial: no almacena datos del usuario en la nube",
+      "Integración directa con APIs de cripto",
+      "Actualizaciones continuas del modelo de lenguaje"
+    ],
+    "etica": "Respeta la privacidad de los datos financieros del usuario minimizando la exposición de información sensible.",
+    "limite_gratis": "Ofrece créditos gratuitos mensuales limitados para probar sus funciones básicas.",
+    "web": "https://www.antalpha.com/en-us/",
+    "id": "nina-by-antalpha-276086",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Routines by Databox",
+    "descripcion": "Automatiza la creación de informes analíticos programados para el usuario.",
+    "compania": "Databox",
+    "tipo": "Analista de IA y generador de informes",
+    "precio": "Freemium",
+    "funciones": [
+      "Programar análisis automáticos diarios",
+      "Generar reportes visuales interactivos",
+      "Enviar notificaciones por correo electrónico",
+      "Personalizar métricas según objetivos"
+    ],
+    "caracteristicas": [
+      "Integración con diversas fuentes de datos",
+      "Diseño visual profesional de los reportes",
+      "Flujos de trabajo personalizables"
+    ],
+    "etica": "Garantiza la confidencialidad de los datos empresariales al procesarlos internamente sin compartirlos.",
+    "limite_gratis": "El plan gratuito incluye un número limitado de proyectos y reportes mensuales.",
+    "web": "https://databox.com/ai",
+    "id": "routines-by-databox-bd1298",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Airuncode",
+    "descripcion": "Permite ejecutar múltiples agentes de codificación simultáneamente en tu máquina local.",
+    "compania": "Airuncode",
+    "tipo": "Agentes de codificación locales",
+    "precio": "Freemium",
+    "funciones": [
+      "Ejecución de código en entornos locales",
+      "Gestión de múltiples procesos paralelos",
+      "Integración con diferentes IDEs",
+      "Optimización de recursos computacionales"
+    ],
+    "caracteristicas": [
+      "Privacidad total del código ya que no se sube a la nube",
+      "Escalabilidad de agentes independientes",
+      "Soporte para múltiples lenguajes de programación"
+    ],
+    "etica": "Cumple con altos estándares de privacidad al mantener todos los códigos en la máquina del usuario.",
+    "limite_gratis": "Plan gratuito con capacidad ilimitada de ejecución local sin restricciones de uso.",
+    "web": "https://www.producthunt.com/products/airuncode",
+    "id": "airuncode-05bb10",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Clipnote",
+    "descripcion": "Guarda las conversaciones con IA para que permanezcan accesibles después de cerrar el navegador.",
+    "compania": "Clipnote",
+    "tipo": "Gestor de conversaciones de IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Exportación de chats a formatos PDF o HTML",
+      "Búsqueda rápida dentro de historias previas",
+      "Organización de archivos por categorías",
+      "Sincronización automática en la nube"
+    ],
+    "caracteristicas": [
+      "Persistencia de datos tras cerrar la sesión",
+      "Interfaz sencilla y intuitiva",
+      "Compatibilidad multiplataforma"
+    ],
+    "etica": "Los datos se almacenan de manera segura y respetan la privacidad del usuario mediante cifrado.",
+    "limite_gratis": "El plan gratuito ofrece almacenamiento limitado para conservar tus conversaciones.",
+    "web": "https://www.producthunt.com/products/clipnote-2",
+    "id": "clipnote-0bd6b0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-08",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

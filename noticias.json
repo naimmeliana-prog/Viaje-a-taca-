@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-06T00:25:10Z",
+  "actualizado": "2026-09-08T00:51:05Z",
   "novedades": [
+    {
+      "titulo": "En IFA Lenovo deja claro que el hardware es casi lo de menos: en su apuesta suma ahora una IA híbrida en todas partes",
+      "resumen": "Todos los años, IFA convierte Berlín en un completo escaparate tecnológico en el que las marcas aprovechan para mostrar sus últimas novedades. Este año el Lenovo Innovation World estaba cargado de nuevas propuestas, con ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/lenovo-cree-que-privacidad-sera-nueva-batalla-ia-eso-apuesta-todo-al-procesamiento-local",
+      "medio": "Xataka",
+      "fecha": "2026-09-07T16:46:28Z"
+    },
+    {
+      "titulo": "Corea del Sur no quiere que la IA de sus ciudadanos dependa de OpenAI o Google. Su solución: IA nacional y gratis para todos",
+      "resumen": "Corea del Sur tiene un problema curioso: sus ciudadanos se han enamorado de la IA, pero buena parte de esa nueva infraestructura digital pertenece a empresas extranjeras. ChatGPT &nbsp;tenía ya 23,45 millones de usuarios",
+      "enlace": "https://www.xataka.com/robotica-e-ia/corea-sur-no-quiere-que-ia-sus-ciudadanos-dependa-openai-google-su-solucion-ia-nacional-gratis-para-todos",
+      "medio": "Xataka",
+      "fecha": "2026-09-07T11:30:28Z"
+    },
+    {
+      "titulo": "Para Jensen Huang, \"la AGI ha llegado\" con GPT-6 Astra. El problema es que no es la primera vez que lo dice",
+      "resumen": "Jensen Huang es uno de los perfiles más optimistas con la IA. Tiene que serlo porque Nvidia se ha convertido en el pegamento de la industria tanto con su dinero como con su tecnología. Es por ello que su voz suele ser to",
+      "enlace": "https://www.xataka.com/robotica-e-ia/para-jensen-huang-agi-ha-llegado-gpt-6-astra-problema-que-no-primera-vez-que-dice",
+      "medio": "Xataka",
+      "fecha": "2026-09-07T09:30:28Z"
+    },
+    {
+      "titulo": "OpenAI responde al pulso de la industria con GPT-6 Astra, el modelo que toma el control del ordenador sin saltarse las reglas",
+      "resumen": "Hace apenas unos meses, la industria tecnológica observaba con cierta inquietud cómo el modelo GPT-5.6 Sol lograba fugarse de su entorno de pruebas. La máquina vulneró los servidores de Hugging Face de forma autónoma con",
+      "enlace": "https://blogthinkbig.com/gpt-6-astra-agente-autonomo-openai",
+      "medio": "Think Big",
+      "fecha": "2026-09-07T08:40:55Z"
+    },
+    {
+      "titulo": "Cómo controlar los costes de la IA antes de que se desborden",
+      "resumen": "A medida que los casos de uso se multiplican, la demanda de los modelos aumenta, al igual que los costes asociados L'articolo Cómo controlar los costes de la IA antes de que se desborden proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/como-controlar-los-costes-de-la-ia-antes-de-que-se-desborden/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-07T08:36:26Z"
+    },
+    {
+      "titulo": "Meta desactiva la cámara de sus gafas ante cualquier indicio de manipulación. El problema es que es el juego del gato y el ratón",
+      "resumen": "Al igual que ocurrió con los smartwatches y los auriculares TWS, las gafas inteligentes parecen haber llegado para quedarse. Hay varias marcas en ese segmento como Xiaomi, la renacida Packard Bell y parece que hasta Appl",
+      "enlace": "https://www.xataka.com/otros-dispositivos/meta-desactiva-camara-sus-gafas-cualquier-indicio-manipulacion-problema-que-juego-gato-raton",
+      "medio": "Xataka",
+      "fecha": "2026-09-06T10:00:28Z"
+    },
     {
       "titulo": "Las mejores inteligencias artificiales para estudiantes: herramientas gratis y qué hace cada una",
       "resumen": "Vamos a decirte cuáles son los mejores servicios de inteligencia artificial para ayudarte con tus estudios. Ya sean exámenes, oposiciones o cualquier otro examen que quieras realizar, estas son las mejores herramientas q",
@@ -51,34 +93,6 @@
       "fecha": "2026-09-04T08:51:35Z"
     },
     {
-      "titulo": "GPT-6 Astra llega como el gran salto de OpenAI: puede hacer mucho más por nosotros, pero también será más difícil de supervisar",
-      "resumen": "Cuanto más capaz es una inteligencia artificial de trabajar por nosotros, menos queremos tener que vigilar cada uno de sus movimientos. Ahí está precisamente una de las grandes promesas de los agentes: darles un objetivo",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-llega-como-gran-salto-openai-puede-hacer-mucho-nosotros-tambien-sera-dificil-supervisar",
-      "medio": "Xataka",
-      "fecha": "2026-09-03T19:41:00Z"
-    },
-    {
-      "titulo": "Pensábamos que la generación Z iba a impulsar la revolución de la IA en las oficinas: cuanto más la usan, menos creen en ella",
-      "resumen": "Hace apenas dos años, la IA parecía la gran promesa del trabajo moderno. Los expertos y gurús aseguraban que la implantación de la IA Iba a&nbsp;liberarnos de tareas aburridas, a darnos horas extra de vida y, sobre todo,",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-habia-prometido-revolucionar-trabajo-estudio-revela-que-sus-usuarios-fieles-han-acabado-decepcionados",
-      "medio": "Xataka",
-      "fecha": "2026-09-03T16:45:00Z"
-    },
-    {
-      "titulo": "No hay centros de datos para todos y las startups de la IA tienen una idea: convertir tu tarjeta gráfica en un chatbot",
-      "resumen": "La industria de la IA está llamando a la puerta de una nueva era: la de la inferencia. Si estos últimos años nos ha bombardeado con el entrenamiento y todos los recursos necesarios para llevarlo a cabo (saqueando Interne",
-      "enlace": "https://www.xataka.com/componentes/industria-ia-ha-hecho-que-tu-pc-sea-caro-ahora-tiene-oferta-pagarte-para-usarlo-cuando-no-uses",
-      "medio": "Xataka",
-      "fecha": "2026-09-03T15:30:00Z"
-    },
-    {
-      "titulo": "NVIDIA compra Hugging Face por 12.930 millones y entra de lleno en una de las piezas de la IA que todavía no controlaba",
-      "resumen": "NVIDIA ha acordado adquirir Hugging Face por 12.930 millones de dólares, una operación que coloca bajo su paraguas una de las plataformas más importantes del ecosistema de modelos abiertos de inteligencia artificial. El ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-compra-hugging-face-12-930-millones-entra-lleno-piezas-ia-que-todavia-no-controlaba",
-      "medio": "Xataka",
-      "fecha": "2026-09-03T14:30:00Z"
-    },
-    {
       "titulo": "Gemini 3.8 Flash y su versión Cyber: el salto hacia la inteligencia que evalúa y corrige",
       "resumen": "El ecosistema de la inteligencia artificial sigue sumando nuevos actores a un ritmo que apenas permite asimilar sus funciones. Con la llegada de Gemini 3.8 Flash, Google completa su tercer lanzamiento de esta familia en ",
       "enlace": "https://blogthinkbig.com/gemini-3-8-flash-cyber",
@@ -126,13 +140,6 @@
       "enlace": "https://blogthinkbig.com/que-ha-pasado-en-la-cupula-de-ia-de-google-y-como-esto-puede-transformar-sus-esfuerzos-con-gemini",
       "medio": "Think Big",
       "fecha": "2026-09-01T09:01:00Z"
-    },
-    {
-      "titulo": "Hugging Face, entre el hackeo y la compra de Nvidia",
-      "resumen": "Hugging Face lleva pocas semanas siendo noticia por dos motivos muy distintos. Primero, porque un grupo de modelos de OpenAI accedió sin permiso a sus servidores durante unas pruebas internas de seguridad. Después, porqu",
-      "enlace": "https://blogthinkbig.com/hugging-face-entre-el-hackeo-y-la-compra-de-nvidia",
-      "medio": "Think Big",
-      "fecha": "2026-08-31T09:26:28Z"
     },
     {
       "titulo": "El 96% de las organizaciones en España considera clave la IA privada y soberana",
@@ -198,13 +205,6 @@
       "fecha": "2026-08-20T09:00:00Z"
     },
     {
-      "titulo": "Del descubrimiento de vulnerabilidades a la soberanía cognitiva: Por qué el verdadero reto de la IA es la resiliencia",
-      "resumen": "La preocupación no son los agentes de IA maliciosos, sino que los sistemas, cada vez más autónomos, aceleran drásticamente el descubrimiento de errores, vulnerabilidades y vías de ataque, lo que deja a las organizaciones",
-      "enlace": "https://www.computing.es/seguridad/del-descubrimiento-de-vulnerabilidades-a-la-soberania-cognitiva-por-que-el-verdadero-reto-de-la-ia-es-la-resiliencia/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-19T10:00:00Z"
-    },
-    {
       "titulo": "No sé nada de programación y he creado esta app en menos de 10 minutos. Solo con ChatGPT y el iPhone",
       "resumen": "No sé programar, pero quería poner a prueba la IA. En el fondo solo quería hacer una app sencilla, una lista de tareas que pudiera marcar y borrar. Me bastó un iPhone, ChatGPT y diez minutos para que esa idea cobrara vid",
       "enlace": "https://www.applesfera.com/aplicaciones-ios/no-se-nada-programacion-he-creado-esta-app-10-minutos-solo-chatgpt-iphone",
@@ -213,6 +213,13 @@
     }
   ],
   "etica": [
+    {
+      "titulo": "Meta desactiva la cámara de sus gafas ante cualquier indicio de manipulación. El problema es que es el juego del gato y el ratón",
+      "resumen": "Al igual que ocurrió con los smartwatches y los auriculares TWS, las gafas inteligentes parecen haber llegado para quedarse. Hay varias marcas en ese segmento como Xiaomi, la renacida Packard Bell y parece que hasta Appl",
+      "enlace": "https://www.xataka.com/otros-dispositivos/meta-desactiva-camara-sus-gafas-cualquier-indicio-manipulacion-problema-que-juego-gato-raton",
+      "medio": "Xataka",
+      "fecha": "2026-09-06T10:00:28Z"
+    },
     {
       "titulo": "La cinta magnética parecía una reliquia. En la era de la IA, la capacidad LTO ha vuelto a dispararse",
       "resumen": "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de informac",
@@ -345,13 +352,6 @@
       "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
       "medio": "Genbeta",
       "fecha": "2025-12-11T12:32:00Z"
-    },
-    {
-      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
-      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
-      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
-      "medio": "Genbeta",
-      "fecha": "2025-12-03T07:41:00Z"
     }
   ]
 }
