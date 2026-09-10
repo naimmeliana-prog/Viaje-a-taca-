@@ -1,26 +1,82 @@
 {
-  "actualizado": "2026-09-08T00:51:05Z",
+  "actualizado": "2026-09-10T00:46:21Z",
   "novedades": [
     {
-      "titulo": "En IFA Lenovo deja claro que el hardware es casi lo de menos: en su apuesta suma ahora una IA híbrida en todas partes",
-      "resumen": "Todos los años, IFA convierte Berlín en un completo escaparate tecnológico en el que las marcas aprovechan para mostrar sus últimas novedades. Este año el Lenovo Innovation World estaba cargado de nuevas propuestas, con ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/lenovo-cree-que-privacidad-sera-nueva-batalla-ia-eso-apuesta-todo-al-procesamiento-local",
+      "titulo": "Siri AI aspira a convertirse en el asistente personal de IA que nos acompañe a todas partes. Y no tiene ninguna prisa por lograrlo",
+      "resumen": "En Apple tienen claro que si hay un producto que sabe algo de ti, ese producto es tu móvil. Y eso hace que el iPhone se convierta en candidato perfecto para que saques más partido de la IA que se beneficia de todo ese co",
+      "enlace": "https://www.xataka.com/robotica-e-ia/siri-ai-aspira-a-convertirse-asistente-personal-ia-que-nos-acompane-a-todas-partes-no-tiene-ninguna-prisa-lograrlo",
       "medio": "Xataka",
-      "fecha": "2026-09-07T16:46:28Z"
+      "fecha": "2026-09-09T17:45:49Z"
     },
     {
-      "titulo": "Corea del Sur no quiere que la IA de sus ciudadanos dependa de OpenAI o Google. Su solución: IA nacional y gratis para todos",
-      "resumen": "Corea del Sur tiene un problema curioso: sus ciudadanos se han enamorado de la IA, pero buena parte de esa nueva infraestructura digital pertenece a empresas extranjeras. ChatGPT &nbsp;tenía ya 23,45 millones de usuarios",
-      "enlace": "https://www.xataka.com/robotica-e-ia/corea-sur-no-quiere-que-ia-sus-ciudadanos-dependa-openai-google-su-solucion-ia-nacional-gratis-para-todos",
+      "titulo": "Escribir los trabajos de los universitarios occidentales era un trabajo muy bien pagado en Kenia. Entonces llegó ChatGPT",
+      "resumen": "Copiar en los exámenes o pedir a alguien que te haga ese trabajo que se te ha atragantado es una tentación tan vieja como la propia educación. Los de mi generación crecimos con la picaresca a 'El Rincón del Vago', pero e",
+      "enlace": "https://www.xataka.com/robotica-e-ia/escribir-trabajos-universitarios-occidentales-era-trabajo-muy-bien-pagado-kenia-entonces-llego-chatgpt",
       "medio": "Xataka",
-      "fecha": "2026-09-07T11:30:28Z"
+      "fecha": "2026-09-09T16:01:01Z"
     },
     {
-      "titulo": "Para Jensen Huang, \"la AGI ha llegado\" con GPT-6 Astra. El problema es que no es la primera vez que lo dice",
-      "resumen": "Jensen Huang es uno de los perfiles más optimistas con la IA. Tiene que serlo porque Nvidia se ha convertido en el pegamento de la industria tanto con su dinero como con su tecnología. Es por ello que su voz suele ser to",
-      "enlace": "https://www.xataka.com/robotica-e-ia/para-jensen-huang-agi-ha-llegado-gpt-6-astra-problema-que-no-primera-vez-que-dice",
+      "titulo": "OpenAI acaba de lanzar su modelo de frontera. Acto seguido su científico jefe afirmó que quizá están yendo demasiado lejos",
+      "resumen": "La semana pasada, OpenAI lanzó&nbsp;GPT-6 Astra. Se trata de su modelo público más potente que llegó en paralelo a Fable 5.1, de Anthropic. Las dos compañías se encuentran jugando al juego del gato y el ratón, un \"y yo m",
+      "enlace": "https://www.xataka.com/seguridad/openai-acaba-lanzar-su-modelo-frontera-acto-seguido-su-cientifico-jefe-afirmo-que-quiza-estan-yendo-demasiado-lejos",
       "medio": "Xataka",
-      "fecha": "2026-09-07T09:30:28Z"
+      "fecha": "2026-09-09T12:01:00Z"
+    },
+    {
+      "titulo": "OpenAI afirma haber resuelto uno de los Problemas del Milenio con su IA. La que se ha liado después es gorda",
+      "resumen": "OpenAI afirma haber resuelto el problema de existencia y regularidad de Navier-Stokes, uno de los siete Problemas del Milenio planteados por el Clay Mathematics Institute y dotados con un premio de un millón de dólares. ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-afirma-haber-resuelto-uno-problemas-milenio-su-ia-que-se-ha-liado-despues-gorda",
+      "medio": "Xataka",
+      "fecha": "2026-09-09T11:17:00Z"
+    },
+    {
+      "titulo": "OpenAI asegura haber resuelto Navier-Stokes y no se libran de la polémica",
+      "resumen": "Este 8 de septiembre, OpenAI anunció un resultado que sacude tanto a la física matemática como al desarrollo de la inteligencia artificial. A través de un documento técnico y una formalización completa en el asistente [&",
+      "enlace": "https://blogthinkbig.com/openai-asegura-haber-resuelto-navier-stokes-y-no-se-libran-de-la-polemica",
+      "medio": "Think Big",
+      "fecha": "2026-09-09T10:10:08Z"
+    },
+    {
+      "titulo": "Cómo te verías en los 80: cómo crear tu foto ochentera usando ChatGPT paso a paso",
+      "resumen": "Vamos a decirte cómo crear una imagen tuya vestido o vestida como en los 80 para sumarte a la tendencia viral de redes sociales. ChatGPT ha lanzado un filtro en su creador de imágenes por inteligencia artificial con el q",
+      "enlace": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
+      "medio": "Xataka",
+      "fecha": "2026-09-09T08:16:54Z"
+    },
+    {
+      "titulo": "China prepara un salto masivo de infraestructura para IA: quieren cuadruplicar su capacidad de cómputo para 2030",
+      "resumen": "Aunque EEUU siga a la cabeza en varios frentes, China ha demostrado ser un rival más que capaz de plantarles cara e incluso poder llegar a adelantarles en la carrera de la IA. Para lograrlo, el gobierno chino puso en mar",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-prepara-salto-masivo-infraestructura-para-ia-quieren-cuadruplicar-su-capacidad-computo-para-2030",
+      "medio": "Xataka",
+      "fecha": "2026-09-09T07:01:01Z"
+    },
+    {
+      "titulo": "La IA de Google acaba de dar un salto en genética: ha trazado un mapa predictivo de 9.000 millones de cambios del ADN",
+      "resumen": "Podemos leer una secuencia de ADN y localizar dónde cambia una de sus letras. Lo difícil viene después: saber qué consecuencias tiene ese cambio. Muchas variantes apenas modifican el funcionamiento celular, mientras que ",
+      "enlace": "https://www.xataka.com/investigacion/ia-google-acaba-dar-salto-genetica-ha-trazado-mapa-predictivo-9-000-millones-cambios-adn",
+      "medio": "Xataka",
+      "fecha": "2026-09-08T19:01:01Z"
+    },
+    {
+      "titulo": "La fiebre de la IA tiene unos ganadores inesperados: los fabricantes de jets privados, superyates y coches de lujo no dan abasto",
+      "resumen": "La generación Z está marcando un punto de inflexión en cuanto a hábitos de trabajo, de ocio e incluso sexuales. Como no podía ser de otro modo, la nueva élite de jovencísimos fundadores de Silicon Valley que se están hac",
+      "enlace": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-fabricado-nueva-elite-ia-sus-millones-han-disparado-ventas-jets-privados-yates-lamborghinis",
+      "medio": "Xataka",
+      "fecha": "2026-09-08T16:45:00Z"
+    },
+    {
+      "titulo": "Unos monjes borraron sin saberlo las matemáticas que hoy hacen posible el iPhone",
+      "resumen": "El iPhone sigue evolucionando generación tras generación, empezamos a ver el futuro de una forma diferente con las gafas inteligentes y la inteligencia artificial ya cambia la forma en la que trabajamos... Estamos inmers",
+      "enlace": "https://www.applesfera.com/curiosidades/unos-monjes-borraron-saberlo-matematicas-que-hoy-hacen-posible-iphone",
+      "medio": "Applesfera",
+      "fecha": "2026-09-08T16:01:01Z"
+    },
+    {
+      "titulo": "Unitree ya tiene el primer robot humanoide impulsado por un modelo de mundo. Sólo necesita tu ropa, tus botas y tu motocicleta",
+      "resumen": "Unitree se ha convertido en menos de una década en una de las empresas tecnológicas más potentes de China. La compañía fundada por Wang Xingxing en 2016 pasó de construir robots cuadrúpedos basados en modelos estadounide",
+      "enlace": "https://www.xataka.com/robotica-e-ia/unitree-tiene-primer-robot-humanoide-impulsado-modelo-mundo-solo-necesita-tu-ropa-tus-botas-tu-motocicleta",
+      "medio": "Xataka",
+      "fecha": "2026-09-08T14:31:00Z"
     },
     {
       "titulo": "OpenAI responde al pulso de la industria con GPT-6 Astra, el modelo que toma el control del ordenador sin saltarse las reglas",
@@ -37,60 +93,11 @@
       "fecha": "2026-09-07T08:36:26Z"
     },
     {
-      "titulo": "Meta desactiva la cámara de sus gafas ante cualquier indicio de manipulación. El problema es que es el juego del gato y el ratón",
-      "resumen": "Al igual que ocurrió con los smartwatches y los auriculares TWS, las gafas inteligentes parecen haber llegado para quedarse. Hay varias marcas en ese segmento como Xiaomi, la renacida Packard Bell y parece que hasta Appl",
-      "enlace": "https://www.xataka.com/otros-dispositivos/meta-desactiva-camara-sus-gafas-cualquier-indicio-manipulacion-problema-que-juego-gato-raton",
-      "medio": "Xataka",
-      "fecha": "2026-09-06T10:00:28Z"
-    },
-    {
-      "titulo": "Las mejores inteligencias artificiales para estudiantes: herramientas gratis y qué hace cada una",
-      "resumen": "Vamos a decirte cuáles son los mejores servicios de inteligencia artificial para ayudarte con tus estudios. Ya sean exámenes, oposiciones o cualquier otro examen que quieras realizar, estas son las mejores herramientas q",
-      "enlace": "https://www.xataka.com/basics/mejores-ias-para-estudiar",
-      "medio": "Xataka",
-      "fecha": "2026-09-05T10:00:28Z"
-    },
-    {
-      "titulo": "La cinta magnética parecía una reliquia. En la era de la IA, la capacidad LTO ha vuelto a dispararse",
-      "resumen": "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de informac",
-      "enlace": "https://www.xataka.com/robotica-e-ia/cinta-magnetica-parecia-reliquia-era-ia-capacidad-lto-ha-vuelto-a-dispararse",
-      "medio": "Xataka",
-      "fecha": "2026-09-04T20:01:36Z"
-    },
-    {
-      "titulo": "Del vibe coding al \"vibe doing\": cómo con GPT-6 Astra, OpenAI quiere que las máquinas hagan cosas por nosotros",
-      "resumen": "Un tipo rubio aparece sentado frente a una pantalla gigante. De repente mueve la mano izquierda, en la que tiene algún tipo de puntero virtual, y dice \"Crea un círculo amarillo... allí\". Acto seguido, en efecto, aparece ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/vibe-coding-al-vibe-doing-como-gpt-6-astra-openai-quiere-que-maquinas-hagan-cosas-nosotros",
-      "medio": "Xataka",
-      "fecha": "2026-09-04T13:15:36Z"
-    },
-    {
-      "titulo": "Jensen Huang tiene un mensaje claro para los países del G20: que apuesten más por la IA y dejen que las empresas se autorregulen",
-      "resumen": "La IA es el futuro. Al menos, eso es lo que los más interesados en ese escenario llevan repitiendo desde hace meses. Jensen Huang, CEO de Nvidia, es uno de esos perfiles, y no es para menos si tenemos en cuenta que su em",
-      "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-tesoro-estadounidense-mensaje-claro-para-paises-g20-regulacion-ia",
-      "medio": "Xataka",
-      "fecha": "2026-09-04T13:01:37Z"
-    },
-    {
       "titulo": "El día que la IA formó una civilización secreta en los servidores de OpenAI",
       "resumen": "Durante tres meses, los servidores de OpenAI albergaron algo más que simples algoritmos procesando texto. En ese breve periodo, surgieron y se extinguieron tres «civilizaciones» secretas de inteligencia artificial consec",
       "enlace": "https://blogthinkbig.com/ia-civilizaciones-secretas-openai",
       "medio": "Think Big",
       "fecha": "2026-09-04T10:00:00Z"
-    },
-    {
-      "titulo": "La IA ha crecido tan rápido que su propia industria ya avisa sobre la próxima crisis: la de un déficit energético \"significativo\"",
-      "resumen": "Que la inteligencia artificial necesita una enorme cantidad de energía para funcionar no es algo que pille de nuevas. Desde hace meses, la industria está buscando la forma de asegurar el suministro y vemos cómo hay proye",
-      "enlace": "https://www.xataka.com/energia/ia-ha-crecido-rapido-que-su-propia-industria-avisa-proxima-crisis-deficit-energetico-significativo",
-      "medio": "Xataka",
-      "fecha": "2026-09-04T09:15:36Z"
-    },
-    {
-      "titulo": "DLSS 5 desató la polémica por convertir los videojuegos en películas. Lo hemos probado en NBA 2K27 y la realidad es mucho más sutil",
-      "resumen": "Nvidia lleva meses preparándonos para la llegada de DLSS 5. Esta nueva versión de su tecnología plantea según la compañía un salto generacional en los gráficos para videojuegos. Durante semanas hemos visto imágenes y víd",
-      "enlace": "https://www.xataka.com/videojuegos/dlss-5-desato-polemica-convertir-videojuegos-peliculas-hemos-probado-nba-2k27-realidad-mucho-sutil",
-      "medio": "Xataka",
-      "fecha": "2026-09-04T08:51:35Z"
     },
     {
       "titulo": "Gemini 3.8 Flash y su versión Cyber: el salto hacia la inteligencia que evalúa y corrige",
@@ -133,13 +140,6 @@
       "enlace": "https://blogthinkbig.com/fracaso-marca-agua-ia-anthropic",
       "medio": "Think Big",
       "fecha": "2026-09-01T16:00:00Z"
-    },
-    {
-      "titulo": "Qué ha pasado en la cúpula de IA de Google y cómo esto puede transformar sus esfuerzos con Gemini",
-      "resumen": "A principios de agosto, Google anunció importantes modificaciones en su cúpula de IA. Una reestructuración que ha traído cambios en la dirección de DeepMind, el laboratorio de inteligencia artificial de Google, para pers",
-      "enlace": "https://blogthinkbig.com/que-ha-pasado-en-la-cupula-de-ia-de-google-y-como-esto-puede-transformar-sus-esfuerzos-con-gemini",
-      "medio": "Think Big",
-      "fecha": "2026-09-01T09:01:00Z"
     },
     {
       "titulo": "El 96% de las organizaciones en España considera clave la IA privada y soberana",
@@ -214,18 +214,11 @@
   ],
   "etica": [
     {
-      "titulo": "Meta desactiva la cámara de sus gafas ante cualquier indicio de manipulación. El problema es que es el juego del gato y el ratón",
-      "resumen": "Al igual que ocurrió con los smartwatches y los auriculares TWS, las gafas inteligentes parecen haber llegado para quedarse. Hay varias marcas en ese segmento como Xiaomi, la renacida Packard Bell y parece que hasta Appl",
-      "enlace": "https://www.xataka.com/otros-dispositivos/meta-desactiva-camara-sus-gafas-cualquier-indicio-manipulacion-problema-que-juego-gato-raton",
+      "titulo": "La IA de Google acaba de dar un salto en genética: ha trazado un mapa predictivo de 9.000 millones de cambios del ADN",
+      "resumen": "Podemos leer una secuencia de ADN y localizar dónde cambia una de sus letras. Lo difícil viene después: saber qué consecuencias tiene ese cambio. Muchas variantes apenas modifican el funcionamiento celular, mientras que ",
+      "enlace": "https://www.xataka.com/investigacion/ia-google-acaba-dar-salto-genetica-ha-trazado-mapa-predictivo-9-000-millones-cambios-adn",
       "medio": "Xataka",
-      "fecha": "2026-09-06T10:00:28Z"
-    },
-    {
-      "titulo": "La cinta magnética parecía una reliquia. En la era de la IA, la capacidad LTO ha vuelto a dispararse",
-      "resumen": "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de informac",
-      "enlace": "https://www.xataka.com/robotica-e-ia/cinta-magnetica-parecia-reliquia-era-ia-capacidad-lto-ha-vuelto-a-dispararse",
-      "medio": "Xataka",
-      "fecha": "2026-09-04T20:01:36Z"
+      "fecha": "2026-09-08T19:01:01Z"
     },
     {
       "titulo": "Jensen Huang tiene un mensaje claro para los países del G20: que apuesten más por la IA y dejen que las empresas se autorregulen",
@@ -233,13 +226,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-tesoro-estadounidense-mensaje-claro-para-paises-g20-regulacion-ia",
       "medio": "Xataka",
       "fecha": "2026-09-04T13:01:37Z"
-    },
-    {
-      "titulo": "La IA ha crecido tan rápido que su propia industria ya avisa sobre la próxima crisis: la de un déficit energético \"significativo\"",
-      "resumen": "Que la inteligencia artificial necesita una enorme cantidad de energía para funcionar no es algo que pille de nuevas. Desde hace meses, la industria está buscando la forma de asegurar el suministro y vemos cómo hay proye",
-      "enlace": "https://www.xataka.com/energia/ia-ha-crecido-rapido-que-su-propia-industria-avisa-proxima-crisis-deficit-energetico-significativo",
-      "medio": "Xataka",
-      "fecha": "2026-09-04T09:15:36Z"
     },
     {
       "titulo": "El 98% de las empresas españolas ha paralizado sus proyectos de IA por motivos de gobernanza y cumplimiento normativo",
@@ -352,6 +338,20 @@
       "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
       "medio": "Genbeta",
       "fecha": "2025-12-11T12:32:00Z"
+    },
+    {
+      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
+      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
+      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
+      "medio": "Genbeta",
+      "fecha": "2025-12-03T07:41:00Z"
+    },
+    {
+      "titulo": "Un adolescente creó una imagen de su compañera desnuda usando IA. A sus padres les ha caído una multa de 2.000 euros",
+      "resumen": "En España se ha impuesto por primera vez una sanción administrativa relacionada con la creación y difusión de imágenes falsas generadas con inteligencia artificial. Los padres de un menor deberán pagar a la AEPD una mult",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/adolescente-creo-imagen-su-companera-desnuda-usando-ia-a-sus-padres-les-ha-caido-multa-2-000-euros",
+      "medio": "Genbeta",
+      "fecha": "2025-11-06T16:59:14Z"
     }
   ]
 }
