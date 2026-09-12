@@ -4580,14 +4580,14 @@
     ],
     "etica": "Los datos de los usuarios pueden ser procesados en servidores externos, lo que plantea riesgos de privacidad. El modelo puede exhibir sesgos inherentes a sus datos de entrenamiento.",
     "limite_gratis": "El plan gratuito incluye acceso limitado a la API con 10,000 tokens mensuales y soporte básico.",
-    "web": "https://mythos-5.org/",
+    "web": "https://www.anthropic.com",
     "id": "mythos-5-888029",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-06-27",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 1
   },
   {
     "nombre": "OpenOrb",
@@ -15975,6 +15975,286 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite entrenar un MicroDuck y participar en torneos locales, con limitaciones en el número de batallas diarias.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "HarnessDev",
+    "compania": "ByteDance Seed",
+    "tipo": "Benchmark / Herramienta de evaluación de agentes",
+    "precio": "Gratuito",
+    "descripcion": "Benchmark que evalúa la capacidad de los harnesses de agentes de IA para generalizar sus cambios y medir su rendimiento.",
+    "web": "https://www.harness.io",
+    "funciones": [
+      "Evaluar harnesses de agentes",
+      "Medir generalización de modelos",
+      "Comparar arquitecturas de IA"
+    ],
+    "caracteristicas": [
+      "Enfoque en sistemas multi-agente",
+      "Estándar de medición para investigación",
+      "Escalabilidad para múltiples modelos"
+    ],
+    "etica": "Promueve la transparencia en el desarrollo de agentes, pero requiere estándares éticos claros para evitar competencia desleal.",
+    "id": "harnessdev-1fa9a7",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "chat-recall",
+    "compania": "Desarrollador independiente",
+    "tipo": "Herramienta de búsqueda/recuperación",
+    "precio": "Gratuito",
+    "descripcion": "Permite buscar y recuperar conversaciones pasadas con cualquier IA de forma eficiente y segura.",
+    "web": "https://www.chatrecall.ai",
+    "funciones": [
+      "Buscar conversaciones previas",
+      "Indexar historial de chats",
+      "Filtrar por tema o fecha"
+    ],
+    "caracteristicas": [
+      "Interfaz de búsqueda rápida",
+      "Almacenamiento persistente de conversaciones",
+      "Búsqueda semántica avanzada"
+    ],
+    "etica": "Riesgo de exposición de datos personales si las conversaciones no se gestionan adecuadamente.",
+    "id": "chat-recall-f1036a",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "North Small Translate",
+    "compania": "Cohere",
+    "tipo": "Modelo de traducción",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de mezcla de expertos de 218B parámetros para traducción entre 50 idiomas.",
+    "web": "https://cohere.com",
+    "funciones": [
+      "Traducción automática multilingüe",
+      "Procesamiento de textos largos",
+      "Generación de contenido localizado"
+    ],
+    "caracteristicas": [
+      "Modelo de gran escala (218B)",
+      "Multilingüismo amplio",
+      "Open-weight (libre de uso)"
+    ],
+    "etica": "Posible sesgo cultural en traducciones y impacto en equidad lingüística global.",
+    "id": "north-small-translate-7d5526",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Jackalope",
+    "compania": "Plataforma de agregación de IA",
+    "tipo": "Herramienta de integración",
+    "precio": "Freemium",
+    "descripcion": "Espacio compartido que combina múltiples asistentes de IA como Codex, Claude Code, Grok y OpenCode en una única interfaz.",
+    "web": "https://jackalope.sciforce.tech",
+    "funciones": [
+      "Acceso unificado a múltiples modelos",
+      "Comparación de capacidades",
+      "Gestión centralizada de sesiones"
+    ],
+    "caracteristicas": [
+      "Interoperabilidad entre distintos modelos de IA",
+      "Reducción de fricción al usar varios asistentes",
+      "Personalización por usuario"
+    ],
+    "etica": "Concentración de datos sensibles al combinar múltiples fuentes, riesgo de filtración de información privada.",
+    "id": "jackalope-987451",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "sizeless",
+    "compania": "Desarrollador independiente",
+    "tipo": "IA espacial / Infraestructura subterránea",
+    "precio": "Gratuito",
+    "descripcion": "Herramienta de IA espacial diseñada para analizar e interpretar infraestructuras subterráneas.",
+    "web": "https://www.sizeless.co",
+    "funciones": [
+      "Mapeo de estructuras subterráneas",
+      "Análisis de patrones espaciales",
+      "Simulación de flujo de datos"
+    ],
+    "caracteristicas": [
+      "Especialización en ingeniería civil",
+      "Razonamiento geospatial avanzado",
+      "Aplicación en planificación urbana"
+    ],
+    "etica": "Privacidad de infraestructuras críticas y uso responsable en proyectos de construcción y mantenimiento.",
+    "id": "sizeless-6bbae1",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Generador de Planes de Negocio con IA",
+    "compania": "Desarrollador independiente",
+    "tipo": "Herramienta de generación de negocios",
+    "precio": "Gratuito",
+    "descripcion": "Herramienta que crea planes de negocio personalizados utilizando inteligencia artificial.",
+    "web": "https://www.venturekit.ai",
+    "funciones": [
+      "Creación de planes de negocio",
+      "Asesoramiento estratégico",
+      "Personalización según nicho y recursos"
+    ],
+    "caracteristicas": [
+      "Utilidad práctica para emprendedores",
+      "Adaptabilidad a diferentes sectores",
+      "Generación rápida de contenido"
+    ],
+    "etica": "Precisión variable en consejos empresariales y potencial para errores financieros si no se valida.",
+    "id": "generador-de-planes-de-negocio-con-ia-2bd7e4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Cline Desktop App",
+    "descripcion": "Aplicación de escritorio de código abierto que permite ejecutar modelos de peso abierto localmente en tu máquina.",
+    "precio": "Gratuito",
+    "funciones": [
+      "Ejecutar modelos LLM locales",
+      "Gestionar y descargar pesos de modelos desde Hugging Face",
+      "Integrar con APIs externas para inferencia híbrida",
+      "Personalizar parámetros de generación (temperature, top‑p, etc.)",
+      "Soporte multiplataforma (Windows, macOS, Linux)"
+    ],
+    "caracteristicas": [
+      "Código abierto y auditoría comunitaria",
+      "Funciona totalmente offline, sin envío de datos a servidores",
+      "Aprovecha GPU y CPU según disponibilidad",
+      "Interfaz ligera y configurable mediante temas",
+      "Actualizaciones frecuentes impulsadas por la comunidad"
+    ],
+    "etica": "Al ser de código abierto, permite inspeccionar sesgos y garantizar que los datos nunca abandonan el dispositivo del usuario, protegiendo su privacidad.",
+    "web": "https://cline.bot",
+    "tipo": "Agentes IA",
+    "compania": "Cline",
+    "id": "cline-desktop-app-21a6a5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Versión completa gratuita sin limitaciones funcionales.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ChatHop",
+    "descripcion": "Plataforma para crear y desplegar chatbots que se integran en sitios web, aplicaciones y canales de mensajería.",
+    "precio": "Freemium",
+    "funciones": [
+      "Crear flujos de conversación sin código mediante editor visual",
+      "Integrar con múltiples canales (web, WhatsApp, Slack, etc.)",
+      "Analítica detallada de interacciones y tasas de conversión",
+      "Personalización de respuestas usando modelos de IA",
+      "Escalado automático según el volumen de usuarios"
+    ],
+    "caracteristicas": [
+      "Editor visual de diálogos con arrastrar y soltar",
+      "Plantillas predefinidas para casos de uso comunes",
+      "Soporte multilingüe y detección de idioma",
+      "Webhooks personalizables para conectar con sistemas externos",
+      "Cifrado de datos en tránsito y en reposo"
+    ],
+    "etica": "Los datos de conversación se almacenan en servidores seguros con opciones de eliminación; se revisan los modelos para minimizar sesgos en las respuestas.",
+    "web": "https://www.producthunt.com/products/chathop",
+    "tipo": "Chatbot / Asistente",
+    "compania": "ChatHop",
+    "id": "chathop-fe7574",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Plan gratuito permite hasta 1000 mensajes mensuales y un número limitado de integraciones.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "TIM PG",
+    "descripcion": "Herramienta que detecta y enmascara información sensible antes de enviarla a modelos de IA, protegiendo la privacidad del usuario.",
+    "precio": "Freemium",
+    "funciones": [
+      "Detección automática de nombres, emails, teléfonos y datos financieros",
+      "Redacción o sustitución de datos sensibles por marcadores",
+      "Vista previa en tiempo real del texto anonimizado",
+      "Exportar el texto limpio al portapapeles o archivo",
+      "Historial de acciones para revisión y auditoría"
+    ],
+    "caracteristicas": [
+      "Procesamiento totalmente offline, sin envío de datos a servidores externos",
+      "Reglas de detección personalizables según necesidades específicas",
+      "Integración directa con el portapapeles para uso rápido",
+      "Interfaz minimalista y de bajo consumo de recursos",
+      "Actualizaciones frecuentes de patrones de privacidad"
+    ],
+    "etica": "Al operar localmente, garantiza que ningún dato sensible abandona el dispositivo, evitando exposiciones accidentales y cumpliendo con principios de privacidad.",
+    "web": "https://www.producthunt.com/products/tim-pg",
+    "tipo": "Productividad",
+    "compania": "TIM PG",
+    "id": "tim-pg-b7fa2c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Versión gratuita incluye detección básica de PII y redacción ilimitada; funciones avanzadas como reglas personalizadas requieren pago.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Wisry",
+    "descripcion": "Plataforma que usa IA para analizar anuncios exitosos y generar versiones escalables para campañas publicitarias en múltiples canales.",
+    "precio": "Pago",
+    "funciones": [
+      "Análisis de rendimiento de anuncios existentes en tu mercado",
+      "Generación automática de copy y creatividades basadas en lo que funciona",
+      "Escalado de variantes para pruebas A/B a gran escala",
+      "Integración directa con plataformas de ads (Facebook, Google, TikTok, etc.)",
+      "Dashboard de rendimiento con métricas en tiempo real"
+    ],
+    "caracteristicas": [
+      "Basado en modelos de lenguaje grande entrenados con datos publicitarios",
+      "Biblioteca de plantillas de anuncios por industria y formato",
+      "Optimización en tiempo real según retroalimentación de campañas",
+      "Soporte multicanal y multiformato (imagen, vídeo, carrusel)",
+      "Exportación de activos listos para subir a las redes publicitarias"
+    ],
+    "etica": "Puede replicar contenido existente, lo que plantea riesgos de plagio y sesgos inherentes a los datos de entrenamiento; se recomienda revisión humana para asegurar originalidad y cumplimiento normativo.",
+    "web": "https://wisry.ai",
+    "tipo": "Generación de anuncios",
+    "compania": "Wisry",
+    "id": "wisry-8df0e0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito (solo disponible mediante suscripción de pago).",
     "intentos_web": 1
   }
 ]

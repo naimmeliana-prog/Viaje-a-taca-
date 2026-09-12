@@ -1,33 +1,145 @@
 {
-  "actualizado": "2026-09-10T00:46:21Z",
+  "actualizado": "2026-09-12T00:49:44Z",
   "novedades": [
     {
-      "titulo": "Siri AI aspira a convertirse en el asistente personal de IA que nos acompañe a todas partes. Y no tiene ninguna prisa por lograrlo",
-      "resumen": "En Apple tienen claro que si hay un producto que sabe algo de ti, ese producto es tu móvil. Y eso hace que el iPhone se convierta en candidato perfecto para que saques más partido de la IA que se beneficia de todo ese co",
-      "enlace": "https://www.xataka.com/robotica-e-ia/siri-ai-aspira-a-convertirse-asistente-personal-ia-que-nos-acompane-a-todas-partes-no-tiene-ninguna-prisa-lograrlo",
+      "titulo": "En China los tokens de IA son los nuevos puntos de fidelización: te los regalan por comer, beber o usar una tarjeta",
+      "resumen": "Los tokens son la unidad mínima en la que la IA \"trocea\" el texto para procesarlo y darnos respuestas, pero también son la unidad en la que se mide el consumo y, en la práctica, la \"moneda\" de la IA. En China, los tokens",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-tokens-ia-nuevos-puntos-fidelizacion-te-regalan-comer-beber-usar-tarjeta",
       "medio": "Xataka",
-      "fecha": "2026-09-09T17:45:49Z"
+      "fecha": "2026-09-11T18:01:01Z"
     },
     {
-      "titulo": "Escribir los trabajos de los universitarios occidentales era un trabajo muy bien pagado en Kenia. Entonces llegó ChatGPT",
-      "resumen": "Copiar en los exámenes o pedir a alguien que te haga ese trabajo que se te ha atragantado es una tentación tan vieja como la propia educación. Los de mi generación crecimos con la picaresca a 'El Rincón del Vago', pero e",
-      "enlace": "https://www.xataka.com/robotica-e-ia/escribir-trabajos-universitarios-occidentales-era-trabajo-muy-bien-pagado-kenia-entonces-llego-chatgpt",
-      "medio": "Xataka",
-      "fecha": "2026-09-09T16:01:01Z"
+      "titulo": "Los agentes de IA están desbordando los servicios públicos con solicitudes: la paradoja del «agentic flooding»",
+      "resumen": "El Housing Ombudsman del Reino Unido recibió 2.600 reclamaciones en 2022. El año pasado recibió más de 7.000. No ha cambiado la ley ni la vivienda ha empeorado a esa velocidad. Lo que ha cambiado es que millones de perso",
+      "enlace": "https://wwwhatsnew.com/2026/09/11/agentes-ia-inundacion-servicios-publicos-agentic-flooding-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-11T18:00:12Z"
     },
     {
-      "titulo": "OpenAI acaba de lanzar su modelo de frontera. Acto seguido su científico jefe afirmó que quizá están yendo demasiado lejos",
-      "resumen": "La semana pasada, OpenAI lanzó&nbsp;GPT-6 Astra. Se trata de su modelo público más potente que llegó en paralelo a Fable 5.1, de Anthropic. Las dos compañías se encuentran jugando al juego del gato y el ratón, un \"y yo m",
-      "enlace": "https://www.xataka.com/seguridad/openai-acaba-lanzar-su-modelo-frontera-acto-seguido-su-cientifico-jefe-afirmo-que-quiza-estan-yendo-demasiado-lejos",
-      "medio": "Xataka",
-      "fecha": "2026-09-09T12:01:00Z"
+      "titulo": "La disputa por el crédito de Navier-Stokes: Bubeck pide disculpas, Altman le respalda y el matemático de NYU sostiene que mintió",
+      "resumen": "El investigador de OpenAI Sébastien Bubeck publicó el 8 de septiembre en X su versión de los hechos sobre la disputa con los matemáticos que resolvieron antes que OpenAI dos de los enunciados de las ecuaciones de Navier-",
+      "enlace": "https://wwwhatsnew.com/2026/09/11/bubeck-disculpa-navier-stokes-openai-altman-buckmaster-credito-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-11T12:00:05Z"
     },
     {
-      "titulo": "OpenAI afirma haber resuelto uno de los Problemas del Milenio con su IA. La que se ha liado después es gorda",
-      "resumen": "OpenAI afirma haber resuelto el problema de existencia y regularidad de Navier-Stokes, uno de los siete Problemas del Milenio planteados por el Clay Mathematics Institute y dotados con un premio de un millón de dólares. ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-afirma-haber-resuelto-uno-problemas-milenio-su-ia-que-se-ha-liado-despues-gorda",
+      "titulo": "Los centros de datos quieren instalarse en España. El Gobierno tiene una condición: que traigan su propia energía",
+      "resumen": "España tiene casi todo lo que necesita la industria de los centros de datos: suelo, buena conectividad y abundante energía renovable a precios competitivos. Eso ha provocado que surja una avalancha de proyectos vinculado",
+      "enlace": "https://www.xataka.com/energia/centros-datos-quieren-instalarse-espana-gobierno-tiene-condicion-que-traigan-su-propia-energia",
       "medio": "Xataka",
-      "fecha": "2026-09-09T11:17:00Z"
+      "fecha": "2026-09-11T10:31:01Z"
+    },
+    {
+      "titulo": "Zuckerberg en Sources: los laboratorios que retienen modelos de IA son «bastante peligrosos», Llama 4 fue un fracaso y la privacidad de Muse sigue sin probar",
+      "resumen": "Mark Zuckerberg grabó la entrevista el viernes 5 de septiembre en la sede de Meta, días antes de que la empresa lanzara Muse. Se publicó el miércoles 10. En ella deja tres afirmaciones que van a tener recorrido: que los ",
+      "enlace": "https://wwwhatsnew.com/2026/09/11/zuckerberg-sources-entrevista-muse-llama-4-fracaso-privacidad-watermelon-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-11T10:00:03Z"
+    },
+    {
+      "titulo": "Anthropic ha pillado a China copiando Claude. De paso ha demostrado cuánto sabe sobre lo que hacemos con él",
+      "resumen": "Anthropic acaba de publicar su informe de inteligencia de amenazas más detallado hasta la fecha. Además de campañas de ciberespionaje o armas biológicas aparece una historia especialmente llamativa: siete laboratorios de",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-ha-pillado-a-china-copiando-claude-paso-ha-demostrado-cuanto-sabe-que-hacemos",
+      "medio": "Xataka",
+      "fecha": "2026-09-11T09:47:00Z"
+    },
+    {
+      "titulo": "9 de cada 10 empresas cuentan con una sólida base de IA, pero los resultados de negocio no acompañan",
+      "resumen": "Aunque el 75% considera que la IA autónoma será esencial para gestionar los entornos cloud, solo el 23% ha comenzado a escalar su uso en toda la organización L'articolo 9 de cada 10 empresas cuentan con una sólida base d",
+      "enlace": "https://www.computing.es/inteligencia-artificial/9-de-cada-10-empresas-cuentan-con-una-solida-base-de-ia-pero-los-resultados-de-negocio-no-acompanan/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-11T09:00:00Z"
+    },
+    {
+      "titulo": "Google One AI actualiza sus planes con voz en Gmail, Google Pics para Workspace y Gemini Spark integrado en Chrome y Photos",
+      "resumen": "Google lanzó hoy una ronda de actualizaciones para sus suscripciones de IA —AI Plus, Pro y Ultra— que convierte la productividad de voz y la creación de imágenes en funciones de usuario final, no de poder. Publicado hoy ",
+      "enlace": "https://wwwhatsnew.com/2026/09/11/google-one-ai-voz-gmail-pics-sheets-canvas-gemini-spark-chrome-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-11T08:00:00Z"
+    },
+    {
+      "titulo": "La NASA quiere entender mejor la Luna antes de volver allí. Ha creado con IBM una IA para encontrar hielo y nuevos cráteres",
+      "resumen": "Durante 17 años, la Lunar Reconnaissance Orbiter ha fotografiado y medido la Luna hasta construir uno de los archivos más detallados que existen sobre su superficie. La NASA asegura que la misión ha generado un volumen d",
+      "enlace": "https://www.xataka.com/espacio/nasa-quiere-entender-mejor-luna-antes-volver-alli-ha-creado-ibm-ia-para-encontrar-hielo-nuevos-crateres",
+      "medio": "Xataka",
+      "fecha": "2026-09-10T19:01:00Z"
+    },
+    {
+      "titulo": "China quiere sustituir los chips de NVIDIA con alternativas propias. La memoria HBM acaba de ponerle un problema delante",
+      "resumen": "Pekín lleva tiempo impulsando la sustitución de los chips de NVIDIA por alternativas desarrolladas dentro del país. Huawei, Cambricon y otros fabricantes nacionales han creado aceleradores destinados a cubrir parte del e",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-quiere-sustituir-chips-nvidia-alternativas-propias-memoria-hbm-acaba-ponerle-problema-delante",
+      "medio": "Xataka",
+      "fecha": "2026-09-10T18:31:00Z"
+    },
+    {
+      "titulo": "Google se gasta 13.000 millones de euros en Finlandia y se asegura su propia central nuclear para no quedarse sin electricidad",
+      "resumen": "Google acaba de hacer su mayor apuesta por Europa&nbsp;en materia de centros de datos.&nbsp;Y es que la&nbsp;compañía anunció el miércoles que invertirá al menos 13.000 millones de euros en Finlandia durante los próximos",
+      "enlace": "https://www.xataka.com/empresas-y-economia/google-se-gasta-13-000-millones-euros-finlandia-se-asegura-su-propia-central-nuclear-para-no-quedarse-electricidad",
+      "medio": "Xataka",
+      "fecha": "2026-09-10T18:01:01Z"
+    },
+    {
+      "titulo": "Microsoft y los sindicatos de docentes de EE.UU. firman el primer estándar legal de privacidad de la IA en las aulas",
+      "resumen": "Los datos de los estudiantes no se pueden usar para entrenar modelos de IA. Los proveedores tecnológicos no pueden rastrear a los alumnos. Toda decisión tomada por IA en un entorno escolar requiere supervisión humana. Y ",
+      "enlace": "https://wwwhatsnew.com/2026/09/10/microsoft-aft-estandar-privacidad-ia-escuelas-eeuu-vinculante-noviembre-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-10T18:00:23Z"
+    },
+    {
+      "titulo": "Me he leído el estudio de Anthropic sobre el impacto de la IA en la economía y he llegado a una conclusión: voy a tener que estudiar fontanería",
+      "resumen": "Si eres programador, diseñador, financiero o estás en el gremio de los periodistas como yo, quizás deberías empezar a preocuparte. Un estudio económico publicado por Anthropic explora qué puede pasar en el mundo del empl",
+      "enlace": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
+      "medio": "Xataka",
+      "fecha": "2026-09-10T17:31:01Z"
+    },
+    {
+      "titulo": "ChatGPT destruyó el trabajo de los «ghostwriters» kenianos que escribían los trabajos de universitarios occidentales",
+      "resumen": "Durante más de una década, escribir los trabajos de fin de carrera y los ensayos de universitarios en EE.UU. y el Reino Unido fue una fuente de ingresos respetable —y a veces muy buena— para miles de jóvenes en Kenia. Er",
+      "enlace": "https://wwwhatsnew.com/2026/09/10/chatgpt-destruyo-mercado-ghostwriters-kenianos-trabajos-universitarios-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-10T16:00:28Z"
+    },
+    {
+      "titulo": "Un investigador de seguridad de Anthropic estima una probabilidad de más del 10% de que la IA «podría matar a todos los humanos» en la próxima década",
+      "resumen": "No lo dijo un outsider ni un activista tecnófobo. Lo dijo Evan Hubinger, investigador de alineación de IA en Anthropic —la empresa que fabrica Claude— en una publicación en X el 9 de septiembre de 2026 que ha acumulado m",
+      "enlace": "https://wwwhatsnew.com/2026/09/10/anthropic-investigador-hubinger-10-por-ciento-ia-riesgo-existencial-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-10T12:00:47Z"
+    },
+    {
+      "titulo": "Google anuncia una inversión de 13.000 millones de euros en Finlandia y firma un contrato de 22 años con la central nuclear de Loviisa",
+      "resumen": "Es la mayor inversión extranjera en un solo país europeo que Google ha anunciado nunca: 13.000 millones de euros destinados a infraestructura de IA en Finlandia. Lo anunció hoy la compañía, junto con un contrato de 22 añ",
+      "enlace": "https://wwwhatsnew.com/2026/09/10/google-inversion-13000-millones-finlandia-nuclear-loviisa-data-centers-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-10T10:00:45Z"
+    },
+    {
+      "titulo": "El Apple Watch ya no sólo es un reloj, es una \"grabadora\" que escucha todo el rato y hace resúmenes de lo que oye",
+      "resumen": "Apple ha celebrado su tradicional Keynote de septiembre en la que ha presentado un montón de dispositivos. Ya tenemos todos los detalles de un iPhone 18 Pro del que se había filtrado prácticamente todo, pero también de u",
+      "enlace": "https://www.xataka.com/privacidad/apple-watch-no-solo-reloj-grabadora-que-escucha-todo-rato-hace-resumenes-que-oye",
+      "medio": "Xataka",
+      "fecha": "2026-09-10T09:30:00Z"
+    },
+    {
+      "titulo": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
+      "resumen": "Hay un número que se ha vuelto viral en Twitter estos días: más del 10%. &nbsp;Esa es la probabilidad que Evan Hubinger, un investigador de Anthropic, cree que existe de que la inteligencia artificial acabe con todos los",
+      "enlace": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
+      "medio": "Xataka",
+      "fecha": "2026-09-10T09:17:00Z"
+    },
+    {
+      "titulo": "Cómo usar NotebookLM para ayudarte a estudiar y repasar en el nuevo curso escolar",
+      "resumen": "Vamos a explicarte cómo usar NotebookLM para ayudarte durante el curso escolar. NotebookLM es la herramienta de&nbsp;inteligencia artificial&nbsp;de Google con la que puedes hacerle preguntas a la IA y las respuestas se ",
+      "enlace": "https://www.xataka.com/basics/como-usar-notebooklm-para-ayudarte-a-estudiar-repasar-nuevo-curso-escolar",
+      "medio": "Xataka",
+      "fecha": "2026-09-10T08:31:00Z"
+    },
+    {
+      "titulo": "Tu asistente de IA recuerda tu código, pero se olvida de tu vida: el caso por separar el contexto del vendedor",
+      "resumen": "Si usas Claude Code, Cursor o cualquier agente de coding serio, tu asistente sabe prácticamente todo sobre tu base de código: arquitectura, convenciones, el estado de ayer, qué tests están rotos. Hay un ecosistema maduro",
+      "enlace": "https://wwwhatsnew.com/2026/09/10/vault-mcp-contexto-personal-ia-portatil-git-mcp-servidor-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-10T06:00:39Z"
     },
     {
       "titulo": "OpenAI asegura haber resuelto Navier-Stokes y no se libran de la polémica",
@@ -37,46 +149,11 @@
       "fecha": "2026-09-09T10:10:08Z"
     },
     {
-      "titulo": "Cómo te verías en los 80: cómo crear tu foto ochentera usando ChatGPT paso a paso",
-      "resumen": "Vamos a decirte cómo crear una imagen tuya vestido o vestida como en los 80 para sumarte a la tendencia viral de redes sociales. ChatGPT ha lanzado un filtro en su creador de imágenes por inteligencia artificial con el q",
-      "enlace": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
-      "medio": "Xataka",
-      "fecha": "2026-09-09T08:16:54Z"
-    },
-    {
-      "titulo": "China prepara un salto masivo de infraestructura para IA: quieren cuadruplicar su capacidad de cómputo para 2030",
-      "resumen": "Aunque EEUU siga a la cabeza en varios frentes, China ha demostrado ser un rival más que capaz de plantarles cara e incluso poder llegar a adelantarles en la carrera de la IA. Para lograrlo, el gobierno chino puso en mar",
-      "enlace": "https://www.xataka.com/robotica-e-ia/china-prepara-salto-masivo-infraestructura-para-ia-quieren-cuadruplicar-su-capacidad-computo-para-2030",
-      "medio": "Xataka",
-      "fecha": "2026-09-09T07:01:01Z"
-    },
-    {
-      "titulo": "La IA de Google acaba de dar un salto en genética: ha trazado un mapa predictivo de 9.000 millones de cambios del ADN",
-      "resumen": "Podemos leer una secuencia de ADN y localizar dónde cambia una de sus letras. Lo difícil viene después: saber qué consecuencias tiene ese cambio. Muchas variantes apenas modifican el funcionamiento celular, mientras que ",
-      "enlace": "https://www.xataka.com/investigacion/ia-google-acaba-dar-salto-genetica-ha-trazado-mapa-predictivo-9-000-millones-cambios-adn",
-      "medio": "Xataka",
-      "fecha": "2026-09-08T19:01:01Z"
-    },
-    {
-      "titulo": "La fiebre de la IA tiene unos ganadores inesperados: los fabricantes de jets privados, superyates y coches de lujo no dan abasto",
-      "resumen": "La generación Z está marcando un punto de inflexión en cuanto a hábitos de trabajo, de ocio e incluso sexuales. Como no podía ser de otro modo, la nueva élite de jovencísimos fundadores de Silicon Valley que se están hac",
-      "enlace": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-fabricado-nueva-elite-ia-sus-millones-han-disparado-ventas-jets-privados-yates-lamborghinis",
-      "medio": "Xataka",
-      "fecha": "2026-09-08T16:45:00Z"
-    },
-    {
       "titulo": "Unos monjes borraron sin saberlo las matemáticas que hoy hacen posible el iPhone",
       "resumen": "El iPhone sigue evolucionando generación tras generación, empezamos a ver el futuro de una forma diferente con las gafas inteligentes y la inteligencia artificial ya cambia la forma en la que trabajamos... Estamos inmers",
       "enlace": "https://www.applesfera.com/curiosidades/unos-monjes-borraron-saberlo-matematicas-que-hoy-hacen-posible-iphone",
       "medio": "Applesfera",
       "fecha": "2026-09-08T16:01:01Z"
-    },
-    {
-      "titulo": "Unitree ya tiene el primer robot humanoide impulsado por un modelo de mundo. Sólo necesita tu ropa, tus botas y tu motocicleta",
-      "resumen": "Unitree se ha convertido en menos de una década en una de las empresas tecnológicas más potentes de China. La compañía fundada por Wang Xingxing en 2016 pasó de construir robots cuadrúpedos basados en modelos estadounide",
-      "enlace": "https://www.xataka.com/robotica-e-ia/unitree-tiene-primer-robot-humanoide-impulsado-modelo-mundo-solo-necesita-tu-ropa-tus-botas-tu-motocicleta",
-      "medio": "Xataka",
-      "fecha": "2026-09-08T14:31:00Z"
     },
     {
       "titulo": "OpenAI responde al pulso de la industria con GPT-6 Astra, el modelo que toma el control del ordenador sin saltarse las reglas",
@@ -133,92 +210,29 @@
       "enlace": "https://blogthinkbig.com/claude-fable-5-1-anthropic",
       "medio": "Think Big",
       "fecha": "2026-09-02T08:54:51Z"
-    },
-    {
-      "titulo": "El colapso de las marcas de agua en la IA: por qué certificar un texto ya es una batalla perdida",
-      "resumen": "La industria tecnológica lleva meses buscando una forma fiable de identificar el contenido generado por inteligencia artificial. La presión regulatoria europea exige mecanismos de trazabilidad claros, y las instituciones",
-      "enlace": "https://blogthinkbig.com/fracaso-marca-agua-ia-anthropic",
-      "medio": "Think Big",
-      "fecha": "2026-09-01T16:00:00Z"
-    },
-    {
-      "titulo": "El 96% de las organizaciones en España considera clave la IA privada y soberana",
-      "resumen": "Las empresas españolas ya incorporan la soberanía, la privacidad y la seguridad de los datos como prioridades estratégicas para escalar la IA L'articolo El 96% de las organizaciones en España considera clave la IA privad",
-      "enlace": "https://www.computing.es/inteligencia-artificial/el-96-de-las-organizaciones-en-espana-considera-clave-la-ia-privada-y-soberana/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-31T07:00:00Z"
-    },
-    {
-      "titulo": "FaRADAI, un proyecto que pone la Defensa en manos de la IA",
-      "resumen": "Indra participa en un consorcio europeo que demuestra cómo la IA puede anticipar amenazas y mejorar la toma de decisiones en operaciones militares L'articolo FaRADAI, un proyecto que pone la Defensa en manos de la IA pro",
-      "enlace": "https://www.computing.es/inteligencia-artificial/faradai-un-proyecto-que-pone-la-defensa-en-manos-de-la-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-26T11:30:00Z"
-    },
-    {
-      "titulo": "BBVA extiende la IA a los procesos de su banca de empresas",
-      "resumen": "Los procesos incluyen desde la atención y asesoramiento a clientes hasta la gestión del riesgo y el desarrollo de soluciones tecnológicas L'articolo BBVA extiende la IA a los procesos de su banca de empresas proviene da ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/bbva-extiende-la-ia-a-los-procesos-de-su-banca-de-empresas/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-26T07:00:00Z"
-    },
-    {
-      "titulo": "Un agente de IA puede liberar hasta 150.000 horas de trabajo al año en una gran organización",
-      "resumen": "El verdadero impacto de la IA reside en diseñar agentes optimizados para procesos concretos, bajo criterios de gobierno, seguridad y estrategia empresarial L'articolo Un agente de IA puede liberar hasta 150.000 horas de ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/un-agente-de-ia-puede-liberar-hasta-150-000-horas-de-trabajo-al-ano-en-una-gran-organizacion/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-24T07:04:22Z"
-    },
-    {
-      "titulo": "Se filtran (casi) todos los detalles de las cámaras de los futuros AirPods",
-      "resumen": "Los AirPods con cámara serán una realidad tras una megafiltración del propio código de Apple en la que ya se revelaron muchos detalles de estos auriculares. Es al hilo de esas filtraciones que MacRumors ha podido elabora",
-      "enlace": "https://www.applesfera.com/rumores/se-filtran-casi-todos-detalles-camaras-futuros-airpods",
-      "medio": "Applesfera",
-      "fecha": "2026-08-24T07:01:33Z"
-    },
-    {
-      "titulo": "La IA está transformando los ciberataques contra los hoteles",
-      "resumen": "La temporada alta plantea cada año numerosos retos al sector hotelero. La complejidad operativa convierte a los hoteles en un objetivo especialmente atractivo para los ciberdelincuentes L'articolo La IA está transformand",
-      "enlace": "https://www.computing.es/seguridad/la-ia-esta-transformando-los-ciberataques-contra-los-hoteles/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-21T10:00:00Z"
-    },
-    {
-      "titulo": "He dejado a ChatGPT leer mis mensajes y el proceso asusta un poco",
-      "resumen": "ChatGPT ya puede controlar iMessage en tu Mac. Es más o menos lo mismo que ya hace Siri AI, pero con esteroides: leer, escribir y enviar mensajes, buscar conversaciones, sacar resúmenes de lo que has hablado con cada per",
-      "enlace": "https://www.applesfera.com/aplicaciones-os-x-1/chatgpt-puede-controlar-imessage-desata-dudas-privacidad",
-      "medio": "Applesfera",
-      "fecha": "2026-08-21T09:00:00Z"
-    },
-    {
-      "titulo": "La memoria, nueva frontera de la inteligencia artificial empresarial",
-      "resumen": "La memoria GPU o VRAM se ha convertido en uno de los recursos más valiosos y escasos de las infraestructuras modernas de IA L'articolo La memoria, nueva frontera de la inteligencia artificial empresarial proviene da Comp",
-      "enlace": "https://www.computing.es/infraestructuras/la-memoria-nueva-frontera-de-la-inteligencia-artificial-empresarial/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-20T10:00:00Z"
-    },
-    {
-      "titulo": "La IA corporativa se convierte en el nuevo ‘salvaje oeste’ para los ciberdelincuentes",
-      "resumen": "El estudio Mythos 2026 de Zscaler revela que el 100% de las empresas analizadas mantiene expuestas sus herramientas corporativas de IA a posibles ataques externos L'articolo La IA corporativa se convierte en el nuevo &#8",
-      "enlace": "https://www.computing.es/seguridad/la-ia-corporativa-se-convierte-en-el-nuevo-salvaje-oeste-para-los-ciberdelincuentes/",
-      "medio": "Computing.es",
-      "fecha": "2026-08-20T09:00:00Z"
-    },
-    {
-      "titulo": "No sé nada de programación y he creado esta app en menos de 10 minutos. Solo con ChatGPT y el iPhone",
-      "resumen": "No sé programar, pero quería poner a prueba la IA. En el fondo solo quería hacer una app sencilla, una lista de tareas que pudiera marcar y borrar. Me bastó un iPhone, ChatGPT y diez minutos para que esa idea cobrara vid",
-      "enlace": "https://www.applesfera.com/aplicaciones-ios/no-se-nada-programacion-he-creado-esta-app-10-minutos-solo-chatgpt-iphone",
-      "medio": "Applesfera",
-      "fecha": "2026-08-19T08:00:23Z"
     }
   ],
   "etica": [
     {
-      "titulo": "La IA de Google acaba de dar un salto en genética: ha trazado un mapa predictivo de 9.000 millones de cambios del ADN",
-      "resumen": "Podemos leer una secuencia de ADN y localizar dónde cambia una de sus letras. Lo difícil viene después: saber qué consecuencias tiene ese cambio. Muchas variantes apenas modifican el funcionamiento celular, mientras que ",
-      "enlace": "https://www.xataka.com/investigacion/ia-google-acaba-dar-salto-genetica-ha-trazado-mapa-predictivo-9-000-millones-cambios-adn",
-      "medio": "Xataka",
-      "fecha": "2026-09-08T19:01:01Z"
+      "titulo": "Zuckerberg en Sources: los laboratorios que retienen modelos de IA son «bastante peligrosos», Llama 4 fue un fracaso y la privacidad de Muse sigue sin probar",
+      "resumen": "Mark Zuckerberg grabó la entrevista el viernes 5 de septiembre en la sede de Meta, días antes de que la empresa lanzara Muse. Se publicó el miércoles 10. En ella deja tres afirmaciones que van a tener recorrido: que los ",
+      "enlace": "https://wwwhatsnew.com/2026/09/11/zuckerberg-sources-entrevista-muse-llama-4-fracaso-privacidad-watermelon-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-11T10:00:03Z"
+    },
+    {
+      "titulo": "Google One AI actualiza sus planes con voz en Gmail, Google Pics para Workspace y Gemini Spark integrado en Chrome y Photos",
+      "resumen": "Google lanzó hoy una ronda de actualizaciones para sus suscripciones de IA —AI Plus, Pro y Ultra— que convierte la productividad de voz y la creación de imágenes en funciones de usuario final, no de poder. Publicado hoy ",
+      "enlace": "https://wwwhatsnew.com/2026/09/11/google-one-ai-voz-gmail-pics-sheets-canvas-gemini-spark-chrome-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-11T08:00:00Z"
+    },
+    {
+      "titulo": "Microsoft y los sindicatos de docentes de EE.UU. firman el primer estándar legal de privacidad de la IA en las aulas",
+      "resumen": "Los datos de los estudiantes no se pueden usar para entrenar modelos de IA. Los proveedores tecnológicos no pueden rastrear a los alumnos. Toda decisión tomada por IA en un entorno escolar requiere supervisión humana. Y ",
+      "enlace": "https://wwwhatsnew.com/2026/09/10/microsoft-aft-estandar-privacidad-ia-escuelas-eeuu-vinculante-noviembre-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-10T18:00:23Z"
     },
     {
       "titulo": "Jensen Huang tiene un mensaje claro para los países del G20: que apuesten más por la IA y dejen que las empresas se autorregulen",
@@ -303,20 +317,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/que-sepamos-agencia-que-supervisa-ia-espana-no-esta-supervisando-nada-que-tiene-laboratorio-ideas",
       "medio": "Xataka",
       "fecha": "2026-05-07T11:46:26Z"
-    },
-    {
-      "titulo": "IA ética: los dilemas que la inteligencia artificial plantea y por qué deberían importarte",
-      "resumen": "Sesgo algoritmico, caja negra y concentración de poder: los dilemas éticos de la IA en 2026 y que puedes hacer como ciudadano. AI Act explicado.La noticia IA ética: los dilemas que la inteligencia artificial plantea y po",
-      "enlace": "https://wwwhatsnew.com/2026/05/04/ia-etica-dilemas-inteligencia-artificial-sesgo-regulacion-guia/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-05-04T01:00:00Z"
-    },
-    {
-      "titulo": "Imanes para coches eléctricos sin tierras raras: la IA acelera la caza de nuevos materiales magnéticos",
-      "resumen": "Gran parte de la electrónica que usamos a diario funciona como una puerta que se abre y se cierra gracias a un “tirón” invisible. Ese tirón lo aportan los materiales magnéticos: están en altavoces, sensores, equipos médi",
-      "enlace": "https://wwwhatsnew.com/2026/03/18/el-cuello-de-botella-de-los-imanes-actuales/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-03-18T21:00:10Z"
     },
     {
       "titulo": "Apple lleva años montando un sistema de salud paralelo a la sanidad pública. La pregunta es si la sanidad pública hará algo con ello",
