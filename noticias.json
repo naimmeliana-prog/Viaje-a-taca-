@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-12T00:49:44Z",
+  "actualizado": "2026-09-14T00:36:17Z",
   "novedades": [
+    {
+      "titulo": "Roblox abre su motor de creación de juegos con IA al mundo y permite que los juegos vuelen fuera de su plataforma",
+      "resumen": "Hace 55 días, Roblox lanzó Build: una función que permite a cualquier usuario generar un videojuego completo a partir de un texto. «Hagamos un juego de aventuras acogedor en un bosque denso» basta para que el sistema gen",
+      "enlace": "https://wwwhatsnew.com/2026/09/13/roblox-build-ia-juegos-apps-independientes-fuera-plataforma-rdc-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-13T10:00:34Z"
+    },
+    {
+      "titulo": "Las GPU están por las nubes: esta web ha cartografiado la subida de las RTX 50 y RX 9000 en 2026 y es demencial",
+      "resumen": "Tengo un compañero en Xataka (no revelaré el nombre) que a principios de año pidió componentes para montar un ordenador gaming. Algunos le llegaron rápidamente, pero otros como la GPU se demoraron meses. Él nos contaba a",
+      "enlace": "https://www.xataka.com/componentes/gpu-estan-nubes-esta-web-ha-cartografiado-subida-rtx-50-rx-9000-2026-demencial",
+      "medio": "Xataka",
+      "fecha": "2026-09-13T09:01:00Z"
+    },
+    {
+      "titulo": "\"Debemos frenar el ritmo\". Dario Amodei avisa de que una IA podría tomar el control de internet en menos de un año",
+      "resumen": "Dario Amodei cambia de idea. El CEO de Anthropic se ha pronunciado sobre el ritmo de mejora y los avances de la inteligencia artificial pidiendo que se pise el freno por una cuestión de seguridad. Allá por 2023, Amodei d",
+      "enlace": "https://www.xataka.com/robotica-e-ia/debemos-frenar-ritmo-dario-amodei-avisa-que-ia-podria-tomar-control-internet-ano",
+      "medio": "Xataka",
+      "fecha": "2026-09-13T07:22:38Z"
+    },
+    {
+      "titulo": "Amazon Quick llega al escritorio en Europa con un problema: no está en su propia nube soberana",
+      "resumen": "Amazon ha publicado este jueves la disponibilidad general de Quick en macOS y Windows, su asistente de IA corporativo que compite directamente con Copilot de Microsoft. La propuesta de Quick es la gobernanza: los datos d",
+      "enlace": "https://wwwhatsnew.com/2026/09/13/amazon-quick-desktop-europa-nube-soberana-brecha-copilot-alternativa-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-12T22:00:21Z"
+    },
+    {
+      "titulo": "Un abogado usó ChatGPT para preparar un recurso de asesinato. El Tribunal Supremo de Nuevo México le ha multado por incluir testigos que no existen",
+      "resumen": "«¿Ve usted las noticias? ¿Escucha la radio? ¿Lee algo de lo que está pasando en el mundo? Porque el problema de los abogados que confían en las alucinaciones de la IA es una noticia de portada cada día.» La frase la pron",
+      "enlace": "https://wwwhatsnew.com/2026/09/12/chatgpt-testigos-inventados-abogado-multado-nuevo-mexico-asesinato-apelacion-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-12T18:00:18Z"
+    },
+    {
+      "titulo": "\"Una amenaza general al trabajo intelectual\": las mentes matemáticas más brillantes, contra el modus operandi de la IA",
+      "resumen": "Esta semana la ciencia se ha llevado una de cal y otra de arena: a falta de la confirmación de la comunidad matemática, parece que por fin hemos averiguado la solución a uno de los&nbsp;siete Problemas del Milenio&nbsp;p",
+      "enlace": "https://www.xataka.com/robotica-e-ia/amenaza-general-al-trabajo-intelectual-mentes-matematicas-brillantes-modus-operandi-ia",
+      "medio": "Xataka",
+      "fecha": "2026-09-12T08:30:00Z"
+    },
+    {
+      "titulo": "Celero recauda 275 millones de dólares para llevar la óptica coherente al interior de los centros de datos de IA",
+      "resumen": "La demanda de GPUs crece. Las GPUs se hablan entre sí a través de cables. Esos cables se están convirtiendo en el cuello de botella. Esa es la tesis que está moviendo cientos de millones de dólares hacia una categoría de",
+      "enlace": "https://wwwhatsnew.com/2026/09/12/celero-275-millones-optica-coherente-data-centers-ia-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-12T02:00:28Z"
+    },
     {
       "titulo": "En China los tokens de IA son los nuevos puntos de fidelización: te los regalan por comer, beber o usar una tarjeta",
       "resumen": "Los tokens son la unidad mínima en la que la IA \"trocea\" el texto para procesarlo y darnos respuestas, pero también son la unidad en la que se mide el consumo y, en la práctica, la \"moneda\" de la IA. En China, los tokens",
@@ -79,67 +128,11 @@
       "fecha": "2026-09-10T18:01:01Z"
     },
     {
-      "titulo": "Microsoft y los sindicatos de docentes de EE.UU. firman el primer estándar legal de privacidad de la IA en las aulas",
-      "resumen": "Los datos de los estudiantes no se pueden usar para entrenar modelos de IA. Los proveedores tecnológicos no pueden rastrear a los alumnos. Toda decisión tomada por IA en un entorno escolar requiere supervisión humana. Y ",
-      "enlace": "https://wwwhatsnew.com/2026/09/10/microsoft-aft-estandar-privacidad-ia-escuelas-eeuu-vinculante-noviembre-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-10T18:00:23Z"
-    },
-    {
       "titulo": "Me he leído el estudio de Anthropic sobre el impacto de la IA en la economía y he llegado a una conclusión: voy a tener que estudiar fontanería",
       "resumen": "Si eres programador, diseñador, financiero o estás en el gremio de los periodistas como yo, quizás deberías empezar a preocuparte. Un estudio económico publicado por Anthropic explora qué puede pasar en el mundo del empl",
       "enlace": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
       "medio": "Xataka",
       "fecha": "2026-09-10T17:31:01Z"
-    },
-    {
-      "titulo": "ChatGPT destruyó el trabajo de los «ghostwriters» kenianos que escribían los trabajos de universitarios occidentales",
-      "resumen": "Durante más de una década, escribir los trabajos de fin de carrera y los ensayos de universitarios en EE.UU. y el Reino Unido fue una fuente de ingresos respetable —y a veces muy buena— para miles de jóvenes en Kenia. Er",
-      "enlace": "https://wwwhatsnew.com/2026/09/10/chatgpt-destruyo-mercado-ghostwriters-kenianos-trabajos-universitarios-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-10T16:00:28Z"
-    },
-    {
-      "titulo": "Un investigador de seguridad de Anthropic estima una probabilidad de más del 10% de que la IA «podría matar a todos los humanos» en la próxima década",
-      "resumen": "No lo dijo un outsider ni un activista tecnófobo. Lo dijo Evan Hubinger, investigador de alineación de IA en Anthropic —la empresa que fabrica Claude— en una publicación en X el 9 de septiembre de 2026 que ha acumulado m",
-      "enlace": "https://wwwhatsnew.com/2026/09/10/anthropic-investigador-hubinger-10-por-ciento-ia-riesgo-existencial-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-10T12:00:47Z"
-    },
-    {
-      "titulo": "Google anuncia una inversión de 13.000 millones de euros en Finlandia y firma un contrato de 22 años con la central nuclear de Loviisa",
-      "resumen": "Es la mayor inversión extranjera en un solo país europeo que Google ha anunciado nunca: 13.000 millones de euros destinados a infraestructura de IA en Finlandia. Lo anunció hoy la compañía, junto con un contrato de 22 añ",
-      "enlace": "https://wwwhatsnew.com/2026/09/10/google-inversion-13000-millones-finlandia-nuclear-loviisa-data-centers-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-10T10:00:45Z"
-    },
-    {
-      "titulo": "El Apple Watch ya no sólo es un reloj, es una \"grabadora\" que escucha todo el rato y hace resúmenes de lo que oye",
-      "resumen": "Apple ha celebrado su tradicional Keynote de septiembre en la que ha presentado un montón de dispositivos. Ya tenemos todos los detalles de un iPhone 18 Pro del que se había filtrado prácticamente todo, pero también de u",
-      "enlace": "https://www.xataka.com/privacidad/apple-watch-no-solo-reloj-grabadora-que-escucha-todo-rato-hace-resumenes-que-oye",
-      "medio": "Xataka",
-      "fecha": "2026-09-10T09:30:00Z"
-    },
-    {
-      "titulo": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
-      "resumen": "Hay un número que se ha vuelto viral en Twitter estos días: más del 10%. &nbsp;Esa es la probabilidad que Evan Hubinger, un investigador de Anthropic, cree que existe de que la inteligencia artificial acabe con todos los",
-      "enlace": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
-      "medio": "Xataka",
-      "fecha": "2026-09-10T09:17:00Z"
-    },
-    {
-      "titulo": "Cómo usar NotebookLM para ayudarte a estudiar y repasar en el nuevo curso escolar",
-      "resumen": "Vamos a explicarte cómo usar NotebookLM para ayudarte durante el curso escolar. NotebookLM es la herramienta de&nbsp;inteligencia artificial&nbsp;de Google con la que puedes hacerle preguntas a la IA y las respuestas se ",
-      "enlace": "https://www.xataka.com/basics/como-usar-notebooklm-para-ayudarte-a-estudiar-repasar-nuevo-curso-escolar",
-      "medio": "Xataka",
-      "fecha": "2026-09-10T08:31:00Z"
-    },
-    {
-      "titulo": "Tu asistente de IA recuerda tu código, pero se olvida de tu vida: el caso por separar el contexto del vendedor",
-      "resumen": "Si usas Claude Code, Cursor o cualquier agente de coding serio, tu asistente sabe prácticamente todo sobre tu base de código: arquitectura, convenciones, el estado de ayer, qué tests están rotos. Hay un ecosistema maduro",
-      "enlace": "https://wwwhatsnew.com/2026/09/10/vault-mcp-contexto-personal-ia-portatil-git-mcp-servidor-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-10T06:00:39Z"
     },
     {
       "titulo": "OpenAI asegura haber resuelto Navier-Stokes y no se libran de la polémica",
@@ -210,6 +203,13 @@
       "enlace": "https://blogthinkbig.com/claude-fable-5-1-anthropic",
       "medio": "Think Big",
       "fecha": "2026-09-02T08:54:51Z"
+    },
+    {
+      "titulo": "El 96% de las organizaciones en España considera clave la IA privada y soberana",
+      "resumen": "Las empresas españolas ya incorporan la soberanía, la privacidad y la seguridad de los datos como prioridades estratégicas para escalar la IA L'articolo El 96% de las organizaciones en España considera clave la IA privad",
+      "enlace": "https://www.computing.es/inteligencia-artificial/el-96-de-las-organizaciones-en-espana-considera-clave-la-ia-privada-y-soberana/",
+      "medio": "Computing.es",
+      "fecha": "2026-08-31T07:00:00Z"
     }
   ],
   "etica": [
@@ -226,13 +226,6 @@
       "enlace": "https://wwwhatsnew.com/2026/09/11/google-one-ai-voz-gmail-pics-sheets-canvas-gemini-spark-chrome-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-11T08:00:00Z"
-    },
-    {
-      "titulo": "Microsoft y los sindicatos de docentes de EE.UU. firman el primer estándar legal de privacidad de la IA en las aulas",
-      "resumen": "Los datos de los estudiantes no se pueden usar para entrenar modelos de IA. Los proveedores tecnológicos no pueden rastrear a los alumnos. Toda decisión tomada por IA en un entorno escolar requiere supervisión humana. Y ",
-      "enlace": "https://wwwhatsnew.com/2026/09/10/microsoft-aft-estandar-privacidad-ia-escuelas-eeuu-vinculante-noviembre-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-10T18:00:23Z"
     },
     {
       "titulo": "Jensen Huang tiene un mensaje claro para los países del G20: que apuesten más por la IA y dejen que las empresas se autorregulen",
@@ -352,6 +345,13 @@
       "enlace": "https://www.genbeta.com/inteligencia-artificial/adolescente-creo-imagen-su-companera-desnuda-usando-ia-a-sus-padres-les-ha-caido-multa-2-000-euros",
       "medio": "Genbeta",
       "fecha": "2025-11-06T16:59:14Z"
+    },
+    {
+      "titulo": "Empiezan a salir a la luz las vulnerabilidades del navegador de ChatGPT en materia de seguridad y privacidad",
+      "resumen": "La llegada del navegador ChatGPT Atlas, lanzado recientemente por OpenAI para macOS (está previsto su lanzamiento también en otros SO), ha marcado un nuevo hito en la integración entre inteligencia artificial y navegació",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/empiezan-a-salir-a-luz-vulnerabilidades-navegador-chatgpt-materia-seguridad-privacidad",
+      "medio": "Genbeta",
+      "fecha": "2025-10-28T14:45:00Z"
     }
   ]
 }

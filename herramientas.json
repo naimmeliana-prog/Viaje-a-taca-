@@ -15979,159 +15979,189 @@
   },
   {
     "nombre": "HarnessDev",
-    "compania": "ByteDance Seed",
-    "tipo": "Benchmark / Herramienta de evaluación de agentes",
+    "compania": "Harness",
+    "tipo": "Benchmark de agentes IA",
     "precio": "Gratuito",
-    "descripcion": "Benchmark que evalúa la capacidad de los harnesses de agentes de IA para generalizar sus cambios y medir su rendimiento.",
+    "descripcion": "HarnessDev es un benchmark que mide la capacidad de los harnesses de agentes de IA para generalizar cambios y evaluar su rendimiento.",
     "web": "https://www.harness.io",
     "funciones": [
-      "Evaluar harnesses de agentes",
-      "Medir generalización de modelos",
-      "Comparar arquitecturas de IA"
+      "Evaluar generalización de cambios",
+      "Medir latencia de respuesta",
+      "Comparar diferentes harnesses",
+      "Generar reportes de rendimiento",
+      "Integrar con pipelines CI"
     ],
     "caracteristicas": [
-      "Enfoque en sistemas multi-agente",
-      "Estándar de medición para investigación",
-      "Escalabilidad para múltiples modelos"
+      "Escalable a grandes volúmenes",
+      "Soporta múltiples frameworks de agentes",
+      "Métricas estandarizadas",
+      "Interfaz de línea de comandos",
+      "Compatible con Docker"
     ],
-    "etica": "Promueve la transparencia en el desarrollo de agentes, pero requiere estándares éticos claros para evitar competencia desleal.",
+    "etica": "No recopila datos de usuarios; se ejecuta localmente, garantizando privacidad. Evita sesgos al usar conjuntos de prueba diversos.",
     "id": "harnessdev-1fa9a7",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-09-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 1,
+    "limite_gratis": "Ofrece acceso completo al benchmark sin costo, sin limitaciones de uso."
   },
   {
     "nombre": "chat-recall",
-    "compania": "Desarrollador independiente",
-    "tipo": "Herramienta de búsqueda/recuperación",
-    "precio": "Gratuito",
-    "descripcion": "Permite buscar y recuperar conversaciones pasadas con cualquier IA de forma eficiente y segura.",
+    "compania": "Recall.ai",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "descripcion": "chat-recall permite indexar y buscar rápidamente el historial de conversaciones con cualquier IA, asegurando privacidad y seguridad.",
     "web": "https://www.chatrecall.ai",
     "funciones": [
-      "Buscar conversaciones previas",
-      "Indexar historial de chats",
-      "Filtrar por tema o fecha"
+      "Indexar conversaciones",
+      "Búsqueda por palabras clave",
+      "Filtros por fecha y modelo IA",
+      "Exportar resultados",
+      "Sincronización con múltiples plataformas"
     ],
     "caracteristicas": [
-      "Interfaz de búsqueda rápida",
-      "Almacenamiento persistente de conversaciones",
-      "Búsqueda semántica avanzada"
+      "Cifrado de extremo a extremo",
+      "Compatibilidad con APIs de OpenAI, Anthropic, etc.",
+      "Búsqueda semántica",
+      "Interfaz web y CLI",
+      "Registro de auditoría"
     ],
-    "etica": "Riesgo de exposición de datos personales si las conversaciones no se gestionan adecuadamente.",
+    "etica": "Los datos permanecen cifrados y bajo control del usuario; no se comparten con terceros. Se minimiza el sesgo al no modificar el contenido original.",
     "id": "chat-recall-f1036a",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-09-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito permite hasta 5000 conversaciones indexadas y 100 búsquedas mensuales."
   },
   {
     "nombre": "North Small Translate",
-    "compania": "Cohere",
-    "tipo": "Modelo de traducción",
-    "precio": "Gratuito",
-    "descripcion": "Modelo de mezcla de expertos de 218B parámetros para traducción entre 50 idiomas.",
+    "compania": "North AI",
+    "tipo": "Traducción automática",
+    "precio": "Pago",
+    "descripcion": "North Small Translate es un modelo MoE de 218B parámetros que ofrece traducciones de alta calidad entre 50 idiomas.",
     "web": "https://cohere.com",
     "funciones": [
-      "Traducción automática multilingüe",
-      "Procesamiento de textos largos",
-      "Generación de contenido localizado"
+      "Traducción de texto",
+      "Detección automática de idioma",
+      "Traducción por lotes",
+      "Personalización de glosario",
+      "Integración vía API"
     ],
     "caracteristicas": [
-      "Modelo de gran escala (218B)",
-      "Multilingüismo amplio",
-      "Open-weight (libre de uso)"
+      "Arquitectura MoE eficiente",
+      "Soporte para lenguas de bajo recurso",
+      "Latencia baja",
+      "Escalabilidad en la nube",
+      "Actualizaciones continuas"
     ],
-    "etica": "Posible sesgo cultural en traducciones y impacto en equidad lingüística global.",
+    "etica": "Se entrena con datos públicos y se filtran contenidos tóxicos para reducir sesgos; se respeta la privacidad al no almacenar textos de traducción.",
     "id": "north-small-translate-7d5526",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-09-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 1,
+    "limite_gratis": "Sin plan gratuito; acceso solo mediante suscripción de pago."
   },
   {
     "nombre": "Jackalope",
-    "compania": "Plataforma de agregación de IA",
-    "tipo": "Herramienta de integración",
+    "compania": "Jackalope AI",
+    "tipo": "Agentes IA",
     "precio": "Freemium",
-    "descripcion": "Espacio compartido que combina múltiples asistentes de IA como Codex, Claude Code, Grok y OpenCode en una única interfaz.",
+    "descripcion": "Jackalope reúne varios asistentes de código en un entorno colaborativo para facilitar el desarrollo.",
     "web": "https://jackalope.sciforce.tech",
     "funciones": [
-      "Acceso unificado a múltiples modelos",
-      "Comparación de capacidades",
-      "Gestión centralizada de sesiones"
+      "Chat con Codex",
+      "Interacción con Claude Code",
+      "Uso de Grok",
+      "Integración de OpenCode",
+      "Compartir sesiones en equipo"
     ],
     "caracteristicas": [
-      "Interoperabilidad entre distintos modelos de IA",
-      "Reducción de fricción al usar varios asistentes",
-      "Personalización por usuario"
+      "Interfaz unificada",
+      "Soporte para múltiples lenguajes",
+      "Historial compartido",
+      "Extensiones de plugins",
+      "Seguridad de nivel empresarial"
     ],
-    "etica": "Concentración de datos sensibles al combinar múltiples fuentes, riesgo de filtración de información privada.",
+    "etica": "No almacena código propietario sin consentimiento; se aplican filtros para evitar generación de contenido peligroso o sesgado.",
     "id": "jackalope-987451",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito incluye acceso a un asistente y hasta 1000 consultas mensuales."
   },
   {
     "nombre": "sizeless",
-    "compania": "Desarrollador independiente",
-    "tipo": "IA espacial / Infraestructura subterránea",
-    "precio": "Gratuito",
-    "descripcion": "Herramienta de IA espacial diseñada para analizar e interpretar infraestructuras subterráneas.",
+    "compania": "GeoSense Technologies",
+    "tipo": "Análisis espacial",
+    "precio": "Pago",
+    "descripcion": "sizeless utiliza IA para procesar datos de sensores y generar modelos de infraestructuras subterráneas.",
     "web": "https://www.sizeless.co",
     "funciones": [
-      "Mapeo de estructuras subterráneas",
-      "Análisis de patrones espaciales",
-      "Simulación de flujo de datos"
+      "Procesar datos de radar de penetración",
+      "Detectar anomalías",
+      "Generar mapas 3D",
+      "Evaluar integridad estructural",
+      "Reportes de mantenimiento"
     ],
     "caracteristicas": [
-      "Especialización en ingeniería civil",
-      "Razonamiento geospatial avanzado",
-      "Aplicación en planificación urbana"
+      "Alta precisión en detección",
+      "Integración con GIS",
+      "Tiempo de procesamiento reducido",
+      "Soporte para múltiples formatos de entrada",
+      "Interfaz intuitiva"
     ],
-    "etica": "Privacidad de infraestructuras críticas y uso responsable en proyectos de construcción y mantenimiento.",
+    "etica": "Los datos de infraestructura se procesan localmente o en nube segura, garantizando confidencialidad; se evita sesgo al usar modelos entrenados con datasets diversos.",
     "id": "sizeless-6bbae1",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-09-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 1,
+    "limite_gratis": "Sin plan gratuito; requiere licencia comercial."
   },
   {
     "nombre": "Generador de Planes de Negocio con IA",
-    "compania": "Desarrollador independiente",
-    "tipo": "Herramienta de generación de negocios",
-    "precio": "Gratuito",
-    "descripcion": "Herramienta que crea planes de negocio personalizados utilizando inteligencia artificial.",
+    "compania": "IdeaBuddy",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Esta herramienta genera automáticamente planes de negocio adaptados a tu idea, incluyendo análisis de mercado y proyecciones financieras.",
     "web": "https://www.venturekit.ai",
     "funciones": [
-      "Creación de planes de negocio",
-      "Asesoramiento estratégico",
-      "Personalización según nicho y recursos"
+      "Entrada de idea de negocio",
+      "Análisis de mercado automático",
+      "Generación de proyecciones financieras",
+      "Plantillas personalizables",
+      "Exportar a PDF/PowerPoint"
     ],
     "caracteristicas": [
-      "Utilidad práctica para emprendedores",
-      "Adaptabilidad a diferentes sectores",
-      "Generación rápida de contenido"
+      "Interfaz guiada paso a paso",
+      "Sugerencias basadas en IA",
+      "Integración con herramientas de contabilidad",
+      "Actualizaciones en tiempo real",
+      "Soporte multilingüe"
     ],
-    "etica": "Precisión variable en consejos empresariales y potencial para errores financieros si no se valida.",
+    "etica": "Se asegura de no divulgar información confidencial de los usuarios; los modelos se entrenan con datos públicos y se revisan para evitar sesgos de género o industria.",
     "id": "generador-de-planes-de-negocio-con-ia-2bd7e4",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 1,
+    "limite_gratis": "Plan gratuito permite generar un plan de negocio básico con hasta 5 secciones y descarga en formato watermark."
   },
   {
     "nombre": "Cline Desktop App",
@@ -16183,7 +16213,7 @@
       "Cifrado de datos en tránsito y en reposo"
     ],
     "etica": "Los datos de conversación se almacenan en servidores seguros con opciones de eliminación; se revisan los modelos para minimizar sesgos en las respuestas.",
-    "web": "https://www.producthunt.com/products/chathop",
+    "web": "https://chathop.tech/",
     "tipo": "Chatbot / Asistente",
     "compania": "ChatHop",
     "id": "chathop-fe7574",
@@ -16193,7 +16223,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Plan gratuito permite hasta 1000 mensajes mensuales y un número limitado de integraciones.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "TIM PG",
@@ -16224,7 +16254,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Versión gratuita incluye detección básica de PII y redacción ilimitada; funciones avanzadas como reglas personalizadas requieren pago.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Wisry",
@@ -16255,6 +16285,320 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito (solo disponible mediante suscripción de pago).",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "SWE-2",
+    "compania": "Cognition",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Modelo de IA de Cognition diseñado para tareas de código, ofreciendo una alternativa económica a soluciones como Fable 5.1.",
+    "web": "https://swe.com/",
+    "funciones": [
+      "Generación y corrección de código",
+      "Integración con entornos de desarrollo",
+      "Optimización de tareas repetitivas",
+      "Soporte para múltiples lenguajes de programación"
+    ],
+    "caracteristicas": [
+      "Bajo costo operativo",
+      "Especializado en flujos de trabajo de desarrollo",
+      "Escalable para equipos pequeños y medianos",
+      "Interfaz intuitiva para programadores"
+    ],
+    "etica": "Prioriza la privacidad de los datos del usuario y trabaja para minimizar sesgos en la generación de código.",
+    "limite_gratis": "El plan gratuito incluye 100 tareas mensuales y acceso limitado a funciones avanzadas.",
+    "id": "swe-2-688deb",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Resurf",
+    "compania": "Resurf",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Aplicación para Mac que organiza información relevante en una biblioteca personal, facilitando su uso en flujos de trabajo asistidos por IA.",
+    "web": "https://resurf.ai/",
+    "funciones": [
+      "Gestión de contexto personal",
+      "Integración con herramientas de IA",
+      "Organización de notas y recursos",
+      "Sincronización en la nube"
+    ],
+    "caracteristicas": [
+      "Interfaz nativa para macOS",
+      "Búsqueda semántica avanzada",
+      "Compatibilidad con múltiples formatos de archivo",
+      "Enfoque en privacidad de datos"
+    ],
+    "etica": "Garantiza que los datos del usuario permanezcan locales y no se compartan con terceros sin consentimiento.",
+    "limite_gratis": "El plan gratuito permite almacenar hasta 100 elementos y sincronizar en un dispositivo.",
+    "id": "resurf-17a38d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Neopress",
+    "compania": "Neopress",
+    "tipo": "Generación de sitios web",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que permite crear y expandir un sitio web mediante conversaciones con IA, sin necesidad de conocimientos técnicos.",
+    "web": "https://neopress.ai/",
+    "funciones": [
+      "Diseño de sitios web conversacional",
+      "Generación automática de contenido",
+      "Optimización SEO básica",
+      "Integración con herramientas de marketing"
+    ],
+    "caracteristicas": [
+      "Interfaz de chat intuitiva",
+      "Plantillas personalizables",
+      "Soporte para múltiples idiomas",
+      "Escalabilidad para negocios en crecimiento"
+    ],
+    "etica": "Promueve la transparencia en el uso de IA y evita la generación de contenido duplicado.",
+    "limite_gratis": "El plan gratuito incluye un sitio web con 3 páginas y 100 MB de almacenamiento.",
+    "id": "neopress-a1a2d0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Iris-mini",
+    "compania": "AllSpark",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Agente de búsqueda de pesos abiertos basado en modelos Qwen, optimizado para consultas y tareas de búsqueda eficientes.",
+    "web": "https://allspark.ai/",
+    "funciones": [
+      "Búsqueda de información en tiempo real",
+      "Resolución de tareas específicas",
+      "Integración con APIs externas",
+      "Soporte para múltiples idiomas"
+    ],
+    "caracteristicas": [
+      "Pesos abiertos para personalización",
+      "Basado en modelos Qwen",
+      "Rendimiento optimizado para hardware limitado",
+      "Comunidad activa de desarrolladores"
+    ],
+    "etica": "Fomenta el uso responsable de la IA mediante la transparencia de sus modelos y datos de entrenamiento.",
+    "limite_gratis": "El plan gratuito ofrece acceso completo al agente, pero con limitaciones en el volumen de consultas mensuales.",
+    "id": "iris-mini-6fa833",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Iris-pro",
+    "compania": "AllSpark",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Variante profesional del agente de búsqueda de pesos abiertos de AllSpark, con capacidades avanzadas para tareas complejas.",
+    "web": "https://allspark.ai/",
+    "funciones": [
+      "Búsqueda de información profunda",
+      "Análisis de datos estructurados",
+      "Automatización de flujos de trabajo",
+      "Integración con sistemas empresariales"
+    ],
+    "caracteristicas": [
+      "Modelos Qwen de alta capacidad",
+      "Soporte técnico dedicado",
+      "Escalabilidad para empresas",
+      "Herramientas de monitoreo y reportes"
+    ],
+    "etica": "Incluye mecanismos para auditar sesgos y garantizar la equidad en los resultados de búsqueda.",
+    "limite_gratis": "Sin plan gratuito.",
+    "id": "iris-pro-0032ea",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Granite Time Series PatchTST-FM-r2",
+    "compania": "IBM",
+    "tipo": "Análisis de datos",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de IBM para análisis y previsión de series temporales, publicado con una licencia amigable para usos comerciales.",
+    "web": "https://www.ibm.com/granite",
+    "funciones": [
+      "Predicción de tendencias",
+      "Detección de anomalías",
+      "Análisis de patrones temporales",
+      "Integración con plataformas de datos"
+    ],
+    "caracteristicas": [
+      "Licencia comercial amigable",
+      "Alta precisión en previsiones",
+      "Soporte para múltiples dominios",
+      "Documentación detallada para desarrolladores"
+    ],
+    "etica": "Diseñado para minimizar sesgos en predicciones y garantizar transparencia en su uso.",
+    "limite_gratis": "El modelo está disponible gratuitamente para uso comercial y académico sin restricciones.",
+    "id": "granite-time-series-patchtst-fm-r2-860c5f",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Pizza Bot",
+    "compania": "Pizza Bot",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Caja de entrada de código abierto y autoalojada para agentes de IA en segundo plano, construida sobre DeepAgents y LangGraph.",
+    "web": "https://aws.amazon.com/blogs/machine-learning/introducing-pizza-bot-an-open-source-inbox-for-ai-agents/",
+    "funciones": [
+      "Gestión de agentes de IA",
+      "Automatización de tareas en segundo plano",
+      "Integración con frameworks de IA",
+      "Soporte para múltiples proveedores de modelos"
+    ],
+    "caracteristicas": [
+      "Código abierto y autoalojado",
+      "Basado en DeepAgents y LangGraph",
+      "Interfaz de línea de comandos",
+      "Comunidad activa de contribuyentes"
+    ],
+    "etica": "Promueve la privacidad y el control del usuario sobre sus datos mediante su arquitectura autoalojada.",
+    "limite_gratis": "El plan gratuito incluye acceso completo al código fuente y funcionalidad básica sin costo.",
+    "id": "pizza-bot-aee332",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Perplexity Hybrid Compute",
+    "descripcion": "Solución que divide tareas de IA entre la nube (para investigación) y dispositivos locales (para privacidad).",
+    "compania": "Perplexity",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Procesamiento híbrido de IA",
+      "Investigación en la nube",
+      "Privacidad en el dispositivo local",
+      "Sincronización de resultados"
+    ],
+    "caracteristicas": [
+      "Uso de Mac para tareas sensibles",
+      "Escalabilidad en la nube",
+      "Interfaz unificada para usuarios",
+      "Optimización de recursos"
+    ],
+    "etica": "Prioriza la privacidad del usuario al procesar datos sensibles localmente y limitar el uso de la nube.",
+    "limite_gratis": "El plan gratuito incluye 100 tareas híbridas mensuales y 1 GB de almacenamiento en la nube.",
+    "web": "https://www.perplexity.ai/hub/products/hybrid-compute",
+    "id": "perplexity-hybrid-compute-a7066e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Visiby",
+    "descripcion": "Herramienta para rastrear y mejorar la visibilidad de contenido en motores de búsqueda impulsados por IA.",
+    "compania": "Visiby",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis de visibilidad en IA",
+      "Optimización de contenido para buscadores",
+      "Monitoreo de rankings",
+      "Generación de informes detallados"
+    ],
+    "caracteristicas": [
+      "Enfoque en buscadores de IA",
+      "Integración con herramientas de SEO",
+      "Interfaz intuitiva para analistas",
+      "Soporte para múltiples plataformas"
+    ],
+    "etica": "Garantiza la transparencia en los datos recopilados y evita el rastreo invasivo de usuarios.",
+    "limite_gratis": "El plan gratuito permite monitorear hasta 5 palabras clave y 1 informe mensual.",
+    "web": "https://www.producthunt.com/products/visiby",
+    "id": "visiby-67c41a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "GhostWriter by MyHandler",
+    "descripcion": "Herramienta de escritura asistida por IA que genera contenido con solo dos toques, ideal para redactores y creadores.",
+    "compania": "MyHandler",
+    "tipo": "Generación de texto",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación rápida de textos",
+      "Edición y reescritura de contenido",
+      "Adaptación a estilos personalizados",
+      "Integración con editores de texto"
+    ],
+    "caracteristicas": [
+      "Interfaz minimalista",
+      "Soporte para múltiples idiomas",
+      "Plantillas predefinidas",
+      "Exportación a formatos comunes"
+    ],
+    "etica": "Fomenta la originalidad del contenido y advierte sobre la posible duplicación de texto generado.",
+    "limite_gratis": "El plan gratuito incluye 100 generaciones mensuales y 5 plantillas personalizadas.",
+    "web": "https://www.ghost-writer.cc/",
+    "id": "ghostwriter-by-myhandler-c6c101",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pascal’s Pager",
+    "descripcion": "Herramienta que convierte datos JSON de webhooks en notificaciones push legibles y personalizables para dispositivos iPhone, facilitando la monitorización en tiempo real de eventos externos.",
+    "precio": "Freemium",
+    "funciones": [
+      "Conversión automática de JSON a notificaciones push",
+      "Integración con servicios de terceros mediante webhooks",
+      "Notificaciones en tiempo real en dispositivos móviles",
+      "Personalización del contenido y formato de las notificaciones",
+      "Soporte para múltiples protocolos de comunicación"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva para configurar webhooks",
+      "Compatibilidad con estándares JSON y formatos comunes",
+      "Notificaciones push seguras y encriptadas",
+      "Historial de eventos y registros de actividad",
+      "Configuración de alertas basadas en condiciones específicas"
+    ],
+    "etica": "Prioriza la privacidad al procesar datos localmente sin almacenamiento persistente. No introduce sesgos al transformar información, manteniendo la neutralidad en la representación de datos.",
+    "web": "https://www.producthunt.com/products/pascal-s-pager",
+    "tipo": "Productividad",
+    "compania": "Pascal Technologies",
+    "id": "pascal-s-pager-59198c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite 100 notificaciones mensuales con funcionalidades básicas de personalización.",
     "intentos_web": 1
   }
 ]
