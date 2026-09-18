@@ -1,218 +1,239 @@
 {
-  "actualizado": "2026-09-16T00:58:45Z",
+  "actualizado": "2026-09-18T00:57:57Z",
   "novedades": [
     {
-      "titulo": "La industria musical lanza la Streaming Integrity Initiative para combatir el fraude de IA: hasta el 85% de los streams de música generada por IA eran falsos en",
-      "resumen": "La cifra que publicó Deezer resume el problema: en junio de 2026, más del 50% de toda la música nueva entregada a la plataforma era íntegramente generada por IA —unos 90.000 tracks al día. Pero esas grabaciones represent",
-      "enlace": "https://wwwhatsnew.com/2026/09/15/ifpi-streaming-integrity-initiative-fraude-musica-ia-85-porciento-falsos-2026/",
+      "titulo": "Altman en Dreamforce: «El mundo tiene razón en tener miedo de la IA», y la solución que propone es que confíen en OpenAI",
+      "resumen": "Sam Altman intervino el martes 15 de septiembre en Dreamforce —la conferencia anual de Salesforce en San Francisco— en lo que fue su primera aparición pública desde que el debate sobre el riesgo existencial de la IA domi",
+      "enlace": "https://wwwhatsnew.com/2026/09/17/altman-dreamforce-mundo-tiene-razon-tener-miedo-ia-confien-openai-2026/",
       "medio": "WWWhat's new",
-      "fecha": "2026-09-15T20:00:52Z"
+      "fecha": "2026-09-17T18:00:26Z"
     },
     {
-      "titulo": "Justo cuando parecía que Google estaba solucionando el problema de fragmentación de Android, llegó la IA",
-      "resumen": "La fragmentación siempre ha sido uno de los puntos más flojos de Android, ya que la experiencia del sistema difiere mucho en según qué terminales lo ejecuten. Y esto no solo viene dado por lo potente que sea nuestro móvi",
-      "enlace": "https://www.xataka.com/moviles/justo-cuando-parecia-que-google-estaba-solucionando-problema-fragmentacion-android-llego-ia",
-      "medio": "Xataka",
-      "fecha": "2026-09-15T20:00:12Z"
-    },
-    {
-      "titulo": "OpenAI abandona el concurso de matemáticas de Caltech después de que 771 matemáticos lo llamen «matematicón basura» y 25 Medallistas Fields firmen una segunda c",
-      "resumen": "Dos cartas en dos días y el retirada del millón de dólares de OpenAI. La comunidad matemática ha dado la respuesta más coordinada que los laboratorios de IA han recibido hasta ahora, y lo ha hecho en respuesta a un concu",
-      "enlace": "https://wwwhatsnew.com/2026/09/15/openai-retira-caltech-mathathon-slop-mathematics-medallistas-fields-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-15T18:00:46Z"
-    },
-    {
-      "titulo": "Frenar la IA suena a proteger a la humanidad. También es una forma muy eficaz de frenar a DeepSeek, Qwen y Mistral",
-      "resumen": "Dario Amodei publicó estos días su \"We must pace the frontier\", su propuesta para frenar el ritmo de la IA. Y OpenAI y SpaceXAI la han respaldado. En todo el ensayo, por cierto, no aparecen ni una vez las palabras \"open ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/frenar-ia-suena-a-proteger-a-humanidad-tambien-forma-muy-eficaz-frenar-a-deepseek-qwen-mistral",
-      "medio": "Xataka",
-      "fecha": "2026-09-15T16:30:12Z"
-    },
-    {
-      "titulo": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso 'techie' definitivo",
-      "resumen": "\"Is Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del Gran Premio de Madrid. Kimi pasó a mi lado y yo seguí tan pancho. Al darme la vuelta vi que la gente se arremolinaba a su alrededor, pidién",
-      "enlace": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo-1",
-      "medio": "Xataka",
-      "fecha": "2026-09-15T16:08:00Z"
-    },
-    {
-      "titulo": "Los estudiantes usan IA para hacer trampas. Ahora pierden horas intentando que no se note",
-      "resumen": "Antes de la IA, los estudiantes ya copiaban en exámenes, se descargaban trabajos de 'El Rincón del Vago' o incluso pagaban para que alguien se los hiciera. Con la IA, hacer trampas se ha convertido en algo tan sencillo y",
-      "enlace": "https://www.xataka.com/robotica-e-ia/estudiantes-usan-ia-para-hacer-trampas-ahora-pierden-horas-intentando-que-no-se-note",
-      "medio": "Xataka",
-      "fecha": "2026-09-15T16:00:13Z"
-    },
-    {
-      "titulo": "Superhuman compra el notetaker de IA Fathom para dar a sus agentes el contexto de las reuniones",
-      "resumen": "La carrera de las plataformas de productividad para convertirse en el punto de orquestación del trabajo agentivo acaba de producir su adquisición más clara del año. Superhuman —la app de email de alta velocidad con 40 mi",
-      "enlace": "https://wwwhatsnew.com/2026/09/15/superhuman-adquiere-fathom-notetaker-ia-contexto-reuniones-agentes-productividad-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-15T16:00:04Z"
-    },
-    {
-      "titulo": "La IA es la nueva fiebre del oro y Fujitsu tiene un plan: devolver Japón a los días dorados con su chip Monaka",
-      "resumen": "La fiebre del oro en California duró poco. De 1848 a mediados de la década posterior, decenas de miles de buscadores vendieron sus pertenencias, se asentaron en los ríos y montañas californianos armados con la esperanza ",
-      "enlace": "https://www.xataka.com/procesadores/ia-nueva-fiebre-oro-fujitsu-tiene-plan-devolver-japon-a-dias-dorados-su-chip-monaka",
-      "medio": "Xataka",
-      "fecha": "2026-09-15T14:00:12Z"
-    },
-    {
-      "titulo": "El debate sobre la IA ya no enfrenta a optimistas y pesimistas. Enfrenta a empresas con miles de millones en juego",
-      "resumen": "ChatGPT no llevaba ni seis meses en escena cuando el experto Eliezer Yudkowsky nos avisó de que la IA \"nos mataría a todos\". Su discurso catastrofista no fue el primero, pero sí reactivó la preocupación ante una amenaza ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/debate-ia-no-enfrenta-a-optimistas-pesimistas-enfrenta-a-empresas-miles-millones-juego",
-      "medio": "Xataka",
-      "fecha": "2026-09-15T10:46:10Z"
-    },
-    {
-      "titulo": "La IA entra en producción: Del soporte tradicional a una nueva forma de prestar servicios TI",
-      "resumen": "Durante los últimos años hemos hablado mucho de lo que la inteligencia artificial podría llegar a hacer. Ahora empieza una etapa bastante más interesante: comprobar qué ocurre cuando deja las pruebas de concepto y entra ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-entra-en-produccion-del-soporte-tradicional-a-una-nueva-forma-de-prestar-servicios-ti/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-15T10:26:23Z"
-    },
-    {
-      "titulo": "El Senado de EE.UU. negocia una ley que daría al gobierno el poder de bloquear el lanzamiento de modelos de IA inseguros",
-      "resumen": "Tres senadores americanos están redactando una ley que cambiaría fundamentalmente la relación entre el gobierno federal y los laboratorios de IA: el borrador prevé un deber de cuidado para los desarrolladores de IA y la ",
-      "enlace": "https://wwwhatsnew.com/2026/09/15/senado-eeuu-proyecto-ley-bloquear-modelos-ia-deber-cuidado-preemption-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-15T10:00:57Z"
-    },
-    {
-      "titulo": "Anthropic quiere poner un árbitro a la IA. El problema es quién ha elegido para hacerlo",
-      "resumen": "En una carta publicada hace unos días, Dario Amodei abogó por detener el avance de la IA, y además lo hizo dando detalles muy claros de a lo que nos exponemos. Según el CEO de Anthropic, en menos de un año una IA podría ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/que-quien-esta-detras-metr-organismo-que-anthropic-propone-para-supervisar-que-ia-no-sea-peligro-para-sociedad",
-      "medio": "Xataka",
-      "fecha": "2026-09-15T09:30:00Z"
-    },
-    {
-      "titulo": "¿Nos lleva a la hecatombe la inteligencia artificial?",
-      "resumen": "Los avanzados de la IA alertan sobre los grandes peligros de la automatización extrema y piden racionalizar su progreso L'articolo ¿Nos lleva a la hecatombe la inteligencia artificial? proviene da Computing.",
-      "enlace": "https://www.computing.es/opinion/nos-lleva-a-la-hecatombe-la-inteligencia-artificial/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-15T08:00:24Z"
-    },
-    {
-      "titulo": "Microsoft publica un código de conducta para su IA «humanista» que prohíbe a sus modelos resistir el apagado — pero sin mecanismo de enforcement",
-      "resumen": "La promesa central del Código de Conducta para Modelos AI (MAI) que Microsoft publicó el lunes 14 de septiembre es sencilla de leer y casi imposible de verificar: los modelos MAI «nunca resistirán la interrupción humana,",
-      "enlace": "https://wwwhatsnew.com/2026/09/15/microsoft-humanist-ai-codigo-conducta-mai-modelos-apagado-consulta-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-15T06:00:55Z"
-    },
-    {
-      "titulo": "GPT-6 Astra está disponible para suscriptores Pro y de empresa, pero el acceso es confuso y la función avanzada de ciberseguridad está bloqueada",
-      "resumen": "GPT-6 Astra lleva 11 días en el mercado y muchos usuarios elegibles todavía no pueden usarlo. OpenAI empezó el despliegue el 3 de septiembre, pero el rollout es gradual y asimétrico: no todos los usuarios del mismo plan ",
-      "enlace": "https://wwwhatsnew.com/2026/09/15/gpt-6-astra-como-acceder-rollout-precio-capacidades-septiembre-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-15T02:00:52Z"
-    },
-    {
-      "titulo": "Australia saca de las listas de éxitos a la música generada por IA: solo vale lo «sustancialmente humano»",
-      "resumen": "La industria discográfica llevaba meses posponiendo la pregunta sobre qué cuenta como música «real» en la era de la IA generativa. Australia la ha respondido, al menos para sus listas de éxitos. La Asociación de la Indus",
-      "enlace": "https://wwwhatsnew.com/2026/09/14/australia-aria-charts-musica-ia-prohibicion-sustancialmente-humana-madonna-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-14T18:00:00Z"
-    },
-    {
-      "titulo": "En el siglo XIX tuvimos a los luditas destruyendo máquinas, hoy tenemos a parte de la generación Z contra la IA",
-      "resumen": "En septiembre de 2025, Michael Trazzi se sentó con una silla plegable y una pizarra frente a la sede de Google DeepMind en Londres y se declaraba en huelga de hambre. En la pizarra se podía leer: \"DeepMind parad la carre",
-      "enlace": "https://www.xataka.com/robotica-e-ia/magnates-tech-sonaron-revolucion-digital-que-les-haria-milmillonarios-se-han-encontrado-regreso-luditas",
-      "medio": "Xataka",
-      "fecha": "2026-09-14T17:15:00Z"
-    },
-    {
-      "titulo": "¿Hay realmente un 10% de posibilidades de que la IA extinga al ser humano? La realidad tras el nuevo pánico apocalíptico",
-      "resumen": "Ya hablamos de cómo Evan Hubinger, responsable de la división de alineamiento en Anthropic, publicó un polémico mensaje en X en el que indicaba que creía que había un 10% de posibilidades de que la IA acabase con la raza",
-      "enlace": "https://www.xataka.com/robotica-e-ia/llevamos-anos-oyendo-que-superinteligencia-podria-matarnos-a-todos-podria-nos-extinguira-hay-abismo",
-      "medio": "Xataka",
-      "fecha": "2026-09-14T16:30:00Z"
-    },
-    {
-      "titulo": "Pisar el freno en la frontera: los creadores de la IA más avanzada proponen coordinar su ritmo",
-      "resumen": "Durante los dos últimos años, los grandes laboratorios tecnológicos han competido en una carrera constante por liderar el desarrollo de modelos de Inteligencia Artificial. Sin embargo, las mismas empresas que aceleraron ",
-      "enlace": "https://blogthinkbig.com/seguridad-ia-frontera-pautado",
-      "medio": "Think Big",
-      "fecha": "2026-09-14T16:00:00Z"
-    },
-    {
-      "titulo": "Según OpenAI y Anthropic, hay que parar el desarrollo de la IA para salvar a la humanidad. Hay motivos para dudar",
-      "resumen": "\"Nos estamos pasando de frenada con la IA\". Básicamente, ese es el mensaje que Dario Amodei, CEO de Anthropic, mandaba este fin de semana, poniendo sobre la mesa, otra vez, que pese al enorme potencial de la tecnología, ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/big-tech-ia-dicen-que-hay-que-frenar-para-salvar-a-humanidad-que-no-quieren-decir-que-necesitan-oxigeno",
-      "medio": "Xataka",
-      "fecha": "2026-09-14T15:45:00Z"
-    },
-    {
-      "titulo": "Obama le dice a los demócratas en privado que la IA es peligrosa. Pero no les da ningún plan",
-      "resumen": "Barack Obama asistió el jueves 10 de septiembre a una recaudación de fondos demócrata cerrada al público. Lo que dijo en esa sala llegó al New York Times el sábado a través de una transcripción parcial facilitada por su ",
-      "enlace": "https://wwwhatsnew.com/2026/09/14/obama-advertencia-democratas-ia-peligrosa-jeffries-framework-2028-septiembre/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-14T12:00:55Z"
-    },
-    {
-      "titulo": "Z.ai levantó 5.000 millones en Hong Kong dos días después de que el FBI la acusara de robar capacidades de GPT y Claude",
-      "resumen": "El 11 de septiembre, dos días después de que el NSA, el FBI y la CISA publicaran un aviso nombrando a Z.ai entre seis empresas chinas acusadas de «destilación industrial» de modelos americanos —extraer capacidades de GPT",
-      "enlace": "https://wwwhatsnew.com/2026/09/14/z-ai-5000-millones-hong-kong-bonos-cero-interes-fbi-distilacion-gpt-claude-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-14T10:00:53Z"
-    },
-    {
-      "titulo": "La NASA e IBM enseñan a una IA a leer la Luna",
-      "resumen": "La Luna lleva 17 años siendo fotografiada por la misma sonda de la NASA, pero nadie ha tenido tiempo de mirar todas esas imágenes con atención. Ahora la agencia espacial y IBM han entrenado una [&#8230;] La NASA e IBM en",
-      "enlace": "https://blogthinkbig.com/la-nasa-e-ibm-ensenan-a-una-ia-a-leer-la-luna",
-      "medio": "Think Big",
-      "fecha": "2026-09-14T08:39:37Z"
-    },
-    {
-      "titulo": "9 de cada 10 empresas cuentan con una sólida base de IA, pero los resultados de negocio no acompañan",
-      "resumen": "Aunque el 75% considera que la IA autónoma será esencial para gestionar los entornos cloud, solo el 23% ha comenzado a escalar su uso en toda la organización L'articolo 9 de cada 10 empresas cuentan con una sólida base d",
-      "enlace": "https://www.computing.es/inteligencia-artificial/9-de-cada-10-empresas-cuentan-con-una-solida-base-de-ia-pero-los-resultados-de-negocio-no-acompanan/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-11T09:00:00Z"
-    },
-    {
-      "titulo": "OpenAI asegura haber resuelto Navier-Stokes y no se libran de la polémica",
-      "resumen": "Este 8 de septiembre, OpenAI anunció un resultado que sacude tanto a la física matemática como al desarrollo de la inteligencia artificial. A través de un documento técnico y una formalización completa en el asistente [&",
-      "enlace": "https://blogthinkbig.com/openai-asegura-haber-resuelto-navier-stokes-y-no-se-libran-de-la-polemica",
-      "medio": "Think Big",
-      "fecha": "2026-09-09T10:10:08Z"
-    },
-    {
-      "titulo": "Unos monjes borraron sin saberlo las matemáticas que hoy hacen posible el iPhone",
-      "resumen": "El iPhone sigue evolucionando generación tras generación, empezamos a ver el futuro de una forma diferente con las gafas inteligentes y la inteligencia artificial ya cambia la forma en la que trabajamos... Estamos inmers",
-      "enlace": "https://www.applesfera.com/curiosidades/unos-monjes-borraron-saberlo-matematicas-que-hoy-hacen-posible-iphone",
+      "titulo": "iOS 27 nos trae la IA que merecíamos para editar fotos",
+      "resumen": "No tuvo Apple Intelligence el mejor debut posible. El fiasco de Siri AI, que tardó dos años en llegar y aún así se limita por regiones, eclipsó todo lo demás. Pero por fin en iOS 27 la compañía se ha puesto las pilas en ",
+      "enlace": "https://www.applesfera.com/tutoriales/ios-27-nos-trae-ia-que-mereciamos-para-editar-fotos",
       "medio": "Applesfera",
-      "fecha": "2026-09-08T16:01:01Z"
+      "fecha": "2026-09-17T17:00:00Z"
     },
     {
-      "titulo": "Cómo controlar los costes de la IA antes de que se desborden",
-      "resumen": "A medida que los casos de uso se multiplican, la demanda de los modelos aumenta, al igual que los costes asociados L'articolo Cómo controlar los costes de la IA antes de que se desborden proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/como-controlar-los-costes-de-la-ia-antes-de-que-se-desborden/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-07T08:36:26Z"
+      "titulo": "Von der Leyen apoya el freno al desarrollo de IA en su discurso del Estado de la Unión: invitará a los grandes laboratorios a una reunión",
+      "resumen": "La presidenta de la Comisión Europea Ursula von der Leyen apoyó este miércoles 16 de septiembre, en su discurso anual del Estado de la Unión ante el Parlamento Europeo en Estrasburgo, el llamamiento a frenar el ritmo de ",
+      "enlace": "https://wwwhatsnew.com/2026/09/17/von-der-leyen-apoya-freno-ia-estado-union-ue-invita-labs-frontera-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-17T16:00:24Z"
     },
     {
-      "titulo": "CrowdStrike crea un laboratorio de superinteligencia que incorpora la investigación en IA a la ciberdefensa",
-      "resumen": "Este laboratorio auna el talento, los datos y los entornos necesarios en el desarrollo de la IA para la defensa L'articolo CrowdStrike crea un laboratorio de superinteligencia que incorpora la investigación en IA a la ci",
-      "enlace": "https://www.computing.es/inteligencia-artificial/crowdstrike-crea-un-laboratorio-de-superinteligencia-que-incorpora-la-investigacion-en-ia-a-la-ciberdefensa/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-03T07:28:00Z"
+      "titulo": "¿Se está quedando Gemini atrás? Con Claude Fable y GPT-6 Astra brillando, Google lucha por no perder aún más terreno",
+      "resumen": "Los planes de Google para convertir a Gemini en la IA más potente y capaz del mundo parecen haberse encontrado con obstáculos más difíciles de sortear de lo que se pensaba. La firma de Mountain [&#8230;] ¿Se está quedand",
+      "enlace": "https://blogthinkbig.com/se-esta-quedando-gemini-atras-con-claude-fable-y-gpt-6-astra-brillando-google-lucha-por-no-perder-aun-mas-terreno",
+      "medio": "Think Big",
+      "fecha": "2026-09-17T15:17:55Z"
     },
     {
-      "titulo": "El 98% de las empresas españolas ha paralizado sus proyectos de IA por motivos de gobernanza y cumplimiento normativo",
-      "resumen": "8 de cada 10 compañías considera que su arquitectura de datos necesita una revisión profunda para impulsar la inteligencia artificial de forma eficaz L'articolo El 98% de las empresas españolas ha paralizado sus proyecto",
-      "enlace": "https://www.computing.es/informes/en-que-sectores-ha-impactado-mas-la-inteligencia-artificial/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-02T11:39:57Z"
+      "titulo": "Las empresas que llevan años acelerando la IA empiezan a hablar de límites. Microsoft acaba de poner los suyos por escrito",
+      "resumen": "Estos últimos años, el mensaje de la industria de la IA sólo ha seguido una máxima: más. Más rápido, más grande, más potente y más transversal. Sin embargo, ahora casi todos los grandes del sector en Estados Unidos, esos",
+      "enlace": "https://www.xataka.com/empresas-y-economia/empresas-que-llevan-anos-acelerando-ia-empiezan-a-hablar-limites-microsoft-acaba-poner-suyos-escrito",
+      "medio": "Xataka",
+      "fecha": "2026-09-17T13:30:12Z"
     },
     {
-      "titulo": "El 96% de las organizaciones en España considera clave la IA privada y soberana",
-      "resumen": "Las empresas españolas ya incorporan la soberanía, la privacidad y la seguridad de los datos como prioridades estratégicas para escalar la IA L'articolo El 96% de las organizaciones en España considera clave la IA privad",
-      "enlace": "https://www.computing.es/inteligencia-artificial/el-96-de-las-organizaciones-en-espana-considera-clave-la-ia-privada-y-soberana/",
+      "titulo": "\"No respondes ante corporaciones ni gobiernos\": OpenAI publica seis nuevos casos en los que sus modelos experimentales montaron un caos",
+      "resumen": "OpenAI ha publicado un nuevo marco interno para rastrear, investigar y divulgar públicamente casos en los que sus modelos de IA se comportan de formas inesperadas o desalineadas. Junto a él, la empresa ha publicado sus p",
+      "enlace": "https://www.xataka.com/robotica-e-ia/no-respondes-corporaciones-gobiernos-openai-publica-seis-nuevos-casos-que-sus-modelos-experimentales-montaron-caos",
+      "medio": "Xataka",
+      "fecha": "2026-09-17T12:16:10Z"
+    },
+    {
+      "titulo": "Los trabajadores del Reino Unido gastan 958 millones de libras al año de su propio bolsillo en herramientas de IA para trabajar, y sus jefes no saben que las us",
+      "resumen": "El shadow AI ha dejado de ser una preocupación teórica de los departamentos de IT para convertirse en una línea de gasto personal relevante. Según el informe que Deloitte UK publicó esta semana a partir de una encuesta a",
+      "enlace": "https://wwwhatsnew.com/2026/09/17/deloitte-uk-trabajadores-958-millones-herramientas-ia-propias-shadow-ai-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-17T10:00:17Z"
+    },
+    {
+      "titulo": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+      "resumen": "Jensen Huang, CEO de Nvidia, acaba de decirle al mundo que la IA no necesita nuevas leyes. Al hablar en la conferencia Dreamforce de Salesforce esta semana, Huang argumentaba que la seguridad es algo que las empresas pue",
+      "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
+      "medio": "Xataka",
+      "fecha": "2026-09-17T10:00:14Z"
+    },
+    {
+      "titulo": "Adiós al desfase de seis horas: Google DeepMind conecta la IA meteorológica a los satélites en directo",
+      "resumen": "Saber si va a llover esta tarde parece una molestia menor hasta que una tormenta repentina colapsa una ciudad o un cambio brusco de viento desbarata la previsión de una red eléctrica. Durante más de [&#8230;] Adiós al de",
+      "enlace": "https://blogthinkbig.com/weathernext-3-ia-prediccion-tiempo-google-deepmind",
+      "medio": "Think Big",
+      "fecha": "2026-09-17T10:00:00Z"
+    },
+    {
+      "titulo": "Anthropic abre oficina en Madrid y nombra a Cristina Pitarch Country Manager para España",
+      "resumen": "Cristina Pitarch ha sido directora general para EMEA en Google Cloud Security y lleva más de 15 años trabajando en el sector L'articolo Anthropic abre oficina en Madrid y nombra a Cristina Pitarch Country Manager para Es",
+      "enlace": "https://www.computing.es/noticias/anthropic-abre-oficina-en-madrid-y-nombra-a-cristina-pitarch-country-manager-para-espana/",
       "medio": "Computing.es",
-      "fecha": "2026-08-31T07:00:00Z"
+      "fecha": "2026-09-17T09:23:15Z"
+    },
+    {
+      "titulo": "\"El futuro del hogar conectado no es instalar otra app más, es hablarle a tu casa por Telegram\", Noh Beom-jun, directivo de LG",
+      "resumen": "Seamos sinceros: la domótica es un rollo porque se ha convertido en una selva de aplicaciones propietarias y ecosistemas diferentes. Por mucho que haya intentos como Matter, la realidad es que los usuarios nos vemos atra",
+      "enlace": "https://www.xataka.com/entrevistas/futuro-hogar-conectado-no-instalar-otra-app-hablarle-a-tu-casa-telegram-noh-beom-jun-directivo-lg",
+      "medio": "Xataka",
+      "fecha": "2026-09-17T08:30:11Z"
+    },
+    {
+      "titulo": "Apple planea volver al mercado de servidores para IA de la mano de Nvidia y el chip M8 Ultra, según The Information",
+      "resumen": "John Ternus lleva dos semanas en el cargo como nuevo CEO de Apple y, siendo un hombre de hardware, parece que tiene la intención de devolver a Apple a los días en los que estaban en el negocio de los servidores. Con la e",
+      "enlace": "https://www.xataka.com/empresas-y-economia/apple-planea-volver-al-mercado-servidores-para-ia-mano-nvidia-chip-m8-ultra-the-information",
+      "medio": "Xataka",
+      "fecha": "2026-09-17T08:16:11Z"
+    },
+    {
+      "titulo": "La primera clínica oftalmológica dirigida por agentes de IA en China acaba de publicar su primer informe real: el reto no era diagnosticar, sino trabajar con mé",
+      "resumen": "La publicación científica que acaba de aparecer en Nature Medicine no trata sobre un experimento en laboratorio. Trata sobre lo que pasó cuando investigadores de la Universidad Tsinghua de Pekín desplegaron un sistema de",
+      "enlace": "https://wwwhatsnew.com/2026/09/17/china-clinica-oftalmologica-agentes-ia-nature-medicine-tsinghua-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-17T08:00:08Z"
+    },
+    {
+      "titulo": "La AEPD notifica el primer ciberataque ejecutado de forma autónoma por un agente de IA en España: accedió a datos personales y facturas sin intervención humana",
+      "resumen": "La Agencia Española de Protección de Datos ha comunicado esta semana la primera notificación de brecha de datos en la que un agente de inteligencia artificial ejecutó un ciberataque de forma completamente autónoma contra",
+      "enlace": "https://wwwhatsnew.com/2026/09/17/aepd-primer-ataque-autonomo-agente-ia-espana-datos-personales-facturas-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-16T22:00:00Z"
+    },
+    {
+      "titulo": "OpenAI, Anthropic y Google llevan desde julio negociando en secreto un organismo de seguridad de la IA que se antepondría a la regulación del Congreso",
+      "resumen": "La semana más intensa de advertencias públicas sobre el riesgo existencial de la IA de 2026 —el ensayo de Amodei, la dimisión de Coxon, las declaraciones de Altman y Musk, la respuesta de Trump desde Dublín— resultó ser ",
+      "enlace": "https://wwwhatsnew.com/2026/09/16/openai-anthropic-google-organismo-seguridad-ia-conversaciones-julio-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-16T18:00:51Z"
+    },
+    {
+      "titulo": "Por fin el iPhone tiene una app decente para generar imágenes realistas. Llega con iOS 27",
+      "resumen": "Cuando Apple anunció Image Playground con iOS 18, a muchos nos dio algo de bajón. Para aquella época ya había grandes modelos de IA capaces de generar fotos hiperrealistas y aquello era poco menos que un divertimento par",
+      "enlace": "https://www.applesfera.com/ios/fin-iphone-tiene-app-decente-para-generar-imagenes-realistas-llega-ios-27",
+      "medio": "Applesfera",
+      "fecha": "2026-09-16T17:00:13Z"
+    },
+    {
+      "titulo": "Llega el fin de la crisis de la RAM: cómo la nueva memoria china abre una vía de escape al mercado",
+      "resumen": "Construir o actualizar un ordenador durante los últimos dos años ha sido un ejercicio de paciencia. El auge de la inteligencia artificial generativa absorbió gran parte de las líneas de producción de memoria. Gigantes co",
+      "enlace": "https://blogthinkbig.com/memoria-ddr5-cxmt-crisis-ram",
+      "medio": "Think Big",
+      "fecha": "2026-09-16T16:42:24Z"
+    },
+    {
+      "titulo": "Llega Nvidia RTX Spark: qué es y por qué será una revolución",
+      "resumen": "La estadounidense Nvidia, o como se suele escribir, NVIDIA, es hoy una de las empresas más valoradas en el mundo por capitalización bursátil. Gracias a su apuesta por la inteligencia artificial y tras éxitos pasados [&#8",
+      "enlace": "https://blogthinkbig.com/nvidia-rtx-spark-primeros-pc",
+      "medio": "Think Big",
+      "fecha": "2026-09-16T16:29:56Z"
+    },
+    {
+      "titulo": "Mark Zuckerberg lo tiene claro: \"Cualquier laboratorio de IA que no se enfoque en la alineación se quedará atrás\"",
+      "resumen": "Las empresas de IA están \"jugando con nuestras vidas\". Es lo que dijo Jacob Coxon, exingeniero de Anthropic justo después de abandonar la compañía. Lo que le siguió fue un terremoto que ha puesto patas arriba la industri",
+      "enlace": "https://www.xataka.com/robotica-e-ia/para-zuckerberg-seguridad-ia-no-freno-argumento-venta-anthropic-openai",
+      "medio": "Xataka",
+      "fecha": "2026-09-16T15:00:00Z"
+    },
+    {
+      "titulo": "Uno de los creadores de ChatGPT ha creado una IA 400 veces más barata que el resto. Su secreto: no generar texto",
+      "resumen": "Diogo Almeida no es un emprendedor de IA cualquiera. Trabajó en OpenAI y fue uno de los autores de InstructGPT, el estudio sobre aprendizaje por refuerzo a partir de retroalimentación humana (RLHF) que sentó parte de las",
+      "enlace": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
+      "medio": "Xataka",
+      "fecha": "2026-09-16T14:15:00Z"
+    },
+    {
+      "titulo": "Sam Altman quiere que te fíes de él: \"El mundo debería confiar en que vamos a hacer lo correcto porque es lo correcto\"",
+      "resumen": "Sam Altman, el CEO de OpenAI, ha hecho una declaración llamativa: \"el mundo tiene razón al tener miedo de esto\". Se refiere, cómo no, a la amenaza que plantea la IA y que hizo que su rival empresarial, Dario Amodei, dije",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mundo-tiene-razon-al-tener-miedo-ia-solucion-sam-altman-que-confiemos-quienes-estan-construyendo",
+      "medio": "Xataka",
+      "fecha": "2026-09-16T12:45:00Z"
+    },
+    {
+      "titulo": "Salesforce inaugura Dreamforce con el lanzamiento de AIforce y el modelo de CRM Koa",
+      "resumen": "El modelo se ha entrenado con los 27 años de experiencia de Salesforce en CRM para ayudar a los agentes de IA a comprender y resolver tareas empresariales complejas que requieren varios pasos L'articolo Salesforce inaugu",
+      "enlace": "https://www.computing.es/noticias/salesforce-inaugura-dreamforce-con-el-lanzamiento-de-aiforce-y-el-modelo-de-crm-koa/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-16T12:07:29Z"
+    },
+    {
+      "titulo": "Meta lanza Meta One globalmente: suscripciones de 2,99 a 499 dólares al mes con 15 millones de usuarios ya captados en los primeros tests",
+      "resumen": "Meta convirtió este 15 de septiembre en el lanzamiento global oficial de Meta One, su sistema de suscripciones que combina acceso a funciones de IA con planes premium para Instagram, Facebook y WhatsApp. La empresa llegó",
+      "enlace": "https://wwwhatsnew.com/2026/09/16/meta-one-lanzamiento-global-suscripciones-2-99-499-meta-ai-premium-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-16T12:00:43Z"
+    },
+    {
+      "titulo": "¿Está preparada la ciberseguridad para una IA que elige cómo actuar?",
+      "resumen": "La pregunta relevante ya no es únicamente si un modelo hará lo que le pedimos, sino qué caminos estará dispuesto a recorrer para conseguirlo L'articolo ¿Está preparada la ciberseguridad para una IA que elige cómo actuar?",
+      "enlace": "https://www.computing.es/inteligencia-artificial/esta-preparada-la-ciberseguridad-para-una-ia-que-elige-como-actuar/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-16T12:00:24Z"
+    },
+    {
+      "titulo": "La Agencia de Protección de Datos ha descubierto el primer ciberataque realizado por un agente IA en España",
+      "resumen": "La Agencia Española de Protección de Datos (AEPD) ha recibido por primera vez la notificación de una brecha de datos personales en la que un tercero habría usado un agente de IA para ejecutar y controlar distintas fases ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
+      "medio": "Xataka",
+      "fecha": "2026-09-16T10:45:00Z"
+    },
+    {
+      "titulo": "Más de 1600 CIOs y directores de IT exigen un uso responsable de la IA ante el aumento de alertas sobre sus riesgos",
+      "resumen": "La iniciativa llega en un momento de creciente preocupación dentro de la propia industria de la IA, tras las recientes salidas de investigadores de compañías como Anthropic y Google DeepMind por sus advertencias sobre lo",
+      "enlace": "https://www.computing.es/noticias/mas-de-1600-cios-y-directores-de-it-exigen-un-uso-responsable-de-la-ia-ante-el-aumento-de-alertas-sobre-sus-riesgos/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-16T10:38:30Z"
+    },
+    {
+      "titulo": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo",
+      "resumen": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo #SOCIAL_BUTTONS# \"It's Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
+      "medio": "Xataka",
+      "fecha": "2026-09-16T10:07:15Z"
+    },
+    {
+      "titulo": "Lagarde avisa: el 75% del cómputo de IA mundial está en EE.UU. y el 5% en Europa. Si no construimos infraestructura propia, alguien puede cortarnos el acceso",
+      "resumen": "Christine Lagarde, presidenta del Banco Central Europeo, pronunció el 14 de septiembre en Viena el discurso más concreto que un alto funcionario europeo ha dado sobre los riesgos de dependencia en IA. El título: «Una nue",
+      "enlace": "https://wwwhatsnew.com/2026/09/16/lagarde-bce-europa-ia-soberana-75-por-ciento-eeuu-5-por-ciento-europa-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-16T10:00:41Z"
+    },
+    {
+      "titulo": "La inversión en IA entra en una nueva fase centrada en la financiación y la capacidad de la infraestructura",
+      "resumen": "Los resultados de NVIDIA revelan que la demanda de capacidad de cómputo se diversifica más allá de las grandes tecnológicas, abarcando empresas, gobiernos y proyectos nacionales L'articolo La inversión en IA entra en una",
+      "enlace": "https://www.computing.es/informes/la-inversion-en-ia-entra-en-una-nueva-fase-centrada-en-la-financiacion-y-la-capacidad-de-la-infraestructura/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-16T08:21:59Z"
+    },
+    {
+      "titulo": "OpenAI llevará sus data centers a Canadá porque tiene energía y terreno. El ex-canciller Osborne lo dijo en Toronto; en el Reino Unido lo explicó más alto que n",
+      "resumen": "George Osborne, ex-canciller del Tesoro británico y hoy jefe de países de OpenAI, habló el 14 y 15 de septiembre en el summit de inversión de Mark Carney en Toronto. El message fue simple: Canadá tiene la energía y el te",
+      "enlace": "https://wwwhatsnew.com/2026/09/16/openai-canada-data-centers-osborne-toronto-stargate-uk-pausado-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-16T08:00:50Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+      "resumen": "Jensen Huang, CEO de Nvidia, acaba de decirle al mundo que la IA no necesita nuevas leyes. Al hablar en la conferencia Dreamforce de Salesforce esta semana, Huang argumentaba que la seguridad es algo que las empresas pue",
+      "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
+      "medio": "Xataka",
+      "fecha": "2026-09-17T10:00:14Z"
+    },
+    {
+      "titulo": "La AEPD notifica el primer ciberataque ejecutado de forma autónoma por un agente de IA en España: accedió a datos personales y facturas sin intervención humana",
+      "resumen": "La Agencia Española de Protección de Datos ha comunicado esta semana la primera notificación de brecha de datos en la que un agente de inteligencia artificial ejecutó un ciberataque de forma completamente autónoma contra",
+      "enlace": "https://wwwhatsnew.com/2026/09/17/aepd-primer-ataque-autonomo-agente-ia-espana-datos-personales-facturas-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-16T22:00:00Z"
+    },
+    {
+      "titulo": "OpenAI, Anthropic y Google llevan desde julio negociando en secreto un organismo de seguridad de la IA que se antepondría a la regulación del Congreso",
+      "resumen": "La semana más intensa de advertencias públicas sobre el riesgo existencial de la IA de 2026 —el ensayo de Amodei, la dimisión de Coxon, las declaraciones de Altman y Musk, la respuesta de Trump desde Dublín— resultó ser ",
+      "enlace": "https://wwwhatsnew.com/2026/09/16/openai-anthropic-google-organismo-seguridad-ia-conversaciones-julio-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-16T18:00:51Z"
+    },
     {
       "titulo": "La industria musical lanza la Streaming Integrity Initiative para combatir el fraude de IA: hasta el 85% de los streams de música generada por IA eran falsos en",
       "resumen": "La cifra que publicó Deezer resume el problema: en junio de 2026, más del 50% de toda la música nueva entregada a la plataforma era íntegramente generada por IA —unos 90.000 tracks al día. Pero esas grabaciones represent",
@@ -240,13 +261,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-tesoro-estadounidense-mensaje-claro-para-paises-g20-regulacion-ia",
       "medio": "Xataka",
       "fecha": "2026-09-04T13:01:37Z"
-    },
-    {
-      "titulo": "El 98% de las empresas españolas ha paralizado sus proyectos de IA por motivos de gobernanza y cumplimiento normativo",
-      "resumen": "8 de cada 10 compañías considera que su arquitectura de datos necesita una revisión profunda para impulsar la inteligencia artificial de forma eficaz L'articolo El 98% de las empresas españolas ha paralizado sus proyecto",
-      "enlace": "https://www.computing.es/informes/en-que-sectores-ha-impactado-mas-la-inteligencia-artificial/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-02T11:39:57Z"
     },
     {
       "titulo": "Europa ha encontrado la fórmula perfecta para regular a ChatGPT con mano dura: tratarlo como un gran buscador",
@@ -338,20 +352,6 @@
       "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
       "medio": "Genbeta",
       "fecha": "2025-12-11T12:32:00Z"
-    },
-    {
-      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
-      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
-      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
-      "medio": "Genbeta",
-      "fecha": "2025-12-03T07:41:00Z"
-    },
-    {
-      "titulo": "Un adolescente creó una imagen de su compañera desnuda usando IA. A sus padres les ha caído una multa de 2.000 euros",
-      "resumen": "En España se ha impuesto por primera vez una sanción administrativa relacionada con la creación y difusión de imágenes falsas generadas con inteligencia artificial. Los padres de un menor deberán pagar a la AEPD una mult",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/adolescente-creo-imagen-su-companera-desnuda-usando-ia-a-sus-padres-les-ha-caido-multa-2-000-euros",
-      "medio": "Genbeta",
-      "fecha": "2025-11-06T16:59:14Z"
     }
   ]
 }
