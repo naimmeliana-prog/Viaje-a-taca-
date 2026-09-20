@@ -1,6 +1,104 @@
 {
-  "actualizado": "2026-09-18T00:57:57Z",
+  "actualizado": "2026-09-20T00:34:12Z",
   "novedades": [
+    {
+      "titulo": "En algunos pueblos de China un médico atiende a más de 2.000 personas. La IA empieza a convertirse en su segunda opinión",
+      "resumen": "Me considero una afortunada: si pido cita para mi médica en mi pueblo, en menos de 48 horas suelo poder acudir a resolver cualquier dolencia. Sé que si la cita es con un especialista la cosa cambia y que en otras localiz",
+      "enlace": "https://www.xataka.com/aplicaciones/algunos-pueblos-china-medico-atiende-a-2-000-personas-ia-empieza-a-convertirse-su-segunda-opinion",
+      "medio": "Xataka",
+      "fecha": "2026-09-19T16:00:12Z"
+    },
+    {
+      "titulo": "La IA no solo genera vídeos sueltos: en China acaba de producir una serie entera",
+      "resumen": "Mientras Hollywood trata de esconder que está usando IA en multitud de películas y el rechazo crece entre los actores, en China se han lanzado a los brazos de la IA generativa y ya tienen la primera serie de televisión d",
+      "enlace": "https://www.xataka.com/cine-y-tv/ia-no-solo-genera-videos-sueltos-china-acaba-producir-serie-entera",
+      "medio": "Xataka",
+      "fecha": "2026-09-19T13:30:12Z"
+    },
+    {
+      "titulo": "El rey Carlos convocó a Jensen Huang, Demis Hassabis y los CEOs de OpenAI y Anthropic en su finca escocesa para pedirles control antes de que sea demasiado tard",
+      "resumen": "La semana más densa en debate sobre el riesgo existencial de la IA desde los primeros días de ChatGPT cerró el jueves 17 de septiembre con una imagen que no habría parecido posible hace dos años: el rey Carlos III de Gra",
+      "enlace": "https://wwwhatsnew.com/2026/09/19/rey-carlos-cumbre-ia-dumfries-house-huang-hassabis-openai-anthropic-control-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-19T06:00:01Z"
+    },
+    {
+      "titulo": "Snap lanza Specs Intelligence, el asistente de IA «anticipatorio» que funciona sin que necesites las gafas de 2.195 dólares",
+      "resumen": "Snap presentó el 16 de septiembre en un evento en Los Ángeles sus nuevas gafas de realidad aumentada Specs —2.195 dólares, ordenador autónomo integrado en el cristal, sin puck externo ni cable— y dejó claro que el produc",
+      "enlace": "https://wwwhatsnew.com/2026/09/19/snap-specs-intelligence-asistente-ia-anticipatorio-gafas-ar-2195-dolares-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-19T02:00:10Z"
+    },
+    {
+      "titulo": "Pinterest lanza Restyle en beta: fotografía tu habitación y deja que la IA la rediseñe antes de comprar nada",
+      "resumen": "Pinterest ha anunciado en su evento anual para anunciantes Pinterest Presents una nueva función llamada Restyle, disponible como beta en EE.UU. y Canadá. El concepto es directo: fotografías tu habitación tal como está y ",
+      "enlace": "https://wwwhatsnew.com/2026/09/18/pinterest-inteligencia-artificial-diseno-hogar-ia-generativa/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-18T20:00:45Z"
+    },
+    {
+      "titulo": "El Consejo de Supervisión de Meta ordena retirar dos deepfakes y llama a sus reglas de IA «fundamentalmente inadecuadas»",
+      "resumen": "El Consejo de Supervisión de Meta publicó el 17 de septiembre dos resoluciones que ordenan a la empresa retirar vídeos de deepfake y que llaman su política de IA generativa «consistente y fundamentalmente inadecuada para",
+      "enlace": "https://wwwhatsnew.com/2026/09/18/consejo-supervision-meta-deepfakes-reglas-inadecuadas-concejala-escocia-campaignera-musulmana-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-18T18:00:42Z"
+    },
+    {
+      "titulo": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
+      "resumen": "A finales de 2023, el New York Times demandó a OpenAI y Microsoft acusándolas de usar sus artículos para entrenar modelos de IA sin haber obtenido autorización y tampoco haberles compensado de ninguna manera. Se acabaron",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mayor-robo-laboral-historia-asi-describian-microsoft-uso-articulos-prensa-para-entrenar-ia-siguieron-haciendolo",
+      "medio": "Xataka",
+      "fecha": "2026-09-18T17:30:12Z"
+    },
+    {
+      "titulo": "Racionalistas, altruistas eficaces y aceleracionistas: las tres tribus que se disputan el alma de la IA en Silicon Valley",
+      "resumen": "Las guerras ideológicas de Silicon Valley ya no se libran en foros, sino con decenas de millones en las elecciones legislativas de Estados Unidos. Un supercomité financiado por Andreessen Horowitz (a16z) y Greg Brockman ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/racionalistas-altruistas-eficaces-aceleracionistas-tres-tribus-que-se-disputan-alma-ia-silicon-valley",
+      "medio": "Xataka",
+      "fecha": "2026-09-18T13:16:11Z"
+    },
+    {
+      "titulo": "Nvidia, Google y Emerald AI forman la AI Energy Management Alliance para que los data centers consuman energía de forma flexible y consigan conexiones a la red ",
+      "resumen": "El martes 16 de septiembre, mientras el debate político sobre los centros de datos de IA dominaba la campaña electoral americana, las empresas responsables de construir esa infraestructura presentaron su respuesta: la AI",
+      "enlace": "https://wwwhatsnew.com/2026/09/18/nvidia-google-emerald-aema-data-centers-flexibles-energia-red-electrica-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-18T12:00:33Z"
+    },
+    {
+      "titulo": "Si los actores tenían miedo de que un IA les reemplazara, la última tecnología de Amazon no les va a gustar demasiado",
+      "resumen": "Amazon es una de las compañías que más están empujando la inteligencia artificial. Si ves competiciones deportivas, te habrás tragado anuncios cada dos por tres sobre AWS y publicidad sobre cómo ciertas estadísticas de e",
+      "enlace": "https://www.xataka.com/cine-y-tv/amazon-lleva-doblaje-al-siguiente-nivel-ia-que-modifica-labios-actores-encajen-otra-voz",
+      "medio": "Xataka",
+      "fecha": "2026-09-18T12:00:00Z"
+    },
+    {
+      "titulo": "Dos estudiantes valencianos crean con IA un \"Tinder\" para los trasplantes de hígado que busca reducir las listas de espera",
+      "resumen": "En la medicina de trasplantes siempre nos enfrentamos al mismo dilema: faltan órganos disponibles mientras que las listas de espera de pacientes no paran de crecer. Durante décadas, la asignación de un hígado ha dependid",
+      "enlace": "https://www.xataka.com/medicina-y-salud/dos-estudiantes-valencianos-crean-ia-tinder-para-trasplantes-higado-que-busca-reducir-listas-espera",
+      "medio": "Xataka",
+      "fecha": "2026-09-18T10:46:10Z"
+    },
+    {
+      "titulo": "Workiva impulsa la gestión regulatoria mediante la innovación en IA",
+      "resumen": "Agent Studio vertebra las nuevas capacidades de IA presentadas en Amplify 2026 Las Vegas L'articolo Workiva impulsa la gestión regulatoria mediante la innovación en IA proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/workiva-impulsa-la-gestion-regulatoria-mediante-la-innovacion-en-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-18T08:54:08Z"
+    },
+    {
+      "titulo": "El segundo mayor bufete del mundo compra sus propios servidores de Nvidia: el inicio de la IA privada en las grandes empresas",
+      "resumen": "Hasta ahora, la respuesta habitual de casi cualquier gran empresa ante la inteligencia artificial era suscribirse a una plataforma en la nube o pagar por consumo de tokens a proveedores externos. Latham &#38; Watkins ha ",
+      "enlace": "https://blogthinkbig.com/ia-privada-empresas-servidores-gpu",
+      "medio": "Think Big",
+      "fecha": "2026-09-18T08:00:00Z"
+    },
+    {
+      "titulo": "Mustafa Suleyman, CEO de Microsoft IA: \"No queremos que la IA tenga derechos, queremos que trabaje para los humanos\"",
+      "resumen": "Podemos construir una inteligencia artificial cada vez más capaz y, al mismo tiempo, decidir que hay cosas que nunca debería poder hacer por su cuenta. Ese es uno de los puntos hacia los que se está desplazando el debate",
+      "enlace": "https://www.xataka.com/robotica-e-ia/no-queremos-que-estas-cosas-operen-forma-autonoma-microsoft-ai-marca-distancias-anthropic-seguridad-ia",
+      "medio": "Xataka",
+      "fecha": "2026-09-18T06:30:00Z"
+    },
     {
       "titulo": "Altman en Dreamforce: «El mundo tiene razón en tener miedo de la IA», y la solución que propone es que confíen en OpenAI",
       "resumen": "Sam Altman intervino el martes 15 de septiembre en Dreamforce —la conferencia anual de Salesforce en San Francisco— en lo que fue su primera aparición pública desde que el debate sobre el riesgo existencial de la IA domi",
@@ -51,11 +149,11 @@
       "fecha": "2026-09-17T10:00:17Z"
     },
     {
-      "titulo": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+      "titulo": "Tras hablar con Trump, la posición de Jensen Huang sobre regular la IA es clarísima: \"No necesitamos nuevas leyes\"",
       "resumen": "Jensen Huang, CEO de Nvidia, acaba de decirle al mundo que la IA no necesita nuevas leyes. Al hablar en la conferencia Dreamforce de Salesforce esta semana, Huang argumentaba que la seguridad es algo que las empresas pue",
       "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
       "medio": "Xataka",
-      "fecha": "2026-09-17T10:00:14Z"
+      "fecha": "2026-09-17T10:00:00Z"
     },
     {
       "titulo": "Adiós al desfase de seis horas: Google DeepMind conecta la IA meteorológica a los satélites en directo",
@@ -72,20 +170,6 @@
       "fecha": "2026-09-17T09:23:15Z"
     },
     {
-      "titulo": "\"El futuro del hogar conectado no es instalar otra app más, es hablarle a tu casa por Telegram\", Noh Beom-jun, directivo de LG",
-      "resumen": "Seamos sinceros: la domótica es un rollo porque se ha convertido en una selva de aplicaciones propietarias y ecosistemas diferentes. Por mucho que haya intentos como Matter, la realidad es que los usuarios nos vemos atra",
-      "enlace": "https://www.xataka.com/entrevistas/futuro-hogar-conectado-no-instalar-otra-app-hablarle-a-tu-casa-telegram-noh-beom-jun-directivo-lg",
-      "medio": "Xataka",
-      "fecha": "2026-09-17T08:30:11Z"
-    },
-    {
-      "titulo": "Apple planea volver al mercado de servidores para IA de la mano de Nvidia y el chip M8 Ultra, según The Information",
-      "resumen": "John Ternus lleva dos semanas en el cargo como nuevo CEO de Apple y, siendo un hombre de hardware, parece que tiene la intención de devolver a Apple a los días en los que estaban en el negocio de los servidores. Con la e",
-      "enlace": "https://www.xataka.com/empresas-y-economia/apple-planea-volver-al-mercado-servidores-para-ia-mano-nvidia-chip-m8-ultra-the-information",
-      "medio": "Xataka",
-      "fecha": "2026-09-17T08:16:11Z"
-    },
-    {
       "titulo": "La primera clínica oftalmológica dirigida por agentes de IA en China acaba de publicar su primer informe real: el reto no era diagnosticar, sino trabajar con mé",
       "resumen": "La publicación científica que acaba de aparecer en Nature Medicine no trata sobre un experimento en laboratorio. Trata sobre lo que pasó cuando investigadores de la Universidad Tsinghua de Pekín desplegaron un sistema de",
       "enlace": "https://wwwhatsnew.com/2026/09/17/china-clinica-oftalmologica-agentes-ia-nature-medicine-tsinghua-2026/",
@@ -98,13 +182,6 @@
       "enlace": "https://wwwhatsnew.com/2026/09/17/aepd-primer-ataque-autonomo-agente-ia-espana-datos-personales-facturas-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-16T22:00:00Z"
-    },
-    {
-      "titulo": "OpenAI, Anthropic y Google llevan desde julio negociando en secreto un organismo de seguridad de la IA que se antepondría a la regulación del Congreso",
-      "resumen": "La semana más intensa de advertencias públicas sobre el riesgo existencial de la IA de 2026 —el ensayo de Amodei, la dimisión de Coxon, las declaraciones de Altman y Musk, la respuesta de Trump desde Dublín— resultó ser ",
-      "enlace": "https://wwwhatsnew.com/2026/09/16/openai-anthropic-google-organismo-seguridad-ia-conversaciones-julio-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-16T18:00:51Z"
     },
     {
       "titulo": "Por fin el iPhone tiene una app decente para generar imágenes realistas. Llega con iOS 27",
@@ -128,97 +205,34 @@
       "fecha": "2026-09-16T16:29:56Z"
     },
     {
-      "titulo": "Mark Zuckerberg lo tiene claro: \"Cualquier laboratorio de IA que no se enfoque en la alineación se quedará atrás\"",
-      "resumen": "Las empresas de IA están \"jugando con nuestras vidas\". Es lo que dijo Jacob Coxon, exingeniero de Anthropic justo después de abandonar la compañía. Lo que le siguió fue un terremoto que ha puesto patas arriba la industri",
-      "enlace": "https://www.xataka.com/robotica-e-ia/para-zuckerberg-seguridad-ia-no-freno-argumento-venta-anthropic-openai",
-      "medio": "Xataka",
-      "fecha": "2026-09-16T15:00:00Z"
-    },
-    {
-      "titulo": "Uno de los creadores de ChatGPT ha creado una IA 400 veces más barata que el resto. Su secreto: no generar texto",
-      "resumen": "Diogo Almeida no es un emprendedor de IA cualquiera. Trabajó en OpenAI y fue uno de los autores de InstructGPT, el estudio sobre aprendizaje por refuerzo a partir de retroalimentación humana (RLHF) que sentó parte de las",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
-      "medio": "Xataka",
-      "fecha": "2026-09-16T14:15:00Z"
-    },
-    {
-      "titulo": "Sam Altman quiere que te fíes de él: \"El mundo debería confiar en que vamos a hacer lo correcto porque es lo correcto\"",
-      "resumen": "Sam Altman, el CEO de OpenAI, ha hecho una declaración llamativa: \"el mundo tiene razón al tener miedo de esto\". Se refiere, cómo no, a la amenaza que plantea la IA y que hizo que su rival empresarial, Dario Amodei, dije",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mundo-tiene-razon-al-tener-miedo-ia-solucion-sam-altman-que-confiemos-quienes-estan-construyendo",
-      "medio": "Xataka",
-      "fecha": "2026-09-16T12:45:00Z"
-    },
-    {
       "titulo": "Salesforce inaugura Dreamforce con el lanzamiento de AIforce y el modelo de CRM Koa",
       "resumen": "El modelo se ha entrenado con los 27 años de experiencia de Salesforce en CRM para ayudar a los agentes de IA a comprender y resolver tareas empresariales complejas que requieren varios pasos L'articolo Salesforce inaugu",
       "enlace": "https://www.computing.es/noticias/salesforce-inaugura-dreamforce-con-el-lanzamiento-de-aiforce-y-el-modelo-de-crm-koa/",
       "medio": "Computing.es",
       "fecha": "2026-09-16T12:07:29Z"
-    },
-    {
-      "titulo": "Meta lanza Meta One globalmente: suscripciones de 2,99 a 499 dólares al mes con 15 millones de usuarios ya captados en los primeros tests",
-      "resumen": "Meta convirtió este 15 de septiembre en el lanzamiento global oficial de Meta One, su sistema de suscripciones que combina acceso a funciones de IA con planes premium para Instagram, Facebook y WhatsApp. La empresa llegó",
-      "enlace": "https://wwwhatsnew.com/2026/09/16/meta-one-lanzamiento-global-suscripciones-2-99-499-meta-ai-premium-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-16T12:00:43Z"
-    },
-    {
-      "titulo": "¿Está preparada la ciberseguridad para una IA que elige cómo actuar?",
-      "resumen": "La pregunta relevante ya no es únicamente si un modelo hará lo que le pedimos, sino qué caminos estará dispuesto a recorrer para conseguirlo L'articolo ¿Está preparada la ciberseguridad para una IA que elige cómo actuar?",
-      "enlace": "https://www.computing.es/inteligencia-artificial/esta-preparada-la-ciberseguridad-para-una-ia-que-elige-como-actuar/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-16T12:00:24Z"
-    },
-    {
-      "titulo": "La Agencia de Protección de Datos ha descubierto el primer ciberataque realizado por un agente IA en España",
-      "resumen": "La Agencia Española de Protección de Datos (AEPD) ha recibido por primera vez la notificación de una brecha de datos personales en la que un tercero habría usado un agente de IA para ejecutar y controlar distintas fases ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
-      "medio": "Xataka",
-      "fecha": "2026-09-16T10:45:00Z"
-    },
-    {
-      "titulo": "Más de 1600 CIOs y directores de IT exigen un uso responsable de la IA ante el aumento de alertas sobre sus riesgos",
-      "resumen": "La iniciativa llega en un momento de creciente preocupación dentro de la propia industria de la IA, tras las recientes salidas de investigadores de compañías como Anthropic y Google DeepMind por sus advertencias sobre lo",
-      "enlace": "https://www.computing.es/noticias/mas-de-1600-cios-y-directores-de-it-exigen-un-uso-responsable-de-la-ia-ante-el-aumento-de-alertas-sobre-sus-riesgos/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-16T10:38:30Z"
-    },
-    {
-      "titulo": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo",
-      "resumen": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo #SOCIAL_BUTTONS# \"It's Kimi\", nos dijo la guía de la F1 que nos estaba enseñando las bambalinas del ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
-      "medio": "Xataka",
-      "fecha": "2026-09-16T10:07:15Z"
-    },
-    {
-      "titulo": "Lagarde avisa: el 75% del cómputo de IA mundial está en EE.UU. y el 5% en Europa. Si no construimos infraestructura propia, alguien puede cortarnos el acceso",
-      "resumen": "Christine Lagarde, presidenta del Banco Central Europeo, pronunció el 14 de septiembre en Viena el discurso más concreto que un alto funcionario europeo ha dado sobre los riesgos de dependencia en IA. El título: «Una nue",
-      "enlace": "https://wwwhatsnew.com/2026/09/16/lagarde-bce-europa-ia-soberana-75-por-ciento-eeuu-5-por-ciento-europa-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-16T10:00:41Z"
-    },
-    {
-      "titulo": "La inversión en IA entra en una nueva fase centrada en la financiación y la capacidad de la infraestructura",
-      "resumen": "Los resultados de NVIDIA revelan que la demanda de capacidad de cómputo se diversifica más allá de las grandes tecnológicas, abarcando empresas, gobiernos y proyectos nacionales L'articolo La inversión en IA entra en una",
-      "enlace": "https://www.computing.es/informes/la-inversion-en-ia-entra-en-una-nueva-fase-centrada-en-la-financiacion-y-la-capacidad-de-la-infraestructura/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-16T08:21:59Z"
-    },
-    {
-      "titulo": "OpenAI llevará sus data centers a Canadá porque tiene energía y terreno. El ex-canciller Osborne lo dijo en Toronto; en el Reino Unido lo explicó más alto que n",
-      "resumen": "George Osborne, ex-canciller del Tesoro británico y hoy jefe de países de OpenAI, habló el 14 y 15 de septiembre en el summit de inversión de Mark Carney en Toronto. El message fue simple: Canadá tiene la energía y el te",
-      "enlace": "https://wwwhatsnew.com/2026/09/16/openai-canada-data-centers-osborne-toronto-stargate-uk-pausado-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-16T08:00:50Z"
     }
   ],
   "etica": [
     {
-      "titulo": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+      "titulo": "El Consejo de Supervisión de Meta ordena retirar dos deepfakes y llama a sus reglas de IA «fundamentalmente inadecuadas»",
+      "resumen": "El Consejo de Supervisión de Meta publicó el 17 de septiembre dos resoluciones que ordenan a la empresa retirar vídeos de deepfake y que llaman su política de IA generativa «consistente y fundamentalmente inadecuada para",
+      "enlace": "https://wwwhatsnew.com/2026/09/18/consejo-supervision-meta-deepfakes-reglas-inadecuadas-concejala-escocia-campaignera-musulmana-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-09-18T18:00:42Z"
+    },
+    {
+      "titulo": "Workiva impulsa la gestión regulatoria mediante la innovación en IA",
+      "resumen": "Agent Studio vertebra las nuevas capacidades de IA presentadas en Amplify 2026 Las Vegas L'articolo Workiva impulsa la gestión regulatoria mediante la innovación en IA proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/workiva-impulsa-la-gestion-regulatoria-mediante-la-innovacion-en-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-18T08:54:08Z"
+    },
+    {
+      "titulo": "Tras hablar con Trump, la posición de Jensen Huang sobre regular la IA es clarísima: \"No necesitamos nuevas leyes\"",
       "resumen": "Jensen Huang, CEO de Nvidia, acaba de decirle al mundo que la IA no necesita nuevas leyes. Al hablar en la conferencia Dreamforce de Salesforce esta semana, Huang argumentaba que la seguridad es algo que las empresas pue",
       "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
       "medio": "Xataka",
-      "fecha": "2026-09-17T10:00:14Z"
+      "fecha": "2026-09-17T10:00:00Z"
     },
     {
       "titulo": "La AEPD notifica el primer ciberataque ejecutado de forma autónoma por un agente de IA en España: accedió a datos personales y facturas sin intervención humana",
@@ -226,20 +240,6 @@
       "enlace": "https://wwwhatsnew.com/2026/09/17/aepd-primer-ataque-autonomo-agente-ia-espana-datos-personales-facturas-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-16T22:00:00Z"
-    },
-    {
-      "titulo": "OpenAI, Anthropic y Google llevan desde julio negociando en secreto un organismo de seguridad de la IA que se antepondría a la regulación del Congreso",
-      "resumen": "La semana más intensa de advertencias públicas sobre el riesgo existencial de la IA de 2026 —el ensayo de Amodei, la dimisión de Coxon, las declaraciones de Altman y Musk, la respuesta de Trump desde Dublín— resultó ser ",
-      "enlace": "https://wwwhatsnew.com/2026/09/16/openai-anthropic-google-organismo-seguridad-ia-conversaciones-julio-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-16T18:00:51Z"
-    },
-    {
-      "titulo": "La industria musical lanza la Streaming Integrity Initiative para combatir el fraude de IA: hasta el 85% de los streams de música generada por IA eran falsos en",
-      "resumen": "La cifra que publicó Deezer resume el problema: en junio de 2026, más del 50% de toda la música nueva entregada a la plataforma era íntegramente generada por IA —unos 90.000 tracks al día. Pero esas grabaciones represent",
-      "enlace": "https://wwwhatsnew.com/2026/09/15/ifpi-streaming-integrity-initiative-fraude-musica-ia-85-porciento-falsos-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-15T20:00:52Z"
     },
     {
       "titulo": "OpenAI y Anthropic están intentando hacer con la IA lo que Rockefeller hizo con el petróleo",

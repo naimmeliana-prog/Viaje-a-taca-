@@ -16600,7 +16600,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite 100 notificaciones mensuales con funcionalidades básicas de personalización.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Axari",
@@ -16713,7 +16713,7 @@
     "fecha_agregado": "2026-09-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "tiun.",
@@ -16888,7 +16888,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece el stack para autoalojarlo en Kubernetes, aunque el soporte o la versión gestionada pueden requerir pago.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Text Agent Store",
@@ -16909,7 +16909,7 @@
       "Variedad de casos de uso"
     ],
     "etica": "Los agentes pueden producir respuestas sesgadas o inexactas, por lo que el marketplace debe indicar límites, fuentes y permisos de datos. También debe proteger la privacidad de las conversaciones y evitar usos engañosos.",
-    "web": "https://www.producthunt.com/products/text-agent-store",
+    "web": "https://aiagentstore.ai",
     "tipo": "Agentes IA",
     "compania": "Text Agent Store",
     "id": "text-agent-store-7aeddc",
@@ -16919,7 +16919,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Permite explorar y probar agentes de texto con límites de uso o créditos, mientras que agentes premium requieren pago.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Bitrise Remote Dev Environments",
@@ -16940,7 +16940,7 @@
       "Enfoque en construcción de software"
     ],
     "etica": "Al ejecutar código y secretos en la nube, debe proteger credenciales, dependencias y datos de clientes. También debe limitar el acceso y auditar las acciones de los agentes para evitar fugas o abusos.",
-    "web": "https://www.producthunt.com/products/bitrise",
+    "web": "https://bitrise.io",
     "tipo": "Entornos de desarrollo en la nube",
     "compania": "Bitrise",
     "id": "bitrise-remote-dev-environments-998194",
@@ -16950,7 +16950,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Higgsfield API",
@@ -16971,7 +16971,7 @@
       "Posible facturación por consumo"
     ],
     "etica": "La generación de medios puede crear contenido sintético, por lo que debe marcarlo y respetar derechos de autor. También debe minimizar datos personales y evitar usos para desinformación o deepfakes.",
-    "web": "https://www.producthunt.com/products/higgsfield",
+    "web": "https://higgsfield.ai",
     "tipo": "Generación de medios",
     "compania": "Higgsfield",
     "id": "higgsfield-api-fd9ba9",
@@ -16981,7 +16981,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Portal",
@@ -17002,7 +17002,7 @@
       "Uso rápido y flexible"
     ],
     "etica": "Al permitir probar productos sin setup, debe proteger datos de prueba y evitar recopilar información innecesaria. También debe mostrar claramente qué productos se prueban y evitar decisiones sesgadas por falta de contexto.",
-    "web": "https://www.producthunt.com/products/portal-14",
+    "web": "https://portal.ai",
     "tipo": "Productividad",
     "compania": "Portal",
     "id": "portal-3e9b3a",
@@ -17012,6 +17012,130 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Permite probar productos con límites de tiempo o funcionalidad, mientras que accesos avanzados o ilimitados pueden requerir pago.",
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Bolt Forge",
+    "descripcion": "Agente de desarrollo web que utiliza modelos open-source con límites de uso 50x superiores para generar, depurar y desplegar aplicaciones completas desde el navegador.",
+    "compania": "Bolt (StackBlitz)",
+    "tipo": "Agentes IA / Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de código full-stack",
+      "Scaffolding de proyectos",
+      "Depuración automática",
+      "Despliegue integrado",
+      "Selección de modelos open-source"
+    ],
+    "caracteristicas": [
+      "Modelos open-source (Llama, DeepSeek, etc.)",
+      "Límites de uso 50x más altos",
+      "IDE integrado en el navegador",
+      "Vista previa en tiempo real",
+      "Flujos de trabajo agenticos multi-paso"
+    ],
+    "etica": "Prioriza privacidad con opción de procesamiento local; la transparencia de modelos open-source reduce riesgos de sesgos ocultos y vendor lock-in.",
+    "limite_gratis": "Plan gratuito generoso con acceso a modelos open-source y límites de uso muy altos (50x) para desarrollo personal y prototipado.",
+    "web": "https://bolt.new",
+    "id": "bolt-forge-527cb6",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "BiBimba",
+    "descripcion": "Historial de portapapeles avanzado con OCR que extrae y hace buscable el texto capturado en capturas de pantalla.",
+    "compania": "BiBimba",
+    "tipo": "Productividad / Gestor de portapapeles",
+    "precio": "Freemium",
+    "funciones": [
+      "Historial ilimitado de portapapeles",
+      "OCR en capturas de pantalla",
+      "Búsqueda full-text en historial",
+      "Sincronización entre dispositivos",
+      "Accesos rápidos por teclado"
+    ],
+    "caracteristicas": [
+      "OCR local para screenshots",
+      "Interfaz en barra de menú (macOS)",
+      "Filtrado por tipo de contenido",
+      "Privacidad: sin subida a la nube",
+      "Soporte para imágenes, código, URLs"
+    ],
+    "etica": "Procesamiento 100% local del OCR e historial; ningún dato del portapapeles sale del dispositivo sin consentimiento explícito.",
+    "limite_gratis": "Historial básico ilimitado con OCR limitado a ~50 capturas/mes; sincronización y búsqueda avanzada requieren suscripción.",
+    "web": "https://bibimba.mamama.company/",
+    "id": "bibimba-bd253e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Doneit 3.2",
+    "descripcion": "Gestor de tareas reinventado con asistente de IA nativo y soporte para Siri/Inteligencia de Apple para control por voz y planificación automática.",
+    "compania": "Doneit",
+    "tipo": "Productividad / Gestión de tareas con IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de tareas por lenguaje natural",
+      "Planificación asistida por IA",
+      "Comandos de voz vía Siri/Shortcuts",
+      "Recordatorios contextuales",
+      "Organización de proyectos y áreas"
+    ],
+    "caracteristicas": [
+      "Asistente IA 'Doneit Assist' rediseñado",
+      "Integración profunda con Siri y Apple Intelligence",
+      "Entrada en lenguaje natural",
+      "Sincronización iCloud/Multi-dispositivo",
+      "Modos de foco y vistas personalizables"
+    ],
+    "etica": "Procesamiento de voz en dispositivo (Apple Intelligence); el usuario controla qué datos comparte con la IA y puede desactivar sugerencias automáticas.",
+    "limite_gratis": "Gestión de tareas ilimitada con ~20 asistencias de IA/mes; integración Siri básica; funciones Pro (IA ilimitada, automatizaciones) requieren suscripción.",
+    "web": "https://www.producthunt.com/products/doneit",
+    "id": "doneit-3-2-61f056",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "VoiceCap",
+    "descripcion": "Notetaker de IA para reuniones que transcribe, resume y extrae acciones en tu idioma nativo con soporte multi-idioma en tiempo real.",
+    "compania": "VoiceCap",
+    "tipo": "Productividad / Asistente de reuniones / Speech-to-Text",
+    "precio": "Freemium",
+    "funciones": [
+      "Transcripción en tiempo real multi-idioma",
+      "Resúmenes automáticos con puntos clave",
+      "Extracción de tareas y decisiones",
+      "Identificación de hablantes",
+      "Exportación e integración (Notion, Drive, etc.)"
+    ],
+    "caracteristicas": [
+      "Soporte para 50+ idiomas y acentos",
+      "Resúmenes estructurados por temas",
+      "Integración con Zoom/Meet/Teams",
+      "Búsqueda semántica en transcripciones",
+      "Cifrado de extremo a extremo opcional"
+    ],
+    "etica": "Cifrado de grabaciones; consentimiento explícito de participantes; controles de retención/borrado de datos; mitigación de sesgos en reconocimiento de voz no nativo.",
+    "limite_gratis": "Hasta 300 min/mes de transcripción con resúmenes básicos; idiomas ilimitados; funciones avanzadas (integraciones, búsqueda semántica, exportación) en plan Pro.",
+    "web": "https://voicecap.ai",
+    "id": "voicecap-14b5a6",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]
