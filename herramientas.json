@@ -2305,7 +2305,7 @@
     "tipo": "Generación de vídeo",
     "precio": "Pago",
     "descripcion": "Un modelo de IA de ByteDance que establece un nuevo estándar en la generación de vídeo, superando la limitación de los 30 segundos de duración.",
-    "web": "https://seedance.io",
+    "web": "https://seed.bytedance.com/en/seedance2_5",
     "funciones": [
       "Generación de vídeos a partir de texto o imágenes",
       "Creación de contenido de vídeo de larga duración (más de 30 segundos)",
@@ -16600,7 +16600,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite 100 notificaciones mensuales con funcionalidades básicas de personalización.",
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Axari",
@@ -16713,7 +16713,7 @@
     "fecha_agregado": "2026-09-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "tiun.",
@@ -16888,7 +16888,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece el stack para autoalojarlo en Kubernetes, aunque el soporte o la versión gestionada pueden requerir pago.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Text Agent Store",
@@ -17098,14 +17098,14 @@
     ],
     "etica": "Procesamiento de voz en dispositivo (Apple Intelligence); el usuario controla qué datos comparte con la IA y puede desactivar sugerencias automáticas.",
     "limite_gratis": "Gestión de tareas ilimitada con ~20 asistencias de IA/mes; integración Siri básica; funciones Pro (IA ilimitada, automatizaciones) requieren suscripción.",
-    "web": "https://www.producthunt.com/products/doneit",
+    "web": "https://www.designtech.so/doneit",
     "id": "doneit-3-2-61f056",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "VoiceCap",
@@ -17134,6 +17134,290 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Muse",
+    "compania": "Meta",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Gratuito",
+    "descripcion": "Asistente de IA de Meta diseñado para ofrecer ayuda contextual y personalizada en diferentes plataformas y dispositivos. Busca funcionar como un copiloto conversacional integrado en servicios de comunicación y productividad.",
+    "web": "https://meta.ai",
+    "funciones": [
+      "Responder preguntas con contexto del usuario",
+      "Redactar mensajes, resúmenes y contenido",
+      "Asistir en tareas dentro de apps de Meta",
+      "Ofrecer recomendaciones personalizadas según la conversación"
+    ],
+    "etica": "Al depender del contexto personal y de las conversaciones, debe gestionar con cuidado los datos sensibles. Como cualquier asistente generalista, puede cometer errores o reflejar sesgos presentes en sus datos de entrenamiento.",
+    "caracteristicas": [
+      "Integración con ecosistema Meta",
+      "Asistencia contextual y conversacional",
+      "Acceso desde dispositivos compatibles",
+      "Soporte para múltiples idiomas"
+    ],
+    "limite_gratis": "El acceso gratuito depende de tener una cuenta de Meta y de que el servicio esté disponible en la plataforma y región correspondiente.",
+    "id": "muse-e3ff49",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Strands Harness",
+    "compania": "Amazon Web Services (AWS)",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Marco de trabajo de código abierto de AWS para construir agentes de IA, especialmente útiles en tareas de programación y automatización. Optimiza el uso de tokens para reducir costes manteniendo una precisión comparable.",
+    "web": "https://aws.amazon.com/strands/",
+    "funciones": [
+      "Orquestar agentes de IA en flujos de trabajo",
+      "Gestionar herramientas y llamadas a APIs",
+      "Automatizar tareas de código y desarrollo",
+      "Reducir el coste de inferencia en agentes"
+    ],
+    "etica": "Al permitir que los agentes ejecuten tareas de código o acceso a sistemas, es importante limitar permisos y auditar acciones. Un uso descuidado puede generar errores, fugas de datos o automatizaciones no supervisadas.",
+    "caracteristicas": [
+      "Código abierto",
+      "Diseñado por AWS para agentes",
+      "Optimización de costes de tokens",
+      "Integración con entornos de desarrollo"
+    ],
+    "limite_gratis": "Al ser un marco de código abierto, su uso base es gratuito y sin suscripción obligatoria.",
+    "id": "strands-harness-2c87d5",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Milliseconds.ai",
+    "compania": "Milliseconds",
+    "tipo": "API de IA",
+    "precio": "Freemium",
+    "descripcion": "Proporciona decisiones rápidas de IA en texto e imágenes mediante una única API. Está orientado a aplicaciones que necesitan procesamiento multimodal en tiempo real.",
+    "web": "https://milliseconds.ai",
+    "funciones": [
+      "Analizar texto e imágenes",
+      "Clasificar contenido automáticamente",
+      "Extraer información estructurada",
+      "Integrar decisiones de IA en aplicaciones"
+    ],
+    "etica": "Las decisiones automáticas pueden afectar a usuarios si se usan en moderación, filtrado o evaluación, por lo que conviene incluir revisión humana. También debe vigilarse el sesgo en las respuestas y el tratamiento de imágenes sensibles.",
+    "caracteristicas": [
+      "API unificada para texto e imágenes",
+      "Baja latencia",
+      "Procesamiento en tiempo real",
+      "Salidas estructuradas"
+    ],
+    "limite_gratis": "El plan gratuito suele estar limitado a un volumen bajo de solicitudes o créditos para pruebas.",
+    "id": "milliseconds-ai-bbcc1b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Qwen-Image-2.1",
+    "compania": "Alibaba Cloud / Qwen",
+    "tipo": "Generación de imagen",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de difusión transformador de 7 mil millones de parámetros de código abierto para generación de imágenes a partir de texto. También permite edición basada en múltiples referencias y manipulación visual más controlada.",
+    "web": "https://qwen.aliyun.com",
+    "funciones": [
+      "Generar imágenes a partir de descripciones textuales",
+      "Editar imágenes usando referencias múltiples",
+      "Aplicar estilos visuales específicos",
+      "Crear variantes de una imagen base"
+    ],
+    "etica": "La generación de imágenes puede plantear problemas de derechos de autor, estilos imitativos o uso no consentido de identidades. Conviene marcar contenido generado y evitar usos engañosos o deepfake.",
+    "caracteristicas": [
+      "Modelo abierto",
+      "Arquitectura de difusión transformadora",
+      "7 mil millones de parámetros",
+      "Soporte para edición por referencias"
+    ],
+    "limite_gratis": "El acceso abierto permite probarlo y desplegarlo libremente según los términos de su licencia.",
+    "id": "qwen-image-2-1-282f84",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Dramagic",
+    "compania": "Dramagic",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de IA de extremo a extremo que genera dramas cortos automáticamente desde un guion hasta una vista previa de vídeo. Automatiza partes del flujo audiovisual como escenas, narrativa visual y preparación de la producción.",
+    "web": "https://www.bytedance.com/en/dramatic",
+    "funciones": [
+      "Convertir guiones en escenas de vídeo",
+      "Generar narrativa visual para cortos",
+      "Crear vistas previas automáticas",
+      "Apoyar la producción de contenido dramático"
+    ],
+    "etica": "La generación de escenas con personas, voces o historias puede afectar a derechos de imagen, propiedad intelectual y veracidad. Los usuarios deben revisar el contenido generado y evitar usos que suplanten identidades o engañen al público.",
+    "caracteristicas": [
+      "Flujo de trabajo completo desde guion a vídeo",
+      "Generación automatizada de escenas",
+      "Orientado a dramas cortos",
+      "Vista previa antes de exportación final"
+    ],
+    "limite_gratis": "El plan gratuito normalmente limita la cantidad de vídeos, la duración, la resolución o incluye marca de agua.",
+    "id": "dramagic-357107",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Step 5 Preview",
+    "compania": "Step-AGI",
+    "tipo": "Modelo de lenguaje",
+    "precio": "Gratuito",
+    "descripcion": "Modelo tipo sparse Mixture-of-Experts con 600 mil millones de parámetros totales y 27 mil millones activos por token. Incluye una ventana de contexto muy amplia, indicada como cercana a 1 millón de tokens, para tareas complejas y documentos extensos.",
+    "web": "https://stepfun.com/step5",
+    "funciones": [
+      "Responder preguntas sobre documentos largos",
+      "Ayudar en programación y depuración",
+      "Razonar sobre tareas complejas",
+      "Procesar grandes volúmenes de contexto"
+    ],
+    "etica": "Su gran capacidad de contexto puede implicar el procesamiento de datos confidenciales, por lo que debe usarse con controles de privacidad. Como modelo generativo, también puede alucinar o producir código incorrecto que requiere validación humana.",
+    "caracteristicas": [
+      "Arquitectura sparse Mixture-of-Experts",
+      "600 mil millones de parámetros totales",
+      "27 mil millones de parámetros activos por token",
+      "Ventana de contexto de hasta 1 millón de tokens"
+    ],
+    "limite_gratis": "Al tratarse de un modelo de acceso abierto, no hay una suscripción obligatoria para usar sus pesos según la licencia aplicable.",
+    "id": "step-5-preview-21920a",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Superset Mobile",
+    "descripcion": "Lleva agentes de programación al móvil para que los desarrolladores puedan gestionar tareas de código desde cualquier lugar. Está pensado para usuarios que quieren revisar, planificar o ejecutar pequeñas tareas de software en movimiento.",
+    "compania": "Superset",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Revisar código desde el móvil",
+      "Generar o modificar snippets de programación",
+      "Planificar tareas de desarrollo",
+      "Recibir avances o notificaciones de agentes de código"
+    ],
+    "caracteristicas": [
+      "Acceso móvil para desarrolladores",
+      "Agentes de programación",
+      "Interfaz pensada para movilidad",
+      "Integración con flujos de trabajo de código"
+    ],
+    "etica": "El acceso móvil a repositorios y herramientas de desarrollo aumenta el riesgo si el dispositivo está desprotegido. Los agentes de código deben operar con permisos limitados y cambios revisados por una persona.",
+    "limite_gratis": "El plan gratuito suele limitar el número de agentes, solicitudes, repositorios o funciones avanzadas.",
+    "web": "https://www.producthunt.com/products/superset-5",
+    "id": "superset-mobile-f13d85",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Jevtown",
+    "descripcion": "Plataforma que permite recibir reacciones de miles de lectores de IA antes de publicar una publicación. Simula una audiencia amplia para evaluar tono, claridad, impacto y posibles puntos débiles de un contenido.",
+    "compania": "Jev",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Simular opiniones de miles de lectores",
+      "Evaluar publicaciones antes de publicarlas",
+      "Analizar tono, claridad y recepción esperada",
+      "Detectar posibles problemas de comunicación"
+    ],
+    "caracteristicas": [
+      "Prueba previa a la publicación",
+      "Simulación de audiencia masiva",
+      "Feedback estructurado",
+      "Orientado a creadores y comunicadores"
+    ],
+    "etica": "Los lectores simulados no sustituyen a una audiencia real y pueden reforzar sesgos o respuestas artificialmente homogéneas. También debe evitarse usar estas simulaciones para manipular percepciones públicas sin transparencia.",
+    "limite_gratis": "El plan gratuito normalmente limita cuántas publicaciones pueden analizarse o cuántos lectores simulados se usan por análisis.",
+    "web": "https://github.com/gaborishka/jevtown",
+    "id": "jevtown-834062",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Jev",
+    "descripcion": "Plataforma que permite recibir reacciones de miles de lectores de IA antes de publicar una publicación. Simula una audiencia amplia para evaluar tono, claridad, impacto y posibles puntos débiles de un contenido.",
+    "compania": "Jev",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Simular opiniones de miles de lectores",
+      "Evaluar publicaciones antes de publicarlas",
+      "Analizar tono, claridad y recepción esperada",
+      "Detectar posibles problemas de comunicación"
+    ],
+    "caracteristicas": [
+      "Prueba previa a la publicación",
+      "Simulación de audiencia masiva",
+      "Feedback estructurado",
+      "Orientado a creadores y comunicadores"
+    ],
+    "etica": "Los lectores simulados no sustituyen a una audiencia real y pueden reforzar sesgos o respuestas artificialmente homogéneas. También debe evitarse usar estas simulaciones para manipular percepciones públicas sin transparencia.",
+    "limite_gratis": "El plan gratuito normalmente limita cuántas publicaciones pueden analizarse o cuántos lectores simulados se usan por análisis.",
+    "web": "https://www.jevai.org/",
+    "id": "jev-ffce94",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Sai",
+    "descripcion": "Plataforma de agentes autónomos que permite dirigir una flota de computadoras o agentes para ejecutar tareas digitales. Está orientada a automatizaciones complejas que requieren planificación, ejecución y seguimiento.",
+    "compania": "Sai",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Controlar agentes autónomos",
+      "Ejecutar tareas en entornos digitales",
+      "Orquestar múltiples agentes en paralelo",
+      "Automatizar flujos de trabajo repetitivos"
+    ],
+    "caracteristicas": [
+      "Flota de agentes autónomos",
+      "Automatización de tareas digitales",
+      "Ejecución supervisada o semiautónoma",
+      "Enfoque en productividad y operaciones"
+    ],
+    "etica": "La autonomía en entornos digitales exige controles estrictos de permisos, seguridad y trazabilidad. Un mal diseño puede provocar acciones incorrectas, exposición de datos o impactos operativos difíciles de revertir.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://www.sai.work/",
+    "id": "sai-76d15f",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-22",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

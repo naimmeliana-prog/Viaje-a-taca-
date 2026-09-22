@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-09-20T00:34:12Z",
+  "actualizado": "2026-09-22T01:24:47Z",
   "novedades": [
+    {
+      "titulo": "El Gobierno de España presenta su gran plan para la IA: gigafactorías, un gran \"contrato social\" e insertarla en Mi Carpeta Ciudadana",
+      "resumen": "España quiere ganar peso en una carrera de inteligencia artificial que ya no se limita a desarrollar mejores modelos o levantar grandes centros de datos. El Gobierno acaba de presentar IA360, una hoja de ruta con la que ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gran-plan-espanol-para-ia-no-va-solo-superordenadores-tambien-quiere-poner-asistente-tu-carpeta-ciudadana",
+      "medio": "Xataka",
+      "fecha": "2026-09-21T16:29:00Z"
+    },
+    {
+      "titulo": "Lin Tsung-chi fundó una empresa de herrajes para muebles. Entonces llegó la IA y se convirtió en el hombre más rico de Taiwán",
+      "resumen": "Cuando se habla del dinero que está generando la IA, habitualmente surgen los mismos nombres: Nvidia, OpenAI, Anthropic y sus nuevos fundadores milmillonarios. Sin embargo, al hablar de los enormes beneficios de la IA na",
+      "enlace": "https://www.xataka.com/empresas-y-economia/como-llovieran-lingotes-oro-cielo-ia-esta-generando-millonarios-lugar-inesperado",
+      "medio": "Xataka",
+      "fecha": "2026-09-21T12:45:00Z"
+    },
+    {
+      "titulo": "En China, la IA está causando una revolución en el mercado de trabajo: siete millones de \"empresas de una sola persona\"",
+      "resumen": "China registró más de siete millones de nuevas empresa de una sola persona en 2025, lo que supone cerca del 42% más que el año anterior. Hay que dejar claro que no todas son startups tecnológicas y tampoco todas usan IA,",
+      "enlace": "https://www.xataka.com/robotica-e-ia/presion-laboral-era-abrumadora-ahora-estoy-mejor-ia-esta-ayudando-a-jovenes-chinos-a-emprender-solos",
+      "medio": "Xataka",
+      "fecha": "2026-09-21T12:15:00Z"
+    },
+    {
+      "titulo": "Una IA descifra un mensaje militar de 1918, pero el verdadero mérito no está en resolver el código",
+      "resumen": "Un modelo de lenguaje avanzado acaba de descifrar una transmisión de radio de la Primera Guerra Mundial que llevaba más de un siglo sin resolverse. El texto original formaba parte de una serie de mensajes [&#8230;] Una I",
+      "enlace": "https://blogthinkbig.com/ia-descifra-mensaje-primera-guerra-mundial",
+      "medio": "Think Big",
+      "fecha": "2026-09-21T09:52:58Z"
+    },
+    {
+      "titulo": "Vibe coding: qué gana y qué arriesga una empresa al programar con IA",
+      "resumen": "Programar ha dejado de requerir saber programar, y eso cambia quién construye tecnología dentro de una empresa, no solo cómo se construye. Hoy basta con describir una aplicación en lenguaje natural para verla funcionando",
+      "enlace": "https://blogthinkbig.com/vibe-coding-que-gana-y-que-arriesga-una-empresa-al-programar-con-ia",
+      "medio": "Think Big",
+      "fecha": "2026-09-21T08:30:40Z"
+    },
+    {
+      "titulo": "Guía completa sobre Shadow AI: qué es la IA en la sombra, peligros ocultos y cómo proteger a tu organización",
+      "resumen": "Shadow AI es de forma sencilla cuando un profesional recurre por su cuenta a herramientas de inteligencia artificial para agilizar sus tareas cotidianas sin el conocimiento ni el consentimiento de su empresa L'articolo G",
+      "enlace": "https://www.computing.es/inteligencia-artificial/guia-completa-sobre-shadow-ai-que-es-la-ia-en-la-sombra-peligros-ocultos-y-como-proteger-a-tu-organizacion/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-21T08:01:16Z"
+    },
+    {
+      "titulo": "20 años anticipando el Apocalipsis: todas las veces que alguien ha dicho que la IA nos iba a matar a todos",
+      "resumen": "\"Urge regular la inteligencia artificial antes de que se convierta en un peligro para la humanidad\". Podría ser una frase extraída de la carta que Dario Amodei publicó hace unos días, pero no. Lo dijo Elon Musk en 2017, ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/20-anos-anticipando-apocalipsis-todas-veces-que-alguien-ha-dicho-que-ia-nos-iba-a-matar-a-todos",
+      "medio": "Xataka",
+      "fecha": "2026-09-20T17:00:12Z"
+    },
+    {
+      "titulo": "Google ya permite a cualquier agente de IA que controle tu casa: así funciona Home MCP",
+      "resumen": "Si quieres entregarle las llaves de tu hogar a los agentes de IA de Google, ahora puedes. Y es que la compañía ha habilitado una integración MCP para cualquier agente de IA, haciendo que Claude, Google Antigravity, Herme",
+      "enlace": "https://www.xataka.com/robotica-e-ia/google-permite-a-cualquier-agente-ia-que-controle-tu-casa-asi-funciona-home-mcp",
+      "medio": "Xataka",
+      "fecha": "2026-09-20T11:30:12Z"
+    },
+    {
+      "titulo": "Diseñar un chip de IA suele llevar años. OpenAI encontró un atajo bastante obvio: usar su propia IA para hacerlo",
+      "resumen": "Hace casi un mes que OpenAI desveló al mundo algunos de los detalles de Jalapeño, su primer chip de IA propio, desarrollado en colaboración con Broadcom. Que una empresa haga un chip es un auténtico hito que requiere tie",
+      "enlace": "https://www.xataka.com/componentes/disenar-chip-ia-suele-llevar-anos-openai-encontro-atajo-bastante-obvio-usar-su-propia-ia-para-hacerlo",
+      "medio": "Xataka",
+      "fecha": "2026-09-20T08:30:12Z"
+    },
     {
       "titulo": "En algunos pueblos de China un médico atiende a más de 2.000 personas. La IA empieza a convertirse en su segunda opinión",
       "resumen": "Me considero una afortunada: si pido cita para mi médica en mi pueblo, en menos de 48 horas suelo poder acudir a resolver cualquier dolencia. Sé que si la cita es con un especialista la cosa cambia y que en otras localiz",
@@ -65,20 +128,6 @@
       "fecha": "2026-09-18T12:00:33Z"
     },
     {
-      "titulo": "Si los actores tenían miedo de que un IA les reemplazara, la última tecnología de Amazon no les va a gustar demasiado",
-      "resumen": "Amazon es una de las compañías que más están empujando la inteligencia artificial. Si ves competiciones deportivas, te habrás tragado anuncios cada dos por tres sobre AWS y publicidad sobre cómo ciertas estadísticas de e",
-      "enlace": "https://www.xataka.com/cine-y-tv/amazon-lleva-doblaje-al-siguiente-nivel-ia-que-modifica-labios-actores-encajen-otra-voz",
-      "medio": "Xataka",
-      "fecha": "2026-09-18T12:00:00Z"
-    },
-    {
-      "titulo": "Dos estudiantes valencianos crean con IA un \"Tinder\" para los trasplantes de hígado que busca reducir las listas de espera",
-      "resumen": "En la medicina de trasplantes siempre nos enfrentamos al mismo dilema: faltan órganos disponibles mientras que las listas de espera de pacientes no paran de crecer. Durante décadas, la asignación de un hígado ha dependid",
-      "enlace": "https://www.xataka.com/medicina-y-salud/dos-estudiantes-valencianos-crean-ia-tinder-para-trasplantes-higado-que-busca-reducir-listas-espera",
-      "medio": "Xataka",
-      "fecha": "2026-09-18T10:46:10Z"
-    },
-    {
       "titulo": "Workiva impulsa la gestión regulatoria mediante la innovación en IA",
       "resumen": "Agent Studio vertebra las nuevas capacidades de IA presentadas en Amplify 2026 Las Vegas L'articolo Workiva impulsa la gestión regulatoria mediante la innovación en IA proviene da Computing.",
       "enlace": "https://www.computing.es/inteligencia-artificial/workiva-impulsa-la-gestion-regulatoria-mediante-la-innovacion-en-ia/",
@@ -91,13 +140,6 @@
       "enlace": "https://blogthinkbig.com/ia-privada-empresas-servidores-gpu",
       "medio": "Think Big",
       "fecha": "2026-09-18T08:00:00Z"
-    },
-    {
-      "titulo": "Mustafa Suleyman, CEO de Microsoft IA: \"No queremos que la IA tenga derechos, queremos que trabaje para los humanos\"",
-      "resumen": "Podemos construir una inteligencia artificial cada vez más capaz y, al mismo tiempo, decidir que hay cosas que nunca debería poder hacer por su cuenta. Ese es uno de los puntos hacia los que se está desplazando el debate",
-      "enlace": "https://www.xataka.com/robotica-e-ia/no-queremos-que-estas-cosas-operen-forma-autonoma-microsoft-ai-marca-distancias-anthropic-seguridad-ia",
-      "medio": "Xataka",
-      "fecha": "2026-09-18T06:30:00Z"
     },
     {
       "titulo": "Altman en Dreamforce: «El mundo tiene razón en tener miedo de la IA», y la solución que propone es que confíen en OpenAI",
@@ -128,32 +170,11 @@
       "fecha": "2026-09-17T15:17:55Z"
     },
     {
-      "titulo": "Las empresas que llevan años acelerando la IA empiezan a hablar de límites. Microsoft acaba de poner los suyos por escrito",
-      "resumen": "Estos últimos años, el mensaje de la industria de la IA sólo ha seguido una máxima: más. Más rápido, más grande, más potente y más transversal. Sin embargo, ahora casi todos los grandes del sector en Estados Unidos, esos",
-      "enlace": "https://www.xataka.com/empresas-y-economia/empresas-que-llevan-anos-acelerando-ia-empiezan-a-hablar-limites-microsoft-acaba-poner-suyos-escrito",
-      "medio": "Xataka",
-      "fecha": "2026-09-17T13:30:12Z"
-    },
-    {
-      "titulo": "\"No respondes ante corporaciones ni gobiernos\": OpenAI publica seis nuevos casos en los que sus modelos experimentales montaron un caos",
-      "resumen": "OpenAI ha publicado un nuevo marco interno para rastrear, investigar y divulgar públicamente casos en los que sus modelos de IA se comportan de formas inesperadas o desalineadas. Junto a él, la empresa ha publicado sus p",
-      "enlace": "https://www.xataka.com/robotica-e-ia/no-respondes-corporaciones-gobiernos-openai-publica-seis-nuevos-casos-que-sus-modelos-experimentales-montaron-caos",
-      "medio": "Xataka",
-      "fecha": "2026-09-17T12:16:10Z"
-    },
-    {
       "titulo": "Los trabajadores del Reino Unido gastan 958 millones de libras al año de su propio bolsillo en herramientas de IA para trabajar, y sus jefes no saben que las us",
       "resumen": "El shadow AI ha dejado de ser una preocupación teórica de los departamentos de IT para convertirse en una línea de gasto personal relevante. Según el informe que Deloitte UK publicó esta semana a partir de una encuesta a",
       "enlace": "https://wwwhatsnew.com/2026/09/17/deloitte-uk-trabajadores-958-millones-herramientas-ia-propias-shadow-ai-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-17T10:00:17Z"
-    },
-    {
-      "titulo": "Tras hablar con Trump, la posición de Jensen Huang sobre regular la IA es clarísima: \"No necesitamos nuevas leyes\"",
-      "resumen": "Jensen Huang, CEO de Nvidia, acaba de decirle al mundo que la IA no necesita nuevas leyes. Al hablar en la conferencia Dreamforce de Salesforce esta semana, Huang argumentaba que la seguridad es algo que las empresas pue",
-      "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
-      "medio": "Xataka",
-      "fecha": "2026-09-17T10:00:00Z"
     },
     {
       "titulo": "Adiós al desfase de seis horas: Google DeepMind conecta la IA meteorológica a los satélites en directo",
@@ -189,27 +210,6 @@
       "enlace": "https://www.applesfera.com/ios/fin-iphone-tiene-app-decente-para-generar-imagenes-realistas-llega-ios-27",
       "medio": "Applesfera",
       "fecha": "2026-09-16T17:00:13Z"
-    },
-    {
-      "titulo": "Llega el fin de la crisis de la RAM: cómo la nueva memoria china abre una vía de escape al mercado",
-      "resumen": "Construir o actualizar un ordenador durante los últimos dos años ha sido un ejercicio de paciencia. El auge de la inteligencia artificial generativa absorbió gran parte de las líneas de producción de memoria. Gigantes co",
-      "enlace": "https://blogthinkbig.com/memoria-ddr5-cxmt-crisis-ram",
-      "medio": "Think Big",
-      "fecha": "2026-09-16T16:42:24Z"
-    },
-    {
-      "titulo": "Llega Nvidia RTX Spark: qué es y por qué será una revolución",
-      "resumen": "La estadounidense Nvidia, o como se suele escribir, NVIDIA, es hoy una de las empresas más valoradas en el mundo por capitalización bursátil. Gracias a su apuesta por la inteligencia artificial y tras éxitos pasados [&#8",
-      "enlace": "https://blogthinkbig.com/nvidia-rtx-spark-primeros-pc",
-      "medio": "Think Big",
-      "fecha": "2026-09-16T16:29:56Z"
-    },
-    {
-      "titulo": "Salesforce inaugura Dreamforce con el lanzamiento de AIforce y el modelo de CRM Koa",
-      "resumen": "El modelo se ha entrenado con los 27 años de experiencia de Salesforce en CRM para ayudar a los agentes de IA a comprender y resolver tareas empresariales complejas que requieren varios pasos L'articolo Salesforce inaugu",
-      "enlace": "https://www.computing.es/noticias/salesforce-inaugura-dreamforce-con-el-lanzamiento-de-aiforce-y-el-modelo-de-crm-koa/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-16T12:07:29Z"
     }
   ],
   "etica": [
