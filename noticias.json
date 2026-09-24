@@ -1,8 +1,106 @@
 {
-  "actualizado": "2026-09-22T01:24:47Z",
+  "actualizado": "2026-09-24T01:03:08Z",
   "novedades": [
     {
-      "titulo": "El Gobierno de España presenta su gran plan para la IA: gigafactorías, un gran \"contrato social\" e insertarla en Mi Carpeta Ciudadana",
+      "titulo": "Europa quiere depender menos de EEUU en chips de IA. Alemania y Países Bajos tienen un plan: usar IA para diseñarlos",
+      "resumen": "Europa lleva años intentando ganar terreno en una industria que condiciona buena parte de su futuro tecnológico. Tiene investigación, capacidad industrial y actores tan relevantes como ASML, pero cuando llegamos a los ch",
+      "enlace": "https://www.xataka.com/robotica-e-ia/europa-quiere-depender-eeuu-chips-ia-alemania-paises-bajos-tienen-plan-usar-ia-para-disenarlos",
+      "medio": "Xataka",
+      "fecha": "2026-09-23T18:35:00Z"
+    },
+    {
+      "titulo": "Quienes han tenido contacto con Muse cada vez tienen más clara su opinión: la gran promesa de la IA agéntica la está cumpliendo Meta",
+      "resumen": "Hace dos semanas Eli Tan creó una cuenta en Muse y le dio acceso a su cuenta de correo y a sus tarjetas de crédito. \"Monitoriza mis gastos en Google Sheets, por favor\", le pidió a este agente de IA. Minutos después había",
+      "enlace": "https://www.xataka.com/robotica-e-ia/quienes-han-tenido-contacto-muse-cada-vez-tienen-clara-su-opinion-gran-promesa-ia-agentica-esta-cumpliendo-meta",
+      "medio": "Xataka",
+      "fecha": "2026-09-23T14:31:01Z"
+    },
+    {
+      "titulo": "Shopify obligó a sus empleados a usar IA para trabajar mejor. Ahora su CEO tiene un nombre para el problema: granadas de slop",
+      "resumen": "Hace poco más de un año, el fundador y CEO de Shopify puso una condición a sus empleados. Desde su perfil de X, pidió a sus empleados que, antes de pedir más recursos, tenían que demostrar que la IA no podía hacer ese tr",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ceo-shopify-ha-descubierto-gran-problema-dejar-que-ia-haga-trabajo-empleados-granadas-slop",
+      "medio": "Xataka",
+      "fecha": "2026-09-23T13:15:00Z"
+    },
+    {
+      "titulo": "Instinct, el asistente de IA que actúa por ti: qué es y en qué se diferencia",
+      "resumen": "En unas semanas, una startup pasó de valer 50 millones de dólares a negociar una valoración de 10.000 millones. Detrás de ese salto no hay un chip nuevo ni un algoritmo revolucionario en el sentido [&#8230;] Instinct, el",
+      "enlace": "https://blogthinkbig.com/instinct-el-asistente-de-ia-que-actua-por-ti-que-es-y-en-que-se-diferencia",
+      "medio": "Think Big",
+      "fecha": "2026-09-23T11:49:40Z"
+    },
+    {
+      "titulo": "La ilusión del control: Anthropic, Hans Jonas y la responsabilidad Empresarial ante la IA",
+      "resumen": "La reciente publicación del informe de Anthropic sobre detección y prevención de mal uso de la IA vuelve a poner sobre la mesa una pregunta que, más que tecnológica, es esencialmente ética: ¿Qué responsabilidad tienen la",
+      "enlace": "https://www.computing.es/opinion/la-ilusion-del-control-anthropic-hans-jonas-y-la-responsabilidad-empresarial-ante-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-23T11:09:40Z"
+    },
+    {
+      "titulo": "IA estratégica: Cuando la IA es el motor de la operativa de las organizaciones",
+      "resumen": "Computing ha celebrado un encuentro junto con INFOR para descubrir cómo la IA puede condicionar los resultados de las organizaciones L'articolo IA estratégica: Cuando la IA es el motor de la operativa de las organizacion",
+      "enlace": "https://www.computing.es/videos/ia-estrategica-cuando-la-ia-es-el-motor-de-la-operativa-de-las-organizaciones/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-23T10:33:53Z"
+    },
+    {
+      "titulo": "La carrera de la IA está entrando en otra fase: tras Opus 5.5, OpenAI juega una baza clave con GPT-6 Sol y Luna",
+      "resumen": "Podemos medir parte del ritmo actual de la inteligencia artificial en horas. Anthropic acababa de presentar Claude Opus 5.5 cuando, apenas 90 unos después, OpenAI anunció dos nuevos integrantes de su familia GPT-6: Sol y",
+      "enlace": "https://www.xataka.com/robotica-e-ia/carrera-ia-esta-entrando-otra-fase-opus-5-5-openai-juega-baza-clave-gpt-6-sol-luna",
+      "medio": "Xataka",
+      "fecha": "2026-09-22T20:40:19Z"
+    },
+    {
+      "titulo": "Anthropic acaba de lanzar Claude Opus 5.5. La gran novedad no es solo lo que puede hacer, sino lo que ya no le dejarán hacer",
+      "resumen": "Cuanto más capaces se vuelven los grandes modelos de inteligencia artificial, menos sencillo resulta medir el progreso únicamente por todo lo nuevo que consiguen hacer. También empieza a importar qué capacidades necesita",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-claude-opus-5-5-gran-novedad-no-solo-que-puede-hacer-sino-que-no-le-dejaran-hacer",
+      "medio": "Xataka",
+      "fecha": "2026-09-22T18:49:00Z"
+    },
+    {
+      "titulo": "La IA de OpenAI está resolviendo problemas matemáticos a una velocidad asombrosa. Entender sus soluciones es otra historia",
+      "resumen": "OpenAI asegura que un modelo de IA interno ha resuelto más de 100 problemas matemáticos abiertos, y lo ha logrado en apenas unas semanas. Es un logro extraordinario, pero uno que abre un melón importante: plantear soluci",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-asegura-que-su-ia-ha-resuelto-100-problemas-matematicos-hay-problema-que-significa-exactamente-resolver",
+      "medio": "Xataka",
+      "fecha": "2026-09-22T15:45:00Z"
+    },
+    {
+      "titulo": "La IA está cambiando la forma de consumir ficción: historias infinitas, fan fiction y fantasías a medida",
+      "resumen": "La IA está en todas partes, también en las librerías. Amazon estaba llenándose de libros IA a un ritmo tan loco, que tuvieron que limitar la autopublicación. Algunos de estos libros, incluso, han llegado a ganar concurso",
+      "enlace": "https://www.xataka.com/literatura-comics-y-juegos/industria-editorial-se-escandaliza-ia-miles-usuarios-piden-a-diario-juegos-rol-fan-fiction-erotica",
+      "medio": "Xataka",
+      "fecha": "2026-09-22T13:00:00Z"
+    },
+    {
+      "titulo": "España no tiene un problema de planes para la IA. Tiene un problema para cumplirlos",
+      "resumen": "España acaba de presentar un ambicioso plan para intentar convertirse en referente europeo en inteligencia artificial. Entre los objetivos están la creación de una gigafactoría con hasta 100.000 chips aceleradores de IA,",
+      "enlace": "https://www.xataka.com/robotica-e-ia/espana-tiene-plan-casi-perfecto-para-convertirse-potencia-ia-tambien-tenia-uno-2020",
+      "medio": "Xataka",
+      "fecha": "2026-09-22T12:45:00Z"
+    },
+    {
+      "titulo": "Las empresas buscan una IA gobernada, segura y conectada al negocio",
+      "resumen": "La calidad del dato, la gobernanza, la formación de los empleados, el control del Shadow AI, la seguridad de la información y la sostenibilidad económica de las arquitecturas se perfilan como las condiciones necesarias p",
+      "enlace": "https://www.computing.es/erp/las-empresas-buscan-una-ia-gobernada-segura-y-conectada-al-negocio/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-22T12:24:16Z"
+    },
+    {
+      "titulo": "La app española que «apaga» el algoritmo (y por qué le interesa a los padres)",
+      "resumen": "España encabeza el ranking europeo de tiempo en redes sociales entre menores. Según el último informe de Qustodio, los adolescentes españoles pasan una media de 77 minutos diarios en aplicaciones como Instagram, TikTok o",
+      "enlace": "https://blogthinkbig.com/la-app-espanola-que-apaga-el-algoritmo-y-por-que-le-interesa-a-los-padres",
+      "medio": "Think Big",
+      "fecha": "2026-09-22T10:33:38Z"
+    },
+    {
+      "titulo": "Accenture y Anthropic invertirán 2.000 millones de dólares en el desarrollo seguro de la IA",
+      "resumen": "Accenture y Anthropic colaboran para crear un equipo de evaluadores integrados en Anthropic L'articolo Accenture y Anthropic invertirán 2.000 millones de dólares en el desarrollo seguro de la IA proviene da Computing.",
+      "enlace": "https://www.computing.es/seguridad/accenture-y-anthropic-invertiran-2-000-millones-de-dolares-en-el-desarrollo-seguro-de-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-22T09:46:29Z"
+    },
+    {
+      "titulo": "El plan de España para la IA: captar más inversión, incorporarlo en Mi Carpeta Ciudadana y un \"contrato social\"",
       "resumen": "España quiere ganar peso en una carrera de inteligencia artificial que ya no se limita a desarrollar mejores modelos o levantar grandes centros de datos. El Gobierno acaba de presentar IA360, una hoja de ruta con la que ",
       "enlace": "https://www.xataka.com/robotica-e-ia/gran-plan-espanol-para-ia-no-va-solo-superordenadores-tambien-quiere-poner-asistente-tu-carpeta-ciudadana",
       "medio": "Xataka",
@@ -14,13 +112,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/como-llovieran-lingotes-oro-cielo-ia-esta-generando-millonarios-lugar-inesperado",
       "medio": "Xataka",
       "fecha": "2026-09-21T12:45:00Z"
-    },
-    {
-      "titulo": "En China, la IA está causando una revolución en el mercado de trabajo: siete millones de \"empresas de una sola persona\"",
-      "resumen": "China registró más de siete millones de nuevas empresa de una sola persona en 2025, lo que supone cerca del 42% más que el año anterior. Hay que dejar claro que no todas son startups tecnológicas y tampoco todas usan IA,",
-      "enlace": "https://www.xataka.com/robotica-e-ia/presion-laboral-era-abrumadora-ahora-estoy-mejor-ia-esta-ayudando-a-jovenes-chinos-a-emprender-solos",
-      "medio": "Xataka",
-      "fecha": "2026-09-21T12:15:00Z"
     },
     {
       "titulo": "Una IA descifra un mensaje militar de 1918, pero el verdadero mérito no está en resolver el código",
@@ -42,41 +133,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/guia-completa-sobre-shadow-ai-que-es-la-ia-en-la-sombra-peligros-ocultos-y-como-proteger-a-tu-organizacion/",
       "medio": "Computing.es",
       "fecha": "2026-09-21T08:01:16Z"
-    },
-    {
-      "titulo": "20 años anticipando el Apocalipsis: todas las veces que alguien ha dicho que la IA nos iba a matar a todos",
-      "resumen": "\"Urge regular la inteligencia artificial antes de que se convierta en un peligro para la humanidad\". Podría ser una frase extraída de la carta que Dario Amodei publicó hace unos días, pero no. Lo dijo Elon Musk en 2017, ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/20-anos-anticipando-apocalipsis-todas-veces-que-alguien-ha-dicho-que-ia-nos-iba-a-matar-a-todos",
-      "medio": "Xataka",
-      "fecha": "2026-09-20T17:00:12Z"
-    },
-    {
-      "titulo": "Google ya permite a cualquier agente de IA que controle tu casa: así funciona Home MCP",
-      "resumen": "Si quieres entregarle las llaves de tu hogar a los agentes de IA de Google, ahora puedes. Y es que la compañía ha habilitado una integración MCP para cualquier agente de IA, haciendo que Claude, Google Antigravity, Herme",
-      "enlace": "https://www.xataka.com/robotica-e-ia/google-permite-a-cualquier-agente-ia-que-controle-tu-casa-asi-funciona-home-mcp",
-      "medio": "Xataka",
-      "fecha": "2026-09-20T11:30:12Z"
-    },
-    {
-      "titulo": "Diseñar un chip de IA suele llevar años. OpenAI encontró un atajo bastante obvio: usar su propia IA para hacerlo",
-      "resumen": "Hace casi un mes que OpenAI desveló al mundo algunos de los detalles de Jalapeño, su primer chip de IA propio, desarrollado en colaboración con Broadcom. Que una empresa haga un chip es un auténtico hito que requiere tie",
-      "enlace": "https://www.xataka.com/componentes/disenar-chip-ia-suele-llevar-anos-openai-encontro-atajo-bastante-obvio-usar-su-propia-ia-para-hacerlo",
-      "medio": "Xataka",
-      "fecha": "2026-09-20T08:30:12Z"
-    },
-    {
-      "titulo": "En algunos pueblos de China un médico atiende a más de 2.000 personas. La IA empieza a convertirse en su segunda opinión",
-      "resumen": "Me considero una afortunada: si pido cita para mi médica en mi pueblo, en menos de 48 horas suelo poder acudir a resolver cualquier dolencia. Sé que si la cita es con un especialista la cosa cambia y que en otras localiz",
-      "enlace": "https://www.xataka.com/aplicaciones/algunos-pueblos-china-medico-atiende-a-2-000-personas-ia-empieza-a-convertirse-su-segunda-opinion",
-      "medio": "Xataka",
-      "fecha": "2026-09-19T16:00:12Z"
-    },
-    {
-      "titulo": "La IA no solo genera vídeos sueltos: en China acaba de producir una serie entera",
-      "resumen": "Mientras Hollywood trata de esconder que está usando IA en multitud de películas y el rechazo crece entre los actores, en China se han lanzado a los brazos de la IA generativa y ya tienen la primera serie de televisión d",
-      "enlace": "https://www.xataka.com/cine-y-tv/ia-no-solo-genera-videos-sueltos-china-acaba-producir-serie-entera",
-      "medio": "Xataka",
-      "fecha": "2026-09-19T13:30:12Z"
     },
     {
       "titulo": "El rey Carlos convocó a Jensen Huang, Demis Hassabis y los CEOs de OpenAI y Anthropic en su finca escocesa para pedirles control antes de que sea demasiado tard",
@@ -105,20 +161,6 @@
       "enlace": "https://wwwhatsnew.com/2026/09/18/consejo-supervision-meta-deepfakes-reglas-inadecuadas-concejala-escocia-campaignera-musulmana-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-18T18:00:42Z"
-    },
-    {
-      "titulo": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
-      "resumen": "A finales de 2023, el New York Times demandó a OpenAI y Microsoft acusándolas de usar sus artículos para entrenar modelos de IA sin haber obtenido autorización y tampoco haberles compensado de ninguna manera. Se acabaron",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mayor-robo-laboral-historia-asi-describian-microsoft-uso-articulos-prensa-para-entrenar-ia-siguieron-haciendolo",
-      "medio": "Xataka",
-      "fecha": "2026-09-18T17:30:12Z"
-    },
-    {
-      "titulo": "Racionalistas, altruistas eficaces y aceleracionistas: las tres tribus que se disputan el alma de la IA en Silicon Valley",
-      "resumen": "Las guerras ideológicas de Silicon Valley ya no se libran en foros, sino con decenas de millones en las elecciones legislativas de Estados Unidos. Un supercomité financiado por Andreessen Horowitz (a16z) y Greg Brockman ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/racionalistas-altruistas-eficaces-aceleracionistas-tres-tribus-que-se-disputan-alma-ia-silicon-valley",
-      "medio": "Xataka",
-      "fecha": "2026-09-18T13:16:11Z"
     },
     {
       "titulo": "Nvidia, Google y Emerald AI forman la AI Energy Management Alliance para que los data centers consuman energía de forma flexible y consigan conexiones a la red ",
@@ -168,48 +210,6 @@
       "enlace": "https://blogthinkbig.com/se-esta-quedando-gemini-atras-con-claude-fable-y-gpt-6-astra-brillando-google-lucha-por-no-perder-aun-mas-terreno",
       "medio": "Think Big",
       "fecha": "2026-09-17T15:17:55Z"
-    },
-    {
-      "titulo": "Los trabajadores del Reino Unido gastan 958 millones de libras al año de su propio bolsillo en herramientas de IA para trabajar, y sus jefes no saben que las us",
-      "resumen": "El shadow AI ha dejado de ser una preocupación teórica de los departamentos de IT para convertirse en una línea de gasto personal relevante. Según el informe que Deloitte UK publicó esta semana a partir de una encuesta a",
-      "enlace": "https://wwwhatsnew.com/2026/09/17/deloitte-uk-trabajadores-958-millones-herramientas-ia-propias-shadow-ai-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-17T10:00:17Z"
-    },
-    {
-      "titulo": "Adiós al desfase de seis horas: Google DeepMind conecta la IA meteorológica a los satélites en directo",
-      "resumen": "Saber si va a llover esta tarde parece una molestia menor hasta que una tormenta repentina colapsa una ciudad o un cambio brusco de viento desbarata la previsión de una red eléctrica. Durante más de [&#8230;] Adiós al de",
-      "enlace": "https://blogthinkbig.com/weathernext-3-ia-prediccion-tiempo-google-deepmind",
-      "medio": "Think Big",
-      "fecha": "2026-09-17T10:00:00Z"
-    },
-    {
-      "titulo": "Anthropic abre oficina en Madrid y nombra a Cristina Pitarch Country Manager para España",
-      "resumen": "Cristina Pitarch ha sido directora general para EMEA en Google Cloud Security y lleva más de 15 años trabajando en el sector L'articolo Anthropic abre oficina en Madrid y nombra a Cristina Pitarch Country Manager para Es",
-      "enlace": "https://www.computing.es/noticias/anthropic-abre-oficina-en-madrid-y-nombra-a-cristina-pitarch-country-manager-para-espana/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-17T09:23:15Z"
-    },
-    {
-      "titulo": "La primera clínica oftalmológica dirigida por agentes de IA en China acaba de publicar su primer informe real: el reto no era diagnosticar, sino trabajar con mé",
-      "resumen": "La publicación científica que acaba de aparecer en Nature Medicine no trata sobre un experimento en laboratorio. Trata sobre lo que pasó cuando investigadores de la Universidad Tsinghua de Pekín desplegaron un sistema de",
-      "enlace": "https://wwwhatsnew.com/2026/09/17/china-clinica-oftalmologica-agentes-ia-nature-medicine-tsinghua-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-17T08:00:08Z"
-    },
-    {
-      "titulo": "La AEPD notifica el primer ciberataque ejecutado de forma autónoma por un agente de IA en España: accedió a datos personales y facturas sin intervención humana",
-      "resumen": "La Agencia Española de Protección de Datos ha comunicado esta semana la primera notificación de brecha de datos en la que un agente de inteligencia artificial ejecutó un ciberataque de forma completamente autónoma contra",
-      "enlace": "https://wwwhatsnew.com/2026/09/17/aepd-primer-ataque-autonomo-agente-ia-espana-datos-personales-facturas-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-16T22:00:00Z"
-    },
-    {
-      "titulo": "Por fin el iPhone tiene una app decente para generar imágenes realistas. Llega con iOS 27",
-      "resumen": "Cuando Apple anunció Image Playground con iOS 18, a muchos nos dio algo de bajón. Para aquella época ya había grandes modelos de IA capaces de generar fotos hiperrealistas y aquello era poco menos que un divertimento par",
-      "enlace": "https://www.applesfera.com/ios/fin-iphone-tiene-app-decente-para-generar-imagenes-realistas-llega-ios-27",
-      "medio": "Applesfera",
-      "fecha": "2026-09-16T17:00:13Z"
     }
   ],
   "etica": [

@@ -16590,7 +16590,7 @@
       "Configuración de alertas basadas en condiciones específicas"
     ],
     "etica": "Prioriza la privacidad al procesar datos localmente sin almacenamiento persistente. No introduce sesgos al transformar información, manteniendo la neutralidad en la representación de datos.",
-    "web": "https://www.producthunt.com/products/pascal-s-pager",
+    "web": "https://www.pascalailabs.com",
     "tipo": "Productividad",
     "compania": "Pascal Technologies",
     "id": "pascal-s-pager-59198c",
@@ -16600,7 +16600,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite 100 notificaciones mensuales con funcionalidades básicas de personalización.",
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Axari",
@@ -16713,7 +16713,7 @@
     "fecha_agregado": "2026-09-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "tiun.",
@@ -16888,7 +16888,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece el stack para autoalojarlo en Kubernetes, aunque el soporte o la versión gestionada pueden requerir pago.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Text Agent Store",
@@ -17139,34 +17139,6 @@
     "intentos_web": 1
   },
   {
-    "nombre": "Muse",
-    "compania": "Meta",
-    "tipo": "Chatbot / Asistente",
-    "precio": "Gratuito",
-    "descripcion": "Asistente de IA de Meta diseñado para ofrecer ayuda contextual y personalizada en diferentes plataformas y dispositivos. Busca funcionar como un copiloto conversacional integrado en servicios de comunicación y productividad.",
-    "web": "https://meta.ai",
-    "funciones": [
-      "Responder preguntas con contexto del usuario",
-      "Redactar mensajes, resúmenes y contenido",
-      "Asistir en tareas dentro de apps de Meta",
-      "Ofrecer recomendaciones personalizadas según la conversación"
-    ],
-    "etica": "Al depender del contexto personal y de las conversaciones, debe gestionar con cuidado los datos sensibles. Como cualquier asistente generalista, puede cometer errores o reflejar sesgos presentes en sus datos de entrenamiento.",
-    "caracteristicas": [
-      "Integración con ecosistema Meta",
-      "Asistencia contextual y conversacional",
-      "Acceso desde dispositivos compatibles",
-      "Soporte para múltiples idiomas"
-    ],
-    "limite_gratis": "El acceso gratuito depende de tener una cuenta de Meta y de que el servicio esté disponible en la plataforma y región correspondiente.",
-    "id": "muse-e3ff49",
-    "gratis": true,
-    "pago": false,
-    "fecha_agregado": "2026-09-22",
-    "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
     "nombre": "Strands Harness",
     "compania": "Amazon Web Services (AWS)",
     "tipo": "Agentes IA",
@@ -17228,7 +17200,7 @@
     "tipo": "Generación de imagen",
     "precio": "Gratuito",
     "descripcion": "Modelo de difusión transformador de 7 mil millones de parámetros de código abierto para generación de imágenes a partir de texto. También permite edición basada en múltiples referencias y manipulación visual más controlada.",
-    "web": "https://qwen.aliyun.com",
+    "web": "https://qwen.ai",
     "funciones": [
       "Generar imágenes a partir de descripciones textuales",
       "Editar imágenes usando referencias múltiples",
@@ -17248,7 +17220,8 @@
     "pago": false,
     "fecha_agregado": "2026-09-22",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Dramagic",
@@ -17326,14 +17299,14 @@
     ],
     "etica": "El acceso móvil a repositorios y herramientas de desarrollo aumenta el riesgo si el dispositivo está desprotegido. Los agentes de código deben operar con permisos limitados y cambios revisados por una persona.",
     "limite_gratis": "El plan gratuito suele limitar el número de agentes, solicitudes, repositorios o funciones avanzadas.",
-    "web": "https://www.producthunt.com/products/superset-5",
+    "web": "https://www.supersetapp.com",
     "id": "superset-mobile-f13d85",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-09-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Jevtown",
@@ -17418,6 +17391,130 @@
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-09-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Koreshield",
+    "descripcion": "Koreshield proporciona una capa de seguridad y auditoría para agentes de soporte basados en IA, garantizando la integridad de las interacciones y la trazabilidad de las decisiones automatizadas. Permite a las empresas desplegar asistentes de IA con confianza regulatoria.",
+    "compania": "Koreshield",
+    "tipo": "Seguridad y Cumplimiento IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Auditoría completa de conversaciones con IA",
+      "Detección de alucinaciones y respuestas inseguras",
+      "Cumplimiento normativo (GDPR, SOC2, HIPAA)",
+      "Evidencia criptográfica de interacciones",
+      "Políticas de guardrails personalizables"
+    ],
+    "caracteristicas": [
+      "Registro inmutable de logs (WORM)",
+      "Integración nativa con Zendesk, Intercom, Salesforce",
+      "Alertas en tiempo real por anomalías",
+      "Panel de control de riesgo y cumplimiento",
+      "API para orquestación de flujos seguros"
+    ],
+    "etica": "Prioriza la privacidad del dato del usuario final mediante cifrado de extremo a extremo y minimización de datos, evitando sesgos en la moderación al basarse en reglas transparentes y auditables en lugar de modelos opacos.",
+    "limite_gratis": "El plan gratuito permite auditar hasta 1.000 interacciones al mes con retención de logs de 30 días y alertas básicas.",
+    "web": "https://koreshield.ai",
+    "id": "koreshield-cd2b59",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Solid",
+    "descripcion": "Solid dota a los agentes de IA de infraestructura propia —máquinas virtuales, cuentas de servicio, tarjetas de crédito virtuales y presupuestos— para que ejecuten tareas complejas de principio a fin sin intervención humana constante.",
+    "compania": "Solid Labs",
+    "tipo": "Agentes IA Autónomos",
+    "precio": "Pago",
+    "funciones": [
+      "Aprovisionamiento automático de entornos de ejecución aislados",
+      "Gestión de identidades y credenciales (OAuth, API keys)",
+      "Presupuestos y límites de gasto por agente/tarea",
+      "Ejecución de código, navegación web y uso de APIs",
+      "Observabilidad y replay de sesiones completas"
+    ],
+    "caracteristicas": [
+      "Sandboxes con CPU/RAM/GPU configurables",
+      "Red privada y salida a Internet controlada",
+      "Facturación por segundo de compute + coste de herramientas",
+      "SDK en Python/TypeScript para definir habilidades",
+      "Políticas de seguridad (allowlists, egress, timeouts)"
+    ],
+    "etica": "El aislamiento de entornos y los límites de gasto mitigan riesgos de uso indebido de recursos; la trazabilidad total de acciones permite auditoría forense, aunque la autonomía financiera requiere gobernanza humana estricta.",
+    "limite_gratis": "Sin plan gratuito; ofrece prueba de 14 días con 50 $ de crédito de compute y 5 agentes concurrentes.",
+    "web": "https://www.getsolid.ai",
+    "id": "solid-e41480",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Naise AI",
+    "descripcion": "Naise AI despliega agentes de marketing que no solo sugieren sino que ejecutan: crean campañas, redactan copy, diseñan assets, programan publicaciones y optimizan presupuesto en tiempo real across canales.",
+    "compania": "Naise",
+    "tipo": "Agentes de Marketing Autónomos",
+    "precio": "Freemium",
+    "funciones": [
+      "Investigación de audiencia y competencia autónoma",
+      "Generación de creativos (texto, imagen, vídeo corto)",
+      "Gestión end-to-end de campañas en Meta, Google, TikTok, LinkedIn",
+      "Optimización continua de pujas y targeting",
+      "Reportes de atribución y ROAS en lenguaje natural"
+    ],
+    "caracteristicas": [
+      "Brand kit y tone-of-voice aprendidos automáticamente",
+      "Integración nativa con Shopify, HubSpot, GA4, BigQuery",
+      "A/B testing autónomo con significancia estadística",
+      "Guardrails de marca y cumplimiento legal configurables",
+      "Modo copiloto o autónomo con umbrales de aprobación"
+    ],
+    "etica": "Evita sesgos de segmentación excluyente mediante auditoría algorítmica y respeta la privacidad usando datos de primera parte y agregados; el control humano en umbrales de gasto y mensaje sensible reduce impacto reputacional.",
+    "limite_gratis": "Plan gratuito incluye 1 agente, hasta 500 $/mes de gasto publicitario gestionado y 20 creativos generados.",
+    "web": "https://naise.ai",
+    "id": "naise-ai-7c24bd",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pactto",
+    "descripcion": "Pactto es el espacio de trabajo donde equipos creativos alinean briefs, feedback y assets, mientras agentes de IA convierten decisiones en entregables: storyboards, cortes de vídeo, copy, diseños y especificaciones técnicas.",
+    "compania": "Pactto",
+    "tipo": "Colaboración Creativa y Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Canvas colaborativo con hilos de decisión versionados",
+      "Agentes que transforman briefs en assets listos para producción",
+      "Revisión y anotación en vídeo, imagen, diseño y código",
+      "Generación automática de specs para desarrollo/hand-off",
+      "Gestión de derechos y aprobaciones legales integrada"
+    ],
+    "caracteristicas": [
+      "Integración con Figma, After Effects, Premiere, Jira, Linear",
+      "Modelos de marca entrenados en assets propios del cliente",
+      "Control de versiones visual y semántico (diff de diseño)",
+      "Automatizaciones: resize, localización, formatos de entrega",
+      "Audit trail de quién/qué/ cuándo aprobó cada cambio"
+    ],
+    "etica": "Los modelos se entrenan solo con datos del workspace del cliente (opt-in), evitando apropiación de estilo externo; el registro inmutable de aprobaciones protege propiedad intelectual y reduce disputas.",
+    "limite_gratis": "Plan gratuito para hasta 5 miembros, 3 proyectos activos, 100 generaciones IA/mes y 5 GB de almacenamiento.",
+    "web": "https://pactto.com",
+    "id": "pactto-475742",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-24",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
