@@ -16692,7 +16692,7 @@
     "tipo": "Investigación de mercado / IA",
     "precio": "Freemium",
     "descripcion": "Anthropologic es una plataforma de investigación de consumidores que utiliza IA para ofrecer insights de mercado en tiempo real, reduciendo la distancia entre la marca y el consumidor real.",
-    "web": "",
+    "web": "https://anthrowork.org",
     "funciones": [
       "Análisis de sentimiento en tiempo real",
       "Encuestas impulsadas por IA",
@@ -16713,7 +16713,7 @@
     "fecha_agregado": "2026-09-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "tiun.",
@@ -16865,7 +16865,7 @@
     "tipo": "Infraestructura de IA",
     "precio": "Gratuito",
     "descripcion": "Stack nativo de Kubernetes para gestionar cargas de trabajo de IA en GPU. Empaqueta tau CLI, Kueue, KubeRay y un monitor de salud de nodos GPU.",
-    "web": "",
+    "web": "https://github.com/Azure/taugrid",
     "funciones": [
       "Orquestación de cargas de trabajo de IA en clústeres Kubernetes",
       "Gestión de colas y priorización con Kueue",
@@ -16888,7 +16888,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Ofrece el stack para autoalojarlo en Kubernetes, aunque el soporte o la versión gestionada pueden requerir pago.",
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Text Agent Store",
@@ -17517,6 +17517,238 @@
     "fecha_agregado": "2026-09-24",
     "auto_detectado": true,
     "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "LFM2.5-VL-3B-DSpark",
+    "compania": "Liquid AI",
+    "tipo": "Modelo de lenguaje",
+    "precio": "Pago",
+    "descripcion": "Modelo de lenguaje de visión y lenguaje con decodificación especulativa para mayor velocidad.",
+    "web": "https://www.liquid.ai/",
+    "funciones": [
+      "Procesamiento de imágenes y texto",
+      "Decodificación especulativa",
+      "Reducción de tiempo de inferencia",
+      "Integración con modelos multimodales"
+    ],
+    "caracteristicas": [
+      "279.5M parámetros",
+      "Hasta 3.13x más rápido",
+      "Compatible con LFM2.5-VL-3B",
+      "Optimizado para tareas de visión"
+    ],
+    "etica": "El uso de modelos de decodificación especulativa puede tener implicaciones en la transparencia del proceso de generación de contenido. Se recomienda supervisión humana en aplicaciones críticas.",
+    "id": "lfm2-5-vl-3b-dspark-832be9",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Altar-1",
+    "compania": "Aikido Security",
+    "tipo": "Modelo de seguridad",
+    "precio": "Pago",
+    "descripcion": "Modelo de seguridad de código abierto derivado de GLM-5.3, diseñado para análisis de amenazas y detección de vulnerabilidades.",
+    "web": "https://www.aikidosecurity.com/",
+    "funciones": [
+      "Análisis de código fuente",
+      "Detección de vulnerabilidades",
+      "Evaluación de riesgos de seguridad",
+      "Integración con pipelines de CI/CD"
+    ],
+    "caracteristicas": [
+      "Basado en GLM-5.3",
+      "328 GB de peso del modelo",
+      "Código abierto",
+      "Enfoque en seguridad cibernética"
+    ],
+    "etica": "Al ser un modelo de seguridad, su uso debe ser transparente y responsable para evitar aplicaciones invasivas. Se debe garantizar el consentimiento en auditorías de terceros.",
+    "id": "altar-1-46142e",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Hyperdream",
+    "compania": "Hyperdream",
+    "tipo": "Herramienta de creación de video",
+    "precio": "Pago",
+    "descripcion": "Plataforma de creación de videos impulsada por IA que permite generar contenido audiovisual de alta calidad de forma intuitiva.",
+    "web": "https://hyperdream.ai/",
+    "funciones": [
+      "Generación de videos",
+      "Edición de contenido",
+      "Síntesis de voz",
+      "Animación automática"
+    ],
+    "caracteristicas": [
+      "Interfaz tipo 'Cursor'",
+      "Generación de escenas realistas",
+      "Soporte para guiones detallados",
+      "Exportación en múltiples formatos"
+    ],
+    "etica": "La generación de contenido audiovisual realista plantea desafíos en la autenticidad y el consentimiento de las personas representadas. Se deben implementar medidas para prevenir su uso engañoso.",
+    "id": "hyperdream-cda72b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Bleetz Network",
+    "compania": "Bleetz",
+    "tipo": "Red de agentes de IA",
+    "precio": "Pago",
+    "descripcion": "Red descentralizada de agentes de IA para la identificación de oportunidades de inversión y scouting de startups.",
+    "web": "https://bleetz.network/",
+    "funciones": [
+      "Análisis de startups",
+      "Conexión con inversores",
+      "Evaluación de riesgos",
+      "Recomendaciones de inversión"
+    ],
+    "caracteristicas": [
+      "Agentes especializados",
+      "Red colaborativa",
+      "Datos en tiempo real",
+      "Integración con plataformas de VC"
+    ],
+    "etica": "El uso de IA en decisiones de inversión puede perpetuar sesgos si los datos de entrenamiento no son representativos. Se requiere transparencia en los criterios de evaluación.",
+    "id": "bleetz-network-a763dc",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Tellwe",
+    "descripcion": "Plataforma impulsada por IA que transforma momentos cotidianos y experiencias personales en narrativas compelling, permitiendo a los usuarios contar sus historias de forma creativa y accesible.",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de historias personales con asistencia de IA",
+      "Sugerencias narrativas y estructura automática",
+      "Personalización de estilo y tono",
+      "Compartir historias en formatos multimedia",
+      "Colaboración en tiempo real con otros creadores"
+    ],
+    "caracteristicas": [
+      "Editor visual intuitivo con plantillas",
+      "Integración con redes sociales para publicación directa",
+      "Motor de IA generativa adaptado a voz del usuario",
+      "Biblioteca de prompts creativos",
+      "Soporte multimodal (texto, imagen, audio)"
+    ],
+    "etica": "Protege la privacidad de las historias personales del usuario almacenándolas de forma segura y permitiendo el control total sobre qué contenido se comparte o se hace público.",
+    "web": "https://www.tellwe.com/",
+    "tipo": "Generación de contenido / Storytelling",
+    "compania": "Tellwe Labs",
+    "id": "tellwe-345450",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Permite crear hasta 5 historias al mes con marca de agua básica y acceso limitado a plantillas premium.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "RemoteConsole",
+    "descripcion": "Herramienta de acceso remoto al terminal que permite conectarse a la máquina local o de trabajo cuando los agentes de IA no pueden o no están autorizados para ejecutar ciertas tareas.",
+    "precio": "Freemium",
+    "funciones": [
+      "Conexión SSH y terminal remota desde el navegador",
+      "Ejecución de comandos en máquinas locales",
+      "Transferencia segura de archivos",
+      "Grabación y reproducción de sesiones",
+      "Gestión de múltiples conexiones simultáneas"
+    ],
+    "caracteristicas": [
+      "Seguridad end-to-end con cifrado de extremo a extremo",
+      "Interfaz web accesible desde cualquier dispositivo",
+      "Soporte multi-sistema (Linux, macOS, Windows)",
+      "Registro de sesiones para auditoría",
+      "Autenticación multifactor integrada"
+    ],
+    "etica": "Los datos de sesión y comandos están cifrados y no se almacenan en servidores externos; el usuario mantiene el control total sobre los accesos y permisos concedidos.",
+    "web": "https://remoteconsole.app",
+    "tipo": "Acceso remoto / Productividad",
+    "compania": "RemoteConsole Inc.",
+    "id": "remoteconsole-37d2c9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece acceso ilimitado con hasta 2 sesiones simultáneas y resolución estándar, sin soporte prioritario.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AgreeGuard",
+    "descripcion": "Herramienta de IA que lee y analiza términos legales, contratos y políticas de privacidad antes de que el usuario haga clic en \"Acepto\", alertando sobre cláusulas relevantes o potencialmente perjudiciales.",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis automático de términos y condiciones",
+      "Resumen ejecutivo de cláusulas clave",
+      "Alertas de riesgo en contratos",
+      "Comparación entre versiones de documentos",
+      "Exportación de informes de análisis"
+    ],
+    "caracteristicas": [
+      "Procesamiento de lenguaje natural especializado en lenguaje legal",
+      "Base de datos de cláusulas comunes y sus implicaciones",
+      "Integración con navegador para análisis en tiempo real",
+      "Generación de informes en formato PDF",
+      "Soporte para múltiples idiomas"
+    ],
+    "etica": "No almacena documentos legales personales ni comparte datos con terceros; los análisis se procesan localmente cuando es posible para garantizar la privacidad del usuario.",
+    "web": "https://agreeguard.app",
+    "tipo": "Asistente legal / Chatbot / Asistente",
+    "compania": "AgreeGuard AI",
+    "id": "agreeguard-b1e5a8",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Permite analizar hasta 3 documentos al mes con resúmenes básicos, sin acceso a alertas avanzadas de riesgo.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Kairn",
+    "descripcion": "Plataforma que convierte grabaciones de conversaciones en tareas accionables, resúmenes estructurados y recordatorios de seguimiento automáticos, optimizando la gestión posterior a reuniones.",
+    "precio": "Freemium",
+    "funciones": [
+      "Transcripción automática de audio y vídeo",
+      "Extracción de acciones y decisiones clave",
+      "Generación automática de follow-ups y tareas",
+      "Resúmenes ejecutivos personalizables",
+      "Asignación de responsables a cada acción"
+    ],
+    "caracteristicas": [
+      "Soporte multilingüe para transcripción",
+      "Integración con gestores de tareas (Trello, Asana, Notion)",
+      "Reconocimiento de múltiples hablantes",
+      "Alertas automáticas de deadlines",
+      "Búsqueda semántica dentro de transcripciones"
+    ],
+    "etica": "Los datos de audio se procesan con cifrado y el usuario controla quién accede a las transcripciones generadas; no se utiliza el contenido para entrenar modelos de IA externos.",
+    "web": "https://kairn.tech/",
+    "tipo": "Productividad / Transcripción",
+    "compania": "Kairn Technologies",
+    "id": "kairn-55358a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Ofrece hasta 10 transcripciones mensuales con un límite de 30 minutos por grabación y funciones básicas de resumen.",
     "intentos_web": 1
   }
 ]

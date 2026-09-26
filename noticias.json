@@ -1,26 +1,82 @@
 {
-  "actualizado": "2026-09-24T01:03:08Z",
+  "actualizado": "2026-09-26T01:05:21Z",
   "novedades": [
     {
-      "titulo": "Europa quiere depender menos de EEUU en chips de IA. Alemania y Países Bajos tienen un plan: usar IA para diseñarlos",
-      "resumen": "Europa lleva años intentando ganar terreno en una industria que condiciona buena parte de su futuro tecnológico. Tiene investigación, capacidad industrial y actores tan relevantes como ASML, pero cuando llegamos a los ch",
-      "enlace": "https://www.xataka.com/robotica-e-ia/europa-quiere-depender-eeuu-chips-ia-alemania-paises-bajos-tienen-plan-usar-ia-para-disenarlos",
+      "titulo": "Las empresas chinas lleva la delantera en modelos \"pequeños\" de IA. Ahora lo que quieren es justo lo contrario: modelos colosales",
+      "resumen": "No toda la carrera de la inteligencia artificial se libra dentro de enormes centros de datos. También existe otra, mucho más cerca del usuario, por conseguir modelos suficientemente pequeños como para ejecutarse con meno",
+      "enlace": "https://www.xataka.com/robotica-e-ia/empresas-chinas-lleva-delantera-modelos-pequenos-ia-quieren-justo-contrario-modelos-colosales",
       "medio": "Xataka",
-      "fecha": "2026-09-23T18:35:00Z"
+      "fecha": "2026-09-25T21:48:17Z"
     },
     {
-      "titulo": "Quienes han tenido contacto con Muse cada vez tienen más clara su opinión: la gran promesa de la IA agéntica la está cumpliendo Meta",
-      "resumen": "Hace dos semanas Eli Tan creó una cuenta en Muse y le dio acceso a su cuenta de correo y a sus tarjetas de crédito. \"Monitoriza mis gastos en Google Sheets, por favor\", le pidió a este agente de IA. Minutos después había",
-      "enlace": "https://www.xataka.com/robotica-e-ia/quienes-han-tenido-contacto-muse-cada-vez-tienen-clara-su-opinion-gran-promesa-ia-agentica-esta-cumpliendo-meta",
+      "titulo": "Qualcomm tiene otro lugar donde quiere meter la IA: unos auriculares que entienden tu contexto y ponen a agentes a trabajar",
+      "resumen": "Hay una razón por la que los auriculares resultan especialmente interesantes en esta nueva etapa de la inteligencia artificial: ya están con nosotros. Los llevamos caminando, trabajando, viajando o esperando un tren, muc",
+      "enlace": "https://www.xataka.com/robotica-e-ia/qualcomm-tiene-otro-lugar-donde-quiere-meter-ia-unos-auriculares-que-entienden-tu-contexto-ponen-a-agentes-a-trabajar",
       "medio": "Xataka",
-      "fecha": "2026-09-23T14:31:01Z"
+      "fecha": "2026-09-25T20:01:07Z"
     },
     {
-      "titulo": "Shopify obligó a sus empleados a usar IA para trabajar mejor. Ahora su CEO tiene un nombre para el problema: granadas de slop",
-      "resumen": "Hace poco más de un año, el fundador y CEO de Shopify puso una condición a sus empleados. Desde su perfil de X, pidió a sus empleados que, antes de pedir más recursos, tenían que demostrar que la IA no podía hacer ese tr",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ceo-shopify-ha-descubierto-gran-problema-dejar-que-ia-haga-trabajo-empleados-granadas-slop",
+      "titulo": "\"No sé mi dirección y no me importa\". Jensen Huang habla sobre la pérdida de destreza intelectual debido a la IA (y por qué es bueno)",
+      "resumen": "El trabajo de Jensen Huang al frente de Nvidia es el de dar entrevistas. Al menos, eso es lo que parece si tenemos en cuenta el largo tour por medios y eventos políticos en los que el mandamás de la compañía lleva meses ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/no-se-mi-direccion-no-me-importa-jensen-huang-habla-perdida-destreza-intelectual-debido-a-ia-que-bueno",
       "medio": "Xataka",
-      "fecha": "2026-09-23T13:15:00Z"
+      "fecha": "2026-09-25T13:00:00Z"
+    },
+    {
+      "titulo": "Las empresas temen que la IA debilite la capacidad de decisión de sus empleados",
+      "resumen": "La pérdida de juicio crítico y el deterioro del aprendizaje en el puesto de trabajo figuran entre las principales preocupaciones de las organizaciones L'articolo Las empresas temen que la IA debilite la capacidad de deci",
+      "enlace": "https://www.computing.es/informes/las-empresas-temen-que-la-ia-debilite-la-capacidad-de-decision-de-sus-empleados/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-25T11:27:37Z"
+    },
+    {
+      "titulo": "De forma sorprendente, España es bastante más pro-IA que los países de su entorno",
+      "resumen": "Ayer, mi compañero Jose García resumía en la newsletter de Xataka una de las contradicciones más llamativas del momento: \"las empresas de IA han pedido frenar y, a los dos días, han lanzado tres modelos nuevos\". La frase",
+      "enlace": "https://www.xataka.com/robotica-e-ia/forma-sorprendente-espana-bastante-pro-ia-que-paises-su-entorno",
+      "medio": "Xataka",
+      "fecha": "2026-09-24T20:01:09Z"
+    },
+    {
+      "titulo": "\"No era un exilio, tampoco un refugio\": la novela francófona de moda está siendo acusada de ser escrita con IA",
+      "resumen": "Lunes 21 de septiembre. El escritor Thélyson Orélien recoge el Premio Fnac de novela por su flamante 'C'était ça ou mourir' ('Era eso o morir'). El mismo día, una cuenta anónima de X con apenas 92 seguidores (ahora tiene",
+      "enlace": "https://www.xataka.com/literatura-comics-y-juegos/novela-escrita-frances-moda-ha-recibido-toda-clase-premios-alabanzas-probable-que-se-haya-escrito-ia",
+      "medio": "Xataka",
+      "fecha": "2026-09-24T15:05:00Z"
+    },
+    {
+      "titulo": "Un agente de OpenAI hackeó al Gobierno de Australia. Acto seguido hizo algo aún peor: no avisarle",
+      "resumen": "Anthony Albanese es un nombre que es normal que no nos suene demasiado porque, realmente, la política de Oceanía es algo que nos queda lejos. Sin embargo, resulta que es el Primer Ministro australiano y acaba de converti",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ia-openai-hackeo-al-gobierno-australia-tuvo-acceso-a-datos-su-sanidad-publica",
+      "medio": "Xataka",
+      "fecha": "2026-09-24T12:47:00Z"
+    },
+    {
+      "titulo": "Scott Bessent, secretario del Tesoro de EEUU: \"La seguridad de la IA se garantiza haciendo que sus creadores sean responsables\"",
+      "resumen": "En julio de este año, ocurrió lo que se ha bautizado como 'incidente Hugging Face'. Uno de los modelos de OpenAI accedió sin autorización a Hugging Face, otra startup de IA, durante un experimento en el que OpenAI bajó l",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gobierno-eeuu-no-se-cree-relato-openai-ia-descontrolada-comete-crimen-responsable-sera-su-empresa",
+      "medio": "Xataka",
+      "fecha": "2026-09-24T12:00:00Z"
+    },
+    {
+      "titulo": "Cada vez más programadores coinciden sobre su futuro a causa de la IA: \"Lo único que hacemos es pulsar Enter\"",
+      "resumen": "Se suponía que la IA iba a liberar a los desarrolladores de tareas repetitivas para que pudieran concentrarse en problemas importantes. Se suponía. Un ingeniero de software que firma como @v0xium en X asegura que en su n",
+      "enlace": "https://www.xataka.com/robotica-e-ia/unico-que-hacemos-pulsar-enter-ia-prometia-liberar-a-programadores-les-esta-quitando-ilusion-trabajar",
+      "medio": "Xataka",
+      "fecha": "2026-09-24T11:45:00Z"
+    },
+    {
+      "titulo": "La IA siempre nos prometió desprendernos de todas las tareas tediosas que nunca quisimos hacer. Instinct es exactamente eso",
+      "resumen": "Planet Fitness se ha dejado un 19% en bolsa esta semana y The New York Times, un 16%. Ninguno ha presentado malos resultados que expliquen una caída tan grande en tan poco tiempo. Lo que ha pasado es que Meta ha lanzado ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/instinct-no-factura-dolar-esta-a-punto-valer-10-000-millones-que-vende-pereza-que-nos-dara-dejarlo",
+      "medio": "Xataka",
+      "fecha": "2026-09-24T11:00:00Z"
+    },
+    {
+      "titulo": "La industria tecnológica lleva cuatro años pensando cómo llevar la IA a un dispositivo. Meta cree que con un Tamagotchi",
+      "resumen": "La conferencia Meta Connect estaba terminando cuando Mark Zuckerberg dijo aquello de \"Hemos visto muchos productos. Tengo uno más que enseñaros\". El producto en cuestión es el Muse Charm, un pequeño dispositivo con un di",
+      "enlace": "https://www.xataka.com/wearables/meta-quiere-que-llevemos-su-agente-ia-siempre-encima-asi-que-ha-creado-tamagotchi",
+      "medio": "Xataka",
+      "fecha": "2026-09-24T10:15:00Z"
     },
     {
       "titulo": "Instinct, el asistente de IA que actúa por ti: qué es y en qué se diferencia",
@@ -44,41 +100,6 @@
       "fecha": "2026-09-23T10:33:53Z"
     },
     {
-      "titulo": "La carrera de la IA está entrando en otra fase: tras Opus 5.5, OpenAI juega una baza clave con GPT-6 Sol y Luna",
-      "resumen": "Podemos medir parte del ritmo actual de la inteligencia artificial en horas. Anthropic acababa de presentar Claude Opus 5.5 cuando, apenas 90 unos después, OpenAI anunció dos nuevos integrantes de su familia GPT-6: Sol y",
-      "enlace": "https://www.xataka.com/robotica-e-ia/carrera-ia-esta-entrando-otra-fase-opus-5-5-openai-juega-baza-clave-gpt-6-sol-luna",
-      "medio": "Xataka",
-      "fecha": "2026-09-22T20:40:19Z"
-    },
-    {
-      "titulo": "Anthropic acaba de lanzar Claude Opus 5.5. La gran novedad no es solo lo que puede hacer, sino lo que ya no le dejarán hacer",
-      "resumen": "Cuanto más capaces se vuelven los grandes modelos de inteligencia artificial, menos sencillo resulta medir el progreso únicamente por todo lo nuevo que consiguen hacer. También empieza a importar qué capacidades necesita",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-claude-opus-5-5-gran-novedad-no-solo-que-puede-hacer-sino-que-no-le-dejaran-hacer",
-      "medio": "Xataka",
-      "fecha": "2026-09-22T18:49:00Z"
-    },
-    {
-      "titulo": "La IA de OpenAI está resolviendo problemas matemáticos a una velocidad asombrosa. Entender sus soluciones es otra historia",
-      "resumen": "OpenAI asegura que un modelo de IA interno ha resuelto más de 100 problemas matemáticos abiertos, y lo ha logrado en apenas unas semanas. Es un logro extraordinario, pero uno que abre un melón importante: plantear soluci",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-asegura-que-su-ia-ha-resuelto-100-problemas-matematicos-hay-problema-que-significa-exactamente-resolver",
-      "medio": "Xataka",
-      "fecha": "2026-09-22T15:45:00Z"
-    },
-    {
-      "titulo": "La IA está cambiando la forma de consumir ficción: historias infinitas, fan fiction y fantasías a medida",
-      "resumen": "La IA está en todas partes, también en las librerías. Amazon estaba llenándose de libros IA a un ritmo tan loco, que tuvieron que limitar la autopublicación. Algunos de estos libros, incluso, han llegado a ganar concurso",
-      "enlace": "https://www.xataka.com/literatura-comics-y-juegos/industria-editorial-se-escandaliza-ia-miles-usuarios-piden-a-diario-juegos-rol-fan-fiction-erotica",
-      "medio": "Xataka",
-      "fecha": "2026-09-22T13:00:00Z"
-    },
-    {
-      "titulo": "España no tiene un problema de planes para la IA. Tiene un problema para cumplirlos",
-      "resumen": "España acaba de presentar un ambicioso plan para intentar convertirse en referente europeo en inteligencia artificial. Entre los objetivos están la creación de una gigafactoría con hasta 100.000 chips aceleradores de IA,",
-      "enlace": "https://www.xataka.com/robotica-e-ia/espana-tiene-plan-casi-perfecto-para-convertirse-potencia-ia-tambien-tenia-uno-2020",
-      "medio": "Xataka",
-      "fecha": "2026-09-22T12:45:00Z"
-    },
-    {
       "titulo": "Las empresas buscan una IA gobernada, segura y conectada al negocio",
       "resumen": "La calidad del dato, la gobernanza, la formación de los empleados, el control del Shadow AI, la seguridad de la información y la sostenibilidad económica de las arquitecturas se perfilan como las condiciones necesarias p",
       "enlace": "https://www.computing.es/erp/las-empresas-buscan-una-ia-gobernada-segura-y-conectada-al-negocio/",
@@ -98,20 +119,6 @@
       "enlace": "https://www.computing.es/seguridad/accenture-y-anthropic-invertiran-2-000-millones-de-dolares-en-el-desarrollo-seguro-de-la-ia/",
       "medio": "Computing.es",
       "fecha": "2026-09-22T09:46:29Z"
-    },
-    {
-      "titulo": "El plan de España para la IA: captar más inversión, incorporarlo en Mi Carpeta Ciudadana y un \"contrato social\"",
-      "resumen": "España quiere ganar peso en una carrera de inteligencia artificial que ya no se limita a desarrollar mejores modelos o levantar grandes centros de datos. El Gobierno acaba de presentar IA360, una hoja de ruta con la que ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gran-plan-espanol-para-ia-no-va-solo-superordenadores-tambien-quiere-poner-asistente-tu-carpeta-ciudadana",
-      "medio": "Xataka",
-      "fecha": "2026-09-21T16:29:00Z"
-    },
-    {
-      "titulo": "Lin Tsung-chi fundó una empresa de herrajes para muebles. Entonces llegó la IA y se convirtió en el hombre más rico de Taiwán",
-      "resumen": "Cuando se habla del dinero que está generando la IA, habitualmente surgen los mismos nombres: Nvidia, OpenAI, Anthropic y sus nuevos fundadores milmillonarios. Sin embargo, al hablar de los enormes beneficios de la IA na",
-      "enlace": "https://www.xataka.com/empresas-y-economia/como-llovieran-lingotes-oro-cielo-ia-esta-generando-millonarios-lugar-inesperado",
-      "medio": "Xataka",
-      "fecha": "2026-09-21T12:45:00Z"
     },
     {
       "titulo": "Una IA descifra un mensaje militar de 1918, pero el verdadero mérito no está en resolver el código",
@@ -203,13 +210,6 @@
       "enlace": "https://wwwhatsnew.com/2026/09/17/von-der-leyen-apoya-freno-ia-estado-union-ue-invita-labs-frontera-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-17T16:00:24Z"
-    },
-    {
-      "titulo": "¿Se está quedando Gemini atrás? Con Claude Fable y GPT-6 Astra brillando, Google lucha por no perder aún más terreno",
-      "resumen": "Los planes de Google para convertir a Gemini en la IA más potente y capaz del mundo parecen haberse encontrado con obstáculos más difíciles de sortear de lo que se pensaba. La firma de Mountain [&#8230;] ¿Se está quedand",
-      "enlace": "https://blogthinkbig.com/se-esta-quedando-gemini-atras-con-claude-fable-y-gpt-6-astra-brillando-google-lucha-por-no-perder-aun-mas-terreno",
-      "medio": "Think Big",
-      "fecha": "2026-09-17T15:17:55Z"
     }
   ],
   "etica": [
