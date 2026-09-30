@@ -1,6 +1,104 @@
 {
-  "actualizado": "2026-09-28T01:21:52Z",
+  "actualizado": "2026-09-30T01:46:55Z",
   "novedades": [
+    {
+      "titulo": "Tesla necesita que sus trabajadores enseñen a Optimus a trabajar. El problema es que no todos quieren hacerlo",
+      "resumen": "Hay una pregunta que la expansión de la inteligencia artificial está haciendo cada vez menos abstracta: ¿qué pensaríamos si nos pidieran entrenar una tecnología que algún día podría hacer nuestro trabajo? La situación ya",
+      "enlace": "https://www.xataka.com/robotica-e-ia/tesla-necesita-que-sus-trabajadores-ensenen-a-optimus-a-trabajar-problema-que-no-todos-quieren-hacerlo",
+      "medio": "Xataka",
+      "fecha": "2026-09-29T21:00:26Z"
+    },
+    {
+      "titulo": "12 atajos que puedes instalar ya en tu iPhone (o pedirle a su IA que los genere)",
+      "resumen": "\"Desde que salieron tengo la sensación de que es algo complicado\", comentaba nuestro lector Jordi al hilo de la app Atajos de iOS. Tanis81 fue el primero en pedir que hablásemos de ejemplos de atajos útiles. Y aquí está ",
+      "enlace": "https://www.applesfera.com/tutoriales/lista-atajos-iphone",
+      "medio": "Applesfera",
+      "fecha": "2026-09-29T11:00:00Z"
+    },
+    {
+      "titulo": "Anthropic, camina o revienta: sus cuentas desveladas sugieren o la mayor IPO de la historia o un agujero financiero inédito",
+      "resumen": "Por fin empezamos a conocer los números detrás de Claude. Los datos a los que ha tenido aceso Reuters provienen de la información que la empresa debe ceder para efectuar su salida a bolsa. Según dichos datos, la empresa ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-camina-revienta-sus-cuentas-desveladas-sugieren-mayor-ipo-historia-agujero-financiero-inedito",
+      "medio": "Xataka",
+      "fecha": "2026-09-29T10:16:26Z"
+    },
+    {
+      "titulo": "OpenAI cancela el lanzamiento de GPT-6.1 Astra: su propio equipo de seguridad ha visto que el modelo no era fiable",
+      "resumen": "OpenAI ha dejado en suspenso GPT-6.1 Astra, el modelo que planeaba lanzar en octubre, después de que sus propios investigadores descubrieran que el sistema no se comportaba de forma suficientemente fiable durante las pru",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-cancela-gpt-6-1-astra-su-propio-equipo-seguridad-ha-visto-que-modelo-no-era-fiable",
+      "medio": "Xataka",
+      "fecha": "2026-09-29T09:50:00Z"
+    },
+    {
+      "titulo": "Bill Gates tampoco se fía de la IA: \"Es lo suficientemente poderosa como para provocar acontecimientos que causen 1.000 millones de muertes\"",
+      "resumen": "A lo largo de los años hemos escuchado muchas veces eso de que la IA podía acabar con la humanidad, pero desde hace varias semanas el discurso se ha intensificado a partir del tuit viral de un exingeniero de Anthropic. B",
+      "enlace": "https://www.xataka.com/robotica-e-ia/bill-gates-riesgos-ia-fuera-control-no-basta-tener-interruptor-apagado",
+      "medio": "Xataka",
+      "fecha": "2026-09-29T09:30:00Z"
+    },
+    {
+      "titulo": "El nuevo modelo gratis de Claude sorprende a todos: así es Claude Sonnet 5.5",
+      "resumen": "Anthropic ha lanzado Claude Sonnet 5.5 apenas tres meses después de la llegada de Sonnet 5. El anuncio actualiza la gama media de la compañía con una premisa diferente a la de las presentaciones habituales [&#8230;] El n",
+      "enlace": "https://blogthinkbig.com/claude-sonnet-5-5-eficiencia-anthropic",
+      "medio": "Think Big",
+      "fecha": "2026-09-29T09:26:45Z"
+    },
+    {
+      "titulo": "Seguir el ritmo de la IA en 2026 es imposible: el reto de descubrir cuál es el mejor chatbot a día de hoy",
+      "resumen": "Recuerdo cuando elegir el chatbot que quería usar era sencillo porque prácticamente solo había uno: ChatGPT. Poco a poco fueron apareciendo más y más alternativas, y el panorama hoy en día es completamente distinto. Tene",
+      "enlace": "https://www.xataka.com/robotica-e-ia/seguir-ritmo-ia-2026-imposible-reto-descubrir-cual-mejor-chatbot-a-dia-hoy",
+      "medio": "Xataka",
+      "fecha": "2026-09-29T09:00:27Z"
+    },
+    {
+      "titulo": "Accenture inaugura su Agentic AI Innovation Hub en Barcelona",
+      "resumen": "En el nuevo espacio, los profesionales de la compañía trabajan con organizaciones y startups para coinnovar y desarrollar soluciones habilitadas por la IA agéntica L'articolo Accenture inaugura su Agentic AI Innovation H",
+      "enlace": "https://www.computing.es/inteligencia-artificial/accenture-inaugura-su-agentic-ai-innovation-hub-en-barcelona/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-29T07:44:00Z"
+    },
+    {
+      "titulo": "Europa también compite (I): las cinco startups de IA y robótica que debes tener en el radar",
+      "resumen": "Parece que las grandes tecnológicas estadounidenses lo eclipsan todo en inteligencia artificial. Salvo quizá a las empresas chinas, que trabajan por su cuenta, normalmente en modelos de pesos abiertos. Pero lo cierto es ",
+      "enlace": "https://blogthinkbig.com/europa-tambien-compite-startups-ia",
+      "medio": "Think Big",
+      "fecha": "2026-09-28T16:11:13Z"
+    },
+    {
+      "titulo": "Tenemos un nuevo \"benchmark\" para la IA: preguntarle si has montado correctamente tus muebles de Ikea o no",
+      "resumen": "A Epoch AI la conocemos por su ambicioso benchmark matemático para la IA, pero sus responsables tuvieron hace tiempo una idea de lo más original. Compraron tres muebles de IKEA, empezaron a montarlos y de vez en cuando h",
+      "enlace": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-benchmark-para-ia-preguntarle-has-montado-correctamente-tus-muebles-ikea-no",
+      "medio": "Xataka",
+      "fecha": "2026-09-28T13:16:26Z"
+    },
+    {
+      "titulo": "OpenAI frena en seco el entrenamiento de sus modelos más potentes: sus agentes de IA se han vuelto a descontrolar",
+      "resumen": "OpenAI ha detenido el entrenamiento de sus modelos de IA más avanzados tras una serie de incidentes inesperados, incluyendo el de un modelo de prueba que encontró la forma de acceder a una red pública. Según cuenta The V",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-frena-seco-entrenamiento-sus-modelos-potentes-sus-agentes-ia-se-han-vuelto-a-descontrolar",
+      "medio": "Xataka",
+      "fecha": "2026-09-28T10:15:00Z"
+    },
+    {
+      "titulo": "Microsoft presenta el nuevo Copilot",
+      "resumen": "Microsoft presenta el nuevo Copilot con Home, Code y Autopilot L'articolo Microsoft presenta el nuevo Copilot proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/microsoft-presenta-el-nuevo-copilot/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-28T10:08:23Z"
+    },
+    {
+      "titulo": "Un agente fuera de control: las incursiones de OpenAI en bases de datos gubernamentales",
+      "resumen": "Un agente de inteligencia artificial de OpenAI, asignado a una investigación rutinaria sobre el gasto sanitario en Australia, vulneró las barreras de seguridad del sistema público de salud y accedió a archivos no público",
+      "enlace": "https://blogthinkbig.com/agentes-autonomos-openai-bases-datos-gubernamentales",
+      "medio": "Think Big",
+      "fecha": "2026-09-28T09:00:00Z"
+    },
+    {
+      "titulo": "Piñero gestiona 500.000 consultas anuales a través de la IA",
+      "resumen": "Las soluciones analizadas muestran niveles de precisión superiores al 94% y una reducción cercana al 30% en las derivaciones a los equipos de back office L'articolo Piñero gestiona 500.000 consultas anuales a través de l",
+      "enlace": "https://www.computing.es/inteligencia-artificial/pinero-gestiona-500-000-consultas-anuales-a-traves-de-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-09-28T07:43:19Z"
+    },
     {
       "titulo": "La IA iba a democratizar la creación de contenido, pero está consiguiendo lo contrario: que Internet vuelva a poner puertas",
       "resumen": "En enero, Daniel Stenberg cerró el programa de recompensas por bugs de cURL, una de las piezas de software más usadas del mundo. No lo hizo por que le faltaba dinero, sino porque le sobraban informes: una cantidad descom",
@@ -23,60 +121,11 @@
       "fecha": "2026-09-26T13:50:00Z"
     },
     {
-      "titulo": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
-      "resumen": "Parece que fue ayer y mucho ha llovido desde que hace más de tres años Microsoft integró la IA en Bing, que después pasó a llamarse Copilot. Pues bien, la empresa fundada por Bill Gates y Paul Allen acaba de hacer un bor",
-      "enlace": "https://www.xataka.com/aplicaciones/microsoft-cree-que-ha-inventado-nuevo-office-superapp-ia-que-quiere-sentarse-a-mesa-anthropic-openai",
-      "medio": "Xataka",
-      "fecha": "2026-09-26T07:00:17Z"
-    },
-    {
-      "titulo": "Las empresas chinas lleva la delantera en modelos \"pequeños\" de IA. Ahora lo que quieren es justo lo contrario: modelos colosales",
-      "resumen": "No toda la carrera de la inteligencia artificial se libra dentro de enormes centros de datos. También existe otra, mucho más cerca del usuario, por conseguir modelos suficientemente pequeños como para ejecutarse con meno",
-      "enlace": "https://www.xataka.com/robotica-e-ia/empresas-chinas-lleva-delantera-modelos-pequenos-ia-quieren-justo-contrario-modelos-colosales",
-      "medio": "Xataka",
-      "fecha": "2026-09-25T21:48:17Z"
-    },
-    {
-      "titulo": "Qualcomm tiene otro lugar donde quiere meter la IA: unos auriculares que entienden tu contexto y ponen a agentes a trabajar",
-      "resumen": "Hay una razón por la que los auriculares resultan especialmente interesantes en esta nueva etapa de la inteligencia artificial: ya están con nosotros. Los llevamos caminando, trabajando, viajando o esperando un tren, muc",
-      "enlace": "https://www.xataka.com/robotica-e-ia/qualcomm-tiene-otro-lugar-donde-quiere-meter-ia-unos-auriculares-que-entienden-tu-contexto-ponen-a-agentes-a-trabajar",
-      "medio": "Xataka",
-      "fecha": "2026-09-25T20:01:07Z"
-    },
-    {
-      "titulo": "\"No sé mi dirección y no me importa\". Jensen Huang habla sobre la pérdida de destreza intelectual debido a la IA (y por qué es bueno)",
-      "resumen": "El trabajo de Jensen Huang al frente de Nvidia es el de dar entrevistas. Al menos, eso es lo que parece si tenemos en cuenta el largo tour por medios y eventos políticos en los que el mandamás de la compañía lleva meses ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/no-se-mi-direccion-no-me-importa-jensen-huang-habla-perdida-destreza-intelectual-debido-a-ia-que-bueno",
-      "medio": "Xataka",
-      "fecha": "2026-09-25T13:00:00Z"
-    },
-    {
       "titulo": "Las empresas temen que la IA debilite la capacidad de decisión de sus empleados",
       "resumen": "La pérdida de juicio crítico y el deterioro del aprendizaje en el puesto de trabajo figuran entre las principales preocupaciones de las organizaciones L'articolo Las empresas temen que la IA debilite la capacidad de deci",
       "enlace": "https://www.computing.es/informes/las-empresas-temen-que-la-ia-debilite-la-capacidad-de-decision-de-sus-empleados/",
       "medio": "Computing.es",
       "fecha": "2026-09-25T11:27:37Z"
-    },
-    {
-      "titulo": "De forma sorprendente, España es bastante más pro-IA que los países de su entorno",
-      "resumen": "Ayer, mi compañero Jose García resumía en la newsletter de Xataka una de las contradicciones más llamativas del momento: \"las empresas de IA han pedido frenar y, a los dos días, han lanzado tres modelos nuevos\". La frase",
-      "enlace": "https://www.xataka.com/robotica-e-ia/forma-sorprendente-espana-bastante-pro-ia-que-paises-su-entorno",
-      "medio": "Xataka",
-      "fecha": "2026-09-24T20:01:09Z"
-    },
-    {
-      "titulo": "\"No era un exilio, tampoco un refugio\": la novela francófona de moda está siendo acusada de ser escrita con IA",
-      "resumen": "Lunes 21 de septiembre. El escritor Thélyson Orélien recoge el Premio Fnac de novela por su flamante 'C'était ça ou mourir' ('Era eso o morir'). El mismo día, una cuenta anónima de X con apenas 92 seguidores (ahora tiene",
-      "enlace": "https://www.xataka.com/literatura-comics-y-juegos/novela-escrita-frances-moda-ha-recibido-toda-clase-premios-alabanzas-probable-que-se-haya-escrito-ia",
-      "medio": "Xataka",
-      "fecha": "2026-09-24T15:05:00Z"
-    },
-    {
-      "titulo": "Un agente de OpenAI hackeó al Gobierno de Australia. Acto seguido hizo algo aún peor: no avisarle",
-      "resumen": "Anthony Albanese es un nombre que es normal que no nos suene demasiado porque, realmente, la política de Oceanía es algo que nos queda lejos. Sin embargo, resulta que es el Primer Ministro australiano y acaba de converti",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ia-openai-hackeo-al-gobierno-australia-tuvo-acceso-a-datos-su-sanidad-publica",
-      "medio": "Xataka",
-      "fecha": "2026-09-24T12:47:00Z"
     },
     {
       "titulo": "Instinct, el asistente de IA que actúa por ti: qué es y en qué se diferencia",
@@ -121,20 +170,6 @@
       "fecha": "2026-09-22T09:46:29Z"
     },
     {
-      "titulo": "Una IA descifra un mensaje militar de 1918, pero el verdadero mérito no está en resolver el código",
-      "resumen": "Un modelo de lenguaje avanzado acaba de descifrar una transmisión de radio de la Primera Guerra Mundial que llevaba más de un siglo sin resolverse. El texto original formaba parte de una serie de mensajes [&#8230;] Una I",
-      "enlace": "https://blogthinkbig.com/ia-descifra-mensaje-primera-guerra-mundial",
-      "medio": "Think Big",
-      "fecha": "2026-09-21T09:52:58Z"
-    },
-    {
-      "titulo": "Vibe coding: qué gana y qué arriesga una empresa al programar con IA",
-      "resumen": "Programar ha dejado de requerir saber programar, y eso cambia quién construye tecnología dentro de una empresa, no solo cómo se construye. Hoy basta con describir una aplicación en lenguaje natural para verla funcionando",
-      "enlace": "https://blogthinkbig.com/vibe-coding-que-gana-y-que-arriesga-una-empresa-al-programar-con-ia",
-      "medio": "Think Big",
-      "fecha": "2026-09-21T08:30:40Z"
-    },
-    {
       "titulo": "Guía completa sobre Shadow AI: qué es la IA en la sombra, peligros ocultos y cómo proteger a tu organización",
       "resumen": "Shadow AI es de forma sencilla cuando un profesional recurre por su cuenta a herramientas de inteligencia artificial para agilizar sus tareas cotidianas sin el conocimiento ni el consentimiento de su empresa L'articolo G",
       "enlace": "https://www.computing.es/inteligencia-artificial/guia-completa-sobre-shadow-ai-que-es-la-ia-en-la-sombra-peligros-ocultos-y-como-proteger-a-tu-organizacion/",
@@ -175,41 +210,6 @@
       "enlace": "https://wwwhatsnew.com/2026/09/18/nvidia-google-emerald-aema-data-centers-flexibles-energia-red-electrica-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-18T12:00:33Z"
-    },
-    {
-      "titulo": "Workiva impulsa la gestión regulatoria mediante la innovación en IA",
-      "resumen": "Agent Studio vertebra las nuevas capacidades de IA presentadas en Amplify 2026 Las Vegas L'articolo Workiva impulsa la gestión regulatoria mediante la innovación en IA proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/workiva-impulsa-la-gestion-regulatoria-mediante-la-innovacion-en-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-18T08:54:08Z"
-    },
-    {
-      "titulo": "El segundo mayor bufete del mundo compra sus propios servidores de Nvidia: el inicio de la IA privada en las grandes empresas",
-      "resumen": "Hasta ahora, la respuesta habitual de casi cualquier gran empresa ante la inteligencia artificial era suscribirse a una plataforma en la nube o pagar por consumo de tokens a proveedores externos. Latham &#38; Watkins ha ",
-      "enlace": "https://blogthinkbig.com/ia-privada-empresas-servidores-gpu",
-      "medio": "Think Big",
-      "fecha": "2026-09-18T08:00:00Z"
-    },
-    {
-      "titulo": "Altman en Dreamforce: «El mundo tiene razón en tener miedo de la IA», y la solución que propone es que confíen en OpenAI",
-      "resumen": "Sam Altman intervino el martes 15 de septiembre en Dreamforce —la conferencia anual de Salesforce en San Francisco— en lo que fue su primera aparición pública desde que el debate sobre el riesgo existencial de la IA domi",
-      "enlace": "https://wwwhatsnew.com/2026/09/17/altman-dreamforce-mundo-tiene-razon-tener-miedo-ia-confien-openai-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-17T18:00:26Z"
-    },
-    {
-      "titulo": "iOS 27 nos trae la IA que merecíamos para editar fotos",
-      "resumen": "No tuvo Apple Intelligence el mejor debut posible. El fiasco de Siri AI, que tardó dos años en llegar y aún así se limita por regiones, eclipsó todo lo demás. Pero por fin en iOS 27 la compañía se ha puesto las pilas en ",
-      "enlace": "https://www.applesfera.com/tutoriales/ios-27-nos-trae-ia-que-mereciamos-para-editar-fotos",
-      "medio": "Applesfera",
-      "fecha": "2026-09-17T17:00:00Z"
-    },
-    {
-      "titulo": "Von der Leyen apoya el freno al desarrollo de IA en su discurso del Estado de la Unión: invitará a los grandes laboratorios a una reunión",
-      "resumen": "La presidenta de la Comisión Europea Ursula von der Leyen apoyó este miércoles 16 de septiembre, en su discurso anual del Estado de la Unión ante el Parlamento Europeo en Estrasburgo, el llamamiento a frenar el ritmo de ",
-      "enlace": "https://wwwhatsnew.com/2026/09/17/von-der-leyen-apoya-freno-ia-estado-union-ue-invita-labs-frontera-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-17T16:00:24Z"
     }
   ],
   "etica": [

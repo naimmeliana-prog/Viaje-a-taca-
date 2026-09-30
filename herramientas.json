@@ -17765,7 +17765,7 @@
     "tipo": "Generación de música",
     "precio": "Freemium",
     "descripcion": "Sampler y groovebox musical que utiliza IA para transformar alucinaciones de modelos de IA en música y sonidos únicos.",
-    "web": "https://thoughtfulthings.com/engram",
+    "web": "https://www.engram.us/",
     "funciones": [
       "Generación de loops con IA",
       "Edición de sonidos en tiempo real",
@@ -17785,35 +17785,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-28",
     "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Muse",
-    "compania": "Muse",
-    "tipo": "Dispositivo de IA",
-    "precio": "Pago",
-    "descripcion": "Dispositivo AI tipo Tamagotchi con un mascota tipo Labubu, diseñado para interactuar con usuarios de forma personalizada, orientado exclusivamente a adultos.",
-    "web": "https://meta.com/muse",
-    "funciones": [
-      "Interacción por voz",
-      "Personalidad adaptable",
-      "Notificaciones de estado",
-      "Conectividad Bluetooth"
-    ],
-    "caracteristicas": [
-      "Pantalla táctil",
-      "Batería recargable",
-      "IA de aprendizaje",
-      "Diseño compacto"
-    ],
-    "etica": "Recoge datos de interacción para mejorar la IA, lo que plantea preocupaciones de privacidad; se recomienda revisar la política de datos.",
-    "limite_gratis": "Sin plan gratuito",
-    "id": "muse-e3ff49",
-    "gratis": false,
-    "pago": true,
-    "fecha_agregado": "2026-09-28",
-    "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Cuey",
@@ -17821,7 +17794,7 @@
     "tipo": "Comparador de respuestas IA",
     "precio": "Freemium",
     "descripcion": "Herramienta que permite comparar respuestas de ChatGPT, Claude y Gemini en una sola pestaña para facilitar la evaluación de resultados.",
-    "web": "https://cuey.com",
+    "web": "https://cuey.io/",
     "funciones": [
       "Comparación lado a lado",
       "Exportar comparaciones",
@@ -17841,7 +17814,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-28",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Sarvam AI Saaras V4",
@@ -17877,7 +17851,7 @@
     "tipo": "Diarización de voz",
     "precio": "Gratuito",
     "descripcion": "Modelo de IA gratuito de 100 millones de parámetros que identifica hasta ocho hablantes distintos en tiempo real dentro de una conversación.",
-    "web": "https://nvidia.com/nemotron-3-diarization",
+    "web": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
     "funciones": [
       "Identificación de hablantes",
       "Diarización en tiempo real",
@@ -17897,7 +17871,8 @@
     "pago": false,
     "fecha_agregado": "2026-09-28",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Superhuman Go",
@@ -17933,7 +17908,7 @@
     "tipo": "Asistente de programación",
     "precio": "Pago",
     "descripcion": "Agente de codificación AI de AWS que ofrece indemnización ilimitada sobre el código generado, diseñado para desarrollo empresarial con protección de propiedad intelectual.",
-    "web": "https://aws.amazon.com/kiro",
+    "web": "https://kiro.dev/",
     "funciones": [
       "Generación de código",
       "Depuración automática",
@@ -17953,7 +17928,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-28",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "GPT-6 Sol & Luna",
@@ -18071,6 +18047,123 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite gestionar hasta 3 cuentas de redes sociales y programar un máximo de 50 publicaciones al mes.",
+    "intentos_web": 2
+  },
+  {
+    "nombre": "iFixAi",
+    "descripcion": "Plataforma de auditoría independiente para evaluar agentes de IA y detectar desalineaciones, riesgos o comportamientos inesperados. Ayuda a organizaciones a verificar que los sistemas actúen según objetivos y políticas definidas.",
+    "precio": "Pago",
+    "funciones": [
+      "Auditoría independiente de agentes de IA",
+      "Detección de desalineaciones y riesgos",
+      "Informe de cumplimiento y seguridad",
+      "Simulación de escenarios de uso"
+    ],
+    "caracteristicas": [
+      "Enfoque en gobernanza y alineación",
+      "Evaluación de comportamientos de agentes",
+      "Documentación de hallazgos y recomendaciones",
+      "Orientada a equipos técnicos y de cumplimiento"
+    ],
+    "etica": "Promueve transparencia y responsabilidad al identificar sesgos o riesgos antes del despliegue. Debe proteger datos sensibles durante las pruebas y evitar falsos positivos que generen confianza excesiva.",
+    "web": "https://www.ifixai.ai/",
+    "tipo": "Auditoría de agentes IA",
+    "compania": "iFixAi",
+    "id": "ifixai-5f6a00",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-30",
+    "auto_detectado": true,
+    "pendiente_revision": true,
+    "limite_gratis": "Sin plan gratuito",
+    "intentos_auto": 1,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "LUCI Desktop",
+    "descripcion": "Aplicación de escritorio que permite a los agentes de IA recordar información que has visto o compartido. Facilita contextos persistentes y personalización en tareas de asistente.",
+    "precio": "Freemium",
+    "funciones": [
+      "Almacenamiento de contexto visto por el usuario",
+      "Recuperación de recuerdos para agentes",
+      "Integración con asistentes locales o de escritorio",
+      "Resumen de información relevante"
+    ],
+    "caracteristicas": [
+      "Memoria persistente en escritorio",
+      "Diseñada para agentes de IA",
+      "Personalización según historial de uso",
+      "Gestión de contexto local"
+    ],
+    "etica": "Debe gestionar el historial de forma privada y permitir eliminar recuerdos obsoletos o sensibles. El almacenamiento local reduce riesgos de fuga, pero puede reforzar sesgos si el contexto no se revisa.",
+    "web": "https://lucinity.com/luci-plugin",
+    "tipo": "Memoria para agentes IA",
+    "compania": "LUCI",
+    "id": "luci-desktop-4fb986",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito ofrece memoria básica o capacidad limitada para agentes y usuarios.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Supertake",
+    "descripcion": "Herramienta de IA que convierte ideas en oportunidades de inversión accionables. Analiza conceptos, mercados y datos para proponer estrategias o carteras.",
+    "precio": "Pago",
+    "funciones": [
+      "Conversión de ideas en tesis de inversión",
+      "Análisis de mercado y oportunidades",
+      "Generación de estrategias o carteras",
+      "Seguimiento de métricas de inversión"
+    ],
+    "caracteristicas": [
+      "Enfoque en inversión y finanzas",
+      "Automatización de análisis de ideas",
+      "Recomendaciones basadas en datos",
+      "Orientada a inversores o equipos"
+    ],
+    "etica": "Debe evitar consejos financieros irresponsables y declarar limitaciones o riesgos. El uso de datos de mercado puede introducir sesgos si no se valida con fuentes fiables.",
+    "web": "https://www.superaitools.io/",
+    "tipo": "Inversiones con IA",
+    "compania": "Supertake",
+    "id": "supertake-369ac0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Curie",
+    "descripcion": "Asistente de IA para literatura científica y análisis de documentos. Ayuda a buscar, resumir y extraer información de artículos, informes y fuentes académicas.",
+    "precio": "Freemium",
+    "funciones": [
+      "Búsqueda en literatura científica",
+      "Resumen de artículos y documentos",
+      "Extracción de datos y hallazgos",
+      "Análisis de referencias y contexto"
+    ],
+    "caracteristicas": [
+      "Orientado a investigación y ciencia",
+      "Procesamiento de documentos académicos",
+      "Resúmenes y síntesis de fuentes",
+      "Apoyo a revisión de literatura"
+    ],
+    "etica": "Debe citar fuentes y distinguir entre información verificada y generación de IA para evitar desinformación. El acceso a documentos debe respetar derechos de autor y privacidad de datos de investigación.",
+    "web": "https://www.curieai.com/",
+    "tipo": "Asistente científico",
+    "compania": "Curie",
+    "id": "curie-ab61eb",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-09-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite búsquedas o resúmenes limitados y acceso básico a documentos.",
     "intentos_web": 1
   }
 ]
