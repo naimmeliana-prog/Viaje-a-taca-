@@ -7812,7 +7812,7 @@
     ],
     "etica": "Promueve la propiedad intelectual de los usuarios y protege la privacidad de los datos creativos.",
     "limite_gratis": "El plan gratuito permite 3 proyectos activos y 10 colaboradores por proyecto.",
-    "web": "https://miora.ai/",
+    "web": "https://www.miora.com",
     "id": "miora-8a2f27",
     "gratis": true,
     "pago": true,
@@ -11529,7 +11529,7 @@
     "tipo": "Generación de imágenes",
     "precio": "Freemium",
     "descripcion": "Herramienta web que convierte fotos en personajes de la mitología griega usando modelos de difusión estilizados, ideal para crear arte personalizado.",
-    "web": "http://blurb.cam",
+    "web": "https://www.blurb.com",
     "funciones": [
       "Transformación de fotos en personajes mitológicos",
       "Estilos artísticos inspirados en la mitología griega",
@@ -11551,7 +11551,8 @@
     "pago": true,
     "fecha_agregado": "2026-08-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Coldtea.ai",
@@ -18047,27 +18048,29 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite gestionar hasta 3 cuentas de redes sociales y programar un máximo de 50 publicaciones al mes.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "iFixAi",
     "descripcion": "Plataforma de auditoría independiente para evaluar agentes de IA y detectar desalineaciones, riesgos o comportamientos inesperados. Ayuda a organizaciones a verificar que los sistemas actúen según objetivos y políticas definidas.",
-    "precio": "Pago",
+    "precio": "Freemium",
     "funciones": [
-      "Auditoría independiente de agentes de IA",
-      "Detección de desalineaciones y riesgos",
-      "Informe de cumplimiento y seguridad",
-      "Simulación de escenarios de uso"
+      "Auditar el desempeño de agentes de IA para identificar desviaciones",
+      "Detectar riesgos de seguridad y desalineaciones en tiempo real",
+      "Analizar comportamientos inesperados o anómalos en la IA",
+      "Generar informes detallados de evaluación y recomendaciones",
+      "Proporcionar métricas de alineación y ética en el uso de IA"
     ],
     "caracteristicas": [
-      "Enfoque en gobernanza y alineación",
-      "Evaluación de comportamientos de agentes",
-      "Documentación de hallazgos y recomendaciones",
-      "Orientada a equipos técnicos y de cumplimiento"
+      "Interfaz web intuitiva para configuración de auditorías",
+      "Análisis automatizado de datos de agentes de IA",
+      "Integración con plataformas y herramientas de IA populares",
+      "Reportes personalizables y exportables",
+      "Monitoreo continuo y alertas de riesgos"
     ],
-    "etica": "Promueve transparencia y responsabilidad al identificar sesgos o riesgos antes del despliegue. Debe proteger datos sensibles durante las pruebas y evitar falsos positivos que generen confianza excesiva.",
+    "etica": "Ayuda a garantizar el uso ético de la IA al detectar sesgos y proteger la privacidad, promoviendo la transparencia y la responsabilidad en los agentes automatizados.",
     "web": "https://www.ifixai.ai/",
-    "tipo": "Auditoría de agentes IA",
+    "tipo": "Auditoría de IA",
     "compania": "iFixAi",
     "id": "ifixai-5f6a00",
     "gratis": true,
@@ -18075,8 +18078,8 @@
     "fecha_agregado": "2026-09-30",
     "auto_detectado": true,
     "pendiente_revision": true,
-    "limite_gratis": "Sin plan gratuito",
-    "intentos_auto": 1,
+    "limite_gratis": "El plan gratuito incluye auditorías básicas con límite de agentes evaluados y funciones esenciales, pero sin acceso a reportes avanzados.",
+    "intentos_auto": 2,
     "intentos_web": 1
   },
   {
@@ -18164,6 +18167,141 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite búsquedas o resúmenes limitados y acceso básico a documentos.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "mind-reading",
+    "compania": "Desconocida",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Una herramienta de IA que puede adivinar lo que ves analizando escaneos cerebrales y recrear esa imagen con gran precisión.",
+    "funciones": [
+      "Analizar escaneos cerebrales",
+      "Recrear imágenes visuales a partir de datos neuronales",
+      "Generar reconstrucciones detalladas de objetos"
+    ],
+    "caracteristicas": [
+      "Alta resolución en reconstrucciones de imágenes",
+      "Tecnología de neuroimagen avanzada",
+      "Capacidad de inferir contenido visual interno"
+    ],
+    "etica": "Debe garantizar la privacidad estricta de los datos neuronales y evitar sesgos en la interpretación de las señales cerebrales.",
+    "limite_gratis": "El plan gratuito permite solo una reconstrucción por mes.",
+    "web": "https://themindreader.ai",
+    "id": "mind-reading-114b00",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Stardrift for iOS",
+    "descripcion": "Asistente de viaje integrado en el dispositivo móvil que ayuda a planificar y gestionar viajes.",
+    "compania": "Desconocida",
+    "tipo": "Asistente de viaje",
+    "precio": "Freemium",
+    "funciones": [
+      "Planificación de itinerarios",
+      "Búsqueda de alojamientos",
+      "Gestión de reservas aéreas"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva para dispositivos móviles",
+      "Acceso offline a mapas y rutas",
+      "Integración con proveedores de transporte"
+    ],
+    "etica": "Protege la privacidad de los datos de ubicación y itinerarios de los viajeros.",
+    "limite_gratis": "Proporciona planes ilimitados para usuarios con cuenta básica.",
+    "web": "https://stardrift.ai",
+    "id": "stardrift-for-ios-833737",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Polylane",
+    "descripcion": "Agentes de IA diseñados para corregir errores en la producción antes del inicio del día.",
+    "compania": "Desconocida",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Detección de errores en código",
+      "Optimización de flujos de trabajo",
+      "Corrección automática de producción"
+    ],
+    "caracteristicas": [
+      "Automatización de tareas repetitivas",
+      "Reducción de tiempos de desarrollo",
+      "Integración con entornos de desarrollo"
+    ],
+    "etica": "Garantiza la calidad del software y minimiza riesgos de errores críticos en producción.",
+    "limite_gratis": "Acceso a 10 correcciones mensuales gratuitas.",
+    "web": "https://www.producthunt.com/products/polylane",
+    "id": "polylane-c675a5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Vorker",
+    "descripcion": "Asistente de coworking inteligente que gestiona las operaciones diarias de un pequeño negocio.",
+    "compania": "Desconocida",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de agendas",
+      "Seguimiento de tareas",
+      "Automatización de procesos administrativos"
+    ],
+    "caracteristicas": [
+      "Inteligencia artificial conversacional",
+      "Adaptabilidad a diferentes roles empresariales",
+      "Análisis de datos operativos"
+    ],
+    "etica": "Protege la privacidad de los datos comerciales y evita sesgos en la asignación de tareas.",
+    "limite_gratis": "El plan gratuito incluye hasta 5 proyectos activos.",
+    "web": "https://vorker.ai",
+    "id": "vorker-689540",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Scape",
+    "descripcion": "Plataforma de colaboración de documentos en equipo que integra terminales de acceso rápido.",
+    "compania": "Desconocida",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Edición colaborativa en tiempo real",
+      "Acceso directo a terminales",
+      "Gestión de versiones de documentos"
+    ],
+    "caracteristicas": [
+      "Conexión con terminales de escritorio",
+      "Control de permisos estrictos",
+      "Sincronización instantánea entre equipos"
+    ],
+    "etica": "Implementa controles de seguridad para proteger información sensible de los documentos.",
+    "limite_gratis": "Ofrece almacenaje ilimitado pero con funciones de colaboración básicas.",
+    "web": "https://scape.app",
+    "id": "scape-e8e517",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
     "intentos_web": 1
   }
 ]
