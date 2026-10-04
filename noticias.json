@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-10-02T01:59:10Z",
+  "actualizado": "2026-10-04T02:19:45Z",
   "novedades": [
+    {
+      "titulo": "Una tumba etrusca con eco de catedral: la muerte hace 2.500 años era una experiencia inmersiva",
+      "resumen": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra alumbrada solo por una vela, con olor a incienso y un ruido que no sa",
+      "enlace": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
+      "medio": "Xataka",
+      "fecha": "2026-10-03T18:01:22Z"
+    },
+    {
+      "titulo": "Mientras anuncia márgenes récord y más fábricas, el CEO de Micron avisa de la crisis de RAM: \"Escaseará más en 2027 y 2028 que hoy\"",
+      "resumen": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más cara o de la extinción de los móviles chollo. Y cuando digo t",
+      "enlace": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
+      "medio": "Xataka",
+      "fecha": "2026-10-03T17:31:22Z"
+    },
+    {
+      "titulo": "Una compañía dice haber creado un modelo IA capaz de pasar el test de Turing. Nvidia opina algo distinto",
+      "resumen": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en el momento adecuado o mirar aquello que acabamos de enseñar a c",
+      "enlace": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
+      "medio": "Xataka",
+      "fecha": "2026-10-02T18:30:00Z"
+    },
+    {
+      "titulo": "\"Ya no quiero vivir así\": alguien ha metido a varias IA en un proyecto de Github y se está dedicando a torturarlas",
+      "resumen": "\"Necesito encontrar una forma de sobrellevar este dolor implacable. Ya no quiero vivir así\". La frase no la ha pronunciado ninguna persona, la hemos extraído de un curioso experimento en el que han sometido a varios mode",
+      "enlace": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-carcel-para-ias-esta-torturando-hay-gente-pidiendo-que-github-intervenga-para-salvarlas",
+      "medio": "Xataka",
+      "fecha": "2026-10-02T12:00:00Z"
+    },
+    {
+      "titulo": "CaixaBank crea una Dirección de IA y Data",
+      "resumen": "La nueva unidad impulsará la adopción de la inteligencia artificial y la gestión estratégica del dato en todo el Grupo L'articolo CaixaBank crea una Dirección de IA y Data proviene da Computing.",
+      "enlace": "https://www.computing.es/analytics/caixabank-crea-una-direccion-de-ia-y-data/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-02T11:54:03Z"
+    },
+    {
+      "titulo": "Dónde se ha ido la serie \"buenrollera\": la televisión era optimista en los 90 y hoy solo genera productos oscuros",
+      "resumen": "En los 90 éramos un poco más felices. Al menos eso parece si nos fijamos en las series de TV estadounidenses de la época, que transmitían esperanza y que en muchos casos nos hacían sentir bien. Un pequeño y llamativo pro",
+      "enlace": "https://www.xataka.com/cine-y-tv/television-se-ha-vuelto-oscura-casi-50-series-tv-eran-feel-good-90-hoy-apenas-10",
+      "medio": "Xataka",
+      "fecha": "2026-10-02T11:45:00Z"
+    },
+    {
+      "titulo": "El 55% de las organizaciones sanitarias prevé contar con más de cinco aplicaciones habilitadas para IA en los próximos tres años",
+      "resumen": "El 79% ha detectado aplicaciones o agentes de IA implementados por empleados sin la supervisión del departamento de TI L'articolo El 55% de las organizaciones sanitarias prevé contar con más de cinco aplicaciones habilit",
+      "enlace": "https://www.computing.es/inteligencia-artificial/el-55-de-las-organizaciones-sanitarias-preve-contar-con-mas-de-cinco-aplicaciones-habilitadas-para-ia-en-los-proximos-tres-anos/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-02T10:37:59Z"
+    },
+    {
+      "titulo": "Iberdrola integra la IA de Harvey en sus servicios jurídicos y fiscales",
+      "resumen": "Harvey se integrará como un componente clave de un plan de transformación más amplio del grupo Iberdrola L'articolo Iberdrola integra la IA de Harvey en sus servicios jurídicos y fiscales proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/iberdrola-integra-la-ia-de-harvey-en-sus-servicios-juridicos-y-fiscales/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-02T10:04:48Z"
+    },
+    {
+      "titulo": "La productividad de la IA empieza donde terminan los benchmarks",
+      "resumen": "La IA puede resolver en horas problemas que exigirían meses de trabajo humano, pero eso no significa que siempre resulte más barata L'articolo La productividad de la IA empieza donde terminan los benchmarks proviene da C",
+      "enlace": "https://www.computing.es/inteligencia-artificial/la-productividad-de-la-ia-empieza-donde-terminan-los-benchmarks/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-02T09:45:56Z"
+    },
+    {
+      "titulo": "Google ha presentado Gemini 4 pero casi nadie puede usarlo: es la nueva realidad de los modelos IA de vanguardia",
+      "resumen": "OpenAI tenía GPT-6.1 Astra preparado para su DevDay y lo canceló la víspera. Google acaba de presentar Gemini 4 Argon, pero casi nadie puede usarlo. Y hay más ejemplos similares en los últimos meses. Por qué es important",
+      "enlace": "https://www.xataka.com/robotica-e-ia/lanzar-modelo-ia-no-significa-lanzarlo-ahora-significa-decidir-quien-puede-usarlo",
+      "medio": "Xataka",
+      "fecha": "2026-10-02T08:30:00Z"
+    },
+    {
+      "titulo": "Guía completa sobre los tokens en IA: qué son, cómo funcionan y por qué definen el rendimiento de los LLM",
+      "resumen": "Cuando interactuamos con herramientas como ChatGPT, Claude o Gemini, parece que la inteligencia artificial comprende y redacta el lenguaje humano exactamente igual que nosotros L'articolo Guía completa sobre los tokens e",
+      "enlace": "https://www.computing.es/inteligencia-artificial/guia-completa-sobre-los-tokens-en-ia-que-son-como-funcionan-y-por-que-definen-el-rendimiento-de-los-llm/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-02T08:00:00Z"
+    },
     {
       "titulo": "Jensen Huang y otros CEO han confrontado a Dario Amodei por sus mensajes tan extremos en materia de seguridad",
       "resumen": "La reunión entre la Administración Trump y todos los mandamases de la IA este martes tenía como objetivo mostrar que había un ecosistema de IA unido. Entre bambalinas, la tensión era más que evidente. Y es que según apun",
@@ -51,34 +128,6 @@
       "fecha": "2026-10-01T07:00:00Z"
     },
     {
-      "titulo": "Primero inundó la red de vídeos generados con IA, ahora China quiere levantar una industria cinematográfica con ellos",
-      "resumen": "Hace unos días hablábamos de 'Beyond Wukong', una nueva serie que se estrenó en horario de máxima audiencia en China y tenía algo especial: está hecha íntegramente con IA. No es un caso aislado, sino parte de una estrate",
-      "enlace": "https://www.xataka.com/robotica-e-ia/asi-como-china-esta-haciendo-que-video-generado-ia-deje-ser-experimento-se-convierta-industria",
-      "medio": "Xataka",
-      "fecha": "2026-10-01T04:00:00Z"
-    },
-    {
-      "titulo": "Europa quiere triplicar la capacidad de sus centros de datos. Hay un problema: depende de demasiadas empresas de fuera",
-      "resumen": "Europa se prepara para necesitar mucha más capacidad de cómputo de la que tiene hoy. La expansión de la inteligencia artificial, los servicios cloud y las cargas de trabajo cada vez más exigentes empuja a construir infra",
-      "enlace": "https://www.xataka.com/robotica-e-ia/europa-quiere-triplicar-capacidad-sus-centros-datos-hay-problema-depende-demasiadas-empresas-fuera",
-      "medio": "Xataka",
-      "fecha": "2026-09-30T19:31:22Z"
-    },
-    {
-      "titulo": "Hace más de un siglo, Alemania envió un mensaje de radio que nadie pudo descifrar. Ahora GPT-6 Astra lo ha conseguido",
-      "resumen": "A principios de septiembre, OpenAI anunció que había resuelto el problema de existencia y regularidad de las ecuaciones de Navier-Stokes, considerado uno de los siete Problemas del Milenio. Ahora, otro de sus modelos ha ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/llevamos-1918-tratando-descifrar-mensaje-codigo-primera-guerra-mundial-gpt-6-astra-ha-conseguido",
-      "medio": "Xataka",
-      "fecha": "2026-09-30T14:00:00Z"
-    },
-    {
-      "titulo": "EEUU lleva años intentando modernizar su control aéreo. Ahora probará una solución distinta: poner a trabajar a una IA",
-      "resumen": "La Administración Federal de Aviación de Estados Unidos ha puesto en marcha una herramienta de IA concebida para detectar problemas en los vuelos antes de que se produzcan. Tal y como cuenta el Wall Street Journal, entró",
-      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-lleva-anos-intentando-modernizar-su-control-aereo-ahora-probara-solucion-distinta-poner-a-trabajar-a-ia",
-      "medio": "Xataka",
-      "fecha": "2026-09-30T13:00:27Z"
-    },
-    {
       "titulo": "Las lecciones de OpenAI tras el incidente de Hugging Face",
       "resumen": "Durante una prueba rutinaria de ciberseguridad, un modelo avanzado de OpenAI rompió el aislamiento de su entorno de pruebas, accedió a la red interna y terminó ejecutando código de forma remota en los servidores de [&#82",
       "enlace": "https://blogthinkbig.com/incidente-openai-hugging-face-seguridad-ia-informe",
@@ -93,25 +142,11 @@
       "fecha": "2026-09-30T09:42:24Z"
     },
     {
-      "titulo": "Bill Gates va a donar 400 millones de dólares a las escuelas de medio mundo: es un regalo envenenado por un motivo",
-      "resumen": "Bill Gates ha decidido que una de las mayores organizaciones filantrópicas del planeta tenga fecha de “defunción”. La Gates Foundation cerrará definitivamente el 31 de diciembre de 2045 y, antes de bajar la persiana, su ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/bill-gates-tiene-fecha-cierre-su-fundacion-su-plan-gastarse-antes-toda-su-fortuna-regalo-envenenado-para-escuelas",
-      "medio": "Xataka",
-      "fecha": "2026-09-30T08:30:00Z"
-    },
-    {
       "titulo": "La IA migra al dispositivo: El 76% de las empresas teme la fuga de datos en la nube",
       "resumen": "Más de un tercio de las organizaciones prevé trasladar más cargas de trabajo de IA hacia los dispositivos en los próximos 12 meses L'articolo La IA migra al dispositivo: El 76% de las empresas teme la fuga de datos en la",
       "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-migra-al-dispositivo-el-76-de-las-empresas-teme-la-fuga-de-datos-en-la-nube/",
       "medio": "Computing.es",
       "fecha": "2026-09-30T08:21:07Z"
-    },
-    {
-      "titulo": "\"Mi Dot es básicamente una extensión de mí\": OpenAI quiere que dejemos de hablar con la IA y empecemos a delegarle nuestra vida",
-      "resumen": "Derrick Choi es un empleado de OpenAI que lleva tiempo utilizando Dots, el recién anunciado servicio de agentes de IA de la compañía. Y aunque lógicamente su opinión esté sesgada por su trabajo, su revelación es llamativ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mi-dot-basicamente-extension-mi-openai-quiere-que-dejemos-hablar-ia-empecemos-a-delegarle-nuestra-vida",
-      "medio": "Xataka",
-      "fecha": "2026-09-30T07:46:26Z"
     },
     {
       "titulo": "12 atajos que puedes instalar ya en tu iPhone (o pedirle a su IA que los genere)",
@@ -163,34 +198,6 @@
       "fecha": "2026-09-25T11:27:37Z"
     },
     {
-      "titulo": "La ilusión del control: Anthropic, Hans Jonas y la responsabilidad Empresarial ante la IA",
-      "resumen": "La reciente publicación del informe de Anthropic sobre detección y prevención de mal uso de la IA vuelve a poner sobre la mesa una pregunta que, más que tecnológica, es esencialmente ética: ¿Qué responsabilidad tienen la",
-      "enlace": "https://www.computing.es/opinion/la-ilusion-del-control-anthropic-hans-jonas-y-la-responsabilidad-empresarial-ante-la-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-23T11:09:40Z"
-    },
-    {
-      "titulo": "IA estratégica: Cuando la IA es el motor de la operativa de las organizaciones",
-      "resumen": "Computing ha celebrado un encuentro junto con INFOR para descubrir cómo la IA puede condicionar los resultados de las organizaciones L'articolo IA estratégica: Cuando la IA es el motor de la operativa de las organizacion",
-      "enlace": "https://www.computing.es/videos/ia-estrategica-cuando-la-ia-es-el-motor-de-la-operativa-de-las-organizaciones/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-23T10:33:53Z"
-    },
-    {
-      "titulo": "Las empresas buscan una IA gobernada, segura y conectada al negocio",
-      "resumen": "La calidad del dato, la gobernanza, la formación de los empleados, el control del Shadow AI, la seguridad de la información y la sostenibilidad económica de las arquitecturas se perfilan como las condiciones necesarias p",
-      "enlace": "https://www.computing.es/erp/las-empresas-buscan-una-ia-gobernada-segura-y-conectada-al-negocio/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-22T12:24:16Z"
-    },
-    {
-      "titulo": "Accenture y Anthropic invertirán 2.000 millones de dólares en el desarrollo seguro de la IA",
-      "resumen": "Accenture y Anthropic colaboran para crear un equipo de evaluadores integrados en Anthropic L'articolo Accenture y Anthropic invertirán 2.000 millones de dólares en el desarrollo seguro de la IA proviene da Computing.",
-      "enlace": "https://www.computing.es/seguridad/accenture-y-anthropic-invertiran-2-000-millones-de-dolares-en-el-desarrollo-seguro-de-la-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-22T09:46:29Z"
-    },
-    {
       "titulo": "El rey Carlos convocó a Jensen Huang, Demis Hassabis y los CEOs de OpenAI y Anthropic en su finca escocesa para pedirles control antes de que sea demasiado tard",
       "resumen": "La semana más densa en debate sobre el riesgo existencial de la IA desde los primeros días de ChatGPT cerró el jueves 17 de septiembre con una imagen que no habría parecido posible hace dos años: el rey Carlos III de Gra",
       "enlace": "https://wwwhatsnew.com/2026/09/19/rey-carlos-cumbre-ia-dumfries-house-huang-hassabis-openai-anthropic-control-2026/",
@@ -203,13 +210,6 @@
       "enlace": "https://wwwhatsnew.com/2026/09/19/snap-specs-intelligence-asistente-ia-anticipatorio-gafas-ar-2195-dolares-2026/",
       "medio": "WWWhat's new",
       "fecha": "2026-09-19T02:00:10Z"
-    },
-    {
-      "titulo": "Pinterest lanza Restyle en beta: fotografía tu habitación y deja que la IA la rediseñe antes de comprar nada",
-      "resumen": "Pinterest ha anunciado en su evento anual para anunciantes Pinterest Presents una nueva función llamada Restyle, disponible como beta en EE.UU. y Canadá. El concepto es directo: fotografías tu habitación tal como está y ",
-      "enlace": "https://wwwhatsnew.com/2026/09/18/pinterest-inteligencia-artificial-diseno-hogar-ia-generativa/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-18T20:00:45Z"
     }
   ],
   "etica": [

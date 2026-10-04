@@ -18048,11 +18048,11 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite gestionar hasta 3 cuentas de redes sociales y programar un máximo de 50 publicaciones al mes.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "iFixAi",
-    "descripcion": "Plataforma de auditoría independiente para evaluar agentes de IA y detectar desalineaciones, riesgos o comportamientos inesperados. Ayuda a organizaciones a verificar que los sistemas actúen según objetivos y políticas definidas.",
+    "descripcion": "Plataforma de auditoría independiente para evaluar agentes de IA y detectar desalineaciones, riesgos o comportamientos inesperados. Ayuda a organizaciones a verificar que los sistemas actúen según obj",
     "precio": "Freemium",
     "funciones": [
       "Auditar el desempeño de agentes de IA para identificar desviaciones",
@@ -18077,9 +18077,8 @@
     "pago": true,
     "fecha_agregado": "2026-09-30",
     "auto_detectado": true,
-    "pendiente_revision": true,
+    "pendiente_revision": false,
     "limite_gratis": "El plan gratuito incluye auditorías básicas con límite de agentes evaluados y funciones esenciales, pero sin acceso a reportes avanzados.",
-    "intentos_auto": 2,
     "intentos_web": 1
   },
   {
@@ -18248,7 +18247,7 @@
     "fecha_agregado": "2026-10-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Vorker",
@@ -18300,6 +18299,122 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Thanor AI",
+    "descripcion": "Plataforma de IA que genera diseños web profesionales y personalizados, evitando apariencias genéricas o de baja calidad.",
+    "compania": "Thanor AI",
+    "tipo": "Generación de diseño web",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación automática de layouts web",
+      "Personalización de estilos visuales",
+      "Optimización de experiencia de usuario",
+      "Integración con herramientas de desarrollo"
+    ],
+    "caracteristicas": [
+      "Plantillas adaptables a nichos específicos",
+      "Edición en tiempo real con IA",
+      "Compatibilidad con frameworks modernos",
+      "Análisis de tendencias de diseño"
+    ],
+    "etica": "Prioriza la privacidad de los datos de los usuarios y promueve diseños inclusivos, aunque podría heredar sesgos de los datos de entrenamiento.",
+    "limite_gratis": "Ofrece 5 diseños mensuales con funcionalidades básicas; el plan premium desbloquea personalización avanzada y soporte prioritario.",
+    "web": "https://www.producthunt.com/products/thanor-ai",
+    "id": "thanor-ai-e8a7cd",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-04",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Muse Gadgets",
+    "descripcion": "Kit de código abierto de Meta para crear dispositivos inteligentes personalizados, facilitando la innovación en hardware con IA.",
+    "compania": "Meta",
+    "tipo": "Desarrollo de hardware IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Bibliotecas de código abierto para IA en hardware",
+      "Herramientas de prototipado rápido",
+      "Documentación detallada para desarrolladores",
+      "Comunidad colaborativa para compartir proyectos"
+    ],
+    "caracteristicas": [
+      "Compatibilidad con microcontroladores populares",
+      "Ejemplos de proyectos listos para usar",
+      "Soporte para integración con servicios en la nube",
+      "Actualizaciones continuas de componentes"
+    ],
+    "etica": "Fomenta la transparencia y la colaboración abierta, aunque su uso depende de la responsabilidad de los desarrolladores.",
+    "limite_gratis": "Acceso completo al código abierto y a la comunidad activa, sin restricciones en el uso o distribución.",
+    "web": "https://www.producthunt.com/products/muse-22",
+    "id": "muse-gadgets-489236",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-04",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Sapien",
+    "descripcion": "Herramienta de IA que utiliza poblaciones sintéticas para realizar análisis de mercado preciso y simulaciones de comportamiento consumidor.",
+    "compania": "Sapien",
+    "tipo": "Investigación de mercado",
+    "precio": "Pago",
+    "funciones": [
+      "Modelado de poblaciones sintéticas personalizadas",
+      "Análisis predictivo de tendencias de mercado",
+      "Generación de escenarios hipotéticos",
+      "Integración con bases de datos de clientes"
+    ],
+    "caracteristicas": [
+      "Simulación de comportamientos demográficos",
+      "Visualización interactiva de datos",
+      "Cumplimiento de normativas de privacidad",
+      "Escalabilidad para grandes volúmenes de datos"
+    ],
+    "etica": "Garantiza la privacidad de los datos reales mediante el uso de poblaciones sintéticas, aunque requiere supervisión para evitar sesgos en los modelos.",
+    "limite_gratis": "Sin plan gratuito; ofrece una demostración gratuita con funcionalidades limitadas para evaluar su uso.",
+    "web": "https://www.producthunt.com/products/sapien-4",
+    "id": "sapien-7be3f4",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-04",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Reassign",
+    "descripcion": "Aplicación de planificación basada en narrativas que transforma la rutina diaria en historias coherentes, ideal para creadores y emprendedores.",
+    "compania": "Reassign",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Organización de tareas en formato narrativo",
+      "Creación de historias diarias personalizadas",
+      "Seguimiento de progresos con visualizaciones",
+      "Colaboración en proyectos grupales"
+    ],
+    "caracteristicas": [
+      "Integración con calendarios y recordatorios",
+      "Plantillas temáticas para diferentes estilos de vida",
+      "Exportación de planes a formatos PDF o texto",
+      "Sincronización en múltiples dispositivos"
+    ],
+    "etica": "Protege los datos personales de los usuarios y promueve la equidad en el acceso a herramientas de productividad.",
+    "limite_gratis": "Permite crear hasta 3 historias diarias con funciones básicas; el plan premium añade colaboración ilimitada y plantillas avanzadas.",
+    "web": "https://www.producthunt.com/products/reassign",
+    "id": "reassign-f4a90d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-04",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
