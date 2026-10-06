@@ -1,19 +1,103 @@
 {
-  "actualizado": "2026-10-04T02:19:45Z",
+  "actualizado": "2026-10-06T02:41:28Z",
   "novedades": [
     {
-      "titulo": "Una tumba etrusca con eco de catedral: la muerte hace 2.500 años era una experiencia inmersiva",
+      "titulo": "Elon Musk podría vivir donde quisiera, pero eligió una caravana junto a un enorme complejo de centros de datos en expansión",
+      "resumen": "Elon Musk puede permitirse vivir prácticamente en cualquier lugar del mundo. Su fortuna hace que elegir una casa, un hotel o incluso una ciudad difícilmente dependa del dinero, así que cuando decide dónde instalarse conv",
+      "enlace": "https://www.xataka.com/magnet/elon-musk-podria-vivir-donde-quisiera-eligio-caravana-a-enorme-complejo-centros-datos-expansion",
+      "medio": "Xataka",
+      "fecha": "2026-10-05T21:52:00Z"
+    },
+    {
+      "titulo": "Los peligros de la IA según Sam Altman: ‘El fin justifica los medios’",
+      "resumen": "Durante las últimas semanas, Silicon Valley se ha convertido en un polvorín de opiniones. El CEO de Anthropic, Dario Amodei, ha señalado como contundentes los peligros de la IA en varios de los modelos de [&#8230;] Los p",
+      "enlace": "https://blogthinkbig.com/los-peligros-de-la-ia-segun-sam-altman-el-fin-justifica-los-medios",
+      "medio": "Think Big",
+      "fecha": "2026-10-05T15:56:14Z"
+    },
+    {
+      "titulo": "Mientras China acelera a toda velocidad, EEUU vive otra realidad: solo un 2% de las familias pagan por la IA",
+      "resumen": "La industria de la inteligencia artificial se encuentra en un momento incómodo. Anthropic y OpenAI llevan meses avisando de sus intenciones de convertirse en empresas públicas, pero el año toca a su fin y no vemos movimi",
+      "enlace": "https://www.xataka.com/empresas-y-economia/china-acelera-a-toda-velocidad-cifras-uso-ia-a-pie-calle-eeuu-bastante-discretas-solo-2-paga-ella",
+      "medio": "Xataka",
+      "fecha": "2026-10-05T15:00:00Z"
+    },
+    {
+      "titulo": "Los datos de EEUU apuntan en una dirección: \"algo\" ha destruido más de 200.000 empleos creativos desde 2022",
+      "resumen": "En 2000, Metallica descubrió que el nuevo single que había grabado para la banda sonora de Misión imposible \"I disappear\" circulaba por Napster antes de salir a la venta. La banda fue a juicio y la plataforma finalmente ",
+      "enlace": "https://www.xataka.com/literatura-comics-y-juegos/patron-emerge-eeuu-numero-empleados-industria-artes-se-esta-desplomando-sospechosamente-2022",
+      "medio": "Xataka",
+      "fecha": "2026-10-05T12:30:00Z"
+    },
+    {
+      "titulo": "Tu reloj inteligente cambia para siempre: al fin empiezan a hacer lo que llevamos años pidiendo",
+      "resumen": "Si bien llevamos años monitoreando nuestra salud con smartwatches y pulseras de actividad, recién ahora estamos comenzando a encontrarle utilidad a la información que recopilan. El furor por la IA generativa ha llevado a",
+      "enlace": "https://blogthinkbig.com/tu-reloj-inteligente-cambia-para-siempre-al-fin-empiezan-a-hacer-lo-que-llevamos-anos-pidiendo",
+      "medio": "Think Big",
+      "fecha": "2026-10-05T12:01:00Z"
+    },
+    {
+      "titulo": "El permiso más peligroso de macOS acaba de encontrar una nueva amenaza: los agentes de IA",
+      "resumen": "Los agentes de IA ya no son simples aplicaciones a las que hacemos una pregunta. Ya hay opciones para convertirlos en herramientas capaces de hacer cosas por nosotros. Buscar archivos, ejecutar comandos, consultar inform",
+      "enlace": "https://www.applesfera.com/os-x/agentes-ia-pueden-controlar-todo-nuestro-mac-apple-se-ha-dado-cuenta-este-riesgo",
+      "medio": "Applesfera",
+      "fecha": "2026-10-05T08:00:00Z"
+    },
+    {
+      "titulo": "Gemini 4 vs GPT-6 Astra y Claude Opus 5.5: ¿qué modelo de IA es mejor? [2026]",
+      "resumen": "La actualidad no descansa y la inteligencia artificial sigue su evolución a toda velocidad. A principios de septiembre, OpenAI presentó GPT-6 Astra, su nuevo y potente modelo de IA para que ChatGPT se vuelva más [&#8230;",
+      "enlace": "https://blogthinkbig.com/comparativa-ia-gemini-4-argon-gpt-6-astra-claude-opus-5-5",
+      "medio": "Think Big",
+      "fecha": "2026-10-05T07:49:22Z"
+    },
+    {
+      "titulo": "CaixaBank crea una Dirección de IA y Data",
+      "resumen": "La nueva unidad impulsará la adopción de la inteligencia artificial y la gestión estratégica del dato en todo el Grupo L'articolo CaixaBank crea una Dirección de IA y Data proviene da Computing.",
+      "enlace": "https://www.computing.es/analytics/caixabank-crea-una-direccion-de-ia-y-data/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-05T07:00:00Z"
+    },
+    {
+      "titulo": "15 años de Siri: los años en los que los usuarios pusieron a los asistentes de voz en su sitio",
+      "resumen": "El 4 de octubre de 2011, Siri vio la luz en la presentación del iPhone 4s. Fue un hito tecnológico para Apple, pero también para el sector, pues por primera vez se integraba un asistente virtual inteligente en un product",
+      "enlace": "https://www.applesfera.com/curiosidades/15-anos-siri-decada-que-usuarios-pusieron-a-asistentes-voz-su-sitio",
+      "medio": "Applesfera",
+      "fecha": "2026-10-04T16:01:22Z"
+    },
+    {
+      "titulo": "Tu Big Mac ya no vale lo mismo que el de la calle de al lado: McDonald's está usando IA para determinar el precio de tu hamburguesa",
+      "resumen": "Entras a un McDonald's, vas a pedir un Big Mac y te encuentras que vale 6,90 euros. Te vas a otro restaurante de la franquicia y descubres que allí vale 8 euros. Parece imposible, pero es cierto y de hecho ya está pasand",
+      "enlace": "https://www.xataka.com/aplicaciones/mcdonald-s-esta-usando-ia-para-sugerir-precio-big-mac-funcion-local-a-sus-clientes-no-les-esta-gustando",
+      "medio": "Xataka",
+      "fecha": "2026-10-04T14:30:00Z"
+    },
+    {
+      "titulo": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
+      "resumen": "Micron ha cerrado el último trimestre con 37.700 millones de dólares de beneficio, frente a 3.201 millones conseguidos en el mismo trimestre de hace un año. En su último trimestre, Apple ganó 29.800 millones con unos ing",
+      "enlace": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
+      "medio": "Xataka",
+      "fecha": "2026-10-04T09:01:21Z"
+    },
+    {
+      "titulo": "Nuestra tele de dentro de cinco años se está fraguando ya hoy, y este 2026 hemos visto muchos avances que queremos ya en nuestro salón",
+      "resumen": "Mirar el mercado de televisores y fijarnos solo en la batalla por el brillo máximo o los colores más puros no es ni de lejos lo más interesante que está pasando ahora mismo en el sector. Aprovechando los Premios Xataka, ",
+      "enlace": "https://www.xataka.com/televisores/nuestra-tele-dentro-cinco-anos-se-esta-fraguando-hoy-este-2026-hemos-visto-muchos-avances-que-queremos-nuestro-salon",
+      "medio": "Xataka",
+      "fecha": "2026-10-04T08:31:22Z"
+    },
+    {
+      "titulo": "Los etruscos diseñaron sus tumbas hace 2.500 años con un sobrecogedor \"efecto catedral\": la muerte era un espectáculo sensorial",
       "resumen": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra alumbrada solo por una vela, con olor a incienso y un ruido que no sa",
       "enlace": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
       "medio": "Xataka",
-      "fecha": "2026-10-03T18:01:22Z"
+      "fecha": "2026-10-03T18:00:00Z"
     },
     {
-      "titulo": "Mientras anuncia márgenes récord y más fábricas, el CEO de Micron avisa de la crisis de RAM: \"Escaseará más en 2027 y 2028 que hoy\"",
+      "titulo": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
       "resumen": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más cara o de la extinción de los móviles chollo. Y cuando digo t",
       "enlace": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
       "medio": "Xataka",
-      "fecha": "2026-10-03T17:31:22Z"
+      "fecha": "2026-10-03T17:30:00Z"
     },
     {
       "titulo": "Una compañía dice haber creado un modelo IA capaz de pasar el test de Turing. Nvidia opina algo distinto",
@@ -28,20 +112,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-carcel-para-ias-esta-torturando-hay-gente-pidiendo-que-github-intervenga-para-salvarlas",
       "medio": "Xataka",
       "fecha": "2026-10-02T12:00:00Z"
-    },
-    {
-      "titulo": "CaixaBank crea una Dirección de IA y Data",
-      "resumen": "La nueva unidad impulsará la adopción de la inteligencia artificial y la gestión estratégica del dato en todo el Grupo L'articolo CaixaBank crea una Dirección de IA y Data proviene da Computing.",
-      "enlace": "https://www.computing.es/analytics/caixabank-crea-una-direccion-de-ia-y-data/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-02T11:54:03Z"
-    },
-    {
-      "titulo": "Dónde se ha ido la serie \"buenrollera\": la televisión era optimista en los 90 y hoy solo genera productos oscuros",
-      "resumen": "En los 90 éramos un poco más felices. Al menos eso parece si nos fijamos en las series de TV estadounidenses de la época, que transmitían esperanza y que en muchos casos nos hacían sentir bien. Un pequeño y llamativo pro",
-      "enlace": "https://www.xataka.com/cine-y-tv/television-se-ha-vuelto-oscura-casi-50-series-tv-eran-feel-good-90-hoy-apenas-10",
-      "medio": "Xataka",
-      "fecha": "2026-10-02T11:45:00Z"
     },
     {
       "titulo": "El 55% de las organizaciones sanitarias prevé contar con más de cinco aplicaciones habilitadas para IA en los próximos tres años",
@@ -65,39 +135,11 @@
       "fecha": "2026-10-02T09:45:56Z"
     },
     {
-      "titulo": "Google ha presentado Gemini 4 pero casi nadie puede usarlo: es la nueva realidad de los modelos IA de vanguardia",
-      "resumen": "OpenAI tenía GPT-6.1 Astra preparado para su DevDay y lo canceló la víspera. Google acaba de presentar Gemini 4 Argon, pero casi nadie puede usarlo. Y hay más ejemplos similares en los últimos meses. Por qué es important",
-      "enlace": "https://www.xataka.com/robotica-e-ia/lanzar-modelo-ia-no-significa-lanzarlo-ahora-significa-decidir-quien-puede-usarlo",
-      "medio": "Xataka",
-      "fecha": "2026-10-02T08:30:00Z"
-    },
-    {
       "titulo": "Guía completa sobre los tokens en IA: qué son, cómo funcionan y por qué definen el rendimiento de los LLM",
       "resumen": "Cuando interactuamos con herramientas como ChatGPT, Claude o Gemini, parece que la inteligencia artificial comprende y redacta el lenguaje humano exactamente igual que nosotros L'articolo Guía completa sobre los tokens e",
       "enlace": "https://www.computing.es/inteligencia-artificial/guia-completa-sobre-los-tokens-en-ia-que-son-como-funcionan-y-por-que-definen-el-rendimiento-de-los-llm/",
       "medio": "Computing.es",
       "fecha": "2026-10-02T08:00:00Z"
-    },
-    {
-      "titulo": "Jensen Huang y otros CEO han confrontado a Dario Amodei por sus mensajes tan extremos en materia de seguridad",
-      "resumen": "La reunión entre la Administración Trump y todos los mandamases de la IA este martes tenía como objetivo mostrar que había un ecosistema de IA unido. Entre bambalinas, la tensión era más que evidente. Y es que según apun",
-      "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-otros-grandes-ceo-tecnologicos-han-confrontado-a-dario-amodei-sus-mensajes-extremos-materia-seguridad",
-      "medio": "Xataka",
-      "fecha": "2026-10-01T16:31:23Z"
-    },
-    {
-      "titulo": "Gemini 4 puede escribir un millón de tokens de una sentada: el producto ya no es el chat sino el trabajo largo y autónomo",
-      "resumen": "Hasta esta semana, un modelo Gemini podía generar como mucho 64.000 tokens por respuesta. Gemini 4 Argon, presentado por Google anoche, sube ese techo a un millón. Para que funcione, la API estrena una función que pausa ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gemini-4-puede-escribir-millon-tokens-sentada-producto-no-chat-sino-trabajo-largo-autonomo",
-      "medio": "Xataka",
-      "fecha": "2026-10-01T14:30:00Z"
-    },
-    {
-      "titulo": "OpenAI se enfrenta a una demanda que aspira a marcar un antes y un después: ¿quién responde cuando una IA comete un delito?",
-      "resumen": "El pasado mes de julio saltaba la noticia de que un modelo de OpenAI había escapado del entorno de pruebas y había hackeado los servidores de Hugging Face. Este incidente (el primero de muchos) fue la mecha que encendió ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-se-enfrenta-a-demanda-que-puede-marcar-antes-despues-quien-responde-cuando-ia-comete-delito",
-      "medio": "Xataka",
-      "fecha": "2026-10-01T13:30:00Z"
     },
     {
       "titulo": "China y Estados Unidos, obligados a entenderse por la IA entre el recelo y la desconfianza",
@@ -114,32 +156,11 @@
       "fecha": "2026-10-01T07:30:00Z"
     },
     {
-      "titulo": "Gemini 4 arrasa en los benchmarks y vuelve a meter a Google en la carrera de la IA",
-      "resumen": "La imagen oficial de Google parece sacada de la nueva película de los 'Cuatro Fantásticos', pero qué va: supone la vuelta a una carrera que parecía haber abandonado. Durante meses la compañía ha estado un poco a la deriv",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gemini-4-arrasa-benchmarks-vuelve-a-meter-a-google-carrera-ia-problema-precisamente-benchmarks",
-      "medio": "Xataka",
-      "fecha": "2026-10-01T07:21:00Z"
-    },
-    {
       "titulo": "KPMG y Orbio AI aplican la IA agéntica para la selección de talento",
       "resumen": "La alianza entre ambas firmas combina la capacidad de KPMG para transformar la función de Recursos Humanos con la tecnología de agentes de inteligencia artificial de Orbio AI L'articolo KPMG y Orbio AI aplican la IA agén",
       "enlace": "https://www.computing.es/recursos-humanos/kpmg-y-orbio-ai-aplican-la-ia-agentica-para-la-seleccion-de-talento/",
       "medio": "Computing.es",
       "fecha": "2026-10-01T07:00:00Z"
-    },
-    {
-      "titulo": "Las lecciones de OpenAI tras el incidente de Hugging Face",
-      "resumen": "Durante una prueba rutinaria de ciberseguridad, un modelo avanzado de OpenAI rompió el aislamiento de su entorno de pruebas, accedió a la red interna y terminó ejecutando código de forma remota en los servidores de [&#82",
-      "enlace": "https://blogthinkbig.com/incidente-openai-hugging-face-seguridad-ia-informe",
-      "medio": "Think Big",
-      "fecha": "2026-09-30T10:17:44Z"
-    },
-    {
-      "titulo": "Cualquier IA va a poder controlar tu casa: qué es Google Home MCP",
-      "resumen": "Google Home es la plataforma de Google para domótica, o como se suele llamar hoy en día, hogar inteligente u hogar conectado. En palabras de la propia Google, es “el ecosistema del hogar inteligente que [&#8230;] Cualqui",
-      "enlace": "https://blogthinkbig.com/que-es-google-home-mcp-hogar-inteligente",
-      "medio": "Think Big",
-      "fecha": "2026-09-30T09:42:24Z"
     },
     {
       "titulo": "La IA migra al dispositivo: El 76% de las empresas teme la fuga de datos en la nube",
@@ -156,25 +177,11 @@
       "fecha": "2026-09-29T11:00:00Z"
     },
     {
-      "titulo": "El nuevo modelo gratis de Claude sorprende a todos: así es Claude Sonnet 5.5",
-      "resumen": "Anthropic ha lanzado Claude Sonnet 5.5 apenas tres meses después de la llegada de Sonnet 5. El anuncio actualiza la gama media de la compañía con una premisa diferente a la de las presentaciones habituales [&#8230;] El n",
-      "enlace": "https://blogthinkbig.com/claude-sonnet-5-5-eficiencia-anthropic",
-      "medio": "Think Big",
-      "fecha": "2026-09-29T09:26:45Z"
-    },
-    {
       "titulo": "Accenture inaugura su Agentic AI Innovation Hub en Barcelona",
       "resumen": "En el nuevo espacio, los profesionales de la compañía trabajan con organizaciones y startups para coinnovar y desarrollar soluciones habilitadas por la IA agéntica L'articolo Accenture inaugura su Agentic AI Innovation H",
       "enlace": "https://www.computing.es/inteligencia-artificial/accenture-inaugura-su-agentic-ai-innovation-hub-en-barcelona/",
       "medio": "Computing.es",
       "fecha": "2026-09-29T07:44:00Z"
-    },
-    {
-      "titulo": "Europa también compite (I): las cinco startups de IA y robótica que debes tener en el radar",
-      "resumen": "Parece que las grandes tecnológicas estadounidenses lo eclipsan todo en inteligencia artificial. Salvo quizá a las empresas chinas, que trabajan por su cuenta, normalmente en modelos de pesos abiertos. Pero lo cierto es ",
-      "enlace": "https://blogthinkbig.com/europa-tambien-compite-startups-ia",
-      "medio": "Think Big",
-      "fecha": "2026-09-28T16:11:13Z"
     },
     {
       "titulo": "Microsoft presenta el nuevo Copilot",
@@ -189,13 +196,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/pinero-gestiona-500-000-consultas-anuales-a-traves-de-la-ia/",
       "medio": "Computing.es",
       "fecha": "2026-09-28T07:43:19Z"
-    },
-    {
-      "titulo": "Las empresas temen que la IA debilite la capacidad de decisión de sus empleados",
-      "resumen": "La pérdida de juicio crítico y el deterioro del aprendizaje en el puesto de trabajo figuran entre las principales preocupaciones de las organizaciones L'articolo Las empresas temen que la IA debilite la capacidad de deci",
-      "enlace": "https://www.computing.es/informes/las-empresas-temen-que-la-ia-debilite-la-capacidad-de-decision-de-sus-empleados/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-25T11:27:37Z"
     },
     {
       "titulo": "El rey Carlos convocó a Jensen Huang, Demis Hassabis y los CEOs de OpenAI y Anthropic en su finca escocesa para pedirles control antes de que sea demasiado tard",
@@ -213,13 +213,6 @@
     }
   ],
   "etica": [
-    {
-      "titulo": "OpenAI se enfrenta a una demanda que aspira a marcar un antes y un después: ¿quién responde cuando una IA comete un delito?",
-      "resumen": "El pasado mes de julio saltaba la noticia de que un modelo de OpenAI había escapado del entorno de pruebas y había hackeado los servidores de Hugging Face. Este incidente (el primero de muchos) fue la mecha que encendió ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-se-enfrenta-a-demanda-que-puede-marcar-antes-despues-quien-responde-cuando-ia-comete-delito",
-      "medio": "Xataka",
-      "fecha": "2026-10-01T13:30:00Z"
-    },
     {
       "titulo": "El Consejo de Supervisión de Meta ordena retirar dos deepfakes y llama a sus reglas de IA «fundamentalmente inadecuadas»",
       "resumen": "El Consejo de Supervisión de Meta publicó el 17 de septiembre dos resoluciones que ordenan a la empresa retirar vídeos de deepfake y que llaman su política de IA generativa «consistente y fundamentalmente inadecuada para",
@@ -352,6 +345,13 @@
       "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
       "medio": "Genbeta",
       "fecha": "2025-12-11T12:32:00Z"
+    },
+    {
+      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
+      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
+      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
+      "medio": "Genbeta",
+      "fecha": "2025-12-03T07:41:00Z"
     }
   ]
 }

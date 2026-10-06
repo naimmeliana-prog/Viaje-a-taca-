@@ -18048,7 +18048,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite gestionar hasta 3 cuentas de redes sociales y programar un máximo de 50 publicaciones al mes.",
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "iFixAi",
@@ -18240,14 +18240,14 @@
     ],
     "etica": "Garantiza la calidad del software y minimiza riesgos de errores críticos en producción.",
     "limite_gratis": "Acceso a 10 correcciones mensuales gratuitas.",
-    "web": "https://www.producthunt.com/products/polylane",
+    "web": "https://polylane.com",
     "id": "polylane-c675a5",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Vorker",
@@ -18323,14 +18323,14 @@
     ],
     "etica": "Prioriza la privacidad de los datos de los usuarios y promueve diseños inclusivos, aunque podría heredar sesgos de los datos de entrenamiento.",
     "limite_gratis": "Ofrece 5 diseños mensuales con funcionalidades básicas; el plan premium desbloquea personalización avanzada y soporte prioritario.",
-    "web": "https://www.producthunt.com/products/thanor-ai",
+    "web": "https://thanor.ai",
     "id": "thanor-ai-e8a7cd",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-04",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Muse Gadgets",
@@ -18352,14 +18352,14 @@
     ],
     "etica": "Fomenta la transparencia y la colaboración abierta, aunque su uso depende de la responsabilidad de los desarrolladores.",
     "limite_gratis": "Acceso completo al código abierto y a la comunidad activa, sin restricciones en el uso o distribución.",
-    "web": "https://www.producthunt.com/products/muse-22",
+    "web": "https://muse.ai",
     "id": "muse-gadgets-489236",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-10-04",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Sapien",
@@ -18381,14 +18381,14 @@
     ],
     "etica": "Garantiza la privacidad de los datos reales mediante el uso de poblaciones sintéticas, aunque requiere supervisión para evitar sesgos en los modelos.",
     "limite_gratis": "Sin plan gratuito; ofrece una demostración gratuita con funcionalidades limitadas para evaluar su uso.",
-    "web": "https://www.producthunt.com/products/sapien-4",
+    "web": "https://sapien.ai",
     "id": "sapien-7be3f4",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-10-04",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Reassign",
@@ -18415,6 +18415,130 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-04",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Spira Maxima",
+    "descripcion": "Modelo de IA que convierte guiones en videos virales para redes sociales, optimizados para engagement y formatos modernos.",
+    "compania": "Spira",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "funciones": [
+      "Transformar guiones en videos con IA",
+      "Edición automática de clips virales",
+      "Personalización para plataformas como TikTok, Instagram y YouTube",
+      "Generación de subtítulos y efectos visuales",
+      "Plantillas prediseñadas para tendencias sociales"
+    ],
+    "caracteristicas": [
+      "Motor de IA multilingüe para contenido global",
+      "Integración con herramientas de edición existentes",
+      "Análisis de métricas de engagement en tiempo real",
+      "Soporte para formatos verticales y horizontales",
+      "Actualizaciones semanales de tendencias virales"
+    ],
+    "etica": "Protección de datos de usuarios mediante encriptación y cumplimiento de GDPR. Evita contenido duplicado mediante algoritmos de originalidad.",
+    "limite_gratis": "El plan gratuito permite generar hasta 3 videos mensuales con marca de agua y duración máxima de 60 segundos.",
+    "web": "https://spira.ai",
+    "id": "spira-maxima-ac868b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Oogwai Beacon",
+    "descripcion": "Herramienta de auditoría para optimizar el posicionamiento en Answer Engines como Google, Bing y asistentes de voz.",
+    "compania": "Oogwai",
+    "tipo": "Optimización de motores de búsqueda",
+    "precio": "Freemium",
+    "funciones": [
+      "Análisis de estructura de respuestas en motores de búsqueda",
+      "Identificación de oportunidades de contenido para featured snippets",
+      "Evaluación de autoridad de dominio y enlaces",
+      "Monitoreo de cambios en algoritmos de búsqueda",
+      "Recomendaciones personalizadas para SEO técnico"
+    ],
+    "caracteristicas": [
+      "Integración con Google Search Console y Bing Webmaster",
+      "Simulador de escenarios de posicionamiento",
+      "Base de datos de palabras clave con intención de búsqueda",
+      "Alertas en tiempo real de actualizaciones de algoritmos",
+      "Exportación de informes en formato PDF/CSV"
+    ],
+    "etica": "Garantiza transparencia en los datos de auditoría y evita prácticas de SEO engañosas. Cumple con estándares de privacidad de datos de usuarios.",
+    "limite_gratis": "El plan gratuito ofrece 5 auditorías mensuales con límites de palabras clave y sin acceso a funciones avanzadas de análisis.",
+    "web": "https://www.producthunt.com/products/oogwai-beacon",
+    "id": "oogwai-beacon-fbca73",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Opengeni",
+    "descripcion": "Plataforma de infraestructura para desplegar y gestionar agentes de IA en minutos, con soporte para integración con APIs y sistemas existentes.",
+    "compania": "Opengeni",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación rápida de agentes de IA personalizados",
+      "Despliegue en múltiples entornos (cloud, on-premise)",
+      "Monitoreo de rendimiento y consumo de recursos",
+      "Integración con bases de datos y servicios externos",
+      "Gestión de versiones y actualizaciones automáticas"
+    ],
+    "caracteristicas": [
+      "Arquitectura escalable para agentes complejos",
+      "Soporte para lenguajes como Python, Node.js y Java",
+      "Herramientas de debugging y logging avanzadas",
+      "Cifrado de datos en tránsito y almacenamiento",
+      "Interfaz visual para diseño de flujos de agentes"
+    ],
+    "etica": "Cumple con estándares de privacidad (GDPR, CCPA) y ofrece controles de acceso granular. Promueve el uso responsable de IA mediante auditorías de sesgos.",
+    "limite_gratis": "El plan gratuito permite crear hasta 2 agentes con 100 llamadas mensuales y almacenamiento limitado a 500 MB.",
+    "web": "https://www.producthunt.com/products/opengeni",
+    "id": "opengeni-f3b2c9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "FastRouter.ai",
+    "descripcion": "Sistema de enrutamiento inteligente que dirige consultas al modelo de lenguaje (LLM) óptimo según costo, latencia y calidad requerida.",
+    "compania": "FastRouter.ai",
+    "tipo": "Gestión de modelos de lenguaje",
+    "precio": "Freemium",
+    "funciones": [
+      "Enrutamiento dinámico de consultas a múltiples LLMs",
+      "Optimización de costos basada en uso y prioridad",
+      "Reducción de latencia mediante selección de modelos regionales",
+      "Análisis de calidad de respuestas con métricas personalizadas",
+      "Integración con proveedores como OpenAI, Anthropic y Google"
+    ],
+    "caracteristicas": [
+      "Panel de control en tiempo real con métricas de rendimiento",
+      "Ajuste automático de umbrales de calidad y costo",
+      "Soporte para modelos personalizados y fine-tuned",
+      "Historial de consultas y auditoría de decisiones",
+      "API RESTful con documentación detallada"
+    ],
+    "etica": "Minimiza el impacto ambiental al optimizar el uso de recursos de cómputo. Garantiza transparencia en la selección de modelos para evitar sesgos no deseados.",
+    "limite_gratis": "El plan gratuito permite 1,000 consultas mensuales con límites de ancho de banda y sin acceso a funciones de enrutamiento avanzado.",
+    "web": "https://www.producthunt.com/products/fastrouter-ai",
+    "id": "fastrouter-ai-0326e7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-06",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
