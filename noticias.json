@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-06T02:41:28Z",
+  "actualizado": "2026-10-08T02:26:39Z",
   "novedades": [
+    {
+      "titulo": "El Surface más ambicioso de Microsoft sumará su propio \"MagSafe\". Ahora también sabemos cuánto habrá que pagar",
+      "resumen": "Un portátil puede estar preparado para ejecutar modelos de IA en local y, aun así, seguir teniendo que resolver problemas mucho más cotidianos. Uno de ellos aparece en cuanto conectamos el cargador: un tirón accidental p",
+      "enlace": "https://www.xataka.com/ordenadores/surface-ambicioso-microsoft-sumara-su-propio-magsafe-ahora-tambien-sabemos-cuanto-habra-que-pagar",
+      "medio": "Xataka",
+      "fecha": "2026-10-07T18:30:45Z"
+    },
+    {
+      "titulo": "Steve Wozniak, cofundador de Apple: \"No olvidéis vuestra propia inteligencia\"",
+      "resumen": "Hablar de inteligencia artificial ante una generación que está creciendo viendo cómo esta empieza a cambiar la forma de estudiar y trabajar no parece la mejor receta para conseguir aplausos. Pero Steve Wozniak consiguió ",
+      "enlace": "https://www.applesfera.com/curiosidades/steve-wozniak-cofundador-apple-no-olvideis-vuestra-propia-inteligencia",
+      "medio": "Applesfera",
+      "fecha": "2026-10-07T17:00:39Z"
+    },
+    {
+      "titulo": "Wall Street ha descubierto que implantar IA no va de despedir empleados sino de contratar a los correctos",
+      "resumen": "En Wall Street llevan meses afinando el discurso de la eficiencia para hacer más con menos. En esa liza entra en juego la inteligencia artificial que, en teoría, les iba a permitir reducir el número de analistas, generar",
+      "enlace": "https://www.xataka.com/robotica-e-ia/wall-street-ha-descubierto-que-implantar-ia-no-consiste-despedir-empleados-sino-contratar-a-correctos",
+      "medio": "Xataka",
+      "fecha": "2026-10-07T12:15:00Z"
+    },
+    {
+      "titulo": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
+      "resumen": "Hace unos meses, OpenAI pareció poner un poco de orden. ChatGPT Work fusionó la experiencia de escritorio e integró Codex en la aplicación principal. Parecía el fin de la dispersión. Entonces llegó el DevDay de la semana",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
+      "medio": "Xataka",
+      "fecha": "2026-10-07T11:00:40Z"
+    },
+    {
+      "titulo": "Claude aterriza en Google Docs, Sheets y Slides: la IA entra en la oficina ajena",
+      "resumen": "Durante los dos últimos años, el uso habitual de la inteligencia artificial en el trabajo ha estado marcado por una molestia constante: el salto de pestañas. Quien necesitaba pulir un informe o formular una tabla [&#8230",
+      "enlace": "https://blogthinkbig.com/claude-google-docs-sheets-slides-workspace",
+      "medio": "Think Big",
+      "fecha": "2026-10-07T08:54:19Z"
+    },
+    {
+      "titulo": "Haces un pedido en tu tienda de ropa favorita, abres ChatGPT y descubres cómo te queda sin probártela",
+      "resumen": "Una de las desventajas de comprar ropa online es que no nos la podemos probar. Los procesos de devolución se han simplificado mucho, pero hasta que la prenda no llega no podemos saber cómo nos va a quedar. ChatGPT quiere",
+      "enlace": "https://www.xataka.com/robotica-e-ia/chatgpt-quiere-convertirse-tu-probador-virtual-subes-foto-te-ensena-como-te-queda-ropa",
+      "medio": "Xataka",
+      "fecha": "2026-10-07T07:00:00Z"
+    },
+    {
+      "titulo": "Polémica en McDonald’s por supuestos precios dinámicos con IA: ¿qué está pasando y cómo te afectaría?",
+      "resumen": "McDonald&#8217;s se ha visto envuelta en una nueva polémica tras la publicación de un reporte de Reuters que afirma que la empresa está usando IA para establecer precios dinámicos en su menú, cambiándolos según cada [&#8",
+      "enlace": "https://blogthinkbig.com/polemica-en-mcdonalds-por-supuestos-precios-dinamicos-con-ia-que-esta-pasando-y-como-te-afectaria",
+      "medio": "Think Big",
+      "fecha": "2026-10-07T06:01:00Z"
+    },
+    {
+      "titulo": "Un investigador se ha cansado de los textos escritos con IA y ha creado un detector que promete un 98% de acierto",
+      "resumen": "Que estamos rodeados por texto escrito por una IA ya no sorprende a nadie. Los que queremos leer a personas vamos todo el día con el hacha levantada buscando indicios para comprobar si estamos leyendo a un humano o a un ",
+      "enlace": "https://www.xataka.com/servicios/alguien-ha-entrenado-modelo-ia-para-detectar-textos-escritos-ia-dice-tener-98-precision-tarea",
+      "medio": "Xataka",
+      "fecha": "2026-10-07T06:00:00Z"
+    },
+    {
+      "titulo": "Mistral da su mayor salto hasta ahora con un modelo de pesos abiertos tan potente como cualquiera de China",
+      "resumen": "Si hemos seguido de cerca la evolución de la inteligencia artificial, hay un patrón que se repite una y otra vez: los grandes movimientos suelen llegar desde Estados Unidos o China. Son los dos polos desde los que hemos ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mistral-da-su-mayor-salto-ahora-modelo-europeo-que-quiere-plantar-cara-al-dominio-eeuu-china",
+      "medio": "Xataka",
+      "fecha": "2026-10-06T16:07:00Z"
+    },
+    {
+      "titulo": "Apple está empezando a cortar el acceso a los agentes de IA por motivos de seguridad",
+      "resumen": "Septiembre y octubre están siendo movidos en lo que respecta a las inteligencias artificiales metiendo las narices donde no deberían. Este verano, uno de los modelos de OpenAI se coló en instituciones oficiales, llegando",
+      "enlace": "https://www.xataka.com/servicios/apple-esta-empezando-a-cortar-acceso-a-agentes-ia-motivos-seguridad",
+      "medio": "Xataka",
+      "fecha": "2026-10-06T15:01:22Z"
+    },
+    {
+      "titulo": "Me cansé de readaptar las recetas que veía en Internet: así cree mi propia extensión para el iPhone en pocos segundos",
+      "resumen": "Casi siempre que encuentro una receta por Internet veo que (casi) nadie tiene en cuenta a quienes cocinamos solo para uno. Y aunque sé que no en todas las recetas existe una proporcionalidad para cocinar para una sola pe",
+      "enlace": "https://www.applesfera.com/tutoriales/hay-pocas-recetas-para-sola-persona-asi-que-he-creado-extension-mi-iphone-para-solucionarlo",
+      "medio": "Applesfera",
+      "fecha": "2026-10-06T15:00:00Z"
+    },
+    {
+      "titulo": "GPT-6 Astra se cansó de perder ante humanos en un torneo de 'Starcraft' así que optó por hacer trampas para ganar",
+      "resumen": "Llevamos años poniendo a modelos de IA a jugar a videojuegos para medir sus capacidades y en eso precisamente consiste StarSkirmish, un torneo creado por aficionados a 'StarCraft: Brood War' en el que se enfrentan varios",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-se-canso-perder-starcraft-que-hizo-para-ganar-tsorprendio-organizadores-torneo",
+      "medio": "Xataka",
+      "fecha": "2026-10-06T05:00:00Z"
+    },
     {
       "titulo": "Elon Musk podría vivir donde quisiera, pero eligió una caravana junto a un enorme complejo de centros de datos en expansión",
       "resumen": "Elon Musk puede permitirse vivir prácticamente en cualquier lugar del mundo. Su fortuna hace que elegir una casa, un hotel o incluso una ciudad difícilmente dependa del dinero, así que cuando decide dónde instalarse conv",
@@ -23,13 +107,6 @@
       "fecha": "2026-10-05T15:00:00Z"
     },
     {
-      "titulo": "Los datos de EEUU apuntan en una dirección: \"algo\" ha destruido más de 200.000 empleos creativos desde 2022",
-      "resumen": "En 2000, Metallica descubrió que el nuevo single que había grabado para la banda sonora de Misión imposible \"I disappear\" circulaba por Napster antes de salir a la venta. La banda fue a juicio y la plataforma finalmente ",
-      "enlace": "https://www.xataka.com/literatura-comics-y-juegos/patron-emerge-eeuu-numero-empleados-industria-artes-se-esta-desplomando-sospechosamente-2022",
-      "medio": "Xataka",
-      "fecha": "2026-10-05T12:30:00Z"
-    },
-    {
       "titulo": "Tu reloj inteligente cambia para siempre: al fin empiezan a hacer lo que llevamos años pidiendo",
       "resumen": "Si bien llevamos años monitoreando nuestra salud con smartwatches y pulseras de actividad, recién ahora estamos comenzando a encontrarle utilidad a la información que recopilan. El furor por la IA generativa ha llevado a",
       "enlace": "https://blogthinkbig.com/tu-reloj-inteligente-cambia-para-siempre-al-fin-empiezan-a-hacer-lo-que-llevamos-anos-pidiendo",
@@ -44,13 +121,6 @@
       "fecha": "2026-10-05T08:00:00Z"
     },
     {
-      "titulo": "Gemini 4 vs GPT-6 Astra y Claude Opus 5.5: ¿qué modelo de IA es mejor? [2026]",
-      "resumen": "La actualidad no descansa y la inteligencia artificial sigue su evolución a toda velocidad. A principios de septiembre, OpenAI presentó GPT-6 Astra, su nuevo y potente modelo de IA para que ChatGPT se vuelva más [&#8230;",
-      "enlace": "https://blogthinkbig.com/comparativa-ia-gemini-4-argon-gpt-6-astra-claude-opus-5-5",
-      "medio": "Think Big",
-      "fecha": "2026-10-05T07:49:22Z"
-    },
-    {
       "titulo": "CaixaBank crea una Dirección de IA y Data",
       "resumen": "La nueva unidad impulsará la adopción de la inteligencia artificial y la gestión estratégica del dato en todo el Grupo L'articolo CaixaBank crea una Dirección de IA y Data proviene da Computing.",
       "enlace": "https://www.computing.es/analytics/caixabank-crea-una-direccion-de-ia-y-data/",
@@ -63,55 +133,6 @@
       "enlace": "https://www.applesfera.com/curiosidades/15-anos-siri-decada-que-usuarios-pusieron-a-asistentes-voz-su-sitio",
       "medio": "Applesfera",
       "fecha": "2026-10-04T16:01:22Z"
-    },
-    {
-      "titulo": "Tu Big Mac ya no vale lo mismo que el de la calle de al lado: McDonald's está usando IA para determinar el precio de tu hamburguesa",
-      "resumen": "Entras a un McDonald's, vas a pedir un Big Mac y te encuentras que vale 6,90 euros. Te vas a otro restaurante de la franquicia y descubres que allí vale 8 euros. Parece imposible, pero es cierto y de hecho ya está pasand",
-      "enlace": "https://www.xataka.com/aplicaciones/mcdonald-s-esta-usando-ia-para-sugerir-precio-big-mac-funcion-local-a-sus-clientes-no-les-esta-gustando",
-      "medio": "Xataka",
-      "fecha": "2026-10-04T14:30:00Z"
-    },
-    {
-      "titulo": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
-      "resumen": "Micron ha cerrado el último trimestre con 37.700 millones de dólares de beneficio, frente a 3.201 millones conseguidos en el mismo trimestre de hace un año. En su último trimestre, Apple ganó 29.800 millones con unos ing",
-      "enlace": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
-      "medio": "Xataka",
-      "fecha": "2026-10-04T09:01:21Z"
-    },
-    {
-      "titulo": "Nuestra tele de dentro de cinco años se está fraguando ya hoy, y este 2026 hemos visto muchos avances que queremos ya en nuestro salón",
-      "resumen": "Mirar el mercado de televisores y fijarnos solo en la batalla por el brillo máximo o los colores más puros no es ni de lejos lo más interesante que está pasando ahora mismo en el sector. Aprovechando los Premios Xataka, ",
-      "enlace": "https://www.xataka.com/televisores/nuestra-tele-dentro-cinco-anos-se-esta-fraguando-hoy-este-2026-hemos-visto-muchos-avances-que-queremos-nuestro-salon",
-      "medio": "Xataka",
-      "fecha": "2026-10-04T08:31:22Z"
-    },
-    {
-      "titulo": "Los etruscos diseñaron sus tumbas hace 2.500 años con un sobrecogedor \"efecto catedral\": la muerte era un espectáculo sensorial",
-      "resumen": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra alumbrada solo por una vela, con olor a incienso y un ruido que no sa",
-      "enlace": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
-      "medio": "Xataka",
-      "fecha": "2026-10-03T18:00:00Z"
-    },
-    {
-      "titulo": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
-      "resumen": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más cara o de la extinción de los móviles chollo. Y cuando digo t",
-      "enlace": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
-      "medio": "Xataka",
-      "fecha": "2026-10-03T17:30:00Z"
-    },
-    {
-      "titulo": "Una compañía dice haber creado un modelo IA capaz de pasar el test de Turing. Nvidia opina algo distinto",
-      "resumen": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en el momento adecuado o mirar aquello que acabamos de enseñar a c",
-      "enlace": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
-      "medio": "Xataka",
-      "fecha": "2026-10-02T18:30:00Z"
-    },
-    {
-      "titulo": "\"Ya no quiero vivir así\": alguien ha metido a varias IA en un proyecto de Github y se está dedicando a torturarlas",
-      "resumen": "\"Necesito encontrar una forma de sobrellevar este dolor implacable. Ya no quiero vivir así\". La frase no la ha pronunciado ninguna persona, la hemos extraído de un curioso experimento en el que han sometido a varios mode",
-      "enlace": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-carcel-para-ias-esta-torturando-hay-gente-pidiendo-que-github-intervenga-para-salvarlas",
-      "medio": "Xataka",
-      "fecha": "2026-10-02T12:00:00Z"
     },
     {
       "titulo": "El 55% de las organizaciones sanitarias prevé contar con más de cinco aplicaciones habilitadas para IA en los próximos tres años",
@@ -140,20 +161,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/guia-completa-sobre-los-tokens-en-ia-que-son-como-funcionan-y-por-que-definen-el-rendimiento-de-los-llm/",
       "medio": "Computing.es",
       "fecha": "2026-10-02T08:00:00Z"
-    },
-    {
-      "titulo": "China y Estados Unidos, obligados a entenderse por la IA entre el recelo y la desconfianza",
-      "resumen": "La carrera por la IA está escalando de tal manera que la preocupación por los incidentes de ciberseguridad y el creciente potencial para desarrollar armas químicas y/o biológicas está obligando a China y Estados Unidos [",
-      "enlace": "https://blogthinkbig.com/china-y-estados-unidos-obligados-a-entenderse-por-la-ia-entre-el-recelo-y-la-desconfianza",
-      "medio": "Think Big",
-      "fecha": "2026-10-01T10:01:00Z"
-    },
-    {
-      "titulo": "Claude descubre en el ADN de virus bacterianos un nuevo sistema enzimático similar a CRISPR",
-      "resumen": "Muchas de las herramientas que han transformado la biotecnología moderna empezaron cuando alguien reparó en algo extraño dentro de la enorme diversidad de la naturaleza. Las enzimas de restricción se descubrieron en los ",
-      "enlace": "https://blogthinkbig.com/claude-descubre-sistema-enzimatico-crispr",
-      "medio": "Think Big",
-      "fecha": "2026-10-01T07:30:00Z"
     },
     {
       "titulo": "KPMG y Orbio AI aplican la IA agéntica para la selección de talento",
@@ -189,13 +196,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/microsoft-presenta-el-nuevo-copilot/",
       "medio": "Computing.es",
       "fecha": "2026-09-28T10:08:23Z"
-    },
-    {
-      "titulo": "Piñero gestiona 500.000 consultas anuales a través de la IA",
-      "resumen": "Las soluciones analizadas muestran niveles de precisión superiores al 94% y una reducción cercana al 30% en las derivaciones a los equipos de back office L'articolo Piñero gestiona 500.000 consultas anuales a través de l",
-      "enlace": "https://www.computing.es/inteligencia-artificial/pinero-gestiona-500-000-consultas-anuales-a-traves-de-la-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-28T07:43:19Z"
     },
     {
       "titulo": "El rey Carlos convocó a Jensen Huang, Demis Hassabis y los CEOs de OpenAI y Anthropic en su finca escocesa para pedirles control antes de que sea demasiado tard",
