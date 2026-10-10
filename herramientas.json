@@ -18048,7 +18048,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite gestionar hasta 3 cuentas de redes sociales y programar un máximo de 50 publicaciones al mes.",
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "iFixAi",
@@ -18417,7 +18417,7 @@
     "fecha_agregado": "2026-10-04",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Spira Maxima",
@@ -18479,7 +18479,7 @@
     "fecha_agregado": "2026-10-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Opengeni",
@@ -18541,7 +18541,7 @@
     "fecha_agregado": "2026-10-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Proofsource",
@@ -18579,7 +18579,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Rool ofrece un entorno local-first donde puedes almacenar archivos, ideas y ejecutar modelos de IA abiertos sin que tus datos salgan de tu dispositivo.",
-    "web": "https://rool.ai",
+    "web": "",
     "funciones": [
       "Gestión unificada de archivos y notas",
       "Ejecución de modelos de IA locales (Hugging Face, Ollama)",
@@ -18601,7 +18601,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "MeetTwins",
@@ -18609,7 +18610,7 @@
     "tipo": "Agentes IA",
     "precio": "Pago",
     "descripcion": "MeetTwins crea un avatar fotorrealista que asiste a tus reuniones de Google Meet, imitando tu voz y gestos para que puedas ausentarte sin perder participación.",
-    "web": "https://meettwins.com",
+    "web": "",
     "funciones": [
       "Generación de avatar a partir de selfies y voz",
       "Síntesis de voz personalizada con pocos minutos de audio",
@@ -18631,7 +18632,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Opus Creative Suite",
@@ -18639,7 +18641,7 @@
     "tipo": "Productividad",
     "precio": "Gratuito",
     "descripcion": "Opus Creative Suite ofrece un paquete de código abierto para edición de video, diseño gráfico y motion graphics, emulando los flujos de trabajo de Adobe Premiere y After Effects.",
-    "web": "https://opus-creative.org",
+    "web": "",
     "funciones": [
       "Edición de video no lineal con múltiples pistas",
       "Herramientas de diseño gráfico vectorial y raster",
@@ -18661,7 +18663,8 @@
     "pago": false,
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Liquid d1 Models",
@@ -18669,7 +18672,7 @@
     "tipo": "Modelos IA",
     "precio": "Freemium",
     "descripcion": "Los modelos Liquid d1 procesan simultáneamente texto, imagen y audio para producir decisiones estructuradas (como clasificaciones o acciones) sin generar texto de salida, optimizados para aplicaciones en tiempo real.",
-    "web": "https://liquid.ai/d1",
+    "web": "",
     "funciones": [
       "Clasificación multimodal de entradas de texto, imagen y audio",
       "Detección de objetos con contexto lingüístico",
@@ -18691,7 +18694,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Unprompt",
@@ -18699,7 +18703,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Unprompt convierte el consumo de APIs de IA en métricas de costo económico y huella hídrica, facilitando la optimización y el reporte de sostenibilidad para equipos.",
-    "web": "https://unprompt.ai",
+    "web": "",
     "funciones": [
       "Seguimiento de gastos por proveedor de API (OpenAI, Anthropic, etc.)",
       "Estimación de consumo de agua basado en uso de energía",
@@ -18721,7 +18725,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Dots",
@@ -18759,7 +18764,7 @@
     "tipo": "Modelos IA",
     "precio": "Freemium",
     "descripcion": "AstaBrief es un modelo especializado que convierte documentos, datos y transcripciones en informes estructurados (ejecutivos, técnicos, legales) en cuestión de segundos, disponible como peso abierto.",
-    "web": "https://github.com/asta-ai/astabrief",
+    "web": "",
     "funciones": [
       "Resumen ejecutivo de documentos extensos",
       "Extracción de datos clave y cifras relevantes",
@@ -18781,7 +18786,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Mistral Large 4",
@@ -18903,6 +18909,191 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Pine Computer",
+    "compania": "Pine Systems",
+    "tipo": "Dispositivo de IA",
+    "precio": "Pago",
+    "descripcion": "Dispositivo físico diseñado para ejecutar tareas de inteligencia artificial de manera eficiente en la nube.",
+    "web": "https://pinecomputer.io",
+    "funciones": [
+      "Ejecución de modelos de IA en la nube",
+      "Entrenamiento de redes neuronales",
+      "Inferencia en tiempo real",
+      "Gestión de recursos de cómputo"
+    ],
+    "caracteristicas": [
+      "Chip dedicado para IA",
+      "Bajo consumo energético",
+      "API abierta",
+      "Compatibilidad con TensorFlow y PyTorch",
+      "Diseño modular"
+    ],
+    "ética": "Considera la privacidad de los datos procesados en la nube y el impacto energético de la computación distribuida.",
+    "etica": "El uso de hardware especializado puede concentrar el acceso a IA en manos de grandes corporaciones, generando brechas de equidad.",
+    "limite_gratis": "No hay plan gratuito; es un dispositivo físico que requiere compra.",
+    "id": "pine-computer-7574a6",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-10",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "HeyPi",
+    "compania": "HeyPi Inc.",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que permite crear y compartir contenido en reuniones usando inteligencia artificial integrada.",
+    "web": "https://heypi.ai",
+    "funciones": [
+      "Generación automática de resúmenes de reuniones",
+      "Creación de presentaciones con IA",
+      "Traducción en tiempo real",
+      "Sugerencias de contenido",
+      "Compartición de documentos seguros"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Integración con calendarios",
+      "Seguridad de datos",
+      "Análisis de reuniones con IA",
+      "Personalización de flujos de trabajo"
+    ],
+    "ética": "Respeto a la privacidad durante transcripciones de reuniones y uso ético de la IA en entornos laborales.",
+    "etica": "La IA analiza el contenido de las reuniones, lo que plantea riesgos de privacidad si no se gestiona adecuadamente.",
+    "limite_gratis": "El plan gratuito permite reuniones limitadas y sin funciones avanzadas de IA.",
+    "id": "heypi-a99b79",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-10",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AgentSDR",
+    "descripcion": "Open-source AI SDR",
+    "compania": "AgentSDR Labs",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Generación de leads",
+      "Envío de correos automatizados",
+      "Seguimiento de pipelines de ventas",
+      "Análisis de interacciones con clientes",
+      "Integración con CRM"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Personalizable",
+      "Escalable",
+      "API para integraciones",
+      "Comunidad activa"
+    ],
+    "etica": "Los agentes automatizados pueden reducir la interacción humana y introducir sesgos en la selección de leads.",
+    "limite_gratis": "Como software de código abierto, es gratuito pero requiere infraestructura propia.",
+    "web": "https://www.producthunt.com/products/agentsdr",
+    "id": "agentsdr-0133d5",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Refs",
+    "descripcion": "Give Claude better references for your videos",
+    "compania": "Refs Inc.",
+    "tipo": "Herramienta de contenido",
+    "precio": "Freemium",
+    "funciones": [
+      "Búsqueda automática de fuentes",
+      "Generación de citations",
+      "Integración con Claude",
+      "Creación de bibliografías",
+      "Verificación de datos"
+    ],
+    "caracteristicas": [
+      "Base de datos actualizada",
+      "Interfaz sencilla",
+      "Exportación en múltiples formatos",
+      "API de integración",
+      "Filtros por tema"
+    ],
+    "etica": "La automatización de referencias puede introducir errores o sesgos si las fuentes no son diversificadas.",
+    "limite_gratis": "Plan gratuito con número limitado de búsquedas al mes.",
+    "web": "https://www.producthunt.com/products/refs",
+    "id": "refs-11d063",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "OpenPilot",
+    "descripcion": "Open-source desktop AI agent for any model you choose",
+    "compania": "OpenPilot Project",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Chat con modelos de IA",
+      "Automatización de tareas",
+      "Integración con archivos locales",
+      "Personalización de prompts",
+      "Ejecución de scripts"
+    ],
+    "caracteristicas": [
+      "Multi-modelo",
+      "Interfaz gráfica",
+      "Extensibilidad",
+      "Seguridad local",
+      "Comunidad de desarrolladores"
+    ],
+    "etica": "Al ejecutar modelos localmente, se reduce el riesgo de privacidad, pero los sesgos del modelo dependen de su entrenamiento.",
+    "limite_gratis": "Totalmente gratuito, pero el rendimiento depende del hardware del usuario.",
+    "web": "https://www.producthunt.com/products/openpilot",
+    "id": "openpilot-153159",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Odyssey 3",
+    "descripcion": "A world model that simulates physics in real time",
+    "compania": "Odyssey Labs",
+    "tipo": "Simulación IA",
+    "precio": "Pago",
+    "funciones": [
+      "Simulación de entornos físicos",
+      "Generación de escenarios",
+      "Entrenamiento de agentes de IA",
+      "Análisis de comportamiento",
+      "Integración con motores de juego"
+    ],
+    "caracteristicas": [
+      "Física realista",
+      "Escalabilidad",
+      "API abierta",
+      "Soporte para VR",
+      "Personalización de leyes físicas"
+    ],
+    "etica": "La creación de mundos artificiales puede influir en la percepción de la realidad y plantear cuestiones sobre el uso ético en entrenamientos militares.",
+    "limite_gratis": "Plan gratuito con limitaciones de escenario y resolución.",
+    "web": "https://www.producthunt.com/products/odyssey-3",
+    "id": "odyssey-3-b1a31a",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

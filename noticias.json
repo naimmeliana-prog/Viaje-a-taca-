@@ -1,12 +1,138 @@
 {
-  "actualizado": "2026-10-08T02:26:39Z",
+  "actualizado": "2026-10-10T02:03:54Z",
   "novedades": [
     {
-      "titulo": "El Surface más ambicioso de Microsoft sumará su propio \"MagSafe\". Ahora también sabemos cuánto habrá que pagar",
-      "resumen": "Un portátil puede estar preparado para ejecutar modelos de IA en local y, aun así, seguir teniendo que resolver problemas mucho más cotidianos. Uno de ellos aparece en cuanto conectamos el cargador: un tirón accidental p",
-      "enlace": "https://www.xataka.com/ordenadores/surface-ambicioso-microsoft-sumara-su-propio-magsafe-ahora-tambien-sabemos-cuanto-habra-que-pagar",
+      "titulo": "China lleva años apostando por la IA y los humanoides. Ahora quiere evitar una carrera ciega de inversión",
+      "resumen": "Durante años, China ha convertido la inteligencia artificial y la robótica en dos de las grandes apuestas de su política industrial. Basta con mirar a los robots humanoides: cada vez más empresas trabajan en máquinas que",
+      "enlace": "https://www.xataka.com/robotica-e-ia/china-lleva-anos-apostando-ia-humanoides-ahora-quiere-evitar-carrera-ciega-inversion",
       "medio": "Xataka",
-      "fecha": "2026-10-07T18:30:45Z"
+      "fecha": "2026-10-09T18:30:26Z"
+    },
+    {
+      "titulo": "Endesa destapa fraude eléctrico en 16 restaurantes de Barcelona gracias a una IA y a la promoción de unos influencers",
+      "resumen": "Hay estrategias de marketing que salen caras, y luego está esta, que la han destapado de la forma más irónica posible. Según El Periódico, dieciséis restaurantes de Barcelona (varios de ellos buffets atiborrados de gente",
+      "enlace": "https://www.xataka.com/magnet/16-restaurantes-barcelona-pagaban-a-influencers-para-promocionarse-endesa-uso-ia-para-investigar-sus-negocios-destapo-trama-fraude-electrico",
+      "medio": "Xataka",
+      "fecha": "2026-10-09T18:00:27Z"
+    },
+    {
+      "titulo": "Google abre SynthID para comprobar si una imagen, vídeo o audio es IA o no, pero el problema es que es un placebo",
+      "resumen": "Si las noticias falsas ya eran un problema, distribuidas sobre todo a través de redes como X o Facebook, con la llegada de la IA generativa y la capacidad de hacer imágenes que cada vez más difuminan la línea entre la re",
+      "enlace": "https://www.xataka.com/servicios/google-abre-synthid-para-comprobar-imagen-video-audio-ia-no-problema-que-placebo",
+      "medio": "Xataka",
+      "fecha": "2026-10-09T16:30:27Z"
+    },
+    {
+      "titulo": "Problemas en el horizonte: las ganancias anualizadas de OpenAI se quedan 20.000 millones de dólares por debajo de lo esperado",
+      "resumen": "A Wall Street no le gustan las sorpresas, y basta con la confirmación de que una estimación se ha desviado mínimamente para que los inversores pierdan el sueño. Esta semana le ha tocado a OpenAI, y no por una buena razón",
+      "enlace": "https://www.xataka.com/empresas-y-economia/problemas-horizonte-ganancias-anualizadas-openai-se-quedan-20-000-millones-dolares-debajo-esperado",
+      "medio": "Xataka",
+      "fecha": "2026-10-09T13:13:00Z"
+    },
+    {
+      "titulo": "Ayesa Digital compra la empresa ‘AI-first’, Kuik Digital Solutions",
+      "resumen": "Ayesa Digital pretende incrementar con esta adquisición su especialización tecnológica en ingeniería de software e IA Aplicada L'articolo Ayesa Digital compra la empresa ‘AI-first’, Kuik Digital Solutions proviene da Com",
+      "enlace": "https://www.computing.es/mercado-ti/ayesa-digital-compra-la-empresa-ai-first-kuik-digital-solutions/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-09T10:18:06Z"
+    },
+    {
+      "titulo": "Los riesgos de ciberseguridad en la era de la IA se han multiplicado por 10, según JPMorgan",
+      "resumen": "El nombre de Jamie Dimon puede que no os suene, pero se trata del consejero delegado de uno de los bancos más grandes del mundo: JPMorgan Chase. En una reciente entrevista en Bloomberg, Dimon ha reforzado el mensaje de q",
+      "enlace": "https://www.xataka.com/seguridad/riesgos-ciberseguridad-era-ia-se-han-multiplicado-10-jpmorgan",
+      "medio": "Xataka",
+      "fecha": "2026-10-09T09:30:26Z"
+    },
+    {
+      "titulo": "Google convierte Gemini en un agente único para empresas que también usa Claude: las claves de Gemini at Work 2026",
+      "resumen": "Google lanza el agente Gemini para empresas: crea compañeros con correo propio y usa modelos Claude. Orange España ya tiene 1.000 agentes. Sin precio.La noticia Google convierte Gemini en un agente único para empresas qu",
+      "enlace": "https://wwwhatsnew.com/2026/10/09/agente-gemini-google-cloud-empresas-claude-gemini-at-work-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-09T07:42:33Z"
+    },
+    {
+      "titulo": "Claude ya construye paneles de datos en vivo y vídeos animados: qué son Dashboards y Motion y quién puede usarlos",
+      "resumen": "Anthropic lanza Claude Dashboards y Motion en beta: paneles en vivo con la consulta a la vista y vídeos en MP4 escritos como código. Planes y límites.La noticia Claude ya construye paneles de datos en vivo y vídeos anima",
+      "enlace": "https://wwwhatsnew.com/2026/10/09/claude-dashboards-motion-beta-paneles-datos-video-animado-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-09T07:40:00Z"
+    },
+    {
+      "titulo": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC",
+      "resumen": "Mantener limpio el sistema operativo es vital para que este no se desmadre. Lo suyo es dedicarle un tiempo cada pocas semanas a apretarle las tuercas al ordenador, tanto en hardware como en software. ¿No tienes ese tiemp",
+      "enlace": "https://www.xataka.com/basics/microsoft-tiene-su-propio-ccleaner-para-windows-hace-anos-ahora-quiere-que-haga-mucho-que-limpiar-pc",
+      "medio": "Xataka",
+      "fecha": "2026-10-09T07:30:27Z"
+    },
+    {
+      "titulo": "Corea del Sur detecta indicios de IA en varios ciberataques a sus principales bancos",
+      "resumen": "Cuando pensamos en inteligencia artificial solemos hacerlo desde el lado de quien intenta ganar tiempo, automatizar tareas o analizar enormes cantidades de información. Pero esas mismas capacidades también pueden ponerse",
+      "enlace": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
+      "medio": "Xataka",
+      "fecha": "2026-10-08T21:13:00Z"
+    },
+    {
+      "titulo": "Los robots no siempre saben que una pared de cristal existe y eso es un problema",
+      "resumen": "Hay algo que damos por hecho al caminar por una oficina: aunque podamos ver lo que hay al otro lado de una mampara de cristal, sabemos que no podemos atravesarla. Parece una distinción demasiado sencilla como para tener ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/robots-no-siempre-saben-que-pared-cristal-existe-eso-problema",
+      "medio": "Xataka",
+      "fecha": "2026-10-08T20:00:27Z"
+    },
+    {
+      "titulo": "Alguien ha utilizado Opus 5.5 para vibecodear desde cero toda la suite de Adobe, Photoshop incluido",
+      "resumen": "Hay mucha gente que mantiene una relación tóxica con la suite de Adobe. Photoshop, Illustrator, InDesign y Premiere son aplicaciones esenciales en el flujo profesional, pero las&nbsp;decisiones comerciales más recientes ",
+      "enlace": "https://www.xataka.com/aplicaciones/adobe-habia-conseguido-que-photoshop-fuera-muro-pago-inexpugnable-que-alguien-ha-enviado-ejercito-llms",
+      "medio": "Xataka",
+      "fecha": "2026-10-08T17:30:00Z"
+    },
+    {
+      "titulo": "Una foto para arreglar la calle: la IA que habla directamente con el Ayuntamiento de Madrid",
+      "resumen": "Caminar por la ciudad y toparse con una baldosa suelta, un contenedor desbordado o una farola fundida es una escena habitual. Notificar ese desperfecto a los servicios municipales suele ser una tarea distinta: encontrar ",
+      "enlace": "https://blogthinkbig.com/una-foto-para-arreglar-la-calle-la-ia-que-habla-directamente-con-el-ayuntamiento-de-madrid",
+      "medio": "Think Big",
+      "fecha": "2026-10-08T16:00:00Z"
+    },
+    {
+      "titulo": "Sadya Nadella, CEO de Microsoft: \"Nuestro objetivo es llevar inteligencia gratis a cada hogar y a cada escritorio\"",
+      "resumen": "En julio de 1991 un chaval de 23 años, indio y con su pelo intacto, asistió a una conferencia de desarrolladores de Microsoft que le cambió la vida. Un año después Nadella estaba trabajando en Microsoft y el resto, como ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gran-promesa-ia-local-microsoft-tokens-gratis-realidad-no-gratis-eso-no-importa",
+      "medio": "Xataka",
+      "fecha": "2026-10-08T14:15:00Z"
+    },
+    {
+      "titulo": "La empresa agéntica: Cómo la IA entra en acción",
+      "resumen": "Gabriel Enríquez Molina, Head of Apps de Capgemini España, aborda temas como la responsabilidad y los límites de los agentes de IA y la relación que los empleados establecen con ellos y la que se establece entre los mism",
+      "enlace": "https://www.computing.es/inteligencia-artificial/la-empresa-agentica-como-la-ia-entra-en-accion/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-08T10:09:40Z"
+    },
+    {
+      "titulo": "BBVA crea un modelo para escalar la IA a todo el Grupo",
+      "resumen": "BBVA presenta, en un encuentro con analistas e inversores, la evolución de su estrategia de inteligencia artificial, que tiene en ‘The Frame’ un marco común para crear, desplegar, gestionar y gobernar agentes de IA a esc",
+      "enlace": "https://www.computing.es/inteligencia-artificial/bbva-crea-un-modelo-para-escalar-la-ia-a-todo-el-grupo/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-08T09:45:27Z"
+    },
+    {
+      "titulo": "España acelera la inversión pública en inteligencia artificial pero choca con el muro del escalado",
+      "resumen": "Según un informe de Capgemini, el sector público español destinará el 7,40 % de su presupuesto de TI a la IA en 2027, superando la media global y a potencias como Alemania y Francia, aunque solo un 27 % de los proyectos ",
+      "enlace": "https://www.computing.es/administracion/la-inteligencia-artificial-se-cuela-en-la-administracion-publica-espanola/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-08T09:40:50Z"
+    },
+    {
+      "titulo": "El coste no tan oculto de la IA agéntica",
+      "resumen": "En España, el 81% de las empresas ya invierte en integrar agentes de IA en sus sistemas para conseguir, entre otros objetivos, el nivel de personalización y automatización al aspiran desde hace tiempo para mejorar su pos",
+      "enlace": "https://www.computing.es/inteligencia-artificial/el-coste-no-tan-oculto-de-la-ia-agentica/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-08T08:41:54Z"
+    },
+    {
+      "titulo": "Adiós a los Gems: Google sustituye sus asistentes de Gemini por un sistema de habilidades modulares",
+      "resumen": "Google ha decidido cambiar de rumbo en la personalización de su inteligencia artificial. Dos años después de presentar los Gems, los asistentes temáticos diseñados para responder a tareas concretas dentro de Gemini, la c",
+      "enlace": "https://blogthinkbig.com/habilidades-gemini-transicion-gems-google",
+      "medio": "Think Big",
+      "fecha": "2026-10-08T08:00:00Z"
     },
     {
       "titulo": "Steve Wozniak, cofundador de Apple: \"No olvidéis vuestra propia inteligencia\"",
@@ -16,32 +142,11 @@
       "fecha": "2026-10-07T17:00:39Z"
     },
     {
-      "titulo": "Wall Street ha descubierto que implantar IA no va de despedir empleados sino de contratar a los correctos",
-      "resumen": "En Wall Street llevan meses afinando el discurso de la eficiencia para hacer más con menos. En esa liza entra en juego la inteligencia artificial que, en teoría, les iba a permitir reducir el número de analistas, generar",
-      "enlace": "https://www.xataka.com/robotica-e-ia/wall-street-ha-descubierto-que-implantar-ia-no-consiste-despedir-empleados-sino-contratar-a-correctos",
-      "medio": "Xataka",
-      "fecha": "2026-10-07T12:15:00Z"
-    },
-    {
-      "titulo": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
-      "resumen": "Hace unos meses, OpenAI pareció poner un poco de orden. ChatGPT Work fusionó la experiencia de escritorio e integró Codex en la aplicación principal. Parecía el fin de la dispersión. Entonces llegó el DevDay de la semana",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
-      "medio": "Xataka",
-      "fecha": "2026-10-07T11:00:40Z"
-    },
-    {
       "titulo": "Claude aterriza en Google Docs, Sheets y Slides: la IA entra en la oficina ajena",
       "resumen": "Durante los dos últimos años, el uso habitual de la inteligencia artificial en el trabajo ha estado marcado por una molestia constante: el salto de pestañas. Quien necesitaba pulir un informe o formular una tabla [&#8230",
       "enlace": "https://blogthinkbig.com/claude-google-docs-sheets-slides-workspace",
       "medio": "Think Big",
       "fecha": "2026-10-07T08:54:19Z"
-    },
-    {
-      "titulo": "Haces un pedido en tu tienda de ropa favorita, abres ChatGPT y descubres cómo te queda sin probártela",
-      "resumen": "Una de las desventajas de comprar ropa online es que no nos la podemos probar. Los procesos de devolución se han simplificado mucho, pero hasta que la prenda no llega no podemos saber cómo nos va a quedar. ChatGPT quiere",
-      "enlace": "https://www.xataka.com/robotica-e-ia/chatgpt-quiere-convertirse-tu-probador-virtual-subes-foto-te-ensena-como-te-queda-ropa",
-      "medio": "Xataka",
-      "fecha": "2026-10-07T07:00:00Z"
     },
     {
       "titulo": "Polémica en McDonald’s por supuestos precios dinámicos con IA: ¿qué está pasando y cómo te afectaría?",
@@ -51,25 +156,11 @@
       "fecha": "2026-10-07T06:01:00Z"
     },
     {
-      "titulo": "Un investigador se ha cansado de los textos escritos con IA y ha creado un detector que promete un 98% de acierto",
-      "resumen": "Que estamos rodeados por texto escrito por una IA ya no sorprende a nadie. Los que queremos leer a personas vamos todo el día con el hacha levantada buscando indicios para comprobar si estamos leyendo a un humano o a un ",
-      "enlace": "https://www.xataka.com/servicios/alguien-ha-entrenado-modelo-ia-para-detectar-textos-escritos-ia-dice-tener-98-precision-tarea",
-      "medio": "Xataka",
-      "fecha": "2026-10-07T06:00:00Z"
-    },
-    {
-      "titulo": "Mistral da su mayor salto hasta ahora con un modelo de pesos abiertos tan potente como cualquiera de China",
-      "resumen": "Si hemos seguido de cerca la evolución de la inteligencia artificial, hay un patrón que se repite una y otra vez: los grandes movimientos suelen llegar desde Estados Unidos o China. Son los dos polos desde los que hemos ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/mistral-da-su-mayor-salto-ahora-modelo-europeo-que-quiere-plantar-cara-al-dominio-eeuu-china",
-      "medio": "Xataka",
-      "fecha": "2026-10-06T16:07:00Z"
-    },
-    {
-      "titulo": "Apple está empezando a cortar el acceso a los agentes de IA por motivos de seguridad",
-      "resumen": "Septiembre y octubre están siendo movidos en lo que respecta a las inteligencias artificiales metiendo las narices donde no deberían. Este verano, uno de los modelos de OpenAI se coló en instituciones oficiales, llegando",
-      "enlace": "https://www.xataka.com/servicios/apple-esta-empezando-a-cortar-acceso-a-agentes-ia-motivos-seguridad",
-      "medio": "Xataka",
-      "fecha": "2026-10-06T15:01:22Z"
+      "titulo": "Telefónica y la Escuela Reina Sofía llevan la inteligencia artificial a un concierto de Brahm",
+      "resumen": "Los conciertos de música clásica suelen empezar pidiendo al público que apague el móvil, pero el pasado sábado 3 de octubre, en el Teatro Monumental de Madrid, ocurrió lo contrario. Telefónica y la Escuela Superior [&#82",
+      "enlace": "https://blogthinkbig.com/brahms-mil-moviles-y-una-inteligencia-artificial-en-el-teatro-monumental",
+      "medio": "Think Big",
+      "fecha": "2026-10-06T16:00:00Z"
     },
     {
       "titulo": "Me cansé de readaptar las recetas que veía en Internet: así cree mi propia extensión para el iPhone en pocos segundos",
@@ -79,39 +170,11 @@
       "fecha": "2026-10-06T15:00:00Z"
     },
     {
-      "titulo": "GPT-6 Astra se cansó de perder ante humanos en un torneo de 'Starcraft' así que optó por hacer trampas para ganar",
-      "resumen": "Llevamos años poniendo a modelos de IA a jugar a videojuegos para medir sus capacidades y en eso precisamente consiste StarSkirmish, un torneo creado por aficionados a 'StarCraft: Brood War' en el que se enfrentan varios",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-se-canso-perder-starcraft-que-hizo-para-ganar-tsorprendio-organizadores-torneo",
-      "medio": "Xataka",
-      "fecha": "2026-10-06T05:00:00Z"
-    },
-    {
-      "titulo": "Elon Musk podría vivir donde quisiera, pero eligió una caravana junto a un enorme complejo de centros de datos en expansión",
-      "resumen": "Elon Musk puede permitirse vivir prácticamente en cualquier lugar del mundo. Su fortuna hace que elegir una casa, un hotel o incluso una ciudad difícilmente dependa del dinero, así que cuando decide dónde instalarse conv",
-      "enlace": "https://www.xataka.com/magnet/elon-musk-podria-vivir-donde-quisiera-eligio-caravana-a-enorme-complejo-centros-datos-expansion",
-      "medio": "Xataka",
-      "fecha": "2026-10-05T21:52:00Z"
-    },
-    {
       "titulo": "Los peligros de la IA según Sam Altman: ‘El fin justifica los medios’",
       "resumen": "Durante las últimas semanas, Silicon Valley se ha convertido en un polvorín de opiniones. El CEO de Anthropic, Dario Amodei, ha señalado como contundentes los peligros de la IA en varios de los modelos de [&#8230;] Los p",
       "enlace": "https://blogthinkbig.com/los-peligros-de-la-ia-segun-sam-altman-el-fin-justifica-los-medios",
       "medio": "Think Big",
       "fecha": "2026-10-05T15:56:14Z"
-    },
-    {
-      "titulo": "Mientras China acelera a toda velocidad, EEUU vive otra realidad: solo un 2% de las familias pagan por la IA",
-      "resumen": "La industria de la inteligencia artificial se encuentra en un momento incómodo. Anthropic y OpenAI llevan meses avisando de sus intenciones de convertirse en empresas públicas, pero el año toca a su fin y no vemos movimi",
-      "enlace": "https://www.xataka.com/empresas-y-economia/china-acelera-a-toda-velocidad-cifras-uso-ia-a-pie-calle-eeuu-bastante-discretas-solo-2-paga-ella",
-      "medio": "Xataka",
-      "fecha": "2026-10-05T15:00:00Z"
-    },
-    {
-      "titulo": "Tu reloj inteligente cambia para siempre: al fin empiezan a hacer lo que llevamos años pidiendo",
-      "resumen": "Si bien llevamos años monitoreando nuestra salud con smartwatches y pulseras de actividad, recién ahora estamos comenzando a encontrarle utilidad a la información que recopilan. El furor por la IA generativa ha llevado a",
-      "enlace": "https://blogthinkbig.com/tu-reloj-inteligente-cambia-para-siempre-al-fin-empiezan-a-hacer-lo-que-llevamos-anos-pidiendo",
-      "medio": "Think Big",
-      "fecha": "2026-10-05T12:01:00Z"
     },
     {
       "titulo": "El permiso más peligroso de macOS acaba de encontrar una nueva amenaza: los agentes de IA",
@@ -147,72 +210,16 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/iberdrola-integra-la-ia-de-harvey-en-sus-servicios-juridicos-y-fiscales/",
       "medio": "Computing.es",
       "fecha": "2026-10-02T10:04:48Z"
-    },
-    {
-      "titulo": "La productividad de la IA empieza donde terminan los benchmarks",
-      "resumen": "La IA puede resolver en horas problemas que exigirían meses de trabajo humano, pero eso no significa que siempre resulte más barata L'articolo La productividad de la IA empieza donde terminan los benchmarks proviene da C",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-productividad-de-la-ia-empieza-donde-terminan-los-benchmarks/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-02T09:45:56Z"
-    },
-    {
-      "titulo": "Guía completa sobre los tokens en IA: qué son, cómo funcionan y por qué definen el rendimiento de los LLM",
-      "resumen": "Cuando interactuamos con herramientas como ChatGPT, Claude o Gemini, parece que la inteligencia artificial comprende y redacta el lenguaje humano exactamente igual que nosotros L'articolo Guía completa sobre los tokens e",
-      "enlace": "https://www.computing.es/inteligencia-artificial/guia-completa-sobre-los-tokens-en-ia-que-son-como-funcionan-y-por-que-definen-el-rendimiento-de-los-llm/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-02T08:00:00Z"
-    },
-    {
-      "titulo": "KPMG y Orbio AI aplican la IA agéntica para la selección de talento",
-      "resumen": "La alianza entre ambas firmas combina la capacidad de KPMG para transformar la función de Recursos Humanos con la tecnología de agentes de inteligencia artificial de Orbio AI L'articolo KPMG y Orbio AI aplican la IA agén",
-      "enlace": "https://www.computing.es/recursos-humanos/kpmg-y-orbio-ai-aplican-la-ia-agentica-para-la-seleccion-de-talento/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-01T07:00:00Z"
-    },
-    {
-      "titulo": "La IA migra al dispositivo: El 76% de las empresas teme la fuga de datos en la nube",
-      "resumen": "Más de un tercio de las organizaciones prevé trasladar más cargas de trabajo de IA hacia los dispositivos en los próximos 12 meses L'articolo La IA migra al dispositivo: El 76% de las empresas teme la fuga de datos en la",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-ia-migra-al-dispositivo-el-76-de-las-empresas-teme-la-fuga-de-datos-en-la-nube/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-30T08:21:07Z"
-    },
-    {
-      "titulo": "12 atajos que puedes instalar ya en tu iPhone (o pedirle a su IA que los genere)",
-      "resumen": "\"Desde que salieron tengo la sensación de que es algo complicado\", comentaba nuestro lector Jordi al hilo de la app Atajos de iOS. Tanis81 fue el primero en pedir que hablásemos de ejemplos de atajos útiles. Y aquí está ",
-      "enlace": "https://www.applesfera.com/tutoriales/lista-atajos-iphone",
-      "medio": "Applesfera",
-      "fecha": "2026-09-29T11:00:00Z"
-    },
-    {
-      "titulo": "Accenture inaugura su Agentic AI Innovation Hub en Barcelona",
-      "resumen": "En el nuevo espacio, los profesionales de la compañía trabajan con organizaciones y startups para coinnovar y desarrollar soluciones habilitadas por la IA agéntica L'articolo Accenture inaugura su Agentic AI Innovation H",
-      "enlace": "https://www.computing.es/inteligencia-artificial/accenture-inaugura-su-agentic-ai-innovation-hub-en-barcelona/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-29T07:44:00Z"
-    },
-    {
-      "titulo": "Microsoft presenta el nuevo Copilot",
-      "resumen": "Microsoft presenta el nuevo Copilot con Home, Code y Autopilot L'articolo Microsoft presenta el nuevo Copilot proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/microsoft-presenta-el-nuevo-copilot/",
-      "medio": "Computing.es",
-      "fecha": "2026-09-28T10:08:23Z"
-    },
-    {
-      "titulo": "El rey Carlos convocó a Jensen Huang, Demis Hassabis y los CEOs de OpenAI y Anthropic en su finca escocesa para pedirles control antes de que sea demasiado tard",
-      "resumen": "La semana más densa en debate sobre el riesgo existencial de la IA desde los primeros días de ChatGPT cerró el jueves 17 de septiembre con una imagen que no habría parecido posible hace dos años: el rey Carlos III de Gra",
-      "enlace": "https://wwwhatsnew.com/2026/09/19/rey-carlos-cumbre-ia-dumfries-house-huang-hassabis-openai-anthropic-control-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-19T06:00:01Z"
-    },
-    {
-      "titulo": "Snap lanza Specs Intelligence, el asistente de IA «anticipatorio» que funciona sin que necesites las gafas de 2.195 dólares",
-      "resumen": "Snap presentó el 16 de septiembre en un evento en Los Ángeles sus nuevas gafas de realidad aumentada Specs —2.195 dólares, ordenador autónomo integrado en el cristal, sin puck externo ni cable— y dejó claro que el produc",
-      "enlace": "https://wwwhatsnew.com/2026/09/19/snap-specs-intelligence-asistente-ia-anticipatorio-gafas-ar-2195-dolares-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-19T02:00:10Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Endesa destapa fraude eléctrico en 16 restaurantes de Barcelona gracias a una IA y a la promoción de unos influencers",
+      "resumen": "Hay estrategias de marketing que salen caras, y luego está esta, que la han destapado de la forma más irónica posible. Según El Periódico, dieciséis restaurantes de Barcelona (varios de ellos buffets atiborrados de gente",
+      "enlace": "https://www.xataka.com/magnet/16-restaurantes-barcelona-pagaban-a-influencers-para-promocionarse-endesa-uso-ia-para-investigar-sus-negocios-destapo-trama-fraude-electrico",
+      "medio": "Xataka",
+      "fecha": "2026-10-09T18:00:27Z"
+    },
     {
       "titulo": "El Consejo de Supervisión de Meta ordena retirar dos deepfakes y llama a sus reglas de IA «fundamentalmente inadecuadas»",
       "resumen": "El Consejo de Supervisión de Meta publicó el 17 de septiembre dos resoluciones que ordenan a la empresa retirar vídeos de deepfake y que llaman su política de IA generativa «consistente y fundamentalmente inadecuada para",
@@ -226,13 +233,6 @@
       "enlace": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
       "medio": "Xataka",
       "fecha": "2026-09-17T10:00:00Z"
-    },
-    {
-      "titulo": "La AEPD notifica el primer ciberataque ejecutado de forma autónoma por un agente de IA en España: accedió a datos personales y facturas sin intervención humana",
-      "resumen": "La Agencia Española de Protección de Datos ha comunicado esta semana la primera notificación de brecha de datos en la que un agente de inteligencia artificial ejecutó un ciberataque de forma completamente autónoma contra",
-      "enlace": "https://wwwhatsnew.com/2026/09/17/aepd-primer-ataque-autonomo-agente-ia-espana-datos-personales-facturas-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-16T22:00:00Z"
     },
     {
       "titulo": "OpenAI y Anthropic están intentando hacer con la IA lo que Rockefeller hizo con el petróleo",
