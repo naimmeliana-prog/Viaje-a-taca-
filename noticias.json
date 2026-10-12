@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-10-10T02:03:54Z",
+  "actualizado": "2026-10-12T01:59:21Z",
   "novedades": [
+    {
+      "titulo": "Apple ha quitado una de las mejores funciones de iOS 27 y todavía no sabemos cuándo volverá",
+      "resumen": "Cuando iOS 27 era tan solo una beta, nos sorprendimos al encontrarnos un agente con IA capaz de cambiar varias contraseñas con un solo botón. Una idea que se habitaba en la app Contraseñas de Apple y estaba también dispo",
+      "enlace": "https://www.applesfera.com/seguridad/apple-ha-quitado-mejores-funciones-ios-27-todavia-no-sabemos-cuando-volvera",
+      "medio": "Applesfera",
+      "fecha": "2026-10-11T15:00:28Z"
+    },
+    {
+      "titulo": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
+      "resumen": "En enero escribimos que la IA más útil sería la que más nos vigilara, la que más supiese de nosotros. Nueve meses después, el asistente ya no solo ve lo que hacemos, también actúa por nosotros. El último en sumarse ha si",
+      "enlace": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
+      "medio": "Xataka",
+      "fecha": "2026-10-11T09:00:28Z"
+    },
+    {
+      "titulo": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
+      "resumen": "\"Confiar en los modelos lo menos posible\". Satya Nadella ha hablado en Twitter y ha apostado por atar a la inteligencia artificial en corto: separar el suministro de inteligencia de la autoridad sobre ella. O lo que es l",
+      "enlace": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
+      "medio": "Xataka",
+      "fecha": "2026-10-11T07:30:00Z"
+    },
+    {
+      "titulo": "Dots, los agentes siempre activos de ChatGPT, no llegan al plan Pro en Europa: qué hacen y qué te pierdes",
+      "resumen": "Dots, los agentes siempre activos de ChatGPT, no están en el plan Pro en Europa. Qué hacen, sus límites y por qué las empresas sí pueden usarlos.La noticia Dots, los agentes siempre activos de ChatGPT, no llegan al plan ",
+      "enlace": "https://wwwhatsnew.com/2026/10/11/dots-chatgpt-agentes-siempre-activos-europa-plan-pro-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-11T02:00:40Z"
+    },
+    {
+      "titulo": "Nadella quiere que Copilot fabrique software a medida para cada empresa: qué es la «fábrica infinita de SaaS»",
+      "resumen": "Nadella publica «The Infinite SaaS Factory»: Copilot como sistema operativo del trabajo y fábrica de software. Qué gana Microsoft y qué arriesgas.La noticia Nadella quiere que Copilot fabrique software a medida para cada",
+      "enlace": "https://wwwhatsnew.com/2026/10/11/nadella-infinite-saas-factory-copilot-sistema-operativo-trabajo-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-10T22:00:38Z"
+    },
+    {
+      "titulo": "ChatGPT marcará sus textos con una señal invisible en la UE: qué es textGrain y por qué no sirve para acusar a nadie",
+      "resumen": "OpenAI añadirá la marca de agua textGrain a ChatGPT en la UE. Cambiar el 25 % de las palabras deja la detección en el 17 %. Qué prueba y qué no.La noticia ChatGPT marcará sus textos con una señal invisible en la UE: qué ",
+      "enlace": "https://wwwhatsnew.com/2026/10/10/textgrain-marca-agua-invisible-chatgpt-union-europea-ai-act-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-10T18:00:36Z"
+    },
+    {
+      "titulo": "Las empresas de IA tienen tan claro que habrá una gran catástrofe en 2027 que ya preparan el día después",
+      "resumen": "No pasa una semana sin que conozcamos algún ataque hecho con IA o alguna advertencia de sus dirigentes ante una amenaza en ciernes. O directamente, con alguna comunicación que, de forma directa o indirecta, advierta de s",
+      "enlace": "https://www.xataka.com/servicios/empresas-ia-tienen-claro-que-habra-gran-catastrofe-2027-que-preparan-dia-despues",
+      "medio": "Xataka",
+      "fecha": "2026-10-10T15:30:25Z"
+    },
+    {
+      "titulo": "La IA creará más empleo del que destruye en EE. UU., según McKinsey: el problema son los 11 millones que tendrán que cambiar de profesión",
+      "resumen": "McKinsey: la IA destruirá 36 millones de empleos en EE. UU. y creará 41 hasta 2035. Pero 11 millones cambiarán de profesión y el 45 % no tiene camino.La noticia La IA creará más empleo del que destruye en EE. UU., según ",
+      "enlace": "https://wwwhatsnew.com/2026/10/10/mckinsey-ia-empleo-2035-36-millones-41-millones-cambio-profesion/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-10T14:00:34Z"
+    },
+    {
+      "titulo": "Higgsfield apuesta por influencers de IA que no parecen humanos: cuellos imposibles, 30 millones de usuarios y mucho dinero detrás",
+      "resumen": "Higgsfield actualiza sus influencers de IA con aspecto no humano. 30 millones de usuarios, 1.000 millones de ingresos y un historial que preocupa.La noticia Higgsfield apuesta por influencers de IA que no parecen humanos",
+      "enlace": "https://wwwhatsnew.com/2026/10/10/higgsfield-influencers-ia-no-humanos-ai-influencer-studio-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-10T10:00:32Z"
+    },
+    {
+      "titulo": "America.gov reúne 29.000 webs públicas de EE. UU. en un chatbot: qué funciona, qué falta y qué lección deja para España",
+      "resumen": "EE. UU. lanza America.gov: un chatbot con IA que unifica 29.000 webs públicas y tramitará pasaportes en 2027. Críticas y qué puede aprender España.La noticia America.gov reúne 29.000 webs públicas de EE. UU. en un chatbo",
+      "enlace": "https://wwwhatsnew.com/2026/10/10/america-gov-chatbot-ia-gobierno-eeuu-29000-webs-leccion-espana/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-10T06:00:29Z"
+    },
+    {
+      "titulo": "Ni el mejor modelo de IA se sabe las respuestas: acierta el 66 % sin buscar en la web, y por eso el SEO sigue vivo",
+      "resumen": "Claude Opus 5.5 lidera AA-Omniscience con un 66 % de acierto sin buscar en la web. Por qué los modelos necesitan internet y qué significa para el SEO.La noticia Ni el mejor modelo de IA se sabe las respuestas: acierta el",
+      "enlace": "https://wwwhatsnew.com/2026/10/10/aa-omniscience-modelos-ia-fallan-sin-buscar-web-seo-geo-2026/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-10T02:00:27Z"
+    },
     {
       "titulo": "China lleva años apostando por la IA y los humanoides. Ahora quiere evitar una carrera ciega de inversión",
       "resumen": "Durante años, China ha convertido la inteligencia artificial y la robótica en dos de las grandes apuestas de su política industrial. Basta con mirar a los robots humanoides: cada vez más empresas trabajan en máquinas que",
@@ -72,32 +149,11 @@
       "fecha": "2026-10-08T21:13:00Z"
     },
     {
-      "titulo": "Los robots no siempre saben que una pared de cristal existe y eso es un problema",
-      "resumen": "Hay algo que damos por hecho al caminar por una oficina: aunque podamos ver lo que hay al otro lado de una mampara de cristal, sabemos que no podemos atravesarla. Parece una distinción demasiado sencilla como para tener ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/robots-no-siempre-saben-que-pared-cristal-existe-eso-problema",
-      "medio": "Xataka",
-      "fecha": "2026-10-08T20:00:27Z"
-    },
-    {
-      "titulo": "Alguien ha utilizado Opus 5.5 para vibecodear desde cero toda la suite de Adobe, Photoshop incluido",
-      "resumen": "Hay mucha gente que mantiene una relación tóxica con la suite de Adobe. Photoshop, Illustrator, InDesign y Premiere son aplicaciones esenciales en el flujo profesional, pero las&nbsp;decisiones comerciales más recientes ",
-      "enlace": "https://www.xataka.com/aplicaciones/adobe-habia-conseguido-que-photoshop-fuera-muro-pago-inexpugnable-que-alguien-ha-enviado-ejercito-llms",
-      "medio": "Xataka",
-      "fecha": "2026-10-08T17:30:00Z"
-    },
-    {
       "titulo": "Una foto para arreglar la calle: la IA que habla directamente con el Ayuntamiento de Madrid",
       "resumen": "Caminar por la ciudad y toparse con una baldosa suelta, un contenedor desbordado o una farola fundida es una escena habitual. Notificar ese desperfecto a los servicios municipales suele ser una tarea distinta: encontrar ",
       "enlace": "https://blogthinkbig.com/una-foto-para-arreglar-la-calle-la-ia-que-habla-directamente-con-el-ayuntamiento-de-madrid",
       "medio": "Think Big",
       "fecha": "2026-10-08T16:00:00Z"
-    },
-    {
-      "titulo": "Sadya Nadella, CEO de Microsoft: \"Nuestro objetivo es llevar inteligencia gratis a cada hogar y a cada escritorio\"",
-      "resumen": "En julio de 1991 un chaval de 23 años, indio y con su pelo intacto, asistió a una conferencia de desarrolladores de Microsoft que le cambió la vida. Un año después Nadella estaba trabajando en Microsoft y el resto, como ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gran-promesa-ia-local-microsoft-tokens-gratis-realidad-no-gratis-eso-no-importa",
-      "medio": "Xataka",
-      "fecha": "2026-10-08T14:15:00Z"
     },
     {
       "titulo": "La empresa agéntica: Cómo la IA entra en acción",
@@ -154,78 +210,22 @@
       "enlace": "https://blogthinkbig.com/polemica-en-mcdonalds-por-supuestos-precios-dinamicos-con-ia-que-esta-pasando-y-como-te-afectaria",
       "medio": "Think Big",
       "fecha": "2026-10-07T06:01:00Z"
-    },
-    {
-      "titulo": "Telefónica y la Escuela Reina Sofía llevan la inteligencia artificial a un concierto de Brahm",
-      "resumen": "Los conciertos de música clásica suelen empezar pidiendo al público que apague el móvil, pero el pasado sábado 3 de octubre, en el Teatro Monumental de Madrid, ocurrió lo contrario. Telefónica y la Escuela Superior [&#82",
-      "enlace": "https://blogthinkbig.com/brahms-mil-moviles-y-una-inteligencia-artificial-en-el-teatro-monumental",
-      "medio": "Think Big",
-      "fecha": "2026-10-06T16:00:00Z"
-    },
-    {
-      "titulo": "Me cansé de readaptar las recetas que veía en Internet: así cree mi propia extensión para el iPhone en pocos segundos",
-      "resumen": "Casi siempre que encuentro una receta por Internet veo que (casi) nadie tiene en cuenta a quienes cocinamos solo para uno. Y aunque sé que no en todas las recetas existe una proporcionalidad para cocinar para una sola pe",
-      "enlace": "https://www.applesfera.com/tutoriales/hay-pocas-recetas-para-sola-persona-asi-que-he-creado-extension-mi-iphone-para-solucionarlo",
-      "medio": "Applesfera",
-      "fecha": "2026-10-06T15:00:00Z"
-    },
-    {
-      "titulo": "Los peligros de la IA según Sam Altman: ‘El fin justifica los medios’",
-      "resumen": "Durante las últimas semanas, Silicon Valley se ha convertido en un polvorín de opiniones. El CEO de Anthropic, Dario Amodei, ha señalado como contundentes los peligros de la IA en varios de los modelos de [&#8230;] Los p",
-      "enlace": "https://blogthinkbig.com/los-peligros-de-la-ia-segun-sam-altman-el-fin-justifica-los-medios",
-      "medio": "Think Big",
-      "fecha": "2026-10-05T15:56:14Z"
-    },
-    {
-      "titulo": "El permiso más peligroso de macOS acaba de encontrar una nueva amenaza: los agentes de IA",
-      "resumen": "Los agentes de IA ya no son simples aplicaciones a las que hacemos una pregunta. Ya hay opciones para convertirlos en herramientas capaces de hacer cosas por nosotros. Buscar archivos, ejecutar comandos, consultar inform",
-      "enlace": "https://www.applesfera.com/os-x/agentes-ia-pueden-controlar-todo-nuestro-mac-apple-se-ha-dado-cuenta-este-riesgo",
-      "medio": "Applesfera",
-      "fecha": "2026-10-05T08:00:00Z"
-    },
-    {
-      "titulo": "CaixaBank crea una Dirección de IA y Data",
-      "resumen": "La nueva unidad impulsará la adopción de la inteligencia artificial y la gestión estratégica del dato en todo el Grupo L'articolo CaixaBank crea una Dirección de IA y Data proviene da Computing.",
-      "enlace": "https://www.computing.es/analytics/caixabank-crea-una-direccion-de-ia-y-data/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-05T07:00:00Z"
-    },
-    {
-      "titulo": "15 años de Siri: los años en los que los usuarios pusieron a los asistentes de voz en su sitio",
-      "resumen": "El 4 de octubre de 2011, Siri vio la luz en la presentación del iPhone 4s. Fue un hito tecnológico para Apple, pero también para el sector, pues por primera vez se integraba un asistente virtual inteligente en un product",
-      "enlace": "https://www.applesfera.com/curiosidades/15-anos-siri-decada-que-usuarios-pusieron-a-asistentes-voz-su-sitio",
-      "medio": "Applesfera",
-      "fecha": "2026-10-04T16:01:22Z"
-    },
-    {
-      "titulo": "El 55% de las organizaciones sanitarias prevé contar con más de cinco aplicaciones habilitadas para IA en los próximos tres años",
-      "resumen": "El 79% ha detectado aplicaciones o agentes de IA implementados por empleados sin la supervisión del departamento de TI L'articolo El 55% de las organizaciones sanitarias prevé contar con más de cinco aplicaciones habilit",
-      "enlace": "https://www.computing.es/inteligencia-artificial/el-55-de-las-organizaciones-sanitarias-preve-contar-con-mas-de-cinco-aplicaciones-habilitadas-para-ia-en-los-proximos-tres-anos/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-02T10:37:59Z"
-    },
-    {
-      "titulo": "Iberdrola integra la IA de Harvey en sus servicios jurídicos y fiscales",
-      "resumen": "Harvey se integrará como un componente clave de un plan de transformación más amplio del grupo Iberdrola L'articolo Iberdrola integra la IA de Harvey en sus servicios jurídicos y fiscales proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/iberdrola-integra-la-ia-de-harvey-en-sus-servicios-juridicos-y-fiscales/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-02T10:04:48Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
+      "resumen": "En enero escribimos que la IA más útil sería la que más nos vigilara, la que más supiese de nosotros. Nueve meses después, el asistente ya no solo ve lo que hacemos, también actúa por nosotros. El último en sumarse ha si",
+      "enlace": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
+      "medio": "Xataka",
+      "fecha": "2026-10-11T09:00:28Z"
+    },
     {
       "titulo": "Endesa destapa fraude eléctrico en 16 restaurantes de Barcelona gracias a una IA y a la promoción de unos influencers",
       "resumen": "Hay estrategias de marketing que salen caras, y luego está esta, que la han destapado de la forma más irónica posible. Según El Periódico, dieciséis restaurantes de Barcelona (varios de ellos buffets atiborrados de gente",
       "enlace": "https://www.xataka.com/magnet/16-restaurantes-barcelona-pagaban-a-influencers-para-promocionarse-endesa-uso-ia-para-investigar-sus-negocios-destapo-trama-fraude-electrico",
       "medio": "Xataka",
       "fecha": "2026-10-09T18:00:27Z"
-    },
-    {
-      "titulo": "El Consejo de Supervisión de Meta ordena retirar dos deepfakes y llama a sus reglas de IA «fundamentalmente inadecuadas»",
-      "resumen": "El Consejo de Supervisión de Meta publicó el 17 de septiembre dos resoluciones que ordenan a la empresa retirar vídeos de deepfake y que llaman su política de IA generativa «consistente y fundamentalmente inadecuada para",
-      "enlace": "https://wwwhatsnew.com/2026/09/18/consejo-supervision-meta-deepfakes-reglas-inadecuadas-concejala-escocia-campaignera-musulmana-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-09-18T18:00:42Z"
     },
     {
       "titulo": "Tras hablar con Trump, la posición de Jensen Huang sobre regular la IA es clarísima: \"No necesitamos nuevas leyes\"",

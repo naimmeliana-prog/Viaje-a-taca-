@@ -18479,7 +18479,7 @@
     "fecha_agregado": "2026-10-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Opengeni",
@@ -18541,7 +18541,7 @@
     "fecha_agregado": "2026-10-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Proofsource",
@@ -18602,7 +18602,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "MeetTwins",
@@ -18633,7 +18633,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Opus Creative Suite",
@@ -18664,7 +18664,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Liquid d1 Models",
@@ -18695,7 +18695,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Unprompt",
@@ -18726,7 +18726,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Dots",
@@ -18787,7 +18787,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Mistral Large 4",
@@ -18949,7 +18949,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite crear y compartir contenido en reuniones usando inteligencia artificial integrada.",
-    "web": "https://heypi.ai",
+    "web": "",
     "funciones": [
       "Generación automática de resúmenes de reuniones",
       "Creación de presentaciones con IA",
@@ -18972,7 +18972,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "AgentSDR",
@@ -19003,7 +19004,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Refs",
@@ -19034,7 +19035,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OpenPilot",
@@ -19065,7 +19066,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Odyssey 3",
@@ -19094,6 +19095,285 @@
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-10-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Cloudflare Clef-omni",
+    "compania": "Cloudflare",
+    "tipo": "Modelo multimodal",
+    "precio": "Pago",
+    "descripcion": "Modelo multimodal de 30B-A3B que procesa texto, imágenes, audio y video en una sola llamada.",
+    "web": "https://www.cloudflare.com/",
+    "funciones": [
+      "Procesamiento de texto",
+      "Procesamiento de imágenes",
+      "Procesamiento de audio",
+      "Procesamiento de video",
+      "Generación de respuestas multimodales"
+    ],
+    "caracteristicas": [
+      "30B parámetros",
+      "Costo bajo por llamada ($0.1)",
+      "Soporte para múltiples modalidades",
+      "Inferencia rápida",
+      "API accesible"
+    ],
+    "etica": "Cloudflare enfatiza la privacidad, no almacena datos de usuarios tras la inferencia y busca mitigar sesgos mediante entrenamiento diverso.",
+    "limite_gratis": "Sin plan gratuito; solo se paga por uso.",
+    "id": "cloudflare-clef-omni-a136cf",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "kōdlo",
+    "compania": "kōdlo",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Workspace de ventas end-to-end que usa IA para automatizar tareas y ofrecer contexto unificado.",
+    "web": "",
+    "funciones": [
+      "Gestión de leads",
+      "Automatización de seguimiento",
+      "Análisis de pipeline",
+      "Generación de propuestas",
+      "Integración con CRM"
+    ],
+    "caracteristicas": [
+      "Contexto unificado",
+      "IA contextual",
+      "Interfaz colaborativa",
+      "Reportes en tiempo real",
+      "Seguridad de datos"
+    ],
+    "etica": "kōdlo protege la privacidad de los datos de clientes y realiza auditorías para evitar sesgos en sus recomendaciones de venta.",
+    "limite_gratis": "El plan gratuito ofrece gestión básica de leads y automatización limitada; funciones avanzadas requieren pago.",
+    "id": "k-dlo-bf4567",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Decision 3.0",
+    "compania": "vLLM",
+    "tipo": "Modelo de decisión",
+    "precio": "Gratuito",
+    "descripcion": "Familia de modelos multimodales de 0.8B a 27B diseñados para responder preguntas de sí/no, elección y puntuación.",
+    "web": "https://vllm.ai/",
+    "funciones": [
+      "Clasificación binaria",
+      "Selección múltiple",
+      "Puntuación de respuestas",
+      "Procesamiento de texto e imagen",
+      "Inferencia eficiente"
+    ],
+    "caracteristicas": [
+      "Tamaños escalables de 0.8B a 27B",
+      "Baja latencia",
+      "Soporte multimodal",
+      "Licencia abierta",
+      "Fine-tuning sencillo"
+    ],
+    "etica": "vLLM publica los modelos bajo licencias permisivas y realiza evaluaciones de sesgo; los usuarios deben revisar las salidas para evitar decisiones sesgadas.",
+    "limite_gratis": "Al ser de código abierto, su uso es ilimitado y gratuito sin límites de plan.",
+    "id": "decision-3-0-d4f44a",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "HireKey",
+    "compania": "HireKey",
+    "tipo": "Reclutamiento",
+    "precio": "Freemium",
+    " descripcion": "HireKey es un copilot AI informado por reclutadores para la búsqueda de trabajos en tecnologías.",
+    "web": "",
+    "funciones": [
+      "Sourcing de candidatos",
+      "Screening de CV",
+      "Programación de entrevistas",
+      "Evaluación de habilidades",
+      "Analytics de contratación"
+    ],
+    "caracteristicas": [
+      "IA de matching",
+      "Integración con ATS",
+      "Chatbot de entrevistas",
+      "Reducción de sesgo",
+      "Reportes en tiempo real"
+    ],
+    "etica": "HireKey implementa auditorías de sesgo en sus algoritmos y permite a los usuarios revisar decisiones; protege la privacidad de datos conforme al GDPR.",
+    "descripcion": "Plataforma de reclutamiento que emplea IA para emparejar candidatos y automatizar entrevistas.",
+    "limite_gratis": "El plan gratuito permite publicar hasta 5 puestos y acceder a screening básico; funciones avanzadas requieren suscripción.",
+    "id": "hirekey-b0df82",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Farol",
+    "compania": "Farol",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    " descripcion": "Farol es un terminal para macOS que muestra qué agente de codificación necesita atención.",
+    "web": "",
+    "funciones": [
+      "Búsqueda semántica",
+      "Respuesta a preguntas",
+      "Resumen de documentos",
+      "Sugerencias de acciones",
+      "Integración con Slack"
+    ],
+    "caracteristicas": [
+      "Procesamiento de lenguaje natural",
+      "Aprendizaje continuo",
+      "Seguridad de datos",
+      "Despliegue on-premise o cloud",
+      "Interfaz conversacional"
+    ],
+    "etica": "Farol garantiza que los datos de la empresa no se usan para entrenar modelos externos y aplica filtros para evitar desinformación.",
+    "descripcion": "Asistente de IA que ayuda a equipos a encontrar información y automatizar consultas internas mediante búsqueda semántica.",
+    "limite_gratis": "El plan gratuito ofrece hasta 1000 consultas mensuales y acceso básico a la base de conocimientos; se requiere pago para uso ilimitado.",
+    "id": "farol-428a9b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Automations in Perplexity Computer",
+    "descripcion": "Sistema de automatizaciones que recuerda contexto, ejecuta acciones y mantiene el flujo de trabajo en marcha.",
+    "compania": "Perplexity",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Recordatorio de tareas",
+      "Ejecución de flujos",
+      "Integración con apps",
+      "Seguimiento de progreso",
+      "Sugerencias de optimización"
+    ],
+    "caracteristicas": [
+      "Memoria contextual",
+      "Ejecución automática",
+      "Conectores múltiples",
+      "Interfaz de bajo código",
+      "Escalabilidad"
+    ],
+    "etica": "Perplexity asegura que los datos de automatización no se comparten sin consentimiento y revisa posibles sesgos en las sugerencias de acción.",
+    "limite_gratis": "El plan gratuito permite hasta 50 automatizaciones activas y 1000 ejecuciones mensuales; se necesita plan pago para más.",
+    "web": "https://www.producthunt.com/products/perplexity-ai",
+    "id": "automations-in-perplexity-computer-0a2e1f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Agibot",
+    "descripcion": "Agente de IA siempre activo para Mac que asiste en tareas cotidianas sin costo alguno.",
+    "compania": "Agibot",
+    "tipo": "Agente IA",
+    "precio": "Gratuito",
+    "funciones": [
+      "Gestión de calendario",
+      "Respuesta a correos",
+      "Control de sistema",
+      "Búsqueda de información",
+      "Automatización de flujos"
+    ],
+    "caracteristicas": [
+      "Siempre activo",
+      "Bajo consumo de recursos",
+      "Integración nativa con macOS",
+      "Privacidad local",
+      "Actualizaciones continuas"
+    ],
+    "etica": "Agibot procesa los datos localmente en el dispositivo, minimizando la exposición y evitando sesgos externos; no envía información a servidores sin permiso.",
+    "limite_gratis": "Ilimitado, ya que es totalmente gratuito; no hay restricciones de uso.",
+    "web": "https://www.producthunt.com/products/agibot",
+    "id": "agibot-7aabf9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Ayven",
+    "descripcion": "Plataforma que lleva y dirige la agenda de equipos, automatizando recordatorios y seguimiento de tareas.",
+    "compania": "Ayven",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de agendas",
+      "Asignación de tareas",
+      "Recordatorios automáticos",
+      "Generación de actas",
+      "Integración con calendarios"
+    ],
+    "caracteristicas": [
+      "Interfaz colaborativa",
+      "IA para priorización",
+      "Sincronización en tiempo real",
+      "Accesibilidad móvil",
+      "Seguridad de datos"
+    ],
+    "etica": "Ayven protege la confidencialidad de las agendas y evita sesgos en la asignación de tareas mediante algoritmos transparentes.",
+    "limite_gratis": "El plan gratuito permite hasta 3 usuarios activos y 20 reuniones mensuales; funciones avanzadas requieren suscripción.",
+    "web": "https://www.producthunt.com/products/ayven",
+    "id": "ayven-d12723",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Foley",
+    "descripcion": "Lista de tareas por voz que archiva, planifica y confirma antes de actuar, manteniendo todo organizado.",
+    "compania": "Foley",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Captura de comandos de voz",
+      "Organización de tareas",
+      "Planificación de tiempo",
+      "Confirmación de acciones",
+      "Sincronización con calendarios"
+    ],
+    "caracteristicas": [
+      "Reconocimiento de voz preciso",
+      "Interfaz manos libres",
+      "Sugerencias inteligentes",
+      "Almacenamiento seguro",
+      "Multiplataforma"
+    ],
+    "etica": "Foley procesa comandos de voz localmente cuando es posible y no almacena grabaciones sin consentimiento; revisa posibles sesgos en la interpretación de acentos.",
+    "limite_gratis": "El plan gratuito permite hasta 30 tareas por voz al día y almacenamiento básico; se necesita pago para uso ilimitado y funciones avanzadas.",
+    "web": "https://www.producthunt.com/products/foley",
+    "id": "foley-77579f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
