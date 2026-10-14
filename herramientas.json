@@ -15191,7 +15191,7 @@
     "tipo": "Motor de inferencia de código abierto para Apple Silicon",
     "precio": "Gratuito",
     "descripcion": "Motor de inferencia open source escrito en Rust con kernels Metal personalizados, diseñado para ejecutar modelos como Qwen3.6-35B-A3B en Apple Silicon de forma eficiente.",
-    "web": "https://perplexity.com/lily",
+    "web": "https://www.lily.ai/",
     "funciones": [
       "Aceleración nativa en Apple Silicon",
       "Inferencia de baja latencia",
@@ -15211,7 +15211,8 @@
     "pago": false,
     "fecha_agregado": "2026-09-04",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "ARBR",
@@ -18579,7 +18580,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Rool ofrece un entorno local-first donde puedes almacenar archivos, ideas y ejecutar modelos de IA abiertos sin que tus datos salgan de tu dispositivo.",
-    "web": "",
+    "web": "https://rool.dev/",
     "funciones": [
       "Gestión unificada de archivos y notas",
       "Ejecución de modelos de IA locales (Hugging Face, Ollama)",
@@ -18602,7 +18603,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "MeetTwins",
@@ -18610,7 +18611,7 @@
     "tipo": "Agentes IA",
     "precio": "Pago",
     "descripcion": "MeetTwins crea un avatar fotorrealista que asiste a tus reuniones de Google Meet, imitando tu voz y gestos para que puedas ausentarte sin perder participación.",
-    "web": "",
+    "web": "https://aiindigo.com/tool/meettwins",
     "funciones": [
       "Generación de avatar a partir de selfies y voz",
       "Síntesis de voz personalizada con pocos minutos de audio",
@@ -18633,7 +18634,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Opus Creative Suite",
@@ -18641,7 +18642,7 @@
     "tipo": "Productividad",
     "precio": "Gratuito",
     "descripcion": "Opus Creative Suite ofrece un paquete de código abierto para edición de video, diseño gráfico y motion graphics, emulando los flujos de trabajo de Adobe Premiere y After Effects.",
-    "web": "",
+    "web": "https://opus.ai/",
     "funciones": [
       "Edición de video no lineal con múltiples pistas",
       "Herramientas de diseño gráfico vectorial y raster",
@@ -18664,7 +18665,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Liquid d1 Models",
@@ -18695,7 +18696,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Unprompt",
@@ -18703,7 +18704,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Unprompt convierte el consumo de APIs de IA en métricas de costo económico y huella hídrica, facilitando la optimización y el reporte de sostenibilidad para equipos.",
-    "web": "",
+    "web": "https://www.tryunprompt.com/",
     "funciones": [
       "Seguimiento de gastos por proveedor de API (OpenAI, Anthropic, etc.)",
       "Estimación de consumo de agua basado en uso de energía",
@@ -18726,7 +18727,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Dots",
@@ -18787,7 +18788,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Mistral Large 4",
@@ -18949,7 +18950,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Plataforma que permite crear y compartir contenido en reuniones usando inteligencia artificial integrada.",
-    "web": "",
+    "web": "https://heypi.dev/",
     "funciones": [
       "Generación automática de resúmenes de reuniones",
       "Creación de presentaciones con IA",
@@ -18973,7 +18974,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AgentSDR",
@@ -19158,7 +19159,7 @@
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Decision 3.0",
@@ -19196,7 +19197,7 @@
     "tipo": "Reclutamiento",
     "precio": "Freemium",
     " descripcion": "HireKey es un copilot AI informado por reclutadores para la búsqueda de trabajos en tecnologías.",
-    "web": "",
+    "web": "https://hirekey.io/",
     "funciones": [
       "Sourcing de candidatos",
       "Screening de CV",
@@ -19220,7 +19221,7 @@
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Farol",
@@ -19228,7 +19229,7 @@
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     " descripcion": "Farol es un terminal para macOS que muestra qué agente de codificación necesita atención.",
-    "web": "",
+    "web": "https://www.usefarol.io/",
     "funciones": [
       "Búsqueda semántica",
       "Respuesta a preguntas",
@@ -19252,7 +19253,7 @@
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Automations in Perplexity Computer",
@@ -19276,14 +19277,14 @@
     ],
     "etica": "Perplexity asegura que los datos de automatización no se comparten sin consentimiento y revisa posibles sesgos en las sugerencias de acción.",
     "limite_gratis": "El plan gratuito permite hasta 50 automatizaciones activas y 1000 ejecuciones mensuales; se necesita plan pago para más.",
-    "web": "https://www.producthunt.com/products/perplexity-ai",
+    "web": "https://www.perplexity.ai/",
     "id": "automations-in-perplexity-computer-0a2e1f",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Agibot",
@@ -19307,14 +19308,14 @@
     ],
     "etica": "Agibot procesa los datos localmente en el dispositivo, minimizando la exposición y evitando sesgos externos; no envía información a servidores sin permiso.",
     "limite_gratis": "Ilimitado, ya que es totalmente gratuito; no hay restricciones de uso.",
-    "web": "https://www.producthunt.com/products/agibot",
+    "web": "https://www.agibot.com/",
     "id": "agibot-7aabf9",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Ayven",
@@ -19338,14 +19339,14 @@
     ],
     "etica": "Ayven protege la confidencialidad de las agendas y evita sesgos en la asignación de tareas mediante algoritmos transparentes.",
     "limite_gratis": "El plan gratuito permite hasta 3 usuarios activos y 20 reuniones mensuales; funciones avanzadas requieren suscripción.",
-    "web": "https://www.producthunt.com/products/ayven",
+    "web": "https://www.ayven.ai/",
     "id": "ayven-d12723",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Foley",
@@ -19374,6 +19375,118 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Upsolve Row-Level Security",
+    "descripcion": "Upsolve Row-Level Security garantiza que los agentes de IA respeten los permisos de datos a nivel de fila, evitando el acceso no autorizado.",
+    "compania": "Upsolve",
+    "tipo": "Seguridad de datos / Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Control de acceso basado en roles",
+      "Filtrado dinámico de filas",
+      "Auditoría de consultas",
+      "Integración con bases de datos"
+    ],
+    "caracteristicas": [
+      "Cumple normativas de privacidad",
+      "Reduce riesgo de fuga de datos",
+      "Escalable a grandes volúmenes"
+    ],
+    "etica": "La herramienta protege la privacidad de los usuarios al restringir el acceso a datos sensibles y ayuda a mitigar sesgos derivados de información mal utilizada.",
+    "limite_gratis": "El plan gratuito permite hasta 5 bases de datos y 1000 filas por consulta.",
+    "web": "https://upsolve.ai/",
+    "id": "upsolve-row-level-security-38b999",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Remocn Studio",
+    "descripcion": "Remocn Studio permite crear vídeos de lanzamiento profesionales de forma automática, sin necesidad de abrir After Effects.",
+    "compania": "Remocn",
+    "tipo": "Generación de vídeo / Edición automática",
+    "precio": "Freemium",
+    "funciones": [
+      "Plantillas de vídeo predefinidas",
+      "Sincronización automática de audio",
+      "Exportación en múltiples formatos",
+      "Colaboración en equipo"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva",
+      "Rendimiento rápido en la nube",
+      "Compatible con dispositivos móviles"
+    ],
+    "etica": "Los vídeos generados respetan los derechos de autor siempre que se utilicen materiales autorizados por el usuario.",
+    "limite_gratis": "El plan gratuito incluye 5 proyectos y 10 segundos de vídeo por proyecto.",
+    "web": "https://www.producthunt.com/products/remocn-studio",
+    "id": "remocn-studio-824a73",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Muse Wonder",
+    "descripcion": "Muse Wonder ofrece acceso a los modelos más avanzados de Meta para construir agentes personales inteligentes y adaptables.",
+    "compania": "Meta Platforms",
+    "tipo": "Modelos de IA / Agentes personales",
+    "precio": "Freemium",
+    "funciones": [
+      "Acceso a LLaMA, MPT y modelos multimodales",
+      "Personalización de agentes",
+      "Integración con APIs",
+      "Análisis de rendimiento"
+    ],
+    "caracteristicas": [
+      "Alto rendimiento",
+      "Escalable",
+      "Actualizaciones frecuentes de modelos"
+    ],
+    "etica": "Los modelos pueden mostrar sesgos inherentes; se recomienda la revisión humana para aplicaciones críticas.",
+    "limite_gratis": "El plan gratuito permite 1000 tokens por día y acceso a un modelo básico.",
+    "web": "https://www.producthunt.com/products/meta-ai",
+    "id": "muse-wonder-cd473b",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "MausBot",
+    "descripcion": "MausBot es un bot de código abierto basado en Grok que funciona localmente sin necesidad de conexión a internet.",
+    "compania": "MausBot (código abierto)",
+    "tipo": "Chatbot / Agente local de código abierto",
+    "precio": "Gratuito",
+    "funciones": [
+      "Sin dependencia de la nube",
+      "Total privacidad de datos",
+      "Personalizable",
+      "Ligero y rápido"
+    ],
+    "caracteristicas": [
+      "Rendimiento sin conexión",
+      "Sin costes de API",
+      "Transparente y auditable"
+    ],
+    "etica": "Al ser código abierto, los usuarios pueden auditar el modelo para detectar sesgos y garantizar un uso responsable.",
+    "limite_gratis": "Sin plan gratuito; es completamente gratuito.",
+    "web": "https://mausbot.com/download",
+    "id": "mausbot-fcc4f6",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-14",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
