@@ -10821,7 +10821,7 @@
     "tipo": "Agentes IA / Chatbot / Integración empresarial",
     "precio": "Pago",
     "descripcion": "Solución de OpenAI para incorporar agentes de IA en flujos de trabajo internos y atención al cliente.",
-    "web": "https://presence-ai.app/",
+    "web": "https://presenceai.ai/",
     "funciones": [
       "Crear agentes personalizados con personalidad y tono definidos",
       "Automatizar tickets y solicitudes de soporte",
@@ -10843,8 +10843,8 @@
     "fecha_agregado": "2026-08-03",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1,
-    "limite_gratis": "Sin plan gratuito."
+    "limite_gratis": "Sin plan gratuito.",
+    "intentos_web": 1
   },
   {
     "nombre": "Airtop for Google Ads Automation",
@@ -12037,7 +12037,7 @@
     ],
     "etica": "Prioriza la transparencia en el uso de datos y evita sesgos en la automatización. Cumple con estándares de privacidad globales.",
     "limite_gratis": "Sin plan gratuito. Ofrece una prueba de 14 días con acceso completo a todas las funciones.",
-    "web": "https://www.omniwork.ai/",
+    "web": "",
     "id": "omniwork-faed74",
     "gratis": false,
     "pago": true,
@@ -18039,7 +18039,7 @@
       "Colaboración en equipo con roles de edición y aprobación"
     ],
     "etica": "GoodSocials procesa datos de redes sociales para crear contenido, por lo que es crucial proteger la privacidad de los usuarios y auditar el algoritmo para evitar sesgos que puedan propagar información falsa.",
-    "web": "https://www.producthunt.com/products/goodsocials",
+    "web": "https://marketgenius.ai/products/goodsocials",
     "tipo": "Chatbot / Asistente",
     "compania": "GoodSocials AI",
     "id": "goodsocials-465f94",
@@ -18049,7 +18049,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite gestionar hasta 3 cuentas de redes sociales y programar un máximo de 50 publicaciones al mes.",
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "iFixAi",
@@ -18411,14 +18411,14 @@
     ],
     "etica": "Protege los datos personales de los usuarios y promueve la equidad en el acceso a herramientas de productividad.",
     "limite_gratis": "Permite crear hasta 3 historias diarias con funciones básicas; el plan premium añade colaboración ilimitada y plantillas avanzadas.",
-    "web": "https://www.producthunt.com/products/reassign",
+    "web": "https://reassign.ai/",
     "id": "reassign-f4a90d",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-04",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Spira Maxima",
@@ -18473,14 +18473,14 @@
     ],
     "etica": "Garantiza transparencia en los datos de auditoría y evita prácticas de SEO engañosas. Cumple con estándares de privacidad de datos de usuarios.",
     "limite_gratis": "El plan gratuito ofrece 5 auditorías mensuales con límites de palabras clave y sin acceso a funciones avanzadas de análisis.",
-    "web": "https://www.producthunt.com/products/oogwai-beacon",
+    "web": "https://www.visalytica.com/tool/oogwai-beacon",
     "id": "oogwai-beacon-fbca73",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Opengeni",
@@ -18535,14 +18535,14 @@
     ],
     "etica": "Minimiza el impacto ambiental al optimizar el uso de recursos de cómputo. Garantiza transparencia en la selección de modelos para evitar sesgos no deseados.",
     "limite_gratis": "El plan gratuito permite 1,000 consultas mensuales con límites de ancho de banda y sin acceso a funciones de enrutamiento avanzado.",
-    "web": "https://www.producthunt.com/products/fastrouter-ai",
+    "web": "https://fastrouter.ai/",
     "id": "fastrouter-ai-0326e7",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Proofsource",
@@ -18673,7 +18673,7 @@
     "tipo": "Modelos IA",
     "precio": "Freemium",
     "descripcion": "Los modelos Liquid d1 procesan simultáneamente texto, imagen y audio para producir decisiones estructuradas (como clasificaciones o acciones) sin generar texto de salida, optimizados para aplicaciones en tiempo real.",
-    "web": "",
+    "web": "https://www.liquid.ai/",
     "funciones": [
       "Clasificación multimodal de entradas de texto, imagen y audio",
       "Detección de objetos con contexto lingüístico",
@@ -18696,7 +18696,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Unprompt",
@@ -18788,7 +18788,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Mistral Large 4",
@@ -18998,14 +18998,14 @@
     ],
     "etica": "Los agentes automatizados pueden reducir la interacción humana y introducir sesgos en la selección de leads.",
     "limite_gratis": "Como software de código abierto, es gratuito pero requiere infraestructura propia.",
-    "web": "https://www.producthunt.com/products/agentsdr",
+    "web": "https://agentsdr.ai/",
     "id": "agentsdr-0133d5",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Refs",
@@ -19036,7 +19036,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "OpenPilot",
@@ -19067,7 +19067,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Odyssey 3",
@@ -19091,14 +19091,14 @@
     ],
     "etica": "La creación de mundos artificiales puede influir en la percepción de la realidad y plantear cuestiones sobre el uso ético en entrenamientos militares.",
     "limite_gratis": "Plan gratuito con limitaciones de escenario y resolución.",
-    "web": "https://www.producthunt.com/products/odyssey-3",
+    "web": "https://odyssey.ai/",
     "id": "odyssey-3-b1a31a",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Cloudflare Clef-omni",
@@ -19136,7 +19136,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Workspace de ventas end-to-end que usa IA para automatizar tareas y ofrecer contexto unificado.",
-    "web": "",
+    "web": "https://kodlo.ai/",
     "funciones": [
       "Gestión de leads",
       "Automatización de seguimiento",
@@ -19159,7 +19159,7 @@
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Decision 3.0",
@@ -19370,14 +19370,14 @@
     ],
     "etica": "Foley procesa comandos de voz localmente cuando es posible y no almacena grabaciones sin consentimiento; revisa posibles sesgos en la interpretación de acentos.",
     "limite_gratis": "El plan gratuito permite hasta 30 tareas por voz al día y almacenamiento básico; se necesita pago para uso ilimitado y funciones avanzadas.",
-    "web": "https://www.producthunt.com/products/foley",
+    "web": "https://www.foley-ai.com/",
     "id": "foley-77579f",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Upsolve Row-Level Security",
@@ -19426,14 +19426,14 @@
     ],
     "etica": "Los vídeos generados respetan los derechos de autor siempre que se utilicen materiales autorizados por el usuario.",
     "limite_gratis": "El plan gratuito incluye 5 proyectos y 10 segundos de vídeo por proyecto.",
-    "web": "https://www.producthunt.com/products/remocn-studio",
+    "web": "https://remocn.studio/",
     "id": "remocn-studio-824a73",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-14",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Muse Wonder",
@@ -19461,7 +19461,7 @@
     "fecha_agregado": "2026-10-14",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "MausBot",
@@ -19487,6 +19487,342 @@
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-10-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Shrine",
+    "compania": "Shrine AI",
+    "tipo": "Plataforma de gestión de agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma centralizada para gestionar, desplegar y monitorizar agentes de IA autónomos en producción.",
+    "web": "https://shrine.ai",
+    "funciones": [
+      "Gestión centralizada de agentes",
+      "Despliegue automatizado",
+      "Monitorización en tiempo real",
+      "Escalado dinámico"
+    ],
+    "caracteristicas": [
+      "Compatible con múltiples frameworks de IA",
+      "Soporte para agentes en la nube y edge",
+      "API robusta",
+      "Seguro y conforme"
+    ],
+    "etica": "Garantiza la privacidad de los datos mediante encriptación de extremo a extremo y mitiga sesgos en los agentes mediante auditorías continuas.",
+    "limite_gratis": "El plan gratuito permite hasta 3 agentes y 1000 interacciones mensuales.",
+    "id": "shrine-d08075",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Navige",
+    "compania": "Navige AI",
+    "tipo": "Gestión de costes de agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Herramienta para controlar y optimizar el gasto en agentes de IA, evitando costes descontrolados en ejecuciones autónomas.",
+    "web": "https://navige.ai",
+    "funciones": [
+      "Monitoreo de gastos en tiempo real",
+      "Alertas de costes",
+      "Optimización automática de recursos",
+      "Informes detallados"
+    ],
+    "caracteristicas": [
+      "Integración con principales proveedores en la nube",
+      "Modelado predictivo de costes",
+      "Panel de control personalizable",
+      "Escalable"
+    ],
+    "etica": "Protege los datos financieros mediante anonimización y promueve un uso responsable de los agentes IA.",
+    "limite_gratis": "El plan gratuito ofrece monitorización básica de hasta 5 agentes durante 30 días.",
+    "id": "navige-8d75ff",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "CopilotKit CLiF",
+    "compania": "CopilotKit",
+    "tipo": "Plataforma de desarrollo de agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma que convierte trazas de ejecución y acciones de usuarios en skills, evaluaciones y datos de fine-tuning para mejorar agentes en producción.",
+    "web": "https://copilotkit.ai/clif",
+    "funciones": [
+      "Conversión automática de trazas",
+      "Generación de skills",
+      "Evaluación de rendimiento",
+      "Fine-tuning de modelos"
+    ],
+    "caracteristicas": [
+      "Compatible con múltiples lenguajes",
+      "Escalable",
+      "Seguro",
+      "Rendimiento optimizado"
+    ],
+    "etica": "Asegura la privacidad de los datos de los usuarios mediante anonimización y reduce el sesgo mediante datos diversificados.",
+    "limite_gratis": "El plan gratuito permite hasta 1000 trazas al mes y 1 modelo de fine-tuning.",
+    "id": "copilotkit-clif-1b99ff",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Audimate",
+    "compania": "Audimate AI",
+    "tipo": "Asistente contextual multicanal",
+    "precio": "Freemium",
+    "descripcion": "Asistente IA que opera dentro de las aplicaciones que ya usas (navegador, IDE, Slack, Notion) sin cambiar de contexto.",
+    "web": "https://audimate.ai",
+    "funciones": [
+      "Integración contextual",
+      "Respuesta en tiempo real",
+      "Soporte multicanal",
+      "Recordatorios inteligentes"
+    ],
+    "caracteristicas": [
+      "Bajo consumo de recursos",
+      "Aprendizaje continuo",
+      "Interfaz minimalista",
+      "Fácil configuración"
+    ],
+    "etica": "Maneja los datos de conversación de forma segura y mitiga el sesgo en las respuestas.",
+    "limite_gratis": "El plan gratuito ofrece hasta 100 interacciones diarias por aplicación.",
+    "id": "audimate-b2ebb4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Muse Spark Open",
+    "compania": "Muse AI",
+    "tipo": "Modelo de lenguaje grande multimodal open-weight",
+    "precio": "Gratuito",
+    "descripcion": "Modelo open-weight de 816B parámetros (MoE) que procesa texto, imágenes, video y audio con contexto de 1M tokens, optimizado para Apple Silicon.",
+    "web": "https://ai.meta.com/muse-spark-open",
+    "funciones": [
+      "Procesamiento multimodal",
+      "Contexto extendido de 1M tokens",
+      "Optimizado para Apple Silicon",
+      "Licencia open-source"
+    ],
+    "caracteristicas": [
+      "Alto rendimiento",
+      "Bajo coste computacional en dispositivos Apple",
+      "Comunidad colaborativa",
+      "Actualizaciones frecuentes"
+    ],
+    "etica": "Al ser open-weight, permite la auditoría transparente y la mitigación de sesgos por parte de la comunidad.",
+    "limite_gratis": "Sin plan gratuito; el modelo está disponible bajo licencia open-source para su descarga gratuita.",
+    "id": "muse-spark-open-c2cbb1",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Nemotron 3.5 Super VL",
+    "compania": "NVIDIA",
+    "tipo": "Modelo multimodal empresarial MoE",
+    "precio": "Pago",
+    "descripcion": "Modelo multimodal MoE de 120B parámetros (12B activos) con contexto 1M tokens y pesos NVFP4, diseñado para agentes empresariales en producción continua.",
+    "web": "https://github.com/NVIDIA/Nemotron-3.5-Super-VL",
+    "funciones": [
+      "Estructura MoE eficiente",
+      "Contexto extendido",
+      "Pesos de precisión ultra-baja",
+      "Integración con APIs empresariales"
+    ],
+    "caracteristicas": [
+      "Alto rendimiento",
+      "Escalable",
+      "Optimizado para inferencia en producción",
+      "Bajo consumo energético"
+    ],
+    "etica": "Garantiza la privacidad de los datos mediante encriptación y evalúa continuamente el sesgo en escenarios empresariales.",
+    "limite_gratis": "Sin plan gratuito; disponible bajo licencia comercial.",
+    "id": "nemotron-3-5-super-vl-69cd92",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "FLUX 3 Image Klein",
+    "compania": "FLUX AI",
+    "tipo": "Generación de imágenes de alta resolución",
+    "precio": "Freemium",
+    "descripcion": "Modelo de generación de imágenes de 5.6B parámetros que nativamente genera 4K con control pixel-perfect, corriendo en GPUs de 8GB VRAM.",
+    "web": "https://blackforestlabs.ai/flux-3-klein",
+    "funciones": [
+      "Generación de 4K",
+      "Control preciso de píxeles",
+      "Bajo requerimiento de VRAM",
+      "Estilos personalizables"
+    ],
+    "caracteristicas": [
+      "Rápido tiempo de inferencia",
+      "Calidad de imagen alta",
+      "Compatibilidad con múltiples formatos",
+      "Fácil integración"
+    ],
+    "etica": "Usa datos de entrenamiento con licencias claras y promueve el uso responsable de la generación de imágenes.",
+    "limite_gratis": "El plan gratuito permite hasta 10 imágenes generadas al día con resolución de 1080p.",
+    "id": "flux-3-image-klein-97fd5e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Granite Switch 4.1",
+    "compania": "IBM",
+    "tipo": "Plataforma unificada de agentes empresariales",
+    "precio": "Pago",
+    "descripcion": "Endpoint único que combina chat, toma de decisiones estructuradas y síntesis de voz para agentes empresariales con gobernanza integrada.",
+    "web": "https://ibm.com/granite-switch",
+    "funciones": [
+      "Chat unificado",
+      "Toma de decisiones estructurada",
+      "Síntesis de voz",
+      "Gobernanza integrada"
+    ],
+    "caracteristicas": [
+      "Escalable",
+      "Seguro",
+      "Conformidad regulatoria",
+      "Rendimiento optimizado"
+    ],
+    "etica": "Protege los datos de los usuarios mediante encriptación y asegura la transparencia algorítmica.",
+    "limite_gratis": "Sin plan gratuito; disponible bajo suscripción empresarial.",
+    "id": "granite-switch-4-1-5db25b",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "CodeCrab",
+    "descripcion": "Realiza revisiones de código con análisis profundo e integraciones con múltiples herramientas de desarrollo.",
+    "compania": "CodeCrab AI",
+    "tipo": "Asistente de revisión de código IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Detección de errores",
+      "Recomendaciones de optimización",
+      "Integración con GitHub, GitLab",
+      "Análisis de seguridad"
+    ],
+    "caracteristicas": [
+      "Interfaz limpia",
+      "Aprendizaje continuo",
+      "Soporte multilingüe",
+      "Rendimiento rápido"
+    ],
+    "etica": "Maneja el código de los usuarios de forma segura y mitiga el sesgo en las sugerencias.",
+    "limite_gratis": "El plan gratuito ofrece hasta 5 revisiones de código al día.",
+    "web": "https://www.producthunt.com/products/codecrab",
+    "id": "codecrab-5a3be8",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Actually Asked",
+    "descripcion": "Página de preguntas frecuentes con IA que se auto-mejora para ofrecer respuestas más precisas y personalizadas.",
+    "compania": "Actually Asked AI",
+    "tipo": "Página de preguntas frecuentes con IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Aprendizaje automático",
+      "Personalización de respuestas",
+      "Análisis de métricas",
+      "Integración con sitios web"
+    ],
+    "caracteristicas": [
+      "Interfaz amigable",
+      "Escalable",
+      "Soporte multilingüe",
+      "Panel de control intuitivo"
+    ],
+    "etica": "Protege los datos de los visitantes y asegura la imparcialidad de las respuestas.",
+    "limite_gratis": "El plan gratuito permite hasta 1000 visitas mensuales y 5 páginas de FAQ.",
+    "web": "https://ai-actually.com/",
+    "id": "actually-asked-38bc6c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Lleverage",
+    "descripcion": "Es el sistema autónomo diseñado para gestionar la economía física y las tareas administrativas mediante inteligencia artificial.",
+    "compania": "Lleverage",
+    "tipo": "Automatización de operaciones empresariales",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de procesos administrativos",
+      "Gestión de datos operativos",
+      "Optimización de flujos de trabajo"
+    ],
+    "caracteristicas": [
+      "Aprendizaje continuo de patrones de negocio",
+      "Integración con sistemas legacy",
+      "Reducción de errores humanos"
+    ],
+    "etica": "Protege la confidencialidad de los datos empresariales y minimiza los sesgos en la asignación de tareas.",
+    "limite_gratis": "El plan gratuito incluye un límite mensual de operaciones para uso personal.",
+    "web": "https://www.lleverage.ai/",
+    "id": "lleverage-b5becc",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "CmdRound",
+    "descripcion": "Herramienta enfocada en ayudar a ingenieros a construir aplicaciones utilizando inteligencia artificial.",
+    "compania": "CmdRound",
+    "tipo": "Asistente de programación / Desarrollo de software",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de código",
+      "Revisión de código",
+      "Búsqueda de soluciones a problemas técnicos"
+    ],
+    "caracteristicas": [
+      "Soporte para múltiples lenguajes de programación",
+      "Integración con repositorios Git",
+      "Explicaciones detalladas de las decisiones de código"
+    ],
+    "etica": "Prioriza la seguridad del código fuente y la transparencia en las recomendaciones de refactorización.",
+    "limite_gratis": "Ofrece un número limitado de peticiones diarias en el plan gratuito.",
+    "web": "https://cmdround.com/",
+    "id": "cmdround-a6a472",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

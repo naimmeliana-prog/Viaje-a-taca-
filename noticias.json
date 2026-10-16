@@ -1,47 +1,173 @@
 {
-  "actualizado": "2026-10-14T01:34:15Z",
+  "actualizado": "2026-10-16T00:59:11Z",
   "novedades": [
+    {
+      "titulo": "ChatGPT ya tenía algunas de las voces más naturales de la IA. GPT-Live-1.1 ahora va a por uno de sus puntos débiles",
+      "resumen": "Llevo bastante tiempo probando las voces de los asistentes de inteligencia artificial, y hay algo que siempre me ha llamado la atención: lo mucho que ha cambiado la experiencia de hablar con una máquina. Hoy tenemos prop",
+      "enlace": "https://www.xataka.com/robotica-e-ia/chatgpt-tenia-algunas-voces-naturales-ia-gpt-live-1-1-ahora-va-a-uno-sus-puntos-debiles",
+      "medio": "Xataka",
+      "fecha": "2026-10-15T19:30:40Z"
+    },
+    {
+      "titulo": "Nvidia se ha propuesto diversificar su apuesta por la IA: ha donado 250 millones de dólares a Reino Unido y más de 2.000 millones en Europa",
+      "resumen": "Nvidia quiere echar sus huevos de la IA en todas las cestas posibles. El último ejemplo ha ocurrido esta misma semana, donde su CEO, Jensen Huang, anunció una donación de capacidad de cálculo valorada en unos 250 millone",
+      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-se-ha-propuesto-diversificar-su-apuesta-ia-ha-donado-250-millones-dolares-a-reino-unido-2-000-millones-europa",
+      "medio": "Xataka",
+      "fecha": "2026-10-15T18:16:25Z"
+    },
+    {
+      "titulo": "Silicon Valley está abrazando el preparacionismo convencido de las catástrofes a las que nos conduce la IA",
+      "resumen": "Pasamos por delante de los frigoríficos de los supermercados sin prestarles mucha atención. Nadie podía imaginar que un ataque a sus sistemas de gestión de temperatura pudiera encender las alarmas que ha encendido el inc",
+      "enlace": "https://www.xataka.com/robotica-e-ia/silicon-valley-tiene-claro-que-futuro-no-seran-300-supermercados-sino-todo-pais-eso-se-esta-volviendo-preparacionista",
+      "medio": "Xataka",
+      "fecha": "2026-10-15T15:00:29Z"
+    },
+    {
+      "titulo": "La nueva etapa de la IA empresarial: De responder a ejecutar",
+      "resumen": "Después de un primer periodo marcado por los asistentes capaces de generar textos, resumir información o responder preguntas; el siguiente reto es conseguir que la IA pueda participar directamente en los procesos de nego",
+      "enlace": "https://www.computing.es/inteligencia-artificial/la-nueva-etapa-de-la-ia-empresarial-de-responder-a-ejecutar/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-15T13:36:43Z"
+    },
+    {
+      "titulo": "Nvidia quiere que RTX Spark marque un antes y un después en el PC: después de verlo en acción, no parece una locura",
+      "resumen": "Durante 1.000 años, las Murallas Teodosianas de Constantinopla aguantaron todo tipo de ataques. Sin embargo, en 1453 un ingeniero llamado Orbán acabó creando un monstruoso cañón que las derribó. El sultán otomano Mehmed ",
+      "enlace": "https://www.xataka.com/ordenadores/nvidia-quiere-que-rtx-spark-marque-antes-despues-pc-despues-verlo-accion-no-parece-locura",
+      "medio": "Xataka",
+      "fecha": "2026-10-15T13:00:00Z"
+    },
+    {
+      "titulo": "Epic le ha pedido a la IA que rehaga toda la interfaz de su tienda porque \"programar es difícil\"",
+      "resumen": "Me gustaría decir que esa frase es una licencia que me he tomado, pero realmente es algo literal. En un mensaje publicado ayer en la página de novedades de Epic Games, la compañía que ahora es la del 'Fortnite' y la del ",
+      "enlace": "https://www.xataka.com/videojuegos/creadores-fortnite-dicen-que-programar-dificil-asi-que-han-pedido-a-ia-que-les-rehaga-epic-store",
+      "medio": "Xataka",
+      "fecha": "2026-10-15T11:00:00Z"
+    },
+    {
+      "titulo": "Su escuela bloqueó ChatGPT. Ahora esta estudiante de secundaria de 17 años dirige una startup de inteligencia artificial con 1.000 usuarios",
+      "resumen": "Navya Tuteja contacta con sus políticos locales mediante un correo en frío y una idea, y así llegó también a un periodista. Tiene 17 años, cursa el último año de secundaria en un instituto selectivo de las afueras de Was",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/su-escuela-bloqueo-chatgpt-ahora-esta-estudiante-secundaria-17-anos-dirige-startup-inteligencia-artificial-1-000-usuarios",
+      "medio": "Genbeta",
+      "fecha": "2026-10-15T09:30:25Z"
+    },
+    {
+      "titulo": "Sam Altman rechaza que la IA sea una nueva Revolución Industrial: “Debe dar más poder a las personas”",
+      "resumen": "Sam Altman subió al escenario del DevDay para presentar un agente de IA que trabaja las 24 horas, y acabó hablando de engranajes. “La mejor versión de la IA no consiste en convertir a las personas en engranajes de una má",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/sam-altman-rechaza-que-ia-sea-nueva-revolucion-industrial-debe-dar-poder-a-personas",
+      "medio": "Genbeta",
+      "fecha": "2026-10-15T07:00:28Z"
+    },
+    {
+      "titulo": "Con una fotografía de tu lavadora, una IA ya puede enviarle tu ubicación a la policía en Estados Unidos",
+      "resumen": "Graylark Technologies, la empresa detrás de Raven (anteriormente conocida como GeoSpy), ha añadido una función que permite a los que usan su herramienta subir una foto del interior de una casa y conseguir la dirección de",
+      "enlace": "https://www.xataka.com/privacidad/ia-permite-a-policia-localizar-tu-casa-sola-foto-interior",
+      "medio": "Xataka",
+      "fecha": "2026-10-15T05:00:00Z"
+    },
+    {
+      "titulo": "BRP, el péptido que Stanford encontró con IA y que frena el apetito sin las náuseas de Ozempic (de momento, en animales)",
+      "resumen": "Un algoritmo revisó 20.000 genes y dio con BRP: hasta un 50 % menos de ingesta en ratones y cerdos, sin náuseas. Aún no se ha probado en personas.La noticia BRP, el péptido que Stanford encontró con IA y que frena el ape",
+      "enlace": "https://wwwhatsnew.com/2026/10/15/brp-peptido-stanford-ia-obesidad-alternativa-ozempic/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-15T02:00:40Z"
+    },
+    {
+      "titulo": "Flox Intelligence, la IA sueca que ahuyenta a la fauna de aeropuertos y vías de tren, busca 10 millones",
+      "resumen": "Nació en el KTH de Estocolmo, tiene sede en Syracuse (Nueva York) y 150 dispositivos instalados. Ahora abre una Serie A de 10 millones de dólares.La noticia Flox Intelligence, la IA sueca que ahuyenta a la fauna de aerop",
+      "enlace": "https://wwwhatsnew.com/2026/10/14/flox-intelligence-ia-ahuyentar-fauna-aeropuertos-serie-a-10-millones/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-14T20:00:09Z"
+    },
+    {
+      "titulo": "El Reino Unido usa IA frontera contra sus propias vulnerabilidades: 407 fallos en un mes por 13.000 libras",
+      "resumen": "El GC3 británico halló 407 fallos en 9 organizaciones públicas en un mes con IA frontera y 13.000 £ en tokens. El freno: revisar lo que encuentra.La noticia El Reino Unido usa IA frontera contra sus propias vulnerabilida",
+      "enlace": "https://wwwhatsnew.com/2026/10/14/ia-ciberseguridad-vulnerabilidades-sistemas-publicos-reino-unido/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-14T15:00:43Z"
+    },
+    {
+      "titulo": "Google quiere que las apps que creas con IA vivan en la Play Store, aunque solo las uses tú",
+      "resumen": "Google está reservando un rinconcito de su Google Play para que puedas subir a la plataforma las apps que crees con ayuda de la IA. Y es que tal y como han informado en su blog oficial, a partir de esta semana, cualquier",
+      "enlace": "https://www.xataka.com/aplicaciones/google-quiere-que-apps-que-creas-ia-vivan-play-store-solo-uses-tu",
+      "medio": "Xataka",
+      "fecha": "2026-10-14T14:16:27Z"
+    },
+    {
+      "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
+      "resumen": "Los medicamentos, los aviones y los coches tienen normas de seguridad que no dependen de que el fabricante se las ponga a sí mismo. Bill Gates cree que con la inteligencia artificial toca lo mismo. Lo dijo el domingo 27 ",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/bill-gates-dice-que-autorregulacion-empresas-ia-no-suficiente-que-gobiernos-deberian-estar-involucrados-supervision",
+      "medio": "Genbeta",
+      "fecha": "2026-10-14T14:00:28Z"
+    },
+    {
+      "titulo": "Instinct y Muse querían ocuparse de nuestras compras, pero se han topado con un obstáculo inesperado: las tiendas tienen puertas",
+      "resumen": "Los agentes de IA nos prometieron un mundo en el que bastaba abrir un chat directo con una IA a la que le podríamos pedir que hiciera todos los recados de la casa, como cuando de niños nos mandaban a por el pan o a compr",
+      "enlace": "https://www.xataka.com/robotica-e-ia/instinct-muse-prometian-acceder-a-tiendas-comprar-nosotros-problema-que-tiendas-estan-bloqueando",
+      "medio": "Xataka",
+      "fecha": "2026-10-14T13:30:00Z"
+    },
+    {
+      "titulo": "Todas las empresas de IA quieren crear sus propios chips, así que Nvidia quiere ahora tener su propia IA",
+      "resumen": "Nvidia se ha convertido en el pegamento de la IA por su tecnología, pero también por sus inversiones. El gigante estadounidense ha logrado que sus chips sean los más deseados en la fase de entrenamiento de la inteligenci",
+      "enlace": "https://www.xataka.com/robotica-e-ia/todas-empresas-ia-quieren-crear-sus-propios-chips-asi-que-nvidia-quiere-ahora-tener-su-propia-ia",
+      "medio": "Xataka",
+      "fecha": "2026-10-14T13:00:30Z"
+    },
+    {
+      "titulo": "Orange España amplía su alianza con Google Cloud para desplegar más de 1.000 agentes de IA personalizados",
+      "resumen": "La colaboración permite a Orange España industrializar sus operaciones de IA con Gemini Enterprise L'articolo Orange España amplía su alianza con Google Cloud para desplegar más de 1.000 agentes de IA personalizados prov",
+      "enlace": "https://www.computing.es/inteligencia-artificial/orange-espana-amplia-su-alianza-con-google-cloud-para-desplegar-mas-de-1-000-agentes-de-ia-personalizados/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-14T10:09:41Z"
+    },
+    {
+      "titulo": "Brad Smith, presidente de Microsoft: \"Ahora mismo, tu lavadora está sujeta a más normas de seguridad que la IA\"",
+      "resumen": "Brad Smith, presidente de Microsoft, ha prestado declaración recientemente sobre cómo está el panorama de la IA en términos de regulación. La cosa no está para tirar cohetes, y el propio Smith sostiene que hasta un cartó",
+      "enlace": "https://www.xataka.com/empresas-y-economia/tu-lavadora-esta-sujeta-a-reglas-seguridad-que-ia-brad-smith-presidente-microsoft-pide-frenar-salvaje-oeste-ia",
+      "medio": "Xataka",
+      "fecha": "2026-10-14T10:00:00Z"
+    },
+    {
+      "titulo": "El 75% de los profesionales del marketing prevé aumentar la inversión en asistentes de IA, incluyendo la publicidad",
+      "resumen": "El estudio anual Kantar Media Reactions muestra que los profesionales del marketing apuestan por la IA en su inversión, aunque muchos siguen sin tener claro si cuentan con el mix de medios y los datos adecuados para impu",
+      "enlace": "https://www.computing.es/inteligencia-artificial/en-2025-los-agentes-de-ia-impulsaran-el-70-de-las-comunicaciones-de-marketing/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-14T09:15:12Z"
+    },
+    {
+      "titulo": "Frontier by Itera impulsa la soberanía y el gobierno corporativo de la IA ante el Reglamento Europeo",
+      "resumen": "Frente al auge del Shadow AI y la fuga de datos confidenciales, Frontier by Itera propone una gobernanza técnica integral y un modelo predecible de costes operativos L'articolo Frontier by Itera impulsa la soberanía y el",
+      "enlace": "https://www.computing.es/entrevistas/frontier-by-itera-impulsa-la-soberania-y-el-gobierno-corporativo-de-la-ia-ante-el-reglamento-europeo/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-14T08:54:32Z"
+    },
+    {
+      "titulo": "Espionaje interno en OpenAI: una grabadora oculta y la propia IA como detective",
+      "resumen": "El FBI ha detenido a un ingeniero de OpenAI en San Francisco. La acusación señala la instalación de un dispositivo de grabación en una sala de reuniones ejecutivas. El hallazgo del micrófono tras un televisor [&#8230;] E",
+      "enlace": "https://blogthinkbig.com/espionaje-openai-microfono-oculto-fbi",
+      "medio": "Think Big",
+      "fecha": "2026-10-14T08:26:39Z"
+    },
+    {
+      "titulo": "Centros de datos en el espacio: en qué punto estamos",
+      "resumen": "El 1 de octubre despegó desde California un cohete de SpaceX con un satélite del tamaño de un frigorífico y, dentro, cuatro chips de inteligencia artificial de Google. Es el primer paso de Project Suncatcher, [&#8230;] C",
+      "enlace": "https://blogthinkbig.com/centros-de-datos-en-el-espacio-en-que-punto-estamos",
+      "medio": "Think Big",
+      "fecha": "2026-10-14T07:48:15Z"
+    },
+    {
+      "titulo": "Maia 300: el tercer chip de IA de Microsoft apuesta por la memoria HBM4 y racks de 96 aceleradores",
+      "resumen": "Maia 300: N2P de TSMC, 8 HBM4 con 288 GB y 18 TB/s, racks de 96 chips a 167 kW y despliegue en 2027. El 40 % frente a GPU, sin baseline.La noticia Maia 300: el tercer chip de IA de Microsoft apuesta por la memoria HBM4 y",
+      "enlace": "https://wwwhatsnew.com/2026/10/14/chip-maia-300-microsoft-ia-2027/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-14T06:00:36Z"
+    },
     {
       "titulo": "Google lanza Gemini 4 Argon: el modelo para trabajo pesado ya disponible en API, app y buscador",
       "resumen": "Google lanza Gemini 4 Argon, su modelo de IA para trabajo pesado, disponible ya en API, app y buscador con precios que suben el 30 de noviembre.La noticia Google lanza Gemini 4 Argon: el modelo para trabajo pesado ya dis",
       "enlace": "https://wwwhatsnew.com/2026/10/14/google-gemini-4-argon-lanzamiento-api-app-buscador/",
       "medio": "WWWhat's new",
       "fecha": "2026-10-13T22:00:07Z"
-    },
-    {
-      "titulo": "Gemini 4 Argon es la nueva bestia de Google para el trabajo pesado: código, ciencia, finanzas y ciberseguridad",
-      "resumen": "Imaginemos que encargamos a una inteligencia artificial una tarea que no puede resolverse con una sola respuesta: revisar miles de líneas de código, detectar qué partes ralentizan un programa y proponer cambios sin alter",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gemini-4-argon-nueva-bestia-google-para-trabajo-pesado-codigo-ciencia-finanzas-ciberseguridad",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T16:48:00Z"
-    },
-    {
-      "titulo": "Uno de los mayores distribuidores de hardware de España ha tenido una idea para seguir creciendo: convertirse en Dell",
-      "resumen": "En 1984, Michael Dell se dedicaba a mejorar el rendimiento de los PC de sus compañeros de su residencia universitaria de Texas. Pero lo que realmente le ha convertido en la cuarta mayor fortuna del mundo, con un patrimon",
-      "enlace": "https://www.xataka.com/robotica-e-ia/uno-mayores-distribuidores-hardware-espana-ha-tenido-idea-para-seguir-creciendo-convertirse-dell",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T16:30:27Z"
-    },
-    {
-      "titulo": "Una demo gratis en Steam usa tanta IA que sus autores han tenido que pedir un crédito para pagar las facturas",
-      "resumen": "¿Quién no se ha bajado alguna vez la demo de algún juego? Es una manera perfecta de saber cómo es la experiencia antes de pagarla, por eso las demos son una gran herramienta de marketing para los desarrolladores. Pero ¿q",
-      "enlace": "https://www.xataka.com/aplicaciones/demo-gratis-steam-usa-tanta-ia-que-sus-autores-han-tenido-que-pedir-credito-para-pagar-facturas",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T15:30:27Z"
-    },
-    {
-      "titulo": "Meta presenta Muse Wonder y Muse Wonder Full, sus modelos de IA más punteros para ponerse en la frontera de la tecnología",
-      "resumen": "Meta ha lanzado este lunes Muse Wonder y Muse Wonder Full, los primeros modelos de sus “Superintelligence Labs” que, según la compañía, se colocan a la vanguardia junto con los mejores modelos de OpenAI y Anthropic. Lleg",
-      "enlace": "https://www.xataka.com/robotica-e-ia/meta-presenta-muse-wonder-muse-wonder-full-sus-modelos-ia-punteros-objetivo-hacer-frente-a-mejores-openai-anthropic",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T15:20:00Z"
-    },
-    {
-      "titulo": "El agua residual del petróleo del Permian Basin podría refrigerar los centros de datos de la IA en Texas",
-      "resumen": "Un estudio de la UT Austin propone usar agua residual del Permian Basin para refrigerar centros de datos en Texas, aprovechando litio como subproducto y el calor de los propios servidores.La noticia El agua residual del ",
-      "enlace": "https://wwwhatsnew.com/2026/10/13/centros-datos-refrigeracion-agua-residual-petroleo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-13T15:00:33Z"
     },
     {
       "titulo": "REA: la herramienta que enseña a los agentes de IA a hacer ingeniería inversa",
@@ -51,32 +177,11 @@
       "fecha": "2026-10-13T14:39:46Z"
     },
     {
-      "titulo": "Un motor de búsqueda alemán ha rechazado a Mistral apostando por modelos IA chinos open-source en su lugar",
-      "resumen": "Cuando se creó Mistral, el objetivo era tener una alternativa europea a los gigantes estadounidenses y chinos de la IA. En este tiempo, ha ido levantando miles de millones de euros en diferentes rondas de financiación y ",
-      "enlace": "https://www.xataka.com/servicios/motor-busqueda-aleman-ha-rechazado-a-mistral-apostando-modelos-ia-chinos-open-source-su-lugar",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T14:30:26Z"
-    },
-    {
-      "titulo": "El motivo para temer a la IA no es que nos extinga a todos, es lo que acaba de pasarle a 300 supermercados franceses",
-      "resumen": "La noche del domingo al lunes, los frigoríficos de cientos de supermercados franceses se descongelaron a la vez. Alguien activó a distancia los ciclos de desescarche de sus controladores. El ataque alcanzó al menos 300 e",
-      "enlace": "https://www.xataka.com/seguridad/riesgo-ia-no-va-a-parecerse-a-terminator-se-parecera-a-que-acaba-pasar-500-supermercados-franceses",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T13:45:00Z"
-    },
-    {
-      "titulo": "Cómo China está transformando una zona rural donde se cultivan papas en el centro de su competencia tecnológica con EE.UU.",
+      "titulo": "Cómo China está transformando una zona rural donde se cultivan patatas en el centro de su competencia tecnológica con EE.UU.",
       "resumen": "En los campos de patatas de Ulanqab, los agricultores cosechan junto a unos vecinos que no dejan de crecer: enormes bloques rectangulares donde se alojará buena parte del cómputo de la inteligencia artificial china.&nbsp",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/como-china-esta-transformando-zona-rural-donde-se-cultivan-papas-centro-su-competencia-tecnologica-ee-uu",
       "medio": "Genbeta",
-      "fecha": "2026-10-13T12:00:28Z"
-    },
-    {
-      "titulo": "Google firma el mayor contrato nuclear de la historia tech: 890 megavatios de Constellation Energy para alimentar su IA",
-      "resumen": "Google y Constellation Energy firman el mayor contrato nuclear corporativo de la historia tech: 890 MW en 11 reactores, más de 4.300 millones de dólares para alimentar la IA de Alphabet.La noticia Google firma el mayor c",
-      "enlace": "https://wwwhatsnew.com/2026/10/13/google-constellation-energy-nuclear-890-mw-once-reactores-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-13T12:00:25Z"
+      "fecha": "2026-10-13T12:00:00Z"
     },
     {
       "titulo": "AI Summit by Substrate AI: el gran encuentro para descubrir cómo llevar la IA a tu empresa",
@@ -86,53 +191,11 @@
       "fecha": "2026-10-13T11:42:17Z"
     },
     {
-      "titulo": "Nvidia deja de fabricar la RTX 5090, la tarjeta más potente para jugadores, según una filtración",
-      "resumen": "Según varias filtraciones, Nvidia habría dejado de fabricar la GeForce RTX 5090, su tarjeta gráfica para videojuegos más potente, incluidas las versiones \"D\" diseñadas para el mercado chino. A pesar de que la compañía aú",
-      "enlace": "https://www.xataka.com/componentes/nvidia-deja-fabricar-rtx-5090-tarjeta-potente-para-jugadores-filtracion-su-chip-ira-destinado-a-ia",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T10:45:00Z"
-    },
-    {
-      "titulo": "Hace siete meses OpenAI mató su IA de generación de vídeo, pero ahora planea resucitar Sora como herramienta para Hollywood",
-      "resumen": "Aunque ahora el nombre nos dé un poco igual, hubo un momento en el que 'Sora' era sinónimo de punta de lanza en la generación de vídeo por IA. El modelo de OpenAI encabezó la generación de vídeo por inteligencia artifici",
-      "enlace": "https://www.xataka.com/cine-y-tv/hace-siete-meses-openai-mato-su-ia-generacion-video-ahora-planean-resucitar-sora-como-herramienta-para-hollywood",
-      "medio": "Xataka",
-      "fecha": "2026-10-13T10:30:00Z"
-    },
-    {
       "titulo": "Juan Luis Arsuaga, antropólogo, sobre la IA: “Ojalá esta vez no ocurra, pero no hay precedentes de un cambio de modelo económico que no produzca conflictos”",
       "resumen": "Juan Luis Arsuaga, especialista en evolución humana, no es economista, y cuando le preguntan por la inteligencia artificial, contesta con lo que sabe: la historia. “Ojalá esta vez no ocurra, pero no hay precedentes de un",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/juan-luis-arsuaga-antropologo-ia-ojala-esta-vez-no-ocurra-no-hay-precedentes-cambio-modelo-economico-que-no-produzca-conflictos",
       "medio": "Genbeta",
       "fecha": "2026-10-13T09:00:28Z"
-    },
-    {
-      "titulo": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA",
-      "resumen": "Cada vez que utilizamos una herramienta de inteligencia artificial, hay una infraestructura trabajando para ofrecernos una respuesta. Detrás de buena parte de esa capacidad de procesamiento encontramos los aceleradores d",
-      "enlace": "https://www.xataka.com/robotica-e-ia/nvidia-tiene-motivos-para-preocuparse-microsoft-apuesta-su-propio-chip-maia-300-para-su-infraestructura-ia",
-      "medio": "Xataka",
-      "fecha": "2026-10-12T21:51:01Z"
-    },
-    {
-      "titulo": "Dos años de prisión por el deepfake sexual de Meloni: Italia marca el camino que el resto de Europa tardará en seguir",
-      "resumen": "Italia condena a dos hombres por el deepfake sexual de Meloni: 2 años de prisión y 100.000 euros de indemnización bajo el artículo 50 de la AI Act europea.La noticia Dos años de prisión por el deepfake sexual de Meloni: ",
-      "enlace": "https://wwwhatsnew.com/2026/10/12/condena-deepfake-sexual-meloni-italia-ai-act-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-12T16:00:14Z"
-    },
-    {
-      "titulo": "Lo único que está construyendo Estados Unidos ahora mismo son centros de datos",
-      "resumen": "La inteligencia artificial y todo lo que se mueve en torno a ella se ha convertido en una gran promesa en la que las big tech están vertiendo enormes cantidades de dinero. Y en el caso de Estados Unidos, la economía es c",
-      "enlace": "https://www.xataka.com/empresas-y-economia/unico-que-esta-construyendo-estados-unidos-ahora-centros-datos",
-      "medio": "Xataka",
-      "fecha": "2026-10-12T12:00:27Z"
-    },
-    {
-      "titulo": "La IA de voz en los call centers ya existe, pero sigue cortando conversaciones y perdiendo palabras clave críticas",
-      "resumen": "PolyAI y Otter.ai explican por qué la IA de voz en call centers sigue perdiendo palabras clave críticas. Full-duplex existe, pero la latencia de razonamiento frena la experiencia.La noticia La IA de voz en los call cente",
-      "enlace": "https://wwwhatsnew.com/2026/10/12/ia-voz-call-center-limitaciones-polyai-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-12T06:00:07Z"
     },
     {
       "titulo": "Apple ha quitado una de las mejores funciones de iOS 27 y todavía no sabemos cuándo volverá",
@@ -142,83 +205,20 @@
       "fecha": "2026-10-11T15:00:28Z"
     },
     {
-      "titulo": "Dots, los agentes siempre activos de ChatGPT, no llegan al plan Pro en Europa: qué hacen y qué te pierdes",
-      "resumen": "Dots, los agentes siempre activos de ChatGPT, no están en el plan Pro en Europa. Qué hacen, sus límites y por qué las empresas sí pueden usarlos.La noticia Dots, los agentes siempre activos de ChatGPT, no llegan al plan ",
-      "enlace": "https://wwwhatsnew.com/2026/10/11/dots-chatgpt-agentes-siempre-activos-europa-plan-pro-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-11T02:00:40Z"
-    },
-    {
-      "titulo": "Nadella quiere que Copilot fabrique software a medida para cada empresa: qué es la «fábrica infinita de SaaS»",
-      "resumen": "Nadella publica «The Infinite SaaS Factory»: Copilot como sistema operativo del trabajo y fábrica de software. Qué gana Microsoft y qué arriesgas.La noticia Nadella quiere que Copilot fabrique software a medida para cada",
-      "enlace": "https://wwwhatsnew.com/2026/10/11/nadella-infinite-saas-factory-copilot-sistema-operativo-trabajo-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-10T22:00:38Z"
-    },
-    {
-      "titulo": "ChatGPT marcará sus textos con una señal invisible en la UE: qué es textGrain y por qué no sirve para acusar a nadie",
-      "resumen": "OpenAI añadirá la marca de agua textGrain a ChatGPT en la UE. Cambiar el 25 % de las palabras deja la detección en el 17 %. Qué prueba y qué no.La noticia ChatGPT marcará sus textos con una señal invisible en la UE: qué ",
-      "enlace": "https://wwwhatsnew.com/2026/10/10/textgrain-marca-agua-invisible-chatgpt-union-europea-ai-act-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-10T18:00:36Z"
-    },
-    {
-      "titulo": "La IA creará más empleo del que destruye en EE. UU., según McKinsey: el problema son los 11 millones que tendrán que cambiar de profesión",
-      "resumen": "McKinsey: la IA destruirá 36 millones de empleos en EE. UU. y creará 41 hasta 2035. Pero 11 millones cambiarán de profesión y el 45 % no tiene camino.La noticia La IA creará más empleo del que destruye en EE. UU., según ",
-      "enlace": "https://wwwhatsnew.com/2026/10/10/mckinsey-ia-empleo-2035-36-millones-41-millones-cambio-profesion/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-10T14:00:34Z"
-    },
-    {
-      "titulo": "Higgsfield apuesta por influencers de IA que no parecen humanos: cuellos imposibles, 30 millones de usuarios y mucho dinero detrás",
-      "resumen": "Higgsfield actualiza sus influencers de IA con aspecto no humano. 30 millones de usuarios, 1.000 millones de ingresos y un historial que preocupa.La noticia Higgsfield apuesta por influencers de IA que no parecen humanos",
-      "enlace": "https://wwwhatsnew.com/2026/10/10/higgsfield-influencers-ia-no-humanos-ai-influencer-studio-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-10T10:00:32Z"
-    },
-    {
       "titulo": "Ayesa Digital compra la empresa ‘AI-first’, Kuik Digital Solutions",
       "resumen": "Ayesa Digital pretende incrementar con esta adquisición su especialización tecnológica en ingeniería de software e IA Aplicada L'articolo Ayesa Digital compra la empresa ‘AI-first’, Kuik Digital Solutions proviene da Com",
       "enlace": "https://www.computing.es/mercado-ti/ayesa-digital-compra-la-empresa-ai-first-kuik-digital-solutions/",
       "medio": "Computing.es",
       "fecha": "2026-10-09T10:18:06Z"
-    },
-    {
-      "titulo": "Una foto para arreglar la calle: la IA que habla directamente con el Ayuntamiento de Madrid",
-      "resumen": "Caminar por la ciudad y toparse con una baldosa suelta, un contenedor desbordado o una farola fundida es una escena habitual. Notificar ese desperfecto a los servicios municipales suele ser una tarea distinta: encontrar ",
-      "enlace": "https://blogthinkbig.com/una-foto-para-arreglar-la-calle-la-ia-que-habla-directamente-con-el-ayuntamiento-de-madrid",
-      "medio": "Think Big",
-      "fecha": "2026-10-08T16:00:00Z"
-    },
-    {
-      "titulo": "La empresa agéntica: Cómo la IA entra en acción",
-      "resumen": "Gabriel Enríquez Molina, Head of Apps de Capgemini España, aborda temas como la responsabilidad y los límites de los agentes de IA y la relación que los empleados establecen con ellos y la que se establece entre los mism",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-empresa-agentica-como-la-ia-entra-en-accion/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-08T10:09:40Z"
-    },
-    {
-      "titulo": "BBVA crea un modelo para escalar la IA a todo el Grupo",
-      "resumen": "BBVA presenta, en un encuentro con analistas e inversores, la evolución de su estrategia de inteligencia artificial, que tiene en ‘The Frame’ un marco común para crear, desplegar, gestionar y gobernar agentes de IA a esc",
-      "enlace": "https://www.computing.es/inteligencia-artificial/bbva-crea-un-modelo-para-escalar-la-ia-a-todo-el-grupo/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-08T09:45:27Z"
-    },
-    {
-      "titulo": "España acelera la inversión pública en inteligencia artificial pero choca con el muro del escalado",
-      "resumen": "Según un informe de Capgemini, el sector público español destinará el 7,40 % de su presupuesto de TI a la IA en 2027, superando la media global y a potencias como Alemania y Francia, aunque solo un 27 % de los proyectos ",
-      "enlace": "https://www.computing.es/administracion/la-inteligencia-artificial-se-cuela-en-la-administracion-publica-espanola/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-08T09:40:50Z"
     }
   ],
   "etica": [
     {
-      "titulo": "Dos años de prisión por el deepfake sexual de Meloni: Italia marca el camino que el resto de Europa tardará en seguir",
-      "resumen": "Italia condena a dos hombres por el deepfake sexual de Meloni: 2 años de prisión y 100.000 euros de indemnización bajo el artículo 50 de la AI Act europea.La noticia Dos años de prisión por el deepfake sexual de Meloni: ",
-      "enlace": "https://wwwhatsnew.com/2026/10/12/condena-deepfake-sexual-meloni-italia-ai-act-2026/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-12T16:00:14Z"
+      "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
+      "resumen": "Los medicamentos, los aviones y los coches tienen normas de seguridad que no dependen de que el fabricante se las ponga a sí mismo. Bill Gates cree que con la inteligencia artificial toca lo mismo. Lo dijo el domingo 27 ",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/bill-gates-dice-que-autorregulacion-empresas-ia-no-suficiente-que-gobiernos-deberian-estar-involucrados-supervision",
+      "medio": "Genbeta",
+      "fecha": "2026-10-14T14:00:28Z"
     },
     {
       "titulo": "Tras hablar con Trump, la posición de Jensen Huang sobre regular la IA es clarísima: \"No necesitamos nuevas leyes\"",
