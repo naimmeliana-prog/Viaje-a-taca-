@@ -8360,7 +8360,7 @@
     "tipo": "Productividad / Gestión de documentos",
     "precio": "Freemium",
     "descripcion": "Convierte fuentes de conocimiento fragmentadas en un sistema unificado y searchable, simplificando la recuperación de información y la toma de decisiones.",
-    "web": "https://www.docusmart.eu/",
+    "web": "",
     "funciones": [
       "Indexación automática de documentos y archivos",
       "Búsqueda semántica y recuperación de contexto",
@@ -10821,7 +10821,7 @@
     "tipo": "Agentes IA / Chatbot / Integración empresarial",
     "precio": "Pago",
     "descripcion": "Solución de OpenAI para incorporar agentes de IA en flujos de trabajo internos y atención al cliente.",
-    "web": "https://presenceai.ai/",
+    "web": "",
     "funciones": [
       "Crear agentes personalizados con personalidad y tono definidos",
       "Automatizar tickets y solicitudes de soporte",
@@ -12044,7 +12044,7 @@
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Gotcha",
@@ -17583,7 +17583,7 @@
     "tipo": "Generación de vídeo",
     "precio": "Freemium",
     "descripcion": "Plataforma que convierte texto o bocetos en videos profesionales usando IA generativa, ideal para creadores y marketers.",
-    "web": "https://hyperdream.ai/",
+    "web": "https://www.hyperdream.co/",
     "funciones": [
       "Generación de video a partir de texto",
       "Edición automática de escenas",
@@ -17605,7 +17605,8 @@
     "fecha_agregado": "2026-09-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "limite_gratis": "Plan gratuito permite crear videos de hasta 720p con marca de agua y límite de 5 minutos por mes."
+    "limite_gratis": "Plan gratuito permite crear videos de hasta 720p con marca de agua y límite de 5 minutos por mes.",
+    "intentos_web": 1
   },
   {
     "nombre": "Bleetz Network",
@@ -18039,7 +18040,7 @@
       "Colaboración en equipo con roles de edición y aprobación"
     ],
     "etica": "GoodSocials procesa datos de redes sociales para crear contenido, por lo que es crucial proteger la privacidad de los usuarios y auditar el algoritmo para evitar sesgos que puedan propagar información falsa.",
-    "web": "https://marketgenius.ai/products/goodsocials",
+    "web": "https://launly.com/products/goodsocials",
     "tipo": "Chatbot / Asistente",
     "compania": "GoodSocials AI",
     "id": "goodsocials-465f94",
@@ -18049,7 +18050,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito permite gestionar hasta 3 cuentas de redes sociales y programar un máximo de 50 publicaciones al mes.",
-    "intentos_web": 8
+    "intentos_web": 1
   },
   {
     "nombre": "iFixAi",
@@ -19454,14 +19455,14 @@
     ],
     "etica": "Los modelos pueden mostrar sesgos inherentes; se recomienda la revisión humana para aplicaciones críticas.",
     "limite_gratis": "El plan gratuito permite 1000 tokens por día y acceso a un modelo básico.",
-    "web": "https://www.producthunt.com/products/meta-ai",
+    "web": "https://muse.ai/",
     "id": "muse-wonder-cd473b",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-14",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "MausBot",
@@ -19609,7 +19610,7 @@
     "tipo": "Modelo de lenguaje grande multimodal open-weight",
     "precio": "Gratuito",
     "descripcion": "Modelo open-weight de 816B parámetros (MoE) que procesa texto, imágenes, video y audio con contexto de 1M tokens, optimizado para Apple Silicon.",
-    "web": "https://ai.meta.com/muse-spark-open",
+    "web": "https://ai.meta.com/muse/",
     "funciones": [
       "Procesamiento multimodal",
       "Contexto extendido de 1M tokens",
@@ -19629,7 +19630,8 @@
     "pago": false,
     "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Nemotron 3.5 Super VL",
@@ -19637,7 +19639,7 @@
     "tipo": "Modelo multimodal empresarial MoE",
     "precio": "Pago",
     "descripcion": "Modelo multimodal MoE de 120B parámetros (12B activos) con contexto 1M tokens y pesos NVFP4, diseñado para agentes empresariales en producción continua.",
-    "web": "https://github.com/NVIDIA/Nemotron-3.5-Super-VL",
+    "web": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/",
     "funciones": [
       "Estructura MoE eficiente",
       "Contexto extendido",
@@ -19657,7 +19659,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "FLUX 3 Image Klein",
@@ -19665,7 +19668,7 @@
     "tipo": "Generación de imágenes de alta resolución",
     "precio": "Freemium",
     "descripcion": "Modelo de generación de imágenes de 5.6B parámetros que nativamente genera 4K con control pixel-perfect, corriendo en GPUs de 8GB VRAM.",
-    "web": "https://blackforestlabs.ai/flux-3-klein",
+    "web": "",
     "funciones": [
       "Generación de 4K",
       "Control preciso de píxeles",
@@ -19685,7 +19688,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Granite Switch 4.1",
@@ -19693,7 +19697,7 @@
     "tipo": "Plataforma unificada de agentes empresariales",
     "precio": "Pago",
     "descripcion": "Endpoint único que combina chat, toma de decisiones estructuradas y síntesis de voz para agentes empresariales con gobernanza integrada.",
-    "web": "https://ibm.com/granite-switch",
+    "web": "https://www.ibm.com/granite",
     "funciones": [
       "Chat unificado",
       "Toma de decisiones estructurada",
@@ -19713,7 +19717,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "CodeCrab",
@@ -19735,14 +19740,14 @@
     ],
     "etica": "Maneja el código de los usuarios de forma segura y mitiga el sesgo en las sugerencias.",
     "limite_gratis": "El plan gratuito ofrece hasta 5 revisiones de código al día.",
-    "web": "https://www.producthunt.com/products/codecrab",
+    "web": "https://www.codecrab.ai/",
     "id": "codecrab-5a3be8",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Actually Asked",
@@ -19823,6 +19828,290 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-16",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Craft Agents",
+    "empresa": "Craft Agents",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de agentes de IA diseñada para automatizar tareas complejas mediante una interfaz centrada en el usuario.",
+    "web": "",
+    "funciones": [
+      "Automatización de tareas complejas",
+      "Gestión de flujos de trabajo",
+      "Integración con herramientas externas",
+      "Personalización de agentes",
+      "Análisis de datos en tiempo real"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva y amigable",
+      "Escalabilidad para empresas",
+      "Soporte multiidioma",
+      "Seguridad avanzada de datos",
+      "Compatibilidad con múltiples plataformas"
+    ],
+    "etica": "Prioriza la privacidad de los datos y promueve el uso responsable de la IA, mitigando sesgos en la toma de decisiones.",
+    "compania": "Craft AI",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 agentes y ejecutar 100 tareas mensuales.",
+    "id": "craft-agents-1d32d6",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "REKI",
+    "empresa": "Kyutai",
+    "tipo": "Robótica / IA para robots",
+    "precio": "Pago",
+    "descripcion": "Modelo VLA de 2.4B parámetros con memoria eficiente para la manipulación avanzada de robots industriales.",
+    "web": "",
+    "funciones": [
+      "Control de movimientos robóticos",
+      "Integración de memoria para tareas repetitivas",
+      "Adaptación a entornos dinámicos",
+      "Programación de secuencias complejas",
+      "Optimización de recursos energéticos"
+    ],
+    "caracteristicas": [
+      "Arquitectura VLA de alta precisión",
+      "Memoria eficiente para aprendizaje continuo",
+      "Compatibilidad con hardware robótico estándar",
+      "Reducción de errores en manipulación",
+      "Soporte para múltiples lenguajes de programación"
+    ],
+    "etica": "Garantiza la seguridad en la interacción con robots y promueve el uso ético en entornos industriales.",
+    "compania": "REKI Robotics",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "reki-0352f9",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Welcome Beam",
+    "empresa": "Welcome Beam",
+    "tipo": "Modelo de lenguaje",
+    "precio": "Freemium",
+    "descripcion": "Modelo de IA de 501B parámetros que permite a los usuarios personalizar, poseer y escalar su propio modelo de lenguaje.",
+    "web": "https://beam.ai/platform",
+    "funciones": [
+      "Personalización de modelos de lenguaje",
+      "Escalado de capacidades según necesidades",
+      "Entrenamiento con datos propios",
+      "Integración con aplicaciones existentes",
+      "Control total sobre el modelo"
+    ],
+    "caracteristicas": [
+      "Arquitectura abierta y modificable",
+      "Soporte para múltiples idiomas",
+      "Herramientas de análisis de rendimiento",
+      "Actualizaciones continuas",
+      "Documentación detallada para desarrolladores"
+    ],
+    "etica": "Fomenta la transparencia en la personalización y promueve el uso responsable de modelos de IA.",
+    "compania": "Welcome AI",
+    "limite_gratis": "El plan gratuito ofrece 100 millones de parámetros y 1 GB de almacenamiento para datos.",
+    "id": "welcome-beam-7b15a5",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ConfigLens",
+    "empresa": "ConfigLens",
+    "tipo": "Herramienta de análisis",
+    "precio": "Freemium",
+    "descripcion": "Herramienta que analiza y explica por qué una IA ignora los ajustes de configuración definidos por el usuario.",
+    "web": "",
+    "funciones": [
+      "Análisis de configuraciones de IA",
+      "Detección de conflictos en parámetros",
+      "Generación de reportes de diagnóstico",
+      "Recomendaciones para optimizar ajustes",
+      "Visualización de flujos de datos"
+    ],
+    "caracteristicas": [
+      "Interfaz visual intuitiva",
+      "Compatibilidad con frameworks populares",
+      "Soporte para modelos de lenguaje y visión",
+      "Integración con sistemas de monitoreo",
+      "Alertas en tiempo real"
+    ],
+    "etica": "Protege la privacidad de los datos analizados y evita el uso de información sensible sin consentimiento.",
+    "compania": "ConfigLens AI",
+    "limite_gratis": "El plan gratuito permite analizar hasta 5 configuraciones y 100 MB de datos mensuales.",
+    "id": "configlens-87cf9f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Emochi",
+    "empresa": "Emochi",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Aplicación de diario de voz que combina arte y ciencia para ayudar a los usuarios a comprender su bienestar emocional.",
+    "web": "",
+    "funciones": [
+      "Grabación de diarios de voz",
+      "Análisis de emociones mediante IA",
+      "Generación de arte personalizado",
+      "Seguimiento de patrones emocionales",
+      "Recomendaciones de bienestar"
+    ],
+    "caracteristicas": [
+      "Interfaz creativa y visual",
+      "Privacidad de datos garantizada",
+      "Integración con dispositivos de audio",
+      "Soporte para múltiples idiomas",
+      "Exportación de informes detallados"
+    ],
+    "etica": "Respetuoso con la privacidad del usuario y promueve el autoconocimiento sin compartir datos sensibles.",
+    "compania": "Emochi Labs",
+    "limite_gratis": "El plan gratuito permite 10 grabaciones mensuales y 50 MB de almacenamiento.",
+    "id": "emochi-c922ac",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Notion: Context for your agents",
+    "descripcion": "Funcionalidad de Notion que permite cambiar entre agentes de IA sin necesidad de reexplicar el contexto del trabajo.",
+    "compania": "Notion Labs",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de contexto entre agentes",
+      "Integración con bases de conocimiento",
+      "Sincronización de datos en tiempo real",
+      "Creación de flujos de trabajo automatizados",
+      "Colaboración en equipos"
+    ],
+    "caracteristicas": [
+      "Compatibilidad con múltiples agentes de IA",
+      "Interfaz colaborativa",
+      "Control de versiones de documentos",
+      "Soporte para plantillas personalizadas",
+      "Seguridad empresarial avanzada"
+    ],
+    "etica": "Garantiza la seguridad de los datos compartidos entre agentes y promueve la transparencia en el uso de la IA.",
+    "limite_gratis": "El plan gratuito incluye 10 agentes activos y 5 GB de almacenamiento compartido.",
+    "web": "https://www.notion.com/product/agents",
+    "id": "notion--context-for-your-agents-627474",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "NitroStack",
+    "descripcion": "Plataforma integral para construir, probar y desplegar servidores MCP (Model Context Protocol) en un entorno unificado.",
+    "compania": "NitroStack Technologies",
+    "tipo": "Desarrollo de IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Desarrollo de servidores MCP",
+      "Pruebas automatizadas de funcionalidad",
+      "Despliegue en múltiples entornos",
+      "Monitoreo de rendimiento",
+      "Gestión de versiones de código"
+    ],
+    "caracteristicas": [
+      "Interfaz de desarrollo simplificada",
+      "Soporte para múltiples lenguajes de programación",
+      "Integración con herramientas de CI/CD",
+      "Escalabilidad horizontal",
+      "Documentación técnica detallada"
+    ],
+    "etica": "Promueve el uso abierto de protocolos y garantiza la seguridad en el desarrollo de servidores MCP.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 servidores MCP y 10 pruebas mensuales.",
+    "web": "https://www.producthunt.com/products/nitrostack",
+    "id": "nitrostack-633665",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Train with Pasta",
+    "descripcion": "Aplicación de entrenamiento personal impulsada por Apple Intelligence que ofrece rutinas adaptadas al usuario.",
+    "compania": "Train with Pasta Inc.",
+    "tipo": "Bienestar",
+    "precio": "Pago",
+    "funciones": [
+      "Creación de rutinas de ejercicio personalizadas",
+      "Seguimiento de progresos en tiempo real",
+      "Integración con dispositivos Apple",
+      "Análisis de datos de salud",
+      "Recomendaciones basadas en IA"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva y visual",
+      "Sincronización con Apple Watch y Health",
+      "Ejercicios para todos los niveles",
+      "Alertas de salud y seguridad",
+      "Soporte para múltiples deportes"
+    ],
+    "etica": "Respetuoso con los datos de salud del usuario y promueve hábitos seguros y sostenibles.",
+    "limite_gratis": "Sin plan gratuito",
+    "web": "https://www.producthunt.com/products/train-with-pasta",
+    "id": "train-with-pasta-4c00c3",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Parrot",
+    "descripcion": "Asistente inteligente para reuniones en Mac que ayuda a los usuarios durante las llamadas con funciones de asistencia.",
+    "compania": "Parrot AI",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Transcripción en tiempo real",
+      "Toma de notas automática",
+      "Resumen de puntos clave",
+      "Recordatorios de tareas",
+      "Integración con calendarios"
+    ],
+    "caracteristicas": [
+      "Compatibilidad con macOS y aplicaciones de videoconferencia",
+      "Soporte para múltiples idiomas",
+      "Privacidad de grabaciones",
+      "Interfaz minimalista",
+      "Sincronización con herramientas de productividad"
+    ],
+    "etica": "Garantiza la privacidad de las grabaciones y promueve un uso ético de la asistencia durante reuniones.",
+    "limite_gratis": "El plan gratuito permite transcribir hasta 30 minutos por reunión y 10 reuniones mensuales.",
+    "web": "https://www.producthunt.com/products/parrot-10",
+    "id": "parrot-e7cb1e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
