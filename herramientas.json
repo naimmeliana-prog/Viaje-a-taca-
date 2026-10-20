@@ -8391,7 +8391,7 @@
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Vertu AI Agent",
@@ -10844,7 +10844,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Airtop for Google Ads Automation",
@@ -12044,7 +12044,7 @@
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Gotcha",
@@ -18789,7 +18789,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Mistral Large 4",
@@ -19037,7 +19037,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "OpenPilot",
@@ -19068,7 +19068,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Odyssey 3",
@@ -19689,7 +19689,7 @@
     "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Granite Switch 4.1",
@@ -19862,7 +19862,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "REKI",
@@ -19894,7 +19894,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Welcome Beam",
@@ -19958,7 +19958,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Emochi",
@@ -19990,7 +19990,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Notion: Context for your agents",
@@ -20052,7 +20052,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Train with Pasta",
@@ -20083,7 +20083,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Parrot",
@@ -20112,6 +20112,310 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Framefields",
+    "compania": "Comunidad open-source",
+    "tipo": "Generación de vídeo",
+    "precio": "Gratuito",
+    "descripcion": "Plataforma de código abierto para crear y editar vídeo mediante programación, orientada a experimentos de inteligencia artificial general y síntesis visual controlable por código.",
+    "web": "https://framefields.io",
+    "funciones": [
+      "Generación de vídeo mediante código",
+      "Manipulación programable de frames",
+      "Síntesis visual para experimentos de AGI",
+      "Exportación de secuencias de vídeo",
+      "Integración con pipelines de IA"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Interfaz basada en scripts",
+      "Enfoque en AGI",
+      "Síntesis visual programable",
+      "Manipulación frame a frame"
+    ],
+    "etica": "Al ser de código abierto, fomenta la transparencia y la auditoría comunitaria, aunque la generación sintética de vídeo puede facilitar la creación de deepfakes si se usa sin controles.",
+    "limite_gratis": "Acceso completo al código y a todas las funciones sin coste, al tratarse de software de código abierto.",
+    "id": "framefields-83982b",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "MiniMax M3.1 Flash",
+    "compania": "MiniMax",
+    "tipo": "Modelo de lenguaje",
+    "precio": "Freemium",
+    "descripcion": "Modelo de lenguaje de mezcla de expertos con 428B parámetros totales y 23B activos, diseñado para razonamiento agente y ventanas de contexto de hasta 1 millón de tokens.",
+    "web": "https://minimax.ai/m3.1-flash",
+    "funciones": [
+      "Razonamiento complejo y agente",
+      "Procesamiento de contexto extenso de 1 millón de tokens",
+      "Generación de texto multilingüe",
+      "Respuesta a preguntas sobre documentos largos",
+      "Integración vía API para aplicaciones de IA"
+    ],
+    "caracteristicas": [
+      "Arquitectura MoE de 428B parámetros",
+      "23B parámetros activos por inferencia",
+      "Ventana de contexto de 1 millón de tokens",
+      "Optimizado para razonamiento agente",
+      "Disponible mediante API"
+    ],
+    "etica": "Su gran escala puede amplificar sesgos presentes en los datos de entrenamiento; el uso de contextos muy extensos plantea desafíos de privacidad si se procesan datos sensibles sin anonimización.",
+    "limite_gratis": "Ofrece créditos gratuitos iniciales para probar la API, con límites de tokens y solicitudes por día antes de requerir pago.",
+    "id": "minimax-m3-1-flash-c11c1e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Quello",
+    "compania": "Quello Labs",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Asistente de conocimiento que responde preguntas en lenguaje natural consultando correo electrónico, documentos, chats y bases de datos conectadas a la plataforma.",
+    "web": "https://quello.io",
+    "funciones": [
+      "Búsqueda semántica en documentos y correos",
+      "Integración con bases de datos y chats",
+      "Respuestas en lenguaje natural",
+      "Indexación de fuentes de empresa",
+      "Control de accesos y permisos"
+    ],
+    "caracteristicas": [
+      "Conectores a correo, documentos y bases de datos",
+      "Interfaz de preguntas naturales",
+      "Indexación unificada de información",
+      "Respuestas con citas de origen",
+      "Enfoque en entornos empresariales"
+    ],
+    "etica": "El acceso a datos corporativos sensibles requiere estrictos controles de privacidad y permisos para evitar filtraciones de información confidencial.",
+    "limite_gratis": "Permite conectar un número limitado de fuentes y realizar un volumen reducido de consultas mensuales sin costo.",
+    "id": "quello-38f5bf",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Lancetta",
+    "compania": "Lancetta Systems",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Supervisa el comportamiento de agentes de IA dentro de flujos de trabajo y genera recomendaciones para optimizar su uso y reducir riesgos operativos.",
+    "web": "https://lancetta.dev",
+    "funciones": [
+      "Monitoreo de agentes de IA en tiempo real",
+      "Detección de anomalías en flujos de trabajo",
+      "Recomendaciones de optimización de uso",
+      "Evaluación de riesgos operativos",
+      "Informes de comportamiento de agentes"
+    ],
+    "caracteristicas": [
+      "Seguimiento continuo de agentes",
+      "Alertas de comportamiento riesgoso",
+      "Panel de métricas de uso",
+      "Integración con flujos de trabajo existentes",
+      "Enfoque en reducción de riesgos de IA"
+    ],
+    "etica": "La monitorización constante de agentes puede generar datos sensibles sobre procesos internos, por lo que debe garantizarse la confidencialidad y evitar el uso indebido de la telemetría.",
+    "limite_gratis": "Ofrece monitoreo para un número reducido de agentes y métricas básicas, con funciones avanzadas reservadas a planes de pago.",
+    "id": "lancetta-04c537",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Beam",
+    "compania": "Beam AI",
+    "tipo": "Modelo de lenguaje",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de lenguaje de gran escala de código abierto que las organizaciones pueden descargar, ajustar y ejecutar en su propia infraestructura.",
+    "web": "https://beam.ai",
+    "funciones": [
+      "Descarga y despliegue propio del modelo",
+      "Fine-tuning en datos privados",
+      "Inferencia en infraestructura local",
+      "Generación de texto para aplicaciones empresariales",
+      "Personalización del modelo base"
+    ],
+    "caracteristicas": [
+      "Licencia de código abierto",
+      "Despliegue on-premise o en nube privada",
+      "Ajuste fino permitido",
+      "Modelo de gran escala",
+      "Control total de datos por la organización"
+    ],
+    "etica": "Al ejecutarse en infraestructura propia, reduce riesgos de privacidad frente a terceros, aunque la organización asume la responsabilidad de mitigar sesgos y usos dañinos del modelo.",
+    "limite_gratis": "Uso ilimitado del modelo bajo licencia abierta, sin coste de licencia, aunque la organización debe asumir los costos de hardware e infraestructura.",
+    "id": "beam-dc6e84",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Timestral",
+    "compania": "Timestral Labs",
+    "tipo": "Análisis de datos",
+    "precio": "Freemium",
+    "descripcion": "Familia de modelos especializados en predicción y análisis de series temporales con resultados superiores a TimesFM-3 en benchmarks de aprendizaje cero-shot.",
+    "web": "https://mistral.ai/timestral",
+    "funciones": [
+      "Pronóstico de series temporales",
+      "Análisis de tendencias y estacionalidad",
+      "Predicción cero-shot sin entrenamiento previo",
+      "Benchmarking contra modelos de referencia",
+      "Integración en pipelines de datos"
+    ],
+    "caracteristicas": [
+      "Especialización en series temporales",
+      "Superioridad en benchmarks cero-shot",
+      "Modelos ligeros para inferencia rápida",
+      "Soporte para múltiples dominios",
+      "Disponible mediante API o descarga"
+    ],
+    "etica": "Las predicciones automatizadas pueden reforzar sesgos históricos en los datos y generar decisiones erróneas si no se validan con dominio experto.",
+    "limite_gratis": "Permite probar predicciones sobre un volumen limitado de series y puntos de datos, con acceso ilimitado solo en planes de pago.",
+    "id": "timestral-78bbd2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Own 1",
+    "descripcion": "Plataforma centrada en la soberanía de datos que permite al usuario poseer sus datos y su modelo de inteligencia artificial personal.",
+    "compania": "Own AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Almacenamiento privado de datos de usuario",
+      "Entrenamiento de modelo de IA personal",
+      "Asistente conversacional propio",
+      "Control total de la información",
+      "Despliegue en dispositivo o nube privada"
+    ],
+    "caracteristicas": [
+      "Enfoque en privacidad y soberanía de datos",
+      "Modelo de IA personalizable",
+      "Propiedad del usuario sobre datos y modelo",
+      "Interfaz de asistente personal",
+      "Opciones de despliegue local"
+    ],
+    "etica": "Prioriza la privacidad al mantener los datos bajo control del usuario, reduciendo la exposición a terceros, aunque requiere que el usuario gestione adecuadamente la seguridad de su propia infraestructura.",
+    "limite_gratis": "Ofrece un plan gratuito con almacenamiento y uso del modelo limitados, ideal para pruebas personales antes de pasar a planes de pago.",
+    "web": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+    "id": "own-1-139854",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "buddylist",
+    "descripcion": "Interfaz de chat inspirada en mensajería instantánea de los años 2000 para conversar con agentes de programación de inteligencia artificial.",
+    "compania": "buddylist Labs",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Chat en tiempo real con agentes de código",
+      "Interfaz estilo mensajería de 2005",
+      "Asistencia para depuración y escritura de código",
+      "Integración con entornos de desarrollo",
+      "Historial de conversaciones con agentes"
+    ],
+    "caracteristicas": [
+      "Experiencia de usuario retro",
+      "Enfoque en agentes de programación",
+      "Conversación por mensajes",
+      "Integración con flujos de desarrollo",
+      "Ligero y sencillo de usar"
+    ],
+    "etica": "Al interactuar con agentes de código, existe el riesgo de que se genere código con vulnerabilidades o sesgos, por lo que el desarrollador debe revisar siempre las sugerencias.",
+    "limite_gratis": "Permite usar el chat con agentes de programación de forma gratuita con un número limitado de mensajes o agentes simultáneos.",
+    "web": "https://www.producthunt.com/products/buddylist-2",
+    "id": "buddylist-7975e7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "CrawlForge MCP",
+    "descripcion": "Servidor MCP que proporciona 31 herramientas de navegación y extracción web para potenciar las capacidades de agentes de inteligencia artificial.",
+    "compania": "CrawlForge",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Extracción de datos de páginas web",
+      "Navegación automatizada por sitios",
+      "API de herramientas web para agentes",
+      "Integración con protocolo MCP",
+      "Rastreo y scraping de contenido"
+    ],
+    "caracteristicas": [
+      "31 herramientas web en un solo servidor",
+      "Compatible con estándar MCP",
+      "Diseñado para agentes de IA",
+      "Extracción estructurada de información",
+      "Acceso programático a la web"
+    ],
+    "etica": "El rastreo web automatizado puede infringir términos de servicio y derechos de autor, además de exponer datos personales si no se configuran filtros de privacidad adecuados.",
+    "limite_gratis": "Ofrece un nivel gratuito con un número limitado de llamadas a las herramientas web al mes, requiriendo suscripción para uso intensivo.",
+    "web": "https://www.producthunt.com/products/crawlforge-mcp",
+    "id": "crawlforge-mcp-c914a8",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Wally by Willow",
+    "descripcion": "Agente escriba que aprende el estilo de escritura del usuario para redactar documentos y mensajes de forma personalizada.",
+    "compania": "Willow",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Aprendizaje de estilo de escritura",
+      "Redacción automática de documentos",
+      "Adaptación al tono del usuario",
+      "Sugerencias de escritura contextuales",
+      "Integración con editores de texto"
+    ],
+    "caracteristicas": [
+      "Personalización del estilo de escritura",
+      "Agente tipo escriba",
+      "Aprendizaje continuo del usuario",
+      "Enfoque en productividad escrita",
+      "Disponible como asistente integrado"
+    ],
+    "etica": "El aprendizaje del estilo de escritura implica procesar textos personales, por lo que es fundamental garantizar la confidencialidad y evitar que el modelo replique información privada en otros contextos.",
+    "limite_gratis": "Permite probar la redacción asistida con un número limitado de documentos o palabras al mes, con funciones avanzadas en planes de pago.",
+    "web": "https://www.producthunt.com/products/willow-voice",
+    "id": "wally-by-willow-1caa50",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

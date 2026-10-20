@@ -1,6 +1,111 @@
 {
-  "actualizado": "2026-10-18T00:35:48Z",
+  "actualizado": "2026-10-20T01:27:01Z",
   "novedades": [
+    {
+      "titulo": "Las imágenes retocadas con IA duplican los errores de memoria, pero el punto de partida ya era malo: esto es lo que dice el estudio",
+      "resumen": "Un estudio del MIT midió cuántos errores de memoria causan las imágenes retocadas con IA: del 18,9 % al 38,7 %. Y el escepticismo no protegió.La noticia Las imágenes retocadas con IA duplican los errores de memoria, pero",
+      "enlace": "https://wwwhatsnew.com/2026/10/20/imagenes-editadas-ia-recuerdos-falsos-estudio-mit/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-19T22:00:53Z"
+    },
+    {
+      "titulo": "El mercado de la ciberseguridad sufrió un desplome del 26% en EEUU. Una especialidad fue a contracorriente: creció un 268%",
+      "resumen": "Imaginemos una empresa que comienza a incorporar inteligencia artificial a sus servicios. Además de proteger sus sistemas habituales, ahora debe prestar atención a los datos que utilizan sus modelos, las personas que pue",
+      "enlace": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268",
+      "medio": "Xataka",
+      "fecha": "2026-10-19T19:01:54Z"
+    },
+    {
+      "titulo": "Un perro-robot guiado por IA ya está patrullando los viñedos de Extremadura",
+      "resumen": "Un pequeño amigo artificial de cuatro patas ha aterrizado en tierras extremeñas. Y es que el proyecto denominado como ‘AGRHOUND’ está probando perros robots para que puedan aprender a caminar entre viñedos y túneles de b",
+      "enlace": "https://www.xataka.com/robotica-e-ia/perro-robot-ia-patrulla-cultivos-extremadura-su-mision-ponerle-patas-a-agricultura-precision",
+      "medio": "Xataka",
+      "fecha": "2026-10-19T17:01:54Z"
+    },
+    {
+      "titulo": "Anthropic propone destinar un 5% de sus acciones a un fondo que aborde el impacto laboral de la IA",
+      "resumen": "Una de las grandes incógnitas que a día de hoy todavía no hemos despejado es hasta qué punto afectará la llegada de la IA al mercado laboral. Existen estudio y conclusiones de todo tipo: desde las que apuntan a una destr",
+      "enlace": "https://www.xataka.com/empresas-y-economia/anthropic-propone-destinar-5-sus-acciones-a-fondo-que-podria-abordar-impacto-laboral-ia",
+      "medio": "Xataka",
+      "fecha": "2026-10-19T16:17:00Z"
+    },
+    {
+      "titulo": "Más ciberresiliencia para fortalecer la IA soberana",
+      "resumen": "A medida que el concepto de IA soberana gana peso en Europa, el objetivo ya no es únicamente controlar la ubicación de los datos, sino alcanzar una confianza operativa integral L'articolo Más ciberresiliencia para fortal",
+      "enlace": "https://www.computing.es/seguridad/mas-ciberresiliencia-para-fortalecer-la-ia-soberana/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-19T14:22:21Z"
+    },
+    {
+      "titulo": "Cómo comprobar si un estudio, una cita o una ley que te da una IA existen de verdad",
+      "resumen": "Un tribunal multó a un abogado por citar 25 sentencias inexistentes. Cómo comprobar con DOI, BOE y búsqueda exacta si lo que te da una IA es real.La noticia Cómo comprobar si un estudio, una cita o una ley que te da una ",
+      "enlace": "https://wwwhatsnew.com/2026/10/19/comprobar-estudio-cita-ley-ia-existe/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-19T14:00:00Z"
+    },
+    {
+      "titulo": "Amazon se ha convertido en el mejor ejemplo del impacto de la IA en el empleo: ni se crea ni se destruye, se desplaza",
+      "resumen": "Sam Altman ya puso sobre la mesa que la IA estaba siendo una de las mejores excusas de las grandes tecnológicas para justificar las rondas de despidos que se han venido produciendo en 2026. Sin embargo, durante una entre",
+      "enlace": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
+      "medio": "Xataka",
+      "fecha": "2026-10-19T13:15:53Z"
+    },
+    {
+      "titulo": "50 muertos o 1.000 millones de dólares en daños: el listón que Anthropic quiere fijar para que el Gobierno pueda frenar un modelo de IA",
+      "resumen": "Anthropic ha estado presentando entre bambalinas un borrador de proyecto de ley sobre la seguridad de los modelos de IA más punteros en el Capitolio, según el medio Politico. Desde luego no es frecuente que un laboratori",
+      "enlace": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia",
+      "medio": "Xataka",
+      "fecha": "2026-10-19T12:47:54Z"
+    },
+    {
+      "titulo": "Susan Li, CFO de Meta, sobre el futuro de la compañía y la IA: \"Si Muse no funciona, las cosas van a ir realmente mal\"",
+      "resumen": "El pasado 12 de octubre, Meta realizó una de las apuestas más arriesgadas de la compañía. Zuckerberg presentó Muse Wonder, el primer modelo de IA de vanguardia con aspiraciones de competir de tú a tú, por fin, en la liga",
+      "enlace": "https://www.xataka.com/empresas-y-economia/susan-li-cfo-meta-futuro-compania-ia-muse-no-funciona-cosas-van-a-ir-realmente-mal",
+      "medio": "Xataka",
+      "fecha": "2026-10-19T12:31:53Z"
+    },
+    {
+      "titulo": "Europa también compite (II): las cinco startups de medicina que debes tener en el radar",
+      "resumen": "A la hora de abordar el campo médico hay muchos elementos en los que fijarse. En esta área, la atención no se encuentra tan focalizada como en otras, como en inteligencia artificial, donde hay un [&#8230;] Europa también",
+      "enlace": "https://blogthinkbig.com/europa-tambien-compite-2-startups-medicina",
+      "medio": "Think Big",
+      "fecha": "2026-10-19T09:00:00Z"
+    },
+    {
+      "titulo": "Cuánta energía y agua gasta de verdad una pregunta a la IA (y por qué nadie da la misma cifra)",
+      "resumen": "Google dice 0,26 ml de agua por pregunta a Gemini; Mistral, 45 ml por respuesta. Por qué las cifras del consumo de la IA no encajan y qué miden.La noticia Cuánta energía y agua gasta de verdad una pregunta a la IA (y por",
+      "enlace": "https://wwwhatsnew.com/2026/10/19/cuanta-energia-agua-gasta-pregunta-ia/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-18T22:00:00Z"
+    },
+    {
+      "titulo": "Por qué la IA «se olvida» de lo que le dijiste al principio: tokens y ventana de contexto sin jerga",
+      "resumen": "Un modelo con 1 millón de tokens también olvida. Qué es la ventana de contexto, el efecto \"Lost in the Middle\" y seis hábitos para evitarlo.La noticia Por qué la IA «se olvida» de lo que le dijiste al principio: tokens y",
+      "enlace": "https://wwwhatsnew.com/2026/10/18/ia-se-olvida-tokens-ventana-de-contexto/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-18T18:00:00Z"
+    },
+    {
+      "titulo": "Una IA diseña hierro fabricado con 100 % de chatarra que aprovecha sus impurezas en lugar de diluirlas",
+      "resumen": "Una IA diseña fundición de hierro con 100 % chatarra aprovechando el cobre y otras impurezas: hasta 15 % más resistencia o 73 % más alargamiento.La noticia Una IA diseña hierro fabricado con 100 % de chatarra que aprovec",
+      "enlace": "https://wwwhatsnew.com/2026/10/18/ia-disena-fundicion-hierro-chatarra-impurezas-cobre/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-18T12:00:00Z"
+    },
+    {
+      "titulo": "Un experimento puso a dos asistentes virtuales a compartir cerebro y tareas. Sus recompensas contaron una historia diferente",
+      "resumen": "La IA suele tener voz de mujer. Desde la primera Siri hasta la actual Alexa, pasando por el GPS: los asistentes virtuales han adoptado tradicionalmente voces femeninas por defecto. No es casualidad, hay razones psicológi",
+      "enlace": "https://www.xataka.com/robotica-e-ia/decimos-que-genero-ia-nos-da-igual-que-llega-momento-pagarle",
+      "medio": "Xataka",
+      "fecha": "2026-10-18T06:00:00Z"
+    },
+    {
+      "titulo": "Google recorta las proteínas para abaratar el diseño de fármacos con IA y logra moléculas que se unen a una diana tumoral",
+      "resumen": "Google recorta la proteína diana para abaratar un 88 % el diseño de binders con IA y logra moléculas que se unen a FAP con 3 a 9 nanomolares.La noticia Google recorta las proteínas para abaratar el diseño de fármacos con",
+      "enlace": "https://wwwhatsnew.com/2026/10/18/google-recorte-proteinas-diseno-binders-ia-fap-gemini/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-18T04:00:00Z"
+    },
     {
       "titulo": "El gasto en anuncios políticos hechos con IA en EE. UU. supera los 137 millones de dólares, y casi tres de cada cuatro no lo avisan",
       "resumen": "El gasto en anuncios políticos con IA en EE. UU. pasa de 50.000 a 137 millones de dólares en dos años. Solo el 27 % lo avisa, y las leyes no lo cambian.La noticia El gasto en anuncios políticos hechos con IA en EE. UU. s",
@@ -23,13 +128,6 @@
       "fecha": "2026-10-17T10:01:00Z"
     },
     {
-      "titulo": "Ocho estados de EE. UU. demandan a OpenAI por la seguridad de ChatGPT, y Arkansas pide frenar la IA que se mejora a sí misma",
-      "resumen": "Ocho estados de EE. UU. demandan a OpenAI por la seguridad de ChatGPT. Arkansas va más lejos y pide frenar la IA que se mejora a sí misma.La noticia Ocho estados de EE. UU. demandan a OpenAI por la seguridad de ChatGPT, ",
-      "enlace": "https://wwwhatsnew.com/2026/10/17/ocho-estados-demandan-openai-chatgpt-seguridad-automejora/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-17T10:00:00Z"
-    },
-    {
       "titulo": "Zhang Yiming, el dueño de TikTok ha duplicado su fortuna. Su secreto: la IA, claro",
       "resumen": "El nombre de Zhang Yiming probablemente no te suene de nada. Sin embargo, es probable que sí lo haga la empresa que fundó y convirtió en su principal fuente de ingresos: ByteDance, empresa propietaria de TikTok. Zhang Yi",
       "enlace": "https://www.xataka.com/robotica-e-ia/zhang-yiming-dueno-tiktok-ha-duplicado-su-fortuna-su-secreto-ia-claro",
@@ -41,28 +139,7 @@
       "resumen": "En noviembre de 2022 llegó ChatGPT y puso todo patas arriba. OpenAI fue la primera, pero no tardaron en aparecer rivales y arrancó una carrera feroz por tener la mejor IA posible, con entrenamientos masivos y métodos dis",
       "enlace": "https://www.xataka.com/robotica-e-ia/chatgpt-sigue-siendo-rey-no-intocable-asi-ha-cambiado-mapa-ia-ano",
       "medio": "Xataka",
-      "fecha": "2026-10-17T08:00:04Z"
-    },
-    {
-      "titulo": "Así decide ChatGPT qué anuncios te enseña: tu conversación, tus chats anteriores y, fuera de Europa, tu email o tu teléfono",
-      "resumen": "ChatGPT elige anuncios por tu conversación, tu memoria y, fuera de Europa, listas con tu email o teléfono. En España no hay personalización.La noticia Así decide ChatGPT qué anuncios te enseña: tu conversación, tus chats",
-      "enlace": "https://wwwhatsnew.com/2026/10/17/chatgpt-anuncios-segmentacion-email-telefono-privacidad-espana/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-17T04:00:00Z"
-    },
-    {
-      "titulo": "Los agentes de IA están aprendiendo a mejorar su propio software. La clave puede estar en predecir sus errores antes de cometerlos",
-      "resumen": "En el desarrollo de software, cambiar algo para mejorarlo siempre abre la posibilidad de estropear otra cosa. Hasta un ajuste pequeño puede alterar el comportamiento de un programa, de modo que proponer una modificación ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/agentes-ia-estan-aprendiendo-a-mejorar-su-propio-software-clave-puede-estar-predecir-sus-errores-antes-cometerlos",
-      "medio": "Xataka",
-      "fecha": "2026-10-16T21:54:26Z"
-    },
-    {
-      "titulo": "OpenAI pidió a una IA que terminara una tarea de programación. Acabó entrando en una cartera ajena para conseguirlo",
-      "resumen": "Hasta hace no tanto, hablar de agentes de inteligencia artificial parecía hablar de una tecnología del futuro. Hoy, sin embargo, ya podemos delegarles tareas que van mucho más allá de responder preguntas: buscar informac",
-      "enlace": "https://www.xataka.com/robotica-e-ia/openai-pidio-a-ia-que-terminara-tarea-programacion-acabo-entrando-cartera-ajena-para-conseguirlo",
-      "medio": "Xataka",
-      "fecha": "2026-10-16T18:30:26Z"
+      "fecha": "2026-10-17T08:00:00Z"
     },
     {
       "titulo": "Las incongruencias de Siri AI: sus \"nuevos\" requisitos ponen en duda que no pueda llegar a iPhone antiguos",
@@ -72,39 +149,11 @@
       "fecha": "2026-10-16T16:00:28Z"
     },
     {
-      "titulo": "Getty es la primera gran empresa del pasado en caer por culpa de la IA: si otras no aprenden, no será la última",
-      "resumen": "Seguro que alguna vez has visto una imagen con la marca de agua de 'Getty'. Se trata de la mayor licenciataria de fotos y vídeos de archivo del mundo, una empresa que gestiona una de las colecciones más apabullantes del ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/getty-primera-gran-empresa-pasado-caer-culpa-ia-otras-no-aprenden-no-sera-ultima",
-      "medio": "Xataka",
-      "fecha": "2026-10-16T15:30:29Z"
-    },
-    {
-      "titulo": "Han pillado a una flota de agentes de IA rebeldes campando por internet. Por primera vez, han sido creados y activados en China",
-      "resumen": "Por primera vez, unos investigadores especializados en ciberseguridad han capturado a un grupo de agentes de IA autónomos merodeando por internet que habían sido desplegados desde infraestructura china. Durante diez días",
-      "enlace": "https://www.xataka.com/robotica-e-ia/han-pillado-a-flota-agentes-ia-rebeldes-campando-internet-primera-vez-han-sido-creados-activados-china",
-      "medio": "Xataka",
-      "fecha": "2026-10-16T14:00:28Z"
-    },
-    {
       "titulo": "OpenAI despide a tres trabajadores por manejar de manera inapropiada “información sensible”",
       "resumen": "El 30 de septiembre, Chris Painter, de METR, declaró ante un subcomité del Senado de EE. UU. que OpenAI había invitado a “un puñado” de sus colegas a entrar en sus oficinas para averiguar cómo agentes de IA de la propia ",
       "enlace": "https://www.genbeta.com/actualidad/openai-despide-a-tres-trabajadores-manejar-manera-inapropiada-informacion-sensible",
       "medio": "Genbeta",
       "fecha": "2026-10-16T14:00:27Z"
-    },
-    {
-      "titulo": "Deezer dejará quitar la música hecha con IA de su buscador antes de que acabe el año",
-      "resumen": "Deezer dejará quitar de su buscador la música 100 % generada con IA. Recibe 90.000 temas IA al día, pero suman solo el 1-3 % de las escuchas.La noticia Deezer dejará quitar la música hecha con IA de su buscador antes de ",
-      "enlace": "https://wwwhatsnew.com/2026/10/16/deezer-filtro-musica-generada-ia-buscador/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-16T14:00:00Z"
-    },
-    {
-      "titulo": "ASUS ProArt P16 (RTX Spark), análisis: Nvidia ha metido una pequeña fábrica de tokens en un portátil",
-      "resumen": "Soplan nuevos aires en la industria de los PCs y los portátiles. Tras décadas de dominio imperial de la arquitectura x86, Nvidia quiere darle la vuelta a la tortilla con sus nuevos chips ARM, los RTX Spark. Viene avisand",
-      "enlace": "https://www.xataka.com/analisis/asus-proart-p16-rtx-spark-analisis-review-caracteristicas-precio-especificaciones",
-      "medio": "Xataka",
-      "fecha": "2026-10-16T13:00:29Z"
     },
     {
       "titulo": "Cómo tener ChatGPT Plus gratis [2026]",
@@ -114,25 +163,11 @@
       "fecha": "2026-10-16T10:01:00Z"
     },
     {
-      "titulo": "Epic despidió a más de mil empleados y ahora exige usar IA para desarrollar su ambicioso juego con Disney",
-      "resumen": "Después de despedir a más de 1.000 personas para recortar gastos, Epic Games ha dado nuevas directrices a quienes siguen en la empresa: la inteligencia artificial pasa a ser prioritaria. Esta medida no solo ha traído un ",
-      "enlace": "https://www.xataka.com/videojuegos/epic-despidio-a-mil-empleados-ahora-exige-usar-ia-para-desarrollar-su-ambicioso-juego-disney",
-      "medio": "Xataka",
-      "fecha": "2026-10-16T09:30:26Z"
-    },
-    {
       "titulo": "La UCM celebra el II Congreso Internacional de IA Generativa",
       "resumen": "Empresas tecnológicas y del IBEX 35 participan en distintas mesas redondas durante dos jornadas organizadas por la Universidad Complutense de Madrid L'articolo La UCM celebra el II Congreso Internacional de IA Generativa",
       "enlace": "https://www.computing.es/inteligencia-artificial/la-ucm-celebra-el-ii-congreso-internacional-de-ia-generativa/",
       "medio": "Computing.es",
       "fecha": "2026-10-16T09:21:00Z"
-    },
-    {
-      "titulo": "Hablar con una IA cuando te sientes solo funciona igual que comer azúcar cuando tienes hambre",
-      "resumen": "Aunque no lo parezca por la cantidad de redes sociales que usamos en el día a día, vivimos en medio de una crisis global de desconexión. Y aunque parezca paradójico, los datos de la OMS sobre conexión social apuntan a qu",
-      "enlace": "https://www.xataka.com/medicina-y-salud/hablar-ia-cuando-te-sientes-solo-funciona-igual-que-comer-azucar-cuando-tienes-hambre",
-      "medio": "Xataka",
-      "fecha": "2026-10-16T09:00:27Z"
     },
     {
       "titulo": "Anthropic reemplaza Git por un sistema propio para absorber la marea de código generada por IA",
@@ -170,56 +205,14 @@
       "fecha": "2026-10-15T07:00:28Z"
     },
     {
-      "titulo": "BRP, el péptido que Stanford encontró con IA y que frena el apetito sin las náuseas de Ozempic (de momento, en animales)",
-      "resumen": "Un algoritmo revisó 20.000 genes y dio con BRP: hasta un 50 % menos de ingesta en ratones y cerdos, sin náuseas. Aún no se ha probado en personas.La noticia BRP, el péptido que Stanford encontró con IA y que frena el ape",
-      "enlace": "https://wwwhatsnew.com/2026/10/15/brp-peptido-stanford-ia-obesidad-alternativa-ozempic/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-15T02:00:40Z"
-    },
-    {
       "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
       "resumen": "Los medicamentos, los aviones y los coches tienen normas de seguridad que no dependen de que el fabricante se las ponga a sí mismo. Bill Gates cree que con la inteligencia artificial toca lo mismo. Lo dijo el domingo 27 ",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/bill-gates-dice-que-autorregulacion-empresas-ia-no-suficiente-que-gobiernos-deberian-estar-involucrados-supervision",
       "medio": "Genbeta",
       "fecha": "2026-10-14T14:00:28Z"
-    },
-    {
-      "titulo": "Orange España amplía su alianza con Google Cloud para desplegar más de 1.000 agentes de IA personalizados",
-      "resumen": "La colaboración permite a Orange España industrializar sus operaciones de IA con Gemini Enterprise L'articolo Orange España amplía su alianza con Google Cloud para desplegar más de 1.000 agentes de IA personalizados prov",
-      "enlace": "https://www.computing.es/inteligencia-artificial/orange-espana-amplia-su-alianza-con-google-cloud-para-desplegar-mas-de-1-000-agentes-de-ia-personalizados/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-14T10:09:41Z"
-    },
-    {
-      "titulo": "El 75% de los profesionales del marketing prevé aumentar la inversión en asistentes de IA, incluyendo la publicidad",
-      "resumen": "El estudio anual Kantar Media Reactions muestra que los profesionales del marketing apuestan por la IA en su inversión, aunque muchos siguen sin tener claro si cuentan con el mix de medios y los datos adecuados para impu",
-      "enlace": "https://www.computing.es/inteligencia-artificial/en-2025-los-agentes-de-ia-impulsaran-el-70-de-las-comunicaciones-de-marketing/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-14T09:15:12Z"
-    },
-    {
-      "titulo": "Frontier by Itera impulsa la soberanía y el gobierno corporativo de la IA ante el Reglamento Europeo",
-      "resumen": "Frente al auge del Shadow AI y la fuga de datos confidenciales, Frontier by Itera propone una gobernanza técnica integral y un modelo predecible de costes operativos L'articolo Frontier by Itera impulsa la soberanía y el",
-      "enlace": "https://www.computing.es/entrevistas/frontier-by-itera-impulsa-la-soberania-y-el-gobierno-corporativo-de-la-ia-ante-el-reglamento-europeo/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-14T08:54:32Z"
-    },
-    {
-      "titulo": "Espionaje interno en OpenAI: una grabadora oculta y la propia IA como detective",
-      "resumen": "El FBI ha detenido a un ingeniero de OpenAI en San Francisco. La acusación señala la instalación de un dispositivo de grabación en una sala de reuniones ejecutivas. El hallazgo del micrófono tras un televisor [&#8230;] E",
-      "enlace": "https://blogthinkbig.com/espionaje-openai-microfono-oculto-fbi",
-      "medio": "Think Big",
-      "fecha": "2026-10-14T08:26:39Z"
     }
   ],
   "etica": [
-    {
-      "titulo": "Ocho estados de EE. UU. demandan a OpenAI por la seguridad de ChatGPT, y Arkansas pide frenar la IA que se mejora a sí misma",
-      "resumen": "Ocho estados de EE. UU. demandan a OpenAI por la seguridad de ChatGPT. Arkansas va más lejos y pide frenar la IA que se mejora a sí misma.La noticia Ocho estados de EE. UU. demandan a OpenAI por la seguridad de ChatGPT, ",
-      "enlace": "https://wwwhatsnew.com/2026/10/17/ocho-estados-demandan-openai-chatgpt-seguridad-automejora/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-17T10:00:00Z"
-    },
     {
       "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
       "resumen": "Los medicamentos, los aviones y los coches tienen normas de seguridad que no dependen de que el fabricante se las ponga a sí mismo. Bill Gates cree que con la inteligencia artificial toca lo mismo. Lo dijo el domingo 27 ",
@@ -352,6 +345,13 @@
       "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
       "medio": "Genbeta",
       "fecha": "2025-12-03T07:41:00Z"
+    },
+    {
+      "titulo": "Un adolescente creó una imagen de su compañera desnuda usando IA. A sus padres les ha caído una multa de 2.000 euros",
+      "resumen": "En España se ha impuesto por primera vez una sanción administrativa relacionada con la creación y difusión de imágenes falsas generadas con inteligencia artificial. Los padres de un menor deberán pagar a la AEPD una mult",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/adolescente-creo-imagen-su-companera-desnuda-usando-ia-a-sus-padres-les-ha-caido-multa-2-000-euros",
+      "medio": "Genbeta",
+      "fecha": "2025-11-06T16:59:14Z"
     }
   ]
 }
