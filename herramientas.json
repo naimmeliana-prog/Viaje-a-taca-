@@ -8360,7 +8360,7 @@
     "tipo": "Productividad / Gestión de documentos",
     "precio": "Freemium",
     "descripcion": "Convierte fuentes de conocimiento fragmentadas en un sistema unificado y searchable, simplificando la recuperación de información y la toma de decisiones.",
-    "web": "",
+    "web": "https://www.docusmart.eu/",
     "funciones": [
       "Indexación automática de documentos y archivos",
       "Búsqueda semántica y recuperación de contexto",
@@ -8391,7 +8391,7 @@
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Vertu AI Agent",
@@ -10844,7 +10844,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Airtop for Google Ads Automation",
@@ -19668,7 +19668,7 @@
     "tipo": "Generación de imágenes de alta resolución",
     "precio": "Freemium",
     "descripcion": "Modelo de generación de imágenes de 5.6B parámetros que nativamente genera 4K con control pixel-perfect, corriendo en GPUs de 8GB VRAM.",
-    "web": "",
+    "web": "https://fluxklein.ai/im/flux-3",
     "funciones": [
       "Generación de 4K",
       "Control preciso de píxeles",
@@ -19689,7 +19689,7 @@
     "fecha_agregado": "2026-10-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Granite Switch 4.1",
@@ -19862,7 +19862,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "REKI",
@@ -19870,7 +19870,7 @@
     "tipo": "Robótica / IA para robots",
     "precio": "Pago",
     "descripcion": "Modelo VLA de 2.4B parámetros con memoria eficiente para la manipulación avanzada de robots industriales.",
-    "web": "",
+    "web": "https://rek.ai/",
     "funciones": [
       "Control de movimientos robóticos",
       "Integración de memoria para tareas repetitivas",
@@ -19894,7 +19894,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Welcome Beam",
@@ -19934,7 +19934,7 @@
     "tipo": "Herramienta de análisis",
     "precio": "Freemium",
     "descripcion": "Herramienta que analiza y explica por qué una IA ignora los ajustes de configuración definidos por el usuario.",
-    "web": "",
+    "web": "https://www.configlens.com/",
     "funciones": [
       "Análisis de configuraciones de IA",
       "Detección de conflictos en parámetros",
@@ -19958,7 +19958,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Emochi",
@@ -19966,7 +19966,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Aplicación de diario de voz que combina arte y ciencia para ayudar a los usuarios a comprender su bienestar emocional.",
-    "web": "",
+    "web": "https://emochi.com/",
     "funciones": [
       "Grabación de diarios de voz",
       "Análisis de emociones mediante IA",
@@ -19990,7 +19990,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Notion: Context for your agents",
@@ -20052,7 +20052,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Train with Pasta",
@@ -20083,7 +20083,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Parrot",
@@ -20122,7 +20122,7 @@
     "tipo": "Generación de vídeo",
     "precio": "Gratuito",
     "descripcion": "Plataforma de código abierto para crear y editar vídeo mediante programación, orientada a experimentos de inteligencia artificial general y síntesis visual controlable por código.",
-    "web": "https://framefields.io",
+    "web": "https://framefields.dev/",
     "funciones": [
       "Generación de vídeo mediante código",
       "Manipulación programable de frames",
@@ -20144,7 +20144,8 @@
     "pago": false,
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "MiniMax M3.1 Flash",
@@ -20212,7 +20213,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Supervisa el comportamiento de agentes de IA dentro de flujos de trabajo y genera recomendaciones para optimizar su uso y reducir riesgos operativos.",
-    "web": "https://lancetta.dev",
+    "web": "https://lancetta.app/docs/getting-started",
     "funciones": [
       "Monitoreo de agentes de IA en tiempo real",
       "Detección de anomalías en flujos de trabajo",
@@ -20234,37 +20235,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
-    "pendiente_revision": false
-  },
-  {
-    "nombre": "Beam",
-    "compania": "Beam AI",
-    "tipo": "Modelo de lenguaje",
-    "precio": "Gratuito",
-    "descripcion": "Modelo de lenguaje de gran escala de código abierto que las organizaciones pueden descargar, ajustar y ejecutar en su propia infraestructura.",
-    "web": "https://beam.ai",
-    "funciones": [
-      "Descarga y despliegue propio del modelo",
-      "Fine-tuning en datos privados",
-      "Inferencia en infraestructura local",
-      "Generación de texto para aplicaciones empresariales",
-      "Personalización del modelo base"
-    ],
-    "caracteristicas": [
-      "Licencia de código abierto",
-      "Despliegue on-premise o en nube privada",
-      "Ajuste fino permitido",
-      "Modelo de gran escala",
-      "Control total de datos por la organización"
-    ],
-    "etica": "Al ejecutarse en infraestructura propia, reduce riesgos de privacidad frente a terceros, aunque la organización asume la responsabilidad de mitigar sesgos y usos dañinos del modelo.",
-    "limite_gratis": "Uso ilimitado del modelo bajo licencia abierta, sin coste de licencia, aunque la organización debe asumir los costos de hardware e infraestructura.",
-    "id": "beam-dc6e84",
-    "gratis": true,
-    "pago": false,
-    "fecha_agregado": "2026-10-20",
-    "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Timestral",
@@ -20272,7 +20244,7 @@
     "tipo": "Análisis de datos",
     "precio": "Freemium",
     "descripcion": "Familia de modelos especializados en predicción y análisis de series temporales con resultados superiores a TimesFM-3 en benchmarks de aprendizaje cero-shot.",
-    "web": "https://mistral.ai/timestral",
+    "web": "https://timestral.org/",
     "funciones": [
       "Pronóstico de series temporales",
       "Análisis de tendencias y estacionalidad",
@@ -20294,7 +20266,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Own 1",
@@ -20318,14 +20291,14 @@
     ],
     "etica": "Prioriza la privacidad al mantener los datos bajo control del usuario, reduciendo la exposición a terceros, aunque requiere que el usuario gestione adecuadamente la seguridad de su propia infraestructura.",
     "limite_gratis": "Ofrece un plan gratuito con almacenamiento y uso del modelo limitados, ideal para pruebas personales antes de pasar a planes de pago.",
-    "web": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+    "web": "https://ownx.co/Own1",
     "id": "own-1-139854",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "buddylist",
@@ -20356,7 +20329,7 @@
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "CrawlForge MCP",
@@ -20380,14 +20353,14 @@
     ],
     "etica": "El rastreo web automatizado puede infringir términos de servicio y derechos de autor, además de exponer datos personales si no se configuran filtros de privacidad adecuados.",
     "limite_gratis": "Ofrece un nivel gratuito con un número limitado de llamadas a las herramientas web al mes, requiriendo suscripción para uso intensivo.",
-    "web": "https://www.producthunt.com/products/crawlforge-mcp",
+    "web": "https://www.crawlforge.dev/",
     "id": "crawlforge-mcp-c914a8",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Wally by Willow",
@@ -20411,11 +20384,135 @@
     ],
     "etica": "El aprendizaje del estilo de escritura implica procesar textos personales, por lo que es fundamental garantizar la confidencialidad y evitar que el modelo replique información privada en otros contextos.",
     "limite_gratis": "Permite probar la redacción asistida con un número limitado de documentos o palabras al mes, con funciones avanzadas en planes de pago.",
-    "web": "https://www.producthunt.com/products/willow-voice",
+    "web": "https://www.meetwally.app/",
     "id": "wally-by-willow-1caa50",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Woven Video",
+    "descripcion": "Edita cualquier video mediante chat, utilizando una línea de tiempo real en Mac.",
+    "compania": "Woven",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "funciones": [
+      "Edición de video por comandos de texto",
+      "Integración con línea de tiempo de Mac",
+      "Generación automática de secuencias",
+      "Edición colaborativa en tiempo real",
+      "Exportación en múltiples formatos"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva basada en chat",
+      "Soporte para archivos de video profesionales",
+      "Herramientas de IA para sugerencias de edición",
+      "Compatibilidad con macOS",
+      "Plantillas predefinidas para acelerar el flujo de trabajo"
+    ],
+    "etica": "Protege los datos de video mediante encriptación y permite controlar el uso de IA para evitar sesgos en la edición. El impacto ambiental depende de la eficiencia energética de los servidores de procesamiento.",
+    "limite_gratis": "El plan gratuito permite editar videos de hasta 5 minutos con marcas de agua y límites de exportación.",
+    "web": "https://www.woven.video/",
+    "id": "woven-video-725176",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "UseIt Studio",
+    "descripcion": "Tu agente de IA para diseño que genera archivos editables reales.",
+    "compania": "UseIt",
+    "tipo": "Diseño",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de diseños por IA",
+      "Creación de archivos editables (PSD, Figma, etc.)",
+      "Sugerencias de diseño personalizadas",
+      "Colaboración en tiempo real",
+      "Integración con herramientas de diseño existentes"
+    ],
+    "caracteristicas": [
+      "Salidas en formatos compatibles con editores profesionales",
+      "Personalización avanzada de diseños",
+      "Motor de IA entrenado en millones de ejemplos",
+      "Soporte para múltiples industrias (moda, branding, etc.)",
+      "Actualizaciones automáticas de diseños"
+    ],
+    "etica": "Garantiza la privacidad de los proyectos de diseño y evita reproducir contenido con derechos de autor. Los sesgos en el entrenamiento de la IA podrían influir en las sugerencias de diseño.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 diseños por mes con funciones limitadas y marcas de agua.",
+    "web": "https://useit.im/",
+    "id": "useit-studio-ed335c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Mouse-1",
+    "descripcion": "Modelo de decisiones para tu arnés de agente.",
+    "compania": "Mouse-1",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Simulación de escenarios de decisión",
+      "Integración con sistemas de agentes autónomos",
+      "Análisis de riesgos en decisiones",
+      "Optimización de flujos de trabajo",
+      "Visualización de decisiones complejas"
+    ],
+    "caracteristicas": [
+      "Interfaz gráfica para modelado de decisiones",
+      "Soporte para lenguajes de programación como Python",
+      "Herramientas de validación de escenarios",
+      "Integración con plataformas de automatización",
+      "Actualizaciones de modelos en tiempo real"
+    ],
+    "etica": "Promueve transparencias en los algoritmos de decisión y permite auditorías para mitigar sesgos. El uso responsable es clave para evitar decisiones discriminatorias.",
+    "limite_gratis": "El plan gratuito ofrece 10 simulaciones de escenarios con funciones básicas y límites de exportación.",
+    "web": "https://www.producthunt.com/products/mouse-1",
+    "id": "mouse-1-973919",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Tend",
+    "descripcion": "IA personal para empresas y emprendedores.",
+    "compania": "Tend",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Gestión de tareas y prioridades",
+      "Análisis de datos de negocio",
+      "Automatización de procesos repetitivos",
+      "Soporte en toma de decisiones",
+      "Integración con herramientas de productividad"
+    ],
+    "caracteristicas": [
+      "Personalización según el perfil del usuario",
+      "Soporte multilingüe",
+      "Alertas inteligentes de gestión",
+      "Dashboard de métricas en tiempo real",
+      "Conexión con servicios como Google Workspace y Microsoft 365"
+    ],
+    "etica": "Protege la privacidad de los datos de negocio y permite controlar el acceso a la IA. Los sesgos en el análisis de datos pueden afectar la toma de decisiones si no se validan.",
+    "limite_gratis": "El plan gratuito incluye 50 tareas mensuales, análisis básico y límites de integración con otras herramientas.",
+    "web": "https://www.tend-ai.co/",
+    "id": "tend-f7760f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-22",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

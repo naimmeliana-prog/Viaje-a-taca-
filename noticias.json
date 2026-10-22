@@ -1,6 +1,111 @@
 {
-  "actualizado": "2026-10-20T01:27:01Z",
+  "actualizado": "2026-10-22T01:09:12Z",
   "novedades": [
+    {
+      "titulo": "Cómo saber si una web está afectada por la vulnerabilidad de PHP con la herramienta que OpenAI ha publicado",
+      "resumen": "Las dos vulnerabilidades críticas detectadas en PHP han llevado a administradores y organizaciones de distintos países a revisar servidores y aplicar actualizaciones con urgencia. Algunas webs incluso han optado por desc",
+      "enlace": "https://www.xataka.com/seguridad/como-saber-web-esta-afectada-vulnerabilidad-php-herramienta-que-openai-ha-publicado",
+      "medio": "Xataka",
+      "fecha": "2026-10-21T18:29:00Z"
+    },
+    {
+      "titulo": "Yaiza Canosa, exitosa empresaria española: “Conozco más fontaneros bajándose de un Land Rover que a desarrolladores”",
+      "resumen": "Yaiza Canosa, en una entrevista en Actitud Constante, compara a los fontaneros con los programadores informáticos, afirmando: “Conozco a más fontaneros bajándose de un Land Rover que a desarrolladores de IT”.&nbsp; Canos",
+      "enlace": "https://www.genbeta.com/laboral/yaiza-canosa-exitosa-empresaria-espanola-conozco-fontaneros-bajandose-land-rover-que-a-desarrolladores",
+      "medio": "Genbeta",
+      "fecha": "2026-10-21T14:01:41Z"
+    },
+    {
+      "titulo": "DXC Technology y LangChain se alían para impulsar el uso de IA agéntica en operaciones de TI de misión crítica",
+      "resumen": "DXC OASIS, desarrollada sobre el entorno de ejecución de código abierto LangGraph de LangChain, amplía su despliegue a 125 entornos de clientes en sectores regulados y diversas regiones geográficas L'articolo DXC Technol",
+      "enlace": "https://www.computing.es/inteligencia-artificial/dxc-technology-y-langchain-se-alian-para-impulsar-el-uso-de-ia-agentica-en-operaciones-de-ti-de-mision-critica/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-21T11:15:18Z"
+    },
+    {
+      "titulo": "Esade despliega un modelo híbrido de atención al estudiante impulsado por inteligencia artificial y desarrollado por Ayesa Digital",
+      "resumen": "La escuela de negocios centraliza sus servicios de soporte en 'Student Center', un único punto de contacto accesible 24/7 a través de chat, WhatsApp y correo electrónico sobre tecnología de Salesforce L'articolo Esade de",
+      "enlace": "https://www.computing.es/noticias/esade-despliega-un-modelo-hibrido-de-atencion-al-estudiante-impulsado-por-inteligencia-artificial-y-desarrollado-por-ayesa-digital/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-21T09:49:43Z"
+    },
+    {
+      "titulo": "La IA está transformando el trabajo. ¿Está tu empresa preparada para aprovecharla?",
+      "resumen": "La inteligencia artificial ya no es una promesa de futuro: está entrando en el día a día de las empresas y cambiando la forma en que los profesionales trabajan, colaboran y resuelven problemas. La cuestión ahora es cómo ",
+      "enlace": "https://www.computing.es/movilidad/la-ia-esta-transformando-el-trabajo-esta-tu-empresa-preparada-para-aprovecharla/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-21T09:48:41Z"
+    },
+    {
+      "titulo": "Amazon duplica su apuesta por la nuclear y anuncia una nueva central en Indiana para sus centros de datos",
+      "resumen": "Amazon ha acordado ayudar a pagar el desarrollo de una central nuclear de 960 megavatios en Indiana, y sería el primer cliente en comprar su energía. El proyecto, anunciado el lunes junto a la empresa X-energy y American",
+      "enlace": "https://www.xataka.com/empresas-y-economia/amazon-ha-encontrado-solucion-al-colosal-consumo-sus-centros-datos-para-ia-12-reactores-nucleares-smr-antigua-central-carbon",
+      "medio": "Xataka",
+      "fecha": "2026-10-21T05:01:35Z"
+    },
+    {
+      "titulo": "Cómo escribir buenos prompts: las técnicas en las que coinciden OpenAI, Anthropic y Google",
+      "resumen": "OpenAI, Anthropic y Google publican cómo escribir prompts y dicen casi lo mismo: claridad, contexto, ejemplos y formato. Las técnicas, sin trucos.La noticia Cómo escribir buenos prompts: las técnicas en las que coinciden",
+      "enlace": "https://wwwhatsnew.com/2026/10/21/como-escribir-buenos-prompts-openai-anthropic-google/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-20T22:00:00Z"
+    },
+    {
+      "titulo": "Menos de 100 caracteres, 1.200 webs atacadas y más de 100 comprometidas: así está cambiando la IA la ciberseguridad",
+      "resumen": "Durante años hemos asumido que la ciberseguridad era una carrera de fondo: alguien encontraba una vulnerabilidad, otro intentaba cerrarla y, entre medias, hacían falta tiempo, conocimientos y bastante trabajo humano para",
+      "enlace": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad",
+      "medio": "Xataka",
+      "fecha": "2026-10-20T19:31:40Z"
+    },
+    {
+      "titulo": "EEUU ordena eliminar DeepSeek de todos los sistemas de sus agencias civiles federales",
+      "resumen": "DeepSeek lleva meses en el centro de una disputa que va mucho más allá de quién tiene el modelo de inteligencia artificial más capaz o más barato. Desde que irrumpió con R1, la compañía china ha quedado bajo el escrutini",
+      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-ordena-eliminar-deepseek-sistemas-sus-agencias-civiles-federales-veto-va-todavia-alla",
+      "medio": "Xataka",
+      "fecha": "2026-10-20T17:00:00Z"
+    },
+    {
+      "titulo": "Google DeepMind presume de haber batido a Minecraft con agentes controlados por Gemini 4 Argon en apenas 27 horas",
+      "resumen": "'Minecraft' no es sólo uno de los juegos más exitosos de la historia y una base genial tanto para divertirse como para aprender. El título de Mojang lleva años usándose para medir de qué son capaces los modelos de inteli",
+      "enlace": "https://www.xataka.com/videojuegos/google-deepmind-presume-haber-batido-a-minecraft-agentes-controlados-gemini-4-argon-apenas-27-horas",
+      "medio": "Xataka",
+      "fecha": "2026-10-20T13:01:42Z"
+    },
+    {
+      "titulo": "He usado la IA para \"tontificar\" a mi tele. Paradójicamente, ahora funciona mucho mejor",
+      "resumen": "El domingo por la tarde, como quien no quiere la cosa, veo un tuit curioso de Monos Estocásticos. En él citaban otro tuit de un usuario llamado @gathint con un descubrimiento llamativo. Ese usuario (o usuaria) había \"vib",
+      "enlace": "https://www.xataka.com/televisores/ultima-sensacion-viral-ia-eliminar-anuncios-bloatware-smart-tv-he-tontificado-mi-chromecast-maravilloso",
+      "medio": "Xataka",
+      "fecha": "2026-10-20T11:15:00Z"
+    },
+    {
+      "titulo": "El phishing ya se escribe para dos lectores: tú y el asistente de IA que te resume el correo",
+      "resumen": "Los correos de phishing esconden instrucciones para el asistente de IA que te los resume. Barracuda documenta el patrón; la técnica no es nueva.La noticia El phishing ya se escribe para dos lectores: tú y el asistente de",
+      "enlace": "https://wwwhatsnew.com/2026/10/20/phishing-doble-objetivo-asistentes-ia-inyeccion-prompts/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-20T10:00:51Z"
+    },
+    {
+      "titulo": "El control del dato y el cloud soberano centran el Foro de Soberanía Digital 2026",
+      "resumen": "Directivos de TI de empresas como Acciona, Reale Group y Singular Bank abordarán el próximo 4 de noviembre en Madrid cómo equilibrar la adopción de inteligencia artificial con la gobernanza, el cumplimiento normativo y l",
+      "enlace": "https://www.computing.es/noticias/el-control-del-dato-y-el-cloud-soberano-centran-el-soberania-digital-forum-2026/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-20T09:13:46Z"
+    },
+    {
+      "titulo": "No se puede gobernar una IA que no se puede ver",
+      "resumen": "Aunque el 88% de las organizaciones ya utilizan o están probando agentes de IA, solo el 28% confía en su capacidad para detectar sistemas de IA que operan fuera de los parámetros aprobados L'articolo No se puede gobernar",
+      "enlace": "https://www.computing.es/inteligencia-artificial/no-se-puede-gobernar-una-ia-que-no-se-puede-ver/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-20T06:38:24Z"
+    },
+    {
+      "titulo": "Salesforce invertirá 1.000 millones de dólares en España para liderar la IA en EMEA Sur",
+      "resumen": "Salesforce ha anunciado una inversión de 1.000 millones de dólares en España durante los próximos cinco años, posicionando a Madrid como el centro operativo para la región de EMEA Sur L'articolo Salesforce invertirá 1.00",
+      "enlace": "https://www.computing.es/inteligencia-artificial/salesforce-invertira-1-000-millones-de-dolares-en-espana-para-liderar-la-ia-en-emea-sur/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-20T05:57:23Z"
+    },
     {
       "titulo": "Las imágenes retocadas con IA duplican los errores de memoria, pero el punto de partida ya era malo: esto es lo que dice el estudio",
       "resumen": "Un estudio del MIT midió cuántos errores de memoria causan las imágenes retocadas con IA: del 18,9 % al 38,7 %. Y el escepticismo no protegió.La noticia Las imágenes retocadas con IA duplican los errores de memoria, pero",
@@ -9,21 +114,21 @@
       "fecha": "2026-10-19T22:00:53Z"
     },
     {
-      "titulo": "El mercado de la ciberseguridad sufrió un desplome del 26% en EEUU. Una especialidad fue a contracorriente: creció un 268%",
+      "titulo": "Las ofertas de trabajo en ciberseguridad caen un 26% en EEUU, las de ciberseguridad aplicada a IA suben un 268%",
       "resumen": "Imaginemos una empresa que comienza a incorporar inteligencia artificial a sus servicios. Además de proteger sus sistemas habituales, ahora debe prestar atención a los datos que utilizan sus modelos, las personas que pue",
       "enlace": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268",
       "medio": "Xataka",
-      "fecha": "2026-10-19T19:01:54Z"
+      "fecha": "2026-10-19T19:00:00Z"
     },
     {
-      "titulo": "Un perro-robot guiado por IA ya está patrullando los viñedos de Extremadura",
+      "titulo": "En Extremadura ya hay \"perros-robot\" patrullando los viñedos, recopilando datos y ayudando a los agricultores",
       "resumen": "Un pequeño amigo artificial de cuatro patas ha aterrizado en tierras extremeñas. Y es que el proyecto denominado como ‘AGRHOUND’ está probando perros robots para que puedan aprender a caminar entre viñedos y túneles de b",
       "enlace": "https://www.xataka.com/robotica-e-ia/perro-robot-ia-patrulla-cultivos-extremadura-su-mision-ponerle-patas-a-agricultura-precision",
       "medio": "Xataka",
-      "fecha": "2026-10-19T17:01:54Z"
+      "fecha": "2026-10-19T17:00:00Z"
     },
     {
-      "titulo": "Anthropic propone destinar un 5% de sus acciones a un fondo que aborde el impacto laboral de la IA",
+      "titulo": "La solución de Anthropic a la supuesta amenaza existencial que la IA plantea es regalar el 5% de sus acciones a la humanidad",
       "resumen": "Una de las grandes incógnitas que a día de hoy todavía no hemos despejado es hasta qué punto afectará la llegada de la IA al mercado laboral. Existen estudio y conclusiones de todo tipo: desde las que apuntan a una destr",
       "enlace": "https://www.xataka.com/empresas-y-economia/anthropic-propone-destinar-5-sus-acciones-a-fondo-que-podria-abordar-impacto-laboral-ia",
       "medio": "Xataka",
@@ -44,25 +149,11 @@
       "fecha": "2026-10-19T14:00:00Z"
     },
     {
-      "titulo": "Amazon se ha convertido en el mejor ejemplo del impacto de la IA en el empleo: ni se crea ni se destruye, se desplaza",
+      "titulo": "Amazon está demostrando en tiempo real que la IA ni crea ni destruye empleo, simplemente lo desplaza",
       "resumen": "Sam Altman ya puso sobre la mesa que la IA estaba siendo una de las mejores excusas de las grandes tecnológicas para justificar las rondas de despidos que se han venido produciendo en 2026. Sin embargo, durante una entre",
       "enlace": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
       "medio": "Xataka",
-      "fecha": "2026-10-19T13:15:53Z"
-    },
-    {
-      "titulo": "50 muertos o 1.000 millones de dólares en daños: el listón que Anthropic quiere fijar para que el Gobierno pueda frenar un modelo de IA",
-      "resumen": "Anthropic ha estado presentando entre bambalinas un borrador de proyecto de ley sobre la seguridad de los modelos de IA más punteros en el Capitolio, según el medio Politico. Desde luego no es frecuente que un laboratori",
-      "enlace": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia",
-      "medio": "Xataka",
-      "fecha": "2026-10-19T12:47:54Z"
-    },
-    {
-      "titulo": "Susan Li, CFO de Meta, sobre el futuro de la compañía y la IA: \"Si Muse no funciona, las cosas van a ir realmente mal\"",
-      "resumen": "El pasado 12 de octubre, Meta realizó una de las apuestas más arriesgadas de la compañía. Zuckerberg presentó Muse Wonder, el primer modelo de IA de vanguardia con aspiraciones de competir de tú a tú, por fin, en la liga",
-      "enlace": "https://www.xataka.com/empresas-y-economia/susan-li-cfo-meta-futuro-compania-ia-muse-no-funciona-cosas-van-a-ir-realmente-mal",
-      "medio": "Xataka",
-      "fecha": "2026-10-19T12:31:53Z"
+      "fecha": "2026-10-19T13:15:00Z"
     },
     {
       "titulo": "Europa también compite (II): las cinco startups de medicina que debes tener en el radar",
@@ -93,53 +184,11 @@
       "fecha": "2026-10-18T12:00:00Z"
     },
     {
-      "titulo": "Un experimento puso a dos asistentes virtuales a compartir cerebro y tareas. Sus recompensas contaron una historia diferente",
-      "resumen": "La IA suele tener voz de mujer. Desde la primera Siri hasta la actual Alexa, pasando por el GPS: los asistentes virtuales han adoptado tradicionalmente voces femeninas por defecto. No es casualidad, hay razones psicológi",
-      "enlace": "https://www.xataka.com/robotica-e-ia/decimos-que-genero-ia-nos-da-igual-que-llega-momento-pagarle",
-      "medio": "Xataka",
-      "fecha": "2026-10-18T06:00:00Z"
-    },
-    {
-      "titulo": "Google recorta las proteínas para abaratar el diseño de fármacos con IA y logra moléculas que se unen a una diana tumoral",
-      "resumen": "Google recorta la proteína diana para abaratar un 88 % el diseño de binders con IA y logra moléculas que se unen a FAP con 3 a 9 nanomolares.La noticia Google recorta las proteínas para abaratar el diseño de fármacos con",
-      "enlace": "https://wwwhatsnew.com/2026/10/18/google-recorte-proteinas-diseno-binders-ia-fap-gemini/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-18T04:00:00Z"
-    },
-    {
-      "titulo": "El gasto en anuncios políticos hechos con IA en EE. UU. supera los 137 millones de dólares, y casi tres de cada cuatro no lo avisan",
-      "resumen": "El gasto en anuncios políticos con IA en EE. UU. pasa de 50.000 a 137 millones de dólares en dos años. Solo el 27 % lo avisa, y las leyes no lo cambian.La noticia El gasto en anuncios políticos hechos con IA en EE. UU. s",
-      "enlace": "https://wwwhatsnew.com/2026/10/17/anuncios-politicos-ia-estados-unidos-137-millones-27-por-ciento-aviso/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-17T18:00:00Z"
-    },
-    {
-      "titulo": "Rusia puso motores a reacción a sus drones para volar a 600 km/h: la respuesta de Ucrania ha sido darle ojos y cerebro a una ametralladora",
-      "resumen": "Rusia ha encontrado una forma de complicar todavía más la defensa aérea de Ucrania: sustituir las hélices de algunos de sus drones de ataque por pequeños motores a reacción capaces de impulsarlos a velocidades cercanas a",
-      "enlace": "https://www.xataka.com/magnet/rusia-puso-motores-a-reaccion-a-sus-drones-para-volar-a-600-km-h-respuesta-ucrania-ha-sido-darle-ojos-cerebro-a-ametralladora",
-      "medio": "Xataka",
-      "fecha": "2026-10-17T10:30:08Z"
-    },
-    {
       "titulo": "29 usos de agentes IA como Instinct o Muse que nadie te ha contado",
       "resumen": "ChatGPT, Claude, Gemini y Grok ya no son simples chatbots a los que puedes preguntar cualquier cosa y obtener una respuesta. Ahora todas estas inteligencias artificiales tienen una herramienta que está cambiando la forma",
       "enlace": "https://blogthinkbig.com/29-usos-de-agentes-ia-como-instinct-o-muse-que-nadie-te-ha-contado",
       "medio": "Think Big",
       "fecha": "2026-10-17T10:01:00Z"
-    },
-    {
-      "titulo": "Zhang Yiming, el dueño de TikTok ha duplicado su fortuna. Su secreto: la IA, claro",
-      "resumen": "El nombre de Zhang Yiming probablemente no te suene de nada. Sin embargo, es probable que sí lo haga la empresa que fundó y convirtió en su principal fuente de ingresos: ByteDance, empresa propietaria de TikTok. Zhang Yi",
-      "enlace": "https://www.xataka.com/robotica-e-ia/zhang-yiming-dueno-tiktok-ha-duplicado-su-fortuna-su-secreto-ia-claro",
-      "medio": "Xataka",
-      "fecha": "2026-10-17T09:00:04Z"
-    },
-    {
-      "titulo": "ChatGPT sigue siendo el rey, pero ya no es tan intocable: así ha cambiado el mapa de la IA en un año",
-      "resumen": "En noviembre de 2022 llegó ChatGPT y puso todo patas arriba. OpenAI fue la primera, pero no tardaron en aparecer rivales y arrancó una carrera feroz por tener la mejor IA posible, con entrenamientos masivos y métodos dis",
-      "enlace": "https://www.xataka.com/robotica-e-ia/chatgpt-sigue-siendo-rey-no-intocable-asi-ha-cambiado-mapa-ia-ano",
-      "medio": "Xataka",
-      "fecha": "2026-10-17T08:00:00Z"
     },
     {
       "titulo": "Las incongruencias de Siri AI: sus \"nuevos\" requisitos ponen en duda que no pueda llegar a iPhone antiguos",
@@ -161,55 +210,6 @@
       "enlace": "https://blogthinkbig.com/chatgpt-plus-gratis-promociones-ofertas-descuentos",
       "medio": "Think Big",
       "fecha": "2026-10-16T10:01:00Z"
-    },
-    {
-      "titulo": "La UCM celebra el II Congreso Internacional de IA Generativa",
-      "resumen": "Empresas tecnológicas y del IBEX 35 participan en distintas mesas redondas durante dos jornadas organizadas por la Universidad Complutense de Madrid L'articolo La UCM celebra el II Congreso Internacional de IA Generativa",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-ucm-celebra-el-ii-congreso-internacional-de-ia-generativa/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-16T09:21:00Z"
-    },
-    {
-      "titulo": "Anthropic reemplaza Git por un sistema propio para absorber la marea de código generada por IA",
-      "resumen": "Entre mayo y septiembre de 2026, las fusiones de código diarias en Anthropic pasaron de 2.500 a más de 30.000. El uso de modelos como Claude para programar eliminó la lentitud al escribir software. Sin [&#8230;] Anthropi",
-      "enlace": "https://blogthinkbig.com/anthropic-reemplaza-git-scion",
-      "medio": "Think Big",
-      "fecha": "2026-10-16T08:00:00Z"
-    },
-    {
-      "titulo": "Substrate AI persigue superar los 100 millones de euros de facturación en 2030 impulsando su propia tecnología de IA",
-      "resumen": "La compañía cotizada en BME Growth presenta su nueva hoja de ruta estratégica, aprobada por unanimidad por su Consejo de Administración, durante el encuentro AI SUMMIT celebrado en Madrid L'articolo Substrate AI persigue",
-      "enlace": "https://www.computing.es/inteligencia-artificial/substrate-ai-persigue-superar-los-100-millones-de-euros-de-facturacion-en-2030-impulsando-su-propia-tecnologia-de-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-16T07:30:00Z"
-    },
-    {
-      "titulo": "La nueva etapa de la IA empresarial: De responder a ejecutar",
-      "resumen": "Después de un primer periodo marcado por los asistentes capaces de generar textos, resumir información o responder preguntas; el siguiente reto es conseguir que la IA pueda participar directamente en los procesos de nego",
-      "enlace": "https://www.computing.es/inteligencia-artificial/la-nueva-etapa-de-la-ia-empresarial-de-responder-a-ejecutar/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-15T13:36:43Z"
-    },
-    {
-      "titulo": "Su escuela bloqueó ChatGPT. Ahora esta estudiante de secundaria de 17 años dirige una startup de inteligencia artificial con 1.000 usuarios",
-      "resumen": "Navya Tuteja contacta con sus políticos locales mediante un correo en frío y una idea, y así llegó también a un periodista. Tiene 17 años, cursa el último año de secundaria en un instituto selectivo de las afueras de Was",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/su-escuela-bloqueo-chatgpt-ahora-esta-estudiante-secundaria-17-anos-dirige-startup-inteligencia-artificial-1-000-usuarios",
-      "medio": "Genbeta",
-      "fecha": "2026-10-15T09:30:25Z"
-    },
-    {
-      "titulo": "Sam Altman rechaza que la IA sea una nueva Revolución Industrial: “Debe dar más poder a las personas”",
-      "resumen": "Sam Altman subió al escenario del DevDay para presentar un agente de IA que trabaja las 24 horas, y acabó hablando de engranajes. “La mejor versión de la IA no consiste en convertir a las personas en engranajes de una má",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/sam-altman-rechaza-que-ia-sea-nueva-revolucion-industrial-debe-dar-poder-a-personas",
-      "medio": "Genbeta",
-      "fecha": "2026-10-15T07:00:28Z"
-    },
-    {
-      "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
-      "resumen": "Los medicamentos, los aviones y los coches tienen normas de seguridad que no dependen de que el fabricante se las ponga a sí mismo. Bill Gates cree que con la inteligencia artificial toca lo mismo. Lo dijo el domingo 27 ",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/bill-gates-dice-que-autorregulacion-empresas-ia-no-suficiente-que-gobiernos-deberian-estar-involucrados-supervision",
-      "medio": "Genbeta",
-      "fecha": "2026-10-14T14:00:28Z"
     }
   ],
   "etica": [
