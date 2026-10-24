@@ -1,12 +1,145 @@
 {
-  "actualizado": "2026-10-22T01:09:12Z",
+  "actualizado": "2026-10-24T01:20:07Z",
   "novedades": [
     {
-      "titulo": "Cómo saber si una web está afectada por la vulnerabilidad de PHP con la herramienta que OpenAI ha publicado",
-      "resumen": "Las dos vulnerabilidades críticas detectadas en PHP han llevado a administradores y organizaciones de distintos países a revisar servidores y aplicar actualizaciones con urgencia. Algunas webs incluso han optado por desc",
-      "enlace": "https://www.xataka.com/seguridad/como-saber-web-esta-afectada-vulnerabilidad-php-herramienta-que-openai-ha-publicado",
+      "titulo": "Walmart deja comprar a los agentes de IA y Amazon los demanda: dos apuestas opuestas sobre quién manda en el comercio",
+      "resumen": "Walmart abre un canal para que los agentes de IA compren con límites de gasto. Amazon hace lo contrario: demanda y bloquea. Qué implica para el usuario.La noticia Walmart deja comprar a los agentes de IA y Amazon los dem",
+      "enlace": "https://wwwhatsnew.com/2026/10/24/walmart-agent-gateway-agentes-ia-compras-amazon-bloqueo/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-24T00:00:00Z"
+    },
+    {
+      "titulo": "OpenAI lleva los anuncios de ChatGPT a 26 países más, hasta 89: en España ya estaban desde agosto",
+      "resumen": "OpenAI amplía los anuncios de ChatGPT a 26 países, hasta 89. No publica la lista completa y en España ya estaban desde agosto.La noticia OpenAI lleva los anuncios de ChatGPT a 26 países más, hasta 89: en España ya estaba",
+      "enlace": "https://wwwhatsnew.com/2026/10/24/openai-anuncios-chatgpt-26-paises-mas-89-total/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-23T22:00:00Z"
+    },
+    {
+      "titulo": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+      "resumen": "La carrera por la inteligencia artificial lleva tiempo girando alrededor de una pregunta: quién tiene el modelo más capaz. Cada nueva generación busca resolver tareas más complejas, mientras las comparaciones suelen mira",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
       "medio": "Xataka",
-      "fecha": "2026-10-21T18:29:00Z"
+      "fecha": "2026-10-23T19:30:07Z"
+    },
+    {
+      "titulo": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
+      "resumen": "Pocas veces nos preguntamos qué tiene que suceder para que una transferencia llegue a su destino, un documento permanezca privado o nadie más pueda acceder a nuestras cuentas. Simplemente abrimos el móvil y seguimos adel",
+      "enlace": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
+      "medio": "Xataka",
+      "fecha": "2026-10-23T18:32:14Z"
+    },
+    {
+      "titulo": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
+      "resumen": "Cuando hacemos una búsqueda en Google, lo primero que nos aparece es un resumen generado por IA relacionado con esa búsqueda. Este resumen, denominado AI Overviews, generalmente comparte también una serie de enlaces para",
+      "enlace": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
+      "medio": "Xataka",
+      "fecha": "2026-10-23T17:30:08Z"
+    },
+    {
+      "titulo": "Gemini estrena panel de negocio con marca, finanzas y conexión a Shopify, Xero o Canva: lo que no aclara es si llega a España",
+      "resumen": "Gemini añade una página de negocio con marca, finanzas y conexión a Shopify, Xero o Canva. Google no aclara países, planes ni precios.La noticia Gemini estrena panel de negocio con marca, finanzas y conexión a Shopify, X",
+      "enlace": "https://wwwhatsnew.com/2026/10/23/gemini-panel-negocio-apps-conectadas-marca-finanzas/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-23T17:00:54Z"
+    },
+    {
+      "titulo": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
+      "resumen": "Unitree Robotics quiere que la IA haga gran parte del trabajo que sus ingenieros hacen hoy en día, ya sea buscar investigaciones, escribir código de control, probarlo y aprender de los resultados. El fundador de la empre",
+      "enlace": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
+      "medio": "Xataka",
+      "fecha": "2026-10-23T15:00:11Z"
+    },
+    {
+      "titulo": "Una palabra oculta en el entrenamiento basta para que un robot con IA ejecute un plan dañino: el 99 % de las veces funciona",
+      "resumen": "Un trabajo de Binghamton deja una puerta trasera en un robot con IA sin tocar el robot ni el modelo. Funciona el 99 % de las veces y no se nota.La noticia Una palabra oculta en el entrenamiento basta para que un robot co",
+      "enlace": "https://wwwhatsnew.com/2026/10/23/puerta-trasera-robot-ia-disparador-binghamton-mutrap/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-23T13:00:51Z"
+    },
+    {
+      "titulo": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
+      "resumen": "Vamos a tener que acostumbrarnos a los agentes de IA. En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y co",
+      "enlace": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
+      "medio": "Xataka",
+      "fecha": "2026-10-23T11:30:00Z"
+    },
+    {
+      "titulo": "La compañía de gafas neerlandesa es el primer minorista en retirar las gafas inteligentes Ray-Ban de Meta de más de 400 tiendas debido a “preguntas que se han p",
+      "resumen": "Hans Anders ha detenido la venta de las gafas inteligentes Ray-Ban de Meta en los Países Bajos y Bélgica. Quieren esperar hasta que se aclare cómo se pueden utilizar estos dispositivos que pueden captar a las personas qu",
+      "enlace": "https://www.genbeta.com/actualidad/compania-gafas-neerlandesa-primer-minorista-retirar-gafas-inteligentes-ray-ban-meta-400-tiendas-debido-a-preguntas-que-se-han-planteado-tecnologia",
+      "medio": "Genbeta",
+      "fecha": "2026-10-23T10:00:12Z"
+    },
+    {
+      "titulo": "Almeida está revisando vídeos de Sol frame a frame para descubrir posibles delitos de los acampados por la vivienda",
+      "resumen": "La mecha la prendió el Sindicato de Inquilinas, que lleva años trabajando para frenar desahucios como el de Maricarmen, una mujer de 87 años desalojada el 23 de septiembre del piso de Retiro donde vivía desde los 17. El ",
+      "enlace": "https://www.xataka.com/magnet/almeida-esta-revisando-videos-sol-frame-a-frame-para-descubrir-posibles-delitos-acampados-vivienda",
+      "medio": "Xataka",
+      "fecha": "2026-10-23T08:39:17Z"
+    },
+    {
+      "titulo": "El reto de la IA no es consumir más tokens, sino generar valor",
+      "resumen": "El crecimiento del uso de la IA debe ir acompañado de empleados formados, una arquitectura contextualizada y un gobierno eficaz de los datos y los sistemas L'articolo El reto de la IA no es consumir más tokens, sino gene",
+      "enlace": "https://www.computing.es/noticias/el-reto-de-la-ia-no-es-consumir-mas-tokens-sino-generar-valor/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-23T08:16:42Z"
+    },
+    {
+      "titulo": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
+      "resumen": "Cuando una persona es diagnosticada de cáncer, es importante comenzar el tratamiento lo más pronto posible. Pero el problema al que se enfrentan los oncólogos aquí es el hecho de decidir cuál es el mejor tratamiento que ",
+      "enlace": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
+      "medio": "Xataka",
+      "fecha": "2026-10-22T19:00:11Z"
+    },
+    {
+      "titulo": "Anthropic muestra el efecto de la IA en el empleo junior: del 27% al 9% de nuevas contrataciones",
+      "resumen": "Que la IA va a marcar un antes y un después en todos los estratos del mercado laboral ya nadie lo duda. Pero ante la falta de datos concluyentes sobre el efecto de esta tecnología en la destrucción de empleos, hay voces ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-muestra-efecto-ia-empleo-junior-27-al-9-nuevas-contrataciones",
+      "medio": "Xataka",
+      "fecha": "2026-10-22T18:16:11Z"
+    },
+    {
+      "titulo": "Los agentes de IA ya se mueven por cuentas bancarias y algunas entidades de EEUU se preparan para lo peor",
+      "resumen": "Agentes, agentes y más agentes. Estos sistemas de inteligencia artificial capaces de ejecutar tareas con cierto grado de autonomía están apareciendo en servicios, aplicaciones y herramientas que utilizamos cada día. Y ah",
+      "enlace": "https://www.xataka.com/robotica-e-ia/agentes-ia-se-mueven-cuentas-bancarias-algunas-entidades-eeuu-se-preparan-para-peor",
+      "medio": "Xataka",
+      "fecha": "2026-10-22T17:34:07Z"
+    },
+    {
+      "titulo": "Gemini ya responde en el coche con tus correos, tu calendario y tus fotos: pero no en España",
+      "resumen": "Gemini ya usa tu Gmail, calendario y fotos para responder en el coche. Google dice que llega globalmente, pero excluye todo el EEE, incluida España.La noticia Gemini ya responde en el coche con tus correos, tu calendario",
+      "enlace": "https://wwwhatsnew.com/2026/10/22/gemini-personal-intelligence-coche-android-auto-no-espana/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-22T17:00:47Z"
+    },
+    {
+      "titulo": "Gemini se vuelve \"personal\" en el coche: tendrá acceso a tu Gmail, Calendar y Maps mientras conduces",
+      "resumen": "Google se está poniendo las pilas con Gemini en el coche, permitiendo que el asistentede IA pueda ahora inspeccionartus datosen servicios comoGmail, Calendar, Fotos, Maps, YouTube y Search para respondertodo tipo depregu",
+      "enlace": "https://www.xataka.com/robotica-e-ia/gemini-se-vuelve-personal-coche-tendra-acceso-a-tu-gmail-calendar-maps-conduces",
+      "medio": "Xataka",
+      "fecha": "2026-10-22T14:30:11Z"
+    },
+    {
+      "titulo": "Claude Code detecta un minero de criptomonedas oculto en el Mac de un usuario",
+      "resumen": "Durante el desarrollo de una pequeña aplicación para medir la temperatura interna de un ordenador Apple, el modelo de programación Claude Code detectó una anomalía térmica extrema. Los sensores marcaban picos superiores ",
+      "enlace": "https://blogthinkbig.com/claude-detecta-cryptominer-mac",
+      "medio": "Think Big",
+      "fecha": "2026-10-22T08:15:00Z"
+    },
+    {
+      "titulo": "IA agéntica: Autonomía sin control es riesgo sin precio",
+      "resumen": "Los agentes de IA han pasado de recomendar a ejecutar. Cada nivel de autonomía que se les concede exige una capa adicional de control, y la factura de omitirla no desaparece: solo se aplaza L'articolo IA agéntica: Autono",
+      "enlace": "https://www.computing.es/inteligencia-artificial/ia-agentica-autonomia-sin-control-es-riesgo-sin-precio/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-22T07:30:00Z"
+    },
+    {
+      "titulo": "Cinco acciones prácticas para reforzar la seguridad en IA agéntica",
+      "resumen": "La inteligencia artificial ya no se limita a responder preguntas, ahora también tiene la capacidad de actuar. A medida que la IA se vuelve más autónoma, el desafío de la ciberseguridad evoluciona L'articolo Cinco accione",
+      "enlace": "https://www.computing.es/seguridad/cinco-acciones-practicas-para-reforzar-la-seguridad-en-ia-agentica/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-22T07:00:00Z"
     },
     {
       "titulo": "Yaiza Canosa, exitosa empresaria española: “Conozco más fontaneros bajándose de un Land Rover que a desarrolladores”",
@@ -37,55 +170,6 @@
       "fecha": "2026-10-21T09:48:41Z"
     },
     {
-      "titulo": "Amazon duplica su apuesta por la nuclear y anuncia una nueva central en Indiana para sus centros de datos",
-      "resumen": "Amazon ha acordado ayudar a pagar el desarrollo de una central nuclear de 960 megavatios en Indiana, y sería el primer cliente en comprar su energía. El proyecto, anunciado el lunes junto a la empresa X-energy y American",
-      "enlace": "https://www.xataka.com/empresas-y-economia/amazon-ha-encontrado-solucion-al-colosal-consumo-sus-centros-datos-para-ia-12-reactores-nucleares-smr-antigua-central-carbon",
-      "medio": "Xataka",
-      "fecha": "2026-10-21T05:01:35Z"
-    },
-    {
-      "titulo": "Cómo escribir buenos prompts: las técnicas en las que coinciden OpenAI, Anthropic y Google",
-      "resumen": "OpenAI, Anthropic y Google publican cómo escribir prompts y dicen casi lo mismo: claridad, contexto, ejemplos y formato. Las técnicas, sin trucos.La noticia Cómo escribir buenos prompts: las técnicas en las que coinciden",
-      "enlace": "https://wwwhatsnew.com/2026/10/21/como-escribir-buenos-prompts-openai-anthropic-google/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-20T22:00:00Z"
-    },
-    {
-      "titulo": "Menos de 100 caracteres, 1.200 webs atacadas y más de 100 comprometidas: así está cambiando la IA la ciberseguridad",
-      "resumen": "Durante años hemos asumido que la ciberseguridad era una carrera de fondo: alguien encontraba una vulnerabilidad, otro intentaba cerrarla y, entre medias, hacían falta tiempo, conocimientos y bastante trabajo humano para",
-      "enlace": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad",
-      "medio": "Xataka",
-      "fecha": "2026-10-20T19:31:40Z"
-    },
-    {
-      "titulo": "EEUU ordena eliminar DeepSeek de todos los sistemas de sus agencias civiles federales",
-      "resumen": "DeepSeek lleva meses en el centro de una disputa que va mucho más allá de quién tiene el modelo de inteligencia artificial más capaz o más barato. Desde que irrumpió con R1, la compañía china ha quedado bajo el escrutini",
-      "enlace": "https://www.xataka.com/robotica-e-ia/eeuu-ordena-eliminar-deepseek-sistemas-sus-agencias-civiles-federales-veto-va-todavia-alla",
-      "medio": "Xataka",
-      "fecha": "2026-10-20T17:00:00Z"
-    },
-    {
-      "titulo": "Google DeepMind presume de haber batido a Minecraft con agentes controlados por Gemini 4 Argon en apenas 27 horas",
-      "resumen": "'Minecraft' no es sólo uno de los juegos más exitosos de la historia y una base genial tanto para divertirse como para aprender. El título de Mojang lleva años usándose para medir de qué son capaces los modelos de inteli",
-      "enlace": "https://www.xataka.com/videojuegos/google-deepmind-presume-haber-batido-a-minecraft-agentes-controlados-gemini-4-argon-apenas-27-horas",
-      "medio": "Xataka",
-      "fecha": "2026-10-20T13:01:42Z"
-    },
-    {
-      "titulo": "He usado la IA para \"tontificar\" a mi tele. Paradójicamente, ahora funciona mucho mejor",
-      "resumen": "El domingo por la tarde, como quien no quiere la cosa, veo un tuit curioso de Monos Estocásticos. En él citaban otro tuit de un usuario llamado @gathint con un descubrimiento llamativo. Ese usuario (o usuaria) había \"vib",
-      "enlace": "https://www.xataka.com/televisores/ultima-sensacion-viral-ia-eliminar-anuncios-bloatware-smart-tv-he-tontificado-mi-chromecast-maravilloso",
-      "medio": "Xataka",
-      "fecha": "2026-10-20T11:15:00Z"
-    },
-    {
-      "titulo": "El phishing ya se escribe para dos lectores: tú y el asistente de IA que te resume el correo",
-      "resumen": "Los correos de phishing esconden instrucciones para el asistente de IA que te los resume. Barracuda documenta el patrón; la técnica no es nueva.La noticia El phishing ya se escribe para dos lectores: tú y el asistente de",
-      "enlace": "https://wwwhatsnew.com/2026/10/20/phishing-doble-objetivo-asistentes-ia-inyeccion-prompts/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-20T10:00:51Z"
-    },
-    {
       "titulo": "El control del dato y el cloud soberano centran el Foro de Soberanía Digital 2026",
       "resumen": "Directivos de TI de empresas como Acciona, Reale Group y Singular Bank abordarán el próximo 4 de noviembre en Madrid cómo equilibrar la adopción de inteligencia artificial con la gobernanza, el cumplimiento normativo y l",
       "enlace": "https://www.computing.es/noticias/el-control-del-dato-y-el-cloud-soberano-centran-el-soberania-digital-forum-2026/",
@@ -107,88 +191,11 @@
       "fecha": "2026-10-20T05:57:23Z"
     },
     {
-      "titulo": "Las imágenes retocadas con IA duplican los errores de memoria, pero el punto de partida ya era malo: esto es lo que dice el estudio",
-      "resumen": "Un estudio del MIT midió cuántos errores de memoria causan las imágenes retocadas con IA: del 18,9 % al 38,7 %. Y el escepticismo no protegió.La noticia Las imágenes retocadas con IA duplican los errores de memoria, pero",
-      "enlace": "https://wwwhatsnew.com/2026/10/20/imagenes-editadas-ia-recuerdos-falsos-estudio-mit/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-19T22:00:53Z"
-    },
-    {
-      "titulo": "Las ofertas de trabajo en ciberseguridad caen un 26% en EEUU, las de ciberseguridad aplicada a IA suben un 268%",
-      "resumen": "Imaginemos una empresa que comienza a incorporar inteligencia artificial a sus servicios. Además de proteger sus sistemas habituales, ahora debe prestar atención a los datos que utilizan sus modelos, las personas que pue",
-      "enlace": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268",
-      "medio": "Xataka",
-      "fecha": "2026-10-19T19:00:00Z"
-    },
-    {
-      "titulo": "En Extremadura ya hay \"perros-robot\" patrullando los viñedos, recopilando datos y ayudando a los agricultores",
-      "resumen": "Un pequeño amigo artificial de cuatro patas ha aterrizado en tierras extremeñas. Y es que el proyecto denominado como ‘AGRHOUND’ está probando perros robots para que puedan aprender a caminar entre viñedos y túneles de b",
-      "enlace": "https://www.xataka.com/robotica-e-ia/perro-robot-ia-patrulla-cultivos-extremadura-su-mision-ponerle-patas-a-agricultura-precision",
-      "medio": "Xataka",
-      "fecha": "2026-10-19T17:00:00Z"
-    },
-    {
-      "titulo": "La solución de Anthropic a la supuesta amenaza existencial que la IA plantea es regalar el 5% de sus acciones a la humanidad",
-      "resumen": "Una de las grandes incógnitas que a día de hoy todavía no hemos despejado es hasta qué punto afectará la llegada de la IA al mercado laboral. Existen estudio y conclusiones de todo tipo: desde las que apuntan a una destr",
-      "enlace": "https://www.xataka.com/empresas-y-economia/anthropic-propone-destinar-5-sus-acciones-a-fondo-que-podria-abordar-impacto-laboral-ia",
-      "medio": "Xataka",
-      "fecha": "2026-10-19T16:17:00Z"
-    },
-    {
       "titulo": "Más ciberresiliencia para fortalecer la IA soberana",
       "resumen": "A medida que el concepto de IA soberana gana peso en Europa, el objetivo ya no es únicamente controlar la ubicación de los datos, sino alcanzar una confianza operativa integral L'articolo Más ciberresiliencia para fortal",
       "enlace": "https://www.computing.es/seguridad/mas-ciberresiliencia-para-fortalecer-la-ia-soberana/",
       "medio": "Computing.es",
       "fecha": "2026-10-19T14:22:21Z"
-    },
-    {
-      "titulo": "Cómo comprobar si un estudio, una cita o una ley que te da una IA existen de verdad",
-      "resumen": "Un tribunal multó a un abogado por citar 25 sentencias inexistentes. Cómo comprobar con DOI, BOE y búsqueda exacta si lo que te da una IA es real.La noticia Cómo comprobar si un estudio, una cita o una ley que te da una ",
-      "enlace": "https://wwwhatsnew.com/2026/10/19/comprobar-estudio-cita-ley-ia-existe/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-19T14:00:00Z"
-    },
-    {
-      "titulo": "Amazon está demostrando en tiempo real que la IA ni crea ni destruye empleo, simplemente lo desplaza",
-      "resumen": "Sam Altman ya puso sobre la mesa que la IA estaba siendo una de las mejores excusas de las grandes tecnológicas para justificar las rondas de despidos que se han venido produciendo en 2026. Sin embargo, durante una entre",
-      "enlace": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
-      "medio": "Xataka",
-      "fecha": "2026-10-19T13:15:00Z"
-    },
-    {
-      "titulo": "Europa también compite (II): las cinco startups de medicina que debes tener en el radar",
-      "resumen": "A la hora de abordar el campo médico hay muchos elementos en los que fijarse. En esta área, la atención no se encuentra tan focalizada como en otras, como en inteligencia artificial, donde hay un [&#8230;] Europa también",
-      "enlace": "https://blogthinkbig.com/europa-tambien-compite-2-startups-medicina",
-      "medio": "Think Big",
-      "fecha": "2026-10-19T09:00:00Z"
-    },
-    {
-      "titulo": "Cuánta energía y agua gasta de verdad una pregunta a la IA (y por qué nadie da la misma cifra)",
-      "resumen": "Google dice 0,26 ml de agua por pregunta a Gemini; Mistral, 45 ml por respuesta. Por qué las cifras del consumo de la IA no encajan y qué miden.La noticia Cuánta energía y agua gasta de verdad una pregunta a la IA (y por",
-      "enlace": "https://wwwhatsnew.com/2026/10/19/cuanta-energia-agua-gasta-pregunta-ia/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-18T22:00:00Z"
-    },
-    {
-      "titulo": "Por qué la IA «se olvida» de lo que le dijiste al principio: tokens y ventana de contexto sin jerga",
-      "resumen": "Un modelo con 1 millón de tokens también olvida. Qué es la ventana de contexto, el efecto \"Lost in the Middle\" y seis hábitos para evitarlo.La noticia Por qué la IA «se olvida» de lo que le dijiste al principio: tokens y",
-      "enlace": "https://wwwhatsnew.com/2026/10/18/ia-se-olvida-tokens-ventana-de-contexto/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-18T18:00:00Z"
-    },
-    {
-      "titulo": "Una IA diseña hierro fabricado con 100 % de chatarra que aprovecha sus impurezas en lugar de diluirlas",
-      "resumen": "Una IA diseña fundición de hierro con 100 % chatarra aprovechando el cobre y otras impurezas: hasta 15 % más resistencia o 73 % más alargamiento.La noticia Una IA diseña hierro fabricado con 100 % de chatarra que aprovec",
-      "enlace": "https://wwwhatsnew.com/2026/10/18/ia-disena-fundicion-hierro-chatarra-impurezas-cobre/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-18T12:00:00Z"
-    },
-    {
-      "titulo": "29 usos de agentes IA como Instinct o Muse que nadie te ha contado",
-      "resumen": "ChatGPT, Claude, Gemini y Grok ya no son simples chatbots a los que puedes preguntar cualquier cosa y obtener una respuesta. Ahora todas estas inteligencias artificiales tienen una herramienta que está cambiando la forma",
-      "enlace": "https://blogthinkbig.com/29-usos-de-agentes-ia-como-instinct-o-muse-que-nadie-te-ha-contado",
-      "medio": "Think Big",
-      "fecha": "2026-10-17T10:01:00Z"
     },
     {
       "titulo": "Las incongruencias de Siri AI: sus \"nuevos\" requisitos ponen en duda que no pueda llegar a iPhone antiguos",
@@ -203,16 +210,16 @@
       "enlace": "https://www.genbeta.com/actualidad/openai-despide-a-tres-trabajadores-manejar-manera-inapropiada-informacion-sensible",
       "medio": "Genbeta",
       "fecha": "2026-10-16T14:00:27Z"
-    },
-    {
-      "titulo": "Cómo tener ChatGPT Plus gratis [2026]",
-      "resumen": "ChatGPT es el asistente inteligente más popular, aunque existe una feroz competencia entre el asistente de OpenAI y alternativas como Claude, Copilot, Gemini o Grok, entre muchos otros. Y como la infraestructura necesari",
-      "enlace": "https://blogthinkbig.com/chatgpt-plus-gratis-promociones-ofertas-descuentos",
-      "medio": "Think Big",
-      "fecha": "2026-10-16T10:01:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Walmart deja comprar a los agentes de IA y Amazon los demanda: dos apuestas opuestas sobre quién manda en el comercio",
+      "resumen": "Walmart abre un canal para que los agentes de IA compren con límites de gasto. Amazon hace lo contrario: demanda y bloquea. Qué implica para el usuario.La noticia Walmart deja comprar a los agentes de IA y Amazon los dem",
+      "enlace": "https://wwwhatsnew.com/2026/10/24/walmart-agent-gateway-agentes-ia-compras-amazon-bloqueo/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-24T00:00:00Z"
+    },
     {
       "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
       "resumen": "Los medicamentos, los aviones y los coches tienen normas de seguridad que no dependen de que el fabricante se las ponga a sí mismo. Bill Gates cree que con la inteligencia artificial toca lo mismo. Lo dijo el domingo 27 ",
@@ -345,13 +352,6 @@
       "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
       "medio": "Genbeta",
       "fecha": "2025-12-03T07:41:00Z"
-    },
-    {
-      "titulo": "Un adolescente creó una imagen de su compañera desnuda usando IA. A sus padres les ha caído una multa de 2.000 euros",
-      "resumen": "En España se ha impuesto por primera vez una sanción administrativa relacionada con la creación y difusión de imágenes falsas generadas con inteligencia artificial. Los padres de un menor deberán pagar a la AEPD una mult",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/adolescente-creo-imagen-su-companera-desnuda-usando-ia-a-sus-padres-les-ha-caido-multa-2-000-euros",
-      "medio": "Genbeta",
-      "fecha": "2025-11-06T16:59:14Z"
     }
   ]
 }

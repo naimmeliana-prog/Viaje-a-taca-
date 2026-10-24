@@ -8391,7 +8391,7 @@
     "fecha_agregado": "2026-07-19",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 1
   },
   {
     "nombre": "Vertu AI Agent",
@@ -10844,7 +10844,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Airtop for Google Ads Automation",
@@ -12044,7 +12044,7 @@
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Gotcha",
@@ -18789,7 +18789,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Mistral Large 4",
@@ -19037,7 +19037,7 @@
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "OpenPilot",
@@ -19061,14 +19061,14 @@
     ],
     "etica": "Al ejecutar modelos localmente, se reduce el riesgo de privacidad, pero los sesgos del modelo dependen de su entrenamiento.",
     "limite_gratis": "Totalmente gratuito, pero el rendimiento depende del hardware del usuario.",
-    "web": "https://www.producthunt.com/products/openpilot",
+    "web": "https://openpilot.in/",
     "id": "openpilot-153159",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Odyssey 3",
@@ -19838,7 +19838,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Plataforma de agentes de IA diseñada para automatizar tareas complejas mediante una interfaz centrada en el usuario.",
-    "web": "",
+    "web": "https://thecraftagents.com/",
     "funciones": [
       "Automatización de tareas complejas",
       "Gestión de flujos de trabajo",
@@ -19862,7 +19862,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "REKI",
@@ -20052,7 +20052,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Train with Pasta",
@@ -20083,7 +20083,7 @@
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Parrot",
@@ -20107,14 +20107,14 @@
     ],
     "etica": "Garantiza la privacidad de las grabaciones y promueve un uso ético de la asistencia durante reuniones.",
     "limite_gratis": "El plan gratuito permite transcribir hasta 30 minutos por reunión y 10 reuniones mensuales.",
-    "web": "https://www.producthunt.com/products/parrot-10",
+    "web": "https://app.parrot.ai/",
     "id": "parrot-e7cb1e",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Framefields",
@@ -20329,7 +20329,7 @@
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "CrawlForge MCP",
@@ -20484,7 +20484,7 @@
     "fecha_agregado": "2026-10-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Tend",
@@ -20513,6 +20513,122 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-22",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Cloudflare Clairic",
+    "descripcion": "Modelo de IA de Cloudflare para extraer datos de forma rápida y económica.",
+    "compania": "Cloudflare",
+    "tipo": "Extracción de datos",
+    "precio": "Freemium",
+    "funciones": [
+      "Extracción de datos de documentos",
+      "Clasificación y limpieza",
+      "Integración mediante API",
+      "Análisis de contenido"
+    ],
+    "caracteristicas": [
+      "Alta velocidad",
+      "Bajo costo",
+      "Escalabilidad",
+      "Red de Cloudflare"
+    ],
+    "etica": "Considera la privacidad y protección de datos en el procesamiento.",
+    "limite_gratis": "Ofrece un nivel gratuito con límites de uso y capacidad.",
+    "web": "https://developers.cloudflare.com/workers-ai/models/clairic/",
+    "id": "cloudflare-clairic-1b1a87",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Inyon",
+    "descripcion": "Asistente de programación que permite responder a los agentes de código desde el móvil.",
+    "compania": "Inyon",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Revisión de código",
+      "Corrección de bugs",
+      "Generación de comandos",
+      "Explicación de cambios"
+    ],
+    "caracteristicas": [
+      "Acceso móvil",
+      "Contexto para agentes",
+      "Notificaciones",
+      "Colaboración"
+    ],
+    "etica": "Prioriza la seguridad y privacidad del código.",
+    "limite_gratis": "Plan gratuito limitado en funciones básicas.",
+    "web": "https://github.com/Abhash-Chakraborty/inyon",
+    "id": "inyon-eff78d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Context Engine",
+    "descripcion": "Motor de memoria para conectar agentes de IA y miembros humanos del equipo.",
+    "compania": "Context Engine",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Memoria compartida",
+      "Contexto multiagente",
+      "Búsqueda semántica",
+      "Integración con equipos"
+    ],
+    "caracteristicas": [
+      "Memoria persistente",
+      "Contexto unificado",
+      "Uso en equipo",
+      "Flujos de trabajo"
+    ],
+    "etica": "Aborda privacidad y sesgos en la memoria.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://context-engine.ai/",
+    "id": "context-engine-561c18",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Peras",
+    "descripcion": "Herramienta para pausar Claude Code y Codex antes de que consuman demasiado.",
+    "compania": "Peras",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Pausar agentes",
+      "Control de límites",
+      "Monitoreo de uso",
+      "Notificaciones"
+    ],
+    "caracteristicas": [
+      "Integración con Claude Code",
+      "Integración con Codex",
+      "Control de tokens",
+      "Gestión de equipos"
+    ],
+    "etica": "Busca prevenir sobrecarga y fomentar uso responsable.",
+    "limite_gratis": "Plan gratuito con control básico.",
+    "web": "https://peras.app/",
+    "id": "peras-0ac269",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-24",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
