@@ -10821,7 +10821,7 @@
     "tipo": "Agentes IA / Chatbot / Integración empresarial",
     "precio": "Pago",
     "descripcion": "Solución de OpenAI para incorporar agentes de IA en flujos de trabajo internos y atención al cliente.",
-    "web": "",
+    "web": "https://presenceai.app/",
     "funciones": [
       "Crear agentes personalizados con personalidad y tono definidos",
       "Automatizar tickets y solicitudes de soporte",
@@ -10844,7 +10844,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "Sin plan gratuito.",
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Airtop for Google Ads Automation",
@@ -12037,14 +12037,14 @@
     ],
     "etica": "Prioriza la transparencia en el uso de datos y evita sesgos en la automatización. Cumple con estándares de privacidad globales.",
     "limite_gratis": "Sin plan gratuito. Ofrece una prueba de 14 días con acceso completo a todas las funciones.",
-    "web": "",
+    "web": "https://getomniwork.com/",
     "id": "omniwork-faed74",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-08-09",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Gotcha",
@@ -18789,7 +18789,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Mistral Large 4",
@@ -19030,14 +19030,14 @@
     ],
     "etica": "La automatización de referencias puede introducir errores o sesgos si las fuentes no son diversificadas.",
     "limite_gratis": "Plan gratuito con número limitado de búsquedas al mes.",
-    "web": "https://www.producthunt.com/products/refs",
+    "web": "https://refs.video/",
     "id": "refs-11d063",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "OpenPilot",
@@ -20045,14 +20045,14 @@
     ],
     "etica": "Promueve el uso abierto de protocolos y garantiza la seguridad en el desarrollo de servidores MCP.",
     "limite_gratis": "El plan gratuito permite crear hasta 3 servidores MCP y 10 pruebas mensuales.",
-    "web": "https://www.producthunt.com/products/nitrostack",
+    "web": "https://nitrostack.ai/",
     "id": "nitrostack-633665",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Train with Pasta",
@@ -20076,14 +20076,14 @@
     ],
     "etica": "Respetuoso con los datos de salud del usuario y promueve hábitos seguros y sostenibles.",
     "limite_gratis": "Sin plan gratuito",
-    "web": "https://www.producthunt.com/products/train-with-pasta",
+    "web": "https://pppasta.com/",
     "id": "train-with-pasta-4c00c3",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-10-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Parrot",
@@ -20322,14 +20322,14 @@
     ],
     "etica": "Al interactuar con agentes de código, existe el riesgo de que se genere código con vulnerabilidades o sesgos, por lo que el desarrollador debe revisar siempre las sugerencias.",
     "limite_gratis": "Permite usar el chat con agentes de programación de forma gratuita con un número limitado de mensajes o agentes simultáneos.",
-    "web": "https://www.producthunt.com/products/buddylist-2",
+    "web": "https://www.cxgn.cn/en/buddylist",
     "id": "buddylist-7975e7",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-20",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "CrawlForge MCP",
@@ -20484,7 +20484,7 @@
     "fecha_agregado": "2026-10-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Tend",
@@ -20629,6 +20629,327 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-24",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Yourcast 2.0",
+    "compania": "Yourcast Inc.",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Herramienta de resúmenes de IA integrada en Telegram que permite navegar por puntos clave mediante timestamps interactivos.",
+    "web": "http://yourcast.ai/",
+    "funciones": [
+      "Generación de resúmenes de contenido",
+      "Navegación por timestamps interactivos",
+      "Integración directa con Telegram",
+      "Acceso rápido a puntos clave de conversaciones"
+    ],
+    "caracteristicas": [
+      "Resúmenes en tiempo real",
+      "Interfaz intuitiva dentro de Telegram",
+      "Soporte para múltiples formatos de contenido",
+      "Personalización de puntos clave"
+    ],
+    "etica": "Prioriza la privacidad al procesar datos localmente y evita almacenamiento prolongado de información sensible.",
+    "limite_gratis": "El plan gratuito permite hasta 10 resúmenes mensuales con funcionalidad básica.",
+    "id": "yourcast-2-0-a81038",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Nanbeige4.3-33B",
+    "compania": "Proyecto de código abierto comunitario",
+    "tipo": "Asistente de programación",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de lenguaje de 33B parámetros con contexto de 512K, optimizado para codificación agente y rendimiento en entornos de terminal.",
+    "web": "",
+    "funciones": [
+      "Generación de código eficiente",
+      "Soporte para tareas de programación agente",
+      "Alto rendimiento en Terminal-B",
+      "Contexto extenso de 512K tokens"
+    ],
+    "caracteristicas": [
+      "Licencia Apache 2.0",
+      "Código abierto y modificable",
+      "Rendimiento superior en pruebas de terminal",
+      "Compatibilidad con herramientas de desarrollo"
+    ],
+    "etica": "Promueve la transparencia mediante su licencia abierta, aunque puede heredar sesgos de datos de entrenamiento no filtrados.",
+    "limite_gratis": "Acceso completo al modelo y sus funcionalidades sin restricciones.",
+    "id": "nanbeige4-3-33b-889bd3",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Flora",
+    "compania": "NVIDIA",
+    "tipo": "Generación de vídeo",
+    "precio": "Gratuito",
+    "descripcion": "Motor de etiquetado de videos de robots de código abierto, diseñado para reducir costos y mejorar la calidad frente a modelos como GPT-6 Astra.",
+    "web": "https://flora.ai/",
+    "funciones": [
+      "Etiquetado automático de videos para robótica",
+      "Reducción de costos en comparación con modelos comerciales",
+      "Integración con flujos de trabajo de IA",
+      "Soporte para datos de alta resolución"
+    ],
+    "caracteristicas": [
+      "Código abierto y personalizable",
+      "Eficiencia energética en procesamiento",
+      "Calidad de etiquetas superior a GPT-6 Astra",
+      "Compatibilidad con hardware NVIDIA"
+    ],
+    "etica": "Fomenta el uso responsable de datos mediante su licencia abierta, aunque requiere supervisión para evitar sesgos en etiquetas.",
+    "limite_gratis": "Acceso completo al motor y sus funcionalidades sin costo alguno.",
+    "id": "flora-4cde8a",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Moli",
+    "compania": "Moli Technologies",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Navegador headless optimizado para automatizar interacciones web de agentes de IA de forma eficiente y rápida.",
+    "web": "",
+    "funciones": [
+      "Automatización de tareas web para agentes",
+      "Navegación sin interfaz gráfica",
+      "Gestión de sesiones y cookies",
+      "Integración con frameworks de IA"
+    ],
+    "caracteristicas": [
+      "Rendimiento optimizado para agentes",
+      "Soporte para múltiples protocolos web",
+      "Configuración flexible de parámetros",
+      "Compatibilidad con sistemas Linux y Windows"
+    ],
+    "etica": "Diseñado para minimizar el rastro de datos, aunque su uso masivo podría impactar en la carga de servidores web.",
+    "limite_gratis": "El plan gratuito permite 100 sesiones mensuales con funcionalidad básica.",
+    "id": "moli-392426",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "TokenGate",
+    "compania": "TokenGate Labs",
+    "tipo": "Optimización de modelos",
+    "precio": "Gratuito",
+    "descripcion": "Módulo de poda de tokens que acelera el prefill de contexto largo hasta 11.3x, compatible como drop-in para modelos existentes.",
+    "web": "",
+    "funciones": [
+      "Reducción del tiempo de prefill en LLMs",
+      "Integración sin modificaciones en modelos existentes",
+      "Optimización para contextos de gran tamaño",
+      "Soporte para múltiples arquitecturas de modelos"
+    ],
+    "caracteristicas": [
+      "Aceleración de hasta 11.3x en contexto largo",
+      "Implementación como drop-in",
+      "Reducción de consumo de recursos",
+      "Documentación detallada para desarrolladores"
+    ],
+    "etica": "Mejora la eficiencia energética de los modelos, reduciendo su huella de carbono sin comprometer la privacidad de los datos.",
+    "limite_gratis": "Acceso completo al módulo y su documentación sin restricciones.",
+    "id": "tokengate-6f40d4",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Specsight",
+    "compania": "Specsight Inc.",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "descripcion": "Plataforma de observabilidad que proporciona métricas y análisis para equipos que despliegan aplicaciones con IA de forma rápida.",
+    "web": "https://specsight.app/",
+    "funciones": [
+      "Monitoreo de rendimiento de aplicaciones de IA",
+      "Generación de insights en tiempo real",
+      "Integración con pipelines de CI/CD",
+      "Alertas automatizadas para anomalías"
+    ],
+    "caracteristicas": [
+      "Visualización de métricas clave",
+      "Soporte para múltiples frameworks de IA",
+      "Colaboración en equipos multidisciplinarios",
+      "Escalabilidad para despliegues grandes"
+    ],
+    "etica": "Garantiza la transparencia en el uso de datos mediante auditorías, aunque requiere configuración para evitar sesgos en métricas.",
+    "limite_gratis": "El plan gratuito incluye 1000 eventos mensuales y 3 usuarios.",
+    "id": "specsight-7c5056",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "OSS Scanner",
+    "compania": "Anthropic",
+    "tipo": "Seguridad",
+    "precio": "Gratuito",
+    "descripcion": "Escáner gratuito y opt-in para proyectos de código crítico que detecta vulnerabilidades en código abierto.",
+    "web": "https://red.anthropic.com/oss-scanner/",
+    "funciones": [
+      "Análisis de dependencias de código abierto",
+      "Detección de vulnerabilidades conocidas",
+      "Integración con repositorios de código",
+      "Generación de informes de seguridad"
+    ],
+    "caracteristicas": [
+      "Enfoque en proyectos críticos",
+      "Actualizaciones en tiempo real de bases de datos de vulnerabilidades",
+      "Soporte para múltiples lenguajes de programación",
+      "Interfaz simple para equipos de desarrollo"
+    ],
+    "etica": "Prioriza la seguridad de proyectos críticos mediante un enfoque opt-in, respetando la privacidad de los datos de los usuarios.",
+    "limite_gratis": "Acceso completo al escáner y sus funcionalidades sin costo alguno.",
+    "id": "oss-scanner-93da4e",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Llama Windows",
+    "descripcion": "Servidor local de IA para Windows que permite ejecutar modelos de lenguaje directamente en dispositivos sin conexión.",
+    "compania": "Meta",
+    "tipo": "Servidor local",
+    "precio": "Gratuito",
+    "funciones": [
+      "Ejecución de modelos Llama en Windows",
+      "Procesamiento local de datos sensibles",
+      "Integración con aplicaciones de Windows",
+      "Soporte para múltiples versiones de Llama"
+    ],
+    "caracteristicas": [
+      "Sin dependencia de conexión a internet",
+      "Compatibilidad con hardware estándar",
+      "Herramientas de despliegue simplificadas",
+      "Soporte para modelos de hasta 70B parámetros"
+    ],
+    "etica": "Protege la privacidad al mantener los datos localmente, aunque su uso requiere hardware potente que podría limitar acceso equitativo.",
+    "limite_gratis": "Acceso completo al servidor y modelos base sin restricciones.",
+    "web": "https://www.producthunt.com/products/llama-windows",
+    "id": "llama-windows-0a8e88",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AgentGrid.io",
+    "descripcion": "Plataforma de espacio compartido que permite colaborar entre humanos y agentes de IA en proyectos complejos.",
+    "compania": "AgentGrid Technologies",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Colaboración en tiempo real entre humanos y agentes",
+      "Gestión de tareas distribuidas",
+      "Visualización de flujos de trabajo",
+      "Integración con herramientas de IA externas"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva para equipos multidisciplinarios",
+      "Soporte para múltiples agentes simultáneos",
+      "Control de versiones y auditoría",
+      "Escalabilidad para proyectos grandes"
+    ],
+    "etica": "Fomenta la transparencia en la colaboración, aunque requiere supervisión para evitar dependencia excesiva de agentes automatizados.",
+    "limite_gratis": "El plan gratuito permite 5 usuarios y 100 tareas mensuales.",
+    "web": "https://agentgrid.io/",
+    "id": "agentgrid-io-38b060",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "1Password for Agents",
+    "descripcion": "Solución que permite a agentes de IA iniciar sesión en servicios sin exponer contraseñas, integrada con 1Password.",
+    "compania": "1Password",
+    "tipo": "Seguridad",
+    "precio": "Pago",
+    "funciones": [
+      "Gestión segura de credenciales para agentes",
+      "Autenticación sin revelar contraseñas",
+      "Integración con flujos de trabajo de automatización",
+      "Auditoría de accesos de agentes"
+    ],
+    "caracteristicas": [
+      "Cifrado de extremo a extremo",
+      "Soporte para múltiples proveedores de identidad",
+      "Control granular de permisos",
+      "Compatibilidad con agentes de IA populares"
+    ],
+    "etica": "Protege la privacidad de los usuarios mediante cifrado avanzado, aunque su uso comercial podría centralizar riesgos si no se gestiona correctamente.",
+    "limite_gratis": "Sin plan gratuito.",
+    "web": "https://1password.com/personal-ai-agent-integrations",
+    "id": "1password-for-agents-7d2664",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Basedash Scheduled CSV Exports",
+    "descripcion": "Herramienta que automatiza la exportación de datos en formato CSV, entregándolos de forma programada en Slack o por correo electrónico.",
+    "compania": "Basedash",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Configurar exportaciones CSV con una sola consulta",
+      "Programar envíos periódicos a Slack o email",
+      "Actualización automática de datos semanalmente",
+      "Integración con plataformas de colaboración",
+      "Gestión de consultas de datos reutilizables"
+    ],
+    "caracteristicas": [
+      "Frecuencia de exportación semanal",
+      "Interfaz sencilla para configuración única",
+      "Compatibilidad con Slack y servicios de email",
+      "Automatización de flujos de trabajo de datos",
+      "Notificaciones de envío incluidas"
+    ],
+    "etica": "Asegura la privacidad de los datos exportados mediante encriptación, pero los usuarios deben gestionar permisos para evitar accesos no autorizados. Podría haber sesgos si las consultas no están bien definidas.",
+    "limite_gratis": "El plan gratuito incluye exportaciones básicas con limitaciones en la frecuencia o el volumen de datos.",
+    "web": "https://www.basedash.com/",
+    "id": "basedash-scheduled-csv-exports-814720",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-26",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

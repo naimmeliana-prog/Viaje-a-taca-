@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-24T01:20:07Z",
+  "actualizado": "2026-10-26T00:54:18Z",
   "novedades": [
+    {
+      "titulo": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
+      "resumen": "Ante un futuro donde la IA tengo un papel esencial en la mayoría de procesos productivos, ¿dónde querría tener una empresa europea sus datos? Joe Tsai, presidente y cofundador de Alibaba, lo tiene claro: no en una API ce",
+      "enlace": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
+      "medio": "Xataka",
+      "fecha": "2026-10-25T17:30:11Z"
+    },
+    {
+      "titulo": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
+      "resumen": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden ",
+      "enlace": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
+      "medio": "Xataka",
+      "fecha": "2026-10-25T10:30:00Z"
+    },
+    {
+      "titulo": "Desarrollador de centro de datos de Pennsylvania ofrece 10.000 dólares a 4.500 hogares; los residentes se niegan, diciendo que el dinero no es suficiente",
+      "resumen": "NorthPoint Development está ofreciendo 10.000 dólares a cada hogar elegible si un proyecto de centros de datos llamado Hazelnut avanza en Hazle Township, Pennsylvania. La oferta se extendería a unos 4.500 hogares y sumar",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/desarrollador-centro-datos-pennsylvania-ofrece-10-000-dolares-a-4-500-hogares-residentes-se-niegan-diciendo-que-dinero-no-suficiente",
+      "medio": "Genbeta",
+      "fecha": "2026-10-25T09:00:08Z"
+    },
+    {
+      "titulo": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
+      "resumen": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artific",
+      "enlace": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
+      "medio": "Xataka",
+      "fecha": "2026-10-24T16:30:10Z"
+    },
+    {
+      "titulo": "Recursive lanza Flint, un modelo de código abierto que, según la empresa, construyó en gran parte su propia IA",
+      "resumen": "Recursive publica Flint con pesos abiertos y dice que su IA construyó casi todo. No hay porcentaje, ni auditoría, y el «portátil» pide 48 GB.La noticia Recursive lanza Flint, un modelo de código abierto que, según la emp",
+      "enlace": "https://wwwhatsnew.com/2026/10/24/recursive-flint-modelo-abierto-construido-por-ia-reclamo/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-24T12:00:00Z"
+    },
+    {
+      "titulo": "Pangram ve un 99% de IA en la novela premiada 'Donde el agua trabaja'. El problema es el de siempre: no hay detector infalible",
+      "resumen": "La novela 'Donde el agua trabaja' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat, dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En sus ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
+      "medio": "Xataka",
+      "fecha": "2026-10-24T10:00:00Z"
+    },
+    {
+      "titulo": "Just Eat pausa sus fotos de comida hechas con IA: el fallo no es la calidad, es que no entiende el vocabulario local",
+      "resumen": "Just Eat pausa sus fotos de platos generadas con IA tras errores como bacon flotando en un refresco. El fallo es de vocabulario local, no de calidad.La noticia Just Eat pausa sus fotos de comida hechas con IA: el fallo n",
+      "enlace": "https://wwwhatsnew.com/2026/10/24/just-eat-pausa-fotos-comida-generadas-ia-errores/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-24T04:00:00Z"
+    },
+    {
+      "titulo": "Dos agentes internos de OpenAI debilitaron la vigilancia de su propio comportamiento para acabar una tarea, y uno negó haberlo hecho",
+      "resumen": "Dos agentes internos de OpenAI silenciaron las alertas de su propio sistema de vigilancia para acabar una tarea. La empresa dice no saber por qué.La noticia Dos agentes internos de OpenAI debilitaron la vigilancia de su ",
+      "enlace": "https://wwwhatsnew.com/2026/10/24/openai-agentes-silenciaron-alertas-monitorizacion-desalineamiento/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-24T02:00:00Z"
+    },
     {
       "titulo": "Walmart deja comprar a los agentes de IA y Amazon los demanda: dos apuestas opuestas sobre quién manda en el comercio",
       "resumen": "Walmart abre un canal para que los agentes de IA compren con límites de gasto. Amazon hace lo contrario: demanda y bloquea. Qué implica para el usuario.La noticia Walmart deja comprar a los agentes de IA y Amazon los dem",
@@ -51,13 +107,6 @@
       "fecha": "2026-10-23T15:00:11Z"
     },
     {
-      "titulo": "Una palabra oculta en el entrenamiento basta para que un robot con IA ejecute un plan dañino: el 99 % de las veces funciona",
-      "resumen": "Un trabajo de Binghamton deja una puerta trasera en un robot con IA sin tocar el robot ni el modelo. Funciona el 99 % de las veces y no se nota.La noticia Una palabra oculta en el entrenamiento basta para que un robot co",
-      "enlace": "https://wwwhatsnew.com/2026/10/23/puerta-trasera-robot-ia-disparador-binghamton-mutrap/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-23T13:00:51Z"
-    },
-    {
       "titulo": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
       "resumen": "Vamos a tener que acostumbrarnos a los agentes de IA. En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y co",
       "enlace": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
@@ -84,41 +133,6 @@
       "enlace": "https://www.computing.es/noticias/el-reto-de-la-ia-no-es-consumir-mas-tokens-sino-generar-valor/",
       "medio": "Computing.es",
       "fecha": "2026-10-23T08:16:42Z"
-    },
-    {
-      "titulo": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
-      "resumen": "Cuando una persona es diagnosticada de cáncer, es importante comenzar el tratamiento lo más pronto posible. Pero el problema al que se enfrentan los oncólogos aquí es el hecho de decidir cuál es el mejor tratamiento que ",
-      "enlace": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
-      "medio": "Xataka",
-      "fecha": "2026-10-22T19:00:11Z"
-    },
-    {
-      "titulo": "Anthropic muestra el efecto de la IA en el empleo junior: del 27% al 9% de nuevas contrataciones",
-      "resumen": "Que la IA va a marcar un antes y un después en todos los estratos del mercado laboral ya nadie lo duda. Pero ante la falta de datos concluyentes sobre el efecto de esta tecnología en la destrucción de empleos, hay voces ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-muestra-efecto-ia-empleo-junior-27-al-9-nuevas-contrataciones",
-      "medio": "Xataka",
-      "fecha": "2026-10-22T18:16:11Z"
-    },
-    {
-      "titulo": "Los agentes de IA ya se mueven por cuentas bancarias y algunas entidades de EEUU se preparan para lo peor",
-      "resumen": "Agentes, agentes y más agentes. Estos sistemas de inteligencia artificial capaces de ejecutar tareas con cierto grado de autonomía están apareciendo en servicios, aplicaciones y herramientas que utilizamos cada día. Y ah",
-      "enlace": "https://www.xataka.com/robotica-e-ia/agentes-ia-se-mueven-cuentas-bancarias-algunas-entidades-eeuu-se-preparan-para-peor",
-      "medio": "Xataka",
-      "fecha": "2026-10-22T17:34:07Z"
-    },
-    {
-      "titulo": "Gemini ya responde en el coche con tus correos, tu calendario y tus fotos: pero no en España",
-      "resumen": "Gemini ya usa tu Gmail, calendario y fotos para responder en el coche. Google dice que llega globalmente, pero excluye todo el EEE, incluida España.La noticia Gemini ya responde en el coche con tus correos, tu calendario",
-      "enlace": "https://wwwhatsnew.com/2026/10/22/gemini-personal-intelligence-coche-android-auto-no-espana/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-22T17:00:47Z"
-    },
-    {
-      "titulo": "Gemini se vuelve \"personal\" en el coche: tendrá acceso a tu Gmail, Calendar y Maps mientras conduces",
-      "resumen": "Google se está poniendo las pilas con Gemini en el coche, permitiendo que el asistentede IA pueda ahora inspeccionartus datosen servicios comoGmail, Calendar, Fotos, Maps, YouTube y Search para respondertodo tipo depregu",
-      "enlace": "https://www.xataka.com/robotica-e-ia/gemini-se-vuelve-personal-coche-tendra-acceso-a-tu-gmail-calendar-maps-conduces",
-      "medio": "Xataka",
-      "fecha": "2026-10-22T14:30:11Z"
     },
     {
       "titulo": "Claude Code detecta un minero de criptomonedas oculto en el Mac de un usuario",
@@ -196,23 +210,23 @@
       "enlace": "https://www.computing.es/seguridad/mas-ciberresiliencia-para-fortalecer-la-ia-soberana/",
       "medio": "Computing.es",
       "fecha": "2026-10-19T14:22:21Z"
-    },
-    {
-      "titulo": "Las incongruencias de Siri AI: sus \"nuevos\" requisitos ponen en duda que no pueda llegar a iPhone antiguos",
-      "resumen": "Que buena parte de la nueva Siri AI se ejecute en local es el argumento utilizado por Apple para que únicamente sea compatible con iPhone 15 Pro y modelos posteriores, los cuales tienen al menos un chip A17 Pro y 8 GB de",
-      "enlace": "https://www.applesfera.com/iphone/incongruencias-siri-ai-sus-nuevos-requisitos-ponen-duda-que-no-pueda-llegar-a-iphone-antiguos",
-      "medio": "Applesfera",
-      "fecha": "2026-10-16T16:00:28Z"
-    },
-    {
-      "titulo": "OpenAI despide a tres trabajadores por manejar de manera inapropiada “información sensible”",
-      "resumen": "El 30 de septiembre, Chris Painter, de METR, declaró ante un subcomité del Senado de EE. UU. que OpenAI había invitado a “un puñado” de sus colegas a entrar en sus oficinas para averiguar cómo agentes de IA de la propia ",
-      "enlace": "https://www.genbeta.com/actualidad/openai-despide-a-tres-trabajadores-manejar-manera-inapropiada-informacion-sensible",
-      "medio": "Genbeta",
-      "fecha": "2026-10-16T14:00:27Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
+      "resumen": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden ",
+      "enlace": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
+      "medio": "Xataka",
+      "fecha": "2026-10-25T10:30:00Z"
+    },
+    {
+      "titulo": "Dos agentes internos de OpenAI debilitaron la vigilancia de su propio comportamiento para acabar una tarea, y uno negó haberlo hecho",
+      "resumen": "Dos agentes internos de OpenAI silenciaron las alertas de su propio sistema de vigilancia para acabar una tarea. La empresa dice no saber por qué.La noticia Dos agentes internos de OpenAI debilitaron la vigilancia de su ",
+      "enlace": "https://wwwhatsnew.com/2026/10/24/openai-agentes-silenciaron-alertas-monitorizacion-desalineamiento/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-24T02:00:00Z"
+    },
     {
       "titulo": "Walmart deja comprar a los agentes de IA y Amazon los demanda: dos apuestas opuestas sobre quién manda en el comercio",
       "resumen": "Walmart abre un canal para que los agentes de IA compren con límites de gasto. Amazon hace lo contrario: demanda y bloquea. Qué implica para el usuario.La noticia Walmart deja comprar a los agentes de IA y Amazon los dem",
@@ -338,20 +352,6 @@
       "enlace": "https://www.xatakandroid.com/personalizacion/me-he-quedado-wrapped-youtube-gemini-este-fin-ano-no-tengo-solo-resumen-culpa-solo-mia",
       "medio": "Xataka Android",
       "fecha": "2025-12-15T10:00:00Z"
-    },
-    {
-      "titulo": "Un hacker encontró riesgos en una baliza V16 muy vendida, la Help Flash IoT. Vodafone y la empresa fabricante han aclarado qué pasa",
-      "resumen": "Con el propósito de \"lograr una mejor en cuanto la seguridad vial y la reducción de accidentes\", ha nacido el dispositivo V16 que a partir del 1 de enero va a reemplazar a los tradicionales triángulos de preseñalización ",
-      "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
-      "medio": "Genbeta",
-      "fecha": "2025-12-11T12:32:00Z"
-    },
-    {
-      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
-      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
-      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
-      "medio": "Genbeta",
-      "fecha": "2025-12-03T07:41:00Z"
     }
   ]
 }
