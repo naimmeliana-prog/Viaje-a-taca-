@@ -3920,7 +3920,7 @@
     ],
     "etica": "Polygraph cifra todas las comunicaciones y permite al usuario controlar qué repositorios son accesibles, reduciendo riesgos de exposición de código confidencial y sesgos en las recomendaciones.",
     "limite_gratis": "Plan gratuito con acceso a 3 repositorios y 500 MB de memoria de sesión por mes.",
-    "web": "https://www.polygraph.so/",
+    "web": "https://trypolygraph.com/",
     "id": "polygraph-80e3a7",
     "gratis": true,
     "pago": true,
@@ -8360,7 +8360,7 @@
     "tipo": "Productividad / Gestión de documentos",
     "precio": "Freemium",
     "descripcion": "Convierte fuentes de conocimiento fragmentadas en un sistema unificado y searchable, simplificando la recuperación de información y la toma de decisiones.",
-    "web": "https://www.docusmart.eu/",
+    "web": "https://www.docusmartaiforce.com/en/",
     "funciones": [
       "Indexación automática de documentos y archivos",
       "Búsqueda semántica y recuperación de contexto",
@@ -18789,7 +18789,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "Mistral Large 4",
@@ -20484,7 +20484,7 @@
     "fecha_agregado": "2026-10-22",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Tend",
@@ -20668,7 +20668,7 @@
     "tipo": "Asistente de programación",
     "precio": "Gratuito",
     "descripcion": "Modelo de lenguaje de 33B parámetros con contexto de 512K, optimizado para codificación agente y rendimiento en entornos de terminal.",
-    "web": "",
+    "web": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
     "funciones": [
       "Generación de código eficiente",
       "Soporte para tareas de programación agente",
@@ -20689,7 +20689,7 @@
     "fecha_agregado": "2026-10-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Flora",
@@ -20726,7 +20726,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Navegador headless optimizado para automatizar interacciones web de agentes de IA de forma eficiente y rápida.",
-    "web": "",
+    "web": "https://github.com/lexmount/moli",
     "funciones": [
       "Automatización de tareas web para agentes",
       "Navegación sin interfaz gráfica",
@@ -20747,7 +20747,7 @@
     "fecha_agregado": "2026-10-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "TokenGate",
@@ -20755,7 +20755,7 @@
     "tipo": "Optimización de modelos",
     "precio": "Gratuito",
     "descripcion": "Módulo de poda de tokens que acelera el prefill de contexto largo hasta 11.3x, compatible como drop-in para modelos existentes.",
-    "web": "",
+    "web": "https://tokengate.work/",
     "funciones": [
       "Reducción del tiempo de prefill en LLMs",
       "Integración sin modificaciones en modelos existentes",
@@ -20776,7 +20776,7 @@
     "fecha_agregado": "2026-10-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Specsight",
@@ -20856,14 +20856,14 @@
     ],
     "etica": "Protege la privacidad al mantener los datos localmente, aunque su uso requiere hardware potente que podría limitar acceso equitativo.",
     "limite_gratis": "Acceso completo al servidor y modelos base sin restricciones.",
-    "web": "https://www.producthunt.com/products/llama-windows",
+    "web": "https://llama.app/",
     "id": "llama-windows-0a8e88",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-10-26",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "AgentGrid.io",
@@ -20950,6 +20950,347 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-26",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Spacesheep",
+    "compania": "Spacesheep Studios",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    " descripcion": "Herramienta de IA para crear y gestionar documentos colaborativos de alta calidad.",
+    "web": "https://spacesheep.ai",
+    "funciones": [
+      "Generación de textos creativos",
+      "Diseño de plantillas personalizadas",
+      "Edición de imágenes con IA",
+      "Sugerencias de estilo visual",
+      "Integración con herramientas de diseño"
+    ],
+    "caracteristicas": [
+      "Interfaz intuitiva y amigable",
+      "Soporte multilingüe",
+      "Biblioteca de recursos visuales",
+      "Personalización avanzada",
+      "Exportación en múltiples formatos"
+    ],
+    "etica": "Prioriza la privacidad del usuario y promueve la diversidad en sus sugerencias creativas, mitigando sesgos algorítmicos.",
+    "descripcion": "Asistente de IA para generación de contenido creativo y diseño gráfico, ideal para artistas y diseñadores.",
+    "id": "spacesheep-d6ef0a",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito incluye 10 generaciones mensuales y acceso limitado a plantillas."
+  },
+  {
+    "nombre": "LEANN",
+    "compania": "LEANN Tech",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    " descripcion": "Índice vectorial de código abierto que reduce drásticamente el tamaño de índices RAG manteniendo alta precisión.",
+    "web": "https://github.com/leann-ai/LEANN",
+    "funciones": [
+      "Gestión de proyectos y tareas",
+      "Recordatorios inteligentes",
+      "Análisis de productividad",
+      "Integración con calendarios",
+      "Colaboración en equipo"
+    ],
+    "caracteristicas": [
+      "Interfaz minimalista",
+      "Sincronización en tiempo real",
+      "Alertas personalizadas",
+      "Reportes detallados",
+      "Soporte para múltiples dispositivos"
+    ],
+    "etica": "Garantiza la seguridad de los datos personales y evita el uso de información sensible sin consentimiento explícito.",
+    "descripcion": "Herramienta de gestión de tareas y organización basada en IA, diseñada para optimizar la eficiencia personal y laboral.",
+    "id": "leann-8b733f",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite hasta 5 proyectos activos y 100 tareas mensuales."
+  },
+  {
+    "nombre": "LFM3",
+    "compania": "LFM3 AI",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    " descripcion": "Colección de modelos multimodales de código abierto de 2B de parámetros para texto, visión, audio y decisiones.",
+    "web": "https://liquid.ai/models/lfm3",
+    "funciones": [
+      "Resolución de dudas comunes",
+      "Traducción automática",
+      "Soporte técnico 24/7",
+      "Generación de resúmenes",
+      "Recomendaciones personalizadas"
+    ],
+    "caracteristicas": [
+      "Conexión con bases de datos externas",
+      "Aprendizaje continuo",
+      "Interfaz de chat intuitiva",
+      "Historial de conversaciones",
+      "Integración con aplicaciones populares"
+    ],
+    "etica": "Promueve la transparencia en sus respuestas y evita la generación de contenido ofensivo o discriminatorio.",
+    "descripcion": "Asistente de IA multilingüe para consultas generales, soporte técnico y asistencia en tiempo real.",
+    "id": "lfm3-c14f0e",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito incluye 100 consultas mensuales y acceso limitado a funciones avanzadas."
+  },
+  {
+    "nombre": "NuPlay",
+    "compania": "NuPlay Studios",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    " descripcion": "Plataforma de transformación de IA autorreparable que centraliza procesos de negocio.",
+    "web": "https://nuplay.ai",
+    "funciones": [
+      "Generación de guiones automáticos",
+      "Edición de video con IA",
+      "Plantillas de animación",
+      "Sincronización de audio",
+      "Exportación en alta resolución"
+    ],
+    "caracteristicas": [
+      "Biblioteca de música libre de derechos",
+      "Ajustes de estilo visual",
+      "Colaboración en tiempo real",
+      "Compatibilidad con dispositivos móviles",
+      "Análisis de rendimiento de videos"
+    ],
+    "etica": "Respeta los derechos de autor y promueve la creación de contenido inclusivo y respetuoso.",
+    "descripcion": "Plataforma de IA para crear videos cortos y dinámicos, ideal para redes sociales y contenido promocional.",
+    "id": "nuplay-01ba56",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite 3 videos mensuales con marca de agua y resolución limitada."
+  },
+  {
+    "nombre": "Genie 4",
+    "compania": "Genie AI",
+    "tipo": "Asistente de programación",
+    "precio": "Pago",
+    " descripcion": "Modelo de mundo virtual que genera mundos 3D interactivos con sonido y personajes hablados en tiempo real.",
+    "web": "https://deepmind.google/genie4",
+    "funciones": [
+      "Generación de código en múltiples lenguajes",
+      "Detección y corrección de errores",
+      "Documentación automática",
+      "Optimización de algoritmos",
+      "Integración con entornos de desarrollo"
+    ],
+    "caracteristicas": [
+      "Soporte para frameworks populares",
+      "Análisis de complejidad algorítmica",
+      "Sugerencias de buenas prácticas",
+      "Compatibilidad con sistemas operativos",
+      "Actualizaciones constantes de modelos"
+    ],
+    "etica": "Fomenta la transparencia en el uso de código abierto y evita la generación de soluciones con sesgos técnicos.",
+    "descripcion": "Asistente de IA especializado en programación, que ayuda a desarrolladores a escribir, depurar y optimizar código.",
+    "id": "genie-4-580425",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito."
+  },
+  {
+    "nombre": "Metis Reasoning",
+    "compania": "Metis AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    " descripcion": "Aplica principios de búsqueda de AlphaGo al razonamiento general para reducir alucinaciones en LLM.",
+    "web": "https://metisreasoning.ai",
+    "funciones": [
+      "Análisis de datos estructurados",
+      "Simulación de escenarios",
+      "Generación de hipótesis",
+      "Validación de modelos lógicos",
+      "Visualización de resultados"
+    ],
+    "caracteristicas": [
+      "Interfaz para científicos de datos",
+      "Integración con herramientas de estadística",
+      "Modelos personalizables",
+      "Soporte para múltiples paradigmas lógicos",
+      "Documentación técnica detallada"
+    ],
+    "etica": "Garantiza la imparcialidad en los resultados y promueve el uso responsable de la inteligencia artificial en investigación.",
+    "descripcion": "Plataforma de IA para razonamiento lógico y resolución de problemas complejos, orientada a investigación y análisis de datos.",
+    "id": "metis-reasoning-0af411",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito."
+  },
+  {
+    "nombre": "Off Grid AI",
+    "compania": "Off Grid AI Labs",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    " descripcion": "Herramienta de IA privada que funciona sin conexión en teléfonos y computadoras.",
+    "web": "https://offgridai.com",
+    "funciones": [
+      "Procesamiento de texto sin conexión",
+      "Edición de imágenes local",
+      "Gestión de archivos con IA",
+      "Automatización de tareas repetitivas",
+      "Sincronización segura de datos"
+    ],
+    "caracteristicas": [
+      "Instalación en dispositivos locales",
+      "Cifrado de datos de extremo a extremo",
+      "Interfaz adaptable a distintos sistemas",
+      "Actualizaciones manuales",
+      "Soporte para hardware limitado"
+    ],
+    "etica": "Protege la privacidad al mantener los datos en el dispositivo del usuario y evita la transmisión de información sensible.",
+    "descripcion": "Suite de herramientas de IA para uso offline, diseñada para profesionales que trabajan en entornos sin conexión constante.",
+    "id": "off-grid-ai-f9e626",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito incluye 1 GB de almacenamiento local y acceso a funciones básicas."
+  },
+  {
+    "nombre": "GPT-6.1 Terra",
+    "descripcion": "Modelo de lenguaje avanzado para tareas de programación y uso de computadoras, ofreciendo alto rendimiento a un costo reducido.",
+    "precio": "Pago",
+    "funciones": [
+      "Automatización de tareas en computadora",
+      "Generación de scripts complejos",
+      "Interacción con interfaces gráficas",
+      "Análisis de código en tiempo real",
+      "Integración con sistemas operativos"
+    ],
+    "caracteristicas": [
+      "Velocidad optimizada para tareas intensivas",
+      "Soporte para múltiples sistemas operativos",
+      "Licencia flexible para empresas",
+      "Documentación técnica extensa",
+      "Actualizaciones periódicas de capacidades"
+    ],
+    "etica": "Ofrece transparencia en sus operaciones y promueve el uso eficiente de recursos computacionales.",
+    "web": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "tipo": "Asistente de programación",
+    "compania": "Terra AI",
+    "id": "gpt-6-1-terra-dbda5d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "NINX",
+    "descripcion": "Solución de IA privada y local para flujos de trabajo creativos, conectada a herramientas profesionales.",
+    "precio": "Pago",
+    "funciones": [
+      "Ejecución de IA en dispositivos locales",
+      "Integración con software de diseño",
+      "Gestión de proyectos creativos",
+      "Automatización de procesos creativos",
+      "Sincronización con herramientas en la nube"
+    ],
+    "caracteristicas": [
+      "Privacidad total de los datos",
+      "Compatibilidad con hardware moderno",
+      "Personalización de modelos",
+      "Soporte para formatos profesionales",
+      "Interfaz modular para desarrolladores"
+    ],
+    "etica": "Garantiza que los datos del usuario permanezcan en su dispositivo y promueve la autonomía creativa.",
+    "web": "https://www.ninx.ai/",
+    "tipo": "Agentes IA",
+    "compania": "NINX AI",
+    "id": "ninx-f3ca74",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Coachare",
+    "descripcion": "Plataforma de IA para desarrollo personal y coaching, que ayuda a usuarios a alcanzar sus metas mediante planes personalizados.",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de planes de acción",
+      "Seguimiento de hábitos",
+      "Recomendaciones de bienestar",
+      "Ejercicios de motivación",
+      "Análisis de progreso"
+    ],
+    "caracteristicas": [
+      "Interfaz adaptativa a necesidades individuales",
+      "Integración con wearables",
+      "Soporte para múltiples objetivos",
+      "Comunicación con coaches humanos",
+      "Historial de logros y métricas"
+    ],
+    "etica": "Respetuoso con la privacidad y promueve el crecimiento personal sin presiones excesivas.",
+    "web": "https://www.producthunt.com/products/coachare",
+    "tipo": "Productividad",
+    "compania": "Coachare Inc.",
+    "id": "coachare-afc70e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-10-28",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito incluye 3 objetivos activos y 10 ejercicios mensuales.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "OpenRadView",
+    "descripcion": "OpenRadView es un visor gratuito y de código abierto para visualizar imágenes de tomografía computarizada (CT), resonancia magnética (MRI) y radiografías, permitiendo a los profesionales de la salud examinar estudios médicos en su propio dispositivo.",
+    "compania": "Open Source Medical Imaging Community",
+    "tipo": "Visualización de imágenes médicas",
+    "precio": "Gratuito",
+    "funciones": [
+      "Visualización de imágenes DICOM y otros formatos médicos",
+      "Herramientas de medición y anotación sobre las imágenes",
+      "Interfaz adaptable para diferentes resoluciones de pantalla",
+      "Exportación de imágenes en formatos estándar",
+      "Compatibilidad con múltiples modalidades de imagen (CT, MRI, rayos X)"
+    ],
+    "caracteristicas": [
+      "Totalmente de código abierto bajo licencia MIT",
+      "Sin costo de licencia, ideal para clínicas y educación",
+      "Funciona en Windows, macOS y Linux",
+      "Escalable para su uso en estaciones de trabajo de alto rendimiento",
+      "Integración con flujos de trabajo DICOM existentes"
+    ],
+    "etica": "Al ser una aplicación local, no transmite datos de pacientes a la nube, reduciendo riesgos de privacidad, aunque los usuarios deben garantizar el cumplimiento normativo y evitar sesgos en las herramientas de medición.",
+    "limite_gratis": "El uso básico del visor es gratuito para fines clínicos y de investigación, pero carece de soporte técnico prioritario y actualizaciones avanzadas disponibles en versiones de pago.",
+    "web": "https://www.producthunt.com/products/openradview",
+    "id": "openradview-9d72a1",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-10-28",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

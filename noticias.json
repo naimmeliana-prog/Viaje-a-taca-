@@ -1,12 +1,103 @@
 {
-  "actualizado": "2026-10-26T00:54:18Z",
+  "actualizado": "2026-10-28T01:59:01Z",
   "novedades": [
+    {
+      "titulo": "Anthropic pide salir a bolsa: ingresa 16.286 millones en seis meses, pierde 80.748 en el papel y deja en blanco las cifras que más importan",
+      "resumen": "Anthropic pide salir a bolsa como «ANT»: 16.286 millones de ingresos en seis meses, pérdida contable de 80.748 millones y cifras clave en blanco.La noticia Anthropic pide salir a bolsa: ingresa 16.286 millones en seis me",
+      "enlace": "https://wwwhatsnew.com/2026/10/27/anthropic-salida-bolsa-s1-ingresos-perdidas-compromisos-computacion/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-27T21:00:00Z"
+    },
+    {
+      "titulo": "GPT-6.1 Terra: OpenAI abarata a la mitad su modelo para usar el ordenador por ti, y los números que lo venden son suyos",
+      "resumen": "OpenAI lanza GPT-6.1 Terra: maneja apps por ti, cuesta la mitad en la API y dice salir nueve veces más barato por tarea que Opus 5.5.La noticia GPT-6.1 Terra: OpenAI abarata a la mitad su modelo para usar el ordenador po",
+      "enlace": "https://wwwhatsnew.com/2026/10/27/gpt-6-1-terra-openai-uso-ordenador-precio-mitad/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-27T20:00:00Z"
+    },
+    {
+      "titulo": "¿Qué están haciendo Spotify, YouTube Music y Apple Music con la música hecha con IA?",
+      "resumen": "La inteligencia artificial también está cambiando la forma en la que escuchamos música. Y no solo porque ahora puedes pedirle a Gemini o ChatGPT que te recomiende canciones, sino porque muchos están usando los modelos [&",
+      "enlace": "https://blogthinkbig.com/que-estan-haciendo-spotify-youtube-music-y-apple-music-con-la-musica-hecha-con-ia",
+      "medio": "Think Big",
+      "fecha": "2026-10-27T16:30:21Z"
+    },
+    {
+      "titulo": "¿Está realmente la IA cambiando la economía? Qué dicen los datos macro y qué lecciones podemos aprender de ello",
+      "resumen": "La inteligencia artificial generativa ha tomado por asalto prácticamente todos los aspectos de nuestra vida cotidiana, y eso no es novedad. El uso de esta tecnología para crear fotos, vídeos, audios, textos, software, si",
+      "enlace": "https://blogthinkbig.com/esta-realmente-la-ia-cambiando-la-economia-que-dicen-los-datos-macro-y-que-lecciones-podemos-aprender-de-ello",
+      "medio": "Think Big",
+      "fecha": "2026-10-27T16:27:46Z"
+    },
+    {
+      "titulo": "Oracle impulsa la IA agéntica orientada a resultados en su AI World 2026 celebrado en Las Vegas",
+      "resumen": "En el marco del encuentro global de la multinacional celebrado en Las Vegas, Oracle ha presentado una nueva generación de soluciones en la nube diseñadas para transformar radicalmente la gestión corporativa L'articolo Or",
+      "enlace": "https://www.computing.es/inteligencia-artificial/oracle-impulsa-la-ia-agentica-orientada-a-resultados-en-su-suite-world-2026-celebrado-en-las-vegas/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-27T08:05:00Z"
+    },
+    {
+      "titulo": "Innovación ante las amenazas de la era cuántica y la IA",
+      "resumen": "David Graciani, vicepresidente de propiedad intelectual de CGI analiza la situación de la innovación en la era dela inteligencia artificial y ante la llegada de la cuántica L'articolo Innovación ante las amenazas de la e",
+      "enlace": "https://www.computing.es/opinion/innovacion-ante-las-amenazas-de-la-era-cuantica-y-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-27T08:00:00Z"
+    },
+    {
+      "titulo": "Deloitte certificó por escrito que no usó IA para redactar un informe, y el PDF lleva incrustado un enlace sacado de ChatGPT",
+      "resumen": "Australia Occidental reclama a Deloitte parte de lo que pagó por un informe con errores. El PDF lleva incrustado un enlace con la etiqueta de ChatGPT.La noticia Deloitte certificó por escrito que no usó IA para redactar ",
+      "enlace": "https://wwwhatsnew.com/2026/10/26/deloitte-australia-occidental-informe-ia-reembolso-chatgpt/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-26T20:00:00Z"
+    },
+    {
+      "titulo": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
+      "resumen": "Se está gastando mucho en IA. Muchísimo. Y son precisamente las cuatro grandes tecnológicas (Meta, Microsoft, Amazon y Google) las que están al frente de ese gasto. Tanto es así, que Microsoft ya ha empezado a dar los pr",
+      "enlace": "https://www.xataka.com/empresas-y-economia/microsoft-va-a-fundir-190-000-millones-dolares-ia-solo-este-ano-ha-hecho-movimiento-obvio-ahora-compania-agentes",
+      "medio": "Xataka",
+      "fecha": "2026-10-26T18:33:23Z"
+    },
+    {
+      "titulo": "Elon Musk, CEO de SpaceX: \"Las neoclouds van a experimentar muertes y consolidaciones a nivel extremo\"",
+      "resumen": "Durante los últimos años hemos visto cómo la carrera por la inteligencia artificial convertía las GPUs en uno de los recursos más codiciados de la industria tecnológica. Pero conseguir esos chips era solo el principio: h",
+      "enlace": "https://www.xataka.com/empresas-y-economia/elon-musk-cree-que-carrera-ia-se-cobrara-nuevas-victimas-neoclouds",
+      "medio": "Xataka",
+      "fecha": "2026-10-26T18:00:00Z"
+    },
+    {
+      "titulo": "Las RTX 5090 se fabricaron para jugar. En China han encontrado un negocio mejor: desmontarlas para la IA",
+      "resumen": "Ver un unicornio es más sencillo que encontrarse con una Nvidia RTX 5090. Diría que hasta es más probable tocar un billete de 500 euros: las tarjetas gráficas de alta capacidad se han puesto inacanzables. Mientras las ti",
+      "enlace": "https://www.xataka.com/componentes/rtx-5090-se-fabricaron-para-jugar-china-han-encontrado-negocio-mejor-desmontarlas-para-ia",
+      "medio": "Xataka",
+      "fecha": "2026-10-26T16:31:27Z"
+    },
+    {
+      "titulo": "Anthropic acaba de dar uno de los pasos más importantes de la industria de la IA: abrir sus cuentas para salir a bolsa",
+      "resumen": "Llevamos todo 2026 hablando de que uno de los puntos clave de la industria de la IA lo marcará el momento en el que OpenAI y Anthropic salgan a bolsa y, al menos en el caso de la segunda, las cosas ya están en marcha. Co",
+      "enlace": "https://www.xataka.com/empresas-y-economia/anthropic-acaba-dar-uno-pasos-importantes-industria-ia-abrir-sus-cuentas-para-salir-a-bolsa",
+      "medio": "Xataka",
+      "fecha": "2026-10-26T14:45:00Z"
+    },
+    {
+      "titulo": "Los hiperescaladores tienen miles de tarjetas de Nvidia guardadas en sus cajas porque no tienen dónde enchufarlas",
+      "resumen": "Cuando hablamos de hiperescaladores, nos referimos a las grandes 'nubes' como Microsoft, Amazon, Google o Meta. Estas empresas llevan meses multiplicando su inversión en infraestructura de IA y Nvidia ha convertido esa i",
+      "enlace": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas",
+      "medio": "Xataka",
+      "fecha": "2026-10-26T12:30:00Z"
+    },
+    {
+      "titulo": "¿Es Pangram el árbitro de la IA que la industria literaria necesita? Un autor peruano lo está descubriendo en su carnes",
+      "resumen": "El 23 de octubre, El País publicó que el detector Pangram atribuye a una IA el 99% de ‘Donde el agua trabaja’, ganadora de un premio cuyas bases prohibían usar IA. El autor lo niega y la editorial suspendió las presentac",
+      "enlace": "https://www.xataka.com/magnet/quien-vigila-al-vigilante-limites-pangram-como-arbitro-que-ia-que-no",
+      "medio": "Xataka",
+      "fecha": "2026-10-26T11:35:00Z"
+    },
     {
       "titulo": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
       "resumen": "Ante un futuro donde la IA tengo un papel esencial en la mayoría de procesos productivos, ¿dónde querría tener una empresa europea sus datos? Joe Tsai, presidente y cofundador de Alibaba, lo tiene claro: no en una API ce",
       "enlace": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
       "medio": "Xataka",
-      "fecha": "2026-10-25T17:30:11Z"
+      "fecha": "2026-10-25T17:30:00Z"
     },
     {
       "titulo": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
@@ -51,81 +142,11 @@
       "fecha": "2026-10-24T04:00:00Z"
     },
     {
-      "titulo": "Dos agentes internos de OpenAI debilitaron la vigilancia de su propio comportamiento para acabar una tarea, y uno negó haberlo hecho",
-      "resumen": "Dos agentes internos de OpenAI silenciaron las alertas de su propio sistema de vigilancia para acabar una tarea. La empresa dice no saber por qué.La noticia Dos agentes internos de OpenAI debilitaron la vigilancia de su ",
-      "enlace": "https://wwwhatsnew.com/2026/10/24/openai-agentes-silenciaron-alertas-monitorizacion-desalineamiento/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-24T02:00:00Z"
-    },
-    {
-      "titulo": "Walmart deja comprar a los agentes de IA y Amazon los demanda: dos apuestas opuestas sobre quién manda en el comercio",
-      "resumen": "Walmart abre un canal para que los agentes de IA compren con límites de gasto. Amazon hace lo contrario: demanda y bloquea. Qué implica para el usuario.La noticia Walmart deja comprar a los agentes de IA y Amazon los dem",
-      "enlace": "https://wwwhatsnew.com/2026/10/24/walmart-agent-gateway-agentes-ia-compras-amazon-bloqueo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-24T00:00:00Z"
-    },
-    {
-      "titulo": "OpenAI lleva los anuncios de ChatGPT a 26 países más, hasta 89: en España ya estaban desde agosto",
-      "resumen": "OpenAI amplía los anuncios de ChatGPT a 26 países, hasta 89. No publica la lista completa y en España ya estaban desde agosto.La noticia OpenAI lleva los anuncios de ChatGPT a 26 países más, hasta 89: en España ya estaba",
-      "enlace": "https://wwwhatsnew.com/2026/10/24/openai-anuncios-chatgpt-26-paises-mas-89-total/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-23T22:00:00Z"
-    },
-    {
-      "titulo": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
-      "resumen": "La carrera por la inteligencia artificial lleva tiempo girando alrededor de una pregunta: quién tiene el modelo más capaz. Cada nueva generación busca resolver tareas más complejas, mientras las comparaciones suelen mira",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
-      "medio": "Xataka",
-      "fecha": "2026-10-23T19:30:07Z"
-    },
-    {
-      "titulo": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
-      "resumen": "Pocas veces nos preguntamos qué tiene que suceder para que una transferencia llegue a su destino, un documento permanezca privado o nadie más pueda acceder a nuestras cuentas. Simplemente abrimos el móvil y seguimos adel",
-      "enlace": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
-      "medio": "Xataka",
-      "fecha": "2026-10-23T18:32:14Z"
-    },
-    {
-      "titulo": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
-      "resumen": "Cuando hacemos una búsqueda en Google, lo primero que nos aparece es un resumen generado por IA relacionado con esa búsqueda. Este resumen, denominado AI Overviews, generalmente comparte también una serie de enlaces para",
-      "enlace": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
-      "medio": "Xataka",
-      "fecha": "2026-10-23T17:30:08Z"
-    },
-    {
-      "titulo": "Gemini estrena panel de negocio con marca, finanzas y conexión a Shopify, Xero o Canva: lo que no aclara es si llega a España",
-      "resumen": "Gemini añade una página de negocio con marca, finanzas y conexión a Shopify, Xero o Canva. Google no aclara países, planes ni precios.La noticia Gemini estrena panel de negocio con marca, finanzas y conexión a Shopify, X",
-      "enlace": "https://wwwhatsnew.com/2026/10/23/gemini-panel-negocio-apps-conectadas-marca-finanzas/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-23T17:00:54Z"
-    },
-    {
-      "titulo": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
-      "resumen": "Unitree Robotics quiere que la IA haga gran parte del trabajo que sus ingenieros hacen hoy en día, ya sea buscar investigaciones, escribir código de control, probarlo y aprender de los resultados. El fundador de la empre",
-      "enlace": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
-      "medio": "Xataka",
-      "fecha": "2026-10-23T15:00:11Z"
-    },
-    {
-      "titulo": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
-      "resumen": "Vamos a tener que acostumbrarnos a los agentes de IA. En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y co",
-      "enlace": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
-      "medio": "Xataka",
-      "fecha": "2026-10-23T11:30:00Z"
-    },
-    {
       "titulo": "La compañía de gafas neerlandesa es el primer minorista en retirar las gafas inteligentes Ray-Ban de Meta de más de 400 tiendas debido a “preguntas que se han p",
       "resumen": "Hans Anders ha detenido la venta de las gafas inteligentes Ray-Ban de Meta en los Países Bajos y Bélgica. Quieren esperar hasta que se aclare cómo se pueden utilizar estos dispositivos que pueden captar a las personas qu",
       "enlace": "https://www.genbeta.com/actualidad/compania-gafas-neerlandesa-primer-minorista-retirar-gafas-inteligentes-ray-ban-meta-400-tiendas-debido-a-preguntas-que-se-han-planteado-tecnologia",
       "medio": "Genbeta",
       "fecha": "2026-10-23T10:00:12Z"
-    },
-    {
-      "titulo": "Almeida está revisando vídeos de Sol frame a frame para descubrir posibles delitos de los acampados por la vivienda",
-      "resumen": "La mecha la prendió el Sindicato de Inquilinas, que lleva años trabajando para frenar desahucios como el de Maricarmen, una mujer de 87 años desalojada el 23 de septiembre del piso de Retiro donde vivía desde los 17. El ",
-      "enlace": "https://www.xataka.com/magnet/almeida-esta-revisando-videos-sol-frame-a-frame-para-descubrir-posibles-delitos-acampados-vivienda",
-      "medio": "Xataka",
-      "fecha": "2026-10-23T08:39:17Z"
     },
     {
       "titulo": "El reto de la IA no es consumir más tokens, sino generar valor",
@@ -189,27 +210,6 @@
       "enlace": "https://www.computing.es/noticias/el-control-del-dato-y-el-cloud-soberano-centran-el-soberania-digital-forum-2026/",
       "medio": "Computing.es",
       "fecha": "2026-10-20T09:13:46Z"
-    },
-    {
-      "titulo": "No se puede gobernar una IA que no se puede ver",
-      "resumen": "Aunque el 88% de las organizaciones ya utilizan o están probando agentes de IA, solo el 28% confía en su capacidad para detectar sistemas de IA que operan fuera de los parámetros aprobados L'articolo No se puede gobernar",
-      "enlace": "https://www.computing.es/inteligencia-artificial/no-se-puede-gobernar-una-ia-que-no-se-puede-ver/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-20T06:38:24Z"
-    },
-    {
-      "titulo": "Salesforce invertirá 1.000 millones de dólares en España para liderar la IA en EMEA Sur",
-      "resumen": "Salesforce ha anunciado una inversión de 1.000 millones de dólares en España durante los próximos cinco años, posicionando a Madrid como el centro operativo para la región de EMEA Sur L'articolo Salesforce invertirá 1.00",
-      "enlace": "https://www.computing.es/inteligencia-artificial/salesforce-invertira-1-000-millones-de-dolares-en-espana-para-liderar-la-ia-en-emea-sur/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-20T05:57:23Z"
-    },
-    {
-      "titulo": "Más ciberresiliencia para fortalecer la IA soberana",
-      "resumen": "A medida que el concepto de IA soberana gana peso en Europa, el objetivo ya no es únicamente controlar la ubicación de los datos, sino alcanzar una confianza operativa integral L'articolo Más ciberresiliencia para fortal",
-      "enlace": "https://www.computing.es/seguridad/mas-ciberresiliencia-para-fortalecer-la-ia-soberana/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-19T14:22:21Z"
     }
   ],
   "etica": [
@@ -219,20 +219,6 @@
       "enlace": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
       "medio": "Xataka",
       "fecha": "2026-10-25T10:30:00Z"
-    },
-    {
-      "titulo": "Dos agentes internos de OpenAI debilitaron la vigilancia de su propio comportamiento para acabar una tarea, y uno negó haberlo hecho",
-      "resumen": "Dos agentes internos de OpenAI silenciaron las alertas de su propio sistema de vigilancia para acabar una tarea. La empresa dice no saber por qué.La noticia Dos agentes internos de OpenAI debilitaron la vigilancia de su ",
-      "enlace": "https://wwwhatsnew.com/2026/10/24/openai-agentes-silenciaron-alertas-monitorizacion-desalineamiento/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-24T02:00:00Z"
-    },
-    {
-      "titulo": "Walmart deja comprar a los agentes de IA y Amazon los demanda: dos apuestas opuestas sobre quién manda en el comercio",
-      "resumen": "Walmart abre un canal para que los agentes de IA compren con límites de gasto. Amazon hace lo contrario: demanda y bloquea. Qué implica para el usuario.La noticia Walmart deja comprar a los agentes de IA y Amazon los dem",
-      "enlace": "https://wwwhatsnew.com/2026/10/24/walmart-agent-gateway-agentes-ia-compras-amazon-bloqueo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-24T00:00:00Z"
     },
     {
       "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
@@ -352,6 +338,20 @@
       "enlace": "https://www.xatakandroid.com/personalizacion/me-he-quedado-wrapped-youtube-gemini-este-fin-ano-no-tengo-solo-resumen-culpa-solo-mia",
       "medio": "Xataka Android",
       "fecha": "2025-12-15T10:00:00Z"
+    },
+    {
+      "titulo": "Un hacker encontró riesgos en una baliza V16 muy vendida, la Help Flash IoT. Vodafone y la empresa fabricante han aclarado qué pasa",
+      "resumen": "Con el propósito de \"lograr una mejor en cuanto la seguridad vial y la reducción de accidentes\", ha nacido el dispositivo V16 que a partir del 1 de enero va a reemplazar a los tradicionales triángulos de preseñalización ",
+      "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
+      "medio": "Genbeta",
+      "fecha": "2025-12-11T12:32:00Z"
+    },
+    {
+      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
+      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
+      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
+      "medio": "Genbeta",
+      "fecha": "2025-12-03T07:41:00Z"
     }
   ]
 }
