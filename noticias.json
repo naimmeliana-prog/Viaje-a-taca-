@@ -1,6 +1,139 @@
 {
-  "actualizado": "2026-10-28T01:59:01Z",
+  "actualizado": "2026-10-30T02:21:07Z",
   "novedades": [
+    {
+      "titulo": "Gemini 4 Carbon: el modelo más potente de Google llega primero a los defensores de ciberseguridad, y el resto tendrá que esperar",
+      "resumen": "Google presenta Gemini 4 Carbon, su modelo más potente: lidera en ciberseguridad, pero solo llega a defensores. Sin fecha ni API para el resto.La noticia Gemini 4 Carbon: el modelo más potente de Google llega primero a l",
+      "enlace": "https://wwwhatsnew.com/2026/10/30/gemini-4-carbon-google-modelo-ciberseguridad-acceso-limitado/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-30T01:00:00Z"
+    },
+    {
+      "titulo": "GitHub ha tenido que hacer algo a gran escala para seguir el ritmo de la IA. Sus cifras explican hasta qué punto",
+      "resumen": "Estamos acostumbrados a hablar de la inteligencia artificial en términos de plo que puede hacer por nosotros: escribir una función, corregir un error o ayudarnos a terminar una aplicación. Sin embargo, cada vez que ese t",
+      "enlace": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T20:30:00Z"
+    },
+    {
+      "titulo": "Una IA estima la edad biológica y el riesgo de muerte de pacientes con cáncer a partir de una foto de su cara: lo que promete y lo que falta por demostrar",
+      "resumen": "Una IA estima la edad biológica y el riesgo de muerte de pacientes con cáncer con una foto de la cara. Aún no está lista para la consulta.La noticia Una IA estima la edad biológica y el riesgo de muerte de pacientes con ",
+      "enlace": "https://wwwhatsnew.com/2026/10/29/ia-foto-cara-supervivencia-cancer-faceage-facesurvival/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-29T20:00:00Z"
+    },
+    {
+      "titulo": "La IA ya empieza a dejar huella en el paro español. Los más expuestos: programadores y diseñadores",
+      "resumen": "Cuando una pared cede, el primer aviso casi nunca es un derrumbe inmediato. Suele ser una fina grieta en la pintura apenas perceptible, a menos que la estés buscando. Con la IA y el empleo pasa algo parecido: tres años p",
+      "enlace": "https://www.xataka.com/empresas-y-economia/ia-empieza-a-dejar-huella-paro-espanol-expuestos-programadores-disenadores",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T17:15:28Z"
+    },
+    {
+      "titulo": "Una empresa está creando el Tesla de las excavadoras: IA física y hasta arriba de sensores para levantar los centros de datos",
+      "resumen": "Excavar terreno para una carretera, una fábrica o un centro de datos parece un trabajo seguro para un humano porque se sigue dependiendo de una persona a los mandos del aparato. Sin embargo, una startup de San Francisco ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/empresa-esta-creando-tesla-excavadoras-ia-fisica-arriba-sensores-para-levantar-centros-datos",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T15:31:28Z"
+    },
+    {
+      "titulo": "OpenAI ya supone el 11% de los ingresos de Microsoft. Y eso es una buena y una mala noticia",
+      "resumen": "Microsoft ha cerrado su primer trimestre fiscal de 2027 con mayor beneficio, más crecimiento en Azure y un flujo de caja que muchas grandes tecnologías envidiarían ante un enorme gasto en IA. Estas buenas cifras, evident",
+      "enlace": "https://www.xataka.com/empresas-y-economia/openai-supone-11-ingresos-microsoft-eso-buena-mala-noticia",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T14:15:29Z"
+    },
+    {
+      "titulo": "Una ingeniera de Amazon preguntó a ChatGPT cómo dejar su medicación de epilepsia. La IA le diseñó un calendario de 25 días que ha terminado en tragedia",
+      "resumen": "Bowen Wan tenía 31 años, trabajaba como ingeniera de software en Amazon y sufría una epilepsia grave. En enero de 2026, ante la posibilidad de perder su empleo y su derecho a permanecer en Estados Unidos, recurrió a Chat",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ingeniera-amazon-pregunto-a-chatgpt-como-dejar-su-medicacion-epilepsia-ia-le-diseno-calendario-25-dias-que-ha-terminado-tragedia",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T13:31:30Z"
+    },
+    {
+      "titulo": "Dell Technologies impulsa la IA agéntica empresarial junto con NVIDIA",
+      "resumen": "Se prevé que la IA agéntica empresarial se convierta en la mayor carga de trabajo en 2028 y crezca casi tres veces más rápido que la IA generativa hasta 2030 L'articolo Dell Technologies impulsa la IA agéntica empresaria",
+      "enlace": "https://www.computing.es/noticias/dell-technologies-impulsa-la-ia-agentica-empresarial-junto-con-nvidia/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-29T09:49:10Z"
+    },
+    {
+      "titulo": "Entrenar grandes modelos exige cada vez más hardware. China responde con un superclúster de 100.000 tarjetas nacionales",
+      "resumen": "Hace unos meses tuvimos ocasión de contar las proezas del Sugon 8000, un superclúster con unas 100.000 tarjetas gráficas, todas ellas diseñadas y fabricadas en China. El sistema se encuentra en Zhengzhou, en la provincia",
+      "enlace": "https://www.xataka.com/robotica-e-ia/entrenar-grandes-modelos-exige-cada-vez-hardware-china-responde-supercluster-100-000-tarjetas-nacionales",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T09:31:26Z"
+    },
+    {
+      "titulo": "Entrenar en la era de la IA: cuando aprender empieza por practicar",
+      "resumen": "La llegada de la inteligencia artificial plantea una pregunta: si una máquina puede explicar cualquier proceso en segundos, ¿seguimos necesitando que la formación consista principalmente en explicar? L'articolo Entrenar ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/entrenar-en-la-era-de-la-ia-cuando-aprender-empieza-por-practicar/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-29T08:24:00Z"
+    },
+    {
+      "titulo": "La memoria se convierte en el cuello de botella (y en el gran negocio) de la IA: SK Hynix incrementa un 632% su beneficio operativo",
+      "resumen": "SK Hynix acaba de registrar el trimestre más importante de su historia, todo mientras afirma que la escasez de memoria está lejos de terminar. El beneficio operativo de julio a septiembre alcanzó los 83,33 billones de wo",
+      "enlace": "https://www.xataka.com/empresas-y-economia/memoria-se-convierte-cuello-botella-gran-negocio-ia-sk-hynix-incrementa-632-su-beneficio-operativo",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T06:31:28Z"
+    },
+    {
+      "titulo": "La adictiva salsa china picante se enfrenta a un problema: sus empleados ahora son IA, o eso le recriminan",
+      "resumen": "Cuando una empresa saca pecho de que la IA le funciona y, a la vez, de que ha tenido su mejor año, no debería extrañarle de que alguien sume uno más uno. Eso es lo que le ha pasado a Lao Gan Ma, la exitosa marca china de",
+      "enlace": "https://www.xataka.com/magnet/fabricante-chili-presume-ia-ingresos-record-china-ha-tocado-nervio-miedo-a-que-ia-quite-trabajos",
+      "medio": "Xataka",
+      "fecha": "2026-10-29T06:00:00Z"
+    },
+    {
+      "titulo": "Dinamarca lleva al Parlamento su ley antideepfakes: tu rostro y tu voz protegidos hasta 50 años después de morir",
+      "resumen": "Dinamarca presentó el 8 de octubre su proyecto antideepfakes: reforma su ley de copyright, protege rostro y voz 50 años tras la muerte y no crea delito.La noticia Dinamarca lleva al Parlamento su ley antideepfakes: tu ro",
+      "enlace": "https://wwwhatsnew.com/2026/10/28/dinamarca-ley-deepfakes-folketing-rostro-voz-50-anos/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-28T16:00:00Z"
+    },
+    {
+      "titulo": "Finlandia ordena detener el trabajo en dos centros de datos de Google",
+      "resumen": "Google anunció el 9 de septiembre una inversión de 13.000 millones de euros en Finlandia para el período comprendido entre 2027 y 2028. El 6 de octubre, la Agencia de Licencias y Supervisión (LVV) de Finlandia ordenó a l",
+      "enlace": "https://www.genbeta.com/actualidad/finlandia-ordena-detener-trabajo-dos-centros-datos-google",
+      "medio": "Genbeta",
+      "fecha": "2026-10-28T15:01:30Z"
+    },
+    {
+      "titulo": "Jorge Flores: educar para un uso responsable de la IA",
+      "resumen": "¿Cómo acompañamos a los adolescentes en el uso de la inteligencia artificial? Jorge Flores, fundador y director de PantallasAmigas, defiende que esta vez no estamos ante un cambio como Internet o el móvil. Su propuesta [",
+      "enlace": "https://blogthinkbig.com/jorge-flores-educar-para-un-uso-responsable-de-la-ia",
+      "medio": "Think Big",
+      "fecha": "2026-10-28T14:00:00Z"
+    },
+    {
+      "titulo": "Bruselas plantea un \"matiz\" al RGPD y abre la puerta a entrenar a la IA con datos obtenidos sin consentimiento",
+      "resumen": "Aunque estemos todo el día con la palabra \"IA\" en la boca, en Europa hay ciertas aplicaciones y servicios a los que la Unión les había dado con la puerta en las narices. Sin embargo, una propuesta para reformar el RGPD (",
+      "enlace": "https://www.xataka.com/legislacion-y-derechos/consejo-ue-propone-ligero-matiz-al-rgpd-que-se-pueda-entrenar-ia-tus-datos-pedir-permiso",
+      "medio": "Xataka",
+      "fecha": "2026-10-28T12:45:00Z"
+    },
+    {
+      "titulo": "\"La IA no va a meterse debajo de las casas para instalar tuberías\": en EEUU y Francia los oficios manuales están al alza",
+      "resumen": "En las últimas décadas, el mensaje para millones de jóvenes fue el mismo: estudiar una carrera universitaria era la mejor forma de asegurarse un buen futuro laboral. La irrupción de la inteligencia artificial está empeza",
+      "enlace": "https://www.xataka.com/empresas-y-economia/ia-no-va-a-meterse-debajo-casas-para-instalar-tuberias-eeuu-francia-oficios-manuales-estan-al-alza",
+      "medio": "Xataka",
+      "fecha": "2026-10-28T12:30:00Z"
+    },
+    {
+      "titulo": "España va por delante en adopción de IA, pero tiene menos gobernanza y visibilidad, según Red Hat",
+      "resumen": "La mayoría de los CIO españoles encuestados (85 %) por Red Hat confía en que sus agentes de IA operan de forma segura, sin embargo, solo el 30 % puede determinar con exactitud dónde se almacenan y procesan los datos L'ar",
+      "enlace": "https://www.computing.es/noticias/espana-va-por-delante-en-adopcion-de-ia-pero-tiene-menos-gobernanza-y-visibilidad-segun-red-hat/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-28T10:47:42Z"
+    },
+    {
+      "titulo": "Sam Altman urge a las empresas a priorizar la ciberseguridad de la AI frente a la productividad en el Oracle AI World",
+      "resumen": "El director ejecutivo de OpenAI ha sorprendido a la audiencia del Oracle AI World, donde ha señalado que la prioridad inmediata para las empresas debe ser comprender y mitigar las amenazas de seguridad de la inteligencia",
+      "enlace": "https://www.computing.es/inteligencia-artificial/sam-altman-urge-a-las-empresas-a-priorizar-la-ciberseguridad-de-la-ai-frente-a-la-productividad-en-el-oracle-ai-world/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-28T07:30:00Z"
+    },
     {
       "titulo": "Anthropic pide salir a bolsa: ingresa 16.286 millones en seis meses, pierde 80.748 en el papel y deja en blanco las cifras que más importan",
       "resumen": "Anthropic pide salir a bolsa como «ANT»: 16.286 millones de ingresos en seis meses, pérdida contable de 80.748 millones y cifras clave en blanco.La noticia Anthropic pide salir a bolsa: ingresa 16.286 millones en seis me",
@@ -51,95 +184,11 @@
       "fecha": "2026-10-26T20:00:00Z"
     },
     {
-      "titulo": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
-      "resumen": "Se está gastando mucho en IA. Muchísimo. Y son precisamente las cuatro grandes tecnológicas (Meta, Microsoft, Amazon y Google) las que están al frente de ese gasto. Tanto es así, que Microsoft ya ha empezado a dar los pr",
-      "enlace": "https://www.xataka.com/empresas-y-economia/microsoft-va-a-fundir-190-000-millones-dolares-ia-solo-este-ano-ha-hecho-movimiento-obvio-ahora-compania-agentes",
-      "medio": "Xataka",
-      "fecha": "2026-10-26T18:33:23Z"
-    },
-    {
-      "titulo": "Elon Musk, CEO de SpaceX: \"Las neoclouds van a experimentar muertes y consolidaciones a nivel extremo\"",
-      "resumen": "Durante los últimos años hemos visto cómo la carrera por la inteligencia artificial convertía las GPUs en uno de los recursos más codiciados de la industria tecnológica. Pero conseguir esos chips era solo el principio: h",
-      "enlace": "https://www.xataka.com/empresas-y-economia/elon-musk-cree-que-carrera-ia-se-cobrara-nuevas-victimas-neoclouds",
-      "medio": "Xataka",
-      "fecha": "2026-10-26T18:00:00Z"
-    },
-    {
-      "titulo": "Las RTX 5090 se fabricaron para jugar. En China han encontrado un negocio mejor: desmontarlas para la IA",
-      "resumen": "Ver un unicornio es más sencillo que encontrarse con una Nvidia RTX 5090. Diría que hasta es más probable tocar un billete de 500 euros: las tarjetas gráficas de alta capacidad se han puesto inacanzables. Mientras las ti",
-      "enlace": "https://www.xataka.com/componentes/rtx-5090-se-fabricaron-para-jugar-china-han-encontrado-negocio-mejor-desmontarlas-para-ia",
-      "medio": "Xataka",
-      "fecha": "2026-10-26T16:31:27Z"
-    },
-    {
-      "titulo": "Anthropic acaba de dar uno de los pasos más importantes de la industria de la IA: abrir sus cuentas para salir a bolsa",
-      "resumen": "Llevamos todo 2026 hablando de que uno de los puntos clave de la industria de la IA lo marcará el momento en el que OpenAI y Anthropic salgan a bolsa y, al menos en el caso de la segunda, las cosas ya están en marcha. Co",
-      "enlace": "https://www.xataka.com/empresas-y-economia/anthropic-acaba-dar-uno-pasos-importantes-industria-ia-abrir-sus-cuentas-para-salir-a-bolsa",
-      "medio": "Xataka",
-      "fecha": "2026-10-26T14:45:00Z"
-    },
-    {
-      "titulo": "Los hiperescaladores tienen miles de tarjetas de Nvidia guardadas en sus cajas porque no tienen dónde enchufarlas",
-      "resumen": "Cuando hablamos de hiperescaladores, nos referimos a las grandes 'nubes' como Microsoft, Amazon, Google o Meta. Estas empresas llevan meses multiplicando su inversión en infraestructura de IA y Nvidia ha convertido esa i",
-      "enlace": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas",
-      "medio": "Xataka",
-      "fecha": "2026-10-26T12:30:00Z"
-    },
-    {
-      "titulo": "¿Es Pangram el árbitro de la IA que la industria literaria necesita? Un autor peruano lo está descubriendo en su carnes",
-      "resumen": "El 23 de octubre, El País publicó que el detector Pangram atribuye a una IA el 99% de ‘Donde el agua trabaja’, ganadora de un premio cuyas bases prohibían usar IA. El autor lo niega y la editorial suspendió las presentac",
-      "enlace": "https://www.xataka.com/magnet/quien-vigila-al-vigilante-limites-pangram-como-arbitro-que-ia-que-no",
-      "medio": "Xataka",
-      "fecha": "2026-10-26T11:35:00Z"
-    },
-    {
-      "titulo": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
-      "resumen": "Ante un futuro donde la IA tengo un papel esencial en la mayoría de procesos productivos, ¿dónde querría tener una empresa europea sus datos? Joe Tsai, presidente y cofundador de Alibaba, lo tiene claro: no en una API ce",
-      "enlace": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
-      "medio": "Xataka",
-      "fecha": "2026-10-25T17:30:00Z"
-    },
-    {
-      "titulo": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
-      "resumen": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden ",
-      "enlace": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
-      "medio": "Xataka",
-      "fecha": "2026-10-25T10:30:00Z"
-    },
-    {
       "titulo": "Desarrollador de centro de datos de Pennsylvania ofrece 10.000 dólares a 4.500 hogares; los residentes se niegan, diciendo que el dinero no es suficiente",
       "resumen": "NorthPoint Development está ofreciendo 10.000 dólares a cada hogar elegible si un proyecto de centros de datos llamado Hazelnut avanza en Hazle Township, Pennsylvania. La oferta se extendería a unos 4.500 hogares y sumar",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/desarrollador-centro-datos-pennsylvania-ofrece-10-000-dolares-a-4-500-hogares-residentes-se-niegan-diciendo-que-dinero-no-suficiente",
       "medio": "Genbeta",
       "fecha": "2026-10-25T09:00:08Z"
-    },
-    {
-      "titulo": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
-      "resumen": "Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artific",
-      "enlace": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
-      "medio": "Xataka",
-      "fecha": "2026-10-24T16:30:10Z"
-    },
-    {
-      "titulo": "Recursive lanza Flint, un modelo de código abierto que, según la empresa, construyó en gran parte su propia IA",
-      "resumen": "Recursive publica Flint con pesos abiertos y dice que su IA construyó casi todo. No hay porcentaje, ni auditoría, y el «portátil» pide 48 GB.La noticia Recursive lanza Flint, un modelo de código abierto que, según la emp",
-      "enlace": "https://wwwhatsnew.com/2026/10/24/recursive-flint-modelo-abierto-construido-por-ia-reclamo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-24T12:00:00Z"
-    },
-    {
-      "titulo": "Pangram ve un 99% de IA en la novela premiada 'Donde el agua trabaja'. El problema es el de siempre: no hay detector infalible",
-      "resumen": "La novela 'Donde el agua trabaja' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat, dotado con 20.000 euros y por delante de más de 2.200 escritos llegados de 22 países. En sus ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
-      "medio": "Xataka",
-      "fecha": "2026-10-24T10:00:00Z"
-    },
-    {
-      "titulo": "Just Eat pausa sus fotos de comida hechas con IA: el fallo no es la calidad, es que no entiende el vocabulario local",
-      "resumen": "Just Eat pausa sus fotos de platos generadas con IA tras errores como bacon flotando en un refresco. El fallo es de vocabulario local, no de calidad.La noticia Just Eat pausa sus fotos de comida hechas con IA: el fallo n",
-      "enlace": "https://wwwhatsnew.com/2026/10/24/just-eat-pausa-fotos-comida-generadas-ia-errores/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-24T04:00:00Z"
     },
     {
       "titulo": "La compañía de gafas neerlandesa es el primer minorista en retirar las gafas inteligentes Ray-Ban de Meta de más de 400 tiendas debido a “preguntas que se han p",
@@ -161,64 +210,22 @@
       "enlace": "https://blogthinkbig.com/claude-detecta-cryptominer-mac",
       "medio": "Think Big",
       "fecha": "2026-10-22T08:15:00Z"
-    },
-    {
-      "titulo": "IA agéntica: Autonomía sin control es riesgo sin precio",
-      "resumen": "Los agentes de IA han pasado de recomendar a ejecutar. Cada nivel de autonomía que se les concede exige una capa adicional de control, y la factura de omitirla no desaparece: solo se aplaza L'articolo IA agéntica: Autono",
-      "enlace": "https://www.computing.es/inteligencia-artificial/ia-agentica-autonomia-sin-control-es-riesgo-sin-precio/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-22T07:30:00Z"
-    },
-    {
-      "titulo": "Cinco acciones prácticas para reforzar la seguridad en IA agéntica",
-      "resumen": "La inteligencia artificial ya no se limita a responder preguntas, ahora también tiene la capacidad de actuar. A medida que la IA se vuelve más autónoma, el desafío de la ciberseguridad evoluciona L'articolo Cinco accione",
-      "enlace": "https://www.computing.es/seguridad/cinco-acciones-practicas-para-reforzar-la-seguridad-en-ia-agentica/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-22T07:00:00Z"
-    },
-    {
-      "titulo": "Yaiza Canosa, exitosa empresaria española: “Conozco más fontaneros bajándose de un Land Rover que a desarrolladores”",
-      "resumen": "Yaiza Canosa, en una entrevista en Actitud Constante, compara a los fontaneros con los programadores informáticos, afirmando: “Conozco a más fontaneros bajándose de un Land Rover que a desarrolladores de IT”.&nbsp; Canos",
-      "enlace": "https://www.genbeta.com/laboral/yaiza-canosa-exitosa-empresaria-espanola-conozco-fontaneros-bajandose-land-rover-que-a-desarrolladores",
-      "medio": "Genbeta",
-      "fecha": "2026-10-21T14:01:41Z"
-    },
-    {
-      "titulo": "DXC Technology y LangChain se alían para impulsar el uso de IA agéntica en operaciones de TI de misión crítica",
-      "resumen": "DXC OASIS, desarrollada sobre el entorno de ejecución de código abierto LangGraph de LangChain, amplía su despliegue a 125 entornos de clientes en sectores regulados y diversas regiones geográficas L'articolo DXC Technol",
-      "enlace": "https://www.computing.es/inteligencia-artificial/dxc-technology-y-langchain-se-alian-para-impulsar-el-uso-de-ia-agentica-en-operaciones-de-ti-de-mision-critica/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-21T11:15:18Z"
-    },
-    {
-      "titulo": "Esade despliega un modelo híbrido de atención al estudiante impulsado por inteligencia artificial y desarrollado por Ayesa Digital",
-      "resumen": "La escuela de negocios centraliza sus servicios de soporte en 'Student Center', un único punto de contacto accesible 24/7 a través de chat, WhatsApp y correo electrónico sobre tecnología de Salesforce L'articolo Esade de",
-      "enlace": "https://www.computing.es/noticias/esade-despliega-un-modelo-hibrido-de-atencion-al-estudiante-impulsado-por-inteligencia-artificial-y-desarrollado-por-ayesa-digital/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-21T09:49:43Z"
-    },
-    {
-      "titulo": "La IA está transformando el trabajo. ¿Está tu empresa preparada para aprovecharla?",
-      "resumen": "La inteligencia artificial ya no es una promesa de futuro: está entrando en el día a día de las empresas y cambiando la forma en que los profesionales trabajan, colaboran y resuelven problemas. La cuestión ahora es cómo ",
-      "enlace": "https://www.computing.es/movilidad/la-ia-esta-transformando-el-trabajo-esta-tu-empresa-preparada-para-aprovecharla/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-21T09:48:41Z"
-    },
-    {
-      "titulo": "El control del dato y el cloud soberano centran el Foro de Soberanía Digital 2026",
-      "resumen": "Directivos de TI de empresas como Acciona, Reale Group y Singular Bank abordarán el próximo 4 de noviembre en Madrid cómo equilibrar la adopción de inteligencia artificial con la gobernanza, el cumplimiento normativo y l",
-      "enlace": "https://www.computing.es/noticias/el-control-del-dato-y-el-cloud-soberano-centran-el-soberania-digital-forum-2026/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-20T09:13:46Z"
     }
   ],
   "etica": [
     {
-      "titulo": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
-      "resumen": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X) o un audio usando tu voz para una estafa son solo un par de ejemplos que están a la orden ",
-      "enlace": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
-      "medio": "Xataka",
-      "fecha": "2026-10-25T10:30:00Z"
+      "titulo": "Dinamarca lleva al Parlamento su ley antideepfakes: tu rostro y tu voz protegidos hasta 50 años después de morir",
+      "resumen": "Dinamarca presentó el 8 de octubre su proyecto antideepfakes: reforma su ley de copyright, protege rostro y voz 50 años tras la muerte y no crea delito.La noticia Dinamarca lleva al Parlamento su ley antideepfakes: tu ro",
+      "enlace": "https://wwwhatsnew.com/2026/10/28/dinamarca-ley-deepfakes-folketing-rostro-voz-50-anos/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-10-28T16:00:00Z"
+    },
+    {
+      "titulo": "España va por delante en adopción de IA, pero tiene menos gobernanza y visibilidad, según Red Hat",
+      "resumen": "La mayoría de los CIO españoles encuestados (85 %) por Red Hat confía en que sus agentes de IA operan de forma segura, sin embargo, solo el 30 % puede determinar con exactitud dónde se almacenan y procesan los datos L'ar",
+      "enlace": "https://www.computing.es/noticias/espana-va-por-delante-en-adopcion-de-ia-pero-tiene-menos-gobernanza-y-visibilidad-segun-red-hat/",
+      "medio": "Computing.es",
+      "fecha": "2026-10-28T10:47:42Z"
     },
     {
       "titulo": "Bill Gates dice que la autorregulación de las empresas de IA no es suficiente y que los gobiernos deberían estar involucrados en la supervisión",
@@ -345,13 +352,6 @@
       "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
       "medio": "Genbeta",
       "fecha": "2025-12-11T12:32:00Z"
-    },
-    {
-      "titulo": "Corea del Sur ha destapado un caso de vigilancia masiva mediante webcams por parte de hackers que se lucraban con vídeos sexuales",
-      "resumen": "Si hace un año nos hacíamos eco de que en Corea del Sur el porno deepfake se había convertido en una \"epidemia\", hoy la noticia son un puñado de coreanos que prefería ver desnudas a personas reales... y para eso montaron",
-      "enlace": "https://www.genbeta.com/seguridad/120-000-webcams-caseras-han-sido-pirateadas-corea-sur-para-elaborar-vender-videos-sexuales-hay-cuatro-detenidos",
-      "medio": "Genbeta",
-      "fecha": "2025-12-03T07:41:00Z"
     }
   ]
 }
