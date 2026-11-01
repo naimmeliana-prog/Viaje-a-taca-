@@ -18790,7 +18790,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 9
+    "intentos_web": 10
   },
   {
     "nombre": "Mistral Large 4",
@@ -21256,7 +21256,7 @@
       "Historial de logros y métricas"
     ],
     "etica": "Respetuoso con la privacidad y promueve el crecimiento personal sin presiones excesivas.",
-    "web": "https://www.producthunt.com/products/coachare",
+    "web": "https://coachare.com/",
     "tipo": "Productividad",
     "compania": "Coachare Inc.",
     "id": "coachare-afc70e",
@@ -21266,7 +21266,7 @@
     "auto_detectado": true,
     "pendiente_revision": false,
     "limite_gratis": "El plan gratuito incluye 3 objetivos activos y 10 ejercicios mensuales.",
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "OpenRadView",
@@ -21290,14 +21290,14 @@
     ],
     "etica": "Al ser una aplicación local, no transmite datos de pacientes a la nube, reduciendo riesgos de privacidad, aunque los usuarios deben garantizar el cumplimiento normativo y evitar sesgos en las herramientas de medición.",
     "limite_gratis": "El uso básico del visor es gratuito para fines clínicos y de investigación, pero carece de soporte técnico prioritario y actualizaciones avanzadas disponibles en versiones de pago.",
-    "web": "https://www.producthunt.com/products/openradview",
+    "web": "https://openradview.com/",
     "id": "openradview-9d72a1",
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-10-28",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Howler",
@@ -21305,7 +21305,7 @@
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "descripcion": "Chatbot con estética de novela fantástica que responde preguntas y elimina automáticamente el historial local al cerrar la sesión, priorizando la privacidad.",
-    "web": "https://howler.chat",
+    "web": "https://howlers.ai/",
     "funciones": [
       "Responder preguntas en lenguaje natural",
       "Eliminar historial local tras cada sesión",
@@ -21327,7 +21327,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "joey-1",
@@ -21335,7 +21336,7 @@
     "tipo": "Modelo de lenguaje / Inferencia",
     "precio": "Gratuito",
     "descripcion": "Modelo abierto de 2B parámetros que devuelve probabilidades calibradas en lugar de texto, optimizado para latencia ultra-baja y coste mínimo en dispositivos edge.",
-    "web": "https://baseten.co/models/joey-1",
+    "web": "https://www.joeyai.com/",
     "funciones": [
       "Generar probabilidades calibradas por token",
       "Inferencia ultra-rápida en CPU/GPU",
@@ -21357,7 +21358,8 @@
     "pago": false,
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Prime Mega MoE",
@@ -21365,7 +21367,7 @@
     "tipo": "Infraestructura IA / Kernel optimizado",
     "precio": "Freemium",
     "descripcion": "Kernel fusionado Mixture-of-Experts entrenable que acelera el forward pass 3.11×, compatible con arquitecturas tipo DeepSeek y Qwen3 para modelos a gran escala.",
-    "web": "https://primeintellect.ai/prime-mega-moe",
+    "web": "https://github.com/PrimeIntellect-ai/prime-rl",
     "funciones": [
       "Acelerar forward pass en modelos MoE",
       "Fusionar kernels para reducir overhead",
@@ -21387,7 +21389,8 @@
     "pago": true,
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Hermit",
@@ -21531,14 +21534,14 @@
     ],
     "etica": "Libera tiempo al automatizar tareas repetitivas; pero la dependencia de servicios de terceros y la toma de decisiones automáticas pueden propagar errores o sesgos sin supervisión humana adecuada.",
     "limite_gratis": "Plan gratuito permite hasta 5 applets personalizados y ejecuciones limitadas al mes; planes Pro añaden applets ilimitados, IA avanzada y mayor velocidad de ejecución.",
-    "web": "https://www.producthunt.com/products/ifttt",
+    "web": "https://ifttt.ai/",
     "id": "ifttt-ai-78da3f",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "OutreachGuy",
@@ -21569,7 +21572,7 @@
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Gologin Cloud Browser",
@@ -21593,14 +21596,14 @@
     ],
     "etica": "Facilita automatización web legítima (testing, investigación); pero su capacidad para evadir controles anti-bot puede usarse para scraping agresivo, fraude o violación de Términos de Servicio, requiriendo uso ético y legal.",
     "limite_gratis": "Prueba gratuita de 7 días con perfiles y minutos limitados; no hay plan gratuito permanente, requiere suscripción de pago tras la prueba.",
-    "web": "https://www.producthunt.com/products/gologin",
+    "web": "https://gologin.com/cloud-browser/",
     "id": "gologin-cloud-browser-5a6b71",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Intrascope 2.0",
@@ -21629,6 +21632,130 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-10-30",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AC Bridge",
+    "descripcion": "AC Bridge conecta tus luces inteligentes con Claude Code y Codex para indicarte cuándo necesitan tu atención.",
+    "compania": "AC Bridge Inc.",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Integración con luces inteligentes de múltiples marcas",
+      "Notificaciones visuales durante sesiones de codificación",
+      "Personalización de reglas de encendido y apagado",
+      "Panel de control basado en web",
+      "Sincronización en tiempo real con IDEs"
+    ],
+    "caracteristicas": [
+      "Bajo consumo de energía",
+      "Fácil instalación sin necesidad de cables adicionales",
+      "Compatibilidad con HomeKit y Alexa",
+      "Escalable para varios dispositivos en el hogar",
+      "Modo offline disponible"
+    ],
+    "etica": "AC Bridge accede a los datos de los dispositivos del hogar para ofrecer notificaciones contextuales, por lo que garantiza el almacenamiento seguro de la información y ofrece transparencia sobre el uso de los datos.",
+    "limite_gratis": "El plan gratuito permite conectar hasta 2 luces inteligentes y recibir notificaciones básicas.",
+    "web": "https://www.ac-bridge.com/",
+    "id": "ac-bridge-906df1",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "SpaceO",
+    "descripcion": "SpaceO asigna pantallas dedicadas a cada agente de IA en tu Mac, permitiéndote supervisar y gestionar múltiples asistentes simultáneamente.",
+    "compania": "SpaceO Ltd.",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Pantallas independientes para cada agente de IA",
+      "Interfaz de arrastrar y soltar para organizar pantallas",
+      "Modo de pantalla dividida para comparación",
+      "Personalización de atajos de teclado",
+      "Exportación de sesiones de agentes a vídeo"
+    ],
+    "caracteristicas": [
+      "Ligero y sin uso intensivo de recursos",
+      "Compatible con macOS Ventura o superior",
+      "Soporta agentes basados en la nube y locales",
+      "Sincronización en tiempo real entre pantallas",
+      "Modo oscuro y claro personalizable"
+    ],
+    "etica": "SpaceO recopila datos de interacción con los agentes para mejorar el rendimiento, pero no almacena información personal identificable sin el consentimiento explícito del usuario.",
+    "limite_gratis": "No free plan",
+    "web": "https://github.com/ParthJadhav/SpaceO",
+    "id": "spaceo-cf7646",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Coding Wrapped",
+    "descripcion": "Coding Wrapped analiza tus sesiones de codificación con Claude Code y Codex para mostrar patrones, productividad y estilos de programación.",
+    "compania": "Coding Wrapped LLC",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de informes visuales de actividad de código",
+      "Seguimiento de lenguajes y marcos de trabajo utilizados",
+      "Detección de tiempos de inactividad y picos de productividad",
+      "Exportación de datos a CSV o PDF",
+      "Comparación con promedios de la comunidad de programadores"
+    ],
+    "caracteristicas": [
+      "Compatible con múltiples IDEs y editores",
+      "Procesamiento offline disponible para informes rápidos",
+      "Privacidad centrada en el usuario, sin envío de código a la nube",
+      "Actualizaciones en tiempo real durante la sesión de codificación",
+      "Interfaz personalizable según preferencias de diseño"
+    ],
+    "etica": "Coding Wrapped procesa los datos de código localmente cuando es posible, evitando el envío de fragmentos sensibles, y ofrece opciones transparentes de consentimiento para el análisis de datos.",
+    "limite_gratis": "El plan gratuito analiza hasta 5 sesiones mensuales y ofrece informes básicos.",
+    "web": "https://github.com/senlindesign/coding-wrapped",
+    "id": "coding-wrapped-ed1ecf",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Godwit",
+    "descripcion": "Godwit es un cliente de correo electrónico de código abierto que integra asistencia de IA nativa para redactar, resumir y priorizar correos electrónicos.",
+    "compania": "Godwit Labs",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Redacción de correos electrónicos impulsada por IA",
+      "Clasificación inteligente de correos entrantes",
+      "Búsqueda semántica en el contenido de los correos",
+      "Integración con servicios de calendario",
+      "Extensible mediante plugins de terceros"
+    ],
+    "caracteristicas": [
+      "Totalmente gratuito y de código abierto",
+      "Funciona completamente offline",
+      "Cifrado de extremo a extremo para privacidad",
+      "Soporta múltiples cuentas de correo",
+      "Interfaz ligera y rápida"
+    ],
+    "etica": "Al ser de código abierto, los usuarios pueden auditar el manejo de datos, reduciendo sesgos y garantizando privacidad. Godwit no recopila datos personales sin consentimiento explícito.",
+    "limite_gratis": "Totalmente gratuito, sin límites en el número de correos ni funciones.",
+    "web": "https://godwit.io/downloads",
+    "id": "godwit-c4b685",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-01",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
