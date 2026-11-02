@@ -18767,7 +18767,7 @@
     "tipo": "Modelos IA",
     "precio": "Freemium",
     "descripcion": "AstaBrief es un modelo especializado que convierte documentos, datos y transcripciones en informes estructurados (ejecutivos, técnicos, legales) en cuestión de segundos, disponible como peso abierto.",
-    "web": "",
+    "web": "https://huggingface.co/allenai/AstaBrief_8B",
     "funciones": [
       "Resumen ejecutivo de documentos extensos",
       "Extracción de datos clave y cifras relevantes",
@@ -18790,7 +18790,7 @@
     "fecha_agregado": "2026-10-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 10
+    "intentos_web": 11
   },
   {
     "nombre": "Mistral Large 4",
@@ -21572,7 +21572,7 @@
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Gologin Cloud Browser",
@@ -21756,6 +21756,310 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-01",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ClawsGO Science",
+    "compania": "Claws Scientific AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Agente de investigación en la nube que automatiza experimentos científicos y análisis de datos para acelerar descubrimientos.",
+    "web": "https://clawsgo.com",
+    "funciones": [
+      "Automatización de experimentos",
+      "Análisis de datos científicos",
+      "Simulación de resultados",
+      "Gestión de hipótesis",
+      "Integración con bases de datos de investigación"
+    ],
+    "caracteristicas": [
+      "Entorno de laboratorio virtual en la nube",
+      "Interfaz intuitiva para configuración de experimentos",
+      "Resultados reproducibles y exportables",
+      "Escalabilidad para grandes conjuntos de datos",
+      "API para integración con herramientas externas"
+    ],
+    "etica": "Se garantiza la privacidad de los datos de investigación, aunque es necesario vigilar sesgos en la interpretación automática de resultados científicos.",
+    "limite_gratis": "Plan gratuito permite hasta 5 experimentos mensuales con almacenamiento limitado de resultados.",
+    "id": "clawsgo-science-553284",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Drex Max v1",
+    "compania": "Drex Labs",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Modelo de 27 mil millones de parámetros optimizado para toma de decisiones, ejecutable localmente en hardware Apple Silicon.",
+    "web": "https://nace.ai",
+    "funciones": [
+      "Toma de decisiones automatizada",
+      "Procesamiento de lenguaje natural",
+      "Ejecución local en dispositivos Apple",
+      "Evaluación de escenarios",
+      "Integración con flujos de trabajo locales"
+    ],
+    "caracteristicas": [
+      "27B parámetros",
+      "Ejecución exclusiva en Apple Silicon",
+      "Alta puntuación de rendimiento (67.52)",
+      "Sin dependencia de nube",
+      "Peso optimizado para eficiencia"
+    ],
+    "etica": "Al ejecutarse localmente, se protege la privacidad de los datos, aunque se debe asegurar la transparencia en los procesos de toma de decisiones del modelo.",
+    "limite_gratis": "Sin plan gratuito; requiere hardware Apple Silicon y licencia de uso.",
+    "id": "drex-max-v1-4df5cf",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "agentmash",
+    "compania": "agentmash OSS",
+    "tipo": "Agentes IA",
+    "precio": "Gratuito",
+    "descripcion": "Sistema open-source que permite a equipos colaborar coordinando múltiples agentes de programación de forma simultánea.",
+    "web": "https://agentmash.com",
+    "funciones": [
+      "Coordinación multiajente",
+      "Colaboración en tiempo real",
+      "Gestión de tareas de código",
+      "Interfaz de trabajo colaborativa",
+      "Integración con repositorios Git"
+    ],
+    "caracteristicas": [
+      "Código abierto (licencia MIT/Apache)",
+      "Soporte multijugador",
+      "Compatibilidad con múltiples entornos de desarrollo",
+      "Registro de acciones de agentes",
+      "Escalabilidad para equipos grandes"
+    ],
+    "etica": "Al ser de código abierto, la transparencia es alta, pero se debe vigilar el uso responsable de agentes autónomos en entornos de producción.",
+    "limite_gratis": "Totalmente gratuito y de código abierto, sin límites de uso en la versión base.",
+    "id": "agentmash-4dbc47",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Factory Droid 1.0",
+    "compania": "Factory AI",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Framework que estandariza el llamado programático de herramientas para agentes de programación, permitiendo operar con cualquier modelo base sin depender de un proveedor único. Facilita la integración de capacidades de código en flujos de agentes autónomos.",
+    "web": "https://factory.ai/droid",
+    "funciones": [
+      "Llamado programático de herramientas",
+      "Integración con múltiples modelos de lenguaje",
+      "Orquestación de flujos de código",
+      "Ejecución segura de agentes de programación",
+      "Estándar de interoperabilidad para herramientas"
+    ],
+    "caracteristicas": [
+      "Independiente del modelo base",
+      "Estándar abierto de llamadas a herramientas",
+      "Compatible con entornos de desarrollo",
+      "Escalable para flujos de ingeniería",
+      "Documentación técnica para integración"
+    ],
+    "etica": "Al reducir la dependencia de un solo proveedor de IA, fomenta la transparencia, aunque requiere auditoría del código generado para evitar sesgos o fallos de seguridad en entornos de producción.",
+    "limite_gratis": "El plan gratuito permite usar el framework en proyectos individuales con un número limitado de llamadas a herramientas por mes.",
+    "id": "factory-droid-1-0-c6f039",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Click",
+    "compania": "Click AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "API gestionada que simplifica la ejecución de agentes de IA con cualquier modelo, eliminando la complejidad de infraestructura y orquestación.",
+    "web": "https://click.ai",
+    "funciones": [
+      "Ejecución de agentes sin servidor",
+      "Compatibilidad con múltiples modelos",
+      "Gestión de orquestación automática",
+      "Escalado dinámico",
+      "Monitorización de rendimiento"
+    ],
+    "caracteristicas": [
+      "Independencia de proveedor",
+      "Alta disponibilidad",
+      "Facturación por uso",
+      "SDKs multiplataforma",
+      "Logs detallados de ejecuciones"
+    ],
+    "etica": "Al abstraer la infraestructura, se democratiza el acceso a agentes IA, pero es crucial mantener transparencia en cómo se manejan los datos entre modelos y usuarios.",
+    "limite_gratis": "Plan gratuito incluye 10,000 ejecuciones de agentes al mes con modelos estándar.",
+    "id": "click-316853",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "agent-desktop",
+    "compania": "agent-desktop Community",
+    "tipo": "Asistente de programación",
+    "precio": "Gratuito",
+    "descripcion": "Herramienta de línea de comandos que permite a agentes de IA interactuar con el sistema operativo leyendo árboles de accesibilidad, otorgando uso de computadora.",
+    "web": "https://github.com/vercel-labs/agent-desktop",
+    "funciones": [
+      "Lectura de árboles de accesibilidad del SO",
+      "Ejecución de comandos automáticos",
+      "Interacción con interfaces gráficas",
+      "Compatibilidad multiplataforma",
+      "Registro de acciones del agente"
+    ],
+    "caracteristicas": [
+      "Código abierto bajo licencia Apache-2.0",
+      "Ligero y rápido",
+      "Sin necesidad de privilegios root",
+      "Soporte para múltiples lenguajes de agente",
+      "Fácil integración en entornos de desarrollo"
+    ],
+    "etica": "Al leer árboles de accesibilidad del sistema operativo, se deben considerar implicaciones de privacidad y seguridad, asegurando que los agentes no accedan a datos sensibles sin consentimiento.",
+    "limite_gratis": "Totalmente gratuito y de código abierto, sin restricciones de uso en la versión base.",
+    "id": "agent-desktop-7577ca",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Embage",
+    "descripcion": "Plataforma para crear agentes de IA orientados a clientes, ejecutar flujos de trabajo automatizados y analizar interacciones para mejorar la experiencia del usuario. Permite diseñar asistentes sin necesidad de programación avanzada.",
+    "precio": "Freemium",
+    "funciones": [
+      "Creación de agentes para clientes",
+      "Ejecución de flujos de trabajo",
+      "Análisis de interacciones",
+      "Integración con canales de atención",
+      "Monitoreo de rendimiento"
+    ],
+    "caracteristicas": [
+      "Constructor visual de agentes",
+      "Automatización de procesos empresariales",
+      "Panel de analítica en tiempo real",
+      "Soporte multicanal",
+      "Exportación de reportes"
+    ],
+    "etica": "El análisis de interacciones con clientes debe respetar la privacidad de los datos y evitar sesgos en las respuestas automáticas que puedan afectar la experiencia del usuario.",
+    "web": "https://embage.com/",
+    "tipo": "Agentes IA",
+    "compania": "Embage AI",
+    "id": "embage-c99faa",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "El plan gratuito permite crear un número limitado de agentes y ejecutar flujos básicos con una cuota mensual de análisis restringida.",
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Fluent 2",
+    "descripcion": "Compañeros de IA que se ejecutan localmente en macOS, ofreciendo asistencia sin depender de la nube.",
+    "compania": "Fluent AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "funciones": [
+      "Ejecución local en macOS",
+      "Asistencia en tareas diarias",
+      "Integración con aplicaciones nativas",
+      "Respuesta sin latencia de nube",
+      "Privacidad de datos en dispositivo"
+    ],
+    "caracteristicas": [
+      "Optimizado para hardware Apple",
+      "Interfaz nativa en macOS",
+      "Sincronización opcional con nube",
+      "Soporte para múltiples idiomas",
+      "Actualizaciones automáticas"
+    ],
+    "etica": "Al ejecutarse completamente en el dispositivo, se maximiza la privacidad del usuario, aunque es necesario asegurar que las actualizaciones de modelos no introduzcan sesgos ocultos.",
+    "limite_gratis": "Sin plan gratuito; requiere compra de la aplicación para macOS.",
+    "web": "https://fluent2.microsoft.design",
+    "id": "fluent-2-598e55",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Riverside Agents",
+    "descripcion": "Equipo de agentes de IA especializados en la producción, edición y publicación de contenido de vídeo.",
+    "compania": "Riverside AI",
+    "tipo": "Generación de vídeo",
+    "precio": "Pago",
+    "funciones": [
+      "Producción de guiones y storyboards",
+      "Edición automática de vídeo",
+      "Clipping y resaltados",
+      "Optimización para plataformas",
+      "Publicación y distribución programada"
+    ],
+    "caracteristicas": [
+      "Agentes especializados por etapa del pipeline",
+      "Salida de alta calidad (4K)",
+      "Integración con plataformas de redes sociales",
+      "Flujos de trabajo automatizados",
+      "Interfaz de línea de tiempo asistida por IA"
+    ],
+    "etica": "La generación automatizada de vídeo plantea riesgos de deepfakes y desinformación; es necesario implementar marcas de agua y políticas de uso responsable.",
+    "limite_gratis": "Sin plan gratuito; requiere suscripción para acceder a capacidades de generación y edición de vídeo.",
+    "web": "https://www.producthunt.com/products/riverside-fm",
+    "id": "riverside-agents-70dc52",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Modelpeers",
+    "descripcion": "Plataforma para seguir y descubrir modelos de IA y agentes, similar a seguir perfiles de personas.",
+    "compania": "Modelpeers Inc.",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Seguimiento de modelos y agentes",
+      "Descubrimiento de nuevas herramientas",
+      "Feed de actualizaciones y capacidades",
+      "Perfiles personalizables",
+      "Interacción con comunidad de IA"
+    ],
+    "caracteristicas": [
+      "Interfaz tipo redes sociales",
+      "Alertas de actualizaciones de modelos",
+      "Categorización por dominio y capacidad",
+      "Privacidad controlada de seguimientos",
+      "Integración con directorios de IA"
+    ],
+    "etica": "Al seguir modelos y agentes como perfiles, es crucial mantener transparencia sobre las capacidades reales y evitar la antropomorfización indiscriminada.",
+    "limite_gratis": "Plan gratuito permite seguir hasta 50 modelos y agentes con notificaciones básicas.",
+    "web": "https://www.producthunt.com/products/modelpeers",
+    "id": "modelpeers-87c309",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-02",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

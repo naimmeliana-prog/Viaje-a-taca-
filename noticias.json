@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-11-01T01:41:04Z",
+  "actualizado": "2026-11-02T02:03:50Z",
   "novedades": [
+    {
+      "titulo": "El satélite Suncatcher de Google ya ejecuta IA en órbita y ha enviado un haiku como primera señal de vida",
+      "resumen": "El satélite Suncatcher de Google ejecutó el modelo Gemma 4 en órbita y devolvió un haiku. Qué es, por qué importa y qué falta para que sea viable.La noticia El satélite Suncatcher de Google ya ejecuta IA en órbita y ha e",
+      "enlace": "https://wwwhatsnew.com/2026/11/02/google-suncatcher-satelite-ia-orbita-haiku-gemma/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-02T01:00:00Z"
+    },
+    {
+      "titulo": "Harto de la basura en las carreteras, un desarrollador ha creado una “dashcam” con IA que la detecta, clasifica e informa",
+      "resumen": "Harto de ver cómo la gente tiraba basura en las carreteras, un desarrollador de software se las ha ingeniado para convertir su móvil en un monitor de basura inteligente para carreteras. Con ayuda de un soporte para coloc",
+      "enlace": "https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa",
+      "medio": "Xataka",
+      "fecha": "2026-11-01T16:31:27Z"
+    },
+    {
+      "titulo": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI",
+      "resumen": "Un millón de yuanes al año (unos 134.000 euros). Ese es el sueldo que las grandes tecnologícas chinas, entre ellas ByteDance, Tencent y Alibaba, están ofreciendo a un perfil técnico muy concreto, como explica el South Ch",
+      "enlace": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai",
+      "medio": "Xataka",
+      "fecha": "2026-11-01T14:01:28Z"
+    },
+    {
+      "titulo": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
+      "resumen": "Antes descargabas una aplicación para algo muy concreto que necesitabas y debías aguantar el resto de funciones extra. Para competir, los desarrolladores fueron engordando sus apps hasta niveles a menudo absurdos. Así qu",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
+      "medio": "Xataka",
+      "fecha": "2026-11-01T13:01:28Z"
+    },
+    {
+      "titulo": "VOLTA, el malware que roba tus datos y luego pide a una IA que calcule cuánto vales",
+      "resumen": "VOLTA, un malware para Windows, roba tus datos y pide a una IA que redacte tu perfil y calcule qué cuentas son más rentables, según Cisco Talos.La noticia VOLTA, el malware que roba tus datos y luego pide a una IA que ca",
+      "enlace": "https://wwwhatsnew.com/2026/11/01/volta-malware-ia-perfila-victimas-infostealer/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-01T13:00:00Z"
+    },
+    {
+      "titulo": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
+      "resumen": "Pocas veces me ha parecido tan útil un agente como cuando lo he utilizado para que me resolviera tareas que a mí me resultan imposibles. Dar de baja mi moto antigua, por ejemplo, la que tiene dos dedos de polvo y lleva s",
+      "enlace": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
+      "medio": "Xataka",
+      "fecha": "2026-11-01T11:01:26Z"
+    },
+    {
+      "titulo": "Un investigador de IA advierte ante el Ayuntamiento de Nueva York: \"Estamos compitiendo por crear y desarrollar a nuestro propio adversario\"",
+      "resumen": "La carrera por desarrollar sistemas de IA cada vez más avanzados está preocupando a una parte importante de los investigadores que trabajaron en dicha tecnología. Mientras las Big Tech compiten por mejorar sus modelos, v",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/investigador-ia-advierte-ayuntamiento-nueva-york-estamos-compitiendo-crear-desarrollar-a-nuestro-propio-adversario",
+      "medio": "Genbeta",
+      "fecha": "2026-11-01T11:01:25Z"
+    },
+    {
+      "titulo": "El negocio que Anthropic promete a sus inversores vale 40 billones. Es lo que cobramos quienes hacemos lo que quiere hacer su IA",
+      "resumen": "Los folletos de salida a bolsa AKA \"prospectos\" en España, S-1 en Estados Unidos, son un peñazo porque deben serlo. Al menos para cualquiera que no sea abogado, economista o un simple entusiasta de las páginas salmón. Al",
+      "enlace": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
+      "medio": "Xataka",
+      "fecha": "2026-11-01T10:01:31Z"
+    },
+    {
+      "titulo": "Google, Microsoft, OpenAI y Anthropic aceptarán una sola línea en robots.txt para decir «no entrenes con mi web»",
+      "resumen": "Google, Microsoft, OpenAI y Anthropic respetarán una sola regla en robots.txt para no entrenar con tu web. Cuándo funcionará y qué no incluye.La noticia Google, Microsoft, OpenAI y Anthropic aceptarán una sola línea en r",
+      "enlace": "https://wwwhatsnew.com/2026/11/01/robots-txt-senal-comun-entrenamiento-ia-google-microsoft-openai-anthropic/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-01T09:00:00Z"
+    },
     {
       "titulo": "Generar vídeo con IA: qué herramientas siguen en pie, qué marcas de agua llevan los clips y qué te prohíben hacer",
       "resumen": "Sora cerró en abril de 2026. Qué generadores de vídeo con IA funcionan en España, cómo detectar SynthID y qué prohíben sus normas.La noticia Generar vídeo con IA: qué herramientas siguen en pie, qué marcas de agua llevan",
@@ -65,13 +128,6 @@
       "fecha": "2026-10-30T16:01:30Z"
     },
     {
-      "titulo": "Qué recuerdan de ti ChatGPT, Gemini y Claude entre conversaciones, y cómo verlo, corregirlo o apagarlo",
-      "resumen": "Borrar un chat no borra lo que ChatGPT o Claude aprendieron de él. Así ves, corriges y apagas la memoria de los tres grandes chatbots.La noticia Qué recuerdan de ti ChatGPT, Gemini y Claude entre conversaciones, y cómo v",
-      "enlace": "https://wwwhatsnew.com/2026/10/30/memoria-chatgpt-gemini-claude-ver-borrar-desactivar/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-30T16:00:00Z"
-    },
-    {
       "titulo": "Solo el 13% de las empresas españolas controla el consumo energético asociado a la IA",
       "resumen": "El Barómetro IA 2026 de ESSCA y Forvis Mazars sitúa al Reino Unido a la cabeza en adopción y gobernanza de la IA, mientras España destaca por su infraestructura de datos y conocimiento del AI Act L'articolo Solo el 13% d",
       "enlace": "https://www.computing.es/sostenibilidad/solo-el-13-de-las-empresas-espanolas-controla-el-consumo-energetico-asociado-a-la-ia/",
@@ -114,55 +170,6 @@
       "fecha": "2026-10-30T07:30:00Z"
     },
     {
-      "titulo": "Gemini 4 Carbon: el modelo más potente de Google llega primero a los defensores de ciberseguridad, y el resto tendrá que esperar",
-      "resumen": "Google presenta Gemini 4 Carbon, su modelo más potente: lidera en ciberseguridad, pero solo llega a defensores. Sin fecha ni API para el resto.La noticia Gemini 4 Carbon: el modelo más potente de Google llega primero a l",
-      "enlace": "https://wwwhatsnew.com/2026/10/30/gemini-4-carbon-google-modelo-ciberseguridad-acceso-limitado/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-30T01:00:00Z"
-    },
-    {
-      "titulo": "GitHub ha tenido que hacer algo a gran escala para seguir el ritmo de la IA. Sus cifras explican hasta qué punto",
-      "resumen": "Estamos acostumbrados a hablar de la inteligencia artificial en términos de plo que puede hacer por nosotros: escribir una función, corregir un error o ayudarnos a terminar una aplicación. Sin embargo, cada vez que ese t",
-      "enlace": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
-      "medio": "Xataka",
-      "fecha": "2026-10-29T20:30:00Z"
-    },
-    {
-      "titulo": "Una IA estima la edad biológica y el riesgo de muerte de pacientes con cáncer a partir de una foto de su cara: lo que promete y lo que falta por demostrar",
-      "resumen": "Una IA estima la edad biológica y el riesgo de muerte de pacientes con cáncer con una foto de la cara. Aún no está lista para la consulta.La noticia Una IA estima la edad biológica y el riesgo de muerte de pacientes con ",
-      "enlace": "https://wwwhatsnew.com/2026/10/29/ia-foto-cara-supervivencia-cancer-faceage-facesurvival/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-29T20:00:00Z"
-    },
-    {
-      "titulo": "España no logra bajar del 10% de paro pese a sus excelentes resultados de empleo: la sospecha recae sobre la IA",
-      "resumen": "Cuando una pared cede, el primer aviso casi nunca es un derrumbe inmediato. Suele ser una fina grieta en la pintura apenas perceptible, a menos que la estés buscando. Con la IA y el empleo pasa algo parecido: tres años p",
-      "enlace": "https://www.xataka.com/empresas-y-economia/ia-empieza-a-dejar-huella-paro-espanol-expuestos-programadores-disenadores",
-      "medio": "Xataka",
-      "fecha": "2026-10-29T17:15:00Z"
-    },
-    {
-      "titulo": "Ante el gigantesco reto de construir cada vez más centros de datos, EEUU está creando el \"Tesla de las excavadoras\"",
-      "resumen": "Excavar terreno para una carretera, una fábrica o un centro de datos parece un trabajo seguro para un humano porque se sigue dependiendo de una persona a los mandos del aparato. Sin embargo, una startup de San Francisco ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/empresa-esta-creando-tesla-excavadoras-ia-fisica-arriba-sensores-para-levantar-centros-datos",
-      "medio": "Xataka",
-      "fecha": "2026-10-29T15:30:00Z"
-    },
-    {
-      "titulo": "El 11% de los ingresos de Microsoft ya dependen de OpenAI: es una buena y mala noticia al mismo tiempo",
-      "resumen": "Microsoft ha cerrado su primer trimestre fiscal de 2027 con mayor beneficio, más crecimiento en Azure y un flujo de caja que muchas grandes tecnologías envidiarían ante un enorme gasto en IA. Estas buenas cifras, evident",
-      "enlace": "https://www.xataka.com/empresas-y-economia/openai-supone-11-ingresos-microsoft-eso-buena-mala-noticia",
-      "medio": "Xataka",
-      "fecha": "2026-10-29T14:15:00Z"
-    },
-    {
-      "titulo": "Una empleada de Amazon muere tras dejar su medicación contra la epilepsia aconsejada por ChatGPT, según el NYT",
-      "resumen": "Bowen Wan tenía 31 años, trabajaba como ingeniera de software en Amazon y sufría una epilepsia grave. En enero de 2026, ante la posibilidad de perder su empleo y su derecho a permanecer en Estados Unidos, recurrió a Chat",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ingeniera-amazon-pregunto-a-chatgpt-como-dejar-su-medicacion-epilepsia-ia-le-diseno-calendario-25-dias-que-ha-terminado-tragedia",
-      "medio": "Xataka",
-      "fecha": "2026-10-29T13:30:00Z"
-    },
-    {
       "titulo": "Dell Technologies impulsa la IA agéntica empresarial junto con NVIDIA",
       "resumen": "Se prevé que la IA agéntica empresarial se convierta en la mayor carga de trabajo en 2028 y crezca casi tres veces más rápido que la IA generativa hasta 2030 L'articolo Dell Technologies impulsa la IA agéntica empresaria",
       "enlace": "https://www.computing.es/noticias/dell-technologies-impulsa-la-ia-agentica-empresarial-junto-con-nvidia/",
@@ -203,13 +210,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/sam-altman-urge-a-las-empresas-a-priorizar-la-ciberseguridad-de-la-ai-frente-a-la-productividad-en-el-oracle-ai-world/",
       "medio": "Computing.es",
       "fecha": "2026-10-28T07:30:00Z"
-    },
-    {
-      "titulo": "¿Qué están haciendo Spotify, YouTube Music y Apple Music con la música hecha con IA?",
-      "resumen": "La inteligencia artificial también está cambiando la forma en la que escuchamos música. Y no solo porque ahora puedes pedirle a Gemini o ChatGPT que te recomiende canciones, sino porque muchos están usando los modelos [&",
-      "enlace": "https://blogthinkbig.com/que-estan-haciendo-spotify-youtube-music-y-apple-music-con-la-musica-hecha-con-ia",
-      "medio": "Think Big",
-      "fecha": "2026-10-27T16:30:21Z"
     }
   ],
   "etica": [
