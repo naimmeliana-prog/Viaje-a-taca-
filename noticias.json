@@ -1,47 +1,159 @@
 {
-  "actualizado": "2026-11-02T02:03:50Z",
+  "actualizado": "2026-11-04T02:54:46Z",
   "novedades": [
     {
-      "titulo": "El satélite Suncatcher de Google ya ejecuta IA en órbita y ha enviado un haiku como primera señal de vida",
-      "resumen": "El satélite Suncatcher de Google ejecutó el modelo Gemma 4 en órbita y devolvió un haiku. Qué es, por qué importa y qué falta para que sea viable.La noticia El satélite Suncatcher de Google ya ejecuta IA en órbita y ha e",
-      "enlace": "https://wwwhatsnew.com/2026/11/02/google-suncatcher-satelite-ia-orbita-haiku-gemma/",
+      "titulo": "Editar fotos con IA en el móvil: borrar objetos y mover personas con Google Fotos, Apple Fotos y Samsung Galería, y qué rastro dejan",
+      "resumen": "Borrar o mover personas en una foto ya es un toque en Google Fotos, Apple y Samsung. Lo que cambia es la marca que deja cada una, visible o no.La noticia Editar fotos con IA en el móvil: borrar objetos y mover personas c",
+      "enlace": "https://wwwhatsnew.com/2026/11/03/editar-fotos-ia-movil-borrar-objetos-google-fotos-apple-samsung/",
       "medio": "WWWhat's new",
-      "fecha": "2026-11-02T01:00:00Z"
+      "fecha": "2026-11-03T16:00:00Z"
     },
     {
-      "titulo": "Harto de la basura en las carreteras, un desarrollador ha creado una “dashcam” con IA que la detecta, clasifica e informa",
-      "resumen": "Harto de ver cómo la gente tiraba basura en las carreteras, un desarrollador de software se las ha ingeniado para convertir su móvil en un monitor de basura inteligente para carreteras. Con ayuda de un soporte para coloc",
-      "enlace": "https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa",
+      "titulo": "Nvidia quiere adquirir Reflection AI. ¿Qué es y deben temer OpenAI, Anthropic y demás?",
+      "resumen": "Reflection AI es una de las tantas startups de IA que emergieron en los últimos años para posicionarse entre las más destacadas de la industria. Recientemente, la compañía ha sido noticia por un supuesto interés [&#8230;",
+      "enlace": "https://blogthinkbig.com/nvidia-quiere-adquirir-reflection-ai-que-es-y-deben-temer-openai-anthropic-y-demas",
+      "medio": "Think Big",
+      "fecha": "2026-11-03T15:20:08Z"
+    },
+    {
+      "titulo": "Anthropic ya ingresa 17.000 millones al trimestre. Su factura de computación es más de 50 veces mayor",
+      "resumen": "Anthropic, la empresa de Claude, ha desvelado sus resultados del tercer trimestre a pocas semanas de salir a bolsa. Ha ingresado 17.000 millones de dólares y acumula compromisos de gasto por unos 895.400 millones, sobre ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/anthropic-ingresa-17-000-millones-al-trimestre-su-factura-computacion-50-veces-mayor",
       "medio": "Xataka",
-      "fecha": "2026-11-01T16:31:27Z"
+      "fecha": "2026-11-03T15:15:28Z"
     },
     {
-      "titulo": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI",
-      "resumen": "Un millón de yuanes al año (unos 134.000 euros). Ese es el sueldo que las grandes tecnologícas chinas, entre ellas ByteDance, Tencent y Alibaba, están ofreciendo a un perfil técnico muy concreto, como explica el South Ch",
-      "enlace": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai",
-      "medio": "Xataka",
-      "fecha": "2026-11-01T14:01:28Z"
-    },
-    {
-      "titulo": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
-      "resumen": "Antes descargabas una aplicación para algo muy concreto que necesitabas y debías aguantar el resto de funciones extra. Para competir, los desarrolladores fueron engordando sus apps hasta niveles a menudo absurdos. Así qu",
-      "enlace": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
-      "medio": "Xataka",
-      "fecha": "2026-11-01T13:01:28Z"
-    },
-    {
-      "titulo": "VOLTA, el malware que roba tus datos y luego pide a una IA que calcule cuánto vales",
-      "resumen": "VOLTA, un malware para Windows, roba tus datos y pide a una IA que redacte tu perfil y calcule qué cuentas son más rentables, según Cisco Talos.La noticia VOLTA, el malware que roba tus datos y luego pide a una IA que ca",
-      "enlace": "https://wwwhatsnew.com/2026/11/01/volta-malware-ia-perfila-victimas-infostealer/",
+      "titulo": "Logran arrancar iOS en un Redmi Note 12, un móvil Android, con ayuda de agentes de IA como Claude",
+      "resumen": "Logran arrancar iOS 16 en un Redmi Note 12 sustituyendo su núcleo por el de un iPhone X y con ayuda de agentes de IA como Claude. Qué funciona y qué no.La noticia Logran arrancar iOS en un Redmi Note 12, un móvil Android",
+      "enlace": "https://wwwhatsnew.com/2026/11/03/ios-redmi-note-12-android-claude-ia/",
       "medio": "WWWhat's new",
-      "fecha": "2026-11-01T13:00:00Z"
+      "fecha": "2026-11-03T13:00:00Z"
     },
     {
-      "titulo": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
-      "resumen": "Pocas veces me ha parecido tan útil un agente como cuando lo he utilizado para que me resolviera tareas que a mí me resultan imposibles. Dar de baja mi moto antigua, por ejemplo, la que tiene dos dedos de polvo y lleva s",
-      "enlace": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
+      "titulo": "Brett Adcock, CEO de Figure AI y joven gurú de la IA: “Estamos creando una nueva especie”",
+      "resumen": "“Estamos creando una nueva especie”, dijo Brett Adcock, fundador y CEO de Figure AI. Lo decía en una conversación que mantuvo con Marc Benioff (Salesforce) en la que hablaban de los robots humanoides. “Estamos creando un",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/brett-adcock-ceo-figure-ai-joven-guru-ia-estamos-creando-nueva-especie",
+      "medio": "Genbeta",
+      "fecha": "2026-11-03T12:01:28Z"
+    },
+    {
+      "titulo": "Una IA ha mejorado a otra de la forma más inesperada: recortándole lo que le estorbaba",
+      "resumen": "Conseguir un nuevo modelo de lenguaje no es una tarea trivial. Este proceso abarca un largo plan de entrenamiento y altas capacidades de cómputo hasta afinar el LLM y conseguir que pueda procesar las consultas y resolver",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ia-ha-hecho-mejor-a-otra-ia-metodo-inesperado-recortarle-que-le-estorbaba",
       "medio": "Xataka",
-      "fecha": "2026-11-01T11:01:26Z"
+      "fecha": "2026-11-03T11:00:00Z"
+    },
+    {
+      "titulo": "Readwise Books quiere plantar cara a Amazon: una app que junta tienda de libros, seguimiento de lecturas e IA",
+      "resumen": "Readwise Books junta tienda de libros, seguimiento de lecturas e IA para competir con el Kindle de Amazon. Gratis y por invitación.La noticia Readwise Books quiere plantar cara a Amazon: una app que junta tienda de libro",
+      "enlace": "https://wwwhatsnew.com/2026/11/03/readwise-books-app-libros-ia-rival-kindle/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-03T11:00:00Z"
+    },
+    {
+      "titulo": "De la banca a la universidad: Cómo las empresas empiezan a llevar la IA agéntica a casos reales",
+      "resumen": "La adopción de agentes de inteligencia artificial empieza a trasladarse de los pilotos a experiencias concretas en sectores muy distintos, desde la transformación de la experiencia bancaria hasta la atención académica o ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/de-la-banca-a-la-universidad-como-las-empresas-empiezan-a-llevar-la-ia-agentica-a-casos-reales/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-03T08:00:00Z"
+    },
+    {
+      "titulo": "OpenAI unificará Chat y Work en ChatGPT, y a partir de diciembre compartirán los límites de uso con Codex",
+      "resumen": "OpenAI une Chat y Work en ChatGPT y, desde diciembre, ChatGPT y Codex compartirán una misma bolsa de uso en Plus, Pro y Business.La noticia OpenAI unificará Chat y Work en ChatGPT, y a partir de diciembre compartirán los",
+      "enlace": "https://wwwhatsnew.com/2026/11/03/openai-chatgpt-chat-work-codex-limites-compartidos/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-03T07:00:00Z"
+    },
+    {
+      "titulo": "Gemini en Gmail y Copilot en Outlook: qué hacen con tus correos, en qué planes llegan a España y cómo desactivarlos",
+      "resumen": "En la UE, la IA de Gmail llega apagada; Copilot viene con Microsoft 365. Qué leen de tus correos, en qué planes están y cómo quitarlos.La noticia Gemini en Gmail y Copilot en Outlook: qué hacen con tus correos, en qué pl",
+      "enlace": "https://wwwhatsnew.com/2026/11/02/gemini-gmail-copilot-outlook-que-hacen-correos-planes-datos-desactivar/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-02T21:00:00Z"
+    },
+    {
+      "titulo": "Google ha dado un paso clave hacia los centros de datos espaciales: acaba de ejecutar IA en órbita",
+      "resumen": "Nos hemos acostumbrado a utilizar la inteligencia artificial para tareas tan cotidianas como resolver una duda o traducir un texto. Lo hacemos desde el móvil o el ordenador, sin detenernos demasiado en los enormes recurs",
+      "enlace": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T20:01:24Z"
+    },
+    {
+      "titulo": "Juan Castro, electricista: “La IA hará que los electricistas y el sector oficio seamos los mejor pagados”",
+      "resumen": "Para Juan Castro, la IA es una buena oportunidad. En el vídeo que publicó, señala que los oficios van a ser de los trabajos mejor pagados. Según cuenta, tiene más trabajo del que puede hacer y hay demanda de profesionale",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/juan-castro-electricista-ia-hara-que-electricistas-sector-oficio-seamos-mejor-pagados",
+      "medio": "Genbeta",
+      "fecha": "2026-11-02T19:01:30Z"
+    },
+    {
+      "titulo": "Shigeru Miyamoto, padre de Super Mario y Zelda: \"Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros\"",
+      "resumen": "El creador de 'Super Mario' y 'The Legend of Zelda' tiene 73 años y ha vivido unas cuantas revoluciones tecnológicas. Por eso cuando le preguntaron por su opinión sobre la IA generativa su respuesta fue de todo menos dra",
+      "enlace": "https://www.xataka.com/robotica-e-ia/shigeru-miyamoto-padre-super-mario-zelda-ia-llegara-a-encargarse-todo-siempre-habra-papel-para-nosotros",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T19:01:26Z"
+    },
+    {
+      "titulo": "OpenAI combinará Chat y Work y hará realidad lo que muchos temían: ChatGPT y Codex compartirán los límites de uso",
+      "resumen": "Durante mucho tiempo, nuestra principal preocupación al abrir ChatGPT era conseguir una buena respuesta. Ahora hay otra pregunta que empieza a acompañar a quienes lo utilizan para algo más que conversar: cuánto margen qu",
+      "enlace": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T18:00:00Z"
+    },
+    {
+      "titulo": "Apple Intelligence, Galaxy AI y Gemini en Android: qué IA del móvil puedes usar en España y dónde se procesa cada cosa",
+      "resumen": "Siri AI no llega al iPhone en la UE, Galaxy AI exige cuenta y conexión, y Gemini guarda chats 18 meses. Qué IA móvil tienes en España.La noticia Apple Intelligence, Galaxy AI y Gemini en Android: qué IA del móvil puedes ",
+      "enlace": "https://wwwhatsnew.com/2026/11/02/ia-movil-apple-intelligence-galaxy-ai-gemini-espana/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-02T17:00:00Z"
+    },
+    {
+      "titulo": "Google por fin te da la respuesta que buscas a la primera. Y ese es exactamente el origen de sus problemas",
+      "resumen": "Que todas las empresas se han volcado en la IA no es algo que a estas alturas nos sorprenda, ya que basta con abrir casi cualquier app, servicio o plataforma para ver que está ahí. Los chatbots son omnipresentes, las her",
+      "enlace": "https://www.xataka.com/robotica-e-ia/google-ha-mejorado-su-buscador-ia-que-se-ha-encontrado-problema-necesita-empeorarlo-para-ganar-dinero",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T16:30:00Z"
+    },
+    {
+      "titulo": "El nuevo cuello de botella de la IA no son los chips ni la energía: es el dinero barato",
+      "resumen": "Los inversores se han vuelto mucho más exigentes a la hora de prestar dinero a la IA, según el WSJ. Las más afectadas son empresas como CoreWeave, Nebius y Nscale, que se endeudan para construir centros de datos y alquil",
+      "enlace": "https://www.xataka.com/empresas-y-economia/nuevo-cuello-botella-ia-no-chips-energia-dinero-barato",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T15:01:27Z"
+    },
+    {
+      "titulo": "Sam Altman, CEO de ChatGPT: \"Es bastante terrible que la gente tenga memoria RAM en su PC utilizándose sólo el 5 % del tiempo\"",
+      "resumen": "John Collison es el cofundador de la plataforma Stripe y tiene un podcast llamado Cheeky Pint en el que altos mandos de empresas tecnológicas pasan a hablar de sus cosas. Un ejemplo reciente es el de Susan Li, CFO de Met",
+      "enlace": "https://www.xataka.com/robotica-e-ia/sam-altman-ceo-chatgpt-bastante-terrible-que-gente-tenga-memoria-ram-su-pc-utilizandose-solo-5-tiempo",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T12:31:30Z"
+    },
+    {
+      "titulo": "Tener tu propia IA en casa se está volviendo un lujo. Y a OpenAI no le viene nada mal",
+      "resumen": "Llevo bastante tiempo detrás de una tarjeta gráfica potente no solo para subir de calidad mis juegos en el PC, también para tener un banco de pruebas para IA local. Y es imposible. Se me antojó una RTX 5090, después fui ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T11:45:00Z"
+    },
+    {
+      "titulo": "Alguien ha conseguido lo que parecía imposible: un Redmi Note 12 ejecutando iOS. Con ayuda de Claude, claro",
+      "resumen": "A lo largo de todos estos años hemos visto mil y un ejemplos de modders intentando ejecutar iOS en teléfonos Android y viceversa. Han sido proyectos que, en su mayoría, han acabado en balde, pero en un contexto en el que",
+      "enlace": "https://www.xataka.com/moviles/alguien-ha-conseguido-que-parecia-imposible-redmi-note-12-ejecutando-ios-ayuda-claude-claro",
+      "medio": "Xataka",
+      "fecha": "2026-11-02T11:01:28Z"
+    },
+    {
+      "titulo": "Instinct, el agente de IA al que le escribes por mensaje y te hace las gestiones que llevas meses posponiendo",
+      "resumen": "Instinct es un agente de IA al que escribes por mensaje y te hace los trámites: dio de baja una moto en diez minutos. Qué es y qué datos pide.La noticia Instinct, el agente de IA al que le escribes por mensaje y te hace ",
+      "enlace": "https://wwwhatsnew.com/2026/11/02/instinct-agente-ia-mensaje-gestiones-tramites/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-02T09:00:00Z"
+    },
+    {
+      "titulo": "Anthropic renombra sus planes de Claude: el Max 20x pasa a llamarse Ultra y pierde el límite de cinco horas",
+      "resumen": "Anthropic renombra Claude: Max 20x pasa a Ultra (200 dólares/mes, 180 euros) y quita el límite de cinco horas solo a cuentas verificadas. Qué cambia.La noticia Anthropic renombra sus planes de Claude: el Max 20x pasa a l",
+      "enlace": "https://wwwhatsnew.com/2026/11/02/anthropic-renombra-claude-max-ultra-limite-cinco-horas/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-02T07:00:00Z"
     },
     {
       "titulo": "Un investigador de IA advierte ante el Ayuntamiento de Nueva York: \"Estamos compitiendo por crear y desarrollar a nuestro propio adversario\"",
@@ -51,34 +163,6 @@
       "fecha": "2026-11-01T11:01:25Z"
     },
     {
-      "titulo": "El negocio que Anthropic promete a sus inversores vale 40 billones. Es lo que cobramos quienes hacemos lo que quiere hacer su IA",
-      "resumen": "Los folletos de salida a bolsa AKA \"prospectos\" en España, S-1 en Estados Unidos, son un peñazo porque deben serlo. Al menos para cualquiera que no sea abogado, economista o un simple entusiasta de las páginas salmón. Al",
-      "enlace": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
-      "medio": "Xataka",
-      "fecha": "2026-11-01T10:01:31Z"
-    },
-    {
-      "titulo": "Google, Microsoft, OpenAI y Anthropic aceptarán una sola línea en robots.txt para decir «no entrenes con mi web»",
-      "resumen": "Google, Microsoft, OpenAI y Anthropic respetarán una sola regla en robots.txt para no entrenar con tu web. Cuándo funcionará y qué no incluye.La noticia Google, Microsoft, OpenAI y Anthropic aceptarán una sola línea en r",
-      "enlace": "https://wwwhatsnew.com/2026/11/01/robots-txt-senal-comun-entrenamiento-ia-google-microsoft-openai-anthropic/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-01T09:00:00Z"
-    },
-    {
-      "titulo": "Generar vídeo con IA: qué herramientas siguen en pie, qué marcas de agua llevan los clips y qué te prohíben hacer",
-      "resumen": "Sora cerró en abril de 2026. Qué generadores de vídeo con IA funcionan en España, cómo detectar SynthID y qué prohíben sus normas.La noticia Generar vídeo con IA: qué herramientas siguen en pie, qué marcas de agua llevan",
-      "enlace": "https://wwwhatsnew.com/2026/10/31/generar-video-ia-herramientas-synthid-c2pa-usos-prohibidos/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-31T17:00:00Z"
-    },
-    {
-      "titulo": "Bill Gates, fundador de Microsoft: \"Consiste en contratar al robot, despedir al humano y no mirar atrás\"",
-      "resumen": "Este verano Bill Gates vaticinó algo: la adopción de la IA en el mercado laboral va a ser algo \"muy turbulento\" para lo que no estamos preparados. El cofundador de Microsoft se ha mostrado proclive a que se ponga impuest",
-      "enlace": "https://www.xataka.com/robotica-e-ia/bill-gates-fundador-microsoft-consiste-contratar-al-robot-despedir-al-humano-no-mirar-atras",
-      "medio": "Xataka",
-      "fecha": "2026-10-31T11:01:28Z"
-    },
-    {
       "titulo": "Bill Gates (70 años), fundador de Microsoft, advierte sobre la IA: \"Nunca ha existido un arma tan poderosa\" y exige límites obligatorios por seguridad",
       "resumen": "La IA está avanzando a tal velocidad que plantea nuevas dificultades para controlar sus posibles usos maliciosos. Aunque las grandes compañías tecnológicas continúan desarrollando modelos cada vez más capaces, algunas de",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/bill-gates-70-anos-fundador-microsoft-advierte-ia-nunca-ha-existido-arma-poderosa-exige-limites-obligatorios-seguridad",
@@ -86,67 +170,11 @@
       "fecha": "2026-10-31T11:01:28Z"
     },
     {
-      "titulo": "Investigación profunda (Deep Research) en ChatGPT, Gemini y Claude: cuándo compensa esperar el informe y cómo revisarlo",
-      "resumen": "Gemini tarda de 5 a 10 minutos por informe y ningún chatbot publica cuántos puedes pedir. Cuándo compensa Deep Research y cómo revisarlo.La noticia Investigación profunda (Deep Research) en ChatGPT, Gemini y Claude: cuán",
-      "enlace": "https://wwwhatsnew.com/2026/10/31/investigacion-profunda-deep-research-chatgpt-gemini-claude/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-31T09:00:00Z"
-    },
-    {
-      "titulo": "Gemini Notebook añade cientos de libros de texto gratuitos para crear guías de estudio, cuestionarios y fichas",
-      "resumen": "Gemini Notebook, el antiguo NotebookLM, suma cientos de libros de texto gratuitos para crear guías, cuestionarios y fichas. Lo que no dice Google.La noticia Gemini Notebook añade cientos de libros de texto gratuitos para",
-      "enlace": "https://wwwhatsnew.com/2026/10/31/gemini-notebook-libros-texto-gratis-guias-estudio/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-31T01:00:00Z"
-    },
-    {
-      "titulo": "Style Sketch: Meta prueba en silencio una app de moda con IA que crea tu armario a partir de tus fotos de Instagram",
-      "resumen": "Meta prueba Style Sketch, una app de moda con IA que crea tu armario con tus fotos de Instagram. Solo en tres países de Asia y con dudas sobre los datos.La noticia Style Sketch: Meta prueba en silencio una app de moda co",
-      "enlace": "https://wwwhatsnew.com/2026/10/31/style-sketch-meta-app-moda-ia-armario-instagram/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-30T23:00:00Z"
-    },
-    {
-      "titulo": "Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes",
-      "resumen": "En la carrera por la inteligencia artificial, Anthropic se ha convertido en una de las grandes promesas del sector. La compañía detrás de Claude ha conseguido atraer inversiones multimillonarias y se prepara para dar uno",
-      "enlace": "https://www.xataka.com/empresas-y-economia/blackstone-advierte-que-anthropic-se-arriesga-a-salir-a-bolsa-buena-calificacion-crediticia-golpe-para-sus-planes",
-      "medio": "Xataka",
-      "fecha": "2026-10-30T19:41:00Z"
-    },
-    {
-      "titulo": "Gemini ya deja previsualizar y editar documentos, PDF y hojas de cálculo sin salir del chat",
-      "resumen": "Gemini ya permite previsualizar y editar en el chat documentos, PDF, presentaciones y hojas de cálculo. En el móvil, solo los PDF. Qué cambia.La noticia Gemini ya deja previsualizar y editar documentos, PDF y hojas de cá",
-      "enlace": "https://wwwhatsnew.com/2026/10/30/gemini-editar-documentos-pdf-hojas-calculo-chat/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-10-30T17:00:00Z"
-    },
-    {
-      "titulo": "Samsung vende la memoria más cara que nunca. Uno de sus clientes más perjudicados es Samsung",
-      "resumen": "Samsung ha cerrado el trimestre más rentable de la historia de una tecnológica: 107,4 billones de wones de beneficio operativo, unos 80.000 millones de dólares. Casi todo sale de vender memoria para IA. Y casi todo lo qu",
-      "enlace": "https://www.xataka.com/empresas-y-economia/samsung-vende-memoria-cara-que-nunca-uno-sus-clientes-perjudicados-samsung",
-      "medio": "Xataka",
-      "fecha": "2026-10-30T16:01:30Z"
-    },
-    {
       "titulo": "Solo el 13% de las empresas españolas controla el consumo energético asociado a la IA",
       "resumen": "El Barómetro IA 2026 de ESSCA y Forvis Mazars sitúa al Reino Unido a la cabeza en adopción y gobernanza de la IA, mientras España destaca por su infraestructura de datos y conocimiento del AI Act L'articolo Solo el 13% d",
       "enlace": "https://www.computing.es/sostenibilidad/solo-el-13-de-las-empresas-espanolas-controla-el-consumo-energetico-asociado-a-la-ia/",
       "medio": "Computing.es",
       "fecha": "2026-10-30T13:05:10Z"
-    },
-    {
-      "titulo": "\"Estará al fondo del jardín\": compraron una casa a las afueras de París y ahora tendrán un centro de datos que consume cuatro veces lo que Disneyland",
-      "resumen": "A las afueras de París, una familia lleva 26 años viviendo en una casa con jardín. Ahora, al otro lado de su valla, todo apunta a que va a levantarse un gigantesco centro de datos de 27 metros de altura, con decenas de s",
-      "enlace": "https://www.xataka.com/robotica-e-ia/estara-al-fondo-jardin-compraron-casa-a-afueras-paris-ahora-paris-le-quiere-construir-centro-datos-que-devora-cuatro-veces-energia-disneyland",
-      "medio": "Xataka",
-      "fecha": "2026-10-30T12:00:00Z"
-    },
-    {
-      "titulo": "Meta, Google y Amazon podían permitirse derrochar en IA cuando el negocio iba bien. Google acaba de descubrir qué pasa cuando no",
-      "resumen": "Tres de las empresas más rentables del mundo acaban de pasar por una temporada de resultados floja, flojísima. Y precisamente los negocios que las hicieron ricas no son el verdadero problema. Alphabet (matriz de Google) ",
-      "enlace": "https://www.xataka.com/empresas-y-economia/meta-google-amazon-podian-permitirse-gasto-colosal-ia-negocio-iba-bien-google-acaba-descubrir-que-pasa-cuando-no",
-      "medio": "Xataka",
-      "fecha": "2026-10-30T11:45:00Z"
     },
     {
       "titulo": "De copilotos a agentes: ¿estamos preparados para delegar decisiones a la IA?",
@@ -182,34 +210,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/entrenar-en-la-era-de-la-ia-cuando-aprender-empieza-por-practicar/",
       "medio": "Computing.es",
       "fecha": "2026-10-29T08:24:00Z"
-    },
-    {
-      "titulo": "Finlandia ordena detener el trabajo en dos centros de datos de Google",
-      "resumen": "Google anunció el 9 de septiembre una inversión de 13.000 millones de euros en Finlandia para el período comprendido entre 2027 y 2028. El 6 de octubre, la Agencia de Licencias y Supervisión (LVV) de Finlandia ordenó a l",
-      "enlace": "https://www.genbeta.com/actualidad/finlandia-ordena-detener-trabajo-dos-centros-datos-google",
-      "medio": "Genbeta",
-      "fecha": "2026-10-28T15:01:30Z"
-    },
-    {
-      "titulo": "Jorge Flores: educar para un uso responsable de la IA",
-      "resumen": "¿Cómo acompañamos a los adolescentes en el uso de la inteligencia artificial? Jorge Flores, fundador y director de PantallasAmigas, defiende que esta vez no estamos ante un cambio como Internet o el móvil. Su propuesta [",
-      "enlace": "https://blogthinkbig.com/jorge-flores-educar-para-un-uso-responsable-de-la-ia",
-      "medio": "Think Big",
-      "fecha": "2026-10-28T14:00:00Z"
-    },
-    {
-      "titulo": "España va por delante en adopción de IA, pero tiene menos gobernanza y visibilidad, según Red Hat",
-      "resumen": "La mayoría de los CIO españoles encuestados (85 %) por Red Hat confía en que sus agentes de IA operan de forma segura, sin embargo, solo el 30 % puede determinar con exactitud dónde se almacenan y procesan los datos L'ar",
-      "enlace": "https://www.computing.es/noticias/espana-va-por-delante-en-adopcion-de-ia-pero-tiene-menos-gobernanza-y-visibilidad-segun-red-hat/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-28T10:47:42Z"
-    },
-    {
-      "titulo": "Sam Altman urge a las empresas a priorizar la ciberseguridad de la AI frente a la productividad en el Oracle AI World",
-      "resumen": "El director ejecutivo de OpenAI ha sorprendido a la audiencia del Oracle AI World, donde ha señalado que la prioridad inmediata para las empresas debe ser comprender y mitigar las amenazas de seguridad de la inteligencia",
-      "enlace": "https://www.computing.es/inteligencia-artificial/sam-altman-urge-a-las-empresas-a-priorizar-la-ciberseguridad-de-la-ai-frente-a-la-productividad-en-el-oracle-ai-world/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-28T07:30:00Z"
     }
   ],
   "etica": [
