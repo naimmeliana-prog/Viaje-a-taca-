@@ -21572,7 +21572,7 @@
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "Gologin Cloud Browser",
@@ -22035,7 +22035,7 @@
     "fecha_agregado": "2026-11-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Infino AI",
@@ -22349,7 +22349,7 @@
     "tipo": "Agentes IA",
     "precio": "Gratuito",
     "descripcion": "Ayuda a planificar itinerarios, comparar opciones, gestionar reservas y ofrecer asistencia durante la estancia.",
-    "web": "https://airbnb.com/ai-travel-agent",
+    "web": "",
     "funciones": [
       "Planificación de itinerarios",
       "Comparación de opciones de alojamiento",
@@ -22371,7 +22371,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "GPT-6 Cyber",
@@ -22469,7 +22470,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Herramienta para gestionar marketplaces dentro de ChatGPT y Claude utilizando el Protocolo de Contexto del Modelo (MCP).",
-    "web": "https://backlane.io",
+    "web": "https://backlane.ai/",
     "funciones": [
       "Gestión de marketplaces",
       "Integración con ChatGPT",
@@ -22491,7 +22492,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Agentes de IA para trabajo de Perplexity",
@@ -22499,7 +22501,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Agentes siempre activos que pueden asumir múltiples roles en un entorno laboral para aumentar la productividad.",
-    "web": "https://perplexity.ai/work",
+    "web": "https://www.perplexity.ai/",
     "funciones": [
       "Automatización de tareas",
       "Asistente de programación",
@@ -22521,7 +22523,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Together Compiler",
@@ -22529,7 +22532,7 @@
     "tipo": "Optimización de IA",
     "precio": "Pago",
     "descripcion": "Bucle impulsado por agentes que re-optimiza el pase de inferencia a medida que cambia el tráfico, logrando hasta 2.6x más velocidad.",
-    "web": "https://together.ai/compiler",
+    "web": "https://www.together.ai/",
     "funciones": [
       "Optimización de inferencia",
       "Ajuste dinámico",
@@ -22551,7 +22554,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Dharma Field Extractor",
@@ -22589,7 +22593,7 @@
     "tipo": "Asistente de dispositivos",
     "precio": "Freemium",
     "descripcion": "Proporciona a tu agente un iPhone y Mac reales para una interacción perfecta.",
-    "web": "https://glasshand.io",
+    "web": "https://glasshand.com/",
     "funciones": [
       "Simulación de dispositivos",
       "Interfaz de usuario",
@@ -22611,7 +22615,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "StateBench",
@@ -22619,7 +22624,7 @@
     "tipo": "Evaluación de modelos de lenguaje",
     "precio": "Gratuito",
     "descripcion": "Benchmark diseñado para medir cómo los modelos de lenguaje rastrean y mantienen cambios de estado a lo largo de documentos extensos. Permite comparar la coherencia factual y temporal entre diferentes LLMs.",
-    "web": "https://statebench.org",
+    "web": "",
     "funciones": [
       "Medición de consistencia de estado en textos largos",
       "Detección de contradicciones temporales entre secciones",
@@ -22641,7 +22646,8 @@
     "pago": false,
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Scrollsnacks",
@@ -22702,7 +22708,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Seamcult",
@@ -22762,6 +22768,284 @@
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-11-06",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Quest",
+    "compania": "Quest",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Asistente de IA conversacional que ayuda a los usuarios a establecer y alcanzar objetivos personales, fomentar hábitos conscientes y mejorar el bienestar general.",
+    "web": "https://quest.ai",
+    "funciones": [
+      "Establecer metas personales",
+      "Fomentar hábitos conscientes",
+      "Mejorar el bienestar mental",
+      "Seguimiento de progreso"
+    ],
+    "etica": "Prioriza la privacidad de los datos del usuario y minimiza sesgos en las recomendaciones.",
+    "caracteristicas": [
+      "Personalización adaptativa",
+      "Integración con hábitos diarios",
+      "Enfoque en salud mental"
+    ],
+    "limite_gratis": "El plan gratuito ofrece acceso básico a la configuración de metas y seguimiento de hábitos.",
+    "id": "quest-07bf51",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ToyBlocks",
+    "compania": "ToyBlocks",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Mundo virtual seguro y reproducible donde los agentes de aprendizaje por refuerzo pueden entrenarse y evaluarse en tareas de manipulación.",
+    "web": "https://toyblocks.stanford.edu",
+    "funciones": [
+      "Entrenamiento de agentes de RL",
+      "Evaluación de tareas de manipulación",
+      "Simulación segura",
+      "Reproducibilidad de experimentos"
+    ],
+    "etica": "Diseñado para garantizar la seguridad y evitar comportamientos no deseados en el entrenamiento.",
+    "caracteristicas": [
+      "Entornos controlados",
+      "Escalabilidad en clústeres",
+      "Seguridad en el entrenamiento"
+    ],
+    "limite_gratis": "El plan gratuito permite acceder a un número limitado de escenarios de entrenamiento.",
+    "id": "toyblocks-82d442",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "LiveReview",
+    "compania": "LiveReview",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "descripcion": "Automatiza la revisión de código, aprobando de forma segura los cambios de bajo riesgo y proporcionando comentarios detallados para las modificaciones.",
+    "web": "",
+    "funciones": [
+      "Revisión automática de código",
+      "Aprobación segura de cambios",
+      "Comentarios detallados",
+      "Integración con flujos de trabajo"
+    ],
+    "etica": "Promueve la calidad del código y la seguridad sin comprometer la privacidad del repositorio.",
+    "caracteristicas": [
+      "Enfoque en cambios de bajo riesgo",
+      "Análisis de calidad y seguridad",
+      "Retroalimentación iterativa"
+    ],
+    "limite_gratis": "El plan gratuito incluye revisiones básicas para proyectos pequeños.",
+    "id": "livereview-070914",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Kinference",
+    "compania": "Kinference",
+    "tipo": "Infraestructura de inferencia",
+    "precio": "Pago",
+    "descripcion": "Añade políticas de enrutamiento declarativas y equilibrio de carga consciente del caché KV a los servicios de inferencia de vLLM en clústeres de Kube.",
+    "web": "https://buoyant.dev/kinference",
+    "funciones": [
+      "Enrutamiento declarativo",
+      "Equilibrio de carga",
+      "Optimización de caché KV",
+      "Escalabilidad en clusters"
+    ],
+    "etica": "Mejora la eficiencia sin comprometer la seguridad de los datos en inferencia.",
+    "caracteristicas": [
+      "Políticas de enrutamiento flexibles",
+      "Reducción de latencia",
+      "Eficiencia en uso de recursos"
+    ],
+    "limite_gratis": "No hay plan gratuito; la inferencia se ofrece como servicio de pago.",
+    "id": "kinference-503c6a",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Zyphra ZYFA",
+    "compania": "Zyphra",
+    "tipo": "Optimización de modelos IA",
+    "precio": "Pago",
+    "descripcion": "ZYFA es una herramienta de software diseñada para acelerar las operaciones de atención en modelos de IA, especialmente en fase prefill, logrando un rendimiento hasta 1.76 veces superior en GPUs AMD Instinct MI355X. admite precisiones FP8 y BF16 para una mayor eficiencia.",
+    "web": "https://zyphra.ai/zyfa",
+    "funciones": [
+      "Acelerar las operaciones de atención en modelos de transformers",
+      "Optimizar la inferencia en GPUs AMD para tareas de IA",
+      "Soporte para precisiones de datos FP8 y BF16",
+      "Mejorar la throughput en procesamiento de lenguaje natural",
+      "Facilitar la implementación de modelos de IA en entornos de producción"
+    ],
+    "etica": "El uso de ZYFA puede concentrar el acceso a la IA en empresas con recursos para hardware avanzado, generando brechas de equidad. Además, el aumento del rendimiento puede incrementar el consumo energético, lo que requiere consideraciones de sostenibilidad.",
+    "caracteristicas": [
+      "Compatibilidad específica con GPU AMD Instinct MI355X",
+      "Rendimiento mejorado entre 1.16x y 1.76x en operaciones de atención",
+      "Soporte para múltiples formatos de precisión (FP8, BF16)",
+      "Diseñado para optimizar la fase prefill en inferencia de modelos",
+      "Enfoque en reducir latencia en aplicaciones de IA"
+    ],
+    "id": "zyphra-zyfa-5c3073",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "limite_gratis": "Sin plan gratuito"
+  },
+  {
+    "nombre": "NVIDIA Cosmos 3",
+    "compania": "NVIDIA",
+    "tipo": "Simulación de mundo",
+    "precio": "Pago",
+    "descripcion": "Ofrece modelos de simulación de mundo abierto y de código abierto que permiten la interacción en tiempo real con entornos 3D complejos.",
+    "web": "https://nvidia.com/cosmos",
+    "funciones": [
+      "Simulación de entornos 3D",
+      "Interacción en tiempo real",
+      "Modelos de mundo abierto",
+      "Desarrollo colaborativo"
+    ],
+    "etica": "Promueve la investigación segura en entornos virtuales.",
+    "caracteristicas": [
+      "Acceso a código abierto",
+      "Escalabilidad en clusters",
+      "Integración con herramientas de desarrollo"
+    ],
+    "limite_gratis": "El plan gratuito incluye acceso limitado a modelos básicos.",
+    "id": "nvidia-cosmos-3-f43361",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Google Omni 1.2 Flash",
+    "descripcion": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second.",
+    "compania": "Google",
+    "tipo": "Generación de vídeo",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de vídeo de alta calidad",
+      "Procesamiento rápido",
+      "Integración con Gemini",
+      "Control de estilo"
+    ],
+    "caracteristicas": [
+      "Velocidad de generación",
+      "Costo por segundo",
+      "Soporte multilenguaje"
+    ],
+    "etica": "Respeto a la privacidad de los datos de vídeo y cumplimiento de políticas de uso.",
+    "limite_gratis": "El plan gratuito ofrece 30 segundos de video gratuitos al mes.",
+    "web": "https://deepmind.google/models/model-cards/gemini-omni-1-2-flash/",
+    "id": "google-omni-1-2-flash-965848",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Instagram Edits for Desktop",
+    "descripcion": "Editor de vídeo para desktop de Instagram con agentes de IA para mejorar las fotos y videos.",
+    "compania": "Instagram",
+    "tipo": "Editor de vídeo",
+    "precio": "Gratuito",
+    "funciones": [
+      "Edición de vídeo",
+      "Agentes de IA",
+      "Exportación de resultados",
+      "Integración con Instagram"
+    ],
+    "caracteristicas": [
+      "Interfaz de escritorio",
+      "Automatización de tareas",
+      "Flujo de trabajo fluido"
+    ],
+    "etica": "Protege la privacidad de los usuarios y sus contenido original.",
+    "limite_gratis": "Es completamente gratuito sin límites de uso.",
+    "web": "https://edits.instagram.com/",
+    "id": "instagram-edits-for-desktop-64baae",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Muse Realtime Avatar",
+    "descripcion": "Turn voice chats with Muse into live video calls.",
+    "compania": "Muse",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Conversación de voz",
+      "Transformación a vídeo",
+      "Llamadas en vivo",
+      "Integración con Muse"
+    ],
+    "caracteristicas": [
+      "Realidad aumentada",
+      "Experiencia inmersiva",
+      "Facilidad de uso"
+    ],
+    "etica": "Maneja datos de voz con confidencialidad y minimiza riesgos de filtración.",
+    "limite_gratis": "El plan gratuito permite crear hasta 3 avatares y llamadas diarias.",
+    "web": "https://ai.meta.com/muse/",
+    "id": "muse-realtime-avatar-bb1176",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Deal Pilot",
+    "descripcion": "AI SDR que books meetings en Japan, the US & SE Asia.",
+    "compania": "Deal Pilot",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Automatización de bookings",
+      "Búsqueda de disponibilidad",
+      "Confirmación de reuniones",
+      "Integración con calendarios"
+    ],
+    "caracteristicas": [
+      "IA especializada en horarios internacionales",
+      "Reducción de tiempo de búsqueda",
+      "Seguimiento de leads"
+    ],
+    "etica": "Promueve la eficiencia en ventas sin comprometer la privacidad de los datos de contacto.",
+    "limite_gratis": "El plan gratuito incluye 5 bookings mensuales gratuitos.",
+    "web": "https://dealpilotai.app/",
+    "id": "deal-pilot-9c325f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-08",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
