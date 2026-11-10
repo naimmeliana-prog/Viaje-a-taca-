@@ -21565,14 +21565,14 @@
     ],
     "etica": "Automatiza contacto masivo aumentando eficiencia; riesgo de spam si la segmentación es pobre. Debe garantizar opción clara de baja y respetar estrictamente normativas anti-spam y privacidad.",
     "limite_gratis": "Sin plan gratuito; ofrece demo gratuita de 14 días con funcionalidades limitadas y volumen restringido.",
-    "web": "https://www.producthunt.com/products/outreachguy",
+    "web": "https://outreachguy.gumroad.com/l/xrznbo",
     "id": "outreachguy-84181f",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-10-30",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Gologin Cloud Browser",
@@ -22028,14 +22028,14 @@
     ],
     "etica": "Al seguir modelos y agentes como perfiles, es crucial mantener transparencia sobre las capacidades reales y evitar la antropomorfización indiscriminada.",
     "limite_gratis": "Plan gratuito permite seguir hasta 50 modelos y agentes con notificaciones básicas.",
-    "web": "https://www.producthunt.com/products/modelpeers",
+    "web": "https://modelpeers.com/info/about",
     "id": "modelpeers-87c309",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-02",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Infino AI",
@@ -22372,7 +22372,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "GPT-6 Cyber",
@@ -22647,7 +22647,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Scrollsnacks",
@@ -22708,7 +22708,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Seamcult",
@@ -22770,7 +22770,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Quest",
@@ -22805,7 +22805,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Mundo virtual seguro y reproducible donde los agentes de aprendizaje por refuerzo pueden entrenarse y evaluarse en tareas de manipulación.",
-    "web": "https://toyblocks.stanford.edu",
+    "web": "https://github.com/allenai/ToyBlocks/",
     "funciones": [
       "Entrenamiento de agentes de RL",
       "Evaluación de tareas de manipulación",
@@ -22824,7 +22824,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "LiveReview",
@@ -22832,7 +22833,7 @@
     "tipo": "Asistente de programación",
     "precio": "Freemium",
     "descripcion": "Automatiza la revisión de código, aprobando de forma segura los cambios de bajo riesgo y proporcionando comentarios detallados para las modificaciones.",
-    "web": "",
+    "web": "https://hexmos.com/livereview/",
     "funciones": [
       "Revisión automática de código",
       "Aprobación segura de cambios",
@@ -22852,7 +22853,7 @@
     "fecha_agregado": "2026-11-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Kinference",
@@ -22860,7 +22861,7 @@
     "tipo": "Infraestructura de inferencia",
     "precio": "Pago",
     "descripcion": "Añade políticas de enrutamiento declarativas y equilibrio de carga consciente del caché KV a los servicios de inferencia de vLLM en clústeres de Kube.",
-    "web": "https://buoyant.dev/kinference",
+    "web": "",
     "funciones": [
       "Enrutamiento declarativo",
       "Equilibrio de carga",
@@ -22879,7 +22880,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-08",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Zyphra ZYFA",
@@ -23046,6 +23048,161 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-08",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Egoist AI Passport",
+    "compania": "Egoist",
+    "tipo": "Privacidad y Gestión de Datos",
+    "precio": "Freemium",
+    "descripcion": "Una capa de identidad y consentimiento que permite a los usuarios compartir datos personales con herramientas de IA de forma segura, manteniendo el control total sobre qué información se revela y a quién.",
+    "web": "",
+    "funciones": [
+      "Gestión de consentimiento granular por herramienta",
+      "Tokenización de datos sensibles (PII)",
+      "Registro de auditoría de accesos a datos",
+      "Revocar acceso instantáneamente",
+      "Perfiles de identidad reutilizables"
+    ],
+    "caracteristicas": [
+      "Arquitectura zero-knowledge",
+      "Cumplimiento GDPR/CCPA nativo",
+      "SDK para integración en agentes IA",
+      "Interfaz de usuario para gestión de pasaporte",
+      "Soporte para credenciales verificables (VCs)"
+    ],
+    "etica": "Empodera al usuario como propietario de sus datos, reduciendo la recopilación masiva innecesaria y mitigando sesgos al permitir conjuntos de datos más limpios y consentidos. Su modelo zero-knowledge asegura que ni la propia plataforma acceda al contenido sensible.",
+    "limite_gratis": "Permite gestionar hasta 3 identidades/pasaportes y 10 conexiones simultáneas a herramientas IA; planes de pago eliminan límites y añaden auditoría avanzada.",
+    "id": "egoist-ai-passport-9be4c2",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Cardboard AI",
+    "descripcion": "Editor de vídeo potenciado por IA que automatiza el corte, subtitulado, reframing y mejora de calidad, permitiendo crear contenido profesional para redes sociales en minutos a partir de grabaciones largas.",
+    "compania": "Cardboard",
+    "tipo": "Generación y Edición de Vídeo",
+    "precio": "Freemium",
+    "funciones": [
+      "Detección automática de highlights y momentos clave",
+      "Reframing inteligente (vertical/horizontal/cuadrado)",
+      "Generación de subtítulos animados y precisos",
+      "Eliminación de silencios y palabras de relleno",
+      "Plantillas de marca personalizables"
+    ],
+    "caracteristicas": [
+      "Procesamiento en la nube con GPU acelerada",
+      "Interfaz basada en texto (edición por prompt)",
+      "Exportación directa a TikTok, Reels, Shorts",
+      "Clonación de voz para correcciones (overdub)",
+      "Biblioteca de stock media integrada"
+    ],
+    "etica": "Facilita la creación masiva de contenido, lo que puede saturar plataformas y amplificar deepfakes si se usa la clonación de voz maliciosamente; la empresa marca contenido generado con metadatos C2PA.",
+    "limite_gratis": "Incluye 60 minutos de procesamiento al mes con marca de agua y exportación máxima 720p; planes pagos quitan marca de agua, suben a 4K y amplían minutos.",
+    "web": "https://www.cardboard.ai/",
+    "id": "cardboard-ai-fd4b62",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Arcjet AI security models",
+    "descripcion": "Familia de modelos de seguridad entrenados a medida para proteger agentes de codificación autónomos, detectando inyecciones de prompt, fugas de secretos y código malicioso en tiempo real.",
+    "compania": "Arcjet",
+    "tipo": "Seguridad para Agentes de Programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Detección de inyección de prompt (prompt injection)",
+      "Escaneo de secretos y claves API en contexto",
+      "Análisis de intención de código generado (malicioso vs benigno)",
+      "Políticas de seguridad como código (decision engine)",
+      "Integración nativa con SDKs de agentes (LangChain, Vercel AI)"
+    ],
+    "caracteristicas": [
+      "Latencia sub-100ms para decisiones en línea",
+      "Modelos especializados por lenguaje (TS, Python, Go)",
+      "Explicabilidad de decisiones (por qué se bloqueó)",
+      "Modo 'shadow' para auditoría sin bloquear",
+      "Actualizaciones continuas de firmas de amenazas"
+    ],
+    "etica": "Reduce el riesgo de agentes autónomos que actúan sin supervisión, previniendo accesos no autorizados a infraestructura; sin embargo, la centralización de decisiones de seguridad en un proveedor externo requiere confianza en su gobernanza.",
+    "limite_gratis": "Ofrece hasta 10.000 decisiones de seguridad al mes gratis con retención de logs de 7 días; planes empresariales aumentan volumen, retención y añaden SLAs.",
+    "web": "https://arcjet.com/",
+    "id": "arcjet-ai-security-models-2f779c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "ProtoMap",
+    "descripcion": "Herramienta que mapea la base de código para que los agentes de IA dejen de 'redescubrir' dependencias y arquitectura en cada turno, inyectando contexto preciso y reduciendo drásticamente el consumo de tokens.",
+    "compania": "ProtoMap",
+    "tipo": "Asistente de Programación / Análisis de Código",
+    "precio": "Freemium",
+    "funciones": [
+      "Generación de grafos de dependencias en vivo",
+      "Resúmenes arquitectónicos por módulo/feature",
+      "Inyección de contexto relevante en prompts de agentes",
+      "Detección de código muerto y duplicado",
+      "API para integración en pipelines CI/CD"
+    ],
+    "caracteristicas": [
+      "Soporte multi-lenguaje (TS/JS, Python, Go, Rust, Java)",
+      "Indexación incremental (segundos en repos grandes)",
+      "Privacidad: opción de ejecución 100% local (on-prem)",
+      "Visualizador interactivo de arquitectura",
+      "Compatibilidad con Cursor, Cline, Copilot, agentes custom"
+    ],
+    "etica": "Optimiza el uso computacional reduciendo la huella de carbono de la inferencia masiva; al procesar código localmente en su modo privado, evita filtraciones de propiedad intelectual a proveedores de LLM.",
+    "limite_gratis": "Gratis para repositorios de hasta 50k líneas de código con indexación local; plan de pago elimina límite de tamaño y añade análisis de seguridad y equipo.",
+    "web": "https://hounddog.ai/protomap/",
+    "id": "protomap-80d19f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Watchflows",
+    "descripcion": "Automatización visual nativa para macOS que combina la potencia de Shortcuts/AppleScript con IA generativa, permitiendo crear flujos de trabajo complejos que controlan apps, archivos y la web sin código.",
+    "compania": "Watchflows",
+    "tipo": "Productividad / Automatización Local (macOS)",
+    "precio": "Pago",
+    "funciones": [
+      "Editor visual de nodos (drag-and-drop) para flujos",
+      "Acciones de IA: resumir, extraer, transformar texto/imágenes",
+      "Triggers: horarios, watchers de carpetas, atajos de teclado, menú",
+      "Control profundo de apps nativas (Finder, Safari, Mail, Obsidian, etc.)",
+      "Depurador paso a paso con vista de variables"
+    ],
+    "caracteristicas": [
+      "Ejecución 100% local (privacidad total, sin nube obligatoria)",
+      "Modelos LLM locales (llama.cpp, MLX) o APIs remotas (OpenAI, Anthropic)",
+      "Paquete de acciones preconstruidas ('recipes') compartibles",
+      "Integración con Raycast, Alfred, Hammerspoon",
+      "Firma de código y sandbox macOS (seguridad nativa)"
+    ],
+    "etica": "Al priorizar la ejecución local, evita enviar datos sensibles del usuario a terceros; el impacto ambiental se limita al hardware del usuario. Al ser de pago único, evita modelos de suscripción que incentivan la retención de datos.",
+    "limite_gratis": "Sin plan gratuito; ofrece prueba de 14 días con funcionalidad completa. Licencia perpetua por usuario con actualizaciones de por vida incluidas.",
+    "web": "https://www.producthunt.com/products/watchflows",
+    "id": "watchflows-68f402",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-10",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

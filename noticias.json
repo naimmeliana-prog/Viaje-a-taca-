@@ -1,12 +1,180 @@
 {
-  "actualizado": "2026-11-08T02:03:45Z",
+  "actualizado": "2026-11-10T04:32:02Z",
   "novedades": [
     {
-      "titulo": "El CEO multimillonario de Palantir dice que solo dos tipos de personas tendrán éxito en la era de la IA: trabajadores manuales o \"neurodivergentes\"",
-      "resumen": "Alex Karp, el CEO de Palantir, tiene muy claro qué trabajadores tendrán más posibilidades de salir adelante con el avance de la IA. Durante una entrevista concedida a TBPN, el multimillonario reconoció el pasado 12 de ma",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/ceo-multimillonario-palantir-dice-que-solo-dos-tipos-personas-tendran-exito-era-ia-trabajadores-manuales-neurodivergentes",
+      "titulo": "Instagram lleva a todo el mundo su IA que caza a los adolescentes que mienten sobre su edad",
+      "resumen": "Meta lleva a todo el mundo la IA de Instagram que detecta a los adolescentes que mienten sobre su edad y los mete en cuentas protegidas.La noticia Instagram lleva a todo el mundo su IA que caza a los adolescentes que mie",
+      "enlace": "https://wwwhatsnew.com/2026/11/10/instagram-ia-deteccion-edad-adolescentes-global/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-10T03:00:00Z"
+    },
+    {
+      "titulo": "Anthropic lanza Claude Fable 5.2 y Mythos 5.2: más potentes, un 30 % más rápidos y más baratos, pero no son el modelo para el día a día",
+      "resumen": "Anthropic lanza Claude Fable 5.2 y Mythos 5.2: más potentes, un 30 % más rápidos y más baratos. Pero recomienda seguir usando Opus 5.5 para el día a día.La noticia Anthropic lanza Claude Fable 5.2 y Mythos 5.2: más poten",
+      "enlace": "https://wwwhatsnew.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-10T01:00:00Z"
+    },
+    {
+      "titulo": "Anthropic acaba de lanzar sus dos modelos de IA más avanzados. Uno tendrá acceso general y el otro estará restringido",
+      "resumen": "Que un modelo de inteligencia artificial sea capaz de resolver problemas extraordinariamente complejos no significa que todas sus capacidades estén al alcance de cualquiera. La diferencia puede estar en el precio, pero t",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-sus-dos-modelos-ia-avanzados-uno-tendra-acceso-general-otro-estara-restringido",
+      "medio": "Xataka",
+      "fecha": "2026-11-09T21:57:57Z"
+    },
+    {
+      "titulo": "Un informe independiente mide por primera vez cuánto acelera la IA el desarrollo de la propia IA en Anthropic",
+      "resumen": "METR mide el desarrollo de IA en Anthropic: va el doble de rápido que antes y el 80 % se debe a la propia IA. Pero Anthropic censuró la evidencia clave.La noticia Un informe independiente mide por primera vez cuánto acel",
+      "enlace": "https://wwwhatsnew.com/2026/11/09/metr-anthropic-ia-acelera-desarrollo-ia/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-09T19:00:00Z"
+    },
+    {
+      "titulo": "El presidente de Microsoft pide más regulación para la IA: \"Cada envase de leche\" está sujeto a más normas de seguridad",
+      "resumen": "Brad Smith, presidente de Microsoft y vicepresidente de su consejo de administración, cree que la inteligencia artificial necesita reglas globales que permitan mantenerla bajo control. En una entrevista con la BBC, el di",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/presidente-microsoft-pide-regulacion-para-ia-cada-envase-leche-esta-sujeto-a-normas-seguridad",
       "medio": "Genbeta",
-      "fecha": "2026-11-07T19:01:06Z"
+      "fecha": "2026-11-09T17:01:08Z"
+    },
+    {
+      "titulo": "Quería quitar las aplicaciones que Android no me deja borrar. Así que le pedí a la IA mi propio desinstalador: en media hora lo tenía",
+      "resumen": "Cada vez que compro un móvil, o analizo uno, este viene con un buen montón de aplicaciones que no necesito. La primera configuración suele ser larga, porque me dedico a iniciar sesiones, ordenar los escritorios y siempre",
+      "enlace": "https://www.xataka.com/robotica-e-ia/queria-quitar-aplicaciones-que-android-no-me-deja-borrar-asi-que-le-pedi-a-ia-mi-propio-desinstalador-media-hora-tenia",
+      "medio": "Xataka",
+      "fecha": "2026-11-09T16:31:07Z"
+    },
+    {
+      "titulo": "Coprocesado de contrabando de Super Micro se declara culpable de enviar chips de inteligencia artificial a China — el corredor admite haber violado las normas d",
+      "resumen": "Ting-Wei \"Willy\" Sun (un intermediario vinculado a Super Micro) ha reconocido su participación en una trama para enviar servidores con chips de Nvidia a China ignorando las restricciones que Estados Unidos impone a la ex",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/coprocesado-contrabando-super-micro-se-declara-culpable-enviar-chips-inteligencia-artificial-a-china-corredor-admite-haber-violado-normas-control-exportaciones-cofundador-empresa-niega-cargos",
+      "medio": "Genbeta",
+      "fecha": "2026-11-09T16:01:07Z"
+    },
+    {
+      "titulo": "Un peluche con IA para niños de tres años dio una respuesta sobre autolesiones sin que se la pidieran",
+      "resumen": "Un peluche con IA para niños dio una respuesta sobre autolesiones sin que se la pidieran, según la BBC. El sector pide que lo regulen.La noticia Un peluche con IA para niños de tres años dio una respuesta sobre autolesio",
+      "enlace": "https://wwwhatsnew.com/2026/11/09/peluche-ia-ninos-respuesta-autolesiones-bbc/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-09T15:00:00Z"
+    },
+    {
+      "titulo": "El empleo en programación y consultoría informática marca máximo histórico en la EPA: por ahora no llega la temida caída por la IA",
+      "resumen": "Que la IA va a suponer un cambio de paradigma en el mercado laboral a nivel global no es ningún secreto. Distintos estudios apuntan a que se producirá un desplazamiento masivo de puestos de trabajo (no siempre una destru",
+      "enlace": "https://www.xataka.com/empresas-y-economia/empleo-programacion-consultoria-informatica-marca-maximo-historico-epa-ahora-no-llega-temida-caida-ia",
+      "medio": "Xataka",
+      "fecha": "2026-11-09T14:31:05Z"
+    },
+    {
+      "titulo": "En un puerto de Hong Kong esperan 600.000 chips avanzados de Nvidia tras el portazo chino a las exportaciones de EEUU",
+      "resumen": "No están siendo los mejores días para una Nvidia que lleva meses de escalada gracias a su papel en la industria de la IA. La compañía liderada por Jensen Huang protagonizó uno de los batacazos del cierre de bolsa del 5 d",
+      "enlace": "https://www.xataka.com/robotica-e-ia/puerto-hong-kong-esperan-600-000-chips-avanzados-nvidia-portazo-chino-a-exportaciones-eeuu",
+      "medio": "Xataka",
+      "fecha": "2026-11-09T14:01:08Z"
+    },
+    {
+      "titulo": "Dejé de escribir a ChatGPT, Claude y Gemini durante una semana y descubrí una mejor forma de usar la IA",
+      "resumen": "Escribir instrucciones para ChatGPT, Claude o Gemini se ha convertido en una costumbre para los que usan herramientas cada día, pero la cosa se complica cuando tenemos que explicar algo un poco difuso. Por eso, la period",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/deje-escribir-a-chatgpt-claude-gemini-durante-semana-descubri-mejor-forma-usar-ia",
+      "medio": "Genbeta",
+      "fecha": "2026-11-09T14:01:07Z"
+    },
+    {
+      "titulo": "Acusan a tres hombres de robar 129 millones de dólares suplantando con IA a directivos y abogados",
+      "resumen": "EE. UU. acusa a tres hombres de robar 129 millones de dólares suplantando con IA a directivos y abogados en videollamadas. Son acusaciones, no condenas.La noticia Acusan a tres hombres de robar 129 millones de dólares su",
+      "enlace": "https://wwwhatsnew.com/2026/11/09/fraude-deepfake-129-millones-directivos-abogados/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-09T14:00:00Z"
+    },
+    {
+      "titulo": "Anthropic pidió frenar el desarrollo de la IA, pero su IA está avanzando el doble de rápido que el año pasado",
+      "resumen": "A mediados de septiembre, Dario Amodei, CEO de Anthropic, lanzó un curioso mensaje: nos estamos pasando de frenada con la IA. Ya en su día comentamos que quizá no era una llamada a la responsabilidad, sino a relajar unas",
+      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-pidio-frenar-desarrollo-ia-su-ia-esta-avanzando-doble-rapido-que-ano-pasado",
+      "medio": "Xataka",
+      "fecha": "2026-11-09T12:31:03Z"
+    },
+    {
+      "titulo": "Claude Code guardaba tu correo para saber quién eres. Algunas webs acabaron recibiéndolo",
+      "resumen": "Iniciar una herramienta con el correo electrónico es lo habitual, ya que, como ocurre en el caso de Claude Code, este lo necesita para identificar la cuenta. Lo esperable es que dicho correo se utilice solo como identifi",
+      "enlace": "https://www.xataka.com/robotica-e-ia/claude-code-guardaba-tu-correo-para-saber-quien-eres-algunas-webs-acabaron-recibiendolo",
+      "medio": "Xataka",
+      "fecha": "2026-11-09T11:01:07Z"
+    },
+    {
+      "titulo": "Bill Gates advierte sobre la agitación económico-social durante 20 años debido a la IA",
+      "resumen": "Bill Gates cree que tendremos un periodo de 20 años en el que se presentarán muchas transformaciones. Es decir, que habrá cambios económicos y sociales. Durante este periodo pueden surgir algunos problemas. Incluso en un",
+      "enlace": "https://www.genbeta.com/actualidad/bill-gates-advierte-agitacion-economico-social-durante-20-anos-debido-a-ia",
+      "medio": "Genbeta",
+      "fecha": "2026-11-09T10:01:07Z"
+    },
+    {
+      "titulo": "Jon Hernández, experto en IA: \"En un plazo de dos años, el manejo fluido de la inteligencia artificial determinará quién conserva un puesto de trabajo\"",
+      "resumen": "El divulgador Jon Hernández, especializado en inteligencia artificial, puso fecha a un cambio en el mercado laboral. En una entrevista en ‘La fórmula del éxito’, el pódcast de Uri Sabat, aseguró que “en dos años, aquella",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/jon-hernandez-experto-ia-plazo-dos-anos-manejo-fluido-inteligencia-artificial-determinara-quien-conserva-puesto-trabajo",
+      "medio": "Genbeta",
+      "fecha": "2026-11-09T08:44:14Z"
+    },
+    {
+      "titulo": "Cómo oponerte a que Meta, LinkedIn, X y Google entrenen su IA con tus publicaciones (y lo que la oposición no deshace)",
+      "resumen": "Meta usa un formulario, LinkedIn un interruptor y Google ningún botón. Cómo oponerte a que entrenen su IA con tus publicaciones y qué no se deshace.La noticia Cómo oponerte a que Meta, LinkedIn, X y Google entrenen su IA",
+      "enlace": "https://wwwhatsnew.com/2026/11/09/oponerte-entrenar-ia-meta-linkedin-x-google-publicaciones/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-08T23:00:00Z"
+    },
+    {
+      "titulo": "\"Debo una disculpa a mi familia\": Jensen Huang confiesa su infidelidad mientras Nvidia investiga un posible espionaje chino",
+      "resumen": "Una confesión personal y una investigación por posible espionaje chino han colocado a Jensen Huang en el centro de una noticia inesperada. El cofundador y CEO de Nvidia ha reconocido públicamente su infidelidad en un men",
+      "enlace": "https://www.xataka.com/empresas-y-economia/debo-disculpa-a-mi-familia-jensen-huang-confiesa-su-infidelidad-nvidia-investiga-posible-espionaje-chino",
+      "medio": "Xataka",
+      "fecha": "2026-11-08T22:46:00Z"
+    },
+    {
+      "titulo": "Mi cofundador y yo éramos rivales en hackathons. A los 21 años, he puesto la universidad en pausa para construir una startup con él",
+      "resumen": "Cuando Raymond Loong Ng participaba en concursos de programación, nunca imaginó que uno de sus principales rivales acabaría siendo su socio. Ambos competían en equipos diferentes, pero solían ser de los pocos que seguían",
+      "enlace": "https://www.genbeta.com/laboral/mi-cofundador-yo-eramos-rivales-hackathons-a-21-anos-he-puesto-universidad-pausa-para-construir-startup",
+      "medio": "Genbeta",
+      "fecha": "2026-11-08T19:01:06Z"
+    },
+    {
+      "titulo": "Roblox, acusado de descargar 145 GB de modelos 3D, incluido contenido para adultos, para entrenar IA. La empresa niega haber usado los archivos",
+      "resumen": "Según Open3DLab, el rastreador asociado a la plataforma de juegos online Roblox se llevó 145,5 GB de modelos 3D de Open3DLab y sus sitios hermanos (SFMLab y SmutBase). Asimismo, ha sido acusado de pasar por alto las rest",
+      "enlace": "https://www.genbeta.com/seguridad/roblox-acusado-descargar-145-gb-modelos-3d-incluido-contenido-para-adultos-para-entrenar-ia-empresa-niega-haber-usado-archivos",
+      "medio": "Genbeta",
+      "fecha": "2026-11-08T17:01:08Z"
+    },
+    {
+      "titulo": "El uso de agua en los centros de datos de IA crece en áreas azotadas por la sequía",
+      "resumen": "Los centros de datos de IA necesitan enormes cantidades de agua para mantener sus servidores a una temperatura adecuada, algo que preocupa especialmente en lugares como Arizona en el que la sequía lleva años poniendo en ",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/uso-agua-centros-datos-ia-crece-areas-azotadas-sequia",
+      "medio": "Genbeta",
+      "fecha": "2026-11-08T15:01:07Z"
+    },
+    {
+      "titulo": "“La IA no va a meterse debajo de las casas para instalar tuberías “: en Estados Unidos, el nuevo atractivo por la formación en oficios manuales",
+      "resumen": "Victor Velasco (26) estudia fontanería en el Los Angeles Trade-Technical College (California). Es una opción con la que busca una profesión con demanda. “La IA no va a ir debajo de las casas a poner tuberías”, dice. Para",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/ia-no-va-a-meterse-debajo-casas-para-instalar-tuberias-estados-unidos-nuevo-atractivo-formacion-oficios-manuales",
+      "medio": "Genbeta",
+      "fecha": "2026-11-08T13:01:15Z"
+    },
+    {
+      "titulo": "El mando de mi tele tiene botones que no utilizo. Le he pedido a la IA que los cambie por las apps que sí uso",
+      "resumen": "Con la llegada de la inteligencia a las Smart TVs también aterrizaron mandos para los que hay que hacer un máster si quieres entenderlos por completo. Supongo que por eso colocaron botones directos a Netflix y compañía, ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/mando-mi-tele-tiene-botones-que-no-utilizo-le-he-pedido-a-ia-que-cambie-apps-que-uso",
+      "medio": "Xataka",
+      "fecha": "2026-11-08T13:01:14Z"
+    },
+    {
+      "titulo": "El modelo de OpenAI resuelve cientos de problemas matemáticos no resueltos: \"Provoca una gran sensación de vacío\"",
+      "resumen": "OpenAI ha publicado de golpe cientos de trabajos matemáticos elaborados por uno de sus modelos de inteligencia artificial más avanzados. En total, la compañía ha compartido 719 documentos agrupados en 372 familias de res",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/modelo-openai-resuelve-cientos-problemas-matematicos-no-resueltos-provoca-gran-sensacion-vacio",
+      "medio": "Genbeta",
+      "fecha": "2026-11-08T10:01:08Z"
+    },
+    {
+      "titulo": "Planificar un viaje con IA sin llevarte sustos: qué hacen bien ChatGPT y Gemini y qué tienes que comprobar tú",
+      "resumen": "ChatGPT y Gemini te arman el itinerario, pero el agente de Google que reserva no funciona en España. Qué hacen bien y qué comprobar tú. (135)La noticia Planificar un viaje con IA sin llevarte sustos: qué hacen bien ChatG",
+      "enlace": "https://wwwhatsnew.com/2026/11/08/planificar-viaje-ia-chatgpt-gemini-comprobar/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-08T09:00:00Z"
     },
     {
       "titulo": "Usar la IA para la declaración de la renta: qué asistentes ofrece Hacienda, por qué ChatGPT puede equivocarse y qué datos no darle nunca",
@@ -30,118 +198,6 @@
       "fecha": "2026-11-07T13:01:09Z"
     },
     {
-      "titulo": "Perplexity lanza Teammates: agentes de IA que trabajan solos, se coordinan y hasta incorporan a otros",
-      "resumen": "Perplexity lanza Teammates, agentes de IA que trabajan solos, se coordinan y \"contratan\" a otros. Solo en el plan Max: 200 dólares al mes.La noticia Perplexity lanza Teammates: agentes de IA que trabajan solos, se coordi",
-      "enlace": "https://wwwhatsnew.com/2026/11/07/perplexity-teammates-agentes-ia-trabajo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-07T11:00:00Z"
-    },
-    {
-      "titulo": "Creíamos que la IA iba a escribir por nosotros, pero donde ChatGPT está creciendo más en España es como buscador",
-      "resumen": "¿Tú para qué usas ChatGPT? Si me preguntas a mí, te diré que para casi todo: desde preguntarle por qué me ha salido una uña torcida a un mail en inglés rápido pasando por la generación de una imagen o que me revise un te",
-      "enlace": "https://www.xataka.com/robotica-e-ia/creiamos-que-ia-iba-a-escribir-nosotros-donde-chagpt-esta-creciendo-espana-como-buscador",
-      "medio": "Xataka",
-      "fecha": "2026-11-07T09:00:00Z"
-    },
-    {
-      "titulo": "Detectan más de 800 instancias de una herramienta de ciberataque con IA expuestas en internet sin contraseña",
-      "resumen": "Censys halla más de 800 instancias de Artex, una herramienta de ciberataque con IA, expuestas sin contraseña. Los ataques usaron fallos básicos.La noticia Detectan más de 800 instancias de una herramienta de ciberataque ",
-      "enlace": "https://wwwhatsnew.com/2026/11/07/artex-herramientas-ciberataque-ia-expuestas/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-07T09:00:00Z"
-    },
-    {
-      "titulo": "Meta estrena Spaces en Muse: describe una idea y su IA te monta un espacio a medida",
-      "resumen": "Meta estrena Spaces en su IA Muse: describes una idea en el chat y te monta un espacio personalizado que se actualiza solo conectándose a tus apps.La noticia Meta estrena Spaces en Muse: describe una idea y su IA te mont",
-      "enlace": "https://wwwhatsnew.com/2026/11/07/meta-spaces-muse-espacios-personalizados/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-07T03:00:00Z"
-    },
-    {
-      "titulo": "Claude ya puede leer tus cuentas bancarias y analizar tus gastos, pero no mover ni un euro",
-      "resumen": "Anthropic prueba que Claude lea tus cuentas bancarias vía Plaid y analice tus gastos, pero sin poder mover dinero. Beta en EE. UU. y planes de pago.La noticia Claude ya puede leer tus cuentas bancarias y analizar tus gas",
-      "enlace": "https://wwwhatsnew.com/2026/11/07/claude-cuentas-bancarias-plaid-gastos/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-07T01:00:00Z"
-    },
-    {
-      "titulo": "The New York Times y tres diarios más demandan a Brave por alimentar a la IA con su periodismo",
-      "resumen": "El NYT y tres diarios demandan a Brave por rastrear su periodismo, saltarse sus muros de pago y vender el acceso a cinco empresas de IA.La noticia The New York Times y tres diarios más demandan a Brave por alimentar a la",
-      "enlace": "https://wwwhatsnew.com/2026/11/06/nyt-diarios-demandan-brave-ia-periodismo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-06T21:00:00Z"
-    },
-    {
-      "titulo": "India anuncia planes para desarrollar GPU nacionales en 24 meses mientras busca dar salida comercial a sus chips RISC-V",
-      "resumen": "India lleva años consolidando su posición en la industria tecnológica mundial, especialmente en el desarrollo de software y la prestación de servicios informáticos. Sin embargo, cuando miramos hacia la infraestructura qu",
-      "enlace": "https://www.xataka.com/robotica-e-ia/india-anuncia-planes-para-desarrollar-gpu-nacionales-24-meses-busca-dar-salida-comercial-a-sus-chips-risc-v",
-      "medio": "Xataka",
-      "fecha": "2026-11-06T20:31:05Z"
-    },
-    {
-      "titulo": "Desarrollador frustrado de Adobe crea Photoshop, Premiere y otros con IA como código abierto",
-      "resumen": "Como las suscripciones de Adobe no convencen a todo el mundo, Brandon Thomas (un desarrollador con 15 años de experiencia) ha decidido llevar su descontento un paso más allá. Tras recibir varias penalizaciones por cancel",
-      "enlace": "https://www.genbeta.com/actualidad/desarrollador-frustrado-adobe-crea-photoshop-premiere-otros-ia-como-codigo-abierto",
-      "medio": "Genbeta",
-      "fecha": "2026-11-06T17:01:08Z"
-    },
-    {
-      "titulo": "La IA en los procesos de selección de personal: cómo te filtran, qué derechos tienes como candidato y qué puedes pedir",
-      "resumen": "Si un algoritmo filtra tu currículum, tienes derecho a saberlo, a pedir revisión humana y a impugnar. Qué dicen el RGPD, la AEPD y el Reglamento de IA.La noticia La IA en los procesos de selección de personal: cómo te fi",
-      "enlace": "https://wwwhatsnew.com/2026/11/06/ia-procesos-seleccion-personal-derechos-candidato-rgpd-reglamento-ia/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-06T17:00:00Z"
-    },
-    {
-      "titulo": "Se han evaporado 2,5 billones de dólares de la bolsa de EEUU y en el punto de mira está el estallido de las neoclouds",
-      "resumen": "Estos días se ha hablado bastante de las neoclouds, pero estas últimas horas, con el guantazo que se han pegado las empresas relacionadas con la IA, la conversación ha subido de tono. El motivo es que, el mismo día en el",
-      "enlace": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds",
-      "medio": "Xataka",
-      "fecha": "2026-11-06T15:31:07Z"
-    },
-    {
-      "titulo": "Jeff Bezos revela una visión de inteligencia artificial que podría transformar la jornada laboral estadounidense.",
-      "resumen": "Jeff Bezos tiene una visión súper optimista sobre cómo la IA transformará el mercado laboral. Mientras muchas empresas recurren a esta tecnología para automatizar tareas y reducir costes, el fundador de Amazon cree que s",
-      "enlace": "https://www.genbeta.com/laboral/jeff-bezos-revela-vision-inteligencia-artificial-que-podria-transformar-jornada-laboral-estadounidense",
-      "medio": "Genbeta",
-      "fecha": "2026-11-06T15:01:12Z"
-    },
-    {
-      "titulo": "Claude ya puede decirte en qué se te va el dinero del banco. Lo que no puede es tocar ni un euro",
-      "resumen": "Si la IA sabe de todo, y se supone que da mejores consejos que muchos humanos... ¿por qué no preguntarle cómo sacarle más ventaja a nuestro dinero? No es algo extraño, ya que las dudas monetarias son uno de los tipos de ",
-      "enlace": "https://www.xataka.com/robotica-e-ia/claude-puede-decirte-que-se-te-va-dinero-banco-que-no-puede-tocar-euro",
-      "medio": "Xataka",
-      "fecha": "2026-11-06T15:01:11Z"
-    },
-    {
-      "titulo": "Aprender idiomas con IA: practicar conversación con un chatbot, qué hace hoy Duolingo y dónde se queda corta la máquina",
-      "resumen": "ChatGPT por voz y Duolingo convierten la IA en compañero de conversación. Cómo pedir correcciones útiles y tres límites: errores, acento y dependencia.La noticia Aprender idiomas con IA: practicar conversación con un cha",
-      "enlace": "https://wwwhatsnew.com/2026/11/06/aprender-idiomas-ia-chatgpt-voz-duolingo-video-call-limites/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-06T14:00:00Z"
-    },
-    {
-      "titulo": "En medio de una crisis de ciberseguridad, OpenAI estrena GPT-6 Cyber, su nuevo modelo \"crítico\"",
-      "resumen": "Los modelos de inteligencia artificial son cada vez más capaces y se está viendo que se usan para atacar dispositivos que, hasta ahora, no estaban en el punto de mira bien por pereza o por los motivos que fueran. Esto pr",
-      "enlace": "https://www.xataka.com/robotica-e-ia/medio-crisis-ciberseguridad-openai-estrena-gpt-6-cyber-su-nuevo-modelo-critico",
-      "medio": "Xataka",
-      "fecha": "2026-11-06T11:01:08Z"
-    },
-    {
-      "titulo": "Anthropic publica FlashProve, una forma de demostrar con criptografía qué modelo de IA generó una respuesta",
-      "resumen": "Anthropic publica FlashProve, un prototipo abierto que demuestra con criptografía qué modelo generó una respuesta. Idea potente, coste de 70-95x.La noticia Anthropic publica FlashProve, una forma de demostrar con criptog",
-      "enlace": "https://wwwhatsnew.com/2026/11/06/anthropic-flashprove-verificar-modelo-ia/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-06T11:00:00Z"
-    },
-    {
-      "titulo": "McDonald's demandó por una herramienta de IA que recomienda precios a los franquiciados en EE. UU.",
-      "resumen": "McDonald’s se enfrenta a una demanda en Estados Unidos por una herramienta de IA que lleva años utilizando para recomendar los precios de sus productos. Al parecer, el sistema analiza información sobre las ventas de cada",
-      "enlace": "https://www.genbeta.com/actualidad/mcdonald-s-demando-herramienta-ia-que-recomienda-precios-a-franquiciados-ee-uu",
-      "medio": "Genbeta",
-      "fecha": "2026-11-06T10:01:08Z"
-    },
-    {
       "titulo": "OpenAI presenta Images 2.6: velocidad, animación en bucle y control para el diseño digital",
       "resumen": "Cualquier persona que haya intentado utilizar herramientas de generación visual para un trabajo profesional conoce bien el problema: pedir un cambio mínimo suele equivaler a perder la imagen entera. Si a eso se suma una ",
       "enlace": "https://blogthinkbig.com/images-2-6-openai-generacion-imagenes-gif",
@@ -149,76 +205,20 @@
       "fecha": "2026-11-06T09:56:29Z"
     },
     {
-      "titulo": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
-      "resumen": "La alegría ha durado poco en Wall Street. Apenas un día después de que las bolsas estadounidenses celebraran los resultados de las elecciones legislativas con importantes subidas, el panorama ha cambiado por completo. Lo",
-      "enlace": "https://www.xataka.com/empresas-y-economia/hundimiento-historico-bolsa-estadounidense-grandes-tecnologicas-se-dejan-a-esta-hora-9-19",
-      "medio": "Xataka",
-      "fecha": "2026-11-05T19:43:00Z"
-    },
-    {
-      "titulo": "Los centros de datos de IA generan su propia energía. ¿Cómo afecta esto a la red eléctrica en general?",
-      "resumen": "La IA necesita cada vez más electricidad y las Big Tech están buscando maneras de lograrlo sin depender de compañías eléctricas. Según las previsiones de la Agencia Internacional de la Energía, el consumo mundial de los ",
-      "enlace": "https://www.genbeta.com/actualidad/centros-datos-ia-generan-su-propia-energia-como-afecta-esto-a-red-electrica-general",
-      "medio": "Genbeta",
-      "fecha": "2026-11-05T19:01:07Z"
-    },
-    {
-      "titulo": "El Ejército de EE UU apuesta por Alex, un robot humanoide con protección balística para misiones peligrosas.",
-      "resumen": "El Ejército de EE.UU. está explorando cómo utilizar robots humanoides para realizar tareas que ponen en peligro a sus soldados, y uno de los candidatos que ha llamado su atención es Alex. Desarrollada por el Instituto de",
-      "enlace": "https://www.genbeta.com/actualidad/ejercito-ee-uu-apuesta-alex-robot-humanoide-proteccion-balistica-para-misiones-peligrosas",
-      "medio": "Genbeta",
-      "fecha": "2026-11-05T15:01:07Z"
-    },
-    {
-      "titulo": "En un movimiento cada vez más familiar, Apple ha empezado a reducir el gasto de tokens IA de sus empleados a 200 dólares diarios",
-      "resumen": "Apple quiere que sus usuarios usen todo el rato la nueva Siri AI en sus dispositivos. Apple lo vende como su gran remontada en IA. Pero de puertas para adentro, alguien ha mirado el Excel (o Numbers, en su caso) de gasto",
-      "enlace": "https://www.xataka.com/robotica-e-ia/apple-quiere-que-siri-ia-este-todas-partes-al-tiempo-limita-a-200-dolares-gasto-tokens-para-sus-empleados",
-      "medio": "Xataka",
-      "fecha": "2026-11-05T13:45:00Z"
-    },
-    {
-      "titulo": "Anthropic toma medidas drásticas contra los clones de videojuegos de IA hechos con Claude",
-      "resumen": "El mundo de los videojuegos está viviendo una revolución debido a la IA. Muchos grandes estudios la usan, con&nbsp;exponentes tan extremos como una Epic Games que hasta&nbsp;se ha vibecodeado la tienda, pero lo que las g",
-      "enlace": "https://www.xataka.com/videojuegos/anthropic-toma-medidas-drasticas-clones-videojuegos-ia-hechos-claude-esta-ver-que-sirva-para-algo",
-      "medio": "Xataka",
-      "fecha": "2026-11-05T13:00:35Z"
-    },
-    {
-      "titulo": "Las gafas inteligentes de Amazon fotografiarán hogares, sin opción de exclusión.",
-      "resumen": "Amazon está preparando un despliegue de gafas inteligentes para sus repartidores que prometen facilitar las entregas, pero también pueden convertir cada recorrido hasta la puerta de una vivienda en una sucesión de fotogr",
-      "enlace": "https://www.genbeta.com/actualidad/gafas-inteligentes-amazon-fotografiaran-casas-calles-durante-repartos-clientes-no-podran-evitarlo",
-      "medio": "Genbeta",
-      "fecha": "2026-11-05T12:00:35Z"
-    },
-    {
       "titulo": "Apple se empeñó en que sus trabajadores abrazasen la IA. Hasta que se han puesto a echar cuentas",
       "resumen": "Apple lleva tiempo animando a sus trabajadores a incorporar la inteligencia artificial a su día a día para mejorar su productividad. Sin embargo, el coste que esto genera parece estar haciendo mella en los presupuestos. ",
       "enlace": "https://www.applesfera.com/apple-1/apple-estuvo-ano-animando-a-sus-empleados-a-usar-ia-ahora-se-estan-preocupando-cuanto-les-cuesta",
       "medio": "Applesfera",
       "fecha": "2026-11-05T09:00:00Z"
-    },
-    {
-      "titulo": "Shigeru Miyamoto (73 años), sobre la inteligencia artificial generativa: “Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros”",
-      "resumen": "Shigeru Miyamoto cree que, aunque la inteligencia artificial tome más funciones, los creadores tienen algo que ofrecer. “Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros”, ha dicho el diseñador",
-      "enlace": "https://www.genbeta.com/actualidad/shigeru-miyamoto-73-anos-inteligencia-artificial-generativa-ia-llegara-a-encargarse-todo-siempre-habra-papel-para-nosotros",
-      "medio": "Genbeta",
-      "fecha": "2026-11-05T08:01:24Z"
-    },
-    {
-      "titulo": "Qué es la Open Safety Platform de NVIDIA y por qué puede ser clave para desarrollar IA sin ciberataques",
-      "resumen": "Que la inteligencia artificial se salga de control es una de las mayores preocupaciones de las grandes compañías que desarrollan y ofrecen estos sistemas. Prueba de ello son las medidas de contención que empresas como [&",
-      "enlace": "https://blogthinkbig.com/que-es-la-open-safety-platform-de-nvidia",
-      "medio": "Think Big",
-      "fecha": "2026-11-05T07:01:00Z"
     }
   ],
   "etica": [
     {
-      "titulo": "The New York Times y tres diarios más demandan a Brave por alimentar a la IA con su periodismo",
-      "resumen": "El NYT y tres diarios demandan a Brave por rastrear su periodismo, saltarse sus muros de pago y vender el acceso a cinco empresas de IA.La noticia The New York Times y tres diarios más demandan a Brave por alimentar a la",
-      "enlace": "https://wwwhatsnew.com/2026/11/06/nyt-diarios-demandan-brave-ia-periodismo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-06T21:00:00Z"
+      "titulo": "El presidente de Microsoft pide más regulación para la IA: \"Cada envase de leche\" está sujeto a más normas de seguridad",
+      "resumen": "Brad Smith, presidente de Microsoft y vicepresidente de su consejo de administración, cree que la inteligencia artificial necesita reglas globales que permitan mantenerla bajo control. En una entrevista con la BBC, el di",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/presidente-microsoft-pide-regulacion-para-ia-cada-envase-leche-esta-sujeto-a-normas-seguridad",
+      "medio": "Genbeta",
+      "fecha": "2026-11-09T17:01:08Z"
     },
     {
       "titulo": "Solo el 13% de las empresas españolas controla el consumo energético asociado a la IA",
