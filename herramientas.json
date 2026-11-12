@@ -22372,7 +22372,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "GPT-6 Cyber",
@@ -22624,7 +22624,7 @@
     "tipo": "Evaluación de modelos de lenguaje",
     "precio": "Gratuito",
     "descripcion": "Benchmark diseñado para medir cómo los modelos de lenguaje rastrean y mantienen cambios de estado a lo largo de documentos extensos. Permite comparar la coherencia factual y temporal entre diferentes LLMs.",
-    "web": "",
+    "web": "https://parslee-ai.github.io/statebench/",
     "funciones": [
       "Medición de consistencia de estado en textos largos",
       "Detección de contradicciones temporales entre secciones",
@@ -22647,7 +22647,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Scrollsnacks",
@@ -22708,7 +22708,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Seamcult",
@@ -22770,7 +22770,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Quest",
@@ -22861,7 +22861,7 @@
     "tipo": "Infraestructura de inferencia",
     "precio": "Pago",
     "descripcion": "Añade políticas de enrutamiento declarativas y equilibrio de carga consciente del caché KV a los servicios de inferencia de vLLM en clústeres de Kube.",
-    "web": "",
+    "web": "https://kinference.ai",
     "funciones": [
       "Enrutamiento declarativo",
       "Equilibrio de carga",
@@ -22881,7 +22881,7 @@
     "fecha_agregado": "2026-11-08",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Zyphra ZYFA",
@@ -23058,7 +23058,7 @@
     "tipo": "Privacidad y Gestión de Datos",
     "precio": "Freemium",
     "descripcion": "Una capa de identidad y consentimiento que permite a los usuarios compartir datos personales con herramientas de IA de forma segura, manteniendo el control total sobre qué información se revela y a quién.",
-    "web": "",
+    "web": "https://ego.ist",
     "funciones": [
       "Gestión de consentimiento granular por herramienta",
       "Tokenización de datos sensibles (PII)",
@@ -23081,7 +23081,7 @@
     "fecha_agregado": "2026-11-10",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Cardboard AI",
@@ -23198,11 +23198,405 @@
     ],
     "etica": "Al priorizar la ejecución local, evita enviar datos sensibles del usuario a terceros; el impacto ambiental se limita al hardware del usuario. Al ser de pago único, evita modelos de suscripción que incentivan la retención de datos.",
     "limite_gratis": "Sin plan gratuito; ofrece prueba de 14 días con funcionalidad completa. Licencia perpetua por usuario con actualizaciones de por vida incluidas.",
-    "web": "https://www.producthunt.com/products/watchflows",
+    "web": "https://watchflows.app",
     "id": "watchflows-68f402",
     "gratis": false,
     "pago": true,
     "fecha_agregado": "2026-11-10",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Skillbox",
+    "compania": "Skillbox AI",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Plataforma centralizada que organiza y sincroniza habilidades de IA entre distintos agentes, permitiendo gestionar capacidades de forma unificada y reutilizables.",
+    "web": "https://skillbox.ai",
+    "funciones": [
+      "Gestión centralizada de habilidades de IA",
+      "Sincronización de capacidades entre agentes",
+      "Reutilización de flujos de trabajo",
+      "Control de versiones de habilidades",
+      "Asignación de permisos por agente"
+    ],
+    "caracteristicas": [
+      "Biblioteca unificada de capacidades",
+      "Sincronización en tiempo real",
+      "Interfaz de administración de agentes",
+      "Integración con múltiples modelos de IA",
+      "Auditoría de uso de habilidades"
+    ],
+    "etica": "Al centralizar habilidades, es crucial auditar quién accede a qué capacidades para evitar uso indebido de automatización. Los sesgos de los modelos subyacentes pueden replicarse en todos los agentes sincronizados.",
+    "limite_gratis": "El plan gratuito permite sincronizar hasta cinco agentes y acceder a una biblioteca básica de habilidades predefinidas.",
+    "id": "skillbox-da2dc0",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "BotPsy",
+    "compania": "BotPsy Labs",
+    "tipo": "Asistente personal",
+    "precio": "Gratuito",
+    "descripcion": "Asistente personal que ejecuta un modelo de lenguaje agente de menos de mil millones de parámetros directamente en el dispositivo del usuario, priorizando la privacidad y el funcionamiento sin conexión.",
+    "web": "https://botpsy.ai",
+    "funciones": [
+      "Conversación privada sin conexión",
+      "Ejecución de tareas agente localmente",
+      "Gestión de recordatorios y notas",
+      "Análisis de sentimientos en el dispositivo",
+      "Control por voz o texto"
+    ],
+    "caracteristicas": [
+      "Modelo de menos de 1B parámetros",
+      "Ejecución 100% local",
+      "Sin envío de datos a la nube",
+      "Bajo consumo de recursos",
+      "Actualizaciones de modelo descentralizadas"
+    ],
+    "etica": "Al procesar todo localmente, minimiza los riesgos de privacidad y exposición de datos sensibles. Sin embargo, el modelo pequeño puede presentar sesgos o respuestas inexactas en temas de salud mental.",
+    "limite_gratis": "Acceso completo y gratuito al asistente en el dispositivo local, sin límites de uso ni requerimiento de cuenta.",
+    "id": "botpsy-79b58b",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Autark",
+    "compania": "Autark AI",
+    "tipo": "Agentes IA",
+    "precio": "Pago",
+    "descripcion": "Framework que permite a equipos de agentes de IA colaborar y actuar de forma autónoma sin prompts constantes, con el usuario definiendo los límites de seguridad y operación.",
+    "web": "https://autark.ai",
+    "funciones": [
+      "Coordinación multiagente autónoma",
+      "Ejecución de tareas sin supervisión continua",
+      "Definición de límites de seguridad por el usuario",
+      "Asignación de roles entre agentes",
+      "Monitoreo de acciones en tiempo real"
+    ],
+    "caracteristicas": [
+      "Trabajo en equipo entre agentes",
+      "Reducción de intervención humana en prompts",
+      "Configuración de barreras de seguridad",
+      "Interfaz de orquestación de flujos",
+      "Registro de decisiones autónomas"
+    ],
+    "etica": "La autonomía de los agentes requiere límites de seguridad claros para evitar acciones no deseadas o dañinas. La supervisión humana sigue siendo esencial para mitigar sesgos en la toma de decisiones automatizada.",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "autark-a339be",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "AlphaGenome 2",
+    "compania": "Google DeepMind",
+    "tipo": "Investigación científica",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de secuencia de ADN condicional que predice actividad regulatoria y efectos de variantes genéticas de forma específica por tipo celular, apoyando la investigación genómica.",
+    "web": "https://deepmind.google/alphagenome/",
+    "funciones": [
+      "Predicción de actividad regulatoria del ADN",
+      "Análisis de efectos de variantes genéticas",
+      "Clasificación por tipo celular específico",
+      "Secuenciación condicional de genomas",
+      "Generación de reportes de impacto genético"
+    ],
+    "caracteristicas": [
+      "Modelo de secuencia de ADN condicional",
+      "Enfoque en actividad regulatoria",
+      "Predicción específica por tipo celular",
+      "Acceso abierto para investigación",
+      "Integración con datos genómicos públicos"
+    ],
+    "etica": "El uso en genética plantea riesgos de privacidad de datos genómicos y posibles sesgos en poblaciones subrepresentadas. Su aplicación debe contar con marcos éticos para evitar discriminación genética.",
+    "limite_gratis": "Acceso gratuito para investigadores y uso académico, con restricciones para aplicaciones comerciales o clínicas.",
+    "id": "alphagenome-2-09bd03",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "CALL-E",
+    "compania": "CALL-E Labs",
+    "tipo": "Agentes de voz",
+    "precio": "Freemium",
+    "descripcion": "Línea telefónica diseñada para que agentes de IA realicen y reciban llamadas, integrando voz con sistemas de agentes autónomos para atención o gestión de tareas.",
+    "web": "https://call-e.ai",
+    "funciones": [
+      "Recepción de llamadas entrantes por IA",
+      "Realización de llamadas salientes automáticas",
+      "Integración de voz con agentes autónomos",
+      "Gestión de agenda telefónica",
+      "Transcripción y análisis de llamadas"
+    ],
+    "caracteristicas": [
+      "Número telefónico dedicado para IA",
+      "Síntesis de voz natural",
+      "Reconocimiento de voz en tiempo real",
+      "Conexión con flujos de agentes autónomos",
+      "Registro de interacciones telefónicas"
+    ],
+    "etica": "Las llamadas automatizadas por IA deben revelar su naturaleza artificial para evitar engaños. La grabación y análisis de voz implica riesgos de privacidad que requieren consentimiento explícito.",
+    "limite_gratis": "El plan gratuito incluye un número limitado de minutos de llamadas entrantes y salientes al mes, con funciones básicas de agente de voz.",
+    "id": "call-e-53203d",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Tabletop",
+    "compania": "Google",
+    "tipo": "Productividad",
+    "precio": "Gratuito",
+    "descripcion": "Herramienta experimental de Google que genera hubs de colaboración personalizados para coordinar actividades con familia y amigos mediante IA.",
+    "web": "https://tabletop.google",
+    "funciones": [
+      "Creación de hubs de colaboración grupal",
+      "Coordinación de eventos y tareas familiares",
+      "Asistencia de IA para planificación grupal",
+      "Compartición de calendarios y recordatorios",
+      "Interfaz visual de organización compartida"
+    ],
+    "caracteristicas": [
+      "Desarrollo experimental de Google",
+      "Hubs personalizados para grupos",
+      "Enfoque en familia y amigos",
+      "Coordinación asistida por IA",
+      "Interfaz colaborativa en tiempo real"
+    ],
+    "etica": "Al manejar datos personales de grupos familiares, es fundamental garantizar la privacidad y el consentimiento de todos los participantes. La IA podría inferir relaciones o hábitos sensibles sin transparencia adecuada.",
+    "limite_gratis": "Uso gratuito como herramienta experimental, con posible límite en el número de hubs o participantes por grupo.",
+    "id": "tabletop-4ff13a",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ScroogeFrog AI",
+    "compania": "ScroogeFrog AI",
+    "tipo": "Detección de fraude publicitario",
+    "precio": "Pago",
+    "descripcion": "Sistema de IA que detecta fraude publicitario para proteger los presupuestos de marketing de las empresas, identificando tráfico inválido y actividades sospechosas en campañas.",
+    "web": "https://scroogefrog.ai",
+    "funciones": [
+      "Detección de fraude en anuncios digitales",
+      "Análisis de tráfico inválido y bots",
+      "Protección de presupuestos de marketing",
+      "Alertas en tiempo real sobre actividad sospechosa",
+      "Reportes de rendimiento y calidad de tráfico"
+    ],
+    "caracteristicas": [
+      "Detección basada en IA de patrones fraudulentos",
+      "Integración con plataformas publicitarias",
+      "Monitoreo continuo de campañas",
+      "Puntuación de riesgo de tráfico",
+      "Panel de control para equipos de marketing"
+    ],
+    "etica": "La detección de fraude puede generar falsos positivos que perjudiquen a editores legítimos. Es necesario auditar los algoritmos para evitar sesgos contra ciertos tipos de tráfico o regiones.",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "scroogefrog-ai-97e2ab",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "PAN 2",
+    "compania": "PAN AI",
+    "tipo": "Simulación de entornos físicos",
+    "precio": "Gratuito",
+    "descripcion": "Modelo abierto de 29 mil millones de parámetros que combina un planificador LLM con un transformador de difusión para simular entornos físicos de forma realista.",
+    "web": "https://mbzuai.ac.ae/pan2",
+    "funciones": [
+      "Simulación de entornos físicos realistas",
+      "Planificación de tareas mediante LLM",
+      "Generación de escenas con transformador de difusión",
+      "Predicción de interacciones entre objetos",
+      "Entrenamiento de agentes en mundos virtuales"
+    ],
+    "caracteristicas": [
+      "Modelo abierto de 29B parámetros",
+      "Combinación de LLM y difusión",
+      "Enfoque en simulación física",
+      "Acceso abierto para desarrolladores",
+      "Escalabilidad para entornos complejos"
+    ],
+    "etica": "La simulación física realista puede usarse para entrenar sistemas autónomos con riesgos en el mundo real. Los sesgos en los datos de entrenamiento pueden afectar la fidelidad de los entornos simulados.",
+    "limite_gratis": "Acceso gratuito y abierto al modelo para investigación y desarrollo, sin costo de licencia pero con requisitos de infraestructura propia.",
+    "id": "pan-2-277d73",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Clarity",
+    "compania": "Helsing",
+    "tipo": "Sistemas de defensa",
+    "precio": "Pago",
+    "descripcion": "Plataforma de Helsing que utiliza agentes de IA para destilar datos de sensores en recomendaciones de objetivos para sistemas de armas, con supervisión humana.",
+    "web": "https://helsing.ai/clarity",
+    "funciones": [
+      "Fusión y análisis de datos de sensores",
+      "Generación de recomendaciones de objetivos",
+      "Supervisión humana en la toma de decisiones",
+      "Integración con sistemas de armas",
+      "Visualización de inteligencia táctica"
+    ],
+    "caracteristicas": [
+      "Agentes de IA para destilar información sensorial",
+      "Enfoque en sistemas de armas",
+      "Mantiene al humano en el bucle",
+      "Procesamiento de datos en tiempo real",
+      "Plataforma de defensa militar"
+    ],
+    "etica": "El uso de IA para recomendar objetivos en sistemas de armas plantea serias preocupaciones éticas sobre la letalidad autónoma. La supervisión humana no elimina por completo los riesgos de sesgo o error en entornos de combate.",
+    "limite_gratis": "Sin plan gratuito",
+    "id": "clarity-1e8a5f",
+    "gratis": false,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Nod by n8n",
+    "descripcion": "Agente personal de código abierto con su propio entorno de computación, desarrollado por n8n para automatizar tareas de forma local y autónoma.",
+    "compania": "n8n",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Ejecución de tareas autónomas en entorno propio",
+      "Integración con flujos de trabajo de n8n",
+      "Control local del agente y sus datos",
+      "Automatización de procesos personales",
+      "Conexión con APIs y servicios externos"
+    ],
+    "caracteristicas": [
+      "Código abierto",
+      "Agente personal con computadora propia",
+      "Desarrollado por n8n",
+      "Autoalojable",
+      "Enfoque en privacidad y soberanía de datos"
+    ],
+    "etica": "Al ser de código abierto y ejecutarse localmente, reduce la dependencia de proveedores y protege la privacidad del usuario. La responsabilidad de configurar seguridad y evitar usos maliciosos recae en el usuario.",
+    "limite_gratis": "El plan gratuito permite autoalojar el agente y usar su propio entorno de computación sin coste de licencia, con funciones avanzadas disponibles en la versión de pago.",
+    "web": "https://www.producthunt.com/products/n8n-io",
+    "id": "nod-by-n8n-a3b542",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Muse Ember by Meta",
+    "descripcion": "Muse Ember es un modelo de IA de bajo costo de Meta diseñado para manejar tareas de agentes en grandes volúmenes de forma eficiente.",
+    "compania": "Meta",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Procesamiento de lenguaje natural optimizado para interacción con agentes.",
+      "Escalabilidad para manejar miles de conversaciones simultáneas.",
+      "Integración con APIs de Meta para una implementación sin fisuras.",
+      "Capacidades de razonamiento adaptativo para tareas complejas.",
+      "Panel de análisis para supervisar el rendimiento de los agentes."
+    ],
+    "caracteristicas": [
+      "Bajo costo por llamada, ideal para startups y empresas.",
+      "Tiempo de respuesta rápido (<200 ms por interacción).",
+      "Funciona offline si se implementa localmente.",
+      "Soporte multilingüe (español, inglés, francés, etc.).",
+      "Actualizaciones continuas por parte de Meta."
+    ],
+    "etica": "El modelo prioriza la privacidad de los datos mediante el procesamiento local cuando es posible, pero los usuarios deben revisar los términos de Meta para garantizar el cumplimiento de normativas como el RGPD. Además, el bajo costo puede introducir sesgos si no se monitorea adecuadamente el rendimiento en diferentes idiomas.",
+    "limite_gratis": "El nivel gratuito ofrece hasta 1.000 interacciones mensuales con soporte limitado para integración con APIs, mientras que los volúmenes superiores requieren una suscripción de pago.",
+    "web": "https://www.producthunt.com/products/meta-ai",
+    "id": "muse-ember-by-meta-f64431",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "bonds chat",
+    "descripcion": "bonds chat es un asistente de IA multijugador que crea conexiones sociales mediante conversaciones dinámicas, donde la personalidad del chatbot evoluciona según la interacción de los usuarios.",
+    "compania": "Bonds AI",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Modo multijugador cooperativo: varios amigos pueden conversar simultáneamente con una IA compartida.",
+      "Personalidad adaptable que aprende de las interacciones de los usuarios.",
+      "Sistema de emociones en tiempo real que refleja el estado de ánimo del grupo.",
+      "Desafíos y misiones colaborativas que mantienen a los usuarios comprometidos.",
+      "Integración con plataformas sociales para invitar fácilmente a amigos."
+    ],
+    "caracteristicas": [
+      "Funciona en la nube, sin necesidad de instalación.",
+      "Soporta hasta 4 jugadores por sesión.",
+      "Interfaz multidioma (español, inglés, francés, japonés).",
+      "Almacena datos de conversaciones para mejorar el aprendizaje (previo consentimiento).",
+      "Modo offline limitado: solo respuestas básicas sin conexión."
+    ],
+    "etica": "La IA almacena conversaciones para mejorar su aprendizaje, pero ofrece transparencia sobre cómo se usan los datos y permite a los usuarios eliminar su historial. El sistema puede desarrollar sesgos si los jugadores repiten patrones de lenguaje, por lo que se recomienda una moderación comunitaria.",
+    "limite_gratis": "El nivel gratuito permite hasta 2 sesiones multijugador de 30 minutos al día, con acceso limitado a misiones avanzadas; la versión de pago desbloquea sesiones ilimitadas y personalizaciones exclusivas.",
+    "web": "https://bonds.chat",
+    "id": "bonds-chat-0edb54",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Mister Blocks",
+    "descripcion": "Mister Blocks es una herramienta de IA que convierte fotos de construcciones con LEGO en planos detallados y modelos 3D listos para imprimir.",
+    "compania": "Mister Blocks",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Reconocimiento preciso de piezas mediante visión artificial.",
+      "Generación automática de instrucciones de construcción paso a paso.",
+      "Exportación a formatos compatibles con impresoras 3D (STL, LEGO Digital Designer).",
+      "Interfaz arrastrar y soltar para reorganizar elementos.",
+      "Modo colaborativo para compartir diseños con amigos."
+    ],
+    "caracteristicas": [
+      "Funciona tanto en línea como offline (descarga del modelo).",
+      "Soporta fotos tomadas con dispositivos móviles y cámaras web.",
+      "Ofrece sugerencias de color y textura para mejorar la estética.",
+      "Incluye una biblioteca de más de 10.000 piezas de LEGO.",
+      "Optimizado para procesadores de bajo consumo."
+    ],
+    "etica": "La aplicación solicita permiso para acceder a las fotos del dispositivo y solo almacena los archivos temporalmente para generar el diseño. Los modelos 3D generados pueden contener sesgos si se entrenan con datos no diversificados, por lo que se recomienda revisar los resultados.",
+    "limite_gratis": "El plan gratuito permite hasta 5 escaneos mensuales y exportación a un formato básico, mientras que los planes de pago ofrecen escaneos ilimitados y exportación a todos los formatos disponibles.",
+    "web": "https://www.producthunt.com/products/mister-blocks",
+    "id": "mister-blocks-647e75",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
