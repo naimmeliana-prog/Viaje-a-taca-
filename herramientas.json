@@ -22372,7 +22372,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "GPT-6 Cyber",
@@ -22708,7 +22708,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Seamcult",
@@ -22770,7 +22770,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 4
+    "intentos_web": 5
   },
   {
     "nombre": "Quest",
@@ -23213,7 +23213,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Plataforma centralizada que organiza y sincroniza habilidades de IA entre distintos agentes, permitiendo gestionar capacidades de forma unificada y reutilizables.",
-    "web": "https://skillbox.ai",
+    "web": "https://skillbox.so/",
     "funciones": [
       "Gestión centralizada de habilidades de IA",
       "Sincronización de capacidades entre agentes",
@@ -23235,7 +23235,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "BotPsy",
@@ -23243,7 +23244,7 @@
     "tipo": "Asistente personal",
     "precio": "Gratuito",
     "descripcion": "Asistente personal que ejecuta un modelo de lenguaje agente de menos de mil millones de parámetros directamente en el dispositivo del usuario, priorizando la privacidad y el funcionamiento sin conexión.",
-    "web": "https://botpsy.ai",
+    "web": "https://botpsy.site/",
     "funciones": [
       "Conversación privada sin conexión",
       "Ejecución de tareas agente localmente",
@@ -23265,7 +23266,8 @@
     "pago": false,
     "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Autark",
@@ -23303,7 +23305,7 @@
     "tipo": "Investigación científica",
     "precio": "Gratuito",
     "descripcion": "Modelo de secuencia de ADN condicional que predice actividad regulatoria y efectos de variantes genéticas de forma específica por tipo celular, apoyando la investigación genómica.",
-    "web": "https://deepmind.google/alphagenome/",
+    "web": "https://deepmind.google/science/alphagenome/",
     "funciones": [
       "Predicción de actividad regulatoria del ADN",
       "Análisis de efectos de variantes genéticas",
@@ -23325,7 +23327,8 @@
     "pago": false,
     "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "CALL-E",
@@ -23333,7 +23336,7 @@
     "tipo": "Agentes de voz",
     "precio": "Freemium",
     "descripcion": "Línea telefónica diseñada para que agentes de IA realicen y reciban llamadas, integrando voz con sistemas de agentes autónomos para atención o gestión de tareas.",
-    "web": "https://call-e.ai",
+    "web": "https://www.heycall-e.com/",
     "funciones": [
       "Recepción de llamadas entrantes por IA",
       "Realización de llamadas salientes automáticas",
@@ -23355,7 +23358,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Tabletop",
@@ -23499,14 +23503,14 @@
     ],
     "etica": "Al ser de código abierto y ejecutarse localmente, reduce la dependencia de proveedores y protege la privacidad del usuario. La responsabilidad de configurar seguridad y evitar usos maliciosos recae en el usuario.",
     "limite_gratis": "El plan gratuito permite autoalojar el agente y usar su propio entorno de computación sin coste de licencia, con funciones avanzadas disponibles en la versión de pago.",
-    "web": "https://www.producthunt.com/products/n8n-io",
+    "web": "https://nod.n8n.io/",
     "id": "nod-by-n8n-a3b542",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Muse Ember by Meta",
@@ -23537,7 +23541,7 @@
     "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "bonds chat",
@@ -23597,6 +23601,130 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-12",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "Burnstate",
+    "descripcion": "Utilidad de barra de menú que gestiona y espacia los límites de uso de herramientas de IA para código como Claude Code, Codex y Cursor, evitando interrupciones durante el desarrollo.",
+    "compania": "Burnstate",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Monitoreo de límites de uso",
+      "Cola de peticiones de IA",
+      "Notificaciones en barra de menú",
+      "Programación de tareas",
+      "Historial de consumo"
+    ],
+    "caracteristicas": [
+      "Integración con barra de menú",
+      "Soporte para múltiples proveedores de IA",
+      "Control de ritmo de peticiones",
+      "Alertas de límite alcanzado",
+      "Interfaz minimalista"
+    ],
+    "etica": "Accede principalmente a metadatos de uso sin procesar código sensible del usuario, aunque su gestión de colas podría priorizar ciertos flujos de trabajo sobre otros.",
+    "limite_gratis": "El plan gratuito permite monitorear un número limitado de herramientas y peticiones diarias antes de requerir suscripción.",
+    "web": "https://burnstate.dev/",
+    "id": "burnstate-57c5ac",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Aven App Agent",
+    "descripcion": "Agente de IA integrado en aplicaciones que acompaña al usuario en tiempo real, ofreciendo guía contextual y respuestas dentro de la interfaz para mejorar la adopción y el soporte.",
+    "compania": "Aven",
+    "tipo": "Chatbot / Asistente",
+    "precio": "Freemium",
+    "funciones": [
+      "Guía contextual paso a paso",
+      "Resolución de dudas dentro de la app",
+      "Onboarding automatizado",
+      "Integración con interfaz de usuario",
+      "Analítica de interacciones"
+    ],
+    "caracteristicas": [
+      "Incrustación en aplicaciones web y móviles",
+      "Respuestas basadas en documentación de la app",
+      "Disponibilidad 24/7",
+      "Personalización de tono y marca",
+      "Registro de sesiones de usuario"
+    ],
+    "etica": "Puede recopilar datos de interacción y comportamiento dentro de la aplicación, lo que requiere transparencia y consentimiento del usuario; sus respuestas podrían sesgar la experiencia si no se supervisan.",
+    "limite_gratis": "El plan gratuito incluye un número limitado de usuarios guiados mensuales y funciones básicas de onboarding.",
+    "web": "https://www.producthunt.com/products/aven-app-agent",
+    "id": "aven-app-agent-809448",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Paxper",
+    "descripcion": "Plataforma visual para diseñar infraestructura en la nube que permite crear diagramas, revisar cada cambio antes de aplicarlo y gestionar entornos de forma colaborativa.",
+    "compania": "Paxper",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Diseño visual de infraestructura",
+      "Revisión y aprobación de cambios",
+      "Control de versiones de entornos",
+      "Colaboración en equipo",
+      "Implementación en proveedores cloud"
+    ],
+    "caracteristicas": [
+      "Interfaz de arrastrar y soltar",
+      "Detección de conflictos de configuración",
+      "Integración con AWS, Azure y GCP",
+      "Historial de auditoría",
+      "Vista previa de impacto"
+    ],
+    "etica": "Al manejar configuraciones de infraestructura, errores o sesgos en la revisión automática podrían causar interrupciones de servicio, por lo que requiere controles de acceso estrictos y auditoría continua.",
+    "limite_gratis": "El plan gratuito permite diseñar infraestructura limitada y revisar cambios en un solo entorno cloud.",
+    "web": "https://paxper.com/",
+    "id": "paxper-abb6c6",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-14",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "GAtrends",
+    "descripcion": "Servicio de alertas que detecta picos de menciones de palabras clave en plataformas como Telegram, Claude y ChatGPT, ayudando a identificar tendencias emergentes en tiempo real.",
+    "compania": "GAtrends",
+    "tipo": "Productividad",
+    "precio": "Freemium",
+    "funciones": [
+      "Monitoreo de palabras clave",
+      "Alertas de picos de actividad",
+      "Integración con Telegram",
+      "Seguimiento en modelos de IA",
+      "Panel de tendencias"
+    ],
+    "caracteristicas": [
+      "Notificaciones en tiempo real",
+      "Análisis de volumen de menciones",
+      "Soporte para múltiples canales",
+      "Historial de alertas",
+      "Filtros por idioma y región"
+    ],
+    "etica": "El monitoreo de conversaciones puede generar preocupaciones de privacidad si se recopilan datos personales; los algoritmos de detección de picos podrían amplificar ciertos contenidos sobre otros.",
+    "limite_gratis": "El plan gratuito ofrece alertas para un número limitado de palabras clave y notificaciones básicas sin historial extendido.",
+    "web": "https://www.producthunt.com/products/gatrends",
+    "id": "gatrends-f5763f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-14",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1

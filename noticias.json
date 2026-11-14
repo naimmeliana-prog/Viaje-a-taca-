@@ -1,19 +1,131 @@
 {
-  "actualizado": "2026-11-12T03:36:04Z",
+  "actualizado": "2026-11-14T02:53:47Z",
   "novedades": [
     {
-      "titulo": "Spotify deja elegir la voz de su DJ con IA y, por fin, pedirle que hable menos",
-      "resumen": "Spotify renueva su DJ con IA: nueve voces y personalidades nuevas y una opción para que hable menos. Desde hoy para Premium en más de 95 mercados.La noticia Spotify deja elegir la voz de su DJ con IA y, por fin, pedirle ",
-      "enlace": "https://wwwhatsnew.com/2026/11/12/spotify-dj-ia-voces-personalizar-menos-comentarios/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-12T03:00:00Z"
+      "titulo": "CEO de Microsoft, Satya Nadella: \"Tenemos que hacer algo útil con la IA, o rápidamente perderemos el permiso social\" — desafiando a los pioneros de la IA a mejo",
+      "resumen": "Microsoft lleva años apostando por la IA invirtiendo grandes sumas de dinero en su desarrollo y llevando herramientas como Copilot a sus productos. Sin embargo, Satya Nadella (CEO de la compañía) reconoce que toda esta a",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/ceo-microsoft-satya-nadella-tenemos-que-hacer-algo-util-ia-rapidamente-perderemos-permiso-social-desafiando-a-pioneros-ia-a-mejorar-su-desempeno",
+      "medio": "Genbeta",
+      "fecha": "2026-11-13T19:01:21Z"
     },
     {
-      "titulo": "Adobe mete agentes de IA en Photoshop, Premiere y Firefly, y abre sus apps a ChatGPT, Claude y Gemini",
-      "resumen": "Adobe suma agentes de IA a Photoshop, Premiere y Firefly y lanza un servidor MCP para controlar sus apps desde ChatGPT, Claude o Gemini.La noticia Adobe mete agentes de IA en Photoshop, Premiere y Firefly, y abre sus app",
-      "enlace": "https://wwwhatsnew.com/2026/11/11/adobe-agentes-ia-mcp-photoshop-premiere-firefly/",
+      "titulo": "Crear el logo de tu negocio con IA: qué puedes hacer, cuándo se parece demasiado a otra marca y si puedes registrarlo en la OEPM o la EUIPO",
+      "resumen": "Un logo hecho con IA puede registrarse como marca, pero la OEPM no te avisa si se parece a otra. Qué dice la ley y cómo comprobarlo antes.La noticia Crear el logo de tu negocio con IA: qué puedes hacer, cuándo se parece ",
+      "enlace": "https://wwwhatsnew.com/2026/11/13/logo-negocio-con-ia-registrar-marca-oepm-euipo/",
       "medio": "WWWhat's new",
-      "fecha": "2026-11-11T21:00:00Z"
+      "fecha": "2026-11-13T18:00:00Z"
+    },
+    {
+      "titulo": "Buscar con IA o con un buscador de toda la vida: cuándo conviene ChatGPT, Perplexity, el Modo IA de Google o una búsqueda normal",
+      "resumen": "ChatGPT, Perplexity y el Modo IA de Google, frente a la búsqueda de siempre. Un estudio halló errores en más del 60 % de sus citas: cómo comprobarlas.La noticia Buscar con IA o con un buscador de toda la vida: cuándo con",
+      "enlace": "https://wwwhatsnew.com/2026/11/13/buscar-con-ia-o-buscador-clasico-chatgpt-perplexity-modo-ia-google/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-13T14:00:00Z"
+    },
+    {
+      "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
+      "resumen": "Mark Zuckerberg tiene claro que las gafas inteligentes son el nuevo ‘smartphone’. A pesar de la gran acogida de las Meta Glasses estos años y al gran avance de la IA generativa, todavía no estamos en ese punto. Lo que sí",
+      "enlace": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
+      "medio": "Xataka",
+      "fecha": "2026-11-13T11:57:28Z"
+    },
+    {
+      "titulo": "Google cree haber dado con el santo grial de la IA: Gemini 4 Hydrogen es rápido, bueno y (casi) barato",
+      "resumen": "Puede que la actualidad tecnológica esté centrada en Nvidia y Don Huang, pero, en segundo plano, la tensión por ganar la guerra de modelos sigue burbujeando. Si hace poco Google llevó su mejor LLM al público tras la sali",
+      "enlace": "https://www.xataka.com/robotica-e-ia/google-cree-haber-dado-santo-grial-ia-gemini-4-hydrogen-rapido-bueno-casi-barato",
+      "medio": "Xataka",
+      "fecha": "2026-11-13T11:31:27Z"
+    },
+    {
+      "titulo": "Claude también se cae en todo el mundo y se suma al caos de Outlook y Teams",
+      "resumen": "Actualización: el servicio de Claude se ha restablecido y funciona correctamente. Puede que en algunas regiones todavía existan problemas de funcionamiento.&nbsp; El asistente de inteligencia artificial de Anthropic, Cla",
+      "enlace": "https://www.xataka.com/seguridad/claude-tambien-se-cae-todo-mundo-se-suma-al-caos-outlook-teams",
+      "medio": "Xataka",
+      "fecha": "2026-11-13T10:22:00Z"
+    },
+    {
+      "titulo": "Google jubila a Gemini 3.8 Flash y presenta Gemini 4 Hydrogen",
+      "resumen": "Google ha reorganizado su catálogo de modelos de inteligencia artificial con un relevo directo en su gama de alta velocidad. Gemini 4 Hydrogen llega al mercado para sustituir a Gemini 3.8 Flash como la opción [&#8230;] G",
+      "enlace": "https://blogthinkbig.com/google-presenta-gemini-4-hydrogen-relevo-gemini-3-8-flash",
+      "medio": "Think Big",
+      "fecha": "2026-11-13T10:12:36Z"
+    },
+    {
+      "titulo": "Ex de Rockstar sobre 'GTA VI' en PC gracias a la IA: \"Me preocuparía si fuera Rockstar\"",
+      "resumen": "'GTA VI' encamina la recta final del lanzamiento en PS5 y Xbox Series y ni Rockstar ni Take-Two han dado fecha ni ventana para una versión de PC. Excepto en casos como 'GTA V', Rockstar suele tardar unos siete meses en l",
+      "enlace": "https://www.xataka.com/videojuegos/ex-rockstar-gta-vi-pc-gracias-a-ia-me-preocuparia-fuera-rockstar",
+      "medio": "Xataka",
+      "fecha": "2026-11-13T10:01:28Z"
+    },
+    {
+      "titulo": "De automatizar tareas a optimizar procesos, el verdadero reto de la IA",
+      "resumen": "Incorporar inteligencia artificial no debería ser un objetivo en sí mismo. Lo importante es identificar qué fricciones queremos eliminar, medir los resultados y comprobar que la mejora es real y sostenible L'articolo De ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/de-automatizar-tareas-a-optimizar-procesos-el-verdadero-reto-de-la-ia/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-13T08:45:00Z"
+    },
+    {
+      "titulo": "Claude entra en las videollamadas de Google Meet y estrena pizarras y hojas de cálculo",
+      "resumen": "Anthropic lanza Claude Meetings: Claude se une a Google Meet como un participante que redacta planes y tareas. Estrena también Whiteboards y Sheets.La noticia Claude entra en las videollamadas de Google Meet y estrena pi",
+      "enlace": "https://wwwhatsnew.com/2026/11/13/claude-meetings-google-meet-whiteboards-sheets/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-13T01:00:00Z"
+    },
+    {
+      "titulo": "DeepMind presenta AlphaGenome 2, una IA que predice cómo un cambio en el ADN afecta a cada tipo de célula",
+      "resumen": "DeepMind presenta AlphaGenome 2, una IA que predice cómo un cambio en el ADN afecta a cada tipo de célula, para entender enfermedades y tratamientos.La noticia DeepMind presenta AlphaGenome 2, una IA que predice cómo un ",
+      "enlace": "https://wwwhatsnew.com/2026/11/12/deepmind-alphagenome-2-adn-tipos-celula/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-12T20:00:00Z"
+    },
+    {
+      "titulo": "Verificar el código de Signal era un reto que llevaba años de trabajo de expertos. DeepMind dice que su IA lo ha hecho en un mes",
+      "resumen": "Google DeepMind dice que sus agentes de IA han demostrado matemáticamente que partes clave del código que está detrás del protocolo de cifrado de Signal hacen lo que se supone que deben hacer. El protocolo protege las co",
+      "enlace": "https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes",
+      "medio": "Xataka",
+      "fecha": "2026-11-12T18:01:23Z"
+    },
+    {
+      "titulo": "Google lanza Tabletop, espacios colaborativos donde el grupo crea sus propias mini-apps con IA",
+      "resumen": "Google presenta Tabletop, experimento de Labs para crear en grupo mini-apps de IA: itinerarios, encuestas, gastos. En EE. UU. por lista de espera.La noticia Google lanza Tabletop, espacios colaborativos donde el grupo cr",
+      "enlace": "https://wwwhatsnew.com/2026/11/12/google-tabletop-espacios-colaborativos-apps-ia/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-12T15:00:00Z"
+    },
+    {
+      "titulo": "¿Cómo Jensen Huang, que proviene de una familia común, construyó el imperio de NVIDIA?",
+      "resumen": "Jensen Huang ha sido el director NVIDIA desde que la cofundó en 1993 hasta este mismo 2026, en el que ha tenido que dimitir tras su escándalo de su infidelidad con una supuesta espía. Pero en este tiempo, sus chips se ha",
+      "enlace": "https://www.genbeta.com/actualidad/como-jensen-huang-que-proviene-familia-comun-construyo-imperio-nvidia",
+      "medio": "Genbeta",
+      "fecha": "2026-11-12T14:45:42Z"
+    },
+    {
+      "titulo": "Blue quiere que dejes el iPhone por un Android con un agente de IA dentro. La gran duda es cómo pagarlo",
+      "resumen": "El ecosistema de smartphones está suficientemente consolidado, es muy difícil que una nueva marca logre hacerse hueco. Pero eso no implica que los recién llegados dejen de intentarlo, sobre todo si se presentan con algo ",
+      "enlace": "https://www.xataka.com/telefono-movil/blue-quiere-que-dejes-iphone-android-agente-ia-dentro-gran-duda-como-pagarlo",
+      "medio": "Xataka",
+      "fecha": "2026-11-12T13:31:24Z"
+    },
+    {
+      "titulo": "Los 12 grandes riesgos de la IA y cómo gestionarlos",
+      "resumen": "¿Estamos preparados para afrontar los riesgos que implica la IA? L'articolo Los 12 grandes riesgos de la IA y cómo gestionarlos proviene da Computing.",
+      "enlace": "https://www.computing.es/inteligencia-artificial/cuales-son-los-riesgos-de-la-inteligencia-artificial/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-12T09:37:25Z"
+    },
+    {
+      "titulo": "El retorno de la inversión en inteligencia artificial crece pero desciende la preparación organizativa ante los riesgos",
+      "resumen": "La brecha entre la adopción de la tecnología y la gestión de amenazas en las empresas L'articolo El retorno de la inversión en inteligencia artificial crece pero desciende la preparación organizativa ante los riesgos pro",
+      "enlace": "https://www.computing.es/noticias/el-retorno-de-la-inversion-en-inteligencia-artificial-crece-pero-desciende-la-preparacion-organizativa-ante-los-riesgos/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-12T08:59:49Z"
+    },
+    {
+      "titulo": "Una IA de DeepMind demuestra matemáticamente que el protocolo de Signal es seguro",
+      "resumen": "Una IA de Google DeepMind verifica formalmente la seguridad del protocolo de Signal en cuatro semanas con AlphaProof Code. Un hito de alcance limitado.La noticia Una IA de DeepMind demuestra matemáticamente que el protoc",
+      "enlace": "https://wwwhatsnew.com/2026/11/12/deepmind-verifica-formalmente-protocolo-signal/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-12T07:00:00Z"
     },
     {
       "titulo": "El trabajo de moda en ingeniería de software ya no es programar: es reunirse con el cliente para asegurarse de que la IA funcione",
@@ -37,46 +149,11 @@
       "fecha": "2026-11-11T11:43:22Z"
     },
     {
-      "titulo": "Adobe pone agentes de IA a dirigir campañas de marketing enteras con GenStudio",
-      "resumen": "Adobe suma a GenStudio un agente, CX Enterprise Coworker, para dirigir campañas de marketing por conversación, con control de marca y gemelos 3D.La noticia Adobe pone agentes de IA a dirigir campañas de marketing enteras",
-      "enlace": "https://wwwhatsnew.com/2026/11/11/adobe-genstudio-agentes-ia-marketing-coworker/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-11T09:00:00Z"
-    },
-    {
       "titulo": "Los chips de Nvidia se acumulan en Hong Kong mientras China retiene la aprobación de importación",
       "resumen": "Unos 600.000 chips H200 de Nvidia estarían en Hong Kong esperando poder entrar en China continental. Dos personas que conocen la situación indican que este es el número de chips acumulado allí mientras Pekín bloquea las ",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/chips-nvidia-se-acumulan-hong-kong-china-retiene-aprobacion-importacion",
       "medio": "Genbeta",
       "fecha": "2026-11-11T07:01:50Z"
-    },
-    {
-      "titulo": "Adobe lleva sus herramientas a Google y Microsoft, y mete la IA de sus rivales dentro de Photoshop",
-      "resumen": "Adobe lleva Acrobat a Google Workspace y Express a Microsoft Fotos, y optimiza sus apps para Windows con Arm. Hasta DeepMind entrará en Photoshop.La noticia Adobe lleva sus herramientas a Google y Microsoft, y mete la IA",
-      "enlace": "https://wwwhatsnew.com/2026/11/11/adobe-alianzas-google-microsoft-disney-adobe-max/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-11T07:00:00Z"
-    },
-    {
-      "titulo": "Google abre Gemini 4 Carbon a todo el mundo y estrena «enjambres» de agentes que trabajan en equipo",
-      "resumen": "Google abre al público Gemini 4 Carbon y estrena /swarm, equipos de agentes coordinados. Cuesta igual que Argon, su modelo recomendado para el día a día.La noticia Google abre Gemini 4 Carbon a todo el mundo y estrena «e",
-      "enlace": "https://wwwhatsnew.com/2026/11/11/google-gemini-4-carbon-publico-enjambres-agentes/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-11T05:00:00Z"
-    },
-    {
-      "titulo": "La IA en la cocina: recetas con lo que hay en la nevera, menús semanales y lista de la compra, y dónde no fiarte de ella",
-      "resumen": "Recetas con lo que hay en la nevera, menú semanal y lista de la compra con IA. Y lo que no te dirá: 14 alérgenos, anisakis a –20 °C y el arroz de ayer.La noticia La IA en la cocina: recetas con lo que hay en la nevera, m",
-      "enlace": "https://wwwhatsnew.com/2026/11/11/ia-cocina-recetas-nevera-menu-semanal-lista-compra-seguridad-alimentaria/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-11T03:00:00Z"
-    },
-    {
-      "titulo": "Usar la IA para escribir el currículum y la carta de presentación: qué mejora, qué estropea y qué pasa con tus datos",
-      "resumen": "Un estudio de 2023 halló un 8 % más de probabilidad de ser contratado con ayuda de IA; hoy la carta ya no distingue. Cómo usarla y proteger tus datos.La noticia Usar la IA para escribir el currículum y la carta de presen",
-      "enlace": "https://wwwhatsnew.com/2026/11/10/ia-escribir-curriculum-carta-presentacion-riesgos-privacidad/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-10T20:00:00Z"
     },
     {
       "titulo": "Anthropic ha descubierto lo que mi madre ya sabía: la IA cuida mejor las cosas cuando cree que son suyas",
@@ -100,13 +177,6 @@
       "fecha": "2026-11-10T16:01:49Z"
     },
     {
-      "titulo": "Convertir textos en audio con IA: resúmenes tipo pódcast en Gemini, el lector del móvil y ElevenLabs, y qué puedes hacer con un libro ajeno",
-      "resumen": "Gemini Notebook convierte tus PDF en pódcast en más de 80 idiomas; el móvil los lee gratis. Qué usar y qué dice la ley si el libro no es tuyo.La noticia Convertir textos en audio con IA: resúmenes tipo pódcast en Gemini,",
-      "enlace": "https://wwwhatsnew.com/2026/11/10/convertir-texto-audio-ia-resumen-podcast-gemini-notebook-elevenlabs/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-10T16:00:00Z"
-    },
-    {
       "titulo": "Sabíamos que iba a llegar: Apple ya cobra por usar más su IA",
       "resumen": "Casi todos los servicios de inteligencia artificial funcionan igual. Te dejan probarlos gratis hasta un límite y, si quieres más, toca pasar por caja. Apple Intelligence era la excepción, porque todas sus funciones han s",
       "enlace": "https://www.applesfera.com/servicios-apple/sabiamos-que-iba-a-llegar-apple-cobra-usar-su-ia",
@@ -119,13 +189,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/pulsar-no-vuelvas-a-preguntar-claude-code-parecia-inofensivo-ha-acabado-filtrando-miles-contrasenas-github",
       "medio": "Xataka",
       "fecha": "2026-11-10T14:31:51Z"
-    },
-    {
-      "titulo": "Google ya no quiere un solo chip de IA que haga de todo: lanza dos nuevas TPU especializadas para plantar cara a Nvidia",
-      "resumen": "Google está ampliando su familia de procesadores de IA de diseño propio con dos nuevas variantes, una diseñada para computación que requiera proteger datos sensibles y la otra para cargas de trabajo exigentes en memoria.",
-      "enlace": "https://www.xataka.com/componentes/google-no-quiere-solo-chip-ia-que-haga-todo-lanza-dos-nuevas-tpu-especializadas-para-plantar-cara-a-nvidia",
-      "medio": "Xataka",
-      "fecha": "2026-11-10T14:00:00Z"
     },
     {
       "titulo": "Apple ha hecho una concesión inédita con su IA en China: hacerla distinta a la del resto del mundo",
@@ -147,72 +210,16 @@
       "enlace": "https://blogthinkbig.com/claude-fable-mythos-5-2-anthropic",
       "medio": "Think Big",
       "fecha": "2026-11-10T10:39:16Z"
-    },
-    {
-      "titulo": "Apple le encargó arreglar Siri. Ahora quiere irse de la empresa",
-      "resumen": "Arreglar Siri ha sido uno de los encargos más delicados que Apple ha tenido sobre la mesa en los últimos años. Mike Rockwell (el responsable de que el Vision Pro llegara a existir) se hizo cargo del proyecto en marzo de ",
-      "enlace": "https://www.applesfera.com/apple-1/hombre-que-saco-a-siri-bache-planea-dejar-apple",
-      "medio": "Applesfera",
-      "fecha": "2026-11-10T10:00:00Z"
-    },
-    {
-      "titulo": "Por qué la IA de código abierto puede ser clave para el renacer de la UE",
-      "resumen": "Con Estados Unidos y China liderando cómodamente la carrera de la inteligencia artificial generativa, el resto del mundo mira casi desde un costado cómo se suceden los avances más notorios en la materia. Norteamericanos ",
-      "enlace": "https://blogthinkbig.com/por-que-la-ia-de-codigo-abierto-puede-ser-clave-para-el-renacer-de-la-ue",
-      "medio": "Think Big",
-      "fecha": "2026-11-10T07:07:52Z"
-    },
-    {
-      "titulo": "Cómo montar tu propia IA local en PC gratis (y no pagar ChatGPT, Gemini o Claude)",
-      "resumen": "Cuando la IA generativa se dio a conocer entre el gran público, para popularizarse tomó la acertada decisión de ofrecerse como un servicio gratuito. No es nada nuevo. Tenemos los ejemplos de Spotify, Canva, Slack, [&#823",
-      "enlace": "https://blogthinkbig.com/montar-ia-inteligencia-artificial-local-pc",
-      "medio": "Think Big",
-      "fecha": "2026-11-10T07:01:00Z"
-    },
-    {
-      "titulo": "Una startup paga 20 dólares la hora por pasear perros robot",
-      "resumen": "Una startup de San Francisco ha estado pagando a la gente para que pasee perros robot por la ciudad, tal y como cuentan desde el New York Times. Por muy extraño que parezca, lo cierto es que dice mucho de en qué nivel no",
-      "enlace": "https://www.xataka.com/robotica-e-ia/startup-paga-20-dolares-hora-pasear-perros-robot",
-      "medio": "Xataka",
-      "fecha": "2026-11-10T06:30:00Z"
-    },
-    {
-      "titulo": "Anthropic acaba de lanzar sus dos modelos de IA más avanzados. Uno tendrá acceso general y el otro estará restringido",
-      "resumen": "Que un modelo de inteligencia artificial sea capaz de resolver problemas extraordinariamente complejos no significa que todas sus capacidades estén al alcance de cualquiera. La diferencia puede estar en el precio, pero t",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-sus-dos-modelos-ia-avanzados-uno-tendra-acceso-general-otro-estara-restringido",
-      "medio": "Xataka",
-      "fecha": "2026-11-09T21:57:00Z"
-    },
-    {
-      "titulo": "El presidente de Microsoft pide más regulación para la IA: \"Cada envase de leche\" está sujeto a más normas de seguridad",
-      "resumen": "Brad Smith, presidente de Microsoft y vicepresidente de su consejo de administración, cree que la inteligencia artificial necesita reglas globales que permitan mantenerla bajo control. En una entrevista con la BBC, el di",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/presidente-microsoft-pide-regulacion-para-ia-cada-envase-leche-esta-sujeto-a-normas-seguridad",
-      "medio": "Genbeta",
-      "fecha": "2026-11-09T17:01:08Z"
-    },
-    {
-      "titulo": "Quería quitar las aplicaciones que Android no me deja borrar. Así que le pedí a la IA mi propio desinstalador: en media hora lo tenía",
-      "resumen": "Cada vez que compro un móvil, o analizo uno, este viene con un buen montón de aplicaciones que no necesito. La primera configuración suele ser larga, porque me dedico a iniciar sesiones, ordenar los escritorios y siempre",
-      "enlace": "https://www.xataka.com/robotica-e-ia/queria-quitar-aplicaciones-que-android-no-me-deja-borrar-asi-que-le-pedi-a-ia-mi-propio-desinstalador-media-hora-tenia",
-      "medio": "Xataka",
-      "fecha": "2026-11-09T16:31:07Z"
-    },
-    {
-      "titulo": "Coprocesado de contrabando de Super Micro se declara culpable de enviar chips de inteligencia artificial a China — el corredor admite haber violado las normas d",
-      "resumen": "Ting-Wei \"Willy\" Sun (un intermediario vinculado a Super Micro) ha reconocido su participación en una trama para enviar servidores con chips de Nvidia a China ignorando las restricciones que Estados Unidos impone a la ex",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/coprocesado-contrabando-super-micro-se-declara-culpable-enviar-chips-inteligencia-artificial-a-china-corredor-admite-haber-violado-normas-control-exportaciones-cofundador-empresa-niega-cargos",
-      "medio": "Genbeta",
-      "fecha": "2026-11-09T16:01:07Z"
-    },
-    {
-      "titulo": "El empleo en programación y consultoría informática marca máximo histórico en la EPA: por ahora no llega la temida caída por la IA",
-      "resumen": "Que la IA va a suponer un cambio de paradigma en el mercado laboral a nivel global no es ningún secreto. Distintos estudios apuntan a que se producirá un desplazamiento masivo de puestos de trabajo (no siempre una destru",
-      "enlace": "https://www.xataka.com/empresas-y-economia/empleo-programacion-consultoria-informatica-marca-maximo-historico-epa-ahora-no-llega-temida-caida-ia",
-      "medio": "Xataka",
-      "fecha": "2026-11-09T14:31:05Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
+      "resumen": "Mark Zuckerberg tiene claro que las gafas inteligentes son el nuevo ‘smartphone’. A pesar de la gran acogida de las Meta Glasses estos años y al gran avance de la IA generativa, todavía no estamos en ese punto. Lo que sí",
+      "enlace": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
+      "medio": "Xataka",
+      "fecha": "2026-11-13T11:57:28Z"
+    },
     {
       "titulo": "El presidente de Microsoft pide más regulación para la IA: \"Cada envase de leche\" está sujeto a más normas de seguridad",
       "resumen": "Brad Smith, presidente de Microsoft y vicepresidente de su consejo de administración, cree que la inteligencia artificial necesita reglas globales que permitan mantenerla bajo control. En una entrevista con la BBC, el di",
@@ -226,13 +233,6 @@
       "enlace": "https://www.computing.es/sostenibilidad/solo-el-13-de-las-empresas-espanolas-controla-el-consumo-energetico-asociado-a-la-ia/",
       "medio": "Computing.es",
       "fecha": "2026-10-30T13:05:10Z"
-    },
-    {
-      "titulo": "España va por delante en adopción de IA, pero tiene menos gobernanza y visibilidad, según Red Hat",
-      "resumen": "La mayoría de los CIO españoles encuestados (85 %) por Red Hat confía en que sus agentes de IA operan de forma segura, sin embargo, solo el 30 % puede determinar con exactitud dónde se almacenan y procesan los datos L'ar",
-      "enlace": "https://www.computing.es/noticias/espana-va-por-delante-en-adopcion-de-ia-pero-tiene-menos-gobernanza-y-visibilidad-segun-red-hat/",
-      "medio": "Computing.es",
-      "fecha": "2026-10-28T10:47:42Z"
     },
     {
       "titulo": "Tras hablar con Trump, la posición de Jensen Huang sobre regular la IA es clarísima: \"No necesitamos nuevas leyes\"",
