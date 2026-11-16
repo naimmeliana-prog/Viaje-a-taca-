@@ -1,26 +1,89 @@
 {
-  "actualizado": "2026-11-14T02:53:47Z",
+  "actualizado": "2026-11-16T02:35:25Z",
   "novedades": [
+    {
+      "titulo": "Consultar dudas legales a la IA: para qué sirve, qué errores ya han llegado a los tribunales y cómo comprobarlo en el BOE",
+      "resumen": "Un tribunal español ya ha visto citas del Código Penal colombiano sacadas de ChatGPT. Para qué sirve la IA con dudas legales y cómo comprobarla en el BOE.La noticia Consultar dudas legales a la IA: para qué sirve, qué er",
+      "enlace": "https://wwwhatsnew.com/2026/11/16/consultar-dudas-legales-ia-chatgpt-boe-errores-abogados/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-15T23:00:00Z"
+    },
+    {
+      "titulo": "Alexa+ y Gemini en Google Home: qué cambia en los altavoces de casa, si están en España, cuánto cuestan y qué pasa con tus grabaciones",
+      "resumen": "Alexa+ y Gemini para Home ya hablan español, aún en acceso anticipado. Alexa+ irá con Prime; Gemini Live, desde 10 € al mes. Y tus grabaciones.La noticia Alexa+ y Gemini en Google Home: qué cambia en los altavoces de cas",
+      "enlace": "https://wwwhatsnew.com/2026/11/15/alexa-plus-gemini-google-home-espana-precio-privacidad/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-15T17:00:00Z"
+    },
+    {
+      "titulo": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
+      "resumen": "La escasez de memoria provocada por el auge de la IA es ya uno de los mayores problemas de suministro del sector tecnológico. Los precios se han disparado y los fabricantes prevén que se prolongue hasta, al menos, 2028. ",
+      "enlace": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
+      "medio": "Xataka",
+      "fecha": "2026-11-15T11:01:22Z"
+    },
+    {
+      "titulo": "La IA más rentable de 2027 no va a explicarnos nada. Solo nos dará respuestas como un 0,82 o un 0,16",
+      "resumen": "Ya hace casi cuatro años del momento ChatGPT. Ese día en que todo empezó a cambiar. En estos casi cuatro años hemos tendido a medir la IA por lo bien que habla. Si escribe como una persona, si tiende a darnos la razón y ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
+      "medio": "Xataka",
+      "fecha": "2026-11-15T10:01:25Z"
+    },
+    {
+      "titulo": "Noruega usa más de 3.500 robots con IA y láser para cazar los piojos del salmón uno a uno",
+      "resumen": "Noruega usa más de 3.500 robots con IA y láser para eliminar los piojos del salmón uno a uno. La eficacia se apoya sobre todo en el fabricante.La noticia Noruega usa más de 3.500 robots con IA y láser para cazar los pioj",
+      "enlace": "https://wwwhatsnew.com/2026/11/15/noruega-robots-ia-laser-piojos-salmon-stingray/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-15T09:00:00Z"
+    },
+    {
+      "titulo": "La IA rebaja la barrera del ransomware: ya no hacen falta conocimientos técnicos para montar un ataque",
+      "resumen": "La IA rebaja la barrera del ransomware: personas sin conocimientos técnicos ya pueden lanzar ataques. Los expertos matizan: acelera, pero no lo reinventa.La noticia La IA rebaja la barrera del ransomware: ya no hacen fal",
+      "enlace": "https://wwwhatsnew.com/2026/11/15/ia-rebaja-barrera-ransomware-sin-conocimientos-tecnicos/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-15T05:00:00Z"
+    },
+    {
+      "titulo": "Adobe enseña en MAX Sneaks diez proyectos de IA que apuntan a su próximo Photoshop y Premiere",
+      "resumen": "Adobe presenta en MAX Sneaks diez proyectos de IA para vídeo, sonido e imagen y abre un Labs Playground para probarlos. Son prototipos, no productos.La noticia Adobe enseña en MAX Sneaks diez proyectos de IA que apuntan ",
+      "enlace": "https://wwwhatsnew.com/2026/11/15/adobe-max-sneaks-2026-proyectos-ia-labs-playground/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-14T23:00:00Z"
+    },
+    {
+      "titulo": "Noruega tiene 3.500 robots con IA armados con láser cazando piojos en sus granjas de salmón",
+      "resumen": "Aunque en el sur de Europa no lo hayamos visto tan claro con nuestros propios ojos como en las granjas de cerdos y pollos que hay aquí o las bateas de los mejillones, buena parte del salmón que llega a nuestros platos pr",
+      "enlace": "https://www.xataka.com/ecologia-y-naturaleza/noruega-tiene-3-500-robots-ia-armados-laser-cazando-piojos-sus-granjas-salmon",
+      "medio": "Xataka",
+      "fecha": "2026-11-14T13:01:28Z"
+    },
+    {
+      "titulo": "Muse, el agente de Meta, ya puede llamar por teléfono a negocios de EE. UU. por ti (si pagas)",
+      "resumen": "Muse, el agente de IA de Meta, ya llama por teléfono a negocios de EE. UU. por ti si eres suscriptor de pago. Arranca en 20 dólares al mes.La noticia Muse, el agente de Meta, ya puede llamar por teléfono a negocios de EE",
+      "enlace": "https://wwwhatsnew.com/2026/11/14/meta-muse-llamadas-telefonicas-negocios-eeuu-pago/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-14T13:00:00Z"
+    },
+    {
+      "titulo": "Gemini se conecta a tu Google Wallet para leer tus gastos y ayudarte con el presupuesto (de momento, solo en EE. UU.)",
+      "resumen": "Gemini se conecta a Google Wallet para leer tus gastos, hacer gráficos y ayudarte con el presupuesto. Es opt-in, solo lectura y arranca solo en EE. UU.La noticia Gemini se conecta a tu Google Wallet para leer tus gastos ",
+      "enlace": "https://wwwhatsnew.com/2026/11/14/gemini-google-wallet-gastos-presupuesto-personal-intelligence/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-14T09:00:00Z"
+    },
+    {
+      "titulo": "OpenAI lanza ChatGPT Wallet para que sus agentes compren y paguen por ti con tu visto bueno",
+      "resumen": "OpenAI lanza ChatGPT Wallet: sus agentes compran por ti, pero apruebas cada pago con Face ID o huella. Solo en EE. UU. y para suscriptores Pro.La noticia OpenAI lanza ChatGPT Wallet para que sus agentes compren y paguen ",
+      "enlace": "https://wwwhatsnew.com/2026/11/14/openai-chatgpt-wallet-agentes-compras-pago/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-14T07:00:00Z"
+    },
     {
       "titulo": "CEO de Microsoft, Satya Nadella: \"Tenemos que hacer algo útil con la IA, o rápidamente perderemos el permiso social\" — desafiando a los pioneros de la IA a mejo",
       "resumen": "Microsoft lleva años apostando por la IA invirtiendo grandes sumas de dinero en su desarrollo y llevando herramientas como Copilot a sus productos. Sin embargo, Satya Nadella (CEO de la compañía) reconoce que toda esta a",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/ceo-microsoft-satya-nadella-tenemos-que-hacer-algo-util-ia-rapidamente-perderemos-permiso-social-desafiando-a-pioneros-ia-a-mejorar-su-desempeno",
       "medio": "Genbeta",
       "fecha": "2026-11-13T19:01:21Z"
-    },
-    {
-      "titulo": "Crear el logo de tu negocio con IA: qué puedes hacer, cuándo se parece demasiado a otra marca y si puedes registrarlo en la OEPM o la EUIPO",
-      "resumen": "Un logo hecho con IA puede registrarse como marca, pero la OEPM no te avisa si se parece a otra. Qué dice la ley y cómo comprobarlo antes.La noticia Crear el logo de tu negocio con IA: qué puedes hacer, cuándo se parece ",
-      "enlace": "https://wwwhatsnew.com/2026/11/13/logo-negocio-con-ia-registrar-marca-oepm-euipo/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-13T18:00:00Z"
-    },
-    {
-      "titulo": "Buscar con IA o con un buscador de toda la vida: cuándo conviene ChatGPT, Perplexity, el Modo IA de Google o una búsqueda normal",
-      "resumen": "ChatGPT, Perplexity y el Modo IA de Google, frente a la búsqueda de siempre. Un estudio halló errores en más del 60 % de sus citas: cómo comprobarlas.La noticia Buscar con IA o con un buscador de toda la vida: cuándo con",
-      "enlace": "https://wwwhatsnew.com/2026/11/13/buscar-con-ia-o-buscador-clasico-chatgpt-perplexity-modo-ia-google/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-13T14:00:00Z"
     },
     {
       "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
@@ -65,32 +128,11 @@
       "fecha": "2026-11-13T08:45:00Z"
     },
     {
-      "titulo": "Claude entra en las videollamadas de Google Meet y estrena pizarras y hojas de cálculo",
-      "resumen": "Anthropic lanza Claude Meetings: Claude se une a Google Meet como un participante que redacta planes y tareas. Estrena también Whiteboards y Sheets.La noticia Claude entra en las videollamadas de Google Meet y estrena pi",
-      "enlace": "https://wwwhatsnew.com/2026/11/13/claude-meetings-google-meet-whiteboards-sheets/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-13T01:00:00Z"
-    },
-    {
-      "titulo": "DeepMind presenta AlphaGenome 2, una IA que predice cómo un cambio en el ADN afecta a cada tipo de célula",
-      "resumen": "DeepMind presenta AlphaGenome 2, una IA que predice cómo un cambio en el ADN afecta a cada tipo de célula, para entender enfermedades y tratamientos.La noticia DeepMind presenta AlphaGenome 2, una IA que predice cómo un ",
-      "enlace": "https://wwwhatsnew.com/2026/11/12/deepmind-alphagenome-2-adn-tipos-celula/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-12T20:00:00Z"
-    },
-    {
       "titulo": "Verificar el código de Signal era un reto que llevaba años de trabajo de expertos. DeepMind dice que su IA lo ha hecho en un mes",
       "resumen": "Google DeepMind dice que sus agentes de IA han demostrado matemáticamente que partes clave del código que está detrás del protocolo de cifrado de Signal hacen lo que se supone que deben hacer. El protocolo protege las co",
       "enlace": "https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes",
       "medio": "Xataka",
       "fecha": "2026-11-12T18:01:23Z"
-    },
-    {
-      "titulo": "Google lanza Tabletop, espacios colaborativos donde el grupo crea sus propias mini-apps con IA",
-      "resumen": "Google presenta Tabletop, experimento de Labs para crear en grupo mini-apps de IA: itinerarios, encuestas, gastos. En EE. UU. por lista de espera.La noticia Google lanza Tabletop, espacios colaborativos donde el grupo cr",
-      "enlace": "https://wwwhatsnew.com/2026/11/12/google-tabletop-espacios-colaborativos-apps-ia/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-12T15:00:00Z"
     },
     {
       "titulo": "¿Cómo Jensen Huang, que proviene de una familia común, construyó el imperio de NVIDIA?",
@@ -121,13 +163,6 @@
       "fecha": "2026-11-12T08:59:49Z"
     },
     {
-      "titulo": "Una IA de DeepMind demuestra matemáticamente que el protocolo de Signal es seguro",
-      "resumen": "Una IA de Google DeepMind verifica formalmente la seguridad del protocolo de Signal en cuatro semanas con AlphaProof Code. Un hito de alcance limitado.La noticia Una IA de DeepMind demuestra matemáticamente que el protoc",
-      "enlace": "https://wwwhatsnew.com/2026/11/12/deepmind-verifica-formalmente-protocolo-signal/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-12T07:00:00Z"
-    },
-    {
       "titulo": "El trabajo de moda en ingeniería de software ya no es programar: es reunirse con el cliente para asegurarse de que la IA funcione",
       "resumen": "Lo que conocíamos tradicionalmente como ingeniero de software ahora es una etiqueta que abarca muchos más espacios que antes. Y es que ante el vertiginoso ritmo de la IA, es una posición que ya mira hacia direcciones muy",
       "enlace": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione",
@@ -156,20 +191,6 @@
       "fecha": "2026-11-11T07:01:50Z"
     },
     {
-      "titulo": "Anthropic ha descubierto lo que mi madre ya sabía: la IA cuida mejor las cosas cuando cree que son suyas",
-      "resumen": "No es que tuviese demasiadas cosas cuando era pequeño, en mi familia nos apretábamos el cinturón. Por eso cuidaba cada juguete como si fuera un tesoro, porque realmente era tal que así: si rompía algo, me quedaba sin jug",
-      "enlace": "https://www.xataka.com/robotica-e-ia/anthropic-ha-descubierto-que-mi-madre-sabia-cuidas-mejor-cosas-cuando-crees-que-tuyas-a-su-ia-le-pasa-codigo",
-      "medio": "Xataka",
-      "fecha": "2026-11-10T16:31:47Z"
-    },
-    {
-      "titulo": "Google tuvo el mejor modelo de IA durante trece días. Anthropic se lo quitó y la respuesta ha tardado 24 horas",
-      "resumen": "La guerra por conseguir el mejor modelo de IA es una pelea constante entre las grandes empresas que mueven el cotarro. Google es un peso pesado del segmento, por más que sus modelos hayan quedado ligeramente por detrás d",
-      "enlace": "https://www.xataka.com/robotica-e-ia/google-tuvo-mejor-modelo-ia-durante-trece-dias-anthropic-se-quito-respuesta-ha-tardado-24-horas",
-      "medio": "Xataka",
-      "fecha": "2026-11-10T16:01:49Z"
-    },
-    {
       "titulo": "Elon Musk dice que ahorrar a largo plazo es 'inútil' ya que espera un futuro de abundancia",
       "resumen": "Elon Musk ha vuelto a sacar el tema de ahorrar para el futuro. Escribió en X: “Con la llegada de la abundancia superinteligente, no tiene sentido ahorrar dinero para el futuro lejano”. Para que su argumento tenga sentido",
       "enlace": "https://www.genbeta.com/inteligencia-artificial/elon-musk-dice-que-ahorrar-a-largo-plazo-inutil-espera-futuro-abundancia",
@@ -184,32 +205,11 @@
       "fecha": "2026-11-10T15:01:50Z"
     },
     {
-      "titulo": "Pulsar “Sí, y no vuelvas a preguntar” en Claude Code parecía inofensivo. Ha acabado filtrando miles de contraseñas en GitHub",
-      "resumen": "Si en algo son característicos los modelos de IA generativa es en su persistencia preguntando. Porque no pueden terminar una intervención sin decirte: \"¿Quieres que haga algo más?\". Lo llevan en su ADN, los LLM son siste",
-      "enlace": "https://www.xataka.com/robotica-e-ia/pulsar-no-vuelvas-a-preguntar-claude-code-parecia-inofensivo-ha-acabado-filtrando-miles-contrasenas-github",
-      "medio": "Xataka",
-      "fecha": "2026-11-10T14:31:51Z"
-    },
-    {
       "titulo": "Apple ha hecho una concesión inédita con su IA en China: hacerla distinta a la del resto del mundo",
       "resumen": "Dos años y medio han pasado desde que se presentase Apple Intelligence. Se fue lanzando de forma paulatina a todo el mundo, salvo en China. Al gigante asiático no ha llegado todavía por una cuestión legal, pero está a pu",
       "enlace": "https://www.applesfera.com/apple-1/noticia-no-que-apple-intelligence-llegue-a-china-pronto-que-sera-totalmente-diferente-al-resto-mundo",
       "medio": "Applesfera",
       "fecha": "2026-11-10T13:00:00Z"
-    },
-    {
-      "titulo": "El creador de clones gratuitos de Adobe presenta replicaciones de Microsoft Office Excel, PowerPoint y Word de código abierto; herramientas de Autodesk y otros ",
-      "resumen": "Brandon Thomas llevaba unas semanas llamando la atención por desarrollar alternativas gratuitas a programas de Adobe como Photoshop, Illustrator o Premiere Pro utilizando la IA de Claude para escribir buena parte del cód",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/creador-clones-gratuitos-adobe-presenta-replicaciones-microsoft-office-excel-powerpoint-word-codigo-abierto-herramientas-autodesk-otros-servicios-basados-suscripcion-pueden-ser-proximos",
-      "medio": "Genbeta",
-      "fecha": "2026-11-10T12:01:49Z"
-    },
-    {
-      "titulo": "Anthropic presenta Claude Fable 5.2 y Mythos 5.2 para abordar problemas complejos de ciencia e ingeniería",
-      "resumen": "Anthropic ha anunciado el despliegue de Claude Fable 5.2 y Claude Mythos 5.2, dos versiones de una misma arquitectura orientadas a tareas técnicas de alta complejidad. Mientras la mayoría de los asistentes comerciales se",
-      "enlace": "https://blogthinkbig.com/claude-fable-mythos-5-2-anthropic",
-      "medio": "Think Big",
-      "fecha": "2026-11-10T10:39:16Z"
     }
   ],
   "etica": [
