@@ -1,6 +1,139 @@
 {
-  "actualizado": "2026-11-16T02:35:25Z",
+  "actualizado": "2026-11-18T04:04:22Z",
   "novedades": [
+    {
+      "titulo": "Gemini Notebook convierte tus apuntes y fuentes en sitios web interactivos con una sola frase",
+      "resumen": "Gemini Notebook convierte tus notas y fuentes en sitios web interactivos con solo pedírselo: tablas, líneas de tiempo o paneles, sin programar.La noticia Gemini Notebook convierte tus apuntes y fuentes en sitios web inte",
+      "enlace": "https://wwwhatsnew.com/2026/11/18/gemini-notebook-sitios-web-interactivos-fuentes/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-17T23:00:00Z"
+    },
+    {
+      "titulo": "Una IA mide el corazón en una resonancia en segundos y predice la supervivencia mejor que los especialistas",
+      "resumen": "Una IA mide el corazón en una resonancia en 2-3 segundos y predice la supervivencia algo mejor que los especialistas, en un estudio con 27.382 pacientes.La noticia Una IA mide el corazón en una resonancia en segundos y p",
+      "enlace": "https://wwwhatsnew.com/2026/11/17/ia-resonancia-cardiaca-segundos-supervivencia-especialistas/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-17T21:00:00Z"
+    },
+    {
+      "titulo": "Anthropic dice haber cruzado un umbral de seguridad ligado a que la IA acelere su propio desarrollo",
+      "resumen": "Anthropic, creadora de Claude, cruza un umbral de seguridad ligado a que la IA acelere su propio desarrollo. No es que se mejore sola: es una previsión.La noticia Anthropic dice haber cruzado un umbral de seguridad ligad",
+      "enlace": "https://wwwhatsnew.com/2026/11/17/anthropic-umbral-seguridad-automejora-ia/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-17T20:00:00Z"
+    },
+    {
+      "titulo": "Apple lanza una app de investigación para estudiar cómo usamos la IA en temas de salud",
+      "resumen": "Apple lanza en EE. UU. una app para estudiar cómo la gente usa la IA en salud, con respuestas de fuentes clínicas. Quiere reunir a 200.000 participantes.La noticia Apple lanza una app de investigación para estudiar cómo ",
+      "enlace": "https://wwwhatsnew.com/2026/11/17/apple-app-investigacion-ia-salud-estudio/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-17T19:00:00Z"
+    },
+    {
+      "titulo": "Pusieron a unos agentes de IA a jugar al Minecraft y crearon algo para lo que no estaban diseñadas: la burocracia",
+      "resumen": "La psicología del juego estudia cómo el acto de jugar influye en el desarrollo cognitivo, emocional, social y neurológico del ser humano. Por eso, el juego es uno de los entornos preferidos por los investigadores de IA p",
+      "enlace": "https://www.xataka.com/robotica-e-ia/pusieron-a-unos-agentes-ia-a-jugar-al-minecraft-crearon-algo-no-estaban-disenadas-burocracia",
+      "medio": "Xataka",
+      "fecha": "2026-11-17T17:01:22Z"
+    },
+    {
+      "titulo": "Gemini aprende 66 variantes regionales para sonar menos a robot y más a alguien de tu zona",
+      "resumen": "Gemini añade 66 variantes y acentos regionales a su voz para sonar más local: geordie, scouse, brummie y voces para India, Brasil, Indonesia y Corea.La noticia Gemini aprende 66 variantes regionales para sonar menos a ro",
+      "enlace": "https://wwwhatsnew.com/2026/11/17/gemini-66-variantes-regionales-acentos-voz/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-17T17:00:00Z"
+    },
+    {
+      "titulo": "He convertido una presentación en una web con Gemini Notebook. Solo tuve que pedírselo",
+      "resumen": "Los cuadernos de Gemini son una de las mejores funciones de la IA si necesitas trabajar sobre tus propios documentos. He usado Gemini Notebook (el antiguo NotebookLM, que Google rebautizó en julio) para documentos de est",
+      "enlace": "https://www.xataka.com/robotica-e-ia/he-convertido-presentacion-web-gemini-notebook-solo-tuve-que-pedirselo",
+      "medio": "Xataka",
+      "fecha": "2026-11-17T16:45:24Z"
+    },
+    {
+      "titulo": "Gonzalo (29 años), instalador de placas solares y empresario: \"Una instalación básica de 6 paneles cuesta unos 4.000 €\"",
+      "resumen": "Aunque instalar placas solares en tu casa parece una inversión difícil de asumir, sobre todo si nunca has pedido un presupuesto y no sabes cuánto tendrás que gastar, lo cierto es que el precio de una instalación básica e",
+      "enlace": "https://www.genbeta.com/actualidad/gonzalo-29-anos-instalador-placas-solares-empresario-instalacion-basica-6-paneles-cuesta-unos-4-000-eur",
+      "medio": "Genbeta",
+      "fecha": "2026-11-17T16:01:22Z"
+    },
+    {
+      "titulo": "La IA de Apple tendrá un tope diario gratis, y quien quiera más deberá pagar",
+      "resumen": "Pedirle a Siri que ponga un temporizador va a seguir siendo gratis, igual que encender las luces o preguntarle el tiempo. Que genere decenas de imágenes o analice varios documentos PDF... ya será otra historia. En la bet",
+      "enlace": "https://www.applesfera.com/servicios-apple/ia-apple-tendra-tope-diario-gratis-quien-quiera-debera-pagar",
+      "medio": "Applesfera",
+      "fecha": "2026-11-17T16:01:22Z"
+    },
+    {
+      "titulo": "Nvidia es el Super Glue de la industria de la IA. Sin Huang al frente, temen que sea pegamento de barra",
+      "resumen": "Nvidia no sólo vende los chips con los que se entrena la IA. Estos últimos años, y gracias a un muy buen ojo por parte de su&nbsp;exCEO Jensen Huang para adelantarse al futuro, la compañía ha avalado, comprado capacidad ",
+      "enlace": "https://www.xataka.com/empresas-y-economia/nvidia-super-glue-industria-ia-huang-al-frente-temen-que-sea-pegamento-barra",
+      "medio": "Xataka",
+      "fecha": "2026-11-17T15:31:21Z"
+    },
+    {
+      "titulo": "Los robots humanoides de Xiaomi trabajan un turno completo de ocho horas en su fábrica de coches eléctricos",
+      "resumen": "Xiaomi ha publicado un vídeo en X en el que dos de sus robots humanoides cubren un turno de ocho horas en su fábrica de coches eléctricos, clasificando los embellecedores laterales de la consola central. Según la compañí",
+      "enlace": "https://www.genbeta.com/actualidad/robots-humanoides-xiaomi-trabajan-turno-completo-ocho-horas-su-fabrica-coches-electricos",
+      "medio": "Genbeta",
+      "fecha": "2026-11-17T13:01:27Z"
+    },
+    {
+      "titulo": "Alguien ha creado un modelo de IA que cabe en un disquete y funciona en un 486 con MS-DOS. Lo ha programado otra IA",
+      "resumen": "Lo de ejecutar modelos de lenguaje en local es una cosa; hacerlo en un hardware antiquísimo es otra completamente distinta y muchos aficionados lo han convertido prácticamente en un deporte. Un usuario de Reddit compartí",
+      "enlace": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-modelo-ia-que-disquete-funciona-486-ms-dos-ha-programado-otra-ia",
+      "medio": "Xataka",
+      "fecha": "2026-11-17T13:01:26Z"
+    },
+    {
+      "titulo": "Redes neuronales artificiales: el motor de la inteligencia artificial",
+      "resumen": "Cada vez que un teléfono reconoce un rostro, una plataforma de streaming afina sus recomendaciones o un traductor automático interpreta modismos complejos, interviene la misma base tecnológica: las redes neuronales artif",
+      "enlace": "https://blogthinkbig.com/redes-neuronales-artificiales-que-son-usos",
+      "medio": "Think Big",
+      "fecha": "2026-11-17T11:51:47Z"
+    },
+    {
+      "titulo": "Google tiene una idea para que programar con IA gaste menos: que el modelo caro solo piense y el barato haga el trabajo",
+      "resumen": "Las herramientas de programación tienen un selector de modelos para elegir uno u otro según la tarea. ¿Un programa sencillo? Suele servir con lo más básico. Que, de rebote, es también lo más rápido y económico. ¿Quieres ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/google-tiene-idea-programar-ia-gaste-que-modelo-caro-solo-piense-barato-haga-trabajo",
+      "medio": "Xataka",
+      "fecha": "2026-11-17T08:01:25Z"
+    },
+    {
+      "titulo": "Fotos con IA para vender en Wallapop o Vinted: qué retoques se permiten y cuáles te pueden costar la venta",
+      "resumen": "Vinted prohíbe editar las fotos y Wallapop, las que no reflejan el producto real. Qué retoques con IA tienen sentido y cuáles acaban en devolución.La noticia Fotos con IA para vender en Wallapop o Vinted: qué retoques se",
+      "enlace": "https://wwwhatsnew.com/2026/11/17/fotos-producto-ia-wallapop-vinted-normas-imagenes/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-17T07:00:00Z"
+    },
+    {
+      "titulo": "MC MUTUAL incorpora una plataforma IA para definir su modelo de gobernanza",
+      "resumen": "La mutua colaboradora con la Seguridad Social desarrolla, con el apoyo de la consultora tecnológica SEIDOR, una plataforma basada en Azure AI de Microsoft L'articolo MC MUTUAL incorpora una plataforma IA para definir su ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/mc-mutual-incorpora-una-plataforma-ia-para-definir-su-modelo-de-gobernanza/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-16T15:26:15Z"
+    },
+    {
+      "titulo": "Mac Studio M5 Ultra (256 GB), análisis: un mes intentando encontrar los límites de una máquina casi sin límites",
+      "resumen": "Hay una pregunta obvia cuando uno se sienta delante del ordenador más caro y potente que jamás ha probado: ¿para qué quiere nadie pagar más de 16.000 euros por un Mac Studio con 256 GB de memoria unificada? La respuesta ",
+      "enlace": "https://www.xataka.com/analisis/mac-studio-m5-ultra-256-gb-analisis-review-caracteristicas-precio-especificaciones",
+      "medio": "Xataka",
+      "fecha": "2026-11-16T12:00:00Z"
+    },
+    {
+      "titulo": "Apple pretende que dejes de usar el iPhone para hacer cosas. Su nueva IA lo hará por ti, según las filtraciones",
+      "resumen": "Apple quiere que su IA deje de limitarse a responder preguntas mediante Siri AI (el cual no está disponible ni siquiera en la UE). Hace una semana se filtraban las prisas del CEO por acelerar los desarrollos y ahora se d",
+      "enlace": "https://www.applesfera.com/rumores/ia-agentica-inundara-iphone-mac-gafas-se-ha-filtrado-como-esta-disenando-apple",
+      "medio": "Applesfera",
+      "fecha": "2026-11-16T10:30:00Z"
+    },
+    {
+      "titulo": "ChatGPT ya genera y edita GIFs animados, y no necesitas pagar para probarlo",
+      "resumen": "ChatGPT ya genera y edita GIFs animados desde una frase o una foto con Images 2.6, gratis y sin suscripción. Puedes cambiar la velocidad y retocarlos.La noticia ChatGPT ya genera y edita GIFs animados, y no necesitas pag",
+      "enlace": "https://wwwhatsnew.com/2026/11/16/chatgpt-generar-editar-gifs-images-2-6/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-16T03:00:00Z"
+    },
     {
       "titulo": "Consultar dudas legales a la IA: para qué sirve, qué errores ya han llegado a los tribunales y cómo comprobarlo en el BOE",
       "resumen": "Un tribunal español ya ha visto citas del Código Penal colombiano sacadas de ChatGPT. Para qué sirve la IA con dudas legales y cómo comprobarla en el BOE.La noticia Consultar dudas legales a la IA: para qué sirve, qué er",
@@ -16,18 +149,18 @@
       "fecha": "2026-11-15T17:00:00Z"
     },
     {
-      "titulo": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
+      "titulo": "La memoria se ha convertido en un drama para Nvidia y su plan para salir de Samsung tiene nombre: TSMC",
       "resumen": "La escasez de memoria provocada por el auge de la IA es ya uno de los mayores problemas de suministro del sector tecnológico. Los precios se han disparado y los fabricantes prevén que se prolongue hasta, al menos, 2028. ",
       "enlace": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
       "medio": "Xataka",
-      "fecha": "2026-11-15T11:01:22Z"
+      "fecha": "2026-11-15T11:00:00Z"
     },
     {
-      "titulo": "La IA más rentable de 2027 no va a explicarnos nada. Solo nos dará respuestas como un 0,82 o un 0,16",
+      "titulo": "La IA más rentable de 2027 no va a explicarnos nada, solo nos dará respuestas como un 0,82 o un 0,16",
       "resumen": "Ya hace casi cuatro años del momento ChatGPT. Ese día en que todo empezó a cambiar. En estos casi cuatro años hemos tendido a medir la IA por lo bien que habla. Si escribe como una persona, si tiende a darnos la razón y ",
       "enlace": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
       "medio": "Xataka",
-      "fecha": "2026-11-15T10:01:25Z"
+      "fecha": "2026-11-15T10:00:00Z"
     },
     {
       "titulo": "Noruega usa más de 3.500 robots con IA y láser para cazar los piojos del salmón uno a uno",
@@ -37,46 +170,11 @@
       "fecha": "2026-11-15T09:00:00Z"
     },
     {
-      "titulo": "La IA rebaja la barrera del ransomware: ya no hacen falta conocimientos técnicos para montar un ataque",
-      "resumen": "La IA rebaja la barrera del ransomware: personas sin conocimientos técnicos ya pueden lanzar ataques. Los expertos matizan: acelera, pero no lo reinventa.La noticia La IA rebaja la barrera del ransomware: ya no hacen fal",
-      "enlace": "https://wwwhatsnew.com/2026/11/15/ia-rebaja-barrera-ransomware-sin-conocimientos-tecnicos/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-15T05:00:00Z"
-    },
-    {
-      "titulo": "Adobe enseña en MAX Sneaks diez proyectos de IA que apuntan a su próximo Photoshop y Premiere",
-      "resumen": "Adobe presenta en MAX Sneaks diez proyectos de IA para vídeo, sonido e imagen y abre un Labs Playground para probarlos. Son prototipos, no productos.La noticia Adobe enseña en MAX Sneaks diez proyectos de IA que apuntan ",
-      "enlace": "https://wwwhatsnew.com/2026/11/15/adobe-max-sneaks-2026-proyectos-ia-labs-playground/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-14T23:00:00Z"
-    },
-    {
       "titulo": "Noruega tiene 3.500 robots con IA armados con láser cazando piojos en sus granjas de salmón",
       "resumen": "Aunque en el sur de Europa no lo hayamos visto tan claro con nuestros propios ojos como en las granjas de cerdos y pollos que hay aquí o las bateas de los mejillones, buena parte del salmón que llega a nuestros platos pr",
       "enlace": "https://www.xataka.com/ecologia-y-naturaleza/noruega-tiene-3-500-robots-ia-armados-laser-cazando-piojos-sus-granjas-salmon",
       "medio": "Xataka",
       "fecha": "2026-11-14T13:01:28Z"
-    },
-    {
-      "titulo": "Muse, el agente de Meta, ya puede llamar por teléfono a negocios de EE. UU. por ti (si pagas)",
-      "resumen": "Muse, el agente de IA de Meta, ya llama por teléfono a negocios de EE. UU. por ti si eres suscriptor de pago. Arranca en 20 dólares al mes.La noticia Muse, el agente de Meta, ya puede llamar por teléfono a negocios de EE",
-      "enlace": "https://wwwhatsnew.com/2026/11/14/meta-muse-llamadas-telefonicas-negocios-eeuu-pago/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-14T13:00:00Z"
-    },
-    {
-      "titulo": "Gemini se conecta a tu Google Wallet para leer tus gastos y ayudarte con el presupuesto (de momento, solo en EE. UU.)",
-      "resumen": "Gemini se conecta a Google Wallet para leer tus gastos, hacer gráficos y ayudarte con el presupuesto. Es opt-in, solo lectura y arranca solo en EE. UU.La noticia Gemini se conecta a tu Google Wallet para leer tus gastos ",
-      "enlace": "https://wwwhatsnew.com/2026/11/14/gemini-google-wallet-gastos-presupuesto-personal-intelligence/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-14T09:00:00Z"
-    },
-    {
-      "titulo": "OpenAI lanza ChatGPT Wallet para que sus agentes compren y paguen por ti con tu visto bueno",
-      "resumen": "OpenAI lanza ChatGPT Wallet: sus agentes compran por ti, pero apruebas cada pago con Face ID o huella. Solo en EE. UU. y para suscriptores Pro.La noticia OpenAI lanza ChatGPT Wallet para que sus agentes compren y paguen ",
-      "enlace": "https://wwwhatsnew.com/2026/11/14/openai-chatgpt-wallet-agentes-compras-pago/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-14T07:00:00Z"
     },
     {
       "titulo": "CEO de Microsoft, Satya Nadella: \"Tenemos que hacer algo útil con la IA, o rápidamente perderemos el permiso social\" — desafiando a los pioneros de la IA a mejo",
@@ -93,32 +191,11 @@
       "fecha": "2026-11-13T11:57:28Z"
     },
     {
-      "titulo": "Google cree haber dado con el santo grial de la IA: Gemini 4 Hydrogen es rápido, bueno y (casi) barato",
-      "resumen": "Puede que la actualidad tecnológica esté centrada en Nvidia y Don Huang, pero, en segundo plano, la tensión por ganar la guerra de modelos sigue burbujeando. Si hace poco Google llevó su mejor LLM al público tras la sali",
-      "enlace": "https://www.xataka.com/robotica-e-ia/google-cree-haber-dado-santo-grial-ia-gemini-4-hydrogen-rapido-bueno-casi-barato",
-      "medio": "Xataka",
-      "fecha": "2026-11-13T11:31:27Z"
-    },
-    {
-      "titulo": "Claude también se cae en todo el mundo y se suma al caos de Outlook y Teams",
-      "resumen": "Actualización: el servicio de Claude se ha restablecido y funciona correctamente. Puede que en algunas regiones todavía existan problemas de funcionamiento.&nbsp; El asistente de inteligencia artificial de Anthropic, Cla",
-      "enlace": "https://www.xataka.com/seguridad/claude-tambien-se-cae-todo-mundo-se-suma-al-caos-outlook-teams",
-      "medio": "Xataka",
-      "fecha": "2026-11-13T10:22:00Z"
-    },
-    {
       "titulo": "Google jubila a Gemini 3.8 Flash y presenta Gemini 4 Hydrogen",
       "resumen": "Google ha reorganizado su catálogo de modelos de inteligencia artificial con un relevo directo en su gama de alta velocidad. Gemini 4 Hydrogen llega al mercado para sustituir a Gemini 3.8 Flash como la opción [&#8230;] G",
       "enlace": "https://blogthinkbig.com/google-presenta-gemini-4-hydrogen-relevo-gemini-3-8-flash",
       "medio": "Think Big",
       "fecha": "2026-11-13T10:12:36Z"
-    },
-    {
-      "titulo": "Ex de Rockstar sobre 'GTA VI' en PC gracias a la IA: \"Me preocuparía si fuera Rockstar\"",
-      "resumen": "'GTA VI' encamina la recta final del lanzamiento en PS5 y Xbox Series y ni Rockstar ni Take-Two han dado fecha ni ventana para una versión de PC. Excepto en casos como 'GTA V', Rockstar suele tardar unos siete meses en l",
-      "enlace": "https://www.xataka.com/videojuegos/ex-rockstar-gta-vi-pc-gracias-a-ia-me-preocuparia-fuera-rockstar",
-      "medio": "Xataka",
-      "fecha": "2026-11-13T10:01:28Z"
     },
     {
       "titulo": "De automatizar tareas a optimizar procesos, el verdadero reto de la IA",
@@ -128,91 +205,21 @@
       "fecha": "2026-11-13T08:45:00Z"
     },
     {
-      "titulo": "Verificar el código de Signal era un reto que llevaba años de trabajo de expertos. DeepMind dice que su IA lo ha hecho en un mes",
-      "resumen": "Google DeepMind dice que sus agentes de IA han demostrado matemáticamente que partes clave del código que está detrás del protocolo de cifrado de Signal hacen lo que se supone que deben hacer. El protocolo protege las co",
-      "enlace": "https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes",
-      "medio": "Xataka",
-      "fecha": "2026-11-12T18:01:23Z"
-    },
-    {
       "titulo": "¿Cómo Jensen Huang, que proviene de una familia común, construyó el imperio de NVIDIA?",
       "resumen": "Jensen Huang ha sido el director NVIDIA desde que la cofundó en 1993 hasta este mismo 2026, en el que ha tenido que dimitir tras su escándalo de su infidelidad con una supuesta espía. Pero en este tiempo, sus chips se ha",
       "enlace": "https://www.genbeta.com/actualidad/como-jensen-huang-que-proviene-familia-comun-construyo-imperio-nvidia",
       "medio": "Genbeta",
       "fecha": "2026-11-12T14:45:42Z"
-    },
-    {
-      "titulo": "Blue quiere que dejes el iPhone por un Android con un agente de IA dentro. La gran duda es cómo pagarlo",
-      "resumen": "El ecosistema de smartphones está suficientemente consolidado, es muy difícil que una nueva marca logre hacerse hueco. Pero eso no implica que los recién llegados dejen de intentarlo, sobre todo si se presentan con algo ",
-      "enlace": "https://www.xataka.com/telefono-movil/blue-quiere-que-dejes-iphone-android-agente-ia-dentro-gran-duda-como-pagarlo",
-      "medio": "Xataka",
-      "fecha": "2026-11-12T13:31:24Z"
-    },
-    {
-      "titulo": "Los 12 grandes riesgos de la IA y cómo gestionarlos",
-      "resumen": "¿Estamos preparados para afrontar los riesgos que implica la IA? L'articolo Los 12 grandes riesgos de la IA y cómo gestionarlos proviene da Computing.",
-      "enlace": "https://www.computing.es/inteligencia-artificial/cuales-son-los-riesgos-de-la-inteligencia-artificial/",
-      "medio": "Computing.es",
-      "fecha": "2026-11-12T09:37:25Z"
-    },
-    {
-      "titulo": "El retorno de la inversión en inteligencia artificial crece pero desciende la preparación organizativa ante los riesgos",
-      "resumen": "La brecha entre la adopción de la tecnología y la gestión de amenazas en las empresas L'articolo El retorno de la inversión en inteligencia artificial crece pero desciende la preparación organizativa ante los riesgos pro",
-      "enlace": "https://www.computing.es/noticias/el-retorno-de-la-inversion-en-inteligencia-artificial-crece-pero-desciende-la-preparacion-organizativa-ante-los-riesgos/",
-      "medio": "Computing.es",
-      "fecha": "2026-11-12T08:59:49Z"
-    },
-    {
-      "titulo": "El trabajo de moda en ingeniería de software ya no es programar: es reunirse con el cliente para asegurarse de que la IA funcione",
-      "resumen": "Lo que conocíamos tradicionalmente como ingeniero de software ahora es una etiqueta que abarca muchos más espacios que antes. Y es que ante el vertiginoso ritmo de la IA, es una posición que ya mira hacia direcciones muy",
-      "enlace": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione",
-      "medio": "Xataka",
-      "fecha": "2026-11-11T15:01:51Z"
-    },
-    {
-      "titulo": "Las entidades financieras aceleran la transición hacia la IA multiagente",
-      "resumen": "El 59% está realizando pruebas piloto o implementando sistemas de IA multiagente, aunque solo el 10 % ha logrado una orquestación a nivel corporativo L'articolo Las entidades financieras aceleran la transición hacia la I",
-      "enlace": "https://www.computing.es/inteligencia-artificial/las-entidades-financieras-aceleran-la-transicion-hacia-la-ia-multiagente/",
-      "medio": "Computing.es",
-      "fecha": "2026-11-11T12:30:29Z"
-    },
-    {
-      "titulo": "Argon y Carbon: estos son los nuevos modelos de IA de Google",
-      "resumen": "Google DeepMind ha presentado en un intervalo de apenas cuatro semanas dos desarrollos dentro de la generación Gemini 4: Argon y Carbon. Este movimiento responde a un cambio en el sector de la inteligencia artificial, [&",
-      "enlace": "https://blogthinkbig.com/argon-carbon-nuevos-modelos-ia-google",
-      "medio": "Think Big",
-      "fecha": "2026-11-11T11:43:22Z"
-    },
-    {
-      "titulo": "Los chips de Nvidia se acumulan en Hong Kong mientras China retiene la aprobación de importación",
-      "resumen": "Unos 600.000 chips H200 de Nvidia estarían en Hong Kong esperando poder entrar en China continental. Dos personas que conocen la situación indican que este es el número de chips acumulado allí mientras Pekín bloquea las ",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/chips-nvidia-se-acumulan-hong-kong-china-retiene-aprobacion-importacion",
-      "medio": "Genbeta",
-      "fecha": "2026-11-11T07:01:50Z"
-    },
-    {
-      "titulo": "Elon Musk dice que ahorrar a largo plazo es 'inútil' ya que espera un futuro de abundancia",
-      "resumen": "Elon Musk ha vuelto a sacar el tema de ahorrar para el futuro. Escribió en X: “Con la llegada de la abundancia superinteligente, no tiene sentido ahorrar dinero para el futuro lejano”. Para que su argumento tenga sentido",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/elon-musk-dice-que-ahorrar-a-largo-plazo-inutil-espera-futuro-abundancia",
-      "medio": "Genbeta",
-      "fecha": "2026-11-10T16:01:49Z"
-    },
-    {
-      "titulo": "Sabíamos que iba a llegar: Apple ya cobra por usar más su IA",
-      "resumen": "Casi todos los servicios de inteligencia artificial funcionan igual. Te dejan probarlos gratis hasta un límite y, si quieres más, toca pasar por caja. Apple Intelligence era la excepción, porque todas sus funciones han s",
-      "enlace": "https://www.applesfera.com/servicios-apple/sabiamos-que-iba-a-llegar-apple-cobra-usar-su-ia",
-      "medio": "Applesfera",
-      "fecha": "2026-11-10T15:01:50Z"
-    },
-    {
-      "titulo": "Apple ha hecho una concesión inédita con su IA en China: hacerla distinta a la del resto del mundo",
-      "resumen": "Dos años y medio han pasado desde que se presentase Apple Intelligence. Se fue lanzando de forma paulatina a todo el mundo, salvo en China. Al gigante asiático no ha llegado todavía por una cuestión legal, pero está a pu",
-      "enlace": "https://www.applesfera.com/apple-1/noticia-no-que-apple-intelligence-llegue-a-china-pronto-que-sera-totalmente-diferente-al-resto-mundo",
-      "medio": "Applesfera",
-      "fecha": "2026-11-10T13:00:00Z"
     }
   ],
   "etica": [
+    {
+      "titulo": "MC MUTUAL incorpora una plataforma IA para definir su modelo de gobernanza",
+      "resumen": "La mutua colaboradora con la Seguridad Social desarrolla, con el apoyo de la consultora tecnológica SEIDOR, una plataforma basada en Azure AI de Microsoft L'articolo MC MUTUAL incorpora una plataforma IA para definir su ",
+      "enlace": "https://www.computing.es/inteligencia-artificial/mc-mutual-incorpora-una-plataforma-ia-para-definir-su-modelo-de-gobernanza/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-16T15:26:15Z"
+    },
     {
       "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
       "resumen": "Mark Zuckerberg tiene claro que las gafas inteligentes son el nuevo ‘smartphone’. A pesar de la gran acogida de las Meta Glasses estos años y al gran avance de la IA generativa, todavía no estamos en ese punto. Lo que sí",
@@ -345,13 +352,6 @@
       "enlace": "https://www.xatakandroid.com/personalizacion/me-he-quedado-wrapped-youtube-gemini-este-fin-ano-no-tengo-solo-resumen-culpa-solo-mia",
       "medio": "Xataka Android",
       "fecha": "2025-12-15T10:00:00Z"
-    },
-    {
-      "titulo": "Un hacker encontró riesgos en una baliza V16 muy vendida, la Help Flash IoT. Vodafone y la empresa fabricante han aclarado qué pasa",
-      "resumen": "Con el propósito de \"lograr una mejor en cuanto la seguridad vial y la reducción de accidentes\", ha nacido el dispositivo V16 que a partir del 1 de enero va a reemplazar a los tradicionales triángulos de preseñalización ",
-      "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
-      "medio": "Genbeta",
-      "fecha": "2025-12-11T12:32:00Z"
     }
   ]
 }

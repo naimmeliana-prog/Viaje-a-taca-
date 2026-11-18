@@ -22372,7 +22372,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 5
+    "intentos_web": 6
   },
   {
     "nombre": "GPT-6 Cyber",
@@ -22708,7 +22708,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Seamcult",
@@ -22770,7 +22770,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "Quest",
@@ -23534,14 +23534,14 @@
     ],
     "etica": "El modelo prioriza la privacidad de los datos mediante el procesamiento local cuando es posible, pero los usuarios deben revisar los términos de Meta para garantizar el cumplimiento de normativas como el RGPD. Además, el bajo costo puede introducir sesgos si no se monitorea adecuadamente el rendimiento en diferentes idiomas.",
     "limite_gratis": "El nivel gratuito ofrece hasta 1.000 interacciones mensuales con soporte limitado para integración con APIs, mientras que los volúmenes superiores requieren una suscripción de pago.",
-    "web": "https://www.producthunt.com/products/meta-ai",
+    "web": "https://dev.meta.ai/models/muse-ember",
     "id": "muse-ember-by-meta-f64431",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-12",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "bonds chat",
@@ -23658,14 +23658,14 @@
     ],
     "etica": "Puede recopilar datos de interacción y comportamiento dentro de la aplicación, lo que requiere transparencia y consentimiento del usuario; sus respuestas podrían sesgar la experiencia si no se supervisan.",
     "limite_gratis": "El plan gratuito incluye un número limitado de usuarios guiados mensuales y funciones básicas de onboarding.",
-    "web": "https://www.producthunt.com/products/aven-app-agent",
+    "web": "https://www.avenappagent.com/",
     "id": "aven-app-agent-809448",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-14",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Paxper",
@@ -23727,7 +23727,7 @@
     "fecha_agregado": "2026-11-14",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "Pixel Office",
@@ -23735,7 +23735,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Entorno visual de estilo pixel‑art que permite crear, coordinar y ejecutar equipos de agentes de IA de forma colaborativa.",
-    "web": "https://pixeloffice.ai",
+    "web": "",
     "funciones": [
       "Gestión visual de agentes",
       "Ejecución de tareas colaborativas",
@@ -23757,7 +23757,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Tofu-1",
@@ -23765,7 +23766,7 @@
     "tipo": "Chatbot / Asistente",
     "precio": "Freemium",
     "descripcion": "Modelo de voz conversacional en tiempo real para llamadas telefónicas ruidosas y de alto riesgo, disponible en fase preliminar empresarial.",
-    "web": "https://bland.ai/tofu-1",
+    "web": "",
     "funciones": [
       "Reconocimiento de voz en entornos ruidosos",
       "Respuesta conversacional instantánea",
@@ -23787,7 +23788,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Rakazo",
@@ -23795,7 +23797,7 @@
     "tipo": "Modelo de IA",
     "precio": "Gratuito",
     "descripcion": "Alternativa open‑source a Grok que el usuario posee y controla completamente, sin depender de servidores externos.",
-    "web": "https://rakazo.dev",
+    "web": "https://rakazo.com/",
     "funciones": [
       "Ejecución local del modelo",
       "Personalización de pesos",
@@ -23817,7 +23819,8 @@
     "pago": false,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "OATs",
@@ -23825,7 +23828,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Gadgets E Ink que añaden personalidad a objetos cotidianos para fomentar hábitos saludables mediante interacción emocional.",
-    "web": "https://oats.cmu.edu",
+    "web": "https://oatsnote.com/",
     "funciones": [
       "Diseño E Ink personalizable",
       "Interacción basada en emociones",
@@ -23847,7 +23850,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Spiik",
@@ -23855,7 +23859,7 @@
     "tipo": "Productividad",
     "precio": "Gratuito",
     "descripcion": "Toma notas automáticas en reuniones y clases sin necesidad de un bot en la llamada, procesando audio localmente para máxima privacidad.",
-    "web": "https://spiik.app",
+    "web": "https://spiik.io/",
     "funciones": [
       "Transcripción automática en tiempo real",
       "Detección de temas y acciones",
@@ -23877,7 +23881,8 @@
     "pago": false,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Tulvo",
@@ -23885,7 +23890,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Plataforma unificada que organiza tareas, notas, proyectos y comunicaciones, usando IA para adaptarse al flujo de trabajo personal del usuario.",
-    "web": "https://tulvo.com",
+    "web": "",
     "funciones": [
       "Gestión integrada de tareas y proyectos",
       "Asistente de IA para priorización",
@@ -23907,7 +23912,8 @@
     "pago": true,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Vercel UI SDK",
@@ -23915,7 +23921,7 @@
     "tipo": "Generación de UI",
     "precio": "Gratuito",
     "descripcion": "Colección de más de 50 comportamientos de UI accesibles para React, Vue y Svelte que los agentes de codificación pueden componer para crear interfaces funcionales.",
-    "web": "https://ui-sdk.vercel.com",
+    "web": "",
     "funciones": [
       "Componentes UI reutilizables",
       "Accesibilidad incorporada",
@@ -23937,7 +23943,8 @@
     "pago": false,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "LongCat-2.5",
@@ -23945,7 +23952,7 @@
     "tipo": "Modelo de IA",
     "precio": "Gratuito",
     "descripcion": "Modelo de 1.6 billones de parámetros entrenado exclusivamente en hardware chino para tareas de agentes, con pesos abiertos para libre uso.",
-    "web": "https://github.com/meituan/longcat",
+    "web": "https://longcat.ai/",
     "funciones": [
       "Generación de respuestas de agente",
       "Fine‑tuning local",
@@ -23967,7 +23974,8 @@
     "pago": false,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
-    "pendiente_revision": false
+    "pendiente_revision": false,
+    "intentos_web": 1
   },
   {
     "nombre": "Perit Marketplace",
@@ -24029,7 +24037,7 @@
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "HiringNow",
@@ -24089,6 +24097,150 @@
     "gratis": true,
     "pago": false,
     "fecha_agregado": "2026-11-16",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "NVKE y NVKR",
+    "compania": "NVIDIA",
+    "tipo": "Infraestructura IA",
+    "precio": "Gratuito",
+    "descripcion": "Herramientas de código abierto de NVIDIA para orquestar clústeres de Kubernetes sobre GPU, optimizando la ejecución de cargas de trabajo de inteligencia artificial.",
+    "web": "https://developer.nvidia.com",
+    "funciones": [
+      "Orquestación de contenedores con GPU",
+      "Gestión de clústeres Kubernetes",
+      "Escalado de cargas de trabajo de IA",
+      "Despliegue de pipelines de MLOps"
+    ],
+    "caracteristicas": [
+      "Código abierto bajo licencia Apache 2.0",
+      "Optimizado para hardware NVIDIA GPU",
+      "Integración nativa con Kubernetes",
+      "Automatización de operaciones de infraestructura"
+    ],
+    "etica": "Al ser de código abierto, permite auditoría pública y evita el bloqueo de proveedores, aunque su despliegue requiere infraestructura propia con consumo energético asociado.",
+    "limite_gratis": "Al ser software de código abierto, su uso es gratuito pero requiere infraestructura y conocimientos técnicos propios para implementarlo.",
+    "id": "nvke-y-nvkr-5b5547",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-18",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Liquid d1.2",
+    "descripcion": "Modelos de decisión que devuelven probabilidades calibradas, diseñados para apoyar la toma de decisiones basada en datos bajo incertidumbre.",
+    "compania": "Liquid AI",
+    "tipo": "Modelos de decisión",
+    "precio": "Freemium",
+    "funciones": [
+      "Predicción de probabilidades calibradas",
+      "Evaluación de riesgos empresariales",
+      "Integración de decisiones en flujos de trabajo",
+      "Explicabilidad de resultados"
+    ],
+    "caracteristicas": [
+      "Salidas probabilísticas calibradas",
+      "Enfoque en toma de decisiones bajo incertidumbre",
+      "API para integración empresarial",
+      "Actualización continua de modelos"
+    ],
+    "etica": "Las probabilidades calibradas pueden mitigar sesgos en decisiones automatizadas, pero dependen de la calidad de los datos y requieren supervisión humana.",
+    "limite_gratis": "El plan gratuito ofrece un volumen limitado de predicciones mensuales y acceso a modelos básicos, con funciones avanzadas en planes de pago.",
+    "web": "https://www.liquid.ai/",
+    "id": "liquid-d1-2-11da08",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "AI Visibility by TruLata",
+    "descripcion": "Herramienta que permite verificar si modelos como ChatGPT mencionan tu empresa cuando compradores potenciales realizan consultas relacionadas con tu sector.",
+    "compania": "TruLata",
+    "tipo": "Visibilidad en IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Monitoreo de menciones de marca en IA",
+      "Análisis de visibilidad en respuestas de chatbots",
+      "Seguimiento de competidores en consultas de IA",
+      "Alertas de cambios en menciones"
+    ],
+    "caracteristicas": [
+      "Integración con modelos de lenguaje populares",
+      "Informes de visibilidad de marca",
+      "Detección de menciones positivas y negativas",
+      "Panel de métricas de presencia en IA"
+    ],
+    "etica": "Puede generar preocupaciones de privacidad al indexar respuestas de modelos de IA y depende de la transparencia de sus proveedores para operar de forma ética.",
+    "limite_gratis": "El plan gratuito permite consultas limitadas al mes para una sola marca, sin historial extendido ni alertas automáticas.",
+    "web": "https://www.producthunt.com/products/trulata",
+    "id": "ai-visibility-by-trulata-44576e",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "EkLine",
+    "descripcion": "Plataforma de SEO impulsada por IA diseñada específicamente para empresas de herramientas de desarrollo y productos API-first.",
+    "compania": "EkLine",
+    "tipo": "SEO y marketing de contenidos",
+    "precio": "Freemium",
+    "funciones": [
+      "Optimización de contenido técnico para motores de búsqueda",
+      "Investigación de palabras clave para desarrolladores",
+      "Auditoría SEO de documentación de API",
+      "Generación de metadatos técnicos"
+    ],
+    "caracteristicas": [
+      "Enfoque en productos API-first",
+      "Análisis de intención de búsqueda técnica",
+      "Integración con sitios de documentación",
+      "Recomendaciones de contenido automatizadas"
+    ],
+    "etica": "La generación automática de contenido SEO puede producir información genérica o inexacta sobre productos técnicos, por lo que se recomienda revisión humana experta.",
+    "limite_gratis": "El plan gratuito incluye auditorías limitadas y seguimiento de pocas palabras clave, con volumen y funciones avanzadas en planes de pago.",
+    "web": "https://ekline.io/",
+    "id": "ekline-136419",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "GatherHQ Agent Research",
+    "descripcion": "Agente de IA que realiza encuestas y estudios de mercado de forma autónoma en nombre del usuario, recopilando y analizando respuestas.",
+    "compania": "GatherHQ",
+    "tipo": "Agentes IA",
+    "precio": "Freemium",
+    "funciones": [
+      "Ejecución autónoma de encuestas",
+      "Recopilación de respuestas de participantes",
+      "Análisis de resultados de investigación",
+      "Generación de informes de mercado"
+    ],
+    "caracteristicas": [
+      "Agente conversacional para encuestas",
+      "Segmentación de audiencia automatizada",
+      "Integración con paneles de datos",
+      "Informes en lenguaje natural"
+    ],
+    "etica": "El uso de agentes para encuestas puede afectar la autenticidad de las respuestas y plantea cuestiones de consentimiento y privacidad de los participantes.",
+    "limite_gratis": "El plan gratuito permite un número reducido de encuestas y respuestas al mes, con análisis avanzado y volumen ilimitado en versiones de pago.",
+    "web": "https://www.producthunt.com/products/gatherhq-agent-research",
+    "id": "gatherhq-agent-research-1e6aa4",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-18",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
