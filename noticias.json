@@ -1,33 +1,117 @@
 {
-  "actualizado": "2026-11-18T04:04:22Z",
+  "actualizado": "2026-11-20T03:54:14Z",
   "novedades": [
     {
-      "titulo": "Gemini Notebook convierte tus apuntes y fuentes en sitios web interactivos con una sola frase",
-      "resumen": "Gemini Notebook convierte tus notas y fuentes en sitios web interactivos con solo pedírselo: tablas, líneas de tiempo o paneles, sin programar.La noticia Gemini Notebook convierte tus apuntes y fuentes en sitios web inte",
-      "enlace": "https://wwwhatsnew.com/2026/11/18/gemini-notebook-sitios-web-interactivos-fuentes/",
+      "titulo": "Anthropic debuta en el Nasdaq con la mayor salida a bolsa de la historia, y una paradoja de fondo",
+      "resumen": "Anthropic, creadora de Claude, debuta en el Nasdaq (ANT) con la mayor salida a bolsa de la historia: 83 $/acción y valoración de entre 1,5 y 2 billones.La noticia Anthropic debuta en el Nasdaq con la mayor salida a bolsa",
+      "enlace": "https://wwwhatsnew.com/2026/11/20/anthropic-ipo-nasdaq-mayor-salida-bolsa-historia/",
       "medio": "WWWhat's new",
-      "fecha": "2026-11-17T23:00:00Z"
+      "fecha": "2026-11-20T03:00:00Z"
     },
     {
-      "titulo": "Una IA mide el corazón en una resonancia en segundos y predice la supervivencia mejor que los especialistas",
-      "resumen": "Una IA mide el corazón en una resonancia en 2-3 segundos y predice la supervivencia algo mejor que los especialistas, en un estudio con 27.382 pacientes.La noticia Una IA mide el corazón en una resonancia en segundos y p",
-      "enlace": "https://wwwhatsnew.com/2026/11/17/ia-resonancia-cardiaca-segundos-supervivencia-especialistas/",
+      "titulo": "Google abre Genie 4 al público: ya se pueden crear y explorar mundos con IA desde el navegador",
+      "resumen": "Google abre Genie 4 en Project Genie: crea y explora mundos interactivos con audio desde el navegador. Primero para suscriptores de AI Ultra.La noticia Google abre Genie 4 al público: ya se pueden crear y explorar mundos",
+      "enlace": "https://wwwhatsnew.com/2026/11/20/google-genie-4-project-genie-mundos-ia-navegador/",
       "medio": "WWWhat's new",
-      "fecha": "2026-11-17T21:00:00Z"
+      "fecha": "2026-11-20T01:00:00Z"
     },
     {
-      "titulo": "Anthropic dice haber cruzado un umbral de seguridad ligado a que la IA acelere su propio desarrollo",
-      "resumen": "Anthropic, creadora de Claude, cruza un umbral de seguridad ligado a que la IA acelere su propio desarrollo. No es que se mejore sola: es una previsión.La noticia Anthropic dice haber cruzado un umbral de seguridad ligad",
-      "enlace": "https://wwwhatsnew.com/2026/11/17/anthropic-umbral-seguridad-automejora-ia/",
+      "titulo": "Una IA encuentra un fallo crítico en Java que se dispara escribiendo 64 letras «A» seguidas",
+      "resumen": "Una IA de OpenAI (GPT-6 Cyber) halla un fallo crítico en el descodificador base64 de Java que se dispara con 64 letras «A» y da control del sistema.La noticia Una IA encuentra un fallo crítico en Java que se dispara escr",
+      "enlace": "https://wwwhatsnew.com/2026/11/20/ia-vulnerabilidad-critica-java-base64-64-letras-a/",
       "medio": "WWWhat's new",
-      "fecha": "2026-11-17T20:00:00Z"
+      "fecha": "2026-11-19T23:00:00Z"
     },
     {
-      "titulo": "Apple lanza una app de investigación para estudiar cómo usamos la IA en temas de salud",
-      "resumen": "Apple lanza en EE. UU. una app para estudiar cómo la gente usa la IA en salud, con respuestas de fuentes clínicas. Quiere reunir a 200.000 participantes.La noticia Apple lanza una app de investigación para estudiar cómo ",
-      "enlace": "https://wwwhatsnew.com/2026/11/17/apple-app-investigacion-ia-salud-estudio/",
+      "titulo": "El Modo IA de Google estrena conversaciones temporales que no quedan en tu historial",
+      "resumen": "Google añade hilos temporales al Modo IA: conversaciones que no quedan en el historial. No aclara si se usan para entrenar ni cuánto se retienen.La noticia El Modo IA de Google estrena conversaciones temporales que no qu",
+      "enlace": "https://wwwhatsnew.com/2026/11/19/google-modo-ia-hilos-temporales-incognito-buscador/",
       "medio": "WWWhat's new",
-      "fecha": "2026-11-17T19:00:00Z"
+      "fecha": "2026-11-19T21:00:00Z"
+    },
+    {
+      "titulo": "La app de Gemini llega a los móviles Android con poca memoria, hasta ahora limitados a comandos de voz básicos",
+      "resumen": "Google rediseña la app de Gemini para móviles Android de poca memoria (Go): Gemini Live en 45+ idiomas, cámara e imágenes con Nano Banana.La noticia La app de Gemini llega a los móviles Android con poca memoria, hasta ah",
+      "enlace": "https://wwwhatsnew.com/2026/11/19/gemini-app-android-poca-memoria-go-gemini-live/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-19T20:00:00Z"
+    },
+    {
+      "titulo": "Gemini ya te deja ver y editar todo lo que recuerda sobre ti, línea por línea",
+      "resumen": "Gemini ya permite ver, editar y borrar lo que recuerda sobre ti desde Personal Intelligence. De momento, solo en EE. UU. y con plan de pago.La noticia Gemini ya te deja ver y editar todo lo que recuerda sobre ti, línea p",
+      "enlace": "https://wwwhatsnew.com/2026/11/19/gemini-ver-editar-memoria-recuerda-personal-intelligence/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-19T19:00:00Z"
+    },
+    {
+      "titulo": "Amazon y Google son accionistas, proveedores y canal de venta de Anthropic. Todo a la vez",
+      "resumen": "Anthropic sale por fin a bolsa en el Nasdaq, y su folleto de salida a bolsa, el S-1, ha puesto cifras a una relación muy peculiar. Amazon y Google... Son sus accionistas.También le venden la computación.Y también gestion",
+      "enlace": "https://www.xataka.com/empresas-y-economia/amazon-google-accionistas-proveedores-canal-venta-anthropic-todo-a-vez",
+      "medio": "Xataka",
+      "fecha": "2026-11-19T16:01:18Z"
+    },
+    {
+      "titulo": "Gemini 4 Neon: Google estrena el modelo que busca el punto medio entre potencia y coste",
+      "resumen": "Google lanza Gemini 4 Neon, el modelo intermedio entre Carbon e Hydrogen: 1M de tokens, 3 $/M de entrada y foco en coste por tarea, no en potencia.La noticia Gemini 4 Neon: Google estrena el modelo que busca el punto med",
+      "enlace": "https://wwwhatsnew.com/2026/11/19/gemini-4-neon-google-modelo-coste-benchmarks/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-19T16:00:00Z"
+    },
+    {
+      "titulo": "De la experimentación al impacto: El verdadero reto de adoptar la inteligencia artificial",
+      "resumen": "El verdadero desafío comienza después de su implantación: conseguir que la IA forme parte del trabajo cotidiano y genere un impacto tangible y sostenido en el negocio L'articolo De la experimentación al impacto: El verda",
+      "enlace": "https://www.computing.es/inteligencia-artificial/de-la-experimentacion-al-impacto-el-verdadero-reto-de-adoptar-la-inteligencia-artificial/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-19T12:32:11Z"
+    },
+    {
+      "titulo": "Por qué todo el mundo está obsesionado con la IA en local y por qué vas a oír hablar de ella en los próximos meses",
+      "resumen": "Si piensas en el uso habitual de la inteligencia artificial, muy probablemente te imaginas abriendo ChatGPT, entrando a Claude o usando cualquier otra herramienta que requiere de una conexión a internet. Todas ellas func",
+      "enlace": "https://blogthinkbig.com/ia-local-por-que-todo-el-mundo-esta-obsesionado-con-ella",
+      "medio": "Think Big",
+      "fecha": "2026-11-19T11:01:00Z"
+    },
+    {
+      "titulo": "Gemini 4 Neon jubila a su “abuelo”: el nieto hace casi lo mismo, tres veces más rápido y por menos dinero",
+      "resumen": "Que el ritmo no pare, como cantaría Patricia Manterola: tenemos nuevo modelo de IA peleando por hacerse con el pastel de los LLM de vanguardia. Y forma parte de la nueva familia Gemini 4: Neon se une a los ya estrenados ",
+      "enlace": "https://www.xataka.com/robotica-e-ia/google-quiere-que-gemini-4-neon-sea-tu-modelo-para-casi-todo-rapido-que-carbon-barato-tarea",
+      "medio": "Xataka",
+      "fecha": "2026-11-19T10:15:00Z"
+    },
+    {
+      "titulo": "Conectar ChatGPT, Claude o Gemini a Gmail, Google Drive u Outlook: qué permisos das, qué ve el chatbot y cómo revocar el acceso",
+      "resumen": "Conectar Gmail o Outlook a ChatGPT o Claude puede dar permiso para enviar correos en tu nombre. Qué ve cada chatbot, si entrena y cómo cortarlo.La noticia Conectar ChatGPT, Claude o Gemini a Gmail, Google Drive u Outlook",
+      "enlace": "https://wwwhatsnew.com/2026/11/19/conectar-chatgpt-claude-gemini-gmail-drive-outlook-permisos-revocar/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-19T03:00:00Z"
+    },
+    {
+      "titulo": "Usar la IA en la universidad sin hacer trampas: qué dicen la CRUE, la UNED, la EHU y la UGR, y por qué un detector no prueba nada",
+      "resumen": "No hay ley estatal: decide tu universidad. Qué permiten la UNED, la EHU y la UGR, cómo declarar la IA y por qué un detector no prueba nada.La noticia Usar la IA en la universidad sin hacer trampas: qué dicen la CRUE, la ",
+      "enlace": "https://wwwhatsnew.com/2026/11/18/ia-universidad-sin-trampas-guias-crue-declarar-detectores/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-18T21:00:00Z"
+    },
+    {
+      "titulo": "Ordenar tus finanzas personales con IA: presupuesto y gastos en una hoja de cálculo, los datos que no debes darle y por qué no es un asesor",
+      "resumen": "La IA clasifica gastos y monta presupuestos, pero la CNMV detectó cifras inventadas. Qué hoja darle, qué datos nunca y por qué no te asesora.La noticia Ordenar tus finanzas personales con IA: presupuesto y gastos en una ",
+      "enlace": "https://wwwhatsnew.com/2026/11/18/ia-finanzas-personales-presupuesto-hoja-calculo-datos/",
+      "medio": "WWWhat's new",
+      "fecha": "2026-11-18T17:00:00Z"
+    },
+    {
+      "titulo": "\"Aquí están los 4 trabajos que resistirán a la Inteligencia Artificial\". Las predicciones de Bill Gates y el plan de Microsoft.",
+      "resumen": "La inteligencia artificial va a cambiar bastante el mercado laboral, pero Bill Gates cree que hay terrenos en los que las personas seguirán siendo necesarias, y señala cuatro: la programación, la biología, la energía y e",
+      "enlace": "https://www.genbeta.com/inteligencia-artificial/aqui-estan-4-trabajos-que-resistiran-a-inteligencia-artificial-predicciones-bill-gates-plan-microsoft",
+      "medio": "Genbeta",
+      "fecha": "2026-11-18T15:01:15Z"
+    },
+    {
+      "titulo": "Los agentes de inteligencia artificial se convertirán en los nuevos riesgos internos de las empresas para 2027",
+      "resumen": "Durante su encuentro anual con la prensa, Check Point Software ha presentado sus nueve predicciones de ciberseguridad para 2027, alertando de que el uso de agentes de IA autónomos y la velocidad de los ataques redefinirá",
+      "enlace": "https://www.computing.es/seguridad/los-agentes-de-inteligencia-artificial-se-convertiran-en-los-nuevos-riesgos-internos-de-las-empresas-para-2027/",
+      "medio": "Computing.es",
+      "fecha": "2026-11-18T10:19:14Z"
     },
     {
       "titulo": "Pusieron a unos agentes de IA a jugar al Minecraft y crearon algo para lo que no estaban diseñadas: la burocracia",
@@ -35,13 +119,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/pusieron-a-unos-agentes-ia-a-jugar-al-minecraft-crearon-algo-no-estaban-disenadas-burocracia",
       "medio": "Xataka",
       "fecha": "2026-11-17T17:01:22Z"
-    },
-    {
-      "titulo": "Gemini aprende 66 variantes regionales para sonar menos a robot y más a alguien de tu zona",
-      "resumen": "Gemini añade 66 variantes y acentos regionales a su voz para sonar más local: geordie, scouse, brummie y voces para India, Brasil, Indonesia y Corea.La noticia Gemini aprende 66 variantes regionales para sonar menos a ro",
-      "enlace": "https://wwwhatsnew.com/2026/11/17/gemini-66-variantes-regionales-acentos-voz/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-17T17:00:00Z"
     },
     {
       "titulo": "He convertido una presentación en una web con Gemini Notebook. Solo tuve que pedírselo",
@@ -58,11 +135,11 @@
       "fecha": "2026-11-17T16:01:22Z"
     },
     {
-      "titulo": "La IA de Apple tendrá un tope diario gratis, y quien quiera más deberá pagar",
+      "titulo": "Se acabó la barra libre de la IA de Apple: llega un tope diario y quien quiera más tendrá que pagar",
       "resumen": "Pedirle a Siri que ponga un temporizador va a seguir siendo gratis, igual que encender las luces o preguntarle el tiempo. Que genere decenas de imágenes o analice varios documentos PDF... ya será otra historia. En la bet",
       "enlace": "https://www.applesfera.com/servicios-apple/ia-apple-tendra-tope-diario-gratis-quien-quiera-debera-pagar",
       "medio": "Applesfera",
-      "fecha": "2026-11-17T16:01:22Z"
+      "fecha": "2026-11-17T16:00:00Z"
     },
     {
       "titulo": "Nvidia es el Super Glue de la industria de la IA. Sin Huang al frente, temen que sea pegamento de barra",
@@ -100,13 +177,6 @@
       "fecha": "2026-11-17T08:01:25Z"
     },
     {
-      "titulo": "Fotos con IA para vender en Wallapop o Vinted: qué retoques se permiten y cuáles te pueden costar la venta",
-      "resumen": "Vinted prohíbe editar las fotos y Wallapop, las que no reflejan el producto real. Qué retoques con IA tienen sentido y cuáles acaban en devolución.La noticia Fotos con IA para vender en Wallapop o Vinted: qué retoques se",
-      "enlace": "https://wwwhatsnew.com/2026/11/17/fotos-producto-ia-wallapop-vinted-normas-imagenes/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-17T07:00:00Z"
-    },
-    {
       "titulo": "MC MUTUAL incorpora una plataforma IA para definir su modelo de gobernanza",
       "resumen": "La mutua colaboradora con la Seguridad Social desarrolla, con el apoyo de la consultora tecnológica SEIDOR, una plataforma basada en Azure AI de Microsoft L'articolo MC MUTUAL incorpora una plataforma IA para definir su ",
       "enlace": "https://www.computing.es/inteligencia-artificial/mc-mutual-incorpora-una-plataforma-ia-para-definir-su-modelo-de-gobernanza/",
@@ -128,27 +198,6 @@
       "fecha": "2026-11-16T10:30:00Z"
     },
     {
-      "titulo": "ChatGPT ya genera y edita GIFs animados, y no necesitas pagar para probarlo",
-      "resumen": "ChatGPT ya genera y edita GIFs animados desde una frase o una foto con Images 2.6, gratis y sin suscripción. Puedes cambiar la velocidad y retocarlos.La noticia ChatGPT ya genera y edita GIFs animados, y no necesitas pag",
-      "enlace": "https://wwwhatsnew.com/2026/11/16/chatgpt-generar-editar-gifs-images-2-6/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-16T03:00:00Z"
-    },
-    {
-      "titulo": "Consultar dudas legales a la IA: para qué sirve, qué errores ya han llegado a los tribunales y cómo comprobarlo en el BOE",
-      "resumen": "Un tribunal español ya ha visto citas del Código Penal colombiano sacadas de ChatGPT. Para qué sirve la IA con dudas legales y cómo comprobarla en el BOE.La noticia Consultar dudas legales a la IA: para qué sirve, qué er",
-      "enlace": "https://wwwhatsnew.com/2026/11/16/consultar-dudas-legales-ia-chatgpt-boe-errores-abogados/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-15T23:00:00Z"
-    },
-    {
-      "titulo": "Alexa+ y Gemini en Google Home: qué cambia en los altavoces de casa, si están en España, cuánto cuestan y qué pasa con tus grabaciones",
-      "resumen": "Alexa+ y Gemini para Home ya hablan español, aún en acceso anticipado. Alexa+ irá con Prime; Gemini Live, desde 10 € al mes. Y tus grabaciones.La noticia Alexa+ y Gemini en Google Home: qué cambia en los altavoces de cas",
-      "enlace": "https://wwwhatsnew.com/2026/11/15/alexa-plus-gemini-google-home-espana-precio-privacidad/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-15T17:00:00Z"
-    },
-    {
       "titulo": "La memoria se ha convertido en un drama para Nvidia y su plan para salir de Samsung tiene nombre: TSMC",
       "resumen": "La escasez de memoria provocada por el auge de la IA es ya uno de los mayores problemas de suministro del sector tecnológico. Los precios se han disparado y los fabricantes prevén que se prolongue hasta, al menos, 2028. ",
       "enlace": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
@@ -161,55 +210,6 @@
       "enlace": "https://www.xataka.com/robotica-e-ia/ia-rentable-2027-no-va-a-explicarnos-nada-solo-nos-dara-respuestas-como-0-82-0-16",
       "medio": "Xataka",
       "fecha": "2026-11-15T10:00:00Z"
-    },
-    {
-      "titulo": "Noruega usa más de 3.500 robots con IA y láser para cazar los piojos del salmón uno a uno",
-      "resumen": "Noruega usa más de 3.500 robots con IA y láser para eliminar los piojos del salmón uno a uno. La eficacia se apoya sobre todo en el fabricante.La noticia Noruega usa más de 3.500 robots con IA y láser para cazar los pioj",
-      "enlace": "https://wwwhatsnew.com/2026/11/15/noruega-robots-ia-laser-piojos-salmon-stingray/",
-      "medio": "WWWhat's new",
-      "fecha": "2026-11-15T09:00:00Z"
-    },
-    {
-      "titulo": "Noruega tiene 3.500 robots con IA armados con láser cazando piojos en sus granjas de salmón",
-      "resumen": "Aunque en el sur de Europa no lo hayamos visto tan claro con nuestros propios ojos como en las granjas de cerdos y pollos que hay aquí o las bateas de los mejillones, buena parte del salmón que llega a nuestros platos pr",
-      "enlace": "https://www.xataka.com/ecologia-y-naturaleza/noruega-tiene-3-500-robots-ia-armados-laser-cazando-piojos-sus-granjas-salmon",
-      "medio": "Xataka",
-      "fecha": "2026-11-14T13:01:28Z"
-    },
-    {
-      "titulo": "CEO de Microsoft, Satya Nadella: \"Tenemos que hacer algo útil con la IA, o rápidamente perderemos el permiso social\" — desafiando a los pioneros de la IA a mejo",
-      "resumen": "Microsoft lleva años apostando por la IA invirtiendo grandes sumas de dinero en su desarrollo y llevando herramientas como Copilot a sus productos. Sin embargo, Satya Nadella (CEO de la compañía) reconoce que toda esta a",
-      "enlace": "https://www.genbeta.com/inteligencia-artificial/ceo-microsoft-satya-nadella-tenemos-que-hacer-algo-util-ia-rapidamente-perderemos-permiso-social-desafiando-a-pioneros-ia-a-mejorar-su-desempeno",
-      "medio": "Genbeta",
-      "fecha": "2026-11-13T19:01:21Z"
-    },
-    {
-      "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
-      "resumen": "Mark Zuckerberg tiene claro que las gafas inteligentes son el nuevo ‘smartphone’. A pesar de la gran acogida de las Meta Glasses estos años y al gran avance de la IA generativa, todavía no estamos en ese punto. Lo que sí",
-      "enlace": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
-      "medio": "Xataka",
-      "fecha": "2026-11-13T11:57:28Z"
-    },
-    {
-      "titulo": "Google jubila a Gemini 3.8 Flash y presenta Gemini 4 Hydrogen",
-      "resumen": "Google ha reorganizado su catálogo de modelos de inteligencia artificial con un relevo directo en su gama de alta velocidad. Gemini 4 Hydrogen llega al mercado para sustituir a Gemini 3.8 Flash como la opción [&#8230;] G",
-      "enlace": "https://blogthinkbig.com/google-presenta-gemini-4-hydrogen-relevo-gemini-3-8-flash",
-      "medio": "Think Big",
-      "fecha": "2026-11-13T10:12:36Z"
-    },
-    {
-      "titulo": "De automatizar tareas a optimizar procesos, el verdadero reto de la IA",
-      "resumen": "Incorporar inteligencia artificial no debería ser un objetivo en sí mismo. Lo importante es identificar qué fricciones queremos eliminar, medir los resultados y comprobar que la mejora es real y sostenible L'articolo De ",
-      "enlace": "https://www.computing.es/inteligencia-artificial/de-automatizar-tareas-a-optimizar-procesos-el-verdadero-reto-de-la-ia/",
-      "medio": "Computing.es",
-      "fecha": "2026-11-13T08:45:00Z"
-    },
-    {
-      "titulo": "¿Cómo Jensen Huang, que proviene de una familia común, construyó el imperio de NVIDIA?",
-      "resumen": "Jensen Huang ha sido el director NVIDIA desde que la cofundó en 1993 hasta este mismo 2026, en el que ha tenido que dimitir tras su escándalo de su infidelidad con una supuesta espía. Pero en este tiempo, sus chips se ha",
-      "enlace": "https://www.genbeta.com/actualidad/como-jensen-huang-que-proviene-familia-comun-construyo-imperio-nvidia",
-      "medio": "Genbeta",
-      "fecha": "2026-11-12T14:45:42Z"
     }
   ],
   "etica": [
@@ -219,13 +219,6 @@
       "enlace": "https://www.computing.es/inteligencia-artificial/mc-mutual-incorpora-una-plataforma-ia-para-definir-su-modelo-de-gobernanza/",
       "medio": "Computing.es",
       "fecha": "2026-11-16T15:26:15Z"
-    },
-    {
-      "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
-      "resumen": "Mark Zuckerberg tiene claro que las gafas inteligentes son el nuevo ‘smartphone’. A pesar de la gran acogida de las Meta Glasses estos años y al gran avance de la IA generativa, todavía no estamos en ese punto. Lo que sí",
-      "enlace": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
-      "medio": "Xataka",
-      "fecha": "2026-11-13T11:57:28Z"
     },
     {
       "titulo": "El presidente de Microsoft pide más regulación para la IA: \"Cada envase de leche\" está sujeto a más normas de seguridad",
@@ -352,6 +345,13 @@
       "enlace": "https://www.xatakandroid.com/personalizacion/me-he-quedado-wrapped-youtube-gemini-este-fin-ano-no-tengo-solo-resumen-culpa-solo-mia",
       "medio": "Xataka Android",
       "fecha": "2025-12-15T10:00:00Z"
+    },
+    {
+      "titulo": "Un hacker encontró riesgos en una baliza V16 muy vendida, la Help Flash IoT. Vodafone y la empresa fabricante han aclarado qué pasa",
+      "resumen": "Con el propósito de \"lograr una mejor en cuanto la seguridad vial y la reducción de accidentes\", ha nacido el dispositivo V16 que a partir del 1 de enero va a reemplazar a los tradicionales triángulos de preseñalización ",
+      "enlace": "https://www.genbeta.com/actualidad/creadores-baliza-v16-dgt-que-vodafone-vende-responden-al-escandalo-privacidad-que-experto-ha-destapado",
+      "medio": "Genbeta",
+      "fecha": "2025-12-11T12:32:00Z"
     }
   ]
 }

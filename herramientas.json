@@ -22372,7 +22372,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 6
+    "intentos_web": 7
   },
   {
     "nombre": "GPT-6 Cyber",
@@ -22708,7 +22708,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "Seamcult",
@@ -22770,7 +22770,7 @@
     "fecha_agregado": "2026-11-06",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 7
+    "intentos_web": 8
   },
   {
     "nombre": "Quest",
@@ -23727,7 +23727,7 @@
     "fecha_agregado": "2026-11-14",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 3
+    "intentos_web": 4
   },
   {
     "nombre": "Pixel Office",
@@ -23735,7 +23735,7 @@
     "tipo": "Agentes IA",
     "precio": "Freemium",
     "descripcion": "Entorno visual de estilo pixel‑art que permite crear, coordinar y ejecutar equipos de agentes de IA de forma colaborativa.",
-    "web": "",
+    "web": "https://www.pixel-office.com/en",
     "funciones": [
       "Gestión visual de agentes",
       "Ejecución de tareas colaborativas",
@@ -23758,7 +23758,7 @@
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Tofu-1",
@@ -23789,7 +23789,7 @@
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Rakazo",
@@ -23890,7 +23890,7 @@
     "tipo": "Productividad",
     "precio": "Freemium",
     "descripcion": "Plataforma unificada que organiza tareas, notas, proyectos y comunicaciones, usando IA para adaptarse al flujo de trabajo personal del usuario.",
-    "web": "",
+    "web": "https://tulvo.io/",
     "funciones": [
       "Gestión integrada de tareas y proyectos",
       "Asistente de IA para priorización",
@@ -23913,7 +23913,7 @@
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "Vercel UI SDK",
@@ -23944,7 +23944,7 @@
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "LongCat-2.5",
@@ -24030,14 +24030,14 @@
     ],
     "etica": "Los datos de código pueden ser enviados a la nube; es importante asegurar que la información confidencial no se exponga y revisar sesgos en los algoritmos de detección.",
     "limite_gratis": "El plan gratuito permite hasta 5 búsquedas de código y 10 sugerencias diarias, con funcionalidades básicas y marcas de agua.",
-    "web": "https://www.producthunt.com/products/byteask-cloud-agents",
+    "web": "https://byteask.ai/product",
     "id": "byteask-cloud-agents-180439",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-16",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 2
+    "intentos_web": 3
   },
   {
     "nombre": "HiringNow",
@@ -24178,14 +24178,14 @@
     ],
     "etica": "Puede generar preocupaciones de privacidad al indexar respuestas de modelos de IA y depende de la transparencia de sus proveedores para operar de forma ética.",
     "limite_gratis": "El plan gratuito permite consultas limitadas al mes para una sola marca, sin historial extendido ni alertas automáticas.",
-    "web": "https://www.producthunt.com/products/trulata",
+    "web": "https://trulata.com/product/ai-visibility",
     "id": "ai-visibility-by-trulata-44576e",
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-18",
     "auto_detectado": true,
     "pendiente_revision": false,
-    "intentos_web": 1
+    "intentos_web": 2
   },
   {
     "nombre": "EkLine",
@@ -24241,6 +24241,338 @@
     "gratis": true,
     "pago": true,
     "fecha_agregado": "2026-11-18",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 2
+  },
+  {
+    "nombre": "CodeDesign v3",
+    "compania": "CodeDesign.ai",
+    "tipo": "Generación de código / Desarrollo web",
+    "precio": "Freemium",
+    "descripcion": "Permite crear, editar y desplegar sitios web y aplicaciones de negocio completas directamente desde ChatGPT o Claude usando lenguaje natural, sin salir de la interfaz del chat.",
+    "web": "https://codedesign.ai",
+    "funciones": [
+      "Generación de frontend y backend por lenguaje natural",
+      "Despliegue instantáneo con un clic",
+      "Integración nativa con ChatGPT y Claude",
+      "Gestión de bases de datos y autenticación",
+      "Edición iterativa de componentes vía chat"
+    ],
+    "caracteristicas": [
+      "Interfaz conversacional sin código",
+      "Sincronización bidireccional código-chat",
+      "Plantillas de aplicaciones de negocio (SaaS, dashboards)",
+      "Exportación de código limpio (React, Next.js)",
+      "Colaboración en tiempo real"
+    ],
+    "etica": "El código y los datos del proyecto se procesan a través de LLMs de terceros (OpenAI/Anthropic), lo que implica riesgos de privacidad si se manejan datos sensibles; se recomienda revisar políticas de retención de datos.",
+    "limite_gratis": "Plan gratuito limitado a 3 proyectos públicos y despliegues en subdominio CodeDesign con marca de agua.",
+    "id": "codedesign-v3-e21524",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "TestSprite 4.0",
+    "compania": "TestSprite",
+    "tipo": "Testing / QA / Agentes IA",
+    "precio": "Freemium",
+    "descripcion": "Agente de IA autónomo que realiza pruebas de regresión exhaustivas analizando cambios de código para detectar efectos secundarios ('arregla una cosa, rompe otra') sin intervención manual.",
+    "web": "https://testsprite.com",
+    "funciones": [
+      "Análisis automático de diffs y Pull Requests",
+      "Generación y ejecución de casos de prueba E2E",
+      "Detección de regresiones visuales y funcionales",
+      "Integración CI/CD (GitHub Actions, GitLab)",
+      "Informes de causa raíz con capturas de pantalla"
+    ],
+    "caracteristicas": [
+      "Agente autónomo sin scripts predefinidos",
+      "Comprensión del contexto de la aplicación",
+      "Soporte para aplicaciones web y móviles",
+      "Ejecución paralela en la nube",
+      "Interfaz de lenguaje natural para definir aserciones"
+    ],
+    "etica": "Requiere acceso al repositorio y ejecución de código en entornos de prueba; se debe garantizar el aislamiento de datos de producción y la no filtración de secretos en los logs de prueba.",
+    "limite_gratis": "Nivel gratuito con minutos de ejecución limitados al mes y repositorios privados restringidos.",
+    "id": "testsprite-4-0-2476ae",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ToolJet",
+    "compania": "ToolJet",
+    "tipo": "Low-code / No-code / Herramientas internas",
+    "precio": "Freemium",
+    "descripcion": "Framework extensible de código abierto para construir herramientas internas ('vibe-coded') combinando generación de código por IA con gobernanza empresarial (RBAC, auditoría, seguridad).",
+    "web": "https://tooljet.com",
+    "funciones": [
+      "Constructor visual drag-and-drop asistido por IA",
+      "Conexión a +50 fuentes de datos (DB, APIs)",
+      "Generación de componentes React personalizados",
+      "Control de acceso basado en roles (RBAC)",
+      "Logs de auditoría y versionado de aplicaciones"
+    ],
+    "caracteristicas": [
+      "Núcleo Open Source (AGPL) auto-hospedable",
+      "Modo 'Vibe Coding': lenguaje natural a UI funcional",
+      "Entorno de staging y producción nativo",
+      "Marketplace de plugins y plantillas",
+      "Cumplimiento SOC2 / HIPAA en cloud"
+    ],
+    "etica": "Al ser open source, permite auditoría total del código; la versión cloud gestiona datos sensibles, requiriendo confianza en su cifrado y cumplimiento normativo.",
+    "limite_gratis": "Versión Community (auto-hospedada) gratuita e ilimitada; plan Cloud gratuito limitado a 5 usuarios y 10 aplicaciones.",
+    "id": "tooljet-59cc52",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "ASTAR",
+    "compania": "ASTAR",
+    "tipo": "Plataforma educativa / Hosting IA",
+    "precio": "Gratuito",
+    "descripcion": "Plataforma en beta que ofrece alojamiento gratuito de repositorios, modelos y servicios de IA (incluyendo compute GPU) para que estudiantes y aprendices construyan y desplieguen proyectos sin barreras de coste.",
+    "web": "https://beta.astar.inc",
+    "funciones": [
+      "Hosting de repositorios Git integrados",
+      "Acceso a instancias GPU gratuitas (cuota limitada)",
+      "Despliegue de modelos como APIs (Inference endpoints)",
+      "Entorno de desarrollo web (Web IDE)",
+      "Plantillas de proyectos educativos (RAG, Fine-tuning)"
+    ],
+    "caracteristicas": [
+      "Enfoque 100% educativo y sin ánimo de lucro",
+      "Interfaz simplificada para principiantes",
+      "Comunidad integrada para soporte entre pares",
+      "Gestión de secretos y variables de entorno",
+      "Colaboración en tiempo real en notebooks"
+    ],
+    "etica": "Democratiza el acceso a hardware costoso; debe vigilar el uso indebido (minería, ataques) y proteger la privacidad de datos de menores de edad en entornos escolares.",
+    "limite_gratis": "Totalmente gratuito para uso educativo con cuotas de compute GPU y almacenamiento limitadas por proyecto/usuario.",
+    "id": "astar-363ab0",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "DaisyRose-27B",
+    "compania": "Investigación Open Source (Comunidad)",
+    "tipo": "Modelo de Lenguaje (LLM) / Código abierto",
+    "precio": "Gratuito",
+    "descripcion": "Modelo de 27B parámetros optimizado mediante técnicas avanzadas de post-entrenamiento (DPO/RLHF) para lograr alto rendimiento en razonamiento y código sin requerir pre-entrenamiento masivo desde cero.",
+    "web": "https://huggingface.co/DaisyRose-27B",
+    "funciones": [
+      "Generación de texto y código de alta calidad",
+      "Razonamiento complejo y seguimiento de instrucciones",
+      "Base para fine-tuning especializado eficiente",
+      "Chat multilenguaje y asistencia técnica",
+      "Inferencia local en hardware de consumo (cuantizado)"
+    ],
+    "caracteristicas": [
+      "Arquitectura eficiente (27B denso o MoE inferido)",
+      "Pesos abiertos (licencia permisiva tipo Apache 2.0/MIT)",
+      "Optimizado para preferencias humanas (Alignment)",
+      "Baja huella de VRAM con cuantización GGUF/GPTQ",
+      "Rendimiento competitivo vs modelos 70B+"
+    ],
+    "etica": "Al ser pesos abiertos, permite transparencia y auditoría de sesgos, pero hereda sesgos de datos de pre-entrenamiento; su facilidad de fine-tuning requiere mecanismos de seguridad contra mal uso.",
+    "limite_gratis": "Modelo completamente gratuito y abierto; el coste asociado es el hardware propio (GPU/RAM) o proveedor cloud para inferencia.",
+    "id": "daisyrose-27b-bc4915",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "MyMems",
+    "compania": "Gallium Studios",
+    "tipo": "Simulación / Entretenimiento / IA Generativa",
+    "precio": "Freemium",
+    "descripcion": "Nueva simulación social del creador de The Sims (Will Wright) que usa IA para extraer recuerdos personales del usuario y generar una simulación de vida única, narrativa y procedimental basada en su historia.",
+    "web": "https://mymems.com",
+    "funciones": [
+      "Entrevista conversacional para extraer recuerdos",
+      "Generación procedural de personajes y escenarios",
+      "Simulación de vida autónoma basada en memorias",
+      "Visualización de 'constelaciones' de memoria",
+      "Compartir y visitar simulaciones de otros usuarios"
+    ],
+    "caracteristicas": [
+      "Diseño de Will Wright (SimCity, The Sims, Spore)",
+      "Narrativa emergente impulsada por LLM",
+      "Interfaz tipo 'diario' o 'álbum de recuerdos'",
+      "Procesamiento local de datos sensibles (reclamado)",
+      "Estética artística distintiva, no fotorrealista"
+    ],
+    "etica": "Maneja datos extremadamente sensibles (recuerdos íntimos, trauma, familia); la privacidad 'local-first' es crítica, así como el consentimiento informado y el impacto psicológico de revivir memorias simuladas.",
+    "limite_gratis": "Descarga base gratuita con slots de memoria y profundidad de simulación limitados; suscripción para expansión ilimitada y funciones sociales.",
+    "id": "mymems-74da1c",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "PacketSnitch AI Tool Router",
+    "compania": "PacketSnitch (Proyecto Open Source)",
+    "tipo": "Agentes IA / Orquestación / Infraestructura",
+    "precio": "Gratuito",
+    "descripcion": "Router de herramientas IA ligero y auto-configurable que aprende a leer su propia documentación para enrutar peticiones de usuarios a la herramienta o función correcta sin configuración manual explícita.",
+    "web": "https://packetsnitch.com",
+    "funciones": [
+      "Enrutamiento semántico de peticiones a herramientas",
+      "Auto-descubrimiento de capacidades vía docs/OpenAPI",
+      "Gateway API unificado para múltiples agentes",
+      "Fallback y reintento inteligente",
+      "Observabilidad y logging de decisiones de enrutamiento"
+    ],
+    "caracteristicas": [
+      "Binario único ligero (Go/Rust), sin dependencias pesadas",
+      "Configuración cero: aprende de markdown/OpenAPI specs",
+      "Extensible via plugins WASM o HTTP",
+      "Diseñado para edge y entornos con recursos limitados",
+      "Licencia open source permisiva (MIT/Apache)"
+    ],
+    "etica": "Al enrutar automáticamente, puede exponer herramientas internas si la documentación no es precisa; requiere validación de seguridad en la cadena de suministro de herramientas registradas.",
+    "limite_gratis": "Completamente gratuito y open source; sin límites de uso, funciones ni usuarios (self-hosted).",
+    "id": "packetsnitch-ai-tool-router-728405",
+    "gratis": true,
+    "pago": false,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false
+  },
+  {
+    "nombre": "Fieldwork Code",
+    "descripcion": "Entorno de desarrollo impulsado por IA diseñado para móviles, permitiendo programar en el portátil local o en la nube (cloud GPUs) directamente desde el smartphone con interfaz táctil optimizada.",
+    "compania": "Fieldwork",
+    "tipo": "Asistente de programación / IDE Móvil / Desarrollo Remoto",
+    "precio": "Freemium",
+    "funciones": [
+      "Editor de código nativo para iOS/Android",
+      "Ejecución de código local (via app companion) o cloud",
+      "Autocompletado y chat IA contextual (Copilot-like)",
+      "Terminal integrado y gestión de Git",
+      "Sincronización de proyectos entre dispositivos"
+    ],
+    "caracteristicas": [
+      "UI/UX diseñada 'mobile-first' (gestos, teclado adaptado)",
+      "Acceso a GPUs cloud para builds/tests pesados",
+      "Modo offline-first para edición local",
+      "Integración con GitHub/GitLab nativa",
+      "Soporte multi-lenguaje (Python, JS/TS, Rust, Go)"
+    ],
+    "etica": "El código subido a la nube para ejecución remota implica riesgos de IP; la versión local mitiga esto. La recopilación de telemetría de uso en móvil debe ser transparente.",
+    "limite_gratis": "Uso local ilimitado gratis; tier gratuito incluye horas limitadas de compute cloud al mes.",
+    "web": "https://www.producthunt.com/products/fieldwork-code",
+    "id": "fieldwork-code-87f24f",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Tecla",
+    "descripcion": "Agente de IA proactivo cuya interfaz principal es una lista de tareas (TODO); no solo espera órdenes, sino que sugiere, planifica y ejecuta pasos (emails, código, búsquedas) para completar los ítems de la lista.",
+    "compania": "Tecla",
+    "tipo": "Agentes IA / Productividad / Gestión de tareas",
+    "precio": "Freemium",
+    "funciones": [
+      "Ejecución autónoma de tareas de la lista (TODO)",
+      "Integración con Gmail, Calendar, Slack, GitHub, Web",
+      "Planificación y descomposición de objetivos altos",
+      "Modo 'piloto automático' con confirmación opcional",
+      "Resumen diario y priorización inteligente"
+    ],
+    "caracteristicas": [
+      "Interfaz minimalista: solo una lista de tareas",
+      "Proactividad: sugiere tareas antes de que las pidas",
+      "Memoria a largo plazo de preferencias y contexto",
+      "Ejecución en segundo plano (background agents)",
+      "Control de permisos granular por herramienta"
+    ],
+    "etica": "Alto riesgo por autonomía y acceso amplio (email, calendario, código); requiere 'human-in-the-loop' estricto para acciones irreversibles y cifrado de credenciales (OAuth tokens).",
+    "limite_gratis": "Plan gratuito con número limitado de ejecuciones autónomas diarias y conectores restringidos.",
+    "web": "https://www.tecla.io/",
+    "id": "tecla-f4fae7",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Room AI",
+    "descripcion": "Asistente de diseño conversacional que permite rediseñar estancias paso a paso mediante lenguaje natural ('cambia el sofá por uno vintage'), generando renders fotorrealistas iterativos.",
+    "compania": "Room AI",
+    "tipo": "Diseño de interiores / Generación de imagen",
+    "precio": "Freemium",
+    "funciones": [
+      "Edición de habitaciones por instrucciones de chat",
+      "Detección y sustitución de muebles (inpainting)",
+      "Cambio de estilo, iluminación, color de paredes",
+      "Búsqueda y enlace a productos reales (compra)",
+      "Generación de planos 2D y vistas 360"
+    ],
+    "caracteristicas": [
+      "Interfaz 100% conversacional (chat), sin herramientas complejas",
+      "Edición iterativa 'una cambio a la vez' consistente",
+      "Catálogo integrado de muebles reales comprables",
+      "Preservación de estructura arquitectónica (ventanas/puertas)",
+      "Exportación en alta resolución para clientes/obras"
+    ],
+    "etica": "Uso de fotos de hogares privados (privacidad); sesgos en estilos sugeridos (estereotipos culturales/clase); propiedad intelectual de diseños generados vs datos de entrenamiento de muebles.",
+    "limite_gratis": "Nivel gratuito con renders limitados al día, marca de agua y resolución reducida; sin acceso a lista de compra de productos.",
+    "web": "https://www.producthunt.com/products/room-ai-2",
+    "id": "room-ai-322991",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
+    "auto_detectado": true,
+    "pendiente_revision": false,
+    "intentos_web": 1
+  },
+  {
+    "nombre": "Teaflask",
+    "descripcion": "Copiloto de IA que se integra en tu aplicación para asistir y automatizar tareas sin necesidad de modificar el backend. Aprende de forma continua del uso para mejorar sus respuestas y acciones dentro de la app.",
+    "compania": "Teaflask",
+    "tipo": "Asistente de programación",
+    "precio": "Freemium",
+    "funciones": [
+      "Integración de un copiloto de IA en la aplicación sin cambios de backend",
+      "Mejora continua mediante aprendizaje a partir del uso",
+      "Automatización de tareas y flujos dentro de la app",
+      "Asistencia contextual para usuarios y desarrolladores"
+    ],
+    "caracteristicas": [
+      "Integración ligera con aplicaciones existentes",
+      "Enfoque de autoaprendizaje",
+      "No requiere rehacer el backend",
+      "Orientado a equipos de producto y desarrollo"
+    ],
+    "etica": "Al operar dentro de la aplicación, puede tratar datos de uso y conversaciones, por lo que requiere políticas claras de privacidad y consentimiento. También conviene revisar posibles sesgos en las respuestas automatizadas y su impacto en la experiencia del usuario.",
+    "limite_gratis": "El plan gratuito suele permitir probar el copiloto con uso limitado y funciones básicas; las integraciones avanzadas y un mayor volumen de uso requieren pago.",
+    "web": "https://www.teaflask.com/",
+    "id": "teaflask-5812f9",
+    "gratis": true,
+    "pago": true,
+    "fecha_agregado": "2026-11-20",
     "auto_detectado": true,
     "pendiente_revision": false,
     "intentos_web": 1
